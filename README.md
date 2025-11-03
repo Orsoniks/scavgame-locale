@@ -21,10 +21,10 @@ Community localization of the game *Casualties: Unknown* by [Orsoniks](https://g
 | [Українська](Runtime/Locales/uk-UA) | 🔘 Mismatch | 0 | **1** | 0 | *no `credits.json` found* |
 | [简体中文](Runtime/Locales/zh-CN) | 🔘 Mismatch | 0 | **1** | 0 | [影月炎YUN](https://github.com/YUN2474), [月曦MONXI](https://github.com/martha-mana), [戈伦](https://github.com/Kedr2806) |
 
-Last updated on 03/11/2025, 20:30 UTC
+Last updated on 03/11/2025, 21:01 UTC
 
 **Legend**
-- 🔘 Mismatch (≥1 files incompatible with the game, check the [📄workflow report](https://github.com/clemtomera/scavgame-locale-fr/actions/runs/19048423254) for details)
+- 🔘 Mismatch (≥1 files incompatible with the game, check the [📄workflow report](https://github.com/clemtomera/scavgame-locale-fr/actions/runs/19049193093) for details)
 - 🟡 Partial (≥1 missing files compared to [`Runtime/Locales/en`](Runtime/Locales/en))
 - 🟢 Complete (Elements have the correct structure and can be imported in the game)
 
