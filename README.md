@@ -1,6 +1,6 @@
 # Casualties: Unknown Localization
 
-Community localization of the game **Casualties: Unknown** by [Orsoniks](https://github.com/Orsoniks)
+Community localization of the game *Casualties: Unknown* by [Orsoniks](https://github.com/Orsoniks)
 
 ## Locales
 
@@ -19,10 +19,10 @@ Community localization of the game **Casualties: Unknown** by [Orsoniks](https:/
 | [Русский](Runtime/Locales/ru-RU) | 🔘 Mismatch | 0 | **1** | 0 | [Tairel](https://github.com/Tairelol), [olv](https://github.com/Ol1vver), [Flam3masterr](https://github.com/Flam3masterr) |
 | [简体中文](Runtime/Locales/zh-CN) | 🔘 Mismatch | 0 | **1** | 0 | [影月炎YUN](https://github.com/YUN2474), [月曦MONXI](https://github.com/martha-mana), [戈伦](https://github.com/Kedr2806) |
 
-Last updated on 03/11/2025, 18:44 UTC
+Last updated on 03/11/2025, 18:47 UTC
 
 **Legend**
-- 🔘 Mismatch (≥1 files incompatible with the game, check the [📄workflow report](https://github.com/clemtomera/scavgame-locale-fr/actions/runs/19045632684) for details)
+- 🔘 Mismatch (≥1 files incompatible with the game, check the [📄workflow report](https://github.com/clemtomera/scavgame-locale-fr/actions/runs/19045720119) for details)
 - 🟡 Partial (≥1 missing files compared to [`Runtime/Locales/en`](Runtime/Locales/en))
 - 🟢 Complete (Elements have the correct structure and can be imported in the game)
 
