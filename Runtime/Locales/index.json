@@ -1,8 +1,23 @@
 {
   "completeLocales": [
+    "en"
   ],
   "validTextLocales": [
+    "en"
   ],
   "allLocales": [
+    "ar",
+    "be-BY",
+    "de-DE",
+    "en",
+    "es",
+    "fr-FR",
+    "kk-KZ",
+    "ko-KR",
+    "pl-PL",
+    "pt-BR",
+    "ro-RO",
+    "ru-RU",
+    "zh-CN"
   ]
 }
