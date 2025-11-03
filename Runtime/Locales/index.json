@@ -1,0 +1,33 @@
+{
+  "completeLocales": [
+    "cs-CZ",
+    "de-DE",
+    "en",
+    "fr-FR",
+    "pt-BR"
+  ],
+  "validTextLocales": [
+    "cs-CZ",
+    "de-DE",
+    "en",
+    "fr-FR",
+    "pt-BR"
+  ],
+  "allLocales": [
+    "ar",
+    "be-BY",
+    "cs-CZ",
+    "de-DE",
+    "en",
+    "es",
+    "fr-FR",
+    "kk-KZ",
+    "ko-KR",
+    "pl-PL",
+    "pt-BR",
+    "ro-RO",
+    "ru-RU",
+    "uk-UA",
+    "zh-CN"
+  ]
+}

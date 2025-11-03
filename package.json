@@ -1,0 +1,13 @@
+{
+  "name": "com.cucommunity.locales",
+  "displayName": "Locales (Shared)",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Shared localization assets and utilities consumable as a Unity package.",
+  "dependencies": {
+    "com.unity.localization": "1.6.3"
+  },
+  "author": {
+    "name": "c-u-community"
+  }
+}

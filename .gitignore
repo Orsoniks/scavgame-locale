@@ -1,2 +1,48 @@
-# Do not commit the following files
-.vscode/settings.json
+# -------------------------------------------------------
+# Node / TypeScript build artifacts
+# -------------------------------------------------------
+node_modules/
+dist/
+out/
+*.log
+*.tsbuildinfo
+
+# -------------------------------------------------------
+# IDE / Editor junk
+# -------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# -------------------------------------------------------
+# Reports & temporary analysis output
+# -------------------------------------------------------
+reports/
+coverage/
+tmp/
+temp/
+
+# -------------------------------------------------------
+# Environment / local configuration
+# -------------------------------------------------------
+.env
+.env.local
+.env.*.local
+
+# -------------------------------------------------------
+# OS / platform noise
+# -------------------------------------------------------
+ehthumbs.db
+desktop.ini
+
+# -------------------------------------------------------
+# Yarn / npm cache
+# -------------------------------------------------------
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
