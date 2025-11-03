@@ -1,0 +1,8 @@
+{
+  "paths": [
+    "**/*.bak.json",
+    "**/README*.md",
+    "**/notes/**",
+    "**/credits.json"
+  ]
+}
