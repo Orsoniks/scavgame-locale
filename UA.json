@@ -1,6 +1,6 @@
 {
   "name": "Українська",
-  "description": "Неофіційний українький переклад від <color=\"green\">Vladorion737</color>\nОновлений 16.12.2025, сумісний з версією гри Demo (V5 pre-testing 5).\nМоже містити помилки та неточності.\nПереклади на інші мови можна знайти за посиланням:\n(<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>)",
+  "description": "Неофіційний українький переклад від <color=\"green\">Vladorion737</color>\nОновлений 26.12.2025, сумісний з версією гри Demo (V5 pre-testing 5).\nМоже містити помилки та неточності.\nПереклади на інші мови можна знайти за посиланням:\n(<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>)\nОсоблива подяка <color=\"green\">nazarchen</color>, <color=\"green\">lfwb</color>, <color=\"green\">minio9</color>, <color=\"green\">maka2628_</color> та усій українській гілці діскорд серверу за підтримку та допомогу у розробці перекладу! <color=\"red\">♥</color>",
   "main": {
     "bandage": "Бинт",
     "bandagedsc": "Рулон перев'язувального матеріалу з бинтом, що використовується для зупинки кровотечі, стабілізації переломів і сприяє загоєнню шкіри. Не впливає на здоров'я м'язів.",
