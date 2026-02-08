@@ -504,6 +504,8 @@
         "flimsyknifedsc": "Un cuchillo pequeño, desafilado y quebradizo. Puede ser usado para crear objetos rudimentarios. Poca o nula utilidad en combate.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
         "craftingbottle": "Botella improvisada",
         "craftingbottledsc": "Una botella de un litro hecha de trozos y pedazos de materiales a tu alrededor. No puede usarse para agregar líquidos y desaparecerá cuando se vacía o transcurran unos pocos minutos. Será mejor transferir sus contenidos a otro recipiente antes de que desaparezca.",
+        "nondescriptcan": "Lata sin etiqueta",
+        "nondescriptcandsc": "Una insípida lata de... algo. No se parece ni huele a algo en particular. Tal vez sea útil, quizás no.",
         "canteen": "Cantimplora",
         "canteendsc": "Una botella pequeña y simple para almacenar líquidos, hecha con pedazos de plástico pegados y atados con una cuerda. Almacena hasta 300 ml.",
         "lcdscreen": "Pantalla LCD",
@@ -526,6 +528,8 @@
         "ryeflourdsc": "Un polvo que se usa principalmente para hacer productos horneados. Probablemente necesites algo de agua y una fuente de calor para cocinarlo apropiadamente.",
         "bread": "Pan",
         "breaddsc": "Una rodaja de pan hecha con harina y agua. La cosa más simple que puedes comer, aunque no es repulsivo y durará por mucho tiempo.",
+        "cake": "Pastel",
+        "cakedsc": "Un dulce pastel horneado con un poco de glaseado encima. Grande, llenador y delicioso, aunque el azucar lo hace un poco empalagoso si se come demasiado.",
         "pemmican": "Pemmican",
         "pemmicandsc": "Una mezcla de grasa, carne seca y frutas deshidratadas. Dura por mucho tiempo y tiene muchas calorías. Su sabor es neutro.",
         "torch": "Antorcha",
@@ -537,8 +541,8 @@
         "minibarrel": "Minibarril",
         "minibarreldsc": "Un barril pequeño e industrial hecho para almacenar líquidos. Extremadamente pesado e impráctico para usarse."
     },
-  "buildings": {
-    "animalcorpse": "Cadáver animal",
+    "buildings": {
+        "animalcorpse": "Cadáver animal",
     "animalcorpsedsc": "",
     "fungalibungali": "Fungali bungali",
     "fungalibungalidsc": "Un pequeño espacio de setas verdosas. Quizás puedas cosechar uno de los píleos con suerte.",
