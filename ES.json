@@ -1448,6 +1448,8 @@
         "cqheatsource": "Fuente de calor",
         "cqflammable": "Flamable",
         "cqflour": "Harina",
+        "cqfat": "Grasa",
+        "cqcondiment": "Condimentos",
         "handswitchtip": "Cambiar mano principal",
         "handswitchdsc": "Intercambia tu mano principal por tu derecha o izquierda\nÚsalo para cavar con tu segunda mano si la principal se ha roto\nTu brazo izquierdo es levemente más débil que tu derecha",
         "handswitchwarning": "<color=\"orange\">ADVERTENCIA\n</color>Tienes menos destreza con tu mano izquierda",
@@ -1588,8 +1590,12 @@
         "gunsafety": "Activar seguro",
         "alertitemblocked": "Objeto bloqueado por una pared",
         "alertitemfar": "Objeto demasiado lejos",
-        "alertpickupwearable": "Los equipables no se pueden sostener en la mano",
+        "alertpickupwearable": "Los equipables no se pueden sostener en la mano (Mejor equipar/guardarlo?)",
+        "alertalreadywearing": "¡El/la <1> no cabrá sobre tu <2>!",
+        "alertcontainerstacking": "¡Sólo puedes colocar contenedores vacios dentro de otros contenedores!",
+        "alertcontainerstackingalt": "¡No puedes usar este contenedor, ya que está dentro de otro contenedor!",
         "alerttoounhappy": "No se puede usar medicinas no opioides al estar miserable",
+        "alertlimbmissing": "¡No tienes tu <1>, por lo cual el/la <2> queda inservible!",
         "alertsellcontainer": "Vacía el contenedor antes de venderlo",
         "resetkeybinds": "Restablecer a predeterminado",
         "reloadbinds": "Recargar atajos\n(Revisa los cambios)",
@@ -1696,7 +1702,7 @@
         "healthchipradalert2": "PROTOCOLO DE\nCASTIGO ACTIVO",
         "healthchipradalert3": "ACELERA\nEL RITMO",
         "startlorenote": "Año 2XXX \n<>\nLa humanidad ha progresado tecnológicamente de manera significativa.\n<>\nUna corporación comenzó a investigar en bioingeniería, combinando ADN animal y humano.\n<>\nEsto condujo a la creación de la especie experimento, junto con docenas de derivaciones posteriores.\n<>\nDespués de años de pruebas privadas poco éticas en laboratorios, pusieron la mira en algo más grande.\n<>\nSabían de un planeta gris con una flora y fauna próspera y una ruta de viaje espacial asequible.\n<>\nPronto, se enviaron miles de ejemplares, edificios y cargamentos diversos.\n<>\nAunque la mayor parte se envió correctamente, una gran cantidad de cargamento se envió por error a la extensa red de cuevas del planeta debido a un error de calibración.\n<>\nEsto incluye una pieza de tecnología experimental importante enviada por error, que ahora se encuentra en lo más profundo de los sistemas subterráneos, sin una forma fácil de recuperarla.\n<>\nSin embargo, los científicos vieron esto como una oportunidad para realizar más investigaciones comportamentales, enviando miles de especímenes para recuperar la tecnología perdida.\n<>\nLas posibilidades de que funcionara eran bajas, pero el envío es barato y sus recursos abundantes.\n<>\nEres un espécimen desafortunado.\nLa resistencia no es una opción.",
-        "jsonthing": "Agregué esto para dar sus comentarios de lo que quieran decir cuando editen xd. Tmb para coincidir con el número de líneas y que sea más fácil sin que teman a que se modificó algo que no querían xd, traducción hecha por Zilat"
+        "jsonthing": "Agregué esto para dar sus comentarios de lo que quieran decir cuando editen xd. Tmb para coincidir con el número de líneas y que sea más fácil sin que teman a que se modificó algo que no querían xd, traducción hecha por Zilat y JuanMC45"
     },
     "character": [
         {
