@@ -139,7 +139,7 @@
         "banana": "Banano",
         "bananadsc": "Una sabrosa fruta amarilla, aparentemente de otro planeta. Ligeramente radiactivo.",
         "burger": "Hamburguesa",
-        "burgerdsc": "Un almuerzo grande y sabroso. ¡Nutre tanto tu pansita como tu alma!",
+        "burgerdsc": "Un almuerzo grande y sabroso. ¡Nutre tanto tu pancita como tu alma!",
         "pancake": "Panqueque",
         "pancakedsc": "Una masa dulce y plana, cocinada en capas sobre una superficie caliente y cubierta de sirope. Puede que se te pegue al pelaje. ¡Delicioso!",
         "pizzaslice": "Porción de pizza",
@@ -3913,7 +3913,9 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "todo va bien para mi. rica comida en mi pansita "
+                "Item1": "todo va bien para mi. rica comida en mi pancita y tal vez una o dos colas pastosas me alegran el día. también los sobrevivientes me sonríen de vuelta! solamente odio verme sangrar, me asusta",
+                "Item2": "",
+                "Item3": "experiment"
             },
             {
                 "Item1": "Las luces rojas parpadeantes en la oscuridad son trampas de púas. ten cuidado con ellas. por favor. por favor. alguien acaba de caminar sobre una a la distancia, acabo de escuchar un grito seguido de silencio. Mantente seguro.",
@@ -3927,78 +3929,204 @@
             },
             {
                 "Item1": "Me he encontrado con alguien, nos hemos puesto de acuerdo en intentar salir a la superficie por uno de esos agujeros. mi amigo salió primero, y de inmediato empezó a entrar en shock. parecía sufrir mucho. vomitó demasiado, luego de un tiempo, colapsó y dejo de respirar. su piel tambien empezó a ampollarse, especialmente alrededor de la cabeza y cuello. algo nos está impidiendo salir. tengo miedo.",
-                "Item2": "Sprites/noteDrawings/radiation"
+                "Item2": "Sprites/noteDrawings/radiation",
+                "Item3": "experiment"
             },
             {
                 "Item1": "Estar mojado parece ser algo peligroso si no eres cuidadoso. La temperatura aquí es mucho más baja que en nuestros hogares, y parece que estar empapado por mucho tiempo puede llevarnos a un estado de hipotermia. Intenta hacer algo de ejercicio para calentar rápido, He descubierto que eso ayuda.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "milky"
             },
             {
                 "Item1": "Realmente nesesito dejar de perder mis luces. cualquier cosa hace el trabajo, incluso esas cosas raras que brillan. sigo dejando y olvidándome sobre ellas, luego me tropiezo y me lastimo por accidente. nada bueno.",
-                "Item2": "Sprites/noteDrawings/glowplant"
+                "Item2": "Sprites/noteDrawings/glowplant",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "aquí la luz es un recurso vital, especialmente cuando se torna más oscuro a medida que avanzamos. no quieres pisar una trampa por accidente. con el caparazón de una araña y partes de una planta luminosa, puedo improvisar una linterna frontal y así mis manos están libres. en un apuro, las bombillas en la cápsula salvavidas parecen usar una batería agotada, y pueden desprenderse relativamente fácil, aunque eso enfurece al dueño de la cápsula",
+                "Item2": "Sprites/noteDrawings/lightbulb",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "hay muchas cápsulas salvavidas por aquí justo como en la que me desperté. entré a una por la ventana pero pisé vidrio roto. tuve que ser muy cuidadoso, pero logré sacarlo de mi pata. debo asegurarme de quitar los fragmentos la próxima vez.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Los humanos hacen cosas raras. Nunca deberías de confiar en ellos sólo por ser cordial.\nPero puedes confiar en ellos para mantenerte vivo.<>\nMe rompí el brazo una vez y me pusieron un yeso. No me agradó. Era pesado y prevenía que mi brazo se pudiera mover en lo absoluto. Parecía que empeoraron mi condición a propósito, y me lo hicieron llevar por mucho tiempo.<>\nUn día me lo quitaron, y mi brazo ya estaba bien.<>\nLos humanos empeoraron mi condición sólo para que pudiera mejorar.<>\n\nCreo que le hicieron lo mismo a la cabeza de Jumper.\nJumper solía gritar y llorar demasiado. Una vez se hizo daño y los humanos se lo llevaron.<>\nJumper ya está de vuelta. Ya no llora. No habla. Todo el tiempo parece cansado. Su cabeza está como lo solía estar mi brazo. No se le ve ningún “yeso” y su actitud me preocupa, pero por lo menos ya no se hace daño. Ojalá los humanos deshagan lo que sea que hayan hecho una vez la cabeza de Jumper mejore.<>\n\nLe echo de menos.",
+                "Item2": "",
+                "Item3": "milky"
             }
         ],
         [
             {
                 "Item1": "Aparentemente esas cajas con las computadoras raras a su lado pueden abrirse si derramas algo de sangre roja sobre ellas. tiene que ser específicamente sangre roja, de otra forma no funcionará. tiene algunas cajas ahí adentro, puedes abrirlas y llevar sus cosas contigo. Es muy útil.",
-                "Item2": "Sprites/noteDrawings/bloodbag"
+                "Item2": "Sprites/noteDrawings/bloodbag",
+                "Item3": "experiment"
             },
             {
                 "Item1": "Investigando la composición química de los diferentes sacos de sangre que me he encontrado, parecen ser considerablemente diferente en su composición. La sangre roja es completamente diferente de las que poseemos las criaturas y nosotros. Parece tener una composición algo metálica por alguna razón, muy extraño. Es mejor no usarla en nosotros.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "milky"
             },
             {
                 "Item1": "(Hay un dibujo mal hecho de lo que parece ser uno de tus captores. Sostiene lo que se puede distinguir como una pistola eléctrica. Su rostro está tachado con una gran X. El arma trae recuerdos horribles hacia ti.)",
-                "Item2": "Sprites/noteDrawings/scientist"
+                "Item2": "Sprites/noteDrawings/scientist",
+                "Item3": ""
             },
             {
                 "Item1": "Casi me ahogo hace un momento. nunca antes he nadado, y es muy agotador. es dificil mantenerme a flote en la superficie cuando estoy cansado. me imagino que hundirse para siempre debe ser muy doloroso... ten cuidado.",
-                "Item2": "Sprites/noteDrawings/drown"
+                "Item2": "Sprites/noteDrawings/drown",
+                "Item3": "experiment"
             },
             {
                 "Item1": "He escuchado un poco de nuestros captores, aparentemente la carga que se supone que debemos obtener es alguna clase de \"fuente de energía avanzada\". algo acerca de almacenar y distribuir una gran cantidad de energía \"inalámbricamente\". no entiendo la mayoria de lo que significa, pero quizás sea de utilidad saberlo. mantente a salvo",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "experiment"
             },
             {
                 "Item1": "Recientemente encontré algo parecido a un taladro, pero le faltan algunas partes. No puedo entender lo que necesita, aparte del panel para cubrir todos los mecanismos... Podría ser de ayuda si logras que funcione.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "agua brillante sabe mel",
+                "Item2": "",
+                "Item3": "dune"
+            },
+            {
+                "Item1": "Me duele admitirlo, pero no se puede negar la fragilidad de mi especie. Afortunadamente, encontré un espectacular contenedor que anula totalmente el peso de la mayoría de cosas, permitiéndome llevar más suministros de los que normalmente puedo.\nFunciona con baterías, y eso me preocupa. No estoy seguro de qué pasará cuando se le acabe la energía, así que quiero averiguarlo en este momento, para estar seguro.<>\nNo quiero que se ponga pesado en la mitad de un salto. Tengo una batería casi muerta.\nHora de averiguar cómo se comporta la mochila cuando se le acaba la batería.\n\n(El resto de la nota es ilegible; cualquier texto que estaba escrito después está cubierto por una abundante cantidad de sangre seca.)",
+                "Item2": "",
+                "Item3": "milky"
             }
         ],
         [
             {
                 "Item1": "ugh. hace mucho calor aquí. Realmente necesito ahorrar mis movimientos y tener cuidado de no caer por el calor. encontré que zambullirme en piscinas de agua ayuda mucho... creo que incluso las marrones si están desesperados.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Las enredaderas que se propagan alrededor son sorprendentemente fáciles de escalar. Las delgadas un poco menos, pero puedes usar las que son largas como escaleras naturales. Me han salvado de unas piernas rotas, definitivamente.",
+                "Item2": "Sprites/noteDrawings/sandvine",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "Hoy di con una puerta cuya apertura dependía de la inserción de cierta chatarra. No llevaba ninguna conmigo; sin embargo, por fortuna contaba con un taladro láser, que no tardó en abrirse paso por las paredes circundantes. En su interior hallé un dispositivo electrónico en el que se había almacenado música exquisita. La escucho de vez en cuando.",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "ver criatura malvada... criatura malvada naranja... criatura quiere comer dune!   pero dune lucha.   dune mata y come criatura malvada!   criatura muy sabrosa!",
+                "Item2": "Sprites/noteDrawings/wallbiter",
+                "Item3": "dune"
+            },
+            {
+                "Item1": "hay muchos arbustos alrededor, pero no puedo decir que he visto alguno que esté vivo. pienso que son muy útiles al hacer cuerdas y amortiguando caídas, pero también tienden a ocultar trampas...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "está tan caliente aquí abajo. siento que estoy corriendo de cápsula en cápsula. ni siquiera quiero abrir las cápsulas, esos también me calientan. aún así mi amigo dune no pareciera que le prestara mucha atención. simplemente no está quejándose, o toda esa piel le está enfriando?",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ayudame    pisé   cosa explosiva   estoy  tan adolori do    ayuda  ayuda me  porfa vor  me desm a   yo",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "escucho un timbre.. mi cabeza duele tanto, pero tanto, escuché un pitido mientras descendía un poco y luego hubo ese estruendoso golpeteo     no sé de dónde vino . no puedo ver más allá, pero hay algo muy peligroso en estas cuevas, ten cuidado con los espacios abiertos y grandes",
+                "Item2": "",
+                "Item3": "experiment"
             }
         ],
         [
             {
                 "Item1": "Parece haber una gran cantidad de residuos radiactivos en esta zona. Si bien dificulta la navegación, debemos tener en cuenta que podemos tomar breves dosis de radiación ionizante sin demasiados problemas, siempre y cuando la exposición no sea demasiado prolongada. Ya estamos plagados de cáncer debido a nuestra presunta naturaleza antinatural, por lo que el efecto en nuestra esperanza de vida es insignificante.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "Hay algo muy mal con este ambiente. En el aire, lo puedo sentir- esas celdas de energía arruinadas me hace erizar el pelaje. Al pasarlos se me pone la piel de gallina, y siento mi cuerpo arder. Incluso cuando no las puedo ver, puedo sentir esa tensión incómoda creciendo en el aire. He tenido que usar mi cuerda e incluso arañar a través de las rocas para encontrar atajos, pero incluso así, hay unas piedras púrpuras que parecen tener el mismo efecto, sólo que en diferentes dosis.",
+                "Item2": "Sprites/noteDrawings/wasteland",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "uno de los otros que me encontré cayó sobre un montón de esas rocas púrpuras. logré sacarle pero nuestros abrigos se rasgaron. no sé que está pasando.<>\n\n\n\n\ncomí una de las frutas que estaban en una cápsula salvavidas... dejé de estar adolorido. pero cuando uno le pegó un mordisco, empezó a vomitar sangre unos minutos después. no está respirando. qué fue diferente? se veía igual. simplemente soy afortunado de estar vivo? por qué no se habrá mejorado?",
+                "Item2": "Sprites/noteDrawings/wasteland",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "El botón al lado del gatillo en una pistola es el liberador del cargador, mientras que en una escopeta, comúnmente es el seguro. Además, cuando accionas el mecanismo (como tirar el cerrojo), se expulsa el cartucho de la recámara. La última vez que hice eso, perdí un perdigón - una pena terrible.",
+                "Item2": "Sprites/noteDrawings/pistol",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "aquí el agua potable es bastante escasa, y no creo que esa cosa que parece alquitrán sea segura. un poco de la vegetación tiene suficiente contenido de agua para ser trituradas y convertidas en jugo, sin embargo el sabor es muy desagradable. aunque es mejor que estar sediento",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "En este desierto no queda nada de agua, y mi botella está vacía. Estaba muy sucio y sediento. Me metí a un charco que encontré para tomar agua y poder pegarme una ducha, pero toda la suciedad la contaminó. Ya no la podía tomar. Debería haber sumergido la botella. Necesito agua...",
+                "Item2": "Sprites/noteDrawings/waterbottle",
+                "Item3": "experiment"
             }
         ],
         [
             {
                 "Item1": "dune vio monstruo grande. motivado para matar      dune persigue monstruo y mata y come . comida buena . ¡ gran cazador de bestias !",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "dune"
+            },
+            {
+                "Item1": "DUNE ENCONTRO NUEVO AMIGO<>\nDUNE EMOCIONADO CUANDO AMIGO CERCA<>\nAMIGO ES COMO DUNE.<>\nAMIGO GRANDE Y FUERTE.<>\nDUNE GRANDE Y FUERTE.<>\nAMIGO PUEDE CAVAR RAPIDO.<>\nDUNE PUEDE CAVAR RAPIDO.<>\nAMIGO MUERDE BRAZO DUNE.<>\nDUNE MUERDE BRAZO AMIGO<>\nAMIGO SE VA.<>\nDUNE BUSCA<>\nENCONTRARE DE NUEVO",
+                "Item2": "",
+                "Item3": "dune"
+            },
+            {
+                "Item1": "sentí... sentí que moría. fue todo tan repentino, había sangre en todos lados y no podía mantener mis ojos abiertos. tenía miedo... pero no quería darme por vencido. encontré tantas cosas geniales en este lugar y siento que hice mucho progreso en esta misión. no me detendré aquí. voy a superar toda esta mierda. veré a mis amigos una vez más.",
+                "Item2": "Sprites/noteDrawings/lastland",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Quiero salir de este lugar, estoy aterrorizado, no tengo palabras que describan lo que acabo de vivir, era una horrible y enorme criatura con cientos de dientes, listos para devorarme, sentí que me persiguió por horas, destruye todo a su paso. Sólo paró cuando me dí cuenta de que corrí tanto que estaba completamente perdido, agotó mi comida, agua, herramientas, incluso mi propia sanidad, sólo quiero que esto acabe.",
+                "Item2": "Sprites/noteDrawings/thornback",
+                "Item3": "milky"
             }
         ],
         [
             {
                 "Item1": "Hace demasiado frío aquí. tengo que hacer lo mejor para no mojarme, o estaré en grandes problemas. por suerte, hay muchas de esas raras plantas esporosas que dan un poco de calor, junto con esas máquinas raras. corre entre ellas mientras sea posible, supongo. mejor no estar atascado en este frío horrendo.",
-                "Item2": "Sprites/noteDrawings/xaloris"
+                "Item2": "Sprites/noteDrawings/xaloris",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "dune frío. cavar calentar no suficiente. dune come amigo peludo. come crudo! dune tiene pelaje. pelaje caliente para dune. dune lleno y caliente. dune feliz no frío.",
+                "Item2": "",
+                "Item3": "dune"
             }
         ],
         [
             {
                 "Item1": "Es raro como puede llover aquí. Nunca he visto lluvia real antes... Es algo hermosa, incluso si es antihigiénica. Me sigo preguntando como es posible que haya una concentración tan alta de agua aquí abajo. Quizás, ¿el agua de la capa de hielo superior gotea hasta aquí abajo?",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "milky"
             }
         ],
         [
             {
                 "Item1": "",
-                "Item2": ""
+                "Item2": "",
+                "Item3": ""
             }
         ]
+    ],
+    "pdaNotes": [
+        {
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-11-19-18-49-58-4587]\n<>\nCLASE DE ENTIDAD: Biológica\nSUBCLASE DE ENTIDAD: Sawian\nNOMBRE DE ENTIDAD: Experimento\n<>\n[CONTENIDOS]\n\nLa versión biológica estable de nuestro proyecto más reciente está lista.\nParece que, mentalmente, no quedó ni va a quedar nada de nuestro voluntario humano original, sin mencionar el resto de los participantes.\nA pesar de eso, parece que aprenden rápidamente, y no están tomando represalias.\n<>\nLa combinación de ADN causó que el Experimento fuera considerablemente más pequeño en estatura que un ser humano, también tiene poca grasa y masa muscular.\nA pesar de esto, su densidad ósea y muscular es mucho mayor. Se asume que esto le dará al espécimen resistencia a diferentes formas de trauma físico... Y se le dificultará nadar.\nTiene tres protuberancias detrás de su cráneo, de consistencia similar al cartílago de una oreja. De alguna forma, tiene una estructura de oreja similar a la de un ave - debe de haber quedado en alguna parte del ADN que empalmamos.\nTiene un pelaje fino y carne de color rosado amarillento, como se aprecia en heridas dentro de la boca.\nSus manos son una combinación entre las de un canino y un homo-sapiens. Sé que uno de mis compañeros lo disfrutará-\nDe alguna forma, los ojos bioluminiscentes de nuestros anteriores prototipos de esta especie han permanecido. Aún no determinamos los efectos exactos que esto tiene en su visión.n<>\nPronto clonaremos esta especie 30 veces para realizar pruebas destructivas en los clones. Dejaremos que algunos se reproduzcan naturalmente, para ahorrar recursos.\n\n[FIN]",
+            "Item2": ""
+        }
     ]
 }
