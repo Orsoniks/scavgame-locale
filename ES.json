@@ -374,12 +374,16 @@
         "epdadsc": "Asistente personal digital electrónico, es probable que lo hayan dejado tus captores por accidente. Si le colocas una bateria, probablemente podrías husmear sus notas.",
         "bloodcoagulant": "Jeringa de procoagulante",
         "bloodcoagulantdsc": "Una jeringa que almacena 100 ml, posee un autoinyector a su extremo. Usa aproximadamente 34 ml por dosis.",
+        "combatpen": "Inyección de combate",
+        "combatpendsc": "Una pluma inyectora que almacena 100 ml e instantaneamente inyecta su contenido dentro del cuerpo. Contiene una mezcla diseñada para estabilizar rápidamente a los heridos y brindar apoyo en situaciones de combate.",
         "streptokinase": "Jeringa de estreptoquinasa",
         "streptokinasedsc": "Una jeringa que almacena 100 ml, posee un autoinyector a su extremo. Usa aproximadamente 34 ml por dosis.",
         "chestdrain": "Drenador torácico",
         "chestdraindsc": "Se utiliza para drenar líquido del tórax. Reduce el hemotórax, reutilizable después de un tiempo. Sólo utilizable en el pecho.",
         "tweezers": "Pinzas",
         "tweezersdsc": "Un simple par de pinzas de metal. Puede extraer de forma limpia y sin dolor las esquirlas de las extremidades.",
+        "lockpickingkit": "Kit de ganzúas",
+        "lockpickingkitdsc": "Un pequeño conjunto de herramientas que abren cualquier tipo de cerradura eficientemente. Para usarlo, tenlo en tu inventario principal cuando intentes abrir una cerradura. Requiere 10 de INT para usarse, la efectividad aumenta con el nivel de INT.",
         "icepack": "Bolsa de hielo",
         "icepackdsc": "Una bolsa de frío rellena de gel autoenfriante. Acelera la recuperación muscular, reduce el dolor y proporciona un ligero enfriamiento. Se enfría automáticamente con el tiempo.",
         "armwarmers": "Calentadores de brazos",
@@ -748,6 +752,7 @@
         "withdrawal2": "Síndrome de abstinencia",
         "withdrawal3": "Síndrome de abstinencia severa",
         "withdrawal4": "Muriendo por la abstinencia",
+        "stimulated": "Sobreestimulación opiácea",
         "drugoverdose": "Sobredosis de fármacos",
         "bleeding1": "Sangrado leve",
         "bleeding2": "Sangrado moderado",
@@ -898,6 +903,7 @@
         "withdrawal2dsc": "Tu cuerpo está desesperado por recibir otra dosis. Quieres vomitar... Esto se siente muy mal. Tratamiento recomendado.",
         "withdrawal3dsc": "Estás luchando por mantenerte firme, temblando y desesperado por cualquier tipo de alivio. Se siente horrible. Tratamiento necesario.",
         "withdrawal4dsc": "Tu cuerpo no puede sostenerse sin los opioides de los que tanto depende. Tu corazón lucha por bombear oxígeno por todo el cuerpo, lo que provoca daño cerebral hipóxico durante un episodio desesperado.",
+        "stimulateddsc": "Fuertes estimulantes en la sangre. Te sientes listo para enfrentar lo que sea que te encuentres... Por ahora.",
         "drugoverdosedsc": "Estás sufriendo una sobredosis por un medicamento no opioide. Es probable que sufras problemas de salud.",
         "bleeding1dsc": "La sangre sale de una herida relativamente pequeña. No hay peligro inmediato.",
         "bleeding2dsc": "La sangre sale de una herida de tamaño decente. Es poco probable que sea fatal si estás sano. Tratamiento recomendado.",
@@ -1187,6 +1193,12 @@
         "woundgluedsc": "Sustancia hemostática antibiótica parecida a un pegamento. Combate las infecciones, favorece la cicatrización y es muy eficaz para sellar heridas abiertas. Podría causar problemas de circulación; úselo con precaución.",
         "keratinbooster": "Potenciador de keratina",
         "keratinboosterdsc":"Una hormona del crecimiento modificada que promueve específicamente la producción de queratina para estimular su crecimiento. Acelera el crecimiento de tus garras durante un tiempo.",
+        "highgradestimulant": "Estimulante de uso médico",
+        "highgradestimulantdsc": "Fármaco estimulante de uso médico. Te da un fuerte impulso durante bastante tiempo, y por lo general es seguro de usar. La sobredosis generalmente provoca debilidad, con un bajón muy leve. Usa 100 ml por dosis.",
+        "midgradestimulant": "Estimulante",
+        "midgradestimulantdsc": "Fármaco estimulante refinado. Sólo funciona cuando es inyectado vía intravenosa. Te da un muy buen impulso durante un corto tiempo, pero tiene unos efectos secundarios. La sobredosis provoca debilidad y sangrado interno. Usa 50 ml por dosis.",
+        "lowgradestimulant": "Estimulante genérico",
+        "lowgradestimulantdsc": "Fármaco estimulante sin refinar. Poco fiable. Te da un impulso por cierto tiempo, pero la sobredosis y el bajón sucesivo es extremadamente debilitante. La dosis es desconocida. Use con precaución.",
         "naltrexone": "Naltrexona",
         "naltrexonedsc": "Píldoras que se utilizan para tratar dolencias generales, como enfermedades o abuso de opiáceos. Disminuye la felicidad y puede provocar vómitos.",
         "painkillers": "Analgésicos",
@@ -1656,6 +1668,8 @@
         "threatendsc": "Amenaza para obtener un objeto gratis o dos. Podría ser contraproducente de manera significativa.",
         "rest": "Descansar",
         "restdsc": "Duerme una siesta con el comerciante para generar confianza y dormir mejor. Se aplican las condiciones habituales para dormir.",
+        "tradermove": "Mover",
+        "tradermovedsc": "Pedirle educadamente al comerciante que se haga a un lado, en caso de que esté bloqueando algo importante.",
         "exit": "Salir",
         "free": "<color=\"orange\">¡GRATIS!",
         "deceased": "Fallecido",
@@ -3397,6 +3411,12 @@
                 "Aww, te has lastimado. Si encuentras un vendaje en mí, ¡puedes tomarlo! No recuerdo si tengo uno...",
                 "Ohh, no pareces estar bien... ¿Te digo algo?, puedes agarrar un vendaje gratis si es que ves alguno."
             ],
+            "tradermove": [
+                "Ah, perdón. Listo."
+            ],
+            "tradermovefail": [
+                "¿Eh? ¿Para qué? ¿Qué piensas hacer...? No confío en tí."
+            ],
             "swingresponse": [
                 "¡LO SIENTO!",
                 "¡DÉJAME!",
@@ -3622,6 +3642,12 @@
                 "¡EY! Imbécil! ¡Sal de aquí, carajo!",
                 "¿¡Por qué mierda harías eso!? ¡Ya vete! ¡Necesitaba esa luz!",
                 "¿¡Por qué estás destrozando mi cápsula!? ¡AFUERA! ¡VETE!"
+            ],
+            "tradermove": [
+                "Está bien."
+            ],
+            "tradermovefail": [
+                "¿Por qué le haría caso a alguien cómo tú?"
             ]
         },
         {
@@ -3783,6 +3809,12 @@
                 "¡MALO! Grrrr... Ami-go malo... ¡Malo! ¡Vet-e!",
                 "¡Dune NO VE! ¡MAL AMI-GO! ¡VETE... LEE-JOS!",
                 "¡Ami-go roba! No ami-go..."
+            ],
+            "tradermove": [
+                "Du-ne... Mover-se..."
+            ],
+            "tradermovefail": [
+                "Du-ne gusta este si-tio..."
             ]
         }
     ],
@@ -3790,57 +3822,108 @@
         [
             {
                 "Item1": "esto es de horror, hay tantos cadáveres... tengo miedo. ¿por qué enviaron a tantos de nosotros aquí? no lo entiendo. realmente no lo entiendo. me dejaron inconsciente con una especie de dardo y me forzaron a entrar a una cápsula para enviarme aquí. odio este planeta.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "experiment"
             },
             {
                 "Item1": "He preguntado a otros sobre la habilidad de ver nuestro estado físico en nuestras mentes, y parece ser que es algo compartido entre casi todo el mundo aquí. Es interesante - esto no es algo que pudiéramos hacer antes en nuestros hogares. ¿Nos implantaron con algo? No hay ningún rastro visible en ninguno de nosotros. También he notado que poca gente aquí comparte esta experiencia, aparentemente carentes de lo que nos permite hacer esto. Raro.",
-                "Item2": "Sprites/noteDrawings/puppet"
+                "Item2": "Sprites/noteDrawings/puppet",
+                "Item3": "milky"
             },
             {
                 "Item1": "aún sigo perdiendo peso. necesito comer más para estar en forma. todo este correr hace que consumas calorías muy rápido. supongo que tengo que estar lleno más a menudo.",
-                "Item2": "Sprites/noteDrawings/underweight"
+                "Item2": "Sprites/noteDrawings/underweight",
+                "Item3": "experiment"
             },
             {
                 "Item1": "esto es horrible. esto es jodidamente horrible. ya no puedo hacerlo. esto es una misión suicida. abandona toda la esperanza. esto no tiene ningún punto",
-                "Item2": "Sprites/noteDrawings/x"
+                "Item2": "Sprites/noteDrawings/x",
+                "Item3": "experiment"
             },
             {
                 "Item1": "no entiendo por qué estamos aquí. ¿Si quiera para qué? ya sé que tengo que recuperar una especie de celda de batería o algo así. asumo que los demás tienen la misma misión. ¿no hay maneras más eficientes de hacer esto lógicamente? por qué nos enviaron aquí. extraño a mis amigos. no quiero morir.",
-                "Item2": "Sprites/noteDrawings/alone"
+                "Item2": "Sprites/noteDrawings/alone",
+                "Item3": "experiment"
             },
             {
                 "Item1": "me he caído. muy mal. mi pierna está destrozada. esto es muy malo. si trato de moverla, solo hay dolor. necesito analgésicos para sentirme mejor.",
-                "Item2": "Sprites/noteDrawings/brokenleg"
+                "Item2": "Sprites/noteDrawings/brokenleg",
+                "Item3": "experiment"
             },
             {
                 "Item1": "He escuchado a nuestros captores llamarnos una amalgama mutada de un \"humano, zorro y rata\", o lo que sea que eso signifique. ¿por cuánto nos han estado ocultando esto? ¿sabia información? la duda me aterra. nunca he considerado que tengo orígenes foráneos de donde nos criaron. y ahora estoy aquí. no puedo asimilar nada de todo esto.\n(En el papel hay lo que parece ser un autoretrato.)",
-                "Item2": "Sprites/noteDrawings/experiment"
+                "Item2": "Sprites/noteDrawings/experiment",
+                "Item3": "experiment"
             },
             {
                 "Item1": "He encontrado que el dibujo es el único escape decente de la situación. Parece que todos nosotros estamos lidiando con nuestros estados de salud mental, de una forma u otra. Es agradable distraerse de la dura realidad a veces.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "los captores recibirán lo que se merecen.",
+                "Item2": "",
+                "Item3": "milky"
             },
             {
                 "Item1": "planeta es bueno.  comer mucha carne buena.  dune feliz\n(Puedes distinguir lo que parece ser un autorretrato muy mal hecho.)",
-                "Item2": "Sprites/noteDrawings/dune"
+                "Item2": "Sprites/noteDrawings/dune",
+                "Item3": "milky"
             },
             {
                 "Item1": "La distribución de especies aquí parece muy desproporcionada. Los experimentos están en todas partes, sin embargo otras especies como la nuestra parecen ser mucho menores en número. Es raro... De todas formas, no me gusta la cantidad de damnificados. Más de nosotros necesitan ser ayudados.",
-                "Item2": "Sprites/noteDrawings/milky"
+                "Item2": "Sprites/noteDrawings/milky",
+                "Item3": "dune"
+            },
+            {
+                "Item1": "Estaba haciéndome un autochequeo tras un incidente doloroso cuando noté un bulto oscuro y nodular en mi piel. Tenía forma irregular y era extrañamente multicolor y veteado. Estimo que su diámetro es aproximadamente ocho milimetros. Tras una inspección más detallada, encontré muchos más en diferentes lugares de mi cuerpo. Corroboré con un amigo más jóven y no pareciera que tuviera bulto alguno, pero otro amigo mío que es mayor tenía muchos más. ¿Debería de estar al tanto de la evolución de esta posible malignidad?",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "no quise hacerlo. tenían un drenaje torácico. qué podía hacer? ahogarme en mi propia sangre? sólo tenía un paquete de dinamita... si tan sólo pudiera estar en casa, incluso sólo escuchando la radio de entrenamiento, daría lo que sea. no es mi culpa. no es mi culpa.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "amo este lugar! todavía me encuentro con nuevas criaturas, son tan dulces! hay tantas cosas tan geniales! nunca regresaré al laboratorio, larga vida a la cueva!",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "dune ama saborear amigo .  todos amigos saben distinto .  amigo pelaje oscuro es duro .  amigo pelaje claro es chicloso .  yo qué dune sabrá ?",
+                "Item2": "",
+                "Item3": "dune"
+            },
+            {
+                "Item1": "abrazar a otros me pone feliz... pero algunos de los sobrevivientes no aceptan abrazos, pienso que pueden ser apaciguados de alguna forma. por cierto, dormir junto a ellos es mucho mejor que en el piso frío, solo.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "(Hay gráficos coloridos en el papel, y no parecen haber sido escritos a mano)\n<>\nSopa! Prueba nuestra Olla Especializada - simplemente meta la carne y los ingredientes dentro y cocine a fuego lento. Estará de acuerdo que su valor está en el peso del sabor. Puede ser almacenado por hasta 737 años!",
+                "Item2": "",
+                "Item3": ""
             }
         ],
         [
             {
                 "Item1": "ugh, este lugar apesta. sigo siendo mordido por todas esas arañas y no puedo verlas a tiempo. creo que son venenosas, ya que me dejan feas heridas en mí... las frutas luminosas parecen ayudar con eso.",
-                "Item2": "Sprites/noteDrawings/spider"
+                "Item2": "Sprites/noteDrawings/spider",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "todo va bien para mi. rica comida en mi pansita "
             },
             {
                 "Item1": "Las luces rojas parpadeantes en la oscuridad son trampas de púas. ten cuidado con ellas. por favor. por favor. alguien acaba de caminar sobre una a la distancia, acabo de escuchar un grito seguido de silencio. Mantente seguro.",
-                "Item2": ""
+                "Item2": "",
+                "Item3": "experiment"
             },
             {
                 "Item1": "Hace frío aquí. tanto frío. más frío que nuestro antiguo hogar. honestamente, me gusta. bañarse en una piscina se siente bien, es refrescante. me gustan estas vacaciones.",
-                "Item2": "Sprites/noteDrawings/pool"
+                "Item2": "Sprites/noteDrawings/pool",
+                "Item3": "experiment"
             },
             {
                 "Item1": "Me he encontrado con alguien, nos hemos puesto de acuerdo en intentar salir a la superficie por uno de esos agujeros. mi amigo salió primero, y de inmediato empezó a entrar en shock. parecía sufrir mucho. vomitó demasiado, luego de un tiempo, colapsó y dejo de respirar. su piel tambien empezó a ampollarse, especialmente alrededor de la cabeza y cuello. algo nos está impidiendo salir. tengo miedo.",
