@@ -375,7 +375,7 @@
         "bloodcoagulant": "Jeringa de procoagulante",
         "bloodcoagulantdsc": "Una jeringa que almacena 100 ml, posee un autoinyector a su extremo. Usa aproximadamente 34 ml por dosis.",
         "combatpen": "Inyección de combate",
-        "combatpendsc": "Una pluma inyectora que almacena 100 ml e instantaneamente inyecta su contenido dentro del cuerpo. Contiene una mezcla diseñada para estabilizar rápidamente a los heridos y brindar apoyo en situaciones de combate.",
+        "combatpendsc": "Una pluma inyectora que almacena 100 ml e instantáneamente inyecta su contenido dentro del cuerpo. Contiene una mezcla diseñada para estabilizar rápidamente a los heridos y brindar apoyo en situaciones de combate.",
         "streptokinase": "Jeringa de estreptoquinasa",
         "streptokinasedsc": "Una jeringa que almacena 100 ml, posee un autoinyector a su extremo. Usa aproximadamente 34 ml por dosis.",
         "chestdrain": "Drenador torácico",
@@ -752,7 +752,7 @@
         "withdrawal2": "Síndrome de abstinencia",
         "withdrawal3": "Síndrome de abstinencia severa",
         "withdrawal4": "Muriendo por la abstinencia",
-        "stimulated": "Sobreestimulación opiácea",
+        "stimulated": "Estimulado",
         "drugoverdose": "Sobredosis de fármacos",
         "bleeding1": "Sangrado leve",
         "bleeding2": "Sangrado moderado",
@@ -3896,7 +3896,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "abrazar a otros me pone feliz... pero algunos de los sobrevivientes no aceptan abrazos, pienso que pueden ser apaciguados de alguna forma. por cierto, dormir junto a ellos es mucho mejor que en el piso frío, solo.",
+                "Item1": "abrazar a otros me pone feliz... pero algunos de los sobrevivientes no aceptan abrazos, pienso que pueden ser apaciguados de alguna forma. por cierto, dormir junto a ellos es mucho mejor que en el piso frío, solito.",
                 "Item2": "",
                 "Item3": "experiment"
             },
