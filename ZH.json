@@ -1650,14 +1650,12 @@
         "weighs": "<sprite index=0>重量：",
         "purchase": "购买",
         "trade": "给予商人",
-        "reputation": "<sprite index=18>好感度：",
         "reputationtip": "好感度",
         "reputationtipdsc": "影响物品价格及幸存者对你的态度。取决于你的状态与互动方式。",
         "valuegiventip": "交易额度",
         "valuegiventipdsc": "幸存者欠你的金额。这是在交易物品时使用的货币。\n\n你最多让幸存者的债务总额达到60，在这之后他会拒绝接受更多的物品。",
         "traderpurchase": "购买物品",
         "tradingblocked": "购买冷却中",
-        "valuegiven": "<sprite index=9>交易额度：",
         "theirinventory": "对方物品栏",
         "yourinventory": "你的物品栏",
         "haggle": "讨价还价",
@@ -4017,12 +4015,17 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "发光的水味道不好",
+                "Item1": "亮亮的水未道卜好",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
                 "Item1": "承认这一点令我痛苦，但我们种族的脆弱性无可否认。幸运的是，我找到了一个神奇的容器，它能彻底消除大多数物品的重量，让我能携带远超常人的补给。\n它靠电池驱动，这让我有些担心。我不确定电力耗尽后会发生什么，为安全起见，我现在就去检查。<>\n我不想让它在跳跃中途变得沉重。我身上带着几乎没电的电池。\n是时候看看背包断电后的表现了。\n\n（笔记余下部分无法辨识；下方文字已被大量干涸的血迹覆盖。）",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "还没走出这岩石地狱，我就已经感觉死亡临近了，\n他们给我的只是一个破烂的火把，连一个小时都坚持不了；甚至没有任何安全装备来帮助缓冲我一直在跌倒的情况。\n\n妈的，我感觉我就像是我看到的那些人类使用的赌博机器中的一个球！\n\n我想我可能会慢慢死去，自从去年秋天以来，我一直感觉头重脚轻，我感到疲倦；但我觉得如果我睡觉，我就会死。\n\n上帝救救我。\n操，伙计。\n我真的不想死，不是这样的...\n这一切还有什么意义？\n我甚至没有自己的名字，只有一个标签...\n操...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4179,6 +4182,10 @@
             "Item2": ""
         },
         {
+            "Item1": "[BIOMETRIC REPORT - 25##-04-01-15-29-18-1058]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Meat-Consumption Report\n<>\n[CONTENTS]\n\nReduction of Corporate Waste Objective\n<>\n32 Sawians were recruited randomly among those at our site fro<corrupt:0xFFFFFF> Baseline characteristics were: 25 SAW-01, 4 SAW-03, 3 SAW-12. The subjects were randomly assigned to 8 groups of 4 subjects each. Each group were subject to one choice in three types of conditions: consuming Sawian or Terran meat, consuming raw or as soup, and observing or being ignorant of the source of the meat.\n\nMeat was sourced from the Indicent on [25##-12-30].\n<>\nWhile the SAW-01 and SAW-03 in all groups which consumed the Sawian meat, regardless of whether they observed the source of the meat, displayed extreme negative emotion upon consumption, the SAW-12 did not display the same negative emotions. No Sawians which consumed the terran meat displayed negative emotions, presumably as they did not recognize the meat as their own, although complaints were raised about eating noncooked food. No Sawians which consumed the meat in soup form displayed negative emotions, even if they had observed the source.\n\nThe SAW-12 displayed an aberrant apathy towards consuming raw Sawian meat, as expected. We might be able to repurpose discarded specimens as food for any SAW-12s on site.\n\n[END]",
+            "Item2": ""
+        },
+        {
             "Item1": "[生物特征报告 - 25##-04-08-09-06-08-0002]\n<>\n数据库索引：Sawian项目注册表\n数据库子索引：物种\n<>\n[内容]\n\n[适用于注册表中的所有实体]\n- 实体类型覆盖：模版\n- 实体类别：生物\n- 实体子类别：Sawian\n<>\n实体名称：SAW-01\"Experiment\"\n数量: [未定义]\n- 我们在生物工程领域首次重大突破产出的最终原型。\n是我们的将其中一只测试大鼠与一名员工及其宠物的DNA拼接改良而成的。\n犬科动物。体型较小且相对脆弱。性格胆小，面容可怖。除了作为素材外几乎毫无用处。\n<>\n实体名称：SAW-02 \"Orange\"\n数量：52082\n- SAW-01的突变体。体型庞大，行为野蛮，智力低下，有四条手臂。适合从事体力劳动和参与任何体力消耗大且不致死的测试。\n<>\n实体名称：SAW-03 \"Milky\"\n数量：32184\n- SAW-01的突变体与不明海洋生物DNA的结合体。体型小，傲慢但聪明。视力极佳。适合从事脑力劳动。\n<>\n实体名称：SAW-04 \"Leapy\"\n数量：2046\n- SAW-01的突变体与苔藓DNA的结合体。花了很长时间才使其达到某种程度的正常运作状态。它们相对较快的癌症发病速度使其几乎无法用于劳动。同时它们也存在逃跑风险。\n<>\n实体名称：SAW-05 \"Chompy\"\n数量: 6084\n- SAW-03的突变体与\"鲨鱼\" DNA的结合体。食肉且水生。无毛发。出奇的友好。在面对不宜使用暴力解决的冲突时，它们是不错的选择。它们的大尾巴拖累了它们，这证实了我们长期以来的理论。\n- 鲨鱼是一种食肉性海洋鱼类。它们已经灭绝，但是它们的DNA被保留下来用于科学研究目的。.\n<>\n实体名称：SAW-06 \"Roza\"\n数量：7848\n- SAW-01的突变体与\"雪行者\" DNA的结合体。体温异常得低。情绪不稳定且易激动，但在未受威胁时温顺。Encumbering tail。是一种具有传统女性特征的生物，这可能是雪行者DNA与地球生物DNA相互作用的结果。\n- 参阅 corrupt:0xFFF853 以获取更多关于\"雪行者\"的详细信息。\n\n[页码 1/2]",
             "Item2": ""
         },
@@ -4216,6 +4223,22 @@
         },
         {
             "Item1": "（当你轻敲PDA屏幕几次后，它开始在紧急模式下启动。）\n\n[内部消息]\n[法律 <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\n地点：律师事务所 O<corrupt:0xFFFFFF> \n日期：<corrupt:0xFBC00F>\n已声明的所有者：律师<corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n内部通信网络消息\n\n发件人：<corrupt:0xFFFFFF>\n收件人：<corrupt:0xFFFFFF><>\n\n这太疯狂了。最近不同食物和原料的大宗订单给我们带来了太多不必要的关注，这太他妈<corrupt:0xFA05F2> 在我们身上。你明白要是政府发现这堆东西我们会怎样吗？我可以解释水或香蕉是用来干什么的，那些装满巧克力牛奶的液罐车也没问题。你想知道什么不容易解释吗？为什么！今晚！仓库！刚卸了！两半挂车！的狗粮！我该怎么跟<corrupt:0xFA05F2>解释这些奇怪的订单？ \"哦别担心~只是因为公司今年宣布了破纪录的利润，所以想为未来储备食物~\"。我没开玩笑，这是我从<corrupt:0xFFFFFF>那里得到的想法之一。这些人就像聋子一样，听不见自己愚蠢的想法。你说的\"储备食物\"是什么意思？我们这个站点最多只有<corrupt:0xFFFFFF>条狗，光这一单就够它们、它们的幼崽和它们幼崽的幼崽吃了。我们得随机应变，跟他们讲生物能源，用专业的术语迷惑他们那些年迈的高管，然后假装绝大多数<corrupt:0xFBC00F>反应堆。我们不能让她出任何差错。\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE 随机存取内存故障><>\n\n（PDA关闭时伴随着令人不悦的噪音。）",
+            "Item2": ""
+        },
+        {
+            "Item1": "(The PDA seems to be extremely damaged)\n<>\n[RECEIVED DIRECTIVE]\n[SPACE <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCATION: UNDER G<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\nWARNING SITE PERSONNEL\n\nAN ACCIDENT HAPPENED TODAY I <corrupt:0xFFFFFF> \n\nALL TESTS CONCERN <corrupt:0xFFFFFF> RE TO BE HALTED. \nEFFECTIVE IMMEDIATELY\n<>\nINCIDENT REPORT:\n\nOn <corrupt:0xFFFFFF> during routine tests on the drop pod capsules codename <corrupt:0xFFFFFF> there was an unexpected anomaly concerning the telepo <corrupt:0xFFFFFF>\nThe pod was teleported partially into a wall, destabilizing the tele-landing procedure and causing a brief black-hole pr <corrupt:0xFFFFFF>ecause o <corrupt:0xFFFFFF> a number of scientists and engineers suffered extreme damage caused by the implosion. The sawian occupying the pod did not survive.\n\nFrom now on all teleportation tech resear   <corrupt:0xFFFFFF>topped until further notice. Unit <corrupt:0xFFFFFF> is under lockdown until <corrupt:0xFFFFFF>\n<>\n\nAll available personnel are to report to s<corrupt:0xFFFFFF>\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS>\n\n(There seems to be no more text except errors)",
+            "Item2": ""
+        },
+        {
+            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------<>\nSo.\nThis is my \"journal\" now. Which is apparently a written work describing one's life and experiences.\nI am not entirely sure why the coats have me doing this, but the same can be said about most things they make us do.\nStill, I got lucky today. It can get way worse than a writing exercise.\nI find this device quite fascinating, and it is a shame that I will part with it in just a few hours. But I have been given a task, and I shall complete it.<>\n\nWe usually are woken up either by eachother, or by the first food buzzer ringing. Rarely do we wake up to testing immediately.\nI'm not sure what \"hour\" this happens at... Hell, I barely understand the concept. Though, I hear the coats talking about it all the time...\n\nAnyway, we wake up and soon it's time for our very first meal of the day.\nWhat they feed us is slightly varied, which wasn't the case just a few years ago. Still mostly just nutrient bars, though. They're really bland, but I can't complain...\n\n--------------------------------------------------<>\nIt's some hours later now.\n\nThis is the time when the coats hunt.\nThey call you out by the number, and you have to come to them.\nOr they come for you. \nYou do not want that.\nSometimes, they call out multiple numbers... It's usually a good sign, though.<>\n\nWhat they'll do to you is up to chance, really.\nThe tests can be harmless, they can be terrible, or they can be beneficial.\nIt's worth noting that the coats merely TRY to do things, and while sometimes they try to help, those attempts are usually far less successful than the ones where they try to mess you up.<>\n\nTwo numbers are called, and two others stand up, their faces worried.\nOne of them is healthy. Far more likely to get hurt.\n\nThe other has four arms.\nOne on the left, and three on the right.\nWell, if you could call the weird growths arms. They look kinda close?\nThey were originally born with two. The coats decided that to be too much one day, and removed one.\nThe next day, they came back with ELEVEN arms.\nThe humans removed ten of those, only to grace them with seven new ones.\nThe next day it was five.\nToday it's four.\n\nThey are getting close now.<>\n\nThe poor fellow is called Arms. And I swear, this was their name BEFORE this whole ordeal, and it's widely believed that humans picked them because of that.\nPerhaps it's their idea of a joke?\n\n[PAGE 1 OF 2]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------\n<>\nIt's quiet. Those who get lucky often just rest; sometimes they socialize. Usually, they just worry about those who got taken.\nThis concept of \"Hours\", this cycle, schedule... It's terrifying.\nI don't understand it. Why is each sleep cycle divided into 24 (?) hours? What governs such rules? Even the humans play by it.\nIs something above them controlling it?\n<>\n\nSome more hours later, the first test subjects start to trickle back in.\nBest-case scenario, they walk in on their own. Quite common, actually.\nSometimes they are carried in.\nRarely, two guards come in instead. They head straight to someone's cot and take away their things.\nIf it were your friend, and the guards are some of the nicer ones, they will let you keep a thing or two.\nI don't really have anyone to wait for anymore, so I just watch those who do. Everyone is used to this, but the nerves are always present.\n<>\n\nDinner time.\nThe meal dispensers dropped some cooked meat on my plate. Lucky. Better than breakfast, for sure.\nSome others hum approvingly, as they get similarly lucky. Others grumble as they get served the same old nutrient bars. It's really like they are feeding us with whatever they have on hand... Maybe this is a test, too?\nSometimes fights break out over the food, but that's rare. The guards are not happy anytime this happens.\n \nPeople talk. They play. They sing.\nSome nurse their wounds, or help others nurse theirs.\nIt's a calm time.\nThe coats are done for the time being.\n\nLater.\nIn about an \"hour\", our last meal of the day will be served.\nBedtime soon after that.\nThere is not much more to say, really.\n\nActually, there is one thing. Very rarely, extra tests will be called around this time. Well, the humans call them \"Relocations\" or \"Assignments.\"\n<>\nYou never come back when you get called to one of those. But they always allow you to take your things. I am not sure if it's because they are really taking you somewhere else, or they simply want to expedite the process of emptying your place by having you do it yourself.\n<>\n\nEveryone wonders what reaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nfddda\nshit\nFroze up for a moment there. I can't remove the letters. The device won't let me. It's bery\ncrap\n<>\nmy hands are shaking its difficult to type\nthey called the tests tonight\ni dont know where those called go\nbut they called my number\ni am about to find out\n<>\nwish me luck\n\n[PAGE 2 OF 2]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\nSUBJECT: Regulations Approval\nFROM: <corrupt:0xFFFFDC>\nTO: <corrupt:0xFFFF0A>\n<>\nI just got off a holocall with the national regulation board. The food teleportation systems are good to sell! Now we can really push for that single-use packaging ban - and given that our foox-boxes already resist spoilage, food waste (and our unprofitable years) will be a thing of the past. And with how lazy people are nowadays, we can certainly adapt this tech to other things.\n<>\nDon't forget to strengthen the thermal shielding of the dropbox. The failure rate is less than 1 in 500, but still... As you know, when E=mc2, and c is so large, that means just the mass of a raisin collapsing into a black hole will immediately (within 10^-25 seconds) evaporate to Hawking radiation, and generate the energy equivalent to the nuclear bomb dropped on Hiroshima. Our systems for reversing the teleportation when this happens are getting better and can take away most of that energy, but we can't let any more leak out.\n<>\nSerendipitously, this solves our abnormally high food usage problem, for now. No one will question why our food delivery department is using food.\n<>\nDo you ever wonder, in an alternate universe, we would have pursued that infinite energy idea?\n\n[END]",
             "Item2": ""
         },
         {
