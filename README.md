@@ -11,7 +11,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [Беларускі (BY)](/BY.json)   | [Russian kid](https://github.com/Russiankids)   |
 | [Português (PT)](/PT.json) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu)       |
 | [Polski (PL)](/PL.json)   | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik)                                                                             |
-| [Español (ES)](/ES.json)   | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0)                                                                             |
+| [Español (ES)](/ES.json)   | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45)                                                                             |
 | [Deutsch (DE)](/DE.json)   | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ)                                                                               |
 | [اَلْعَرَبِيَّةُ (AR)](/AR.json)   | [Enderwolf](https://github.com/Enderw0lf)    |
 | [简体中文 (ZH)](/ZH.json)   | [影月炎YUN](https://github.com/YUN2474), [月曦MONXI](https://github.com/martha-mana), [戈伦](https://github.com/ALPHA371)                                                                            |
