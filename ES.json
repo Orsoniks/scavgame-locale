@@ -81,13 +81,13 @@
         "slingbag": "Bolsa bandolera",
         "slingbagdsc": "Un bolso de hojas con refuerzos adicionales, ideal para llevar en la espalda.",
         "plasticbag": "Bolsa de plástico",
-        "plasticbagdsc": "Una fina, bolsa de plástico azul.",
+        "plasticbagdsc": "Una bolsa fina de plástico azul.",
         "gravbag": "Gravi-Pack",
         "gravbagdsc": "Un contenedor altamente experimental que genera gravedad negativa para reducir el peso de su contenido. Tiene tendencias explosivas cuando su batería está por agotarse.",
         "legpouch": "Bolso para pierna",
         "legpouchdsc": "Un bolso de cuero con correas hechas para rodear el muslo. ¡Es como un bolsillo de bolsillo!",
         "liquidpouch": "Bolsa para líquidos",
-        "liquidpouchdsc": "Una bolsa flexible hecha para guardar líquidos. Tiene una correa que rodea tu barriga. Puedes llenarlo con botellas y viceversa.",
+        "liquidpouchdsc": "Una bolsa flexible hecha para guardar líquidos. Tiene una correa para atarlo a tu abdomen. Puedes llenarlo con botellas y viceversa.",
         "materialpouch": "Bolso para materiales",
         "materialpouchdsc": "Un bolso grande y resistente que se ajusta a tu muslo, tiene varios bolsillos pequeños para guardar materiales creados. La carga se reduce considerablemente, pero solo admite objetos muy pequeños.",
         "purse": "Monedero",
@@ -107,9 +107,9 @@
         "disinfectant": "Botella de antiséptico",
         "disinfectantdsc": "Una botella con atomizador que almacena 0.2 L. Rocía 10 ml de líquidos por cada uso.",
         "spraybottle": "Botella de spray",
-        "spraybottledsc": "Una botella con atomizador que almacena 0.2L. Rocía 10 ml de líquidos por cada uso. Ideal para uso correcto de antisépticos.",
+        "spraybottledsc": "Una botella con atomizador que almacena 0.2 L. Rocía 10 ml de líquidos por cada uso. Ideal para usar correctamente los antisépticos.",
         "syringe": "Jeringa",
-        "syringedsc": "Una jeringa que almacena 100 ml y puede inyectar fluido por vía intravenosa. Es hecha a mano.",
+        "syringedsc": "Una jeringa que almacena 100 ml y puede inyectar fluido por vía intravenosa. Hecha a mano.",
         "scrapmetal": "Pedazo de metal",
         "scrapmetaldsc": "Trozos y piezas de acero de maquinaria destruida. Se puede colocar si tiene al menos un 25% de condición. Comúnmente utilizado como moneda entre supervivientes y para crear objetos.",
         "climbingrope": "Cuerda de escalada",
@@ -141,7 +141,7 @@
         "burger": "Hamburguesa",
         "burgerdsc": "Un almuerzo grande y sabroso. ¡Nutre tanto tu pancita como tu alma!",
         "pancake": "Panqueque",
-        "pancakedsc": "Una masa dulce y plana, cocinada en capas sobre una superficie caliente y cubierta de sirope. Puede que se te pegue al pelaje. ¡Delicioso!",
+        "pancakedsc": "Una masa aplanada, dulce y cubierta de jarabe que fue cocinado en capas sobre una superficie caliente.  Puede que se te pegue al pelaje. ¡Sabroso!",
         "pizzaslice": "Porción de pizza",
         "pizzaslicedsc": "Una porción de pizza al horno. ¡Muy sabroso, saciante y engorda!",
         "bucketofchicken": "Canasta de pollo",
@@ -241,7 +241,7 @@
         "titaniumpickaxe": "Pico de titanio",
         "titaniumpickaxedsc": "Una herramienta finamente elaborada hecha de titanio forjado. Muy duradero y eficiente en remover terreno, aunque no apta para elcombate.",
         "titaniummultitool": "Multiherramienta de titanio",
-        "titaniummultitooldsc": "Una herramienta pequeña, pero resietente y duradera usada para crear objetos, viene integrado un martillo pesado en su punta y una hoja pequeña, pero afilada oculta en el mango. Aunque no sea útil para escavar, ni para el combate, durará casi indefinidamente para cualquier tipo de recetas para crear objetos, y es ligera.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
+        "titaniummultitooldsc": "Una herramienta pequeña, pero resistente y duradera usada para crear objetos, viene integrado un martillo pesado en su punta y una hoja pequeña, pero afilada oculta en el mango. Aunque no sea útil para escavar, ni para el combate, durará casi indefinidamente para cualquier tipo de recetas para crear objetos, y es ligera.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
         "titaniummachete": "Machete de titanio",
         "titaniummachetedsc": "Una herramienta duradera con altas capacidades en el combate, fácil y ligera de blandir, pero devastadora y afilada como una navaja. Su filo fue tratado térmicamente para mantener su filo por más tiempo. Una herramienta asombrosa para defensa personal y puede ser usada como una herramienta de excavación como último recurso.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
         "sledgehammer": "Almádena",
@@ -331,7 +331,7 @@
         "belt": "Cinturón",
         "beltdsc": "Un cinturón de cuero para rodear tu abdomen. Podrías guardar algo ahí.",
         "popcorn": "Palomitas",
-        "popcorndsc": "Un cubo con un montón de granos de maíz, inflados por el calor. Te parece una idea bastante curiosa. Sabroso.",
+        "popcorndsc": "Un cubo con un montón de granos de maíz, inflados por el calor. Te parece un concepto bastante novedoso. Sabroso.",
         "nopopcorn": "Canasta sin palomitas",
         "nopopcorndsc": "Canasta de papel vacío. Puedes almacenar cosas ahí dentro.",
         "spacedrain": "Drenador espacial",
@@ -355,7 +355,7 @@
         "ceftriaxone": "Jeringa de ceftriaxona",
         "ceftriaxonedsc": "Una jeringa que almacena 100 ml, se administra vía intravenosa. Tiene un pequeño frasco al lado para extraer muestras.",
         "woundglue": "Pegamento para heridas",
-        "woundgluedsc": "Un tubo que almacena 80 ml, usualmente de pegamento para heridas. Aplica 20 ml de líquido por cada uso.",
+        "woundgluedsc": "Un tubo que, usualmente, almacena 80 ml de pegamento para heridas. Aplica 20 ml de líquido por cada uso.",
         "boneweldingtool": "Soldador de huesos",
         "boneweldingtooldsc": "Una tecnología muy experimental que vuelve a soldar una fractura, acelerando enormemente la curación. Causa daños a la extremidad debido al proceso; es mejor tener preparado un vendaje.",
         "paprikash": "Paprikash",
@@ -369,13 +369,13 @@
         "terrainscanner": "Escáner de terreno",
         "terrainscannerdsc": "Te muestra un mapa de baja calidad del terreno debajo de ti. El terreno está resaltado en verde, los edificios sólidos en rojo. Desciende 24 metros.",
         "liquidcentrifuge": "Centrifugadora de líquidos",
-        "liquidcentrifugedsc": "Una centrífuga portátil que puede dividir de manera ineficiente una mezcla en sus componentes base. El proceso es un poco complicado y da como resultado la pérdida de aproximadamente dos tercios del volumen total del líquido. Se recarga cada 60 segundos.",
+        "liquidcentrifugedsc": "Una centrífuga portátil divide ineficientemente una mezcla en sus componentes base. El procedimiento es complicado y da como resultado una pérdida de aproximadamente dos tercios del volumen total del líquido. Se recarga cada 60 segundos.",
         "epda": "APD-E",
-        "epdadsc": "Asistente personal digital electrónico, es probable que lo hayan dejado tus captores por accidente. Si le colocas una bateria, probablemente podrías husmear sus notas.",
+        "epdadsc": "Un Aparato Personal Digital Electrónico que le pertenece a tus captores y posiblemente cayó por accidente. Si insertas una batería, probablemente podrías leer sus notas.",
         "bloodcoagulant": "Jeringa de procoagulante",
         "bloodcoagulantdsc": "Una jeringa que almacena 100 ml, posee un autoinyector a su extremo. Usa aproximadamente 34 ml por dosis.",
-        "combatpen": "Inyección de combate",
-        "combatpendsc": "Una pluma inyectora que almacena 100 ml e instantáneamente inyecta su contenido dentro del cuerpo. Contiene una mezcla diseñada para estabilizar rápidamente a los heridos y brindar apoyo en situaciones de combate.",
+        "combatpen": "Pluma inyectable de combate",
+        "combatpendsc": "Un auto inyector tipo pluma que almacena 100 ml e inyecta sus contenidos al cuerpo instantáneamente. Contiene una mezcla diseñada para estabilizar rápidamente a los heridos y brindar apoyo en situaciones de combate.",
         "streptokinase": "Jeringa de estreptoquinasa",
         "streptokinasedsc": "Una jeringa que almacena 100 ml, posee un autoinyector a su extremo. Usa aproximadamente 34 ml por dosis.",
         "chestdrain": "Drenador torácico",
@@ -383,7 +383,7 @@
         "tweezers": "Pinzas",
         "tweezersdsc": "Un simple par de pinzas de metal. Puede extraer de forma limpia y sin dolor las esquirlas de las extremidades.",
         "lockpickingkit": "Kit de ganzúas",
-        "lockpickingkitdsc": "Un pequeño conjunto de herramientas que abren cualquier tipo de cerradura eficientemente. Para usarlo, tenlo en tu inventario principal cuando intentes abrir una cerradura. Requiere 10 de INT para usarse, la efectividad aumenta con el nivel de INT.",
+        "lockpickingkitdsc": "Un pequeño conjunto de herramientas usado para abrir cualquier tipo de cerradura eficientemente. Para usarlo, equípalo en tu inventario principal al abrir una cerradura. Necesita 10 en INT para usarlo y su efectividad aumenta con un nivel en INT mayor.",
         "icepack": "Bolsa de hielo",
         "icepackdsc": "Una bolsa de frío rellena de gel autoenfriante. Acelera la recuperación muscular, reduce el dolor y proporciona un ligero enfriamiento. Se enfría automáticamente con el tiempo.",
         "armwarmers": "Calentadores de brazos",
@@ -509,7 +509,7 @@
         "flimsyknife": "Cuchillo endeble",
         "flimsyknifedsc": "Un cuchillo pequeño, desafilado y quebradizo. Puede ser usado para crear objetos rudimentarios. Poca o nula utilidad en combate.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
         "craftingbottle": "Botella improvisada",
-        "craftingbottledsc": "Una botella de un litro hecha de trozos y pedazos de materiales a tu alrededor. No puede usarse para agregar líquidos y desaparecerá cuando se vacía o transcurran unos pocos minutos. Será mejor transferir sus contenidos a otro recipiente antes de que desaparezca.",
+        "craftingbottledsc": "Un contenedor de agua improvisado. No puedes añadir líquidos y se romperá pronto. Transfiere sus contenidos a otro recipiente antes de que desaparezca.",
         "nondescriptcan": "Lata sin etiqueta",
         "nondescriptcandsc": "Una insípida lata de... algo. No se parece ni huele a algo en particular. Tal vez sea útil, quizás no.",
         "canteen": "Cantimplora",
@@ -519,7 +519,7 @@
         "autoinjector": "Inyector automático",
         "autoinjectordsc": "Una maravilla médica en su momento, este dispositivo es capaz de encontrar automáticamente una vena o arteria para inyectar y administrar la dosis indicada. Usado para crear objetos médicos.",
         "keratinbooster": "Potenciador de keratina",
-        "keratinboosterdsc": "Una botella que almacena 100 ml etiquetada como suplemento para el cuidado de las uñas. La dosis es 50 ml por trago.",
+        "keratinboosterdsc": "Una botella que almacena 100 ml etiquetada como suplemento para el cuidado de las uñas. La dosis es 50 ml por ingesta.",
         "drillrepairkit": "Kit para reparación de módulos de perforación",
         "drillrepairkitdsc": "Un paquete pequeño de repuestos para reparar módulos de perforación. Podrías usar uno de estos para hacer que uno de los módulos regrese a su estado funcional.",
         "campfire": "Fogata",
@@ -535,7 +535,7 @@
         "bread": "Pan",
         "breaddsc": "Una rodaja de pan hecha con harina y agua. La cosa más simple que puedes comer, aunque no es repulsivo y durará por mucho tiempo.",
         "cake": "Pastel",
-        "cakedsc": "Un dulce pastel horneado con un poco de glaseado encima. Grande, saciante y delicioso, aunque el azucar lo hace un poco empalagoso si se come demasiado.",
+        "cakedsc": "Un pastel dulce horneado cubierto en capas de glaseado. Abundante, saciante y delicioso, aunque, su contenido en azúcares resulta un poco empalagoso si se come en exceso",
         "pemmican": "Pemmican",
         "pemmicandsc": "Una mezcla de grasa, carne seca y frutas deshidratadas. Dura por mucho tiempo y tiene muchas calorías. Su sabor es neutro.",
         "torch": "Antorcha",
@@ -544,6 +544,8 @@
         "lighterdsc": "Un mechero genérico con una tapa abatible. Puede ser usada como fuente de llama para crear varios objetos, como iluminar fogatas. Se puede usar muchas veces.",
         "present": "Regalo",
         "presentdsc": "Una caja decorada con papel que parece tener algo adentro. Úsalo para desenvolverlo.",
+        "woodsandals": "Sandalias de madera",
+        "woodsandalsdsc": "Una tabla de madera amarrada a tus patas con un poco de cuerda. Es supremamente incómodo, pero te protegerá de los fragmentos afilados... ¡Si tienes suerte, más de una vez!",
         "minibarrel": "Minibarril",
         "minibarreldsc": "Un barril pequeño e industrial hecho para almacenar líquidos. Extremadamente pesado e impráctico para usarse."
     },
@@ -580,7 +582,7 @@
         "barbedwirefence": "Valla de púas",
         "barbedwirefencedsc": "No toques la parte punzante.",
         "beartrap": "Trampa para osos",
-        "beartrapdsc": "Tiene un conjunto de mandíbulas con dientes afilados",
+        "beartrapdsc": "Un par de mandíbulas con dientes afilados.",
         "bioterminal": "Bioterminal",
         "bioterminaldsc": "Un terminal de ordenador con una placa debajo y una escritura que dice \"Inserte una muestra de ADN humano para continuar...\"",
         "lifepodshower": "Ducha de cápsula salvavidas",
@@ -603,13 +605,13 @@
         "sandvine": "Enredadera de la arena",
         "sandvinedsc": "Una enredadera larga y robusta. Se puede trepar, pero puede ser difícil si es demasiado delgada.",
         "ladder": "Escalera",
-        "ladderdsc": "Una serie de peldaños verticales que se utilizan para subir o bajar. Se supone que sabes cómo usarla.",
+        "ladderdsc": "Una serie de peldaños verticales que se utilizan para subir o bajar. Supuestamente sabes cómo usarla.",
         "shadecrawler": "Acechante sombrío",
         "shadecrawlerdsc": "",
         "wallbiter": "Muerdeparedes",
         "wallbiterdsc": "Una bestia de seis patas, relativamente grande y mullida. Puedes ver lo que parecen dientes afilados que sobresalen. Parece moverse erráticamente.",
         "thornbackyoung": "Lomoespina",
-        "thornbackyoungdsc": "Un joven, esponjoso y muy agresivo lomoespina. Aparentemente disfrutan cavar túneles en el suelo y destrozar cualquier cosa en movimiento cerca..",
+        "thornbackyoungdsc": "Un lomoespina joven, esponjoso y muy agresivo. Aparentemente disfrutan cavar túneles en el suelo y destrozar cualquier cosa en movimiento cerca..",
         "thornbackelder": "Lomoespina adulto",
         "thornbackelderdsc": "¡CORRE!",
         "cavetick": "Garrapata de cueva",
@@ -839,7 +841,7 @@
         "trauma1": "Inquieto",
         "trauma2": "Asustado",
         "trauma3": "Traumatizado",
-        "trauma4": "Aterrorizado",
+        "trauma4": "Estrés postraumático",
         "happy1": "Satisfecho",
         "happy2": "Emocionado",
         "happy3": "Feliz",
@@ -903,7 +905,7 @@
         "withdrawal2dsc": "Tu cuerpo está desesperado por recibir otra dosis. Quieres vomitar... Esto se siente muy mal. Tratamiento recomendado.",
         "withdrawal3dsc": "Estás luchando por mantenerte firme, temblando y desesperado por cualquier tipo de alivio. Se siente horrible. Tratamiento necesario.",
         "withdrawal4dsc": "Tu cuerpo no puede sostenerse sin los opioides de los que tanto depende. Tu corazón lucha por bombear oxígeno por todo el cuerpo, lo que provoca daño cerebral hipóxico durante un episodio desesperado.",
-        "stimulateddsc": "Fuertes estimulantes en la sangre. Te sientes listo para enfrentar lo que sea que te encuentres... Por ahora.",
+        "stimulateddsc": "Drogas estimulantes fuertes corren por tu sangre. Te sientes listo para enfrentar lo que sea que te encuentres... Por ahora.",
         "drugoverdosedsc": "Estás sufriendo una sobredosis por un medicamento no opioide. Es probable que sufras problemas de salud.",
         "bleeding1dsc": "La sangre sale de una herida relativamente pequeña. No hay peligro inmediato.",
         "bleeding2dsc": "La sangre sale de una herida de tamaño decente. Es poco probable que sea fatal si estás sano. Tratamiento recomendado.",
@@ -1192,7 +1194,7 @@
         "woundglue": "Pegamento para heridas",
         "woundgluedsc": "Sustancia hemostática antibiótica parecida a un pegamento. Combate las infecciones, favorece la cicatrización y es muy eficaz para sellar heridas abiertas. Podría causar problemas de circulación; úselo con precaución.",
         "keratinbooster": "Potenciador de keratina",
-        "keratinboosterdsc":"Una hormona del crecimiento modificada que promueve específicamente la producción de queratina para estimular su crecimiento. Acelera el crecimiento de tus garras durante un tiempo.",
+        "keratinboosterdsc": "Una hormona del crecimiento modificada que promueve específicamente la producción de queratina para estimular su crecimiento. Acelera el crecimiento de tus garras durante un tiempo.",
         "highgradestimulant": "Estimulante de uso médico",
         "highgradestimulantdsc": "Fármaco estimulante de uso médico. Te da un fuerte impulso durante bastante tiempo, y por lo general es seguro de usar. La sobredosis generalmente provoca debilidad, con un bajón muy leve. Usa 100 ml por dosis.",
         "midgradestimulant": "Estimulante",
@@ -1303,7 +1305,7 @@
         "dune": "Dune",
         "dunetraderdsc": "Alto, ancho e imponente, tienen más músculos que cerebro. Tienen aletas de aspecto extraño esparcidas por todo el cuerpo, seis espinas que sobresalen a los lados de su cabeza y una boca terriblemente grande repleta de dientes grandes y afilados. Parece que tienen branquias alrededor del torso. Si bien no son directamente agresivos, se guían principalmente por el hambre, por lo que probablemente no les importen mucho las baratijas que les des; tendrás que pensar en una mejor manera de ganarte su favor.",
         "Shelly": "Shelly",
-        "clicktocontinue": "Clic para continuar...",
+        "clicktocontinue": "Clic para continuar...\nESC para omitir",
         "favouriteditem": "Los objetos marcados como favoritos se resaltarán y no se usarán para crear objetos",
         "mainhand": "Mano primaria",
         "secondaryhand": "Mano secundaria",
@@ -1648,14 +1650,12 @@
         "weighs": "<sprite index=0>Valor ",
         "purchase": "Comprar",
         "trade": "Dar al comerciante",
-        "reputation": "<sprite index=18>Reputación: ",
         "reputationtip": "Reputación",
         "reputationtipdsc": "Afecta el precio del objeto y la actitud del comerciante ante ti. Es afectado por tu estado general e interacciones con el superviviente.",
         "valuegiventip": "Valor dado",
         "valuegiventipdsc": "Cuánto te debe el superviviente. Esta es tu moneda al comerciar objetos.\n\nSolo puedes obtener un valor total de 60 antes de que el superviviente comience a negarse a recibir más objetos.",
         "traderpurchase": "Comprar objeto",
         "tradingblocked": "Comprado recientemente",
-        "valuegiven": "<sprite index=9>Valor dado: ",
         "theirinventory": "Su inventario",
         "yourinventory": "Tu inventario",
         "haggle": "Regatear",
@@ -3901,6 +3901,31 @@
                 "Item3": "experiment"
             },
             {
+                "Item1": "A quien sea que encuentre esto, ellos pueden y van a controlarte, incluso en este infierno. Repentinamente empecé a escuchar una fuerte alarma dentro de mí, podía ver un mensaje que decía \"PROFUNDIDAD INSATISFACTORIA\" con luces rojas intermitentes en mi visión periférica.\n\nComencé a correr, en pánico, sin saber por qué harían esto. Sólo se detuvo cuando fuí a otra región de estas cuevas. Saben exactamente cuánto tiempo pasas en el mismo sitio, saben que estarás atemorizado, y quieren presenciar tu muerte. Esto no es más que un genocidio en masa.",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "encontré un arma. un arma de fuego. dios... no estoy preparado para usar esta cosa... debí prestar más atención durante el entrenamiento... no tengo ni idea de cómo me mandaron aquí, sin estar preparado, en lugar de ser sacrificado. casi le disparo a alguien por accidente. debería haberle activado el seguro... quién soy yo para saber eso. los otros tienden a entrar en pánico cuando te ven sosteniendo un arma. así que lo mejor tal vez sea conservarla dentro de algo, para que no la vean. piensan que les vas a disparar, no saben tus intenciones. bueno, siendo sincero también pensaría lo mismo si alguien apuntara un arma hacia mí.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "me odio tanto por actuar como un completo imbécil con los otros allá arriba... ahora cualquier sobreviviente que encuentro me ahuyenta de su cápsula... créeme, si supieras los insultos que estaban diciendo... trataron de aruñarme... y tan sólo me digo a mí mismo: \"okay ya, lo siento. la puta madre, se dan cuenta de que en este momento todo ser cuenta? no hay tiempo para herir y matarse el uno al otro\". deseo haber sido una mejor persona... todo es culpa mía.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Todo está repleto de incontables tipos de bichos que caminan por doquier. Me considero un poco pacifista, así que intento alejarme lo más que puedo en vez de pelear con ellos, ya que no sé quién terminará matando primero al otro... Al fin y al cabo, las heridas que me dejan duelen como el mismísimo infierno... Ya ni sé... ¿Nuestros captores si quiera saben lo que nos ocurre acá abajo?",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "Me siento solo... así que decidí distraerme:\nEncontré una especie de fax miniatura que logré abrir a la fuerza y saqué sus hojas de papel. Agarré un palo y exprimí una de las frutas luminosas sobre el. ¡Resultó ser como pincel y lienzo! Si tan sólo supieras... Empecé a dibujar realidades alternas en donde somos libres y vivimos juntos en harmonía; sin esos malditos científicos... Me sentí tan feliz, incluso lloré un poco.\nPero ahora tengo que irme: ¡estoy hambriento! ¿Si alguna vez nos encontramos, te dibujaré, también...? Me volví muy bueno usando el \"pincel\". Trataré de encontrar a los demás para dibujarlos, también...",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
                 "Item1": "(Hay gráficos coloridos en el papel, y no parecen haber sido escritos a mano)\n<>\nSopa! Prueba nuestra Olla Especializada - simplemente meta la carne y los ingredientes dentro y cocine a fuego lento. Estará de acuerdo que su valor está en el peso del sabor. Puede ser almacenado por hasta 737 años!",
                 "Item2": "",
                 "Item3": ""
@@ -3998,11 +4023,21 @@
                 "Item1": "Me duele admitirlo, pero no se puede negar la fragilidad de mi especie. Afortunadamente, encontré un espectacular contenedor que anula totalmente el peso de la mayoría de cosas, permitiéndome llevar más suministros de los que normalmente puedo.\nFunciona con baterías, y eso me preocupa. No estoy seguro de qué pasará cuando se le acabe la energía, así que quiero averiguarlo en este momento, para estar seguro.<>\nNo quiero que se ponga pesado en la mitad de un salto. Tengo una batería casi muerta.\nHora de averiguar cómo se comporta la mochila cuando se le acaba la batería.\n\n(El resto de la nota es ilegible; cualquier texto que estaba escrito después está cubierto por una abundante cantidad de sangre seca.)",
                 "Item2": "",
                 "Item3": "milky"
+            },
+            {
+                "Item1": "Ni siquiera he pasado de este rocoso paisaje infernal, y puedo sentir que la muerte está cerca,\nLo único que me dieron fue una linterna de mierda que no duró ni una hora; ni siquiera algo de equipo de seguridad que ayude a acolchonar las caídas que he recibido.\n\n¡JODER, me siento como una bola de esas máquinas de apuestas que veía usar a los humanos!\n\nPienso que me estoy muriendo lentamente, desde la última caída me he sentido bastante mareado, me siento cansado; pero presiento de que si duermo, moriré.\n\nQue Dios me salve.\nLA PUTA MADRE.\nDe verdad que no quiero morir, así no..\nAunque, ¿de qué sirve todo esto?\nNi siquiera tengo un nombre propio, sólo una etiqueta..\nMierda...",
+                "Item2": "",
+                "Item3": "milky"
             }
         ],
         [
             {
                 "Item1": "ugh. hace mucho calor aquí. Realmente necesito ahorrar mis movimientos y tener cuidado de no caer por el calor. encontré que zambullirme en piscinas de agua ayuda mucho... creo que incluso las marrones si están desesperados.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ya no puedo más. por qué?\ntodos están muertos.\nquiero que esto acabe\nno puedo\nquiero libertad\npor qué\nno puedo? no quiero seguir viendo esto. he visto demasiadas cosas terribles. estoy tan enfermo.\nmi pierna está en la mierda. volada en pedazos por una puta mina\nmy mano, la derecha, me está matando de dolor\nquiero darle fin a todo\ntodo es una miseria\nya no puedo\ndentro de poco desgarraré mi arteria y me convertiré en otro cadáver más para que le eches un ojo - suponiendo que no me hayan devorado antes de que llegues.\n\ngracias por todo. adiós",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4037,7 +4072,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "escucho un timbre.. mi cabeza duele tanto, pero tanto, escuché un pitido mientras descendía un poco y luego hubo ese estruendoso golpeteo     no sé de dónde vino . no puedo ver más allá, pero hay algo muy peligroso en estas cuevas, ten cuidado con los espacios abiertos y grandes",
+                "Item1": "escucho un pitido.. mi cabeza duele tanto, pero tanto, escuché un tipo de chirrido mientras descendía un poco, tras de eso hubo un fuerte disparo     no sé de dónde vino . no puedo ver más allá, pero hay algo muy peligroso en estas cuevas, ten cuidado con los grandes espacios abiertos",
                 "Item2": "",
                 "Item3": "experiment"
             }
@@ -4049,12 +4084,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Hay algo muy mal con este ambiente. En el aire, lo puedo sentir- esas celdas de energía arruinadas me hace erizar el pelaje. Al pasarlos se me pone la piel de gallina, y siento mi cuerpo arder. Incluso cuando no las puedo ver, puedo sentir esa tensión incómoda creciendo en el aire. He tenido que usar mi cuerda e incluso arañar a través de las rocas para encontrar atajos, pero incluso así, hay unas piedras púrpuras que parecen tener el mismo efecto, sólo que en diferentes dosis.",
+                "Item1": "Hay algo muy mal con este ambiente. En el aire, lo puedo sentir- esas celdas de energía arruinadas me hacen erizar el pelaje. Al pasarlas se me pone la piel de gallina, y siento mi cuerpo arder. Incluso cuando no las puedo ver, puedo sentir esa tensión incómoda creciendo en el aire. He tenido que usar mi cuerda e incluso arañar a través de las rocas para encontrar atajos, pero incluso así, hay unas piedras púrpuras que parecen tener el mismo efecto, sólo que en diferentes dosis.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
             {
-                "Item1": "uno de los otros que me encontré cayó sobre un montón de esas rocas púrpuras. logré sacarle pero nuestros abrigos se rasgaron. no sé que está pasando.<>\n\n\n\n\ncomí una de las frutas que estaban en una cápsula salvavidas... dejé de estar adolorido. pero cuando uno le pegó un mordisco, empezó a vomitar sangre unos minutos después. no está respirando. qué fue diferente? se veía igual. simplemente soy afortunado de estar vivo? por qué no se habrá mejorado?",
+                "Item1": "uno de los otros que me encontré cayó sobre un montón de esas rocas púrpuras. logré sacarle pero nuestros abrigos se rasgaron. no sé que está pasando.<>\n\n\n\n\ncomí una de las frutas que estaban en una cápsula salvavidas... dejé de estar adolorido. pero cuando uno le pegó un mordisco, empezó a vomitar sangre unos minutos después. no está respirando. ¿qué fue diferente? se veía igual. ¿simplemente soy afortunado de estar vivo? ¿por qué no se habrá mejorado?",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
@@ -4106,11 +4141,21 @@
                 "Item1": "dune frío. cavar calentar no suficiente. dune come amigo peludo. come crudo! dune tiene pelaje. pelaje caliente para dune. dune lleno y caliente. dune feliz no frío.",
                 "Item2": "",
                 "Item3": "dune"
+            },
+            {
+                "Item1": "hace frío acá abajo, me veo obligado a meterme en cápsulas salvavidas para calentarme... aunque algunas veces hay estas pequeñas estufas en las que puedo encontrar calor, sólo debo ser cuidadoso de no tocarlas por mucho tiempo, me hacen sentir malo. sólo lo suficiente para calentarme y seguir. si fuera tú, iría a lo seguro y estaría al tanto de cualquier cosa escarbando hacia mí cuando estoy descansando. puedo escuchar cosas a mí alrededor, como si estuvieran haciendo túneles.",
+                "Item2": "",
+                "Item3": "experiment"
             }
         ],
         [
             {
                 "Item1": "Es raro como puede llover aquí. Nunca he visto lluvia real antes... Es algo hermosa, incluso si es antihigiénica. Me sigo preguntando como es posible que haya una concentración tan alta de agua aquí abajo. Quizás, ¿el agua de la capa de hielo superior gotea hasta aquí abajo?",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "No sé qué me golpeó, pero ya no puedo sentir las piernas, lo único que veo es un revoltijo de músculo, hueso y sangre\nmi cuerpo pide a gritos que el profundo sufrimiento se acabe \nlo único que tengo es este dispositivo azul en mi pecho. el sobreviviente al que se lo compré me dijo que sólo debía ser usado en caso de emergencia.\nEl dolor ya no es insoportable, pero ahora la luz está titilando. no sé cuánto tiempo me queda. ¿será que la oscuridad volverá cuando esta cosa se apague? no quiero desaparecer...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4126,6 +4171,78 @@
     "pdaNotes": [
         {
             "Item1": "[REPORTE BIOMÉTRICO - 25##-11-19-18-49-58-4587]\n<>\nCLASE DE ENTIDAD: Biológica\nSUBCLASE DE ENTIDAD: Sawian\nNOMBRE DE ENTIDAD: Experimento\n<>\n[CONTENIDOS]\n\nLa versión biológica estable de nuestro proyecto más reciente está lista.\nParece que, mentalmente, no quedó ni va a quedar nada de nuestro voluntario humano original, sin mencionar el resto de los participantes.\nA pesar de eso, parece que aprenden rápidamente, y no están tomando represalias.\n<>\nLa combinación de ADN causó que el Experimento fuera considerablemente más pequeño en estatura que un ser humano, también tiene poca grasa y masa muscular.\nA pesar de esto, su densidad ósea y muscular es mucho mayor. Se asume que esto le dará al espécimen resistencia a diferentes formas de trauma físico... Y se le dificultará nadar.\nTiene tres protuberancias detrás de su cráneo, de consistencia similar al cartílago de una oreja. De alguna forma, tiene una estructura de oreja similar a la de un ave - debe de haber quedado en alguna parte del ADN que empalmamos.\nTiene un pelaje fino y carne de color rosado amarillento, como se aprecia en heridas dentro de la boca.\nSus manos son una combinación entre las de un canino y un homo-sapiens. Sé que uno de mis compañeros lo disfrutará-\nDe alguna forma, los ojos bioluminiscentes de nuestros anteriores prototipos de esta especie han permanecido. Aún no determinamos los efectos exactos que esto tiene en su visión.n<>\nPronto clonaremos esta especie 30 veces para realizar pruebas destructivas en los clones. Dejaremos que algunos se reproduzcan naturalmente, para ahorrar recursos.\n\n[FIN]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nASUNTO: Anuncio sobre la amistad con los Sawianos\nDE: Gerente del Proyecto\nPARA: Todos los empleados\n<>\n[CONTENIDOS]\n\nEstimado personal:\n\nHemos tenido conocimiento de que uno de nuestros empleados se reunía constantemente con un SAW-03 y le revelaba información privada. Esto no solo constituyó una flagrante violación de la confidencialidad, sino que tener tales relaciones con los especímenes es completamente inaceptable. El científico en cuestión fue despedido rápidamente y el SAW-03 se suicido poco después.\n\n¿Tiene usted algún amigo Sawiano? Lo estamos observando de cerca. Aún está a tiempo de dar marcha atrás. Pero si lo descubrimos haciéndose amigo de ellos, correrá la misma suerte.\n\nAtentamente,\nGerente del Proyecto\n\n[FIN]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]n<>\nASUNTO: Demasiado tarde para tus preguntas\nDE: Investigador\nPARA: Psicólogo\n<>\n[CONTENIDOS]\n\nLe escribo para informarle que todos los Sawianos que se rebelaron la semana pasada YA fueron sacrificados, así que me temo que ya no podrá hacerle sus preguntas.\n\nYa fueron entrevistados a fondo y confesaron que todo lo que sabían provenía de ese SAW-03, así que el misterio está resuelto. Es preocupante que algunos de los científicos que mataron eran sus propios entrenadores y admitieron haberlos atacado a propósito. \n\nHe oído que se reforzará la seguridad, así que espero que este desorden no se repita.\n\nAtentamente,\nInvestigador\n\n[Fin]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-04-01-15-29-18-1058]\n<>\nCLASE DE ENTIDAD: Biológica\nSUBCLASE DE ENTIDAD: Sawian\nNOMBRE DE ENTIDAD: Reporte de Consumo de Carne\n<>\n[CONTENIDOS]\n\nObjetivo de Reducción de Desechos Corporativos\n<>\n32 Sawianos fueron aleatoriamente reclutados de los que tenemos en nuestras instalaciones en<corrupt:0xFFFFFF> Las características iniciales fueron: 25 SAW-01, 4 SAW-03, 3 SAW-12. Estos especímenes fueron asignados de forma aleatoria a 8 grupos de 4 especímenes. Cada grupo fue sometido a una decisión en tres tipos de condiciones: consumir carne Sawian o Terrestre, consumirla cruda o preparada en una sopa, y teniendo conocimiento o siendo ignorante del origen de la carne.\n\nLa carne fue tomada del Incidente el [25##-12-30].\n<>\nSi bien los SAW-01 y SAW-03 en todos los grupos que consumieron carne Sawiana, sin importar si conocían o no el origen de la carne, demostraron emociones extremadamente negativas al consumirla, los SAW-12 no mostraron las mismas emociones. Ningún Sawiano que consumió carne terrestre demostró emoción negativa alguna, presumiblemente porque no reconocieron esa carne como de su propia especie, aunque existieron quejas por comer carne cruda. Ningún Sawiano que consumió carne preparada en sopa demostró emociones negativas, incluso si hubieran tenido conocimineto de su origen.\n\nLos SAW-12 demostraron una apatía aberrante a consumir carne cruda Sawiana, como fue esperado. Podríamos utilizar especímenes descartados como alimento para cualquier SAW-12 en las instalaciones.\n\n[FIN]",
+            "Item2": ""
+        },
+        {
+            "Item1": "",
+            "Item2": ""
+        },
+        {
+            "Item1": "",
+            "Item2": ""
+        },
+        {
+            "Item1": "(El APD tarda un momento en cargarse. Lo primero que notas es una advertencia acerca de la integridad del disco duro.)<>\n\n[MENSAJE INTERNO]\n[PROYECTO <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nUBICACIÓN: <corrupt:0xFBC00F> División Biométrica\nFECHA: <corrupt:0xFFFFFF>\nDUEÑO DECLARADO: Ingeniero Principal <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nNOTAS DEL DUEÑO: \n\nHemos logrado un avance significativo en relación al chip de estado nanotecnológico. ¡AL FIN LO LOGRAMOS! Las pruebas en ratas de la divison biológica mostraron que, en realidad, podían reaccionar a su estado biológico y completar tareas mientras alcanzan el valor biológico   <corrupt:0xFFFFFF>   <corrupt:0xFFFFFF>   prendente lo que la determinación humana puede lograr con presupuesto casi ilimitado. Honestamente ni me imagino la cantidad de personas a las que esta tecnología les pueda ayudar a mantener un mejor autocuidado. Si nuestro nuevo programa Sawian va bien, podríamos poner a prueba el <corrupt:0xFFFD5E> en ellos.\n<>\nESPECIFICACIONES DEL CHIP: \n\nEl <corrupt:0xFFFFFF> es una placa irregular co        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   iseñado de cierta manera para que pueda ser colocado cerca del cerebro al reverso de la cabeza. Dos posibles configuraciones existen hasta ahora, una dentro del cráneo y otra por fuera. Ambas variantes se conectan a las neuronas mediante nanovarillas conductoras elásticas.\n\n<corrputo:0xFFFD5E> toma ciertas señales eléctricas del cerebro, las potencializa, analiza la información recibida y envía los datos finales a la corteza visual del cerebro, creando un bucle que permite examinar las funciones corporales por el paciente. Esta información incluye latidos del corazón, irritación de los músculos y la piel, niveles de oxíge   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   <corrupt:0xFFFD5E> actualmente su fuente de energía es una pequeña batería basada en la patente <corrupt:0xFFBD5A de la compañía. Ya que se recarga por sí sola usando la poca radiación en el ambiente, debería de durar para siempre a menos que sufra algún daño.<>\n\nEl costo de producción se estima que se   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>           cción está basada en el hecho de que la mayoría de los componentes internos y nanoprocesadores ya se encuentran en producción para otros productos no relacionados.\n\nEl <corrupt:0xFFFD5E> cuenta con ranuras modulares parar la conexión de accesorios al chip, facilitando la capacidad de expansión en el futuro.\n<>\nESQUEMA DE CHIP ADJUN   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ACCESO ILEGAL A MEMORIA><>\n\n\n(El APD se congela de repente y se apaga.)",
+            "Item2": ""
+        },
+        {
+            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nASUNTO: ¡¡Felicidades!!\nDE: <corrupt:0xFF0BEA>\nPARA: GRUPO <corrupt:0xFC0002>\n<>\n[CONTENIDOS]\n\nQueridos científicos,\n\nLa creación de un mamífero gonosimulístico (use el término correctamente) capaz de reproducción asexual es un avanze espectacular para la ciencia. Jamás se había visto esto en la naturaleza. Es incierto si aún es posible llamarles mamíferos... Sirve de prueba para mí y para <corrupt:0x0001FC> que no hay absolutamente nada que este equipo no pueda hacer.\n\nDeseo agradecerles a todos los que contribuyeron en este asombroso logro. Esto reduce enormemente el costo y complejidad de su producción, ya que no es necesario crear y organizar diferentes Sawianos machos y hembras. La falta de deseo sexual también limita la sobrepoblación y evita cualquier incidente, sin impedir que puedan reproducirse.\n<>\nPronto tendrán una recompensa de parte mía.\n\nCon mis mejores intenciones,\n<corrupt:0xFF0BEA>\n<>\n[ADJUNTOS]\n\nREF: [MEMORÁNDUM INTERNO - 25##-12-07-09-12-40-0157]\n\nCLASE DE ENTIDAD: Biológico\nSUBCLASE DE ENTIDAD: Sawian\n<>\n[CONTENIDOS]\n\nEste memorándum establece una póliza de terminología mandatoria para la especie Sawian y supersede toda documentación, anotaciones y usos informales anteriores.\n\nEfectivo inmediatamente, el término \"hermafrodita\" está **prohibido en todas la comunicaciones corporativas**, incluyendo en contextos científicos, operacionales, culturales y casuales. La única excepción es referencia histórica específica (p.ej., citas textuales, análisis de documentación antigua o la discusión de taxonomías terrestres obsoletas), la cual deberá ser claramente designada como tal.\n\nEl descriptivo aprovado para la biología reproductiva del espécimen Sawian es \"gonosimulístico\".  \nDependiendo del contexto, las alternativas son: \"cosexual\" y \"monoica\".\n\nCualquier uso del término fuera de estos delgados contextos históricos es considerado inapropiado, degradante, y pone en duda su profesionalidad. Esto introduce un riesgo intepretativo evitable y será revisado conforme al Marco de Control del Lenguaje Orientado a las Partes Interesadas.\n<>\nNingún ser humano posee naturalmente dos sistemas reproductivos completamente funcionales. El término médico, humano, y social adecuado es \"intersexual\", no \"hermafrodita\". Este último originado de la figura mitológica Hermaphroditus y ha sido asociado durante mucho tiempo a estigma, violencia, y deshumanización. Esto incluye el uso del término para referirse a animales, y esto hace que se igualen los humanos y animales intersexuales. Esto ha demostrado ser volátil en entornos públicos, académicos, y mediáticos.\n<>\nEl uso de este término en especies no humanas se origina de ese mismo Marco y por consecuente no es ni neutral ni aceptable, sin importar las diferencias biológicas.\n<>\nSi bien existen algunas alternativas históricas, como lo es \"eunuco\", \"bisexual\", y \"andrógeno\", estos han adoptado nuevas connotaciones y significados que tampoco son apropiados para usar en este sentido.\n\nNo proyecten los géneros humanos o marcos sexuales sobre los Sawian. La biología reproductiva no dicta la presentación, orientación, identificación o función social de género.\n\nLa terminología reproductiva no es vocabulario informal y no debe tratarse como tal.\n<>\nEsta póliza no constituye una posición moral, orientación médica, o aprobación cultural. Su propósito es estrictamente asegurar consistencia, reducir ambigüedad, y proteger la organización de cualquier daño a su reputación.\n\n[FIN ADJUNTOS]\n\n[FIN]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[EMAIL - 25##-06-21-18-20-06-1075]\n<>\nASUNTO: <corrupt:0xFFFFFF>\nDE: <corrupt:0xFFF0CE>\nPARA: <corrupt:0xFA05F2>\n<>\n[CONTENIDOS]\n\nBuen día.\nComo indiqué en mi correo anterior, es muy preocupante la rapidez que tiene la división de manufacturación para sacar diseños de peluches. Comprendo que tener varios diseños de estos seres ha sido buena estrategia para alejar la atención a nuestros actuales objetivos, al igual que ofuscar cualquier información que sea filtrada. Calculé algunos números estimados y resulta que de nuestro presupuesto actual; 43.7% está dirigido a investigación y desarrollo de estos juguetes.\n\nComo debe saber, ya hemos estado sufriendo pérdidas gracias a la cantidad de comida que importamos para los Sawianos. Entiendo que no revelar lo que hacemos al público es el objetivo principal, pero cuando podríamos usar esos <corrupt:0xFFFFFF> para realmente alimentar estos especímenes y evitar cualquier malestar con ellos, me cuesta entender por qué estamos invirtiendo tanto en estos juguetes.\n<>\nAtentamente,\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000>\n <corrupt:0xVIOLACIÓN ACC MEMORIA>",
+            "Item2": ""
+        },
+        {
+            "Item1": "[Registro de Inv. 11-34X]\n[Medidas de Retención al Personal]\n--------------------------------------------------------<>\nRR-104 Sistema Neumático de Control de Acceso - \"Trampa de Púas\"\n\nUna barilla de acero afilada (180 cm de largo, 10 cm de diámetro) ligado a un mecanismo de lanzamiento, capaz de extender por completo la punta en 0.3 segundos.\nDiseñado para causar heridas penetrantes e incapacitantes, quitándole la capacidad de moverse al objetivo de forma inmediata. Accionado por un sensor de movimiento.\n\n[Nota: Esto es ridículo. Estas cosas se ven a más de un kilómetro, y el mecanismo necesita volver a ser armado después de un solo uso. Lo único que lograría detener es al fugitivo más torpe. Proyecto descontinuado. Deshacerse de las unidades existentes.\n--------------------------------------------------------<>\nTG-22 Lanzador Termodirigido de Proyectiles - \"Torreta\"\n\nUn rifle de calibre 9mm ligado a la montura de marca <corrupt:0xFB387A>.\nEl mecanismo de disparo es controlado por un sensor térmico con un rango de 100 metros.\nExisten variantes que usan munición de mayor calibre, pero las 9mm deberían servir por ahora.\n\n[Nota: Pegó un arma encima de una cámara térmica... Pero aún así, es efectiva. Recomendaría calibres más altos, debido a nuestras nuevas adiciones de especímenes. Sin embargo, no nos serán útiles. Resolvió un problema de efectividad, pero la letalidad no es una característica que queremos. Los especímenes y empleados representan un riesgo de seguridad, pero tampoco son invaluables.]\n--------------------------------------------------------<>\nDD-6X1 Sistema Acústico de Coerción - \"Cañón Sonorico\"\n\nUn altavoz direccional modificado que utiliza bancos de condensadores de alto rendimiento. Diseñado para forzar la obediencia mediante estímulos acústicos.\nLa exposición provoca pérdida inmediata de control motríz, hemorragia interna leve o moderada, y dolor severo.\nLa potencia de salida se detalla exclusivamente en documentación restringida.\n\n[Nota: Con esto bastará.]",
+            "Item2": ""
+        },
+        {
+            "Item1": "(El APD está dañado; la pantalla está quebrada, y algunos componentes electrónicos están expuestos. Con un poco de trabajo, logras hacerlo funcionar.)\n\n[MENSAJE INTERNO]\n[PROYECTO <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\n[UBICACIÓN: <corrupt:0xFBC00F> Divisón Biométrica\nFECHA: <corrupt:0xFFFFFF>\nDUEÑO DECLARADO: Ingeniero Mecánico <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMENSAJE EN RED DE COMUNICACIÓN INTERNA\n\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFA05F2>\n\nNo me gusta nada esto. Nuestra tarea principal para este trimestre era desarrollar <corrupt:0xFFF0CE> Entonces, ¿por qué estamos aquí de vuelta? Ya había planeado vacaciones para una semana con unos amigos y tuve que cancelar esos planes porque un hi <corrupt:0xFFFFFF> h espera? Esta tarea actual también es muy sospechosa. Entendería expandir nuestra plataforma neural para el mejoramiento de nuestros pacientes, pero \"p <corrupt:0xFF0BEA> ién es esto? ¿Convictos? Quiero decir, nuestro gobierno, incluso nuestra compañía jamás pondría esto en un paquete civil, ¿verdad? ¿Tal vez es para la armada? ¿Para que puedan darle órdenes básicas a soldados asegurándose de que no se filtre información restringida? Incluso es <corrupt:0xFBC00F> De todos modos, parece que debemos buscar la forma de permitir una mejor transferencia de información con nuestra batería base. No, espera, olvídalo. Querían que este complemento se utilizara para tener el control con un mecanismo de seguridad letal, ¿cierto? Entonces podem <corrupt:0xFFFFFF> ta forma tendremos dos fuentes de energía con la opción de desestabilizar una de ellas mediante una sobrecarga. Prepararé un boceto, me avisas cuan\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt0x00000000000000000FF ACCESO ILEGAL A MEMORIA><>\n\n\n(Escuchas un zumbido y ves una leve cantidad de humo emergiendo del aparato.)",
+            "Item2": ""
+        },
+        {
+            "Item1": "(El APD a duras penas parece funcionar)\n\n[MENSAJE INTERNO]\n[<corrupt:0xFFF0CE> NEUROLÓGICO]\n-----------------------------------------------------------------------\nUBICACIÓN: Departamento de Cirugía <corrupt:0xFFFFFF>\nFECHA: <corrupt:0xFBC00F>\nDUEÑO DECLARADO: Laboratorio Designado <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMENSAJE EN RED DE COMUNICACIÓN INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFA05F2>\n\nOye, parece que tenemos una actualización en la asignación actual. Debemos abstenernos de instalar esos nuevos chips de \"castigo\" e <corrupt:0xFFFFFF>  mos Sawianos. Los directivos quieren ver cómo se comportan sin la vigilancia de la compañía. En todo caso, todavía quieren que implementemos las plataformas. ¿Por qué sólo las plataformas y no los complementos? Supongo que e <corrupt:0xFA05F2> elta, algo en qué pensar. De todas formas, cuando tengas listo este lote pásate por la cafetería, aparentemente hoy van a servir un poco de <corrupt:0xFFFFFF> con <corrupt:0xFFF0CE>. Y por cierto, no te preocupes de que lleguen más especímenes hoy, aparentemente los campos de entrenamiento están cerrados por el resto del día debido a un incidente. Aparent\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FA DAÑO DE ALMACENAMIENTO INTERNO><>\n\n(El APD se apaga.)",
+            "Item2": ""
+        },
+        {
+            "Item1": "[EMAIL - 25##-1-25-9-06-42-2810]\n<>\nASUNTO: ¡Mucho cuidado!\nDE: <corrupt:0xFBF010>\nPARA: <corrupt:0xFF0BEA>\n<>\n[CONTENIDOS]\n\nTenga cuidado en cómo gasta el dinero de la compañía. El tío Sam es entrometido. Tuve que aguantarme una llamada muy incómoda gracias a usted. Toda esta comida les parece sospechoso, y prefiero admitir cualquier cosa EXCEPTO lo que en realidad estamos haciendo.\n\n<corrupt:0xFBF010>\n\n[FIN]",
+            "Item2": ""
+        },
+        {
+            "Item1": "(Cuando tocas la pantalla del APD unas veces, comienza a encender en modo de emergencia.)\n\n[MENSAJE INTERNO]\n[LEY <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nUBICACIÓN: FIRMA DE ABOGADOS O<corrupt:0xFFFFFF> \nFECHA:<corrupt:0xFBC00F>\nDUEÑO DECLARADO: Abogado <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMENSAJE EN RED DE COMUNICACIÓN INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFFFFFF><>\n\nEsto es una locura. Recientes pedidos de comida e ingredientes a granel nos atrajo tanta atención inecesaria que ese mal <corrupt:0xFA05F2> a nosotros. ¿Entiende que si el gobierno se entera de los híbridos, estamos acabados? Puedo explicar el agua y los bananos, es más no tendré problema en explicar esas cisternas llenas de leche chocolatada. ¿Quiere saber qué no será tan fácil de explicar? POR QUÉ 2 CAMIONES ENTEROS DE COMIDA DE PERRO ACABAN DE SER DESCARGADOS POR LAS BODEGAS APENAS ESTA TARDE. ¿Qué se supone que le diga a <corrupt:0xFA05F2> denes extrañas? \"Oh no se preocupe, es sólo que la compañía ha declarado un récord en ganancias y quería almacenar comida para el futuro\". No estoy jugando, esa fue una de las ideas que me dió <corrupt:0xFFFFFF> Es como si esa gente estuviera sorda y no pueden escuchar sus propias ideas estúpidas. ¿A qué te refieres con \"almacenar comida\"? Tenemos como máximo <corrupt:0xFFFFFF> rros en estas instalaciones, esta orden sería suficiente para alimentar a ellos, a sus crías, y a las crías de sus crías. Tendremos que improvisar, hablarles acerca de la bioenergía, confundir sus ejecutivos decrépitos con lenguaje profesional y pretender que la mayoría de esos <corrupt:0xFBC00F> reactores. No hay margen de erro\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE ERROR DE MEMORIA RAM><>\n\n(El APD se apaga con ruidos desagradables acompañándole.)",
+            "Item2": ""
+        },
+        {
+            "Item1": "(Parece que el APD está supremamente dañado)\n<>\n[DIRECTIVA RECIBIDA]\n[ESPACIO <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nUBICACIÓN: Bajo T<corrupt:0xFFFFFF> \nFECHA: <corrupt:0xFFFFFF>\nDUEÑO DECLARADO: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\nADVERTENCIA AL PERSONAL DE LAS INSTALACIONES\n\nUN ACCIDENTE HA OCURRIDO HOY E <corrupt:0xFFFFFF> \n\nTODAS LAS PRUEBAS QUE CONCIER <corrupt:0xFFFFFF> RAN SER DETENIDAS.\nEFECTIVO INMEDIATAMENTE\n<>\nREPORTE DE INCIDENTE:\n\nEn <corrupt:0xFFFFFF> durante pruebas rutinarias de las cápsulas salvavidas designadas <corrupt:0xFFFFFF> hubo una anomalía inesperada en el sistema de teletran <corrupt:0xFFFFFF>\nLa cápsula fue parcialmente teletransportada dentro de una pared, desestabilizando el proceso de tele-aterrizaje y causando un agujero negro br <corrupt:0xFFFFFF>orque u <corrupt:0xFFFFFF> una cantidad de científicos e ingenieros sufrieron heridas extremas causadas por la implosión. El Sawiano a bordo de la cápsula no sobrevivió.\n\nDesde este momento toda investigación de tecnología de teletransp   <corrupt:0xFFFFFF>tenida hasta previo aviso. La unidad <corrupt:0xFFFFFF> queda restringida hasta <corrupt:0xFFFFFF>\n<>\n\nTodo personal disponible debe reportarse a la ins<corrupt:0xFFFFFF>\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF ACCESO ILEGAL DE MEMORIA>\n\n(No parece haber más texto, aparte de mensajes de error.)",
+            "Item2": ""
+        },
+        {
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-08-04-09-05-25-1057]\n[Proyecto: \"Un día en la vida\"]\n----------------------------------------------<>\nAsí que.\nAhora este es mi \"diario\". El cual es, aparentemente, un trabajo escrito describiendo mi vida y experiencias.\nNo estoy enteramente seguro por qué los de bata quieren que haga esto, pero puedo decir lo mismo de la mayoría de cosas que nos mandan a hacer.\nDe cualquier forma, tuve suerte. Podría ser mucho peor que un ejercicio de escritura.\nEste aparato me parece muy fascinante, y es una pena que tendré que irme sin el en unas cuantas horas. Pero me dieron una labor, y procederé a completarla.<>\n\nUsualmente nos despertamos a nosotros mismos, o nos despierta la alarma de la primera comida del día. Muy rara vez nos despertamos de inmediato para hacer pruebas.\nNo estoy seguro de a qué \"hora\" esto ocurre... Es más, a duras penas entiendo este concepto. Aunque escucho a los de bata hablando de ello todo el tiempo...\n\nDe cualquier forma, nos despertamos y poco después es tiempo de la primera comida del día.\nLo que nos alimentan es poco variado, lo cual no era el caso hace apenas unos años. Igualmente son más que todo sólo barras nutritivas. Son bastante insípidas, pero no puedo quejarme...\n\n--------------------------------------------------<>\nYa han pasado unas horas.\n\nEste es la hora en que los de bata andan cazando.\nTe llaman por el número, y tienes que acercarte.\nO vienen por ti. \nY de verdad que no quieres eso.\nAlgunas veces, llaman varios números a la vez... Aunque es una buena señal, por lo general.<>\n\nEn realidad, lo que te harán depende de la suerte.\nLas pruebas pueden ser inofensivas, terribles, o pueden ser beneficiosas.\nCabe mencionar de que los de bata simplementen TRATAN de hacer algo, y si bien algunas veces intentan ayudar, esos intentos usualmente son mucho más fallidos que cuanto tratan de joderte.<>\n\nDos números son llamados, y otros dos se levantan, sus caras preocupadas.\nUno de ellos está saludable. Mucho más susceptible a ser herido.\n\nEl otro tiene cuatro brazos.\nUno en la izquierda y tres en la derecha.\nBueno, si es que puedes llamar esas protuberancias \"brazos\". ¿Se parecen, más o menos?\nAunque originalmente nació con dos, los de bata un día decidieron que eran demasiados, y le quitaron uno.\nEl siguiente día, volvió con ONCE brazos.\nLos humanos le quitaron diez de ellos, sólo para bendecirlo con siete más.\nEl siguiente día eran cinco.\nHoy son cuatro.\n\nYa se están acercando.<>\n\nEl pobre se llama Brazos. Y lo juro, este era su nombre ANTES de todo eso, y es ampliamente creído que los humanos le escogieron por eso.\n¿Tal vez es su idea sobre un chiste?\n\n[PÁGINA 1 DE 2]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-08-04-09-05-25-1057]\n[Proyecto: \"Un día en la vida\"]\n----------------------------------------------<>\nHace silencio. Aquellos que usualmente tienen suerte simplemente descansan; algunas veces socializan. Usualmente se preocupan de los que se llevaron.\nEste concepto de \"Horas\", este ciclo, horario... Es aterrador.\nNo lo entiendo. ¿Por qué cada ciclo de sueño se divide en 24 (?) horas? ¿Qué dicta dichas reglas? Incluso los humanos las siguen.\n¿Hay algo por encima de ellos que lo controla?\n<>\n\nAlgunas horas después, los primeros especímenes de prueba comienzan a regresar.\nEn el mejor de los casos, regresan por sí solos. Muy común, en realidad.\nAlgunas veces los traen cargados.\nEn cambio, en raras ocaciones entran dos guardias. Directamente van a la litera de alguien y le despojan de sus cosas.\nSi es un amigo tuyo, y tienes la suerte de que los guardias son los amigables, te dejarían quedarte alguna que otra cosa.\nYa no tengo a nadie más que esperar, entonces simplemente observo a los que sí. Todos están acostumbrados a esto, pero los nervios siempre están presentes.\n<>\n\nHora de la comida.\nLos dispensadores soltaron un poco de carne cocinada sobre mi plato. Qué suerte. Mejor que el desayuno, sin duda.\nAlgunos murmullean contentos, ya que tienen la misma suerte. Otros rezongan al ser servidos las mismas barras nutritivas viejas. En realidad pareciera que nos alimentan con cualquier cosa que tienen a la mano... ¿Tal vez esta también es una prueba?\nDe vez en cuando empiezan peleas sobre la comida, pero es poco común. A los guardias no les agrada cuando eso pasa.\n \nAlgunos hablan. Juegan. Cantan.\nAlgunos cuidan sus heridas, o ayudan a cuidar a las de los otros.\nEs un momento de calma.\nLos de bata han terminado, por ahora.\n\nMás tarde.\nEn más o menos una \"hora\" servirán nuestra última comida del día.\nPoco después de eso, la hora de dormir.\nNo hay mucho más que decir, la verdad.\n\nDe hecho, hay una cosa. Muy rara vez hay pruebas adicionales más o menos a estas horas. Bueno, los humanos les llaman \"Reubicaciones\" o \"Tareas\".\n<>\nNunca regresas cuando te llaman para una de esas. Pero siempre dejan llevarte tus cosas. No estoy seguro si es porque en realidad te llevan a otro lugar, o simplemente quieren acelerar el proceso de vaciar tu litera al hacer que lo hagas tú mismo.\n<>\n\nTodos se preguntan en realidaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nfddda\nmierda\nSe congeló por un momento. No puedo borrar las letras. El aparato no me deja. Es nuy\nmierda\n<>\nme tiemblan las manos es difícil de escribir\nvan a hacer las pruebas de la noche\nno sé a dónde deben ir los que llamaron\npero llamaron mi nombre\nestoy a punto de descubrirlo\n<>\ndeseenme suerte\n\n[PÁGINA 2 DE 2]",
+            "Item2": ""
+        },
+        {
+            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\nASUNTO: Aprobación de Regulaciones\nDE: <corrupt:0xFFFFDC>\nPARA: <corrupto:0xFFFF0A>\n<>\nAcabo de salir de una llamada holográfica con la junta nacional de regulación. ¡El sistema de teletransporte de alimentos está listo para su comercialización! Ahora realmente podemos presionar para prohibir los empaques de un sólo uso - y gracias a que nuestras cajas de comida ya previenen el deterioro, el desperdicio de comida (y nuestros años improductivos) serán algo del pasado. Y aprovechando lo perezosas que son las personas hoy en día, ciertamente podemos adaptar esta tecnología para otros usos.\n<>\nNo se le olvide reforzar el blindaje térmico de la unidad de recepción. La tasa de fallo es menos de 1 en 500, pero igual... Como sabe, cuando E=mc2, y c es tan grande, eso significa que sólo con la masa de una pequeña pasa inmediatamente (dentro de 10^-25 segundos) se evaporaría en radiación de Hawking al colapsar con un agujero negro, generando el equivalente de energía a la bomba que cayó sobre Hiroshima. Los sistemas que tenemos en caso de que esto ocurra están mejorando y pueden deshacerse de la mayor parte de esa energía, pero no podemos permitir que se filtre más.\n<>\nPor casualidad, esto resuelve el problema de nuestro consumo ridículamente alto de comida, por ahora. Nadie cuestionará por qué nuestro departamento de entrega de comida está usando comida.\n<>\n¿Alguna vez piensa, en un universo alternativo, si hubiéramos perseguido esa idea de energía infinita?\n\n[FIN]",
+            "Item2": ""
+        },
+        {
+            "Item1": "(El APD se encuentra en muy mal estado. Incontables alertas aparecen en la pantalla, pero algunos de los datos son legibles...)\n<>\n[Transcripción Reunión Junta Ejecutiva 542-23-145C]\n---------------------------------------------------------------\nUBICACIÓN: Sede Principal de la Compañía en <corrupt:0XFFFF43>\nFECHA: 12-04-[obtener.año(): fallido]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -seguramente notes la situación que tenemos en estos momentos. Los Sawianos- son... ¡Son nuestro ticket de oro! ¡La información que tenemos en este momento sería suficiente para que cada uno en esta habitación tenga un premio Nobel!\n\n<corrupt: 0xFFFFF7>: Si. Serían 9 premios en total. Si todos estuviéramos de acuerdo en donar un poco de ese dinero a [<corrupt:0xFFFBc3>], nos quedarían al rededor de quince millones de dólares. ¡Una gota al océano comparado con tu estúpido proyecto! El agujero negro financiero de la compañía.<>\n\n[<corrupt:0xFFFFD9> se levanta de su silla.]\n\n<corrupt:0xFFFFD9>: ¡¿ESTÚPIDO?! ¡¡¿¿ESTÚPIDO??!! ¡ESTAMOS CREANDO VIDA! ¡Eres testigo de una nueva especie inteligente desde su infancia! ¡Nuestros compañeros *matarían* por tener esa oportunidad hace apenas diez años!\n\n<corrupt:0xFFFFF7>: ¿Matar? Claro. ¿Pagar lo que usted pide? No. De ninguna manera.<>\n\n<corrupt:0xFFFFD9>: ¿Todo es plata contigo? ¡Bien! ¡Estamos haciendo dinero! Incluso nuestra línea de peluches es más que suficiente para cubrir-\n\n<corrupt:0xFFFFF7>: ¡Pagar más que dinero, cretino! Cuando todo este chisme llegue al escritorio de un periodista metiche, pagaremos con nuestras *vidas.* Y claro, nuestras familias acabarán linchadas. Además, los peluches no nos obliga a mantener tu colonia de... ratas parlantes con vida.\n\n<corrupt:0xFFFFD9>: ¡Los Sawianos no son ratas parlantes! Son una mezcla de-<>\n\n<corrupt:0xFFFFF7>: ¡OH, DISCÚLPAME! ¡Quise decir unos boletos andantes para el dematerializador! ¡NUESTROS BOLETOS! No voy a terminar en la CPI sólo porque eres un avaricioso hijo de pu-\n\n<corrupt:0xFA05F2>: Caballeros. Por favor.\n\n<corrupt:0xFFFFF7>: Yo- Ah. Disculpe <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9. Por favor expónganos su punto de vista. ¿Por qué vale la pena conservar estas criaturas?<>\n\n[Hay silencio. <corrupt:0xFFFFD9> se sienta.]\n\n<corrupt:0xFA05F2>: Digo... Hay tantas razones qué escoger, cre-\n\n<corrupt:0xFA05F2>: Entonces confío en que serás capaz de escoger la correcta.\n\n<corrupt:0xFFFFD9>: Eh, si... okay. ¡Cerebrosalud! ¡Tenemos cerebrosalud!\n\n<corrupt:0xFFFFF7>: Claro, un fármaco completamente comercial que puedes conseguir en la tienda de la esquina.<>\n\n<corrupt:0xFFFFD9>: No. Este no. Podría rajar la cabeza de alguien en este mismo instante. Dejar que su lóbulo frontal se haga amigo del martillo. El cerebrosalud de la tienda de la esquina no será útil. El nuestro lo tendría caminando y hablando dentro de UNA SEMANA. Si no tuviéramos el suministro de especímenes de prueba humanoides, necesitaríamos décadas para perfeccionar las directrices operacionales de las nanomáquinas. El doble de eso para hacer pruebas.\n\n<corrupt:0xFA05F2>:Entiendo. <corrupt:0xFFFFF7>. ¿Su contraargumento?<>\n\n<corrupt:0xFFFFF7>: Si. Tiene resultados. Pero el momento en que el público descubra exactamente CÓMO los obtuvo, estaremos jodidos. ¿Qué vas a decir, [#######]? ¿Que las criaturas con el mismo aspecto de los peluches que vendemos son reales, y que te encanta rajarles la cabeza en tu tiempo libre? No va a ver a quién culpar. Todos vamos a ser juzgados por ello; toda la compañía. ¡Incluso lincharán a nuestro puto conserje!\n\n[<corrupt:0xFA05F2> aciente la cabeza, mirando a ambos en silencio por un momento.]<>\n\n<corrupt:0xFA05F2>: Ahora comprendo por qué chocan con tanta intensidad. No es nuestra naturaleza rendirnos cuando la verdad está de nuestro lado. Y la verdad es que... Ambos tienen razón.\n\n[Silencio.]<>\n\n<corrupt:0xFA05F2>: Los Sawianos representan un riesgo que no podemos tomar. También son una oportunidad que no podemos permitirnos dejar pasar. Los tenemos a ambos dentro de nuestro control. Y debemos asegurarnos de que sigan así.\n\n<corrupt:0xFFFFD9>: Pero... ¿Cómo, <corrupt: 0xFA05F2>?\n\n[<corrupt:0xFA05F2> sonríe, y- \n\n<corrupt:0xA1CF43><>\n\n[Resumen de Reunión]\n-Las instalaciones sean selladas hasta previo aviso.\n-Sawianos contenidos en sus celdas hasta previo aviso.\n-Los empleados tienen prohibido abandonar las instalaciones hasta previo aviso.\n-Los contratos de empleados extendidos indefinidamente.\n-El porte de armas de fuego sea obligatorio para el personal de Seguridad.\n-Procesos de remediación térmica a lo largo de las instalaciones aprovados y preautorizados.",
             "Item2": ""
         }
     ]
