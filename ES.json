@@ -148,7 +148,7 @@
         "bucketofchickendsc": "Un montón de muslos de pollo en un balde. Muy saciante.",
         "bucketofnochicken": "Canasta sin pollo",
         "bucketofnochickendsc": "Una canasta de pollo vacía.",
-        "steak": "Chuleta",
+        "steak": "Filete",
         "steakdsc": "Un trozo de carne grande, bien cocido y preparado. ¡Saciante, engorda y es sabroso!",
         "cookies": "Caja de galletas",
         "cookiesdsc": "Un paquete de pequeños bocadillos dulces y horneados. Sabrosos, pero no es tan saludable.",
@@ -576,7 +576,7 @@
         "snowstrider": "Caminante helado",
         "snowstriderdsc": "Una criatura grande y esponjosa que busca alimento en las regiones frías de este sistema de cuevas. Su grueso pelaje la mantiene caliente.",
         "spaceheater": "Calentador de iones",
-        "spaceheaterdsc": "Un dispositivo que calienta intensamente el área circundante. Podría provocar una leve enfermedad por radiación si se está demasiado cerca durante mucho tiempo. Puede usarse para cocinar carne cruda.",
+        "spaceheaterdsc": "Un dispositivo que calienta intensamente el área circundante. Podría provocar una leve enfermedad por radiación si está demasiado cerca durante mucho tiempo. Puede usarse para cocinar carne cruda.",
         "xaloris": "Xaloris",
         "xalorisdsc": "Un helecho esponjoso y zarzoso que calienta el aire a su alrededor para esparcir esporas. Mantiene a raya el resfriado, pero inhalar las esporas durante demasiado tiempo puede afectar tu sistema inmune.",
         "lifepodheater": "Calentador de cápsula salvavidas",
@@ -1320,9 +1320,9 @@
         "runsettings": "Configuración de partida",
         "looatmount": "Cantidad de botín",
         "trapamount": "Cantidad de trampas",
-        "lootdepthmultiplier": "Multiplicador de botín",
-        "trapdepthincrease": "Multiplicador de trampas",
-        "radlinedisable": "Desactivar límite de tiempo",
+        "lootdepthmultiplier": "Multiplic. de botín",
+        "trapdepthincrease": "Multiplic. de trampas",
+        "radlinedisable": "Sin límite de tiempo",
         "unchipped": "Sin chip",
         "looatmountdsc": "Cantidad porcentual del botín total\n\nEsto afecta qué tanto botín, como cápsulas o cajas, aparecen en cada capa.\n\nInsertar un valor muy alto puede causar problemas de rendimiento.",
         "trapamountdsc": "Cantidad porcentual de las trampas totales\n\nEsto afecta qué tantas trampas, como trampas de pinchos o enemigos, aparecen en cada capa.\n\nInsertar un valor muy alto puede causar problemas de rendimiento.",
@@ -1595,7 +1595,7 @@
         "hpopiate": "Cantidad de opioides",
         "keybinds": "Atajos de teclado",
         "keybindsdsc": "Abre el archivo que contiene los atajos de teclado. ¡Recuerda guardar los cambios!",
-        "custommusic": "Música personalizada",
+        "custommusic": "Música personal",
         "custommusicdsc": "Abre el directorio de tu música personalizada.\nPuedes insertar archivos .mp3/.ogg./.wav para que aparezcan como opciones al usar el reproductor MP3.\nNo se admiten otros tipos de archivos.",
         "layer": "Capa",
         "toggleheatmode": "Alternar temperatura",
@@ -1610,11 +1610,11 @@
         "alertitemblocked": "Objeto bloqueado por una pared",
         "alertitemfar": "Objeto demasiado lejos",
         "alertpickupwearable": "Los equipables no se pueden sostener en la mano. Equípalo o guárdalo.",
-        "alertalreadywearing": "¡El/la <1> no cabrá sobre tu <2>!",
+        "alertalreadywearing": "¡No puedes ponerte tu <1> sobre tu <2>!",
         "alertcontainerstacking": "¡Sólo puedes colocar contenedores vacíos dentro de otros contenedores!",
         "alertcontainerstackingalt": "¡No puedes usar este contenedor, ya que está dentro de otro contenedor!",
         "alerttoounhappy": "No se puede usar medicinas no opioides al estar miserable",
-        "alertlimbmissing": "¡No tienes tu <1>, por lo cual el/la <2> queda inservible!",
+        "alertlimbmissing": "¡Sin tu <1>, el objeto (<2>) queda inservible!",
         "alertsellcontainer": "Vacía el contenedor antes de venderlo",
         "insertsample": "Inserte una muestra",
         "tradeinteract": "Intercambiar",
@@ -2330,7 +2330,7 @@
                 "Odio esto. Ugh.",
                 "Me siento desanimado. Un poco.",
                 "Estos acontecimientos han sido terribles.",
-                "No me importaría algo de diversión ahora mismo.",
+                "No me importaría divertirme un poco ahora mismo.",
                 "Necesito entretenimiento o algo... uff...",
                 "Absolutamente cansado de esto.",
                 "Terrible. Simplemente... terrible...",
@@ -2344,7 +2344,7 @@
                 "'Mano...",
                 "REALMENTE está desolado aquí...",
                 "Uugh... Realmente quisiera a... Alguien, ahora mismo.",
-                "Esto está TAN solitario...",
+                "Esto está TAN solo...",
                 "Ojalá hubiera otra alma viviente conmigo...",
                 "Solo... Realmente solo...",
                 "Necesito algo de apoyo...",
@@ -2822,7 +2822,7 @@
                 "Estoy empezando a sudar mucho.",
                 "Necesito refrescarme.",
                 "Tengo un calor que me incomoda.",
-                "Quiero abrazar un aire acondicionado.",
+                "Necesito refrescarme, en serio.",
                 "Algo para refrescarme estaría bien...",
                 "Me estoy asando...",
                 "Hace un poco de calor aquí...",
@@ -3919,37 +3919,37 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemondade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very cold and my hair started falling out",
+                "Item1": "no confíes siempre en los barriles con líquidos por aquí. tuve en mis manos un gran mini barril y pensaba que tenía limonada, pero un sorbito fue suficiente para darme cuenta de que no lo era. intente quitarme ese mal sabor con otro barril con agua, pero el agua me hizo dar mucho frío y mi pelaje empezó a caerse",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "today i found a few weird metal cans that had the label ripped off. i couldnt tell what it was and the liquid was too thick to pour out, but it is surprisingly filling, i feel like i just had a nice steak... i feel so sleepy. im about to drink the next can, i love these cans!\n(The bottom of the paper looks like something with black chunks in it was forcibly ejected onto it.)",
+                "Item1": "hoy me encontré con unas latas de metal extrañas que tenían su etiqueta rasgada. no pude saber de qué era y el líquido era muy espeso para sacarlo, pero llena mucho, siento como si me hubiera comido un buen filete...me dio sueño. ¡voy a beber la siguiente lata, me encantan estas latas!\n(En el pie del papel, se ven manchas con grumos oscuros, como si hubiera sido expulsado con violencia.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "this might be a strange thing to say but I've made my peace with this situation. ive been trying to take care of myself as much as i can and trying to comfort all the others ive met down here. it makes me feel... content? even though I've gotten hurt a lot ive been able to handle it without feeling down.\ni'll try to get as far as i can, and even though i probably wont make it, i know i did my best and helped as many others as i could. that's all any of us can do.\nif you're reading this, don't give up, ok?",
+                "Item1": "esto puede ser algo raro de decirlo, pero he aceptado esta situación. he intentado cuidarme a mí mismo tanto como pude e intentaba consolar a todos los demás que he conocido aquí abajo. me hace sentir... ¿contento? a pesar de haberme lastimado bastante, he sido capaz de manejarlo sin desanimarme.\nintentaré ir tan lejos como pueda, y aunque puede que no lo logre, sé que hice lo mejor de mí y que he ayudado a tantos como pude. eso es algo que todos podemos hacer.\nsi estás leyendo esto, no te rindas, ¿okay?",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i have been seeing more and more of these broken down drop pods recently, kind of like the ones that they sent us down here with except these ones all exploded somehow <>\ninside the wreckages i usually find some type of gun ammunition along with a gross ball of some sort of meat? \n<>\nit looks awful but it might be edible???\nthat dune person i met earlier told me it was good to eat\ni could try having some of it\n<>\n\nate it and vomited my guts out for twenty minutes straight, worst mistake of my life <>\nfor the love of god, dont eat whatever that is",
+                "Item1": "he comenzado a ver cada vez más y más de estas cápsulas averiadas recientemente, esas como en la que nos enviaron aquí, excepto que todas explotaron de alguna forma<>\nen los restos usualmente encuentro algo de munición junto con una ¿bola de carne asquerosa? \n<>\nse ve horrible, ¿¿¿pero si quiera es comible???\nconocí a un dune hace un rato y me dijo que estaba bueno\npodría probar un poco\n<>\n\nlo comí y sentí que vomité todas mis tripas por veinte minutos, el peor error de mi vida<>\npor el amor de dios, no te lo comas, sea lo que sea",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i keep having the same dream. i have huge wings and i can keep flying up and up and up. nothing can stop me. i burst through the ceilings of these caverns and out into the world beyond. it's beautiful out there but i keep flying. i leave everything behind until there's nothing but a huge void. that's when i finally realize. im safe. im free.\n\nevery time i wake up, i cant stop crying. i wish i could keep dreaming forever.\n\n(There is a tear-stained drawing of some very inaccurate wings.)",
+                "Item1": "sigo teniendo el mismo sueño. de que tengo alas enormes y que puedo seguir volando más y más y más arriba. nada puede detenerme. atravieso los techos de estas cavernas y salgo al mundo exterior. es hermoso allá afuera, pero sigo volando. dejo todo atrás hasta que no hay nada más que un gran vacío. ahí es cuando me doy cuenta de que... estoy a salvo. soy libre.\n\ncada vez que despierto, no puedo dejar de llorar. desearía seguir soñando por siempre.\n\n(Hay un dibujo manchado con lágrimas sobre unas alas poco realistas.)",
                 "Item2": "Sprites/noteDrawings/wings",
                 "Item3": "experiment"
             },
             {
-                "Item1": "can the scientists really see me here? they always wanted me to say out loud what i was thinking, but here, im just talking to myself. i suppose i have the freedom to stop, but... it feels therapeutic. if i dont make it, maybe at least these notes will.",
+                "Item1": "¿en serio los científicos me pueden ver por aquí? siempre querían que dijera en voz alta lo que pensaba, pero aquí, solo hablo conmigo mismo. supongo que podría dejar de hacerlo, pero… se siente terapéutico. si no sobrevivo, al menos estas notas lo harán.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i didnt realize how bad it had gotten until i tried to dig again and my claws just... scraped. no bite to them anymore. ive been clawing through rock nonstop without even thinking about it. i felt naked. turns out flesh isnt meant to replace tools.\n<>\ni kept assuming i needed a pickaxe for everything. but i figured out my machete works just fine for the lighter stuff. dirt, plants, sand, it slices right through. saves my hands a lot of pain.\n<>\nfound a bottle labeled keratin booster. figures they planned for our parts to break down. took a sip. after a while the old layers started flaking off like fur. underneath, they felt sharper. stronger. it was weirdly satisfying watching the worn parts peel away. i like how my claws let me grip the walls better\n<>\ni remembered the humans. they had nails on every finger. all of them. no claws at all. it looked so wrong up close. soft. blunt. freaky how they managed anything with hands like that.\n<>\ni used to think that made them weak.\n<>\nnow i wonder if that was the point.",
+                "Item1": "no me di cuenta lo horrible que se habían puesto hasta que intenté cavar otra vez y mis garras simplemente... se rompieron. ya no rasgan nada. he intentado arañar las rocas sin siquiera pensar sobre eso. me sentí desnudo. parece que la carne no está hecha para reemplazar las herramientas.\n<>\nseguí asumiendo que necesitaba un pico para todo. pero descubrí que el machete funciona al menos para las cosas más ligeras. como tierra, plantas, arena, hace bien el trabajo. me ahorra mucho dolor en mis manos.\n<>\nme encontré una botella con una etiqueta que decía potenciador de queratina. ya tenían previsto de que nuestras partes se romperían. tomé un sorbo. y después de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentían más afiladas. más fuertes. era extrañamente satisfactorio ver como las partes dañadas se desprendían. me gusta como mis garras ahora permite agarrarse a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenían uñas en cada dedo. en todos. Sin garras en lo absoluto. Se veían tan mal de cerca. suaves. sin filo. era inquietante cómo manejaban todo con manos así.\n<>\nsolía pensar que eso los hacía débiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -3959,7 +3959,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "I took a bad fall. REAL bad. Right into a hole and couldn't climb or dig out of with my injuries. But I made it out with these bits of scrap metal, and want to let others know this, too. \n\nIts the cavern walls! Nothing I've found- even dynamite -seems to be able to penetrate the outer boundaries of the caverns. But they are uneven, and if you stack enough bits of scrap metal on top of each other, you can wedge them in these tiny gaps and make an entire scrap foothold. When I was bleeding out in that dark hole, I used my collected debris to make a sort of staircase to escape and find emergency supplies.\n\nI hope you never wind up in that situation, though. Maybe you could use this trick to protect you from injury in the first place? Who knows what other nasty things are in here with us. \n\nMaybe you'll catch up to me and we can share strategies. \nI hope I'll be there to meet you.",
+                "Item1": "Tuve una pésima caída. MUY pésima. Justo dentro de un hoyo que no podía ni escalar, ni excavar debido a mis heridas. Pero logré salir con pequeños pedazos de chatarra, y quiero hacerle saber a los otros sobre esto también.\n\n¡Son las paredes de la caverna! Nada de lo que he encontrado- ni siquiera dinamita -parece ser capaz de penetrar los límites exteriores de las cavernas. Pero son irregulares, y si apilas suficientes pedazos de chatarra uno encima del otro, puedes hacer pequeños puntos para que apoyes tus patas. Cuando me estaba desangrando en ese hoyo oscuro, usé esos escombros para improvisarme algo así como una escalera para escapar y encontrar suministros de emergencia.\n\nEspero que nunca tengas que pasar por esa situación. ¿Tal vez puedas usar este truco para evitar quedar lastimado en primer lugar? Quién sabe qué otras cosas desagradables habrán aquí con nosotros.\n\nTal vez me alcances y podamos compartir estrategias.\nEspero estar allí para conocerte.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -3969,12 +3969,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "I'm not very strong, so I've been hoping to team up with others. We'd have a much higher chance of survival that way, but nobody I've asked is interested. Everyone is scared and some of us are dangerous. There are so many traps that it's impossible to travel in large groups. I know I'm going to die for a completely stupid reason...\n\nHumans are so cruel. I can't understand it.",
+                "Item1": "No soy tan fuerte, así que he esperado a hacer equipo con otros. Tendríamos una probabilidad mayor de supervivencia de este modo, pero nadie a quien he preguntado parece estar interesado. Todos están asustados y algunos de nosotros son peligrosos. Hay tantas trampas que es imposible viajar de a grupos grandes. Sé que voy a morir por una razón estúpida...\n\nLos humanos son muy crueles. Y no los puedo entender.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me to fuck off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to fucking stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
+                "Item1": "(La nota está arrugada y aplastada, como si alguien hubiera querido tirarla.)\n<>\nmi amigo, cre... creo que se suicidó. después de tener otra caída grave, intenté arreglarle sus piernas, pero seguía diciéndome que me fuera a la mierda. me seguía apartando como si fuera una mosca, insistiendo en que lo dejara solo. no lo entiendo. salí a recoger algunas plantas que encontré para intentar vendarlo, pero... cuando regresé, tenía otra herida. en su brazo. aún recuerdo cómo se veía, estaba tan mal que parecía arrancada. intenté usar las plantas que encontré para curar esa herida, pero seguía en las mismas. sus ojos estaban... parecían verse... vacíos. le dije que dejara esa mierda y que lo dejara ayudar, pero no respondía. lo intenté un par de veces más y me empujaba hasta que... dejó de hacerlo. recuerdo ver su cuerpo relajarse, creo que eso pasó cuando dejó de respirar. no puedo sacarme esa imagen de mi cabeza...\n<>\n¿hi... hice algo malo? Juro que no... ¿qué hice mal? ¿por qué hacía eso? no... no hice nada. No entiendo, no quiero morir... no quiero... no...\n<>\n...\n<>\nja, ja...\n<>\nestoy tan solo.\n<>\n(Notas algunas lágrimas secas y manchas de sangre seca esparcida entre las arrugas de la nota.)",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -3996,7 +3996,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i dont like not knowing what to do. back at home they would always tell me. play this game, be quiet when a human is talking, get stabbed by these pokey things.\nnow im supposed to complete this mission but i dont know how to do it. im thirsty and i hurt my leg but im also really dirty and cold and i have no idea where to go other than down.\ni guess ill try to stop what's going to kill me the fastest. i hope it works.",
+                "Item1": "no me gusta no saber qué hacer. en casa, ellos siempre me lo dicen. juega este juego, estar en silencio cuando un humano habla, dejarme pinchar por esas cosas puntiagudas.\nahora se supone que debo completar esta misión, pero no sé cómo hacerlo. tengo sed y me lastimé la pierna, pero también estoy muy sucio y tengo frío y no tengo idea de a dónde ir más que hacia abajo.\ncreo que tendré que intentar detener lo que me va a matar más rápido. espero que funcione.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4058,7 +4058,7 @@
                 "Item3": ""
             },
             {
-                "Item1": "Casi me ahogo hace un momento. nunca antes he nadado, y es muy agotador. es dificil mantenerme a flote en la superficie cuando estoy cansado. me imagino que hundirse para siempre debe ser muy doloroso... ten cuidado.",
+                "Item1": "casi me ahogo hace un momento. nunca antes he nadado, y es muy agotador. es difícil mantenerme a flote en la superficie cuando estoy cansado. me imagino que hundirse para siempre debe ser muy doloroso... ten cuidado.",
                 "Item2": "Sprites/noteDrawings/drown",
                 "Item3": "experiment"
             },
@@ -4073,7 +4073,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Curious, I attempted to traverse in a prone position.\n<>\nThe utility was unexpected. Not only does it allow one to rinse off contaminants in shallow puddles and squeeze through narrow gaps, but remarkably, even crawling over scattered glass shards resulted in no injury.\n<>\nHowever, complacency is dangerous. I misjudged a slight drop and injured myself. \n<>\nScuttling around like that... I must have looked just like one of those \"worms\" I heard about.",
+                "Item1": "Qué curioso, intenté desplazarme arrastrándome.\n<>\nSu utilidad fue inesperada. No solo permite limpiar los contaminantes de mi pelaje en charcos poco profundos y pasar por huecos muy angostos, sino que, incluso al arrastrarme sobre vidrios rotos no resulta dañino.\n<>\nSin embargo, confiarse es peligroso. Calculé mal una caída supuestamente pequeña y me lesioné.\n<>\nArrastrándome así... debí de parecerme a uno de esos \"gusanos\" de lo que oí hablar.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4115,7 +4115,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "The oil pools on this planet are definitely unnatural. Trying to understand their origin, I crawled through one of the empty pipes only to find a tough metallic screen that stopped me from progressing.\nThere was a sign behind it that said \"Waste Disposal Source\". I drilled through the pipe to go around the screen, but the pipe stopped abruptly. It has to be connected to something from our old home, but I don't understand how.\n\nThat sign keeps worrying me. Did the humans want to dispose of us too?",
+                "Item1": "Los charcos de petróleo en este planeta son antinaturales. Tratando de entender su origen, me arrastré por una cañería vacía solo para encontrar una rejilla metálica que me impidió avanzar.\nHabía un cartel por detrás que decía \"Fuente de Eliminación de Desechos\". Taladré a través de la cañería para rodear esa rejilla, pero la cañería se detuvo abruptamente. Tenía que estar conectada a algo a nuestro antiguo hogar, pero no entiendo cómo.\n\nEse cartel me sigue preocupando. ¿Acaso los humanos también querían deshacerse de nosotros?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4172,7 +4172,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i steped in another one of theose damned coils again today, it was hidden in a bush, I noticed it too late to pull back.\n<>\nit was horrible, like i was being cooked from the inside, even after the initial shock. cold drinks seem to help though, i had to drink most of my rationed milk, and some apple juice, not sure if my brain would have survived without it. evrything is still spinning, could barely even make it back to my pod.",
+                "Item1": "hoy me paré en otro de esos malditos conductores, otra vez, estaba bien escondida en un arbusto y me di cuenta muy tarde para evitarlo.\n<>\nfue horrible, me sentía que me cocinaba por dentro, incluso después del primer shock. aunque las bebidas frías me ayudaron, tuve que beber casi toda mi leche que estaba guardando, y algo de jugo de manzana, no estoy seguro de si mi cerebro habría sobrevivido sin esas cosas. todo me sigue dando vueltas, apenas pude regresar a mi cápsula.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4199,7 +4199,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i didnt think that monster would find me again, but it did. it knew my face, my mistakes... but not my rifle. when it finally burst open, i saw that pickaxe. i saw the etching i scratched into it, the same as the etching they scratched into my pickaxe. i saw the chip from when they tried to dig up some titanium to gift me. and then, suddenly, i saw it happening again. the smell of grating steel. the tremours of the ground. the sound of dismembering flesh. the taste of sweat and blood, as i tried to run, dropping the food i was bringing back to the pod-\n<>\nam i supposed to feel at ease now? or am i just bargaining for peace, to be broken when another finds me?",
+                "Item1": "nunca pensé que ese monstruo me encontraría, pero lo hizo. conocía mi cara, mis errores... pero no mi rifle. y cuando finalmente irrumpió, vi ese pico. vi esa marca, la misma que yo hice. vi esa misma marca que me hizo en mi pico. vi su hendidura cuando intentaba cavar algo de titanio para mí. y de repente, vi que pasaba otra vez. el olor del acero raspado. el temblor de la tierra. el sonido de la carne siendo desmembrada. el sabor del sudor y la sangre, mientras intentaba correr, soltando comida que tenía de otra cápsula-\n<>\n¿acaso debería sentirme tranquilo? ¿o sólo estoy negociando por paz para que me destrocen cuando otro me encuentre?",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "experiment"
             },
@@ -4248,7 +4248,7 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[REPORTE BIOMÉTRICO - 25##-11-19-18-49-58-4587]\n<>\nCLASE DE ENTIDAD: Biológica\nSUBCLASE DE ENTIDAD: Sawiano\nNOMBRE DE ENTIDAD: Experimento\n<>\n[CONTENIDOS]\n\nLa versión biológica estable de nuestro proyecto más reciente está lista.\nParece que, mentalmente, no quedó ni va a quedar nada de nuestro voluntario humano original, sin mencionar el resto de los participantes.\nA pesar de eso, parece que aprenden rápidamente, y no están tomando represalias.\n<>\nLa combinación de ADN causó que el Experimento fuera considerablemente más pequeño en estatura que un ser humano, también tiene poca grasa y masa muscular.\nA pesar de esto, su densidad ósea y muscular es mucho mayor. Se asume que esto le dará al espécimen resistencia a diferentes formas de trauma físico... Y se le dificultará nadar.\nTiene tres protuberancias detrás de su cráneo, de consistencia similar al cartílago de una oreja. De alguna forma, tiene una estructura de oreja similar a la de un ave - debe de haber quedado en alguna parte del ADN que empalmamos.\nTiene un pelaje fino y carne de color rosado amarillento, como se aprecia en heridas dentro de la boca.\nSus manos son una combinación entre las de un canino y un homo-sapiens. Sé que uno de mis compañeros lo disfrutará-\nDe alguna forma, los ojos bioluminiscentes de nuestros anteriores prototipos de esta especie han permanecido. Aún no determinamos los efectos exactos que esto tiene en su visión.n<>\nPronto clonaremos esta especie 30 veces para realizar pruebas destructivas en los clones. Dejaremos que algunos se reproduzcan naturalmente, para ahorrar recursos.\n\n[FIN]",
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-11-19-18-49-58-4587]\n<>\nCLASE DE ENTIDAD: Biológica\nSUBCLASE DE ENTIDAD: Sawian\nNOMBRE DE ENTIDAD: Experimento\n<>\n[CONTENIDOS]\n\nLa versión biológica estable de nuestro proyecto más reciente está lista.\nParece que, mentalmente, no quedó ni va a quedar nada de nuestro voluntario humano original, sin mencionar el resto de los participantes.\nA pesar de eso, parece que aprenden rápidamente, y no están tomando represalias.\n<>\nLa combinación de ADN causó que el Experimento fuera considerablemente más pequeño en estatura que un ser humano, también tiene poca grasa y masa muscular.\nA pesar de esto, su densidad ósea y muscular es mucho mayor. Se asume que esto le dará al espécimen resistencia a diferentes formas de trauma físico... Y se le dificultará nadar.\nTiene tres protuberancias detrás de su cráneo, de consistencia similar al cartílago de una oreja. De alguna forma, tiene una estructura de oreja similar a la de un ave - debe de haber quedado en alguna parte del ADN que empalmamos.\nTiene un pelaje fino y carne de color rosado amarillento, como se aprecia en heridas dentro de la boca.\nSus manos son una combinación entre las de un canino y un homo-sapiens. Sé que uno de mis compañeros lo disfrutará-\nDe alguna forma, los ojos bioluminiscentes de nuestros anteriores prototipos de esta especie han permanecido. Aún no determinamos los efectos exactos que esto tiene en su visión.n<>\nPronto clonaremos esta especie 30 veces para realizar pruebas destructivas en los clones. Dejaremos que algunos se reproduzcan naturalmente, para ahorrar recursos.\n\n[FIN]",
             "Item2": ""
         },
         {
@@ -4264,11 +4264,11 @@
             "Item2": ""
         },
         {
-            "Item1": "",
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-04-08-09-06-08-0002]\n<>\nÍNDICE DE LA BASE DE DATOS: Registro del Proyecto Sawian\nSUBÍNDICE DE LA BASE DE DATOS: Especies\n<>\n[CONTENIDOS]\n\n[PARA TODAS LAS ENTIDADES EN EL REGISTRO]\n- SOBREESCRITURA DEL TIPO DE LA ENTIDAD: Plantilla\n- CLASE DE LA ENTIDAD: Biológica\n- SUBCLASE DE LA ENTIDAD: Sawian\n<>\nNOMBRE DE LA ENTIDAD: SAW-01 \"Experimento\"\nCONTEO: [Indefinido]\n- El prototipo final de nuestro primer gran avance en la bioingeniería.\nUna combinación refinada de ADN entre una de nuestras ratas de prueba y un empleado junto a su mascota.\nCanino. Pequeño y relativamente frágil. Cobarde y temeroso. No muy útil más que como alimento experimental.\n<>\nNOMBRE DE LA ENTIDAD: SAW-02 \"Orange\"\nCONTEO: 52082\n- Una variante del SAW-01. Grandes, fuertes, torpes y con cuatro brazos. Útiles para las labores simples y pruebas físicamente extenuantes donde la muerte no sea deseada.\n<>\nNOMBRE DE LA ENTIDAD: SAW-03 \"Milky\"\nCONTEO: 32184\n- Variante del SAW-01 combinado con ADN marino no especificado. Pequeño, arrogante, pero inteligente. Excelentes propiedades visuales. Ideales para labores mentales.\n<>\nNOMBRE DE LA ENTIDAD: SAW-04 \"Leapy\"\nCONTEO: 2046\n- Variante del SAW-01 combinado con ADN de musgo. Se necesitó un tiempo en conseguir una versión medianamente funcional. La aparición relativamente rápida de cáncer los hace casi inútiles en las labores. También, representan riesgo de fuga.\n<>\nNOMBRE DE LA ENTIDAD: SAW-05 \"Chompy\"\nCONTEO: 6084\n- Variante del SAW-03 combinado con ADN de \"Tiburón\". Carnívoro y acuático. Sin pelaje. Extrañamente amigable. Útil para resolver conflictos cuando la violencia es indeseable. Su gran cola les resulta muy pesada, confirmando nuestras teorías pasadas.\n- Los tiburones eran una especie de peces marinos depredadores. Están extintos, pero su ADN se conservó con fines científicos.\n<>\nNOMBRE DE LA ENTIDAD: SAW-06 \"Roza\"\nCONTEO: 7848\n- Variante del SAW-01 combinado con ADN de \"Caminante Helado\". Temperatura corporal inusualmente baja. Volátil y propenso a irritarse, pero dócil al no sentirse amenazado. Cola pesada. Presenta características femeninas convencionales, probablemente como resultado de la interacción del ADN del Caminante Helado con el ADN terrestre.\n- Véase <corrupt:0xFFF853> para más detalles sobre los \"Caminantes Helados\".\n\n[PÁGINA 1 DE 2]",
             "Item2": ""
         },
         {
-            "Item1": "",
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-04-08-09-06-19-3953]\n<>\nÍNDICE DE LA BASE DE DATOS: Registro del Proyecto Sawian\nSUBÍNDICE DE LA BASE DE DATOS: Especies\n<>\n[CONTENIDOS]\n\n[PARA TODAS LAS ENTIDADES EN EL REGISTRO]\n- SOBREESCRITURA DEL TIPO DE LA ENTIDAD: Plantilla\n- CLASE DE LA ENTIDAD: Biológica\n- SUBCLASE DE LA ENTIDAD: Sawian\n<>\nNOMBRE DE LA ENTIDAD: SAW-07 \"Voyager\"\nCONTEO: 3604\n- Variante del SAW-01 combinado con ADN felino. Un imbécil prominente. Odian a las otras especies sin motivo aparente, pero nos tienen alta estima. Altamente ágiles, pero no representan un riesgo de fuga. Les gusta esconderse, al punto de interferir con los procedimientos de prueba.\n<>\nNOMBRE DE LA ENTIDAD: SAW-08 \"Baron\"\nCONTEO: 73\n- Variante del SAW-02 combinado con ADN de <corrupt:0xFFDED0>. Imponentes. Aproximadamente el doble del tamaño de un ser humano. Extremadamente poderosos, y estables emocionalmente. Aunque no representan un riesgo de fuga, se recomiendan mantenerlos bajo un protocolo más estricto. Su tamaño dificulta su clonación y reproducción – evite matarlos si es posible.\n<>\nNOMBRE DE LA ENTIDAD: <corrupt:0xFFFFEA>\nCONTEO: 3067\n- Variante del SAW-03 combinado con ADN insectoide. Huesos huecos. Pelaje de color rosa brillante peculiar. Poseen apéndices similares a alas con rasgos insectoides. Tienden a actuar de forma irritante, aunque no necesariamente malintencionada. Su apariencia tiende a atraer la atención de otros sawianos.\n<>\nNOMBRE DE LA ENTIDAD: SAW-10 \"Crystal\"\nCONTEO: 2360\n- Variante del SAW-06 combinado con ADN de lagarto. Presenta en su cuerpo protuberancias duras similares al de un cristal. Lengua larga y extremadamente pegajosa, capaz de sostener su propio peso. Disfrutan colgarse del techo sin motivo aparente. Aún no se han realizado pruebas cognitivas, pero tienden a tener cierto grado de arrogancia. Rasgos femeninos similares a los del SAW-06.\n<>\nNOMBRE DE LA ENTIDAD: SAW-11 \"Velvet\"\nCONTEO: 158\n- Variante del SAW-06 combinado con ADN de artrópodo. Apariencia similar al de una araña. Se han realizado pocas pruebas en esta entidad debido a que suelen inquietar a los empleados, tanto por su comportamiento, como por su apariencia física. Se requiere protocolo estricto – se informa que un conserje desafortunado fue seducido para entrar en contacto con un ejemplar SAW-11. El cadáver parcialmente devorado fue encontrado horas después con marcas de sangre visibles alrededor de todos los SAWs-11 contenidos en la misma unidad.\n<>\nNOMBRE DE LA ENTIDAD: SAW-12 \"Dune\"\nCONTEO: 1839\n- Variante del SAW-05 combinado con ADN de artrópodo. PROTOCOLO ESTRICTO OBLIGATORIO – Se han reportado múltiples asesinatos de empleados y sawianos. Solo entre en contacto con el ejemplar a distancia y con armamento letal. No deje que su apariencia te engañe. Presentan tendencias caníbales y un apetito casi insaciable. Su baja capacidad intelectual solo acentúa estos hechos. Se planea deportar a la mayor parte de la población a <corrupt:0xFF0011> para garantizar la seguridad del personal, ya que su erradicación total no es viable.\n<>\nNOMBRE DE LA ENTIDAD: SAW-13 \"Shelly\"\nCONTEO: 784\n- Variante del SAW-10 combinado con ADN de artrópodo. No tema por su apariencia - SAWs-10 son generalmente dóciles. Carecen de boca y parecen alimentarse de la radiación ambiental. Incapaces de hablar, pero presentan signos de inteligencia considerable. Se recomienda que el personal sea capacitado en Lenguaje de Señas Universal para llevar a cabo las pruebas. Su caparazón limita su reproducción, pero la clonación sigue siendo relativamente sencilla. Reducir pruebas destructivas en la medida de lo posible.\n<>\n[PÁGINA 2 DE 2]",
             "Item2": ""
         },
         {
@@ -4276,7 +4276,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nASUNTO: ¡¡Felicidades!!\nDE: <corrupt:0xFF0BEA>\nPARA: GRUPO <corrupt:0xFC0002>\n<>\n[CONTENIDOS]\n\nQueridos científicos,\n\nLa creación de un mamífero gonosimulístico (use el término correctamente) capaz de reproducción asexual es un avanze espectacular para la ciencia. Jamás se había visto esto en la naturaleza. Es incierto si aún es posible llamarles mamíferos... Sirve de prueba para mí y para <corrupt:0x0001FC> que no hay absolutamente nada que este equipo no pueda hacer.\n\nDeseo agradecerles a todos los que contribuyeron en este asombroso logro. Esto reduce enormemente el costo y complejidad de su producción, ya que no es necesario crear y organizar diferentes Sawianos machos y hembras. La falta de deseo sexual también limita la sobrepoblación y evita cualquier incidente, sin impedir que puedan reproducirse.\n<>\nPronto tendrán una recompensa de parte mía.\n\nCon mis mejores intenciones,\n<corrupt:0xFF0BEA>\n<>\n[ADJUNTOS]\n\nREF: [MEMORÁNDUM INTERNO - 25##-12-07-09-12-40-0157]\n\nCLASE DE ENTIDAD: Biológico\nSUBCLASE DE ENTIDAD: Sawian\n<>\n[CONTENIDOS]\n\nEste memorándum establece una póliza de terminología mandatoria para la especie Sawian y supersede toda documentación, anotaciones y usos informales anteriores.\n\nEfectivo inmediatamente, el término \"hermafrodita\" está **prohibido en todas la comunicaciones corporativas**, incluyendo en contextos científicos, operacionales, culturales y casuales. La única excepción es referencia histórica específica (p.ej., citas textuales, análisis de documentación antigua o la discusión de taxonomías terrestres obsoletas), la cual deberá ser claramente designada como tal.\n\nEl descriptivo aprovado para la biología reproductiva del espécimen Sawian es \"gonosimulístico\".  \nDependiendo del contexto, las alternativas son: \"cosexual\" y \"monoica\".\n\nCualquier uso del término fuera de estos delgados contextos históricos es considerado inapropiado, degradante, y pone en duda su profesionalidad. Esto introduce un riesgo intepretativo evitable y será revisado conforme al Marco de Control del Lenguaje Orientado a las Partes Interesadas.\n<>\nNingún ser humano posee naturalmente dos sistemas reproductivos completamente funcionales. El término médico, humano, y social adecuado es \"intersexual\", no \"hermafrodita\". Este último originado de la figura mitológica Hermaphroditus y ha sido asociado durante mucho tiempo a estigma, violencia, y deshumanización. Esto incluye el uso del término para referirse a animales, y esto hace que se igualen los humanos y animales intersexuales. Esto ha demostrado ser volátil en entornos públicos, académicos, y mediáticos.\n<>\nEl uso de este término en especies no humanas se origina de ese mismo Marco y por consecuente no es ni neutral ni aceptable, sin importar las diferencias biológicas.\n<>\nSi bien existen algunas alternativas históricas, como lo es \"eunuco\", \"bisexual\", y \"andrógeno\", estos han adoptado nuevas connotaciones y significados que tampoco son apropiados para usar en este sentido.\n\nNo proyecten los géneros humanos o marcos sexuales sobre los Sawian. La biología reproductiva no dicta la presentación, orientación, identificación o función social de género.\n\nLa terminología reproductiva no es vocabulario informal y no debe tratarse como tal.\n<>\nEsta póliza no constituye una posición moral, orientación médica, o aprobación cultural. Su propósito es estrictamente asegurar consistencia, reducir ambigüedad, y proteger la organización de cualquier daño a su reputación.\n\n[FIN ADJUNTOS]\n\n[FIN]",
+            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nASUNTO: ¡¡Felicidades!!\nDE: <corrupt:0xFF0BEA>\nPARA: GRUPO <corrupt:0xFC0002>\n<>\n[CONTENIDOS]\n\nQueridos científicos,\n\nLa creación de un mamífero gonosimulístico (use el término correctamente) capaz de reproducción asexual es un avance espectacular para la ciencia. Jamás se había visto esto en la naturaleza. Es incierto si aún es posible llamarles mamíferos... Sirve de prueba para mí y para <corrupt:0x0001FC> que no hay absolutamente nada que este equipo no pueda hacer.\n\nDeseo agradecerles a todos los que contribuyeron en este asombroso logro. Esto reduce enormemente el costo y complejidad de su producción, ya que no es necesario crear y organizar diferentes Sawianos machos y hembras. La falta de deseo sexual también limita la sobrepoblación y evita cualquier incidente, sin impedir que puedan reproducirse.\n<>\nPronto tendrán una recompensa de parte mía.\n\nCon mis mejores intenciones,\n<corrupt:0xFF0BEA>\n<>\n[ADJUNTOS]\n\nREF: [MEMORÁNDUM INTERNO - 25##-12-07-09-12-40-0157]\n\nCLASE DE ENTIDAD: Biológico\nSUBCLASE DE ENTIDAD: Sawian\n<>\n[CONTENIDOS]\n\nEste memorándum establece una póliza de terminología mandatoria para la especie Sawian y supersede toda documentación, anotaciones y usos informales anteriores.\n\nEfectivo inmediatamente, el término \"hermafrodita\" está **prohibido en todas la comunicaciones corporativas**, incluyendo en contextos científicos, operacionales, culturales y casuales. La única excepción es referencia histórica específica (p.ej., citas textuales, análisis de documentación antigua o la discusión de taxonomías terrestres obsoletas), la cual deberá ser claramente designada como tal.\n\nEl descriptivo aprobado para la biología reproductiva del espécimen Sawian es \"gonosimulístico\".  \nDependiendo del contexto, las alternativas son: \"cosexual\" y \"monoica\".\n\nCualquier uso del término fuera de estos delgados contextos históricos es considerado inapropiado, degradante, y pone en duda su profesionalidad. Esto introduce un riesgo interpretativo evitable y será revisado conforme al Marco de Control del Lenguaje Orientado a las Partes Interesadas.\n<>\nNingún ser humano posee naturalmente dos sistemas reproductivos completamente funcionales. El término médico, humano y social adecuado es \"intersexual\", no \"hermafrodita\". Este último originado de la figura mitológica Hermaphroditus y ha sido asociado durante mucho tiempo a estigma, violencia y deshumanización. Esto incluye el uso del término para referirse a animales, y esto hace que se igualen los humanos y animales intersexuales. Esto ha demostrado ser volátil en entornos públicos, académicos y mediáticos.\n<>\nEl uso de este término en especies no humanas se origina de ese mismo Marco y por consecuente no es ni neutral ni aceptable, sin importar las diferencias biológicas.\n<>\nSi bien existen algunas alternativas históricas, como lo es \"eunuco\", \"bisexual\", y \"andrógeno\", estos han adoptado nuevas connotaciones y significados que tampoco son apropiados para usar en este sentido.\n\nNo proyecten los géneros humanos o marcos sexuales sobre los Sawian. La biología reproductiva no dicta la presentación, orientación, identificación o función social de género.\n\nLa terminología reproductiva no es vocabulario informal y no debe tratarse como tal.\n<>\nEsta póliza no constituye una posición moral, orientación médica o aprobación cultural. Su propósito es estrictamente asegurar consistencia, reducir ambigüedad y proteger la organización de cualquier daño a su reputación.\n\n[FIN ADJUNTOS]\n\n[FIN]",
             "Item2": ""
         },
         {
@@ -4300,7 +4300,7 @@
             "Item2": ""
         },
         {
-            "Item1": "(Cuando tocas la pantalla del APD unas veces, comienza a encender en modo de emergencia.)\n\n[MENSAJE INTERNO]\n[LEY <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nUBICACIÓN: FIRMA DE ABOGADOS O<corrupt:0xFFFFFF> \nFECHA:<corrupt:0xFBC00F>\nDUEÑO DECLARADO: Abogado <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMENSAJE EN RED DE COMUNICACIÓN INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFFFFFF><>\n\nEsto es una locura. Recientes pedidos de comida e ingredientes a granel nos atrajo tanta atención inecesaria que ese mal <corrupt:0xFA05F2> a nosotros. ¿Entiende que si el gobierno se entera de los híbridos, estamos acabados? Puedo explicar el agua y los bananos, es más no tendré problema en explicar esas cisternas llenas de leche chocolatada. ¿Quiere saber qué no será tan fácil de explicar? POR QUÉ 2 CAMIONES ENTEROS DE COMIDA DE PERRO ACABAN DE SER DESCARGADOS POR LAS BODEGAS APENAS ESTA TARDE. ¿Qué se supone que le diga a <corrupt:0xFA05F2> denes extrañas? \"Oh no se preocupe, es sólo que la compañía ha declarado un récord en ganancias y quería almacenar comida para el futuro\". No estoy jugando, esa fue una de las ideas que me dió <corrupt:0xFFFFFF> Es como si esa gente estuviera sorda y no pueden escuchar sus propias ideas estúpidas. ¿A qué te refieres con \"almacenar comida\"? Tenemos como máximo <corrupt:0xFFFFFF> rros en estas instalaciones, esta orden sería suficiente para alimentar a ellos, a sus crías, y a las crías de sus crías. Tendremos que improvisar, hablarles acerca de la bioenergía, confundir sus ejecutivos decrépitos con lenguaje profesional y pretender que la mayoría de esos <corrupt:0xFBC00F> reactores. No hay margen de erro\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE ERROR DE MEMORIA RAM><>\n\n(El APD se apaga con ruidos desagradables acompañándole.)",
+            "Item1": "(Cuando tocas la pantalla del APD unas veces, comienza a encenderse en modo de emergencia.)\n\n[MENSAJE INTERNO]\n[LEY <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nUBICACIÓN: FIRMA DE ABOGADOS O<corrupt:0xFFFFFF> \nFECHA:<corrupt:0xFBC00F>\nDUEÑO DECLARADO: Abogado <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMENSAJE EN RED DE COMUNICACIÓN INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFFFFFF><>\n\nEsto es una locura. Recientes pedidos de comida e ingredientes a granel nos atrajo tanta atención inecesaria que ese mal <corrupt:0xFA05F2> a nosotros. ¿Entiende que si el gobierno se entera de los híbridos, estamos acabados? Puedo explicar el agua y los bananos, es más no tendré problema en explicar esas cisternas llenas de leche chocolatada. ¿Quiere saber qué no será tan fácil de explicar? POR QUÉ 2 CAMIONES ENTEROS DE COMIDA DE PERRO ACABAN DE SER DESCARGADOS POR LAS BODEGAS APENAS ESTA TARDE. ¿Qué se supone que le diga a <corrupt:0xFA05F2> denes extrañas? \"Oh no se preocupe, es sólo que la compañía ha declarado un récord en ganancias y quería almacenar comida para el futuro\". No estoy jugando, esa fue una de las ideas que me dió <corrupt:0xFFFFFF> Es como si esa gente estuviera sorda y no pueden escuchar sus propias ideas estúpidas. ¿A qué te refieres con \"almacenar comida\"? Tenemos como máximo <corrupt:0xFFFFFF> rros en estas instalaciones, esta orden sería suficiente para alimentar a ellos, a sus crías, y a las crías de sus crías. Tendremos que improvisar, hablarles acerca de la bioenergía, confundir sus ejecutivos decrépitos con lenguaje profesional y pretender que la mayoría de esos <corrupt:0xFBC00F> reactores. No hay margen de erro\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE ERROR DE MEMORIA RAM><>\n\n(El APD se apaga con ruidos desagradables acompañándole.)",
             "Item2": ""
         },
         {
