@@ -368,8 +368,8 @@
         "carcasssplintdsc": "벌레 잔해 여러 개를 이어붙여 만든 단단하고 긴 튜브. 골절이 일어난 신체 부위에 대는 간이 부목으로 사용하기에 적당하다.",
         "terrainscanner": "지형 스캐너",
         "terrainscannerdsc": "발밑에 있는 지형지물의 배치도를 저품질로 보여준다. 지형은 초록색으로, 구조물은 빨간색으로 표시된다. 최대 24미터까지의 범위를 보여준다.",
-        "sleepingbag": "Sleeping bag",
-        "sleepingbagdsc": "An insulated covering for a person to sleep in. Use to sleep in it, bumping the sleeping quality up a tier (capped at Good) and giving you some insulation for the night. Normal sleep restrictions apply.",
+        "sleepingbag": "침낭",
+        "sleepingbagdsc": "사람이 잠을 잘 수 있도록 단열 처리된 덮개. 사용하면 수면의 질을 한 단계 높여주고 (최대 '좋음' 단계), 밤새 보온 효과를 제공한다. 일반적인 수면 제한이 적용된다.",
         "liquidcentrifuge": "액체 원심분리기",
         "liquidcentrifugedsc": "혼합물을 비효율적으로 기본 구성 요소로 분리할 수 있는 휴대용 원심 분리기다. 과정이 다소 복잡하며 총 액량의 약 2/3가 손실된다. 60초마다 충전된다.",
         "epda": "전자 PDA",
@@ -1323,19 +1323,19 @@
         "trapdepthincrease": "층에 따른 함정 증가 배율",
         "radlinedisable": "시간 제한 비활성화",
         "unchipped": "칩 없음",
-        "looatmountdsc": "물자의 전체적인 수량을 조절한다",
-        "trapamountdsc": "함정의 전체적인 수량을 조절한다",
-        "lootdepthmultiplierdsc": "층마다 물자 수량에 적용되는 배율을 조절한다",
-        "trapdepthincreasedsc": "층마다 증가하는 함정 수량의 배율을 조절한다",
+        "looatmountdsc": "모든 전리품의 비율\n\n이 설정은 각 층에서 생성되는 드롭 캡슐이나 상자와 같은 전리품의 양에 영향을 미칩니다.\n\n값을 너무 높게 설정하면 성능 문제가 발생할 수 있습니다.",
+        "trapamountdsc": "모든 함정의 비율\n\n이 설정은 각 층에 생성되는 스파이크 함정이나 적과 같은 함정의 양에 영향을 미친다.\n\n값을 너무 높게 설정하면 성능 문제가 발생할 수 있다.",
+        "lootdepthmultiplierdsc": "각 층을 통과할 때마다 전리품 양이 이 값만큼 곱해진다.\n\n예를 들어 50%로 설정하면 층이 내려갈 때마다 전리품 양이 절반으로 줄어든다.",
+        "trapdepthincreasedsc": "각 층을 통과할 때마다 함정 수량에 이 값이 더해진다.\n\n예를 들어 50%로 설정하면 함정 수량은 100% -> 150% -> 200% -> 250% 등으로 증가한다.",
         "radlinedisabledsc": "레이어별 시간 제한을 비활성화한다.",
-        "unchippeddsc": "현재 건강 상태를 알려주는 칩을 제거한다",
+        "unchippeddsc": "건강 칩을 비활성화하여 당신이 위험을 파악하는 데 더 많은 노력을 기울이게 한다.\n\n초보자에게는 권장하지 않지만, 층 모드로 게임 내에서 드물게 나타날 수 있다.",
         "startrun": "시작하기",
         "startrundsc": "아래 동굴로 내려가기. 먼저 기초 훈련을 거치는 것을 잊지 마십시오!",
         "quit": "나가기",
         "resettodefault": "기존 설정으로 되돌리기",
         "resettodefaultdsc": "모든 실행 설정을 기본값으로 리셋한다.",
-        "back": "Back",
-        "descend": "Descend",
+        "back": "뒤로",
+        "descend": "하강",
         "mainmenu": "메인\n메뉴",
         "screenbrightness": "화면 밝기",
         "gamma": "감마",
@@ -1593,7 +1593,7 @@
         "hplimbbleed": "신체 부위 출혈량",
         "hpopiate": "혈중 약물",
         "keybinds": "키 설정",
-        "keybindsdsc": "Open the keybinds file. Remember to save any changes!",
+        "keybindsdsc": "키 바인딩 파일을 엽니다. 변경 사항을 꼭 저장하십시오!",
         "custommusic": "커스텀 음악",
         "custommusicdsc": "커스텀 음악 디렉터리를 엽니다.\nMP3 플레이어에서 선택지로 표시되도록 .mp3/.ogg./.wav 파일을 넣을 수 있습니다.\n다른 파일 형식은 지원되지 않습니다.",
         "layer": "층",
@@ -3918,37 +3918,37 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemondade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very cold and my hair started falling out",
+                "Item1": "주변에 널브러진 액체 통을 항상 믿지 마. 레몬에이드라고 생각했던 큰 미니 배럴을 손에 넣었는데, 한 모금 마시자마자 레몬에이드가 아니라는 걸 알았어. 물통으로 씻어내려 했지만 물 때문에 너무 추워지고 털이 빠지기 시작했어.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "today i found a few weird metal cans that had the label ripped off. i couldnt tell what it was and the liquid was too thick to pour out, but it is surprisingly filling, i feel like i just had a nice steak... i feel so sleepy. im about to drink the next can, i love these cans!\n(The bottom of the paper looks like something with black chunks in it was forcibly ejected onto it.)",
+                "Item1": "오늘 라벨이 찢어진 이상한 금속 캔을 몇 개 발견했다. 무엇인지 알 수 없었고 액체가 너무 걸쭉해서 따르기도 힘들었지만 놀랍도록 배부르다. 마치 스테이크를 맛있게 먹은 것 같다... 너무 졸리다. 다음 캔을 마시려고 한다, 이 캔들이 좋다!\n(종이 아래쪽에는 검은 덩어리가 묻어 강제로 뱉어낸 흔적이 보인다.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "this might be a strange thing to say but I've made my peace with this situation. ive been trying to take care of myself as much as i can and trying to comfort all the others ive met down here. it makes me feel... content? even though I've gotten hurt a lot ive been able to handle it without feeling down.\ni'll try to get as far as i can, and even though i probably wont make it, i know i did my best and helped as many others as i could. that's all any of us can do.\nif you're reading this, don't give up, ok?",
+                "Item1": "이런 말을 하는 게 이상할 수도 있지만, 나는 이 상황에 평화를 느꼈다. 최대한 스스로를 돌보고, 여기서 만난 다른 사람들을 위로하려고 노력했다. 기분이... 만족스럽다? 많이 다쳤지만 낙담하지 않고 잘 극복할 수 있었다.\n최대한 멀리 가려고 노력할 것이고, 아마 성공하지 못하겠지만, 최선을 다했고 가능한 한 많은 사람들을 도왔다는 것을 알고 있다. 그게 우리 모두가 할 수 있는 전부다.\n이 글을 읽고 있다면, 포기하지 마, 알겠지?",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i have been seeing more and more of these broken down drop pods recently, kind of like the ones that they sent us down here with except these ones all exploded somehow <>\ninside the wreckages i usually find some type of gun ammunition along with a gross ball of some sort of meat? \n<>\nit looks awful but it might be edible???\nthat dune person i met earlier told me it was good to eat\ni could try having some of it\n<>\n\nate it and vomited my guts out for twenty minutes straight, worst mistake of my life <>\nfor the love of god, dont eat whatever that is",
+                "Item1": "최근에 이런 파손된 강하 포드를 점점 더 많이 보게 된다. 우리를 이곳으로 보낸 것과 비슷한 종류인데, 이들은 어떻게든 폭발했다 <>\n잔해 안에서는 보통 어떤 종류의 총알과 함께 역겨운 고기 덩어리를 발견한다 \n<>\n보기 흉하지만 먹을 수 있을지도???\n전에 만났던 듄이 먹어도 좋다고 했다\n좀 먹어볼까\n<>\n\n먹고 20분 동안 계속 구토했다, 내 인생 최악의 실수였다 <>\n제발, 저것은 절대 먹지 마",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i keep having the same dream. i have huge wings and i can keep flying up and up and up. nothing can stop me. i burst through the ceilings of these caverns and out into the world beyond. it's beautiful out there but i keep flying. i leave everything behind until there's nothing but a huge void. that's when i finally realize. im safe. im free.\n\nevery time i wake up, i cant stop crying. i wish i could keep dreaming forever.\n\n(There is a tear-stained drawing of some very inaccurate wings.)",
+                "Item1": "계속 같은 꿈을 꿔. 거대한 날개를 가지고 하늘 높이, 계속해서 날아오르는 꿈. 아무것도 날 막을 수 없어. 이 동굴 천장을 뚫고 세상 밖으로 나가지. 그곳은 아름다워. 하지만 계속 날아. 모든 것을 뒤로하고, 거대한 공허만이 남을 때까지. 그때서야 깨달았어. 난 안전해. 난 자유로워.\n\n매번 깨어나면 멈출 수 없이 울어. 영원히 꿈속에 머물렀으면 좋겠어.\n\n(눈물로 얼룩진 날개 그림이 그려져 있는데, 엉망진창이야.)",
                 "Item2": "Sprites/noteDrawings/wings",
                 "Item3": "experiment"
             },
             {
-                "Item1": "can the scientists really see me here? they always wanted me to say out loud what i was thinking, but here, im just talking to myself. i suppose i have the freedom to stop, but... it feels therapeutic. if i dont make it, maybe at least these notes will.",
+                "Item1": "과학자들이 정말 나를 볼 수 있을까? 그들은 항상 내가 생각하는 것을 소리 내어 말하길 원했지만, 여기서는 혼잣말만 하고 있어. 아마 멈출 자유는 있겠지만... 치료가 되는 기분이야. 만약 내가 살아남지 못한다면, 적어도 이 기록들은 남겠지.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i didnt realize how bad it had gotten until i tried to dig again and my claws just... scraped. no bite to them anymore. ive been clawing through rock nonstop without even thinking about it. i felt naked. turns out flesh isnt meant to replace tools.\n<>\ni kept assuming i needed a pickaxe for everything. but i figured out my machete works just fine for the lighter stuff. dirt, plants, sand, it slices right through. saves my hands a lot of pain.\n<>\nfound a bottle labeled keratin booster. figures they planned for our parts to break down. took a sip. after a while the old layers started flaking off like fur. underneath, they felt sharper. stronger. it was weirdly satisfying watching the worn parts peel away. i like how my claws let me grip the walls better\n<>\ni remembered the humans. they had nails on every finger. all of them. no claws at all. it looked so wrong up close. soft. blunt. freaky how they managed anything with hands like that.\n<>\ni used to think that made them weak.\n<>\nnow i wonder if that was the point.",
+                "Item1": "다시 파보려고 했을 때 얼마나 심각해졌는지 몰랐어. 발톱이... 그냥 긁혔어. 더 이상 힘이 없어. 생각도 안 하고 계속해서 바위를 파왔어. 너무 허전했어. 육체는 도구를 대체할 수 없다는 걸 알게 됐어.\n<>\n나는 항상 곡괭이가 필요하다고 생각했어. 하지만 칼로도 가벼운 것들은 잘 잘린다는 걸 알았어. 흙, 식물, 모래, 모두 쉽게 잘려. 손에 굳은살이 박히는 고통을 덜어줘.\n<>\n케라틴 부스터라고 적힌 병을 발견했어. 부품이 망가질 것을 대비해서 계획한 것 같아. 한 모금 마셨어. 얼마 지나지 않아 낡은 층이 털처럼 벗겨지기 시작했어. 그 아래는 더 날카로워졌어. 더 강해졌어. 이상하게 만족스러웠어. 낡은 부분이 벗겨지는 걸 보는 게. 발톱으로 벽을 더 잘 잡을 수 있게 된 것도 좋아.\n<>\n인간들이 떠올랐어. 그들은 모든 손가락에 손톱을 가지고 있었지. 발톱은 전혀 없었어. 가까이서 보니 너무 이상했어. 부드럽고, 뭉툭하고, 그런 손으로 어떻게 뭘 할 수 있는지 신기했어.\n<>\n예전에는 그들이 약하다고 생각했어.\n<>\n이제는 그게 의도였는지 궁금해.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -3958,7 +3958,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "I took a bad fall. REAL bad. Right into a hole and couldn't climb or dig out of with my injuries. But I made it out with these bits of scrap metal, and want to let others know this, too. \n\nIts the cavern walls! Nothing I've found- even dynamite -seems to be able to penetrate the outer boundaries of the caverns. But they are uneven, and if you stack enough bits of scrap metal on top of each other, you can wedge them in these tiny gaps and make an entire scrap foothold. When I was bleeding out in that dark hole, I used my collected debris to make a sort of staircase to escape and find emergency supplies.\n\nI hope you never wind up in that situation, though. Maybe you could use this trick to protect you from injury in the first place? Who knows what other nasty things are in here with us. \n\nMaybe you'll catch up to me and we can share strategies. \nI hope I'll be there to meet you.",
+                "Item1": "심하게 떨어졌어. 정말 심하게. 구멍에 빠져서 부상 때문에 기어오르거나 파낼 수도 없었어. 하지만 이 고철 조각들을 가지고 나왔고, 다른 사람들에게도 알려주고 싶어.\n\n동굴 벽이 문제야! 내가 찾은 어떤 것도 - 심지어 다이너마이트조차도 - 동굴의 외곽을 뚫을 수 없어. 하지만 울퉁불퉁하고, 고철 조각을 충분히 쌓으면 작은 틈새에 끼워 넣어 발판을 만들 수 있어. 어둠 속의 구멍에서 피를 흘리면서, 나는 탈출하고 비상 용품을 찾기 위해 그런 계단을 만들었어.\n\n하지만 그런 상황에 처하지 않기를 바라. 어쩌면 이 기술을 이용해서 부상을 방지할 수도 있을 거야? 우리와 함께 있는 다른 위험한 것들이 무엇인지 누가 알아.\n\n어쩌면 나를 따라잡아서 전략을 공유할 수 있을 거야.\n만나기를 바라.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -3968,12 +3968,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "I'm not very strong, so I've been hoping to team up with others. We'd have a much higher chance of survival that way, but nobody I've asked is interested. Everyone is scared and some of us are dangerous. There are so many traps that it's impossible to travel in large groups. I know I'm going to die for a completely stupid reason...\n\nHumans are so cruel. I can't understand it.",
+                "Item1": "나는 강하지 않아서 다른 사람들과 협력하고 싶어. 그렇게 하면 생존 가능성이 훨씬 높아질 거야. 하지만 내가 부탁한 사람은 아무도 관심이 없어. 모두 겁을 먹었고, 우리 중 일부는 위험해. 함정이 너무 많아서 크게 단체로 가는 것은 불가능해. 알아 난 완전히 멍청한 이유로 죽을 거야...\n\n인간들은 너무 잔인해. 이해할 수 없어.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me to fuck off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to fucking stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
+                "Item1": "(노트는 구겨지고 뭉개져서, 버리려고 했던 것처럼 보인다.)\n<>\n내 친구... 그들은... 자살한 것 같아. 또 심하게 떨어지고 다리를 고치려고 했는데 계속 꺼져 가라고 했어. 마치 파리처럼 쫓아냈어. 혼자 두라고 했어. 이해가 안 됐어. 그들을 붕대로 감싸기 위해 식물을 가져오러 갔는데... 돌아왔을 때 또 다른 상처가 있었어. 팔에. 아직도 그 모습이 기억나. 너무 심했어. 거의 찢어진 것 같았어. 식물로 새 상처를 치료하려고 했는데 계속 나를 밀어냈어. 그들의 눈은... 그냥... 텅 비어 있었어. 도와달라고 했지만 대답하지 않았어. 몇 번 더 도와주려고 했는데 밀쳐내더니... 멈췄어. 그들의 몸이 이완되는 걸 봤어. 그게 숨을 멈춘 순간이었던 것 같아. 그 이미지를 머릿속에서 지울 수 없어...\n<>\n내가 뭘 잘못한 걸까? 맹세하는데... 뭘 잘못한 걸까? 왜 그런 짓을 한 거지? 나는... 아무것도 안 했어. 이해가 안 돼. 죽고 싶지 않아... 나는...\n<>\n...\n<>\n하하...\n<>\n여기 너무 외로워.\n<>\n(구겨진 노트 사이에서 희미한 눈물 자국과 말린 피가 묻어 있는 것을 발견했다.)",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -3995,7 +3995,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i dont like not knowing what to do. back at home they would always tell me. play this game, be quiet when a human is talking, get stabbed by these pokey things.\nnow im supposed to complete this mission but i dont know how to do it. im thirsty and i hurt my leg but im also really dirty and cold and i have no idea where to go other than down.\ni guess ill try to stop what's going to kill me the fastest. i hope it works.",
+                "Item1": "뭘 해야 할지 몰라서 싫어. 예전에는 항상 알려줬어. 이 게임을 해, 인간이 말할 때는 조용히 해, 이 뾰족한 것에 찔려. 이제 이 임무를 완수해야 하는데 어떻게 해야 할지 몰라. 목이 마르고 다리도 아프지만 너무 더럽고 추워서 어디로 가야 할지 모르겠어. 그냥 아래로 내려갈 뿐이야.\n나를 가장 빨리 죽일 것을 멈추려고 할 거야. 잘 되길 바라.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4072,7 +4072,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Curious, I attempted to traverse in a prone position.\n<>\nThe utility was unexpected. Not only does it allow one to rinse off contaminants in shallow puddles and squeeze through narrow gaps, but remarkably, even crawling over scattered glass shards resulted in no injury.\n<>\nHowever, complacency is dangerous. I misjudged a slight drop and injured myself. \n<>\nScuttling around like that... I must have looked just like one of those \"worms\" I heard about.",
+                "Item1": "호기심이 생겨서 엎드린 자세로 이동해 보았어.\n<>\n유용성은 예상외였어. 얕은 웅덩이에서 오염 물질을 씻어내고 좁은 틈새를 빠져나갈 수 있을 뿐만 아니라, 놀랍게도 유리 조각이 흩뿌려진 곳을 기어 다니는 동안에도 부상을 입지 않았어.\n<>\n하지만 방심은 위험해. 약간의 낙차를 잘못 판단해서 다쳤어.\n<>\n그렇게 기어 다니는 모습은... 내가 들었던 \"벌레\"와 똑같았을 거야.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4114,7 +4114,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "The oil pools on this planet are definitely unnatural. Trying to understand their origin, I crawled through one of the empty pipes only to find a tough metallic screen that stopped me from progressing.\nThere was a sign behind it that said \"Waste Disposal Source\". I drilled through the pipe to go around the screen, but the pipe stopped abruptly. It has to be connected to something from our old home, but I don't understand how.\n\nThat sign keeps worrying me. Did the humans want to dispose of us too?",
+                "Item1": "이 행성의 기름 웅덩이는 확실히 부자연스러워. 그 근원을 알고 싶어서 빈 파이프를 기어 들어갔는데, 막힌 금속 스크린을 발견했어. 그 뒤에는 \"폐기물 처리원\"이라고 적힌 표지가 있었어. 스크린을 우회하기 위해 파이프를 뚫었지만, 파이프는 갑자기 멈췄어. 예전 우리 집에 무언가와 연결되어 있어야 할 텐데, 이해가 안 돼.\n\n그 표지가 계속 신경 쓰여. 인간들도 우리를 버리고 싶었던 걸까?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4171,7 +4171,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i steped in another one of theose damned coils again today, it was hidden in a bush, I noticed it too late to pull back.\n<>\nit was horrible, like i was being cooked from the inside, even after the initial shock. cold drinks seem to help though, i had to drink most of my rationed milk, and some apple juice, not sure if my brain would have survived without it. evrything is still spinning, could barely even make it back to my pod.",
+                "Item1": "오늘 또 그 빌어먹을 코일에 발을 디뎠어. 덤불 속에 숨겨져 있었고, 피하기에는 너무 늦었어.\n<>\n마치 안에서 익는 것 같았어. 초기 충격이 가신 후에도. 차가운 음료를 마시는 게 도움이 되는 것 같아. 내게 주어진 우유와 사과 주스를 거의 다 마셨어. 뇌가 살아남지 못했을지도 몰라. 아직도 빙글빙글 돌아. 겨우 포드로 돌아올 수 있었어.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4198,7 +4198,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i didnt think that monster would find me again, but it did. it knew my face, my mistakes... but not my rifle. when it finally burst open, i saw that pickaxe. i saw the etching i scratched into it, the same as the etching they scratched into my pickaxe. i saw the chip from when they tried to dig up some titanium to gift me. and then, suddenly, i saw it happening again. the smell of grating steel. the tremours of the ground. the sound of dismembering flesh. the taste of sweat and blood, as i tried to run, dropping the food i was bringing back to the pod-\n<>\nam i supposed to feel at ease now? or am i just bargaining for peace, to be broken when another finds me?",
+                "Item1": "그 괴물이 다시 나를 찾을 줄 몰랐어. 내 얼굴, 내 실수를 알고 있었지만, 내 소총은 몰랐어. 마침내 터져 나오자, 그 곡괭이를 봤어. 내가 새긴 것과 똑같은 새김이 있었어. 그들이 내 곡괭이에 새긴 것과 똑같았어. 티타늄을 선물하기 위해 파려고 했을 때 생긴 칩도 봤어. 그리고 갑자기, 그 일이 다시 일어나려고 했어. 강철이 갈리는 소리. 땅의 진동. 사지를 찢는 소리. 땀과 피의 맛. 포드로 가져가던 음식을 떨어뜨리면서 도망치려고 애썼어-\n<>\n이제 안심해야 할까? 아니면 또 다른 괴물이 나를 찾을 때까지 평화를 갈구하는 걸까?",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "experiment"
             },
