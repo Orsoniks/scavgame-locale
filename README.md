@@ -14,7 +14,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [Español (ES)](/ES.json)   | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0)                                                                             |
 | [Deutsch (DE)](/DE.json)   | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ)                                                                               |
 | [اَلْعَرَبِيَّةُ (AR)](/AR.json)   | [Enderwolf](https://github.com/Enderw0lf)    |
-| [简体中文 (ZH)](/ZH.json)   | [影月炎YUN](https://github.com/YUN2474), [月曦MONXI](https://github.com/martha-mana), [戈伦](https://github.com/ALPHA371)                                                                            |
+| [简体中文 (ZH)](/ZH.json)   | [影月炎YUN](https://github.com/YUN2474), [月曦MONXI](https://github.com/martha-mana), [戈伦](https://github.com/ALPHA371), [dlwmyz2905](https://github.com/dlwmyz2905)                                                                            |
 | [한국어 (KO)](/KO.json)     | [muqhc](https://github.com/muqhc), [DrawinDarwin](https://github.com/DrawinDarwin), [Kedr2806](https://github.com/Kedr2806)                            |
 | [Italiano (IT)](/IT.json)   | [LorgamerPizza](https://github.com/lorgamerpizza-code),chaosussy        |
 | [Ukrainian (UA)](/UA.json)   | [Vladorion737](https://github.com/vladorion737)        |
