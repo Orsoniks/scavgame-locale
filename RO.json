@@ -1,5 +1,6 @@
 {
   "name": "Română",
+  "description": "Traducere română pentru Casualties: Unknown, creată de către comunitate",
   "main": {
     "bandage": "Pansament",
     "bandagedsc": "O rolă de bandaj cu un pansament, utilizată pentru a încetini sângerarea, a stabiliza fracturile și a ajuta la vindecarea pielii. Nu are efect asupra sănătății mușchilor.",
@@ -87,6 +88,7 @@
     "legpouchdsc": "O pungă din piele cu curele care se prinde în jurul coapsei. E ca un buzunar buzunar!",
     "liquidpouch": "Sac pentru lichide",
     "liquidpouchdsc": "O pungă flexibilă pentru lichide, destinată depozitării lichidelor. Are o curea care se pune peste burta ta. Poate fi umplută cu sticle și invers.",
+    "materialpouch": "Traistă pentru materiale",
     "materialpouchdsc": "O traistă mare și robustă care se atașează la coapsă, cu multe buzunare mici pentru a depozita materiale de artizanat. Are o reducere mare a greutății, însă acceptă doar obiecte foarte mici.",
     "purse": "Poșetă",
     "pursedsc": "O geantă de dimensiuni medii, cu mâner, folosită pentru transportul obiectelor personale. Destul de elegantă!",
@@ -200,12 +202,16 @@
     "alcoholdsc": "Sticlă cu o capacitate de 0,4 L.",
     "foliage": "Frunziș",
     "foliagedsc": "Plantă extraterestră generică. Abia comestibilă, cu un gust nesatisfăcător. Poate provoca greață. Se descompune rapid. Adesea folosită în artizanat.",
+    "foliagemeal": "Mâncare din frunziș",
+    "foliagemealdsc": "Alimente preparante decent, făcute din frunziș crocant și umplutură rudimentară. Nu se vor păstra pe mult timp și nu au grăsimi, dar sunt foarte sățioaese.",
     "dryfoliage": "Frunziș uscat",
     "dryfoliagedsc": "Pare puțin mai apetisant când este uscat. S-ar putea să îți provoace o ușoară stare de rău.",
     "glowplantfruit": "Fruct Luminoplantă",
     "glowplantfruitdsc": "Bioluminescent și necomestibil. Conține toxine moderat periculoase; combate infecțiile. Sucul său favorizează reacțiile chimice, fiind util în procesul de fabricare.",
     "flashlight": "Lanternă",
     "flashlightdsc": "Iluminează o zonă mare din fața sa, dar consumă încet bateria. Utilizează pentru a schimba modul.",
+    "emergencylight": "Lanternă de urgență",
+    "emergencylightdsc": "O lanternă mică de urgență de unică folosință. Probabil că ai vrea să găsești o sursă nouă de lumină înainte ca aceasta să se epuizeze. Utilizează pentru a comuta.",
     "lantern": "Felinar",
     "lanterndsc": "Un felinar simplu, din lemn și sticlă, cu un cristal galben strălucitor în interior.",
     "lightbulb": "Bec",
@@ -362,6 +368,8 @@
     "carcasssplintdsc": "Un tub rigid și lung, realizat din mai multe carcase îmbinate. Funcționează ca o atelă improvizată decentă pentru tratarea fracturilor.",
     "terrainscanner": "Scaner de teren",
     "terrainscannerdsc": "Îți arată o hartă de calitate redusă a terenului de sub voi. Terenul este evidențiat cu verde, iar clădirile solide cu roșu. Se întinde pe o adâncime de 24 de metri.",
+    "sleepingbag": "Sac de dormit",
+    "sleepingbagdsc": "O cuvertură izolată în care se poate dormi. Utilizează pentru a dormi în ea, ridicând calitatea somnului cu un nivel (limitat la Bine) și acordând un pic de izolare în timpul nopții. Restricțiile uzuale pentru somn rămân la fel.",
     "liquidcentrifuge": "Centrifugă pentru lichide",
     "liquidcentrifugedsc": "O centrifugă portabilă care poate separa ineficient un amestec în componentele sale de bază. Procesul este destul de complex și are ca rezultat pierderea a aproximativ două treimi din volumul total de lichid. Se reîncarcă la fiecare 60 de secunde.",
     "epda": "ADP-E",
@@ -402,6 +410,8 @@
     "filterstrawdsc": "Poate fi utilizat pentru a bea în siguranță apă subterană și pentru a reduce impactul asupra sănătății al altor lichide atunci când este ținut în mâna principală. Funcționează și atunci când se bea din sticle.",
     "wrench": "Cheie",
     "wrenchdsc": "Un instrument utilizat pentru a asigura aderența și avantajul mecanic în aplicarea cuplului pentru a roti obiecte. Poate fi utilizat pe membrele dislocate pentru a le corecta mai eficient decât cu mâinile goale.",
+    "makeshiftwrench": "Cheie improvizată",
+    "makeshiftwrenchdsc": "O unealtă crudă care probabil e mai bună pentru lovitul bolturilor în locul potrivit decât la rotitul lor efectiv. Nu te va ajuta cu luxațiile, dar e utilă în artizanat.",
     "bruisekit": "Trusă pentru vânătăi",
     "bruisekitdsc": "O combinație de medicamente și alte produse farmaceutice, concepută pentru a ajuta la vindecarea mușchilor. Îmbunătățește sănătatea mușchilor/pielii și ajută foarte mult în cazul luxațiilor. Nu afectează sângerarea.",
     "medicalsuture": "Sutură medicală",
@@ -579,6 +589,8 @@
     "bioterminaldsc": "Un terminal de computer cu o placă sub el și o inscripție care spune \"Introduceți proba de ADN uman pentru a continua...\"",
     "lifepodshower": "duș de capsulă-salvare",
     "lifepodshowerdsc": "Oferă o pulverizare unică de spumă antiseptică de curățare.",
+    "lifepodpump": "Pompă pentru capsula de salvare",
+    "lifepodpumpdsc": "Pompează orice lichid vărsat în exterior.",
     "BloodCrystal": "Cristal de sânge",
     "BloodCrystaldsc": "Pare să fie umedă, conținând un lichid galben, care se scurge în tot ceea ce se află în jurul ei.",
     "cactus": "Cactus",
@@ -797,6 +809,9 @@
     "thirst2": "Deshidratat",
     "thirst3": "Uscat",
     "thirst4": "Desecat",
+    "overhydrated1": "Hidratat",
+    "overhydrated2": "Suprahidratat",
+    "overhydrated3": "Intoxicat cu apă",
     "sick1": "Greață",
     "sick2": "Amețit",
     "sick3": "Bolnav",
@@ -944,6 +959,9 @@
     "thirst2dsc": "Volum redus de apă în organism. Foarte sete.",
     "thirst3dsc": "Corpul se usucă, are nevoie disperată de apă. Mintea este consumată de sete.",
     "thirst4dsc": "Sângele devine periculos de vâscos din cauza lipsei de lichide. Insuficiență cardiacă iminentă.",
+    "overhydrated1dsc": "Setea îți este satisfăcută complet - nu vei avea nevoie de apă pe o perioadă. Rată de sete dublată.",
+    "overhydrated2dsc": "Ai băut cu mult mai mult decât e necesar. Mobilitatea e afectată un pic. Rată de sete dublată.",
+    "overhydrated3dsc": "Consum excesiv de apă. Celulele tale se umflă, provocând presiune intracraniană crescută, blocând fluxul sangvin către creier. Capul tău doare... Rată de sete dublată.",
     "sick1dsc": "Disconfort. Ușoară stare de rău..",
     "sick2dsc": "Confuz, disconfort la nivelul stomacului. Predispus la vărsături.",
     "sick3dsc": "Letargic, obosit și cu disconfort major. Foarte predispus la vărsături.",
@@ -1055,6 +1073,16 @@
     "layermodifier8dsc": "Acest loc pare să aibă o activitate foarte intensă a insectelor.",
     "layermodifier9dsc": "Deșeurile nucleare au fost depozitate în acest loc.",
     "layermodifier10dsc": "O puternică erupție solară ți-a dezactivat cipul pentru o perioadă.",
+    "genclearingworld": "Curățim terenul de joc...",
+    "geninstantiatingchunks": "Creăm o zonă nouă...",
+    "genpreprocessing": "Corectăm culorile...",
+    "gencreatingbackground": "Aranjăm fundalul...",
+    "gencreatingterrain": "Creăm teren pe care se poate sta...",
+    "gencreatingstructures": "Aruncăm mărfuri diverse...",
+    "genplacingplayer": "Căutăm un loc sigur...",
+    "gengeneratingborders": "Stabilim limitele peșterii...",
+    "genplacingentities": "Semănăm plante și ascundem capcane...",
+    "gencreatingcolliders": "Facem ca pereții să fie tangibili...",
     "keybindnotset": "Tastă rapidă neconfigurată",
     "strength": "Forță",
     "strengthdsc": "Nivelul tău general de masă musculară. \n\nAfectează atacurile, forța aruncării și viteza mâinilor în minijocuri. \nCrește capacitatea de transport atunci când este combinată cu Rezistența. \n\nCrește prin efectuarea de atacuri fizice, depășirea capacității de transport și antrenament.",
@@ -1102,6 +1130,8 @@
     "fungus": "Ciupercă",
     "mushroomcap": "Ciupercă",
     "mushroombody": "Ciupercă",
+    "copper": "Cupru",
+    "ilmenite": "Ilmenit",
     "lrdserum": "Ser D.R.L.",
     "lrdserumdsc": "Amestec special utilizat de un Dispozitiv de Resuscitare Localizată. Nu are niciun efect dacă este injectat cu alte instrumente.",
     "cleanwater": "Apă curată",
@@ -1186,12 +1216,16 @@
     "blooddsc": "Sânge galben. Deși culoarea pare normală pentru tine, se pare că este un efect secundar al procesului de bioinginerie. Utilizat în tratarea hipovolemiei.",
     "redblood": "Sânge roșu",
     "redblooddsc": "Sânge roșu. Ți se pare ciudat, iar mirosul îți amintește de captorii tăi. Poate trata hipovolemia, dar corpul tău nu îl va accepta bine.",
+    "alienblood": "Sânge extraterestru",
+    "alienblooddsc": "Sânge galben de la un extraterestru. Deși pare similar cu sângele tău, are unele diferențe vizibile. Totuși, nu ar trebui să fie prea rău pentru a fi folosit ca sânge de înlocuire.",
     "antiserum": "Antiser",
     "antiserumdsc": "Ser sanguin care conține anticorpi pentru combaterea celor mai frecvente infecții. Crește imunitatea și ajută la reducerea sepsisului. Crește puțin volumul sângelui.",
     "antibiotics": "Antibiotice",
     "antibioticsdsc": "Pastile care vă cresc imunitatea pentru o perioadă de timp, contracarând toate infecțiile. Gust neplăcut.",
     "sleepingpills": "Somnifere",
     "sleepingpillsdsc": "Somnifere puternice. Îți permite să dormi în condiții fizice proaste. Nu le combina cu opioide.",
+    "procoagulant": "Procoagulant",
+    "procoagulantdsc": "Chimicale care promovează coagularea sângelui. Încetinește global pierderea sângelui, inclusiv hemoragiile interne.",
     "antidepressants": "Antidepresive",
     "antidepressantsdsc": "Antidepresive puternice. Te face să simți totul mai puțin pentru o perioadă de timp și crește încet fericirea. Poate avea efecte secundare.",
     "antirad": "Anti-rad",
@@ -1204,6 +1238,8 @@
     "streptokinasedsc": "Anticoagulant. Reduce vâscozitatea sângelui, dar provoacă greață și intensifică sângerarea rănilor.",
     "chocolatemilk": "Lapte cu ciocolată",
     "chocolatemilkdsc": "Un tip de lapte aromatizat obținut prin amestecarea cu solide de cacao. Foarte dulce și gustos, dar toxic pentru specia ta. Crește fericirea, consumă cu precauție.",
+    "icedtea": "Ceai rece",
+    "icedteadsc": "Ceai rece, îndulcit și decofeinizat. Gustos!",
     "soup": "Supă",
     "soupdsc": "Supă neidentificabilă. Totuși încă gustoasă și sățioasă.",
     "cereal": "Mix de cereale",
@@ -1299,6 +1335,8 @@
     "resettodefault": "Resetează la implicite",
     "mainmenu": "Meniul\nPrincipal",
     "resettodefaultdsc": "Resetează toate setările de rulare la valorile implicite",
+    "back": "Înapoi",
+    "descend": "Coboară",
     "screenbrightness": "Luminozitate ecran",
     "gamma": "Gamma",
     "paneltip": "Apăsați tasta ESCAPE pentru a deschide/închide acest panou.",
@@ -1307,8 +1345,12 @@
     "containermaxweight": "Capacitate",
     "containermaxweightperitem": "Greutate maximă/articol",
     "conditionloss": "% descompunere/minut",
-    "decaysin": "Decăderi în <>",
-    "longtime": "Timp foarte lung",
+    "decayonlyif": "doar dacă ",
+    "decayonlyworn": "o porți",
+    "decayonlymoving": "te miști",
+    "decayonlyhasitems": "are obiecte",
+    "decaysin": "Se descompune în <>",
+    "longtime": "viitorul îndepărtat",
     "hours": " ore",
     "minutes": " minute",
     "seconds": " secunde",
@@ -1324,6 +1366,7 @@
     "itemwearableprotection": "Protecție:",
     "itemwearableisolation": "Izolație:",
     "itemvalue": "Valoarea comercială: ",
+    "itemqualities": "Are calități: ",
     "you": "Tu",
     "damagereduction": "Reducerea daunelor:",
     "bodyinsulation": "Izolația caroseriei: ",
@@ -1426,6 +1469,7 @@
     "cqcondiment": "Condimente",
     "handswitchtip": "Schimbă mâna principală",
     "handswitchdsc": "Schimbă mâna principală între Stânga/Dreapta\nFolosește asta pentru a săpa cu al doilea braț dacă cel principal este rupt\nBrațul stâng este puțin mai slab decât cel drept",
+    "handswitchwarning": "<color=\"orange\">AVERTISMENT\n</color>Ai mai puțină îndemânare cu mâna ta stângă",
     "speed1": "Normal",
     "speed2": "Rapid",
     "speed3": "Foarte rapid",
@@ -1498,7 +1542,7 @@
     "tut39": "Unele afecțiuni, precum durerea sau epuizarea, vor dura ceva timp până vor dispărea. Accelerează timpul (1-3) pentru a le face să treacă mai repede.",
     "tut40": "Bine.",
     "tut41": "Poți dormi apăsând butonul din partea dreaptă jos a panoului de sănătate. Nu dormi pe podeaua rece și dură; materialele precum cauciucul sunt mult mai confortabile.",
-    "tut42": "Uneori, a putea achiziționa singur anumite lucruri poate fi util.",
+    "tut42": "Procurarea lucrurilor pe cont propriu poate fi utilă uneori",
     "tut42a": "Iată un cuțit și un cub. Vei face niște cuie din ele. Mai întâi, adaugă ambele obiecte în inventarul tău.",
     "tut42ab": "Deschide meniul de artizanare (C), fă clic pe rețeta pentru cuie și apoi pe pictograma din partea de sus pentru a o crea.",
     "tut42ac": "Bravo. Majoritatea rețetelor necesită ingrediente cu o anumită calitate. Poți vedea ce calități are un obiect uitându-te la descrierea extinsă a acestuia.",
@@ -1549,6 +1593,7 @@
     "hplimbbleed": "Sângerare la membre",
     "hpopiate": "Cantitatea de opiacee",
     "keybinds": "Taste rapide",
+    "keybindsdsc": "Deschide fișierul cu taste rapide. Nu uita să salvezi schimbările!",
     "custommusic": "Muzică personalizată",
     "custommusicdsc": "Deschide directorul de muzică personalizat.\nPoți să pui fișiere .mp3/.ogg./.wav acolo pentru a le afișa ca opțiuni atunci când este utilizat playerul MP3.\nAlte tipuri de fișiere nu sunt acceptate.",
     "layer": "Nivel",
@@ -1570,8 +1615,6 @@
     "alerttoounhappy": "Nu se pot utiliza medicamente non-opioide atunci când te simți mizerabil!",
     "alertlimbmissing": "<1>ul tău lipsește, ceea ce face ca <2> să fie inutilizabil!",
     "alertsellcontainer": "Golește recipientul înainte de a-l vinde!",
-    "resetkeybinds": "Resetare la valorile implicite",
-    "reloadbinds": "Reîncărcare legături\n(Verificați modificările)",
     "insertsample": "Introduceți o probă",
     "tradeinteract": "Schimbă",
     "read": "Citește",
@@ -1609,14 +1652,12 @@
     "weighs": "<sprite index=0>Cântărește ",
     "purchase": "Cumpără",
     "trade": "Dăi comerciantului",
-    "reputation": "<sprite index=18>Reputație: ",
     "reputationtip": "Reputație",
     "reputationtipdsc": "Afectează prețurile articolelor și comportamentul supraviețuitorului față de tine. Este influențat de starea ta generală și de interacțiunile cu supraviețuitorul.",
     "valuegiventip": "Valoare dată",
     "valuegiventipdsc": "Cât îți datorează supraviețuitorul. Aceasta este valuta ta atunci când faci schimb de obiecte.",
     "traderpurchase": "Cumpără articol",
     "tradingblocked": "Cumpărat prea recent",
-    "valuegiven": "<sprite index=9>Valoare dată: ",
     "theirinventory": "Inventarul lor",
     "yourinventory": "Inventarul tău",
     "haggle": "Negociere",
@@ -1722,8 +1763,6 @@
         "ALO!? E CINEVA ACOLO!?",
         "E plăcut să nu mai vezi gresie albă peste tot, măcar o dată...",
         "Măcar sunt în viață...",
-        "Fără provizii...",
-        "Nu trebuia să primesc provizii...?",
         "Călătoria mea s-a terminat.",
         "..Mm. Ce peisaj ciudat...",
         "Să sperăm că îmi amintesc antrenamentul...",
@@ -3824,7 +3863,7 @@
         "Item3": "milky"
       },
       {
-        "Item1": "Capătorii vor primi ceea ce merită.",
+        "Item1": "Răpitorii vor primi ceea ce merită.",
         "Item2": "",
         "Item3": "milky"
       },
@@ -3869,7 +3908,7 @@
         "Item3": "milky"
       },
       {
-        "Item1": "i found a weapon. a firearm. gosh... im not used to operating this thing... i shouldve been more careful during the training sessions... i have zero idea of how ive even been sent here, being this unprepared, instead of getting culled. i almost shot someone by accident. i shouldve turned on the gun safety... who am i to know. the others tend to really panic when they see you holding a weapon in hand. so maybe it would be best to put it inside of something, so that they dont see it. they think youd shoot them, they dont know your intentions. well, id think the same if someone were to point a gun at me.",
+        "Item1": "am gasit o arma de foc. doamne... nu sunt obisnuit cu operarea acestei chestii... trebuia sa fiu mai atent in timpul sesiunilor de antrenament... nu am nicio idee cum am fost trimis aici, fiind atat de nepregatit, in loc sa fiu sacrificat. era sa impusc pe cineva din greseala. ar fi trebuit sa activez siguranta armei... de unde era sa stiu asta. ceilalti tind sa se panicheze cand te vad cu o arma in mana. deci poate ar fi mai bine sa fie pusa inauntrul unei chestii, ca ei sa no vada. ei cred ca ii vei impusca, ei nu stiu intentiile tale. ei bine, as crede la fel daca cineva ar tinti o arma catre mine.",
         "Item2": "",
         "Item3": "experiment"
       },
@@ -3879,12 +3918,62 @@
         "Item3": "experiment"
       },
       {
+        "Item1": "nu te increde intotdeauna in butoaiele cu lichide care se afla imprejur. am pus mainile pe un minibutoi mare care mi se parea plin de limonada, dar o singura inghititura amara a fost destula ca sami dau seama ca nu e asa. am incercat sa-mi clatesc gura cu un alt butoi de apa, dar apa ma facut sa racesc si parul a inceput sami cada",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "azi am gasit niste conserve stranii de metal care aveau eticheta rupta. nu puteam sami dau seama ce era si lichidul era prea vascos ca sal vars afara, dar era surprinzator de satios, ma simt de parca numai ce am mancat o friptura buna... ma simt atat de somnoros. o sa beau urmatoarea conserve in curand, imi plac conservele astea!\n(Partea de jos a hârtiei arată de parcă ceva cu bucăți negre înăuntru a fost aruncată cu forța pe ea.)",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "poate e o chestie stranie de zis dar mam impacat cu situatia asta. am incercat sa am grija de mine cat de mult am putut si am incercat sa consolez pe toti ceilalti pe care iam intalnit aici jos. ma face sa ma simt... multumit? desi mam ranit destul de des am reusit sa trec peste asta fara sa ma simt deprimat.\no sa incerc sa ajung cat mai departe posibil, si chiar si daca cel mai probabil nu voi surpavietui, stiu ca am facut tot ce e posibil si am ajutat pe cati mai multi am putut. asta e tot ce putem face.\ndaca citesti asta, nu te da batut, ok?",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "am inceput sa vad recent din ce in ce mai multe capsule stricate, similare cu cele cu care neau trimis pe noi aici jos, cu exceptia ca toate astea au explodat cumva <>\ninauntrul epavelor de obicei gasesc un anumit tip de munitie pentru arme impreuna cu o bila gretoasa facuta dintrun fel de carne? \n<>\narata oribil dar poate e comestibila???\nacea persoana dune pe care am intalnito recent mia zis ca e buna de mancat\nas putea sa gust din ea\n<>\n\nam mancato si miam vomitat matele incontinuu pentru douazeci de minute, cea mai mare greseala din viata mea <>\npentru numele lui dumnezeu, nu manca ceo fi chestia aia",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "am acelasi vis recurent. am aripi uriase si pot sa continui sa zbor mai sus si mai sus si mai sus. nimic nu ma poate opri. izbucnesc prin tavanele acestor caverne si ies in lumea de dincolo. e frumos afara dar continui sa zbor. las totul in urma pana cand nu mai ramane nimic in afara de un vid imens. atunci imi dau seama in sfarsit. sunt in siguranta. sunt liber.\n\nde fiecare data cand ma trezesc, nu ma pot opri din plans. as vrea sa pot sa visez pentru totdeauna.\n\n(Vezi un desen pătat cu lacrimi cu niște aripi foarte imprecise pe el.)",
+        "Item2": "Sprites/noteDrawings/wings",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "chiar pot cercetatorii sa ma vada aici? ei tot timpul au vrut sami expun gandurile cu voce tare, dar aici, doar vorbesc cu mine insumi. presupun ca sunt liber sa ma opresc, dar... e terapeutic. daca nu voi surpavietui, poate macar aceste notite vor ramane.",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "nu miam dat seama cat de rau a devenit pana cand nu am incercat sa sap din nou si ghearele mele pur si simplu... zgaraiau. nu mai aveau niciun efect. sapam constant prin roca fara sa ma fi gandit la asta. ma simteam gol. aparent carnea nu este menita sa inlocuiasca uneltele.\n<>\nam tot presupus ca am nevoie de un tarnacop pentru orice. dar miam dat seama ca maceta mea e suficienta pentru lucrurile mai usoare. pamant, plante, nisip, ea taie fix prin ele. imi scuteste mainile de multa durere.\n<>\nam gasit o sticla etichetata amplificator de keratina. aparent au stiut ca piesele noastre se vor deteriora. am luat un gat. dupa o perioada straturile vechi au inceput sa se exfolieze de parca erau blana. dedesubt, pareau mai ascutite. mai puternice. era satisfacator intr-un mod ciudat sa vad partile tocite decojinduse. imi place cum ghearele imi permit sa ma prind de pereti mai bine\n<>\nimi amintesc oamenii aia. ei aveau unghii pe fiecare deget. pe toate degetele. niciun fel de gheare. aratau atat de gresit de la apropiere. moi. boante. ciudat cum reuseau sa faca ceva cu mainile alea.\n<>\nobisnuiam sa cred ca asta ii facea slabi.\n<>\nacum ma gandesc daca asta era scopul.",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
         "Item1": "Este plin de tot felul de creaturi care se plimbă constant peste tot. Sunt un pic pacifist, așa că încerc să fug de ele, în loc să mă lupt cu ele, pentru că nu știu cine va ucide pe cine primul... La urma urmei, rănile pe care mi le provoacă sunt extrem de dureroase... Nu mai știu... Oare captorii noștri știu măcar prin ce trecem noi aici jos?",
         "Item2": "",
         "Item3": "milky"
       },
       {
+        "Item1": "Am căzut rău. FOARTE rău. Fix într-o groapă și nu am putut să mă cațăr sau să sap în afară cu rănile mele. Dar am reușit să ies folosind bucățile astea de fier vechi, și vreau ca restul să știe și ei despre asta. \n\nPereții cavernei! Nimic din ce am găsit- nici dinamita -nu pare să poată penetra limitele exterioare ale cavernei. Dar ei sunt neregulați, și dacă stivuiești destule bucăți de fier vechi una peste alta, le poți băga în acele goluri mici și poți crea un întreg punct de sprijin din moloz. În timp ce sângeram în acea gaură întunecată, am folosit molozul adunat ca să creez un fel de scară ca să scap și să găsesc provizii de urgență.\n\nTotuși, sper că nu vei ajunge vreodată într-o astfel de situație. Poate ai putea folosi trucul ăsta pentru a preveni astfel de răni? Cine știe ce alte lucruri urâte sunt în preajma noastră. \n\nPoate mă vei ajunge din urmă și vom putea împărtăși strategii. \nSper că voi fi acolo să te întâlnesc.",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
         "Item1": "Mă simt singur... așa că am decis să mă distrag:\nAm găsit un fel de fax în miniatură pe care am reușit să-l deschid și am scos foile de hârtie din el. Apoi am luat un băț și am stors unul dintre fructele strălucitoare pe el. A ieșit ca o pensulă și o pânză de desen! Dacă ai ști... Am început să desenez realități alternative în care suntem liberi și trăim împreună în pace, fără acei oameni de știință nemernici... M-am simțit atât de fericit, încât am plâns puțin.\nDar acum trebuie să plec: mi-e foame! Poate că, dacă ne vom întâlni, te voi desena și pe tine... Am devenit foarte bun în folosirea \"pensulei\". Voi încerca să-i învăț și pe ceilalți să deseneze...",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "Nu sunt foarte puternic, așa că speram să fac echipă cu ceilalți. Am avea șanse de surpaviețuire cu mult mai mari, dar nimeni nu pare să fie interesat. Toată lumea e speriată și unii dintre noi sunt periculoși. Sunt așa de multe capcane că e imposibil de călătorit în grupuri mari. Știu că voi mori dintr-un motiv complet tâmpit...\n\nOamenii sunt atât de cruzi. Nu pot să o înțeleg.",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "(Hârtia este boțită și zdrobită, ca și cum ar fi fost menită să fie aruncată.)\n<>\nprietenul meu el... cred ca el sa sinucis. dupa o alta cazatura urata am incercat sa le vindec picioarele dar tot imi spuneau sa ma duc dracului. ma tot alungau ca pe o musca, spunandumi sai las in pace. nu intelegeam. am plecat sa iau niste plante din locul asta ca sa incerc sa ii bandajez dar... cand m-am intors el avea inca o rana. una pe brat. inca imi amintesc cum arata, era rea, practic era sfasiata. am incercat sa folosesc plantele gasite pentru a le vindeca rana noua dar el tot ma indeparta. ochii lui erau... aratau... goi. iam zis sa se opreasca la naiba si sa ma lase sal ajut dar el nu a raspuns. am incercat sal mai ajut de cateva ori si el ma tot impingea pana ce sa... oprit. tin minte cum corpul lui se relaxa, cred ca atunci au incetat sa mai respire. nu pot sami scot imaginea aia din cap...\n<>\nam... am facut ceva gresit? jur ca nu am... ce am facut gresit? de ce a facut el asta? eu... eu nu am facut nimic. nu inteleg, nu vreau sa mor... eu nu... eu...\n<>\n...\n<>\nhaha...\n<>\ne asa de singuratic aici.\n<>\n(Observi picături vagi, uscate de lacrimi și sânge uscat ciuruit în jurul biletului mototolit.)",
         "Item2": "",
         "Item3": "milky"
       },
@@ -3897,89 +3986,262 @@
     [
       {
         "Item1": "ugh, Locul ăsta e nașpa. Mă mușcă tot timpul păianjeni pe care nu-i văd la timp. Cred că sunt veninoși, pentru că îmi lasă răni urâte și infectate... Fructul luminoplantei mă ajută însă cu asta.",
-        "Item2": "Sprites/noteDrawings/spider"
+        "Item2": "Sprites/noteDrawings/spider",
+        "Item3": "experiment"
       },
       {
-        "Item1": "Luminile roșii clipitoare în întuneric sunt capcane cu țepi. Aveți grijă la ele. Vă rog. Vă rog. Cineva tocmai a călcat într-una în depărtare, am auzit un țipăt și apoi liniște. Aveți grijă.",
-        "Item2": ""
+        "Item1": "lucrurile merg bine pentru mine. mancare gustoasa in burta mea si poate o tercicoada sau doua ma fac fericit. si vanzatorii zambesc la mine! doar urasc sa vad cum sangerez, ma inspaimanta",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "numi place sa nu stiu ce sa fac. acasa tot timpul imi dadeau directii. joaca jocul asta, taci cand un om vorbeste, stai sa te impungem cu niste chestii ascutite.\nacum trebuie sa termin misiunea asta dar nu stiu cum sa o fac. imi e sete si miam lovit piciorul dar sunt si murdar si mii rece si nu am idee unde sa ma duc in afara sa cobor.\ncred ca o sa incerc sa opresc ceea ce ma ucide cel mai repede. sper ca va functiona.",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "luminile rosii intermitente din intuneric sunt capcane cu tepi. fii atenti la ele. va rog. va rog. cineva numai ce a dat peste una in distanta, am auzit doar un scheunat si liniste dupa. pastrativa in siguranta",
+        "Item2": "",
+        "Item3": "experiment"
       },
       {
         "Item1": "E frig aici. Foarte frig. Mult mai frig decât în casa noastră anterioară. Sincer, îmi place. E plăcut să faci baie în piscine, e revigorant. Îmi place vacanța asta.",
-        "Item2": "Sprites/noteDrawings/pool"
+        "Item2": "Sprites/noteDrawings/pool",
+        "Item3": "experiment"
       },
       {
         "Item1": "M-am întâlnit cu cineva și am hotărât să încercăm să ieșim la suprafață printr-una dintre găurile care duc afară. Prietenul meu a ieșit primul și imediat a început să se împiedice, șocat. Părea să sufere foarte mult. A vomitat de mai multe ori, apoi s-a prăbușit și a încetat să mai respire la scurt timp după aceea. Pielea i s-a umplut de bășici, mai ales în zona capului și a gâtului. Ceva ne împiedică să plecăm. Mi-e frică.",
-        "Item2": "Sprites/noteDrawings/radiation"
+        "Item2": "Sprites/noteDrawings/radiation",
+        "Item3": "experiment"
       },
       {
         "Item1": "A te uda pare a fi destul de periculos dacă nu ești atent. Temperatura aici este mult mai scăzută decât acasă, și se pare că dacă stai ud prea mult timp poți ajunge în stare de hipotermie. Încearcă să faci niște exerciții fizice dacă ai nevoie să te încălzești repede, am descoperit că asta ajută.",
-        "Item2": ""
+        "Item2": "",
+        "Item3": "milky"
       },
       {
         "Item1": "Chiar trebuie să încetez să mai pierd luminile. Orice merge, chiar și chestiile alea ciudate care strălucesc ca plantele. Tot timpul le las și uit de ele, apoi mă împiedic și mă rănesc din greșeală. Nu e bine.",
-        "Item2": "Sprites/noteDrawings/glowplant"
+        "Item2": "Sprites/noteDrawings/glowplant",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "lumina este o resursa valoroasa aici, mai ales ca devine mai intuneric cu cat coboram mai mult. nas vrea sa ajung din greseala intro capcana. folosind carapacea unui paianjen si bucati din fructe de luminoplanta, pot sami creez o lampa frontala ca sami eliberez mainile. la nevoie becurile din capsule par sa functioneze in baza unei baterii descarcate, si pot fi rupte cu o usurinta relative, spre nemultumirea proprietarului capsulei",
+        "Item2": "Sprites/noteDrawings/lightbulb",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "sunt multe capsule aici similare cu cea in care mam trezit. an intrat in una din ele prin fereastra ei dar am pasit peste sticla sparta. a trebuit sa fiu foarte atent, dar am smulso din laba mea. trebuie sa ma asigur ca voi curata cioburile data viitoare.",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "Oamenii fac chestii ciudate. Nu ar trebui să ai niciodata încredere că ei vor face chestii plăcute.\nDar poți să ai încredere că te vor menține în viață.<>\nMi-am rupt brațul la un moment dat, și ei l-au pus în “ghips.” Mie nu mi-a plăcut asta. Era greu și nu-mi permitea să-mi mișc brațul deloc. Părea de parcă au înrăutățit chestiile intenționat, și m-au forțat să îl port un timp îndelungat.<>\nÎntr-o zi l-au scos, și mâna mea era vindecată.<>\nOamenii au făcut-o mai rea, ca să poată deveni mai bună.<>\n\nCred că au făcut ceva similar cu capul Săritorului.\nSăritorul obișnuia să țipe și să plângă mult. Într-o zi s-a rănit, iar oamenii l-au luat de aici.<>\nSăritorul a revenit. El nu mai plânge acum. El nu vorbește. Par să fie adormit tot timpul. Capul lui e la fel cum era și brațul meu. Nu pot să văd un ”ghips” în jurul lui, și comportamentul lor mă îngrijorează un pic, dar măcar el nu își mai provoacă răni. Sper că oamenii vor anula ceea ce au făcut când capul Săritorului va fi vindecat.<>\n\nÎmi este dor de el.",
+        "Item2": "",
+        "Item3": "milky"
       }
     ],
     [
       {
         "Item1": "Se pare că acele cutii cu computerele ciudate de lângă ele pot fi deschise dacă verși niște sânge roșu pe ele. Trebuie să fie neapărat sânge roșu, altfel nu va funcționa. Are niște lăzi înăuntru, le poți deschide și lua lucruri cu tine. Utile.",
-        "Item2": "Sprites/noteDrawings/bloodbag"
+        "Item2": "Sprites/noteDrawings/bloodbag",
+        "Item3": "experiment"
       },
       {
         "Item1": "Analizând compoziția chimică a pungilor de sânge de diferite culori pe care le-am găsit aici, se pare că acestea diferă considerabil între ele. Sângele roșu este complet diferit de al nostru și de sângele creaturilor de aici. Din nu știu ce motiv, pare să aibă o compoziție oarecum metalică, ce ciudat. Mai bine nu-l folosim pe noi înșine.",
-        "Item2": ""
+        "Item2": "",
+        "Item3": "milky"
       },
       {
         "Item1": "(Există un desen prost realizat care pare să reprezinte unul dintre răpitorii tăi. Acesta ține în mână ceea ce ar putea fi un pistol cu electroșocuri. Fața lui este zgâriată cu un X mare. Arma îți trezește amintiri oribile..)",
-        "Item2": "Sprites/noteDrawings/scientist"
+        "Item2": "Sprites/noteDrawings/scientist",
+        "Item3": ""
       },
       {
         "Item1": "Acum câteva clipe era să mă înec. Nu am mai înotat niciodată și este foarte obositor. Mi-e greu să mă mențin la suprafață când sunt obosit. Îmi imaginez că ar fi foarte dureros să te scufunzi pentru totdeauna... Ai grijă.",
-        "Item2": "Sprites/noteDrawings/drown"
+        "Item2": "Sprites/noteDrawings/drown",
+        "Item3": "experiment"
       },
       {
-        "Item1": "Auziți întâmplător o parte din conversația răpitorilor noștri, se pare că încărcătura pe care trebuie să o luăm este un fel de \"sursă avansată de energie\". ceva despre stocarea unei cantități mari de energie și distribuirea acesteia \"fără fir\". Nu știu ce înseamnă majoritatea acestor lucruri, dar poate va fi util să le știu. Ai grijă de tine!",
-        "Item2": ""
+        "Item1": "Auzind întâmplător o parte din conversația răpitorilor noștri, se pare că încărcătura pe care trebuie să o luăm este un fel de \"sursă avansată de energie\". ceva despre stocarea unei cantități mari de energie și distribuirea acesteia \"fără fir\". Nu știu ce înseamnă majoritatea acestor lucruri, dar poate va fi util să le știu. Ai grijă de tine!",
+        "Item2": "",
+        "Item3": "experiment"
       },
       {
         "Item1": "Recent am găsit un fel de burghiu, dar îi lipsesc câteva piese. Nu reușesc să-mi dau seama ce îi lipsește, în afară de panoul de acoperire pentru toate mecanismele... Ar putea fi util dacă aș reuși să-l pun în stare de funcționare.",
-        "Item2": ""
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "E curios, am încercat să mă deplasez în poziție culcată.\n<>\nUtilitatea a fost neașteptată. Pe lângă faptul că permite clătirea contaminanților în bălți și strecurarea prin spații strâmte, în mod remarcabil, chiar și târâitul peste cioburi de sticlă nu a cauzat traume.\n<>\nTotuși, neatenția e periculoasă. Am estimat greșit o mică cădere și m-am rănit. \n<>\nStrecurându-mă astfel... Trebuia să fi arătat la fel ca unul dintre acei \"viermi\" de care am auzit.",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "apa luminos gust grau",
+        "Item2": "",
+        "Item3": "dune"
+      },
+      {
+        "Item1": "Nu îmi place să admit asta, dar fragilitatea speciei mele nu poate fi negată. În mod norocos, am găsit un recipient minunat care anulează complet greutatea majorității lucrurilor, permițându-mi să car mai multe resurse decât aș fi capabil în mod normal.\nFuncționează pe bază de baterii, și asta mă îngrijorează. Nu știu ce se va întâmpla când bateria se va descărca complet, așa că o să verific asta acum, ca să fiu sigur.<>\nNu aș vrea să devină greu în mijlocul unui salt. Am cu mine o baterie aproape moartă.\nE timpul să văd cum se comportă sacul când se descarcă complet.\n\n(Restul hârtiei este ilizibilă; orice text era scris dedesubt este acoperit de cantități abundente de sânge uscat.)",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "Nici măcar nu am ieșit din acest infern stâncos, și deja simt că moartea mea se apropie,\nTot ce mi-au dat este o lanternă de rahat care n-a ținut nici măcar o oră; nici măcar un singur echipament de siguranță care să mă ajute cu aceste căzături pe care le-am suferit.\n\nFUTE-M-AȘ, mă simt ca o minge din aparatele alea de jocuri de noroc pe le-am văzut fiind folosite de către oameni!\n\nCred că mor încetul cu încetul, de la ultima mea cădere capul a început să-mi fie greu, mă simt obosit; dar simt că dacă dorm, voi muri.\n\nDoamne salvează-mă.\nLA DRACU, omule.\nChiar nu vreau să mor, nu în așa mod..\nDeși care e, de fapt, scopul la toată asta?\nNici măcar nu am un nume, doar o etichetă..\nDrace...",
+        "Item2": "",
+        "Item3": "milky"
       }
     ],
     [
       {
         "Item1": "Ugh. E atât de cald aici. Trebuie să-mi espațiez mișcările și să fiu atent să nu leșin din cauza căldurii. Am descoperit că scufundările în bazinele de apă de aici ajută... poate chiar și în cele maro, dacă sunt disperat.",
-        "Item2": ""
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "nu mai pot. de ce.\ntoti sunt morti\nnu pot.\nvreau ca asta sa se termine\nnu pot\nvreau libertate\nde ce\nnu pot. nu mai vreau sa vad chestiile astea. am vazut prea multe lucruri rele. sunt asa de bolnav.\npiciorul imi este futut. aruncat in aer de o mina\nmana mea, cea dreapta, ma ucide si ea destul de puternic\nvreau sa pun capat la toate\ntotul e mizerie\nnu mai pot\nintrun moment o sami tai artera cu ghearele si o sa devin un alt cadavru la care sa aruncati o privire - atat timp cat ei nu mau mancat pana ajungeti aici.\n\nmersi pentru tot. la revedere",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "Vița de vie răspândită în zona asta e surprinzător de ușoară de urcat. Aia mai subțire nu chiar, dar poți folosi pe aia mai mare ca pe o scară naturală. Cu siguranță m-a salvat de la niște fracturi de picioare.",
+        "Item2": "Sprites/noteDrawings/sandvine",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "Astăzi am dat de o ușă a cărei descuiere era condiționată de introducerea de moloz. Nu aveam așa ceva în posesia mea; însă, în mod norocos am fost echipat cu un burghiu pe bază de laser, care a distrus rapid zidurile din jur. Înăuntru, am obținut un dispozitiv electronic pe care erau stocate niște melodii rafinate. Îl ascult din când în când.",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "Rezervoarele de petrol de pe planeta asta sunt cu siguranță nenaturale. Încercând să înțeleg originea lor, m-am târât prin una din țevile goale doar ca să găsesc o plasă metalică rezistentă care m-a împiedicat să progresez.\nEra un semn în spatele lui pe care scria \"Sursă de Eliminare a Deșeurilor\". Am perforat prin țeavă pentru a ocoli plasa, dar țeava s-a oprit abrupt. Trebuie să fie conectată la ceva de la casa noastră veche, dar nu înțeleg cum.\n\nSemnul ăla mă îngrijorează încontinuu. Au vrut oamenii să scape și de noi?",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "vede creatura rau... creatura rau oranj... creatura vrea mancat dune!   dar dune lovit inapoi.   dune ucide si mananca creatura rau!   creatura foarte gustos!",
+        "Item2": "Sprites/noteDrawings/wallbiter",
+        "Item3": "dune"
+      },
+      {
+        "Item1": "foarte multe tufisuri in locul asta, desi nu pot sa zic ca am vazut ca unele sa fie in viata. cred ca sunt destul de utile pentru a crea franghii si a amortiza caderi, dar in acelasi timp ele tind sa ascunda capcane...",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "e asa de cald aici jos. simt de parca doar fug de la o capsula de salvare la alta. nici vreau sa deschid capsulele alea, si ele ma incalzesc. si totusi prietenul meu stimpy pare sa nui pese prea mult. pur si simplu nu se plange, sau toata pielea aia il racoreste?",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "ajutatima    pasit pe   placa exploziva   eu sunt  in asa multa   durere  ajutor    ajutatima  va rog   eu le s    i",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "imi tiuie urechile.. capul ma doare asa, asa de mult, am auzit bipuri pe masura ce am coborat putin si apoi sa auzit acea bubuitura puternica     nu stiu de unde a venit . nu pot sa vad atat de departe dar exista ceva foarte periculos in pesterile astea, fiti atenti cu spatii mari si deschise",
+        "Item2": "",
+        "Item3": "experiment"
       }
     ],
     [
       {
-        "Item1": "Se pare că în această zonă există o cantitate mare de deșeuri radioactive. Deși acest lucru îngreunează deplasarea, trebuie să ținem cont de faptul că putem suporta doze scurte de radiații ionizante fără prea multe probleme, atâta timp cât expunerea nu durează prea mult. Deja suntem afectați de cancer, probabil din cauza faptului că suntem nenaturali, astfel încât efectul asupra întregii noastre durate de viață este neglijabil.",
-        "Item2": ""
+        "Item1": "Se pare că în această zonă există o cantitate mare de deșeuri radioactive. Deși acest lucru îngreunează deplasarea, trebuie să ținem cont de faptul că putem suporta doze scurte de radiații ionizante fără prea multe probleme, atâta timp cât expunerea nu durează prea mult. Am auzit că suntem deja plini de cancer.",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "Ceva este în neregulă cu mediul de aici. Pot să o simt în aer- celulele alea de combustie deteriorate îmi fac blana să se zbârlească. Mi se exfoliază pielea când trec pe lângă ele, și corpul meu arde. Chiar și când nu le văd, Pot să simt acea senzație alarmantă acumulându-se în aerul din jurul lor. Trebuia să folosesc bobina mea de frânghie și chiar să zgârii prin rocă ca să găsesc rute în jurul lor, dar chiar și așa, sunt pietre violete care par să aibă același efect, doar în doze diferite.",
+        "Item2": "Sprites/noteDrawings/wasteland",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "unul din ceilalti pe care iam gasit a cazut pe o multime din pietre de alea violete. am reusit sal scot de acolo dar blanile noastre au inceput sa naparleasca. nu stiu ce se intampla.<>\n\n\n\n\nam mancat una din fructele alea care pocnesc de langa o capsula… durerea a trecut. dar cand el a muscat din una el a inceput sa vomite sange dupa doar cateva minute. el nu respira. ce a fost diferit? fructele aratau la fel. sunt doar norocos ca sunt in viata? de ce nu sa insanatosit.",
+        "Item2": "Sprites/noteDrawings/wasteland",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "Butonul de lângă trăgaciul unui pistol este cel de eliberare a încărcătorului, în timp ce pe o pușcă de vânătoare, e de obicei siguranța. În plus, oricând acționezi arma (precum tragerea zăvorului), ea ejectează cartușul din chiulasă. Ultima dată când am făcut asta, am pierdut un cartuș - ghinion.",
+        "Item2": "Sprites/noteDrawings/pistol",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "apa potabila aici este foarte rara si nu cred ca grudronul ala e sigur. o parte din vegetatia de aici contine destula apa ca sa fie zdrobita intrun suc, desi gustul nu este prea placut. totusi e mai bine decat sati fie sete",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "azi am calcat intr-o alta bobina blestemata, era ascunsa intrun tufis, am observato prea tarziu ca sa ma indepartez.\n<>\na fost oribil, de parca eram prajit pe dinauntru, chiar si dupa socul initial. pare ca bauturile racoritoare ajuta, a trebuit sa beau majoritatea ratiilor mele de lapte, si niste suc de mere, nu stiu daca creierul meu era sa supravietuiasca fara asta. inca se invart chestiile, abia daca am putut sa ajung inapoi la capsula mea.",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "Nu mi-a mai rămas apă deloc în sticlă în deșertul ăsta. Am fost foarte însetat și murdar. Am pășit într-o baltă pe care am găsit-o ca să beau și să mă spăl, și tot noroiul a făcut-o murdară. Nu am mai putut să beau din ea. Trebuia să fi aruncat sticla în baltă. Am nevoie de apă...",
+        "Item2": "Sprites/noteDrawings/waterbottle",
+        "Item3": "experiment"
       }
     ],
     [
       {
         "Item1": "dune vede monstru mare. motivat să ucidă      dune urmărește monstrul, îl ucide și îl mănâncă. mâncare excelentă. vânător de fiare excelent!",
-        "Item2": ""
+        "Item2": "",
+        "Item3": "dune"
+      },
+      {
+        "Item1": "DUNE GASIT NOU PRIETEN<>\nDUNE EXCITAT CAND PRIETEN APROAPE<>\nPRIETEN E CA DUNE.<>\nPRIETEN MARE SI PUTERNIC.<>\nDUNE MARE SI PUTERNIC<>\nPRIETEN POATE SAPA REPEDE.<>\nDUNE POATE SAPA REPEDE<>\nPRIETEN MUSCA DUNE MANA.<>\nDUNE MUSCA PRIETEN MANA<>\nPRIETEN PLEACA.<>\nDUNE CAUTAND<>\nVA GASI IAR",
+        "Item2": "",
+        "Item3": "dune"
+      },
+      {
+        "Item1": "am... am simtit cum mor. totul sa intamplat din senin, era sange peste tot si nu puteam sami tin ochii deschisi. eram speriat... dar nu vroiam sa ma dau batut. am gasit asa de multe lucruri interesante aici si simt ca am facut asa de mult progres in misiunea asta. nu o sa ma opresc aici. o sa trec prin tot rahatul asta. o sami vad prietenii iarasi.",
+        "Item2": "Sprites/noteDrawings/laststand",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "nu credeam ca monstrul ala ma va gasi din nou, dar a reusit. stia fata mea, greselile mele... dar nu si pusca mea. cand in sfarsit a crapat, am vazut tarnacopul ala. am vazut gravarea pe care am zgariato pe el, la fel ca si gravarea pe care el a zgariato in tarnacopul meu. am vazut aschia de atunci cand a incercat sa sape niste titaniu sami dea cadou. si apoi, brusc, am vazuto intamplanduse din nou. mirosul otelului scrasnind. trepidatiile pamantului. sunetul carnii dezmembrate. gustul transpiratiei si a sangelui, in timp ce incercam sa fug, aruncand mancarea pe care o aduceam inapoi la capsula-\n<>\nar trebui oare sa ma simt mai linistit acum? sau doar ma rog pentru pace, ca sa fiu frant cand altul ma va gasi?",
+        "Item2": "Sprites/noteDrawings/thornback",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "Vreau să plec din locul ăsta, sunt șocat, nu am cuvinte ca să descriu prin ce am trecut, era o creatură mare, oribilă, cu sute de dinți, gata să mă devoreze, simt că m-a urmărit timp de ore întregi, distruge tot ce e în calea sa. S-a oprit numai după ce am mers așa de departe că m-am pierdut complet, mi-a epuizat mâncarea, apa, ustensilele, chiar și sănătatea mea mintală, vreau doar ca asta să se termine.",
+        "Item2": "Sprites/noteDrawings/thornback",
+        "Item3": "milky"
       }
     ],
     [
       {
         "Item1": "E prea frig aici. Trebuie să fac tot posibilul să nu mă ud deloc, altfel o să am mari probleme. Din fericire, sunt multe plante ciudate care emană căldură, alături de mașinăriile alea ciudate. O să alerg între ele când o să pot, cred. Mai bine să nu rămân blocat în frigul ăsta îngrozitor.",
-        "Item2": "Sprites/noteDrawings/xaloris"
+        "Item2": "Sprites/noteDrawings/xaloris",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "dune frig. sapa cald nu cald destul. dune mananca prieten blana. mananca crud! dune are blana. blana cald pentru dune. dune plin si cald. dune fericit nu rece.",
+        "Item2": "",
+        "Item3": "dune"
+      },
+      {
+        "Item1": "e asa de frig aici, tot am nevoie sa ma feresc in capsule ca sa ma incalzesc… desi din cand in cand apar sobele astea zumzaitoare la care pot sa ma opresc si sa ma incalzesc, doar trebuie sa fiu atent sa nu le ating pentru prea mult timp, ele ma fac sa ma simt rau. atat cat sa ma incalzesc si sa continui sa merg. daca as fi in locul tau as fi atent daca sapa ceva in directia mea cand ma odihnesc. aud lucruri care sapa tuneluri in jurul meu.",
+        "Item2": "",
+        "Item3": "experiment"
       }
     ],
     [
       {
         "Item1": "E ciudat cum plouă aici. Nu am mai văzut niciodată ploaie adevărată... E destul de frumos, chiar dacă nu e igienic. Încă mă întreb cum e posibil să existe o concentrație atât de mare de apă aici jos. Poate că apa din calota glaciară de deasupra se scurge până aici?",
-        "Item2": ""
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "Nu știu ce m-a lovit dar nu-mi mai pot simți piciorul, tot ce pot să văd este un haos de mușchi, os și sânge\ncorpul meu țipă ca să se termine agonia \nsingurul lucru pe care îl am este dispozitivul ăsta albastru de pe piept. Vânzătorul de la care l-am cumpărat mi-a spus că trebuie folosit doar în caz de urgență.\nDurerea nu mai este insuportabilă, dar lumina a început să clipească. Nu știu cât timp mi-a mai rămas. Va reveni întunericul când chestia asta se va epuiza? Nu vreau să dispar...",
+        "Item2": "",
+        "Item3": "milky"
       }
     ],
     [
       {
         "Item1": "",
-        "Item2": ""
+        "Item2": "",
+        "Item3": ""
       }
     ]
   ],
