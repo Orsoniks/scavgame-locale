@@ -2,7 +2,7 @@
     "name": "Magyar",
     "description": "The official developer-created english locale of the game. You can find community translations in the locale repository (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), though those translations are not quality-checked and might be innacurate or out of date.",
     "main": {
-        "bandage": "Dressing",
+        "bandage": "Kötszer",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
         "rippeddressing": "Ripped dressing",
         "rippeddressingdsc": "A small pile of ripped clothing. Can be used as a makeshift bandage for bleeding wounds.",
