@@ -20,6 +20,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [Italiano (IT)](/IT.json)   | [LorgamerPizza](https://github.com/lorgamerpizza-code),chaosussy        |
 | [Ukrainian (UA)](/UA.json)   | [Vladorion737](https://github.com/vladorion737)        |
 | [日本語 (JP)](/ja-JP.json)   | [marui-neko](https://github.com/marui-neko)        |
+| [Bahasa Indonesia (ID)](/ID.json)   | [Yunashā](https://github.com/Yunasha)        |
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera)
