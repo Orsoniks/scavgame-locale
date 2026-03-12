@@ -1,0 +1,55 @@
+name: Translation CI & Progress Badges
+
+# This workflow automates the boring stuff that were previously stated in the CONTRIBUTING.md:
+# 1. It keeps all JSON files synced with the English reference.
+# 2. It calculates translation percentages for the README badges.
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'translations/**' # Only triggers when translation files are modified
+
+jobs:
+  process-translations:
+    runs-on: ubuntu-latest # We just need a simple Linux environment to run Python scripts, github actions provide that out of the box.
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          # We need full history to allow the bot to commit changes back
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # STEP 1: Sync and Sort
+      # This ensures every language file has the same keys as EN.json in the same order.
+      - name: Sync and Sort JSON
+        run: python sync_locales.py
+
+      # STEP 2: Compute Statistics
+      # Generates the translation-stats.json file based on EN.json vs Others.
+      - name: Run stats script
+        run: python compute_stats.py
+
+      # STEP 3: Commit formatting changes
+      # If the sync script fixed the order or added missing keys, this saves it to 'main'.
+      # No more manual sorting or fixing missing commas!
+      - name: Commit Sync Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-sync translation files [skip ci]"
+          file_pattern: 'translations/*.json'
+
+      # STEP 4: Deploy Stats to Badges Branch
+      # This pushes the stats JSON to a separate 'badges' branch.
+      # Shields.io reads from there to update the badges in the README.
+      - name: Deploy Stats to Badges Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # This token is automatically provided by GitHub Actions, no need to create a personal one, dw.
+          publish_dir: ./
+          publish_branch: badges
+          publish_assets: true
