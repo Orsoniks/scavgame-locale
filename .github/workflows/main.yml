@@ -1,0 +1,53 @@
+name: Translation Stats
+
+on:
+  push:
+    paths:
+      - 'translations/**.json'
+    branches:
+      - main
+  pull_request:
+    paths:
+      - 'translations/**.json'
+
+permissions:
+  contents: write
+
+jobs:
+  validate_and_stats:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install json5
+
+      - name: Run Diagnostics
+        run: python .github/scripts/compute_stats.py
+
+      # Upload the detailed report as an artifact for later reference, tested.
+      - name: Upload Detailed Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: detailed-translation-report
+          path: .github/reports/translation_report.json
+          retention-days: 90
+
+      # Commit only the tiny summary to keep the repo clean
+      - name: Commit Summary
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .github/reports/summary.json
+          git commit -m "docs: update translation summary [skip ci] (Github Actions)" || exit 0
+          git push

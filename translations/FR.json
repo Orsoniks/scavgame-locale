@@ -2169,7 +2169,7 @@
                 "Mon <limb> est endommagé.",
                 "Mon <limb> est dans un sale état...",
                 "Y a du sang partout sur mon <limb>...",
-                "Bonté divine ! Il semblerait que mes calculs soient erronés et maintenant mon <limb> est tout jaune ! Oh mon dieu ! Je fais quoi là ?"
+                "Bonté divine ! Il semblerait que mes calculs soient erronés et maintenant mon <limb> est tout jaune ! Oh mon dieu ! Que puis-je faire ?"
             ],
             "sepsis": [
                 "Bon sang... Je me sens vraiment mal...",
@@ -3433,7 +3433,7 @@
             ],
             "tradergiveitemrefuse": [
                 "Il suffit. Je n’ai plus de place pour ranger tes babioles.",
-                "Tu peux arrêter de m’offrir tes machins, il faut que je grade des trucs pour moi aussi."
+                "Tu peux arrêter de m’offrir tes machins, il faut que je garde des trucs pour moi aussi."
             ],
             "traderhagglesuccess": [
                 "Bon d’accord.",

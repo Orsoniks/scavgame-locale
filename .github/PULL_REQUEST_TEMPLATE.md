@@ -1,4 +1,4 @@
-(delete unrelevant sections)
+(please delete unrelevant sections)
 
 ## Type of Contribution
 
@@ -9,17 +9,23 @@
 
 ## Target Locale
 
-Language: (e.g. `pt-BR`):
+**Language Code:** (e.g. `pt-BR`)
 
 ## Description
 
 Please describe what this pull request includes:
 
 - Indicate percentage completed.
-- If update: explain what was updated (new keys, revision, quality improvements, etc.).
+- If update: explain what was updated (new keys, better phrasing, etc.).
+- Identical strings: Did you add any keys to `metadata.json`? (For words that are the same as English, like "Taxi").
 - Any additional context reviewers should know.
 
 ## Locale Checklist
+
+### Automation and GA 
+
+- [ ] I have checked that my JSON file is valid (no missing commas, braces or trailing commas).
+- [ ] I aknowledge that the **Progress Badge** should reflect the progress of my work once merged.
 
 ### General Requirements
 
