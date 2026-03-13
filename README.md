@@ -4,7 +4,7 @@ Community localization of the game ["*Casualties: Unknown*"](https://orsonik.itc
 
 ## Locales Status
 
-// Ne pas oublier de repasser sur "https%3A%2F%2Fraw.githubusercontent.com%2FOrsoniks%2Fscavgame-locale%2Fmain%2F.github%2Freports%2Ftranslation_report.json"
+// Ne pas oublier de repasser sur "https%3A%2F%2Fraw.githubusercontent.com%2FOrsoniks%2Fscavgame-locale%2Fmain%2F.github%2Freports%2Ftranslation_report.json" lors du merge. [Remplace juste Natpol50 par Orsoniks, ca devrait le faire]
 
 | Language | Progress | Contributors |
 | :--- | :---: | :--- |
