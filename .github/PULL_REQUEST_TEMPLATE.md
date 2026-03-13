@@ -1,4 +1,4 @@
-(delete unrelevant sections)
+(please delete unrelevant sections)
 
 ## Type of Contribution
 
@@ -24,9 +24,8 @@ Please describe what this pull request includes:
 
 ### Automation and GA 
 
-- [ ] I am aware that **GitHub Actions** will automatically sort my JSON and add any missing keys from `en.json`.
-- [ ] I have checked that my JSON file is valid (no missing commas or braces).
-- [ ] I've verified that the **Progress Badge** should reflect my work once merged.
+- [ ] I have checked that my JSON file is valid (no missing commas, braces or trailing commas).
+- [ ] I aknowledge that the **Progress Badge** should reflect the progress of my work once merged.
 
 ### General Requirements
 
