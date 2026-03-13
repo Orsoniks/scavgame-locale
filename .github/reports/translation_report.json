@@ -1,0 +1,138 @@
+{
+    "AR": {
+        "percentage": 55,
+        "missing_keys": [
+            "description",
+            "notes",
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [
+            "character (expected 3, got 1)"
+        ],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "BE": {
+        "percentage": 88,
+        "missing_keys": [
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "BY": {
+        "percentage": 66,
+        "missing_keys": [
+            "description",
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [
+            "character (expected 3, got 1)"
+        ],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "CZ": {
+        "percentage": 66,
+        "missing_keys": [
+            "description",
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [
+            "character (expected 3, got 2)"
+        ],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "DE": {
+        "percentage": 100,
+        "missing_keys": [],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "ES": {
+        "percentage": 100,
+        "missing_keys": [],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "FR": {
+        "percentage": 88,
+        "missing_keys": [
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "IT": {
+        "percentage": 100,
+        "missing_keys": [],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "KO": {
+        "percentage": 88,
+        "missing_keys": [
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "KZ": {
+        "percentage": 66,
+        "missing_keys": [
+            "description",
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [
+            "character (expected 3, got 2)"
+        ],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "RO": {
+        "percentage": 100,
+        "missing_keys": [],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "RU": {
+        "percentage": 88,
+        "missing_keys": [
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "UA": {
+        "percentage": 100,
+        "missing_keys": [],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "ZH": {
+        "percentage": 88,
+        "missing_keys": [
+            "pdaNotes"
+        ],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    },
+    "ja-JP": {
+        "percentage": 100,
+        "missing_keys": [],
+        "mismatched_arrays": [],
+        "dirty_keys": [],
+        "untranslated": []
+    }
+}
