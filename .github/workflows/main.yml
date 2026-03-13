@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - 'translations/**.json'
+    branches:
+      - main
   pull_request:
     paths:
       - 'translations/**.json'
@@ -23,14 +25,26 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install Dependencies
+        run: pip install json5
+
       - name: Run Diagnostics
         run: python .github/scripts/compute_stats.py
 
-      - name: Commit Diagnostics Report
+      # I think it's how we can uplaod detailed reports without committing them to the repo ? I'm honestly not sure.
+      - name: Upload Detailed Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: detailed-translation-report
+          path: .github/reports/translation_report.json
+          retention-days: 90
+
+      # Commit only the tiny summary to keep the repo clean
+      - name: Commit Summary
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .github/reports/translation_report.json
-          git commit -m "docs: update translation report [skip ci (Github Actions) ]" || exit 0
+          git add .github/reports/summary.json
+          git commit -m "docs: update translation summary [skip ci] (Github Actions)" || exit 0
           git push

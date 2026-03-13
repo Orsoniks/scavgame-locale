@@ -1,0 +1,70 @@
+{
+  "AR": {
+    "percentage": 47,
+    "color": "orange"
+  },
+  "BE": {
+    "percentage": 92,
+    "color": "green"
+  },
+  "BY": {
+    "percentage": 72,
+    "color": "yellow"
+  },
+  "CZ": {
+    "percentage": 2,
+    "color": "red"
+  },
+  "DE": {
+    "percentage": 88,
+    "color": "green"
+  },
+  "ES": {
+    "percentage": 91,
+    "color": "green"
+  },
+  "FR": {
+    "percentage": 87,
+    "color": "green"
+  },
+  "IT": {
+    "percentage": 88,
+    "color": "green"
+  },
+  "KO": {
+    "percentage": 90,
+    "color": "green"
+  },
+  "KZ": {
+    "percentage": 76,
+    "color": "yellow"
+  },
+  "PL": {
+    "percentage": 84,
+    "color": "green"
+  },
+  "PT-BR": {
+    "percentage": 88,
+    "color": "green"
+  },
+  "RO": {
+    "percentage": 89,
+    "color": "green"
+  },
+  "RU": {
+    "percentage": 91,
+    "color": "green"
+  },
+  "UA": {
+    "percentage": 94,
+    "color": "green"
+  },
+  "ZH": {
+    "percentage": 90,
+    "color": "green"
+  },
+  "ja-JP": {
+    "percentage": 94,
+    "color": "green"
+  }
+}

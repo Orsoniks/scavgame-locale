@@ -3,7 +3,7 @@
 This document outlines the logic behind `compute_stats.py` and the automation pipeline.
 
 ## Data Pipeline Flow
-`translations/*.json` -> `compute_stats.py` -> `translation_report.json` -> `Shields.io Badges`
+`translations/*.json` -> `compute_stats.py` -> `.github/reports/summary.json` -> `Shields.io Badges`
 
 ## Engine Logic (The `analyze_translation` function)
 The engine flattens nested JSON structures into a dot-notation dictionary (e.g., `character.0.cold`) to perform a precise audit.
@@ -21,7 +21,6 @@ For every key found in `EN.json`, the engine follows these rules:
 
 ### 2. "Dirty" vs. "Cleaned" Workflow
 This system handles **Context Drift**. 
-- `dirty_global`: Acts as a "Recall Notice." It forces a percentage drop across the project.
 - `cleaned`: Acts as a "Validation Stamp." It acknowledges that a specific language has addressed the global change.
 
 ### 3. Array Integrity
@@ -31,6 +30,7 @@ To prevent disastrous mismatches in character dialogues or notes, the engine str
 - **Permissions**: The workflow requires `contents: write` to allow the `github-actions[bot]` to push the generated report.
 - **Optimization**: The `paths` filter ensures the script only runs when translation files or metadata are modified.
 - **Skip Logic**: The commit message includes `[skip ci]` to prevent an infinite loop of bot-generated commits.
+- **Report details :** The Reports details are uploaded as Github Actions artifacts.
 
 ## Badge Integration
 Badges in the README are **Dynamic Shields**. They query the raw GitHub URL of `translation_report.json` using JSONPath:
