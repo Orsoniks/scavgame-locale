@@ -1,4 +1,2 @@
 # Do not commit the following files
 .vscode/settings.json
-
-.github/reports/translation_stats.json
