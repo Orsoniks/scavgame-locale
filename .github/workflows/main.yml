@@ -16,6 +16,9 @@ permissions:
 jobs:
   validate_and_stats:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -31,7 +34,7 @@ jobs:
       - name: Run Diagnostics
         run: python .github/scripts/compute_stats.py
 
-      # I think it's how we can uplaod detailed reports without committing them to the repo ? I'm honestly not sure.
+      # Upload the detailed report as an artifact for later reference, tested.
       - name: Upload Detailed Report
         uses: actions/upload-artifact@v4
         with:
