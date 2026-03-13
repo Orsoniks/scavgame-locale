@@ -35,7 +35,6 @@ Community localization of the game ["*Casualties: Unknown*"](https://orsonik.itc
 **GitHub Actions** are used to automatically track translations progress.
 
 - **Reference:** All translations are compared against [EN.json](/translations/EN.json).
-- **Auto-Sync:** New keys added to the English file are automatically added to other languages to avoid game errors.
 - **Want to help?** Check our [Contributing Guide](.github/DOCS/CONTRIBUTING.md) and join the [Discord](https://discord.gg/VeCSKv7AKa).
 
 ## Maintainers
