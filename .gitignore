@@ -1,3 +1,4 @@
 # Do not commit the following files
 .vscode/settings.json
 ID-*.json
+*.py
