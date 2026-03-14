@@ -18,6 +18,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [한국어 (KO)](/KO.json)     | [muqhc](https://github.com/muqhc), [DrawinDarwin](https://github.com/DrawinDarwin), [Kedr2806](https://github.com/Kedr2806)                            |
 | [Română (RO)](/RO.json)    | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan)                            |
 | [Italiano (IT)](/IT.json)   | [LorgamerPizza](https://github.com/lorgamerpizza-code),chaosussy        |
+| [Bahasa Indonesia (ID)](/ID.json)   | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/)        |
 | [Ukrainian (UA)](/UA.json)   | [Vladorion737](https://github.com/vladorion737)        |
 | [日本語 (JP)](/ja-JP.json)   | [marui-neko](https://github.com/marui-neko)        |
 
