@@ -1109,7 +1109,7 @@
         "lrdserum": "L.R.D.-seerumi",
         "lrdserumdsc": "Erikoisseos, jota paikallinen elvytyslaite käyttää. Ei tee mitään jos pistetään muilla välineillä.",
         "cleanwater": "Puhdas vesi",
-        "cleanwaterdsc": "Puhdasta, suodatettua vettä. Turvallista, mutta maistuu tyhjältä.",    ###fuk u Seppo
+        "cleanwaterdsc": "Puhdasta, suodatettua vettä. Turvallista, mutta maistuu tyhjältä.",
         "carbonatedwater": "Hiilihapollinen vesi",
         "carbonatedwaterdsc": "Se on mausteista vettä. Pidät kuohumisesta.",
         "alcohol": "Alkoholi",
@@ -3823,57 +3823,58 @@
     "notes": [
         [
             {
-                "Item1": "this is horrifying. there's so many corpses... im scared. why did they send so many of us here? i dont understand. i really dont understand. they knocked me out cold with some kind of dart and forced me into a pod to be sent here. i hate this planet.",
+            {
+                "Item1": "tämä on kauhistuttavaa. ruumiita on niin paljon... minua pelottaa. miksi he lähettivät niin monta meistä tänne? en ymmärrä. en todellakaan ymmärrä. he tyrmäsivät minut jonkinlaisella nuolella ja pakottivat minut kapseliin lähetettäväksi tänne. vihaan tätä planeettaa.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I inquired others around the ability to see our physical status in our minds, and it turns out this is something shared by almost everyone else here. Quite interesting - this is not something we've ever been able to do back in our homes. Have we been implanted with something? There are no visible attachments on any of us. I have also noted that very few people here do not share this experience, seemingly lacking whatever lets us do this. Odd.",
+                "Item1": "Tiedustelin muilta kykyä nähdä fyysinen tilamme mielessämme, ja kävi ilmi, että tämä on lähes kaikkien muiden jakama kokemus. Melko mielenkiintoista - tämä ei ole jotain mitä olemme koskaan pystyneet tekemään kodeissamme. Onko meihin istutettu jotain? Kenessäkään meistä ei ole näkyviä kiinnikkeitä. Olen myös huomannut, että hyvin harvoilla täällä ei ole tätä kokemusta, ja heiltä näyttää puuttuvan mikä ikinä antaa meidän tehdä tämän. Outoa.",
                 "Item2": "Sprites/noteDrawings/puppet",
                 "Item3": "milky"
             },
             {
-                "Item1": "i keep losing weight. i need to eat more to stay in shape. all this running around makes you consume calories really fast. i guess i need to be full more often.",
+                "Item1": "pudotan jatkuvasti painoa. minun täytyy syödä enemmän pysyäkseni kunnossa. kaikki tämä juokseminen kuluttaa kaloreita todella nopeasti. kai minun täytyy olla kylläinen useammin.",
                 "Item2": "Sprites/noteDrawings/underweight",
                 "Item3": "experiment"
             },
             {
-                "Item1": "this is horrible. this is fucking horrible. i cant do it anymore. this is a death mission. abandon all hope. there is no point to this",
+                "Item1": "tämä on kauheaa. tämä on vitun kauheaa. en jaksa enää. tämä on kuolemantehtävä. hylää kaikki toivo. tässä ei ole mitään järkeä",
                 "Item2": "Sprites/noteDrawings/x",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i dont get why we're here. what for? i know im supposed to retrieve some kind of battery cell or something. im assuming others have the same mission. arent there more efficient ways of doing this? logically? why send us here. i miss my friends. i dont want to die.",
+                "Item1": "en tajua miksi olemme täällä. mitä varten? tiedän että minun kuuluisi noutaa jonkinlainen akkukenno tai jotain. oletan että muillakin on sama tehtävä. eikö tähän ole tehokkaampia tapoja? loogisesti? miksi lähettää meidät tänne. kaipaan ystäviäni. en halua kuolla.",
                 "Item2": "Sprites/noteDrawings/alone",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i fell down. bad. my leg is mangled. this is really bad. trying to move at all is a pain. i need some painkillers for this.",
+                "Item1": "putosin alas. pahasti. jalkani on silvottu. tämä on todella pahaa. yrittäminen liikkua yhtään sattuu. tarvitsen särkylääkkeitä tähän.",
                 "Item2": "Sprites/noteDrawings/brokenleg",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i overheard our captors calling us a mutated amalgamation of a \"human, fox and rat\", whatever any of that means. how much is there being kept from us? information wise? the thought scares me. ive never considered anything being outside of where we were raised. and now im here. i cant wrap my head around all of this.\n(On the paper is what looks to be a self-portrait.)",
+                "Item1": "kuulin vangitsijoiden kutsuvan meitä mutatoituneeksi yhdistelmäksi sanoja \"ihminen, kettu ja rotta\", mitä ikinä mikään noista tarkoittaa. kuinka paljon meiltä pidetään salassa? tiedon osalta? ajatus pelottaa minua. en ole koskaan harkinnut minkään olevan olemassa kasvatuspaikkamme ulkopuolella. ja nyt olen täällä. en saa päätäni käärittyä kaiken tämän ympärille.\n(Paperissa on jotain omakuvan näköistä.)",
                 "Item2": "Sprites/noteDrawings/experiment",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I have found drawing to be a decent escape to the situation I have found myself in. It seems all of us are struggling with our mental states, one way or another. It is nice to get a distraction from the harsh reality at times.",
+                "Item1": "Piirtäminen on osoittautunut kelvolliseksi pakokeinoksi tilanteesta johon olen joutunut. Näyttää siltä, että me kaikki kamppailemme henkisen tilamme kanssa tavalla tai toisella. On mukavaa saada häiriötekijä karusta todellisuudesta toisinaan.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "the captors will get what they deserve.",
+                "Item1": "vangitsijat saavat ansionsa mukaan.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "planet is good .  eat a lot of good flesh .  dune happy\n(You can make out what looks like a very poorly made self-portrait.)",
+                "Item1": "planeetta on hyvä .  syödä paljon hyvää lihaa .  dyy-ni iloinen\n(Erottaa jotain erittäin huonosti tehdyn omakuvan näköistä.)",
                 "Item2": "Sprites/noteDrawings/dune",
                 "Item3": "dune"
             },
             {
-                "Item1": "The distribution of species here seems very disproportional. The Experiments are everywhere, yet other species like ours seem to be much lesser in numbers. Odd... Either way, I dislike the amount of casualties here. More of us need to be helped.",
+                "Item1": "Lajien jakautuminen täällä vaikuttaa hyvin suhteettomalta. Koekappaleita on kaikkialla, mutta muut lajit kuten meidän kaltaisemme näyttävät olevan paljon vähälukuisempia. Outoa... Joka tapauksessa, en pidä uhrien määrästä täällä. Useampia meistä täytyy auttaa.",
                 "Item2": "Sprites/noteDrawings/milky",
                 "Item3": "milky"
             },
