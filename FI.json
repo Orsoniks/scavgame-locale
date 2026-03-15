@@ -553,7 +553,7 @@
     },
     "buildings": {
         "animalcorpse": "Eläimen ruumis",
-        "animalcorpsedsc": "Ruumi...",
+        "animalcorpsedsc": "",
         "fungalibungali": "Fungali bungali",
         "fungalibungalidsc": "Pieni ryhmä vihertäviä sieniä. Saatat onnistua leikkaamaan yhden sienen lakin irti, jos onni on puolellasi.",
         "mushroomplatform": "Sienilava",
@@ -601,7 +601,7 @@
         "containercratedsc": "Sisältää sekalaisia esineitä.",
         "corpse": "???",
         "corpseseen": "Ruumis",
-        "corpsedsc": "Ruumi...",
+        "corpsedsc": "",
         "glassshards": "Lasinsirpaleet",
         "glassshardsdsc": "",
         "sandvine": "Hiekkaköynnös",
