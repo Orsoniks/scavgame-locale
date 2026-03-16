@@ -1748,13 +1748,6 @@
                 "Perkele. Tästä tulee helvetin kauheaa.",
                 "Tästä tulee hauskaa.",
                 "Mene alas... Etsi se juttu jos löydän sen... Okei...",
-                "Tämä on kylmempää kuin talvi...",
-                "...",
-                "Voisin tappaa kupillisen kahvin vuoksi juuri nyt...",
-                "Ainakin täällä on hiljaista... Ihan kuin kotona.",
-                "Edes mämmi olisi parempaa kuin tämä...",
-                "Ei tässä auta muu kuin sisu.",
-                "Tästä selvitään... Ehkä."
             ],
             "eatGood": [
                 "Mmm!",
@@ -1791,9 +1784,7 @@
                 "Herkullista...",
                 "Mmm, kivaa...",
                 "Juuri sitä mitä tarvitsin...",
-                "Mmmmm...",
-                "Kuin äidin tekemää...",
-                "Melkein kuin jouluruokaa..."
+                "Mmmmm, hyvää...",
             ],
             "eatMediocre": [
                 "Ehh...",
@@ -1866,10 +1857,6 @@
                 "Kuvottavaa!",
                 "En halunnut syödä tätä.",
                 "Mitä VITTUA minä SYON!?",
-                "Tällaista ei tarjoiltaisi edes kouluruokalassa...",
-                "Mämmikin maistuu paremmalta kuin tämä...",
-                "Perkele, kuka tämän on valmistanut!?",
-                "Saanko tähän edes ketsuppia...?"
             ],
             "refuseEat": [
                 "En syö tätä.",
@@ -1889,8 +1876,6 @@
                 "Älä edes ajattele sitä.",
                 "En anna häiritsevien ajatusten voittaa.",
                 "Yök. Vitut siitä.",
-                "Tätä ei tarjoiltaisi edes armeijan muonassa...",
-                "Ei kiitos, mieluummin juon pelkkää piimää."
             ],
             "tired": [
                 "*haukotus*",
@@ -1916,8 +1901,6 @@
                 "Minua nukuttaa...",
                 "Ehkä tämä riittää tältä päivältä...?",
                 "Nukuttaa...",
-                "Kaipaan pehmeää sänkyä ja villasukkia...",
-                "Tarvitsisin nyt jälkeisen nokoset..."
             ],
             "verytired": [
                 "Ughhh....",
@@ -1991,8 +1974,6 @@
                 "Hereillä ja valppaana...",
                 "Hei, maailma...",
                 "Taas...",
-                "Huomenta... Kai se on huomenta...",
-                "Kahvia tarvittaisiin nyt kipeästi..."
             ],
             "sick": [
                 "Vatsaani sattuu...",
@@ -2110,7 +2091,6 @@
                 "Taitaa alkaa oksettaa...",
                 "Taisin syödä liikaa...",
                 "Olen täynnä!",
-                "Joulupöytäkin häviää tälle..."
             ],
             "hungry": [
                 "Pieni pala tekisi hyvää.",
@@ -2135,8 +2115,6 @@
                 "Onko mitään syötävää?",
                 "Mitään ruokaa? Minulla on nälkä.",
                 "Haluan ruokaa.",
-                "Karjalanpiirakka kelpaisi nyt...",
-                "Antaisi edes lihapullia..."
             ],
             "starving": [
                 "Olen nälissäni.",
@@ -2167,8 +2145,6 @@
                 "Vatsani on todella tyhjä.",
                 "Ghh... NÄÄNNYN NÄLKÄÄN!!",
                 "Kehoni kuihtuu pois...",
-                "Söisin vaikka mämmiä tässä vaiheessa...",
-                "Edes ruisleipea..."
             ],
             "thirsty": [
                 "Minulla on jano.",
@@ -2190,7 +2166,6 @@
                 "Juoma olisi paikallaan.",
                 "Haluaisin sammuttaa janoni.",
                 "Vähän vettä olisi mukavaa.",
-                "Voisin juoda vaikka järven tyhjäksi..."
             ],
             "dehydrated": [
                 "Olen todella kuivunut.",
@@ -2214,7 +2189,6 @@
                 "Vettä? Olkaa hyvä...",
                 "Olen niin kuivunut...",
                 "Tuntuu kuin kuivuisin kokoon ja kuolisin...",
-                "Edes piimää... mitä vain..."
             ],
             "limbmuscle": [
                 "En voi liikuttaa <limb>!",
@@ -2311,8 +2285,6 @@
                 "Eristäytyminen alkaa painaa.",
                 "Minua pelottaa.",
                 "Onko tämä nyt elämäni tästä eteenpäin?",
-                "Sisu... Tarvitsen sisua...",
-                "Edes koira olisi seuraa..."
             ],
             "gloomy": [
                 "Voisi mennä paremminkin.",
@@ -2354,7 +2326,6 @@
                 "Vittu tätä, hemmetti... Ugh...",
                 "Haluan todella pois täältä.",
                 "Olen onneton...",
-                "Kaipaan hiljaisuutta..."
             ],
             "depressed": [
                 "En kestä tätä enää.",
@@ -2774,8 +2745,6 @@
                 "Minussa on verta joka paikassa... Hyi...",
                 "Tuo oli yksi meikäläisistä...",
                 "OLIKO minun pakko tehdä tuo..? H-hyi...",
-                "Perkele... Miksi vittu tein sen...",
-                "Saatanan paska homma..."
             ],
             "cold": [
                 "Täällä on kylmä.",
@@ -2793,8 +2762,6 @@
                 "On hieman viileää.",
                 "Täällä nipistää!",
                 "Minulla on kylmä.",
-                "Tuntuu kuin ...Bbrr... talvessa...",
-                "kylmää... Mbh..."
             ],
             "warm": [
                 "Täällä on vähän kuuma.",
@@ -2900,7 +2867,6 @@
                 "Niin kylmää...",
                 "Jäädyn!",
                 "Jäätymässä...",
-                "Tämä on kylmää..."
             ],
             "emaciated": [
                 "Olen niin laiha... Olo on heikko.",
@@ -2920,7 +2886,6 @@
                 "Minun täytyy pudottaa muutama kilo.",
                 "Näen rasvan kertyvän päälleni...",
                 "En voi jatkaa syömistä näin paljon.",
-                "Joulupöytä alkaa näkyä..."
             ],
             "opiated": [
                 "Taisin huumaantua...",
@@ -3076,8 +3041,6 @@
                 "Aaawgh!",
                 "Ngghhh...",
                 "Ough!",
-                "PERKELE!!",
-                "SAATANA!!"
             ],
             "bigpain": [
                 "OW!!!",
@@ -3127,10 +3090,6 @@
                 "AAAAACK!",
                 "AAH!",
                 "AAAAAAAAAAHHH!",
-                "PERKELE!",
-                "JUMALA-!",
-                "SAATANA!",
-                "HELVETTI!"
             ],
             "hitbycreature": [
                 "AAAHHHHH!",
@@ -3154,8 +3113,6 @@
                 "EIEIEIEI-AAAAAAAHHHHHH!",
                 "!!!!!!!!",
                 "AAAAAAAHHHH!!!!!",
-                "VITTU! SAATANA! IRTI!",
-                "JUMALAUTA! POIS! POIS!"
             ],
             "wet": [
                 "Olen läpimärkä...",
@@ -3199,7 +3156,6 @@
                 "Turkissani on nokea.",
                 "Olo on likainen. Tarvitsen todella kylvyn tai jotain...",
                 "Suihku olisi paikallaan!",
-                "kiitos..."
             ],
             "encumbered": [
                 "Kannan vähän liikaa.",
@@ -3236,15 +3192,12 @@
                 "AHHH! Vittu... Korvissani soi...",
                 "PERKELE! ... Auutshh... Se oli niin kovaa...",
                 "EI!!! Voi vittu, hemmetti... Aghhh, se oli kovaa...",
-                "JUMALAUTA! Korvani räjähtävät!",
-                "SAATANA! Se oli kova ääni..."
             ],
             "murderregret": [
                 "Miksi... Miksi tein tuon..? V-vittu...",
                 "Gh... Luoja... Miksi..?",
                 "Minä... Se oli kamalaa.. Olen hirviö...",
                 "Nhh... Miksi... Miksi? Tuo oli yksi meistä...",
-                "Perkele... Mitä vittu minä juuri tein..."
             ],
             "tradeemeet": [
                 "Hei!",
@@ -3429,8 +3382,6 @@
                 "VITTU.",
                 "Vittu. Vittu. Vittu!",
                 "SINÄ!",
-                "SAATANA!",
-                "PERKELE!"
             ],
             "braindamaged": [
                 "Maistan metallia.",
