@@ -3152,7 +3152,7 @@
                 "Turkkini on märkä ja tahmea...",
                 "Täällä on hyvin kosteaa.",
                 "Aivan liian kosteaa täällä!",
-                "Ottakaa tämä vesi pois iholtani."
+                "Saako tämän veden pois iholtani."
             ],
             "dirty": [
                 "Ugh... Olen niin likainen!",
@@ -3183,7 +3183,7 @@
             "encumbered": [
                 "Kannan vähän liikaa.",
                 "Tarvitsenko näin paljon päälläni..?",
-                "Olen aika painotettu...",
+                "Olen aika kuormitettu...",
                 "Minun pitäisi pudottaa jotain...",
                 "Minun pitäisi jättää tavaroitani, ne ovat todella raskaita...",
                 "Ough, olen aivan liian kuormitettu.",
@@ -3282,7 +3282,7 @@
             "traderhagglefail": [
                 "Et kuulostanut kovin vakuuttavalta.",
                 "...Ei, kiitos.",
-                "Öö-öö.",
+                "Ei-ei.",
                 "Ei kiinnosta.",
                 "Mitä? Miksi tekisin noin..?",
                 "Meeehhh... Toista kertaa.",
@@ -3344,7 +3344,7 @@
             "tradercombat": [
                 "Olen saanut tarpeekseni paskastasi.",
                 "PAINU VITTUUN!",
-                "OLEN VALMIS KANSSASI!",
+                "MINULLE RIITTÄÄ!",
                 "VITTU SINUA!",
                 "ULOS! ULOS! NYT! ULOS!",
                 "ULOS TÄÄLTÄ!"
@@ -3352,7 +3352,7 @@
             "traderthreatensuccess": [
                 "Okei, okei, herranjumala... Ota mitä haluat, älä vain satuta minua...",
                 "Paskiainen... Selvä. Ota vaan. Poistu sen jälkeen.",
-                "Nggh... Vittu sinule... Ota mitä haluat ja poistu!",
+                "Nggh... Vittu sinulle... Ota mitä haluat ja poistu!",
                 "Älä satuta minua! Ota jotain ja... Ole kiltti poistu...",
                 "...Okei. Ota jotain äläkä tule takaisin. Säästä uhkaukset."
             ],
@@ -3372,7 +3372,7 @@
                 "Herätyys!"
             ],
             "traderseegun": [
-                "...Hola! Laita se ase pois, kaveri... Joka tapauksessa.",
+                "...Vaah! Laita se ase pois, kaveri... Joka tapauksessa.",
                 "Hei! Mikä juttu sen aseen kanssa? Laita se pois, ole kiltti. ...Niin.",
                 "Toivottavasti et käytä tuota asetta, haha.",
                 "Hei, minulla ei ole asetta, joten laita omasi pois, kaveri."
@@ -3441,7 +3441,7 @@
             ],
             "lastmoments": [
                 "En... halua kuolla... En halua kuolla...",
-                "Olkaa hyvä... Olkaa hyvä... Joku pelasta... Pelastakaa minut...",
+                "Ole hyvä... Olkaa hyvä... Joku pelasta... Pelastakaa minut...",
                 "En halua kuolla... Olkaa hyvä... Olkaa hyvä...",
                 "Ei... Ei näin... Olkaa hyvä... Auttakaa...",
                 "A-apua... Joku... En h-halua kuolla...",
@@ -3554,7 +3554,7 @@
             ],
             "traderthreatensuccess": [
                 "Ei ole etujeni mukaista saada iskuja. Ota mitä haluat ja poistu.",
-                "Hyvä on. Valitse ja poistu kapseLista.",
+                "Hyvä on. Valitse ja poistu kapselista.",
                 "Toivon sinulle huonoa onnea. Hyvä on. Ota ja poistu.",
                 "Olet kamala ihminen, tiedätkö sen?",
                 "Eli näin sinä ratkaiset ongelmia. Mhm. Hyvä on.",
