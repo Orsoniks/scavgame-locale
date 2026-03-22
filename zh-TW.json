@@ -1,6 +1,6 @@
 {
     "name": "繁體中文",
-    "description": "由 <color=\"yellow\">月曦MonXi、影月炎YUN、戈倫、JiYv、義錦、AlCl3、黑蘚Black_Moss、7.62X51mmNATOm1185lr</color> 翻譯，<color=\"blue\">影月炎YUN、AlCl3、黑蘚Black_Moss、7.62X51mmNATOm1185lr</color> 校準的繁體中文版，祝你們遊玩愉快！",
+    "description": "這是一個<color=\"blue\">黑蘚Black_Moss</color>基于<color=\"red\">簡體中文本地化</color>，使用工具轉換出來的<color=\"red\">繁體中文本地化</color>，由於<color=\"red\">人員稀缺，沒有經過一點校對！</color>\n\n玩的開心！\n繁體中文用戶們，祝你們遊玩愉快！",
     "main": {
         "bandage": "繃帶",
         "bandagedsc": "一卷帶有繃帶的敷料，用於減緩出血、固定骨折並幫助皮膚癒合。對肌肉健康無效。",
