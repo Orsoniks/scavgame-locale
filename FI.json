@@ -3253,7 +3253,7 @@
                 "...Hm. Moi."
             ],
             "traderhugsuccess": [
-                "Awww... Kiitos.",
+                "Awww... Kitos.",
                 "Ahhh... Kiitos, kaveri.",
                 "Mmmh... Aww, kiitos!",
                 "Ah! Mmhh... Kiitos...",
@@ -3397,7 +3397,7 @@
                 "ANTEEKSI!",
                 "LOPETA!",
                 "AGH!",
-                "LOPETA!",
+                "EROA!",
                 "PASKIAINEN!",
                 "Lopeta!",
                 "AAH!",
@@ -3570,7 +3570,7 @@
                 "Ole kiltti. Poistu.",
                 "Poistu.",
                 "En aio käsitellä sinua juuri nyt.",
-                "Poistu kapseLista rauhassa. Minä tulin tänne ensin."
+                "Poistu kapselista rauhassa. Minä tulin tänne ensin."
             ],
             "tradercombat": [
                 "En halunnut tämän tulevan tähän.",
@@ -3587,7 +3587,7 @@
                 "Awww. Tarvitsit todella tuota...",
                 "Aww, miten kiltti ihminen olet.",
                 "Mmmhh...",
-                "Miten hellyydenosoitus..."
+                "Mikä hellyydenosoitus..."
             ],
             "traderhugfail": [
                 "EI KOSKETELLA!!",
@@ -3600,7 +3600,7 @@
                 "Ennen kuin puhumme, poista tuo ase. Joka tapauksessa...",
                 "Toivon ettei tämä ole ryöstö. Jos ei, laita ase pois... Joka tapauksessa...",
                 "Ota tuo ase pois luotani, tämä ei ole ammuskelutilanne. Joka tapauksessa...",
-                "YRITÄTKÖ tehdä itsestäsi uhkaa minulle vai luuletko vain että ase näyttää hienolta..?"
+                "YRITÄTKÖ tehdä itsestäsi uhka minulle vai luuletko vain että ase näyttää hienolta..?"
             ],
             "tradermeetimpairedspeech": [
                 "Mitä sanot..? En ymmärrä sinua.",
@@ -3783,7 +3783,7 @@
                 "NNGGHHRR! Mik-si ys-tä-vä va-ras-taa! Me-ne pois! GGrrhhhhhh... PA-HA..!",
                 "GRRR! PA-HA! U-LOS!",
                 "PA-HA! Grrrr... Ys-tä-vä pa-ha... Pa-ha! Läh-de!",
-                "Dyy-ni EI NÄH-NYT! PA-HA YS-TÄ-VÄ! ME-NE POIS... PO-IS!",
+                "Dyy-ni EI NÄ-E! PA-HA YS-TÄ-VÄ! ME-NE POIS... PO-IS!",
                 "Ys-tä-vä va-ras-taa! Ei ys-tä-vä..."
             ],
             "tradermove": [
@@ -3852,97 +3852,97 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "I was performing a self check-up following a painful incident when I noticed a dark, nodular bump on my skin. It appeared irregular in shape and was oddly multicoloured and variegated. I estimated its diameter to be approximately eight millimetres. Upon further inspection, I found several more in various locations on my body. I corresponded with a younger friend and they seemed to have none, but my older friend had many more. Should I keep track of the evolution of this potential malignancy?",
+                "Item1": "Suoritin itsetutkimusta kivuliaan tapauksen jälkeen, kun huomasin tumman, kyhmyisen patin ihollani. Se näytti muodoltaan epäsäännölliseltä ja oli oudosti monivärinen ja kirjava. Arvioin sen halkaisijaksi noin kahdeksan millimetriä. Tarkemmin tutkiessani löysin useita lisää eri puolilta kehoani. Olin yhteydessä nuorempaan ystävääni, eikä hänellä näyttänyt olevan yhtään, mutta vanhemmalla ystävälläni oli paljon enemmän. Pitäisikö minun seurata tämän mahdollisen pahanlaatuisen kasvaimen kehitystä?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "i didnt want to do it. they had a chest drain. what could i do? drown in my own blood? all i had was a stick of dynamite... if only i could be home, even just listening to the training radio, i would give anything. its not my fault. its not my fault.",
+                "Item1": "en halunnut tehdä sitä. heillä oli rintadreeni. mitä olisin voinut tehdä? hukkua omaan vereeni? kaikki mitä minulla oli, oli dynamiittitanko... jospa voisin olla kotona, edes vain kuuntelemassa harjoitusradiota, antaisin mitä tahansa. se ei ole minun vikani. se ei ole minun vikani.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i love this place! i still meet new creatures, they are so sweet! there are so many cool things here! i will never go back to the lab, long live the cave!",
+                "Item1": "rakastan tätä paikkaa! tapaan yhä uusia olentoja, ne ovat niin suloisia! täällä on niin paljon siistejä juttuja! en palaa koskaan takaisin laboratorioon, eläköön luola!",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "dune love tasting friend .  all friend taste different .  dark fur friend is stiff .  light fur friend is chewy .  what dune me taste like ?",
+                "Item1": "dyyni tykkää maistella ystävä .  kaikki ystävä maistua eri .  tumma turkki ystävä on jäykkä .  vaalea turkki ystävä on sitkeä .  miltä dyyni minä maistua ?",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "hugging others makes me happier... but some of survivors refuse hugs, i think they can be appeased somehow. also sleeping next to them is much better than on the cold floor alone.",
+                "Item1": "muiden halaaminen tekee minut iloisemmaksi... mutta jotkut selviytyjistä kieltäytyvät halauksista, luulen että heidät voi jotenkin lepyttää. myös heidän vieressään nukkuminen on paljon parempaa kuin yksin kylmällä lattialla.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "To anyone who finds this, they can and will control you, even in this hell. With no previous alert I started to hear a loud alarm inside me, I could see a message saying \"DEPTH UNSATISFACTORY\" with red flashing lights materializing in the corner of my vision.\n\nI started running, panicked, without knowing why they would do this. Only after I went into another region of this cave network it stopped. They know how much time you are spending here, they know that you'll be frightened, and they want you to die. This is all a mass genocide.",
+               "Item1": "Kenelle tahansa joka löytää tämän: he voivat ja tulevat hallitsemaan sinua, jopa tässä helvetissä. Ilman mitään aiempaa varoitusta aloin kuulla kovaäänisen hälytyksen sisälläni, näin viestin jossa luki \"SYVYYS EI TYYDYTTÄVÄ\" punaisilla vilkkuvilla valoilla jotka ilmestyivät näkökenttäni reunaan.\n\nAloin juosta, paniikissa, tietämättä miksi he tekisivät tämän. Vasta kun menin toiselle alueelle tässä luolaverkostossa se lakkasi. He tietävät kuinka paljon aikaa vietät täällä, he tietävät että pelkäät, ja he haluavat sinun kuolevan. Tämä kaikki on joukkotuho.",
+               "Item2": "",
+               "Item3": "milky"
+            },
+            {
+               "Item1": "löysin aseen. tuliaseen. herranjumala... en ole tottunut käyttämään tällaista... minun olisi pitänyt olla huolellisempi harjoituskerroilla... minulla ei ole hajuakaan miten minut on edes lähetetty tänne näin valmistautumattomana, sen sijaan että minut olisi karsittu. melkein ammuin jonkun vahingossa. minun olisi pitänyt laittaa varmistin päälle... mistä minä tietäisin. muut yleensä panikoivat todella paljon kun näkevät sinun pitävän asetta kädessä. joten ehkä olisi parasta laittaa se jonkin sisälle, etteivät he näe sitä. he luulevat että ampuisit heidät, he eivät tiedä aikomuksiasi. no, ajattelisin itsekin samoin jos joku osoittaisi minua aseella.",
+               "Item2": "",
+               "Item3": "experiment"
+            },
+            {
+               "Item1": "olen niin vihainen itselleni kun käyttäydyin kuin idiootti muiden kanssa siellä ylhäällä... nyt kaikki selviytyjät joita löydän ajavat minut pois kapseleidensa luota... voi kun tietäisit miten pahasti he kiroilivat... he yrittivät raapia minua... ja minä vain sanon itselleni: \"okei, olen pahoillani. herran tähden, tajuatteko te että juuri nyt jokainen elämä on tärkeä? ei ole tilaa vahingoittaa ja tappaa toisiamme.\". kunpa olisin parempi tyyppi... se on oma vikani.",
+               "Item2": "",
+               "Item3": "experiment"
+            },
+            {
+              "Item1": "älä aina luota ympäriinsä lojuviin nestetynnyrehin. sain käsiini ison minitynnerin jonka luulin olevan limonadia, mutta yksi karvas kulaus riitti kertomaan ettei se ollut. yritin huuhdella sen pois toisella vesitynnerillä, mutta vesi teki minusta hyvin kylmän ja hiukseni alkoivat lähteä",
+              "Item2": "",
+              "Item3": "experiment"
+            },
+            {
+              "Item1": "tänään löysin muutaman oudon metallipurkin joista etiketti oli revitty pois. en pystynyt kertomaan mikä se oli ja neste oli liian paksua kaadettavaksi ulos, mutta se on yllättävän täyttävää, tuntuu kuin olisin juuri syönyt hyvän pihvin... olen niin unelias. aion juoda seuraavan purkin, rakastan näitä purkkeja!\n(Paperin alaosa näyttää siltä kuin jotain mustia paloja sisältävää ainetta olisi väkisin työnnetty sille.)",
+              "Item2": "",
+              "Item3": "experiment"
+            },
+            {
+              "Item1": "tämä saattaa olla outo asia sanottavaksi, mutta olen tehnyt sovinnon tämän tilanteen kanssa. olen yrittänyt pitää huolta itsestäni niin paljon kuin voin ja yrittänyt lohduttaa kaikkia muita joita olen tavannut täällä alhaalla. se saa minut tuntemaan oloni... tyytyväiseksi? vaikka olen loukkaantunut paljon, olen pystynyt käsittelemään sen ilman masentumista.\nyritän päästä niin pitkälle kuin pystyn, ja vaikka en todennäköisesti selviä, tiedän tehneeni parhaani ja auttaneeni niin monia kuin pystyin. se on kaikki mitä kukaan meistä voi tehdä.\njos luet tätä, älä luovuta, okei?",
+              "Item2": "",
+              "Item3": "experiment"
+            },
+            {
+              "Item1": "olen nähnyt yhä enemmän näitä rikkoutuneita pudotuskapseleita viime aikoina, vähän kuten niitä joilla meidät lähetettiin tänne alas, paitsi että nämä kaikki ovat jotenkin räjähtäneet <>\nromun sisältä löydän yleensä jonkinlaisia aseammuksia sekä ällöttävän pallon jotain lihaa?\n<>\nse näyttää kauhealta mutta se saattaa olla syötävää???\nse dyynityyppi jonka tapasin aiemmin sanoi että se oli hyvää syötävää\nvoisin kokeilla syödä sitä\n<>\n\nsöin sitä ja oksensin suoleni ulos kaksikymmentä minuuttia putkeen, elämäni pahin virhe <>\nkaiken maailman tähden, älä syö mitä ikinä tuo onkaan",
+               "Item2": "",
+               "Item3": "experiment"
+            },
+            {
+               "Item1": "näen jatkuvasti saman unen. minulla on valtavat siivet ja voin lentää ylös ja ylös ja ylös. mikään ei voi pysäyttää minua. puhkaisen näiden luolien katot ja pääsen ulos niiden takaiseen maailmaan. siellä ulkona on kaunista mutta jatkan lentämistä. jätän kaiken taakseni kunnes ei ole mitään muuta kuin valtava tyhjyys. silloin viimein tajuan. olen turvassa. olen vapaa.\n\njoka kerta kun herään, en voi lopettaa itkemistä. kunpa voisin uneksia ikuisesti.\n\n(Siinä on kyynelten tahraama piirros hyvin epätarkoista siivistä.)",
+               "Item2": "Sprites/noteDrawings/wings",
+               "Item3": "experiment"
+            },
+            {
+               "Item1": "voivatko tieteilijät todella nähdä minut täällä? he halusivat aina minun sanovan ääneen mitä ajattelin, mutta täällä puhun vain itsekseni. kai minulla on vapaus lopettaa, mutta... se tuntuu terapeuttiselta. jos en selviä, ehkä ainakin nämä muistiinpanot selviävät.",
+               "Item2": "",
+               "Item3": "experiment"
+            },
+            {
+               "Item1": "en tajunnut kuinka pahaksi tilanne oli mennyt ennen kuin yritin kaivaa uudelleen ja kynteni vain... raapivat. niissä ei ollut enää purevuutta. olin kaivanut kynsilläni läpi kiveä taukoamatta edes ajattelematta sitä. tuntui alastomalta. osoittautuu ettei liha ole tarkoitettu korvaamaan työkaluja.\n<>\noletin aina tarvitsevani hakkua kaikkeen. mutta tajusin että viidakkoveitseni toimii aivan hyvin kevyempään tavaraan. multa, kasvit, hiekka, se leikkaa suoraan läpi. säästää käsiäni monelta kivulta.\n<>\nlöysin pullon jossa luki keratiinivahvistin. arvasinkin että he suunnittelivat osiemme hajoavan. otin kulauksen. hetken päästä vanhat kerrokset alkoivat hilseillä kuin turkki. niiden alta ne tuntuivat terävämmiltä. vahvemmilta. oli oudosti tyydyttävää katsella kuluneiden osien kuoriutuvan pois. pidän siitä miten kynteni antavat minun tarttua seiniin paremmin\n<>\nmuistin ihmiset. heillä oli kynnet jokaisessa sormessa. kaikissa. mutta ei kynsiä – ei oikeita, teräviä. se näytti niin väärältä läheltä. pehmeät. tylsät. kammottavaa miten he pärjäsivät sellaisilla käsillä.\n<>\naiemmin luulin sen tekevän heistä heikkoja.\n<>\nnyt mietin oliko se tarkoituskin.",
+               "Item2": "",
+               "Item3": "experiment"
+            },
+            {
+               "Item1": "Täällä on kaikenlaisia otuksia jotka vaeltelevat jatkuvasti kaikkialla. Olen vähän pasifisti, joten yritän juosta niitä karkuun taistelemisen sijaan, sillä en tiedä kumpi tappaa kumman ensin... Loppujen lopuksi haavat joita ne jättävät minuun sattuvat helvetisti... En tiedä enää... Tietävätkö vanginoittajamme edes mitä me käymme läpi täällä alhaalla?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "i found a weapon. a firearm. gosh... im not used to operating this thing... i shouldve been more careful during the training sessions... i have zero idea of how ive even been sent here, being this unprepared, instead of getting culled. i almost shot someone by accident. i shouldve turned on the gun safety... who am i to know. the others tend to really panic when they see you holding a weapon in hand. so maybe it would be best to put it inside of something, so that they dont see it. they think youd shoot them, they dont know your intentions. well, id think the same if someone were to point a gun at me.",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "im so mad at myself for acting like a dumbass with the others up there... now all of the survivors i find chase me away from their pods... man, if you knew how hard they were swearing... they tried to scratch me... and im just saying to myself: \"okay, im sorry. for fucks sake, do you realize that currently every life matters? theres no room for hurting and killing each other.\". i wish i was a better person... its my own fault.",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemondade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very cold and my hair started falling out",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "today i found a few weird metal cans that had the label ripped off. i couldnt tell what it was and the liquid was too thick to pour out, but it is surprisingly filling, i feel like i just had a nice steak... i feel so sleepy. im about to drink the next can, i love these cans!\n(The bottom of the paper looks like something with black chunks in it was forcibly ejected onto it.)",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "this might be a strange thing to say but I've made my peace with this situation. ive been trying to take care of myself as much as i can and trying to comfort all the others ive met down here. it makes me feel... content? even though I've gotten hurt a lot ive been able to handle it without feeling down.\ni'll try to get as far as i can, and even though i probably wont make it, i know i did my best and helped as many others as i could. that's all any of us can do.\nif you're reading this, don't give up, ok?",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "i have been seeing more and more of these broken down drop pods recently, kind of like the ones that they sent us down here with except these ones all exploded somehow <>\ninside the wreckages i usually find some type of gun ammunition along with a gross ball of some sort of meat? \n<>\nit looks awful but it might be edible???\nthat dune person i met earlier told me it was good to eat\ni could try having some of it\n<>\n\nate it and vomited my guts out for twenty minutes straight, worst mistake of my life <>\nfor the love of god, dont eat whatever that is",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "i keep having the same dream. i have huge wings and i can keep flying up and up and up. nothing can stop me. i burst through the ceilings of these caverns and out into the world beyond. it's beautiful out there but i keep flying. i leave everything behind until there's nothing but a huge void. that's when i finally realize. im safe. im free.\n\nevery time i wake up, i cant stop crying. i wish i could keep dreaming forever.\n\n(There is a tear-stained drawing of some very inaccurate wings.)",
-                "Item2": "Sprites/noteDrawings/wings",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "can the scientists really see me here? they always wanted me to say out loud what i was thinking, but here, im just talking to myself. i suppose i have the freedom to stop, but... it feels therapeutic. if i dont make it, maybe at least these notes will.",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "i didnt realize how bad it had gotten until i tried to dig again and my claws just... scraped. no bite to them anymore. ive been clawing through rock nonstop without even thinking about it. i felt naked. turns out flesh isnt meant to replace tools.\n<>\ni kept assuming i needed a pickaxe for everything. but i figured out my machete works just fine for the lighter stuff. dirt, plants, sand, it slices right through. saves my hands a lot of pain.\n<>\nfound a bottle labeled keratin booster. figures they planned for our parts to break down. took a sip. after a while the old layers started flaking off like fur. underneath, they felt sharper. stronger. it was weirdly satisfying watching the worn parts peel away. i like how my claws let me grip the walls better\n<>\ni remembered the humans. they had nails on every finger. all of them. no claws at all. it looked so wrong up close. soft. blunt. freaky how they managed anything with hands like that.\n<>\ni used to think that made them weak.\n<>\nnow i wonder if that was the point.",
-                "Item2": "",
-                "Item3": "experiment"
-            },
-            {
-                "Item1": "It's full of all kinds of critters that constantly roam around everywhere. I'm a bit of a pacifist, so I try running away from them, rather than fighting them, as I don't know who's gonna kill whom first... After all, the wounds they leave in me hurt like hell... I don't know anymore... Do our captors even know what we're going through down here?",
+                "Item1": "Putosin pahasti. TODELLA pahasti. Suoraan kuoppaan enkä pystynyt kiipeämään tai kaivamaan sieltä ulos vammojeni takia. Mutta pääsin pois näillä metalliromun palasilla, ja haluan kertoa tämän muillekin.\n\nSe on luolan seinät! Mikään mitä olen löytänyt – edes dynamiitti – ei näytä pystyvän läpäisemään luolien ulkorajoja. Mutta ne ovat epätasaisia, ja jos kasaat tarpeeksi metalliromun palasia päällekkäin, voit kiilata ne näihin pieniin rakoihin ja tehdä kokonaisen romusta tehdyn jalansijan. Kun vuodin verta tuossa pimeässä kuopassa, käytin keräämiäni romuja eräänlaisen portaikon rakentamiseen paetakseni ja löytääkseni hätätarvikkeita.\n\nToivottavasti et koskaan joudu samaan tilanteeseen. Ehkä voisit käyttää tätä temppua suojautuaksesi loukkaantumisilta alun perinkin? Kuka tietää mitä muita ikäviä asioita täällä on kanssamme.\n\nEhkä saavutat minut ja voimme jakaa strategioita.\nToivon olevani siellä tapaamassa sinua.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "I took a bad fall. REAL bad. Right into a hole and couldn't climb or dig out of with my injuries. But I made it out with these bits of scrap metal, and want to let others know this, too. \n\nIts the cavern walls! Nothing I've found- even dynamite -seems to be able to penetrate the outer boundaries of the caverns. But they are uneven, and if you stack enough bits of scrap metal on top of each other, you can wedge them in these tiny gaps and make an entire scrap foothold. When I was bleeding out in that dark hole, I used my collected debris to make a sort of staircase to escape and find emergency supplies.\n\nI hope you never wind up in that situation, though. Maybe you could use this trick to protect you from injury in the first place? Who knows what other nasty things are in here with us. \n\nMaybe you'll catch up to me and we can share strategies. \nI hope I'll be there to meet you.",
+                "Item1": "Tunnen oloni yksinäiseksi... joten päätin häiritä ajatuksiani:\nLöysin jonkinlaisen pienoistelekopiokoneen jonka sain murskattua auki, ja vedin sieltä paperiarkit ulos. Sitten otin kepin ja puristin yhden hohtavan hedelmän päälle. Siitä tuli kuin sivellin ja piirustuskangas! Jospa tietäisitte... Aloin piirtää vaihtoehtoisia todellisuuksia joissa olemme vapaita ja elämme rauhassa yhdessä; ilman noita tieteilijäpaskiaisia... Tunsin oloni niin onnelliseksi, ja itkin vähän.\nMutta nyt minun täytyy mennä: nälkä iskee! Ehkä jos tapaamme toisemme, piirrän sinutkin...? Olen tullut todella hyväksi \"siveltimen\" käytössä. Yritän opettaa muitakin piirtämään...",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "I'm feeling lonely... so I decided to distract myself:\nI found some kind of miniature fax that I was able to crush open, and I pulled its paper sheets out. Then I took a stick, and squeezed one of the glowy fruits onto it. It turned out like a brush and drawing canvas! If only you know... I started drawing alternate realities where we're free and live peacefully together; without those scientist scumbags... I felt so happy, and cried for a bit.\nBut now I have to go: feeling peckish! Maybe if we meet each other, I'll draw you, too...? I got really good at using the \"brush\". I'll try teaching the others to draw, too...",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "I'm not very strong, so I've been hoping to team up with others. We'd have a much higher chance of survival that way, but nobody I've asked is interested. Everyone is scared and some of us are dangerous. There are so many traps that it's impossible to travel in large groups. I know I'm going to die for a completely stupid reason...\n\nHumans are so cruel. I can't understand it.",
+                "Item1": "En ole kovin vahva, joten olen toivonut voivani liittoutua muiden kanssa. Meillä olisi paljon paremmat selviytymismahdollisuudet sillä tavalla, mutta kukaan keneltä olen kysynyt ei ole kiinnostunut. Kaikki ovat peloissaan ja jotkut meistä ovat vaarallisia. Ansoja on niin paljon että suurissa ryhmissä matkustaminen on mahdotonta. Tiedän kuolevani täysin typerästä syystä...\n\nIhmiset ovat niin julmia. En voi ymmärtää sitä.",
                 "Item2": "",
                 "Item3": "milky"
             },
