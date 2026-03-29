@@ -1106,6 +1106,43 @@
         "experienceatstart": "Kokemus taitotason alussa",
         "experienceatend": "Kokemusta seuraavalle taitotasolle",
         "currentexperience": "Nykyinen taitokokemus",
+        "missiontime": "Layer time left",
+        "air": "Air",
+        "lightrock": "Light rock",
+        "gravel": "Gravel",
+        "scrappile": "Scrap pile",
+        "trashpile": "Trash pile",
+        "concretetile": "Concrete tile",
+        "steeltile": "Steel tile",
+        "glass": "Glass",
+        "rubber": "Rubber",
+        "plastic": "Plastic",
+        "heatresistantalloy": "Heat-resistant alloy",
+        "wood": "Wood",
+        "sand": "Sand",
+        "sandstone": "Sandstone",
+        "infinirock": "Infinirock",
+        "clay": "Clay",
+        "soil": "Soil",
+        "granite": "Granite",
+        "marble": "Marble",
+        "limestone": "Limestone",
+        "bricks": "Bricks",
+        "scaffolding": "Scaffolding",
+        "toxirock": "Toxirock",
+        "grass": "Verdure",
+        "log": "Log",
+        "leaves": "Leaves",
+        "snow": "Snow",
+        "ice": "Ice",
+        "thinice": "Thin ice",
+        "powdersnow": "Powder snow",
+        "heavyrock": "Heavy rock",
+        "fungus": "Fungus",
+        "mushroomcap": "Mushroom",
+        "mushroombody": "Mushroom",
+        "copper": "Copper",
+        "ilmenite": "Ilmenite",
         "lrdserum": "L.R.D.-seerumi",
         "lrdserumdsc": "Erikoisseos, jota paikallinen elvytyslaite käyttää. Ei tee mitään jos pistetään muilla välineillä.",
         "cleanwater": "Puhdas vesi",
@@ -1747,7 +1784,7 @@
                 "En ole nähnyt noiden avautuvan pitkään aikaan.",
                 "Perkele. Tästä tulee helvetin kauheaa.",
                 "Tästä tulee hauskaa.",
-                "Mene alas... Etsi se juttu jos löydän sen... Okei...",
+                "Mene alas... Etsi se juttu jos löydän sen... Okei..."
             ],
             "eatGood": [
                 "Mmm!",
@@ -1784,7 +1821,7 @@
                 "Herkullista...",
                 "Mmm, kivaa...",
                 "Juuri sitä mitä tarvitsin...",
-                "Mmmmm, hyvää...",
+                "Mmmmm, hyvää..."
             ],
             "eatMediocre": [
                 "Ehh...",
@@ -1820,7 +1857,7 @@
                 "Eh...",
                 "Meh.",
                 "?"
-            ],
+
             "eatBad": [
                 "Yok!",
                 "Ahh! Mitä tämä on!",
@@ -1856,7 +1893,7 @@
                 "Oyook! Ei! Hyii!",
                 "Kuvottavaa!",
                 "En halunnut syödä tätä.",
-                "Mitä VITTUA minä SYÖN!?",
+                "Mitä VITTUA minä SYÖN!?"
             ],
             "refuseEat": [
                 "En syö tätä.",
@@ -1875,7 +1912,7 @@
                 "En laita tuota suuhuni ENKÄ edes LÄHELLE suutani.",
                 "Älä edes ajattele sitä.",
                 "En anna häiritsevien ajatusten voittaa.",
-                "Yök. Vitut siitä.",
+                "Yök. Vitut siitä."
             ],
             "tired": [
                 "*haukotus*",
@@ -1900,7 +1937,7 @@
                 "Olisi kiva käydä pitkälleen.",
                 "Minua nukuttaa...",
                 "Ehkä tämä riittää tältä päivältä...?",
-                "Nukuttaa...",
+                "Nukuttaa..."
             ],
             "verytired": [
                 "Ughhh....",
@@ -1973,7 +2010,7 @@
                 "Silmät auki...",
                 "Hereillä ja valppaana...",
                 "Hei, maailma...",
-                "Taas...",
+                "Taas..."
             ],
             "sick": [
                 "Vatsaani sattuu...",
@@ -2090,7 +2127,7 @@
                 "Riittää ruokaa.",
                 "Taitaa alkaa oksettaa...",
                 "Taisin syödä liikaa...",
-                "Olen täynnä!",
+                "Olen täynnä!"
             ],
             "hungry": [
                 "Pieni pala tekisi hyvää.",
@@ -2114,7 +2151,7 @@
                 "Ruokaa?",
                 "Onko mitään syötävää?",
                 "Mitään ruokaa? Minulla on nälkä.",
-                "Haluan ruokaa.",
+                "Haluan ruokaa."
             ],
             "starving": [
                 "Olen nälissäni.",
@@ -2144,7 +2181,7 @@
                 "Uuuugh. Haluan todella syödä jotain.",
                 "Vatsani on todella tyhjä.",
                 "Ghh... NÄÄNNYN NÄLKÄÄN!!",
-                "Kehoni kuihtuu pois...",
+                "Kehoni kuihtuu pois..."
             ],
             "thirsty": [
                 "Minulla on jano.",
@@ -2165,7 +2202,7 @@
                 "Vettä?",
                 "Juoma olisi paikallaan.",
                 "Haluaisin sammuttaa janoni.",
-                "Vähän vettä olisi mukavaa.",
+                "Vähän vettä olisi mukavaa."
             ],
             "dehydrated": [
                 "Olen todella kuivunut.",
@@ -2188,7 +2225,7 @@
                 "Ei vettä...",
                 "Vettä? Olkaa hyvä...",
                 "Olen niin kuivunut...",
-                "Tuntuu kuin kuivuisin kokoon ja kuolisin...",
+                "Tuntuu kuin kuivuisin kokoon ja kuolisin..."
             ],
             "limbmuscle": [
                 "En voi liikuttaa <limb>!",
@@ -2284,7 +2321,7 @@
                 "Kunpa täällä olisi joku...",
                 "Eristäytyminen alkaa painaa.",
                 "Minua pelottaa.",
-                "Onko tämä nyt elämäni tästä eteenpäin?",
+                "Onko tämä nyt elämäni tästä eteenpäin?"
             ],
             "gloomy": [
                 "Voisi mennä paremminkin.",
@@ -2325,7 +2362,7 @@
                 "Minua todella pelottaa...",
                 "Vittu tätä, hemmetti... Ugh...",
                 "Haluan todella pois täältä.",
-                "Olen onneton...",
+                "Olen onneton..."
             ],
             "depressed": [
                 "En kestä tätä enää.",
@@ -2767,7 +2804,7 @@
                 "Ei tehdä tuota uudestaan...",
                 "Minussa on verta joka paikassa... Hyi...",
                 "Tuo oli yksi meikäläisistä...",
-                "OLIKO minun pakko tehdä tuo..? H-hyi...",
+                "OLIKO minun pakko tehdä tuo..? H-hyi..."
             ],
             "cold": [
                 "Täällä on kylmä.",
@@ -2784,7 +2821,7 @@
                 "Brrr...",
                 "On hieman viileää.",
                 "Täällä nipistää!",
-                "Minulla on kylmä.",
+                "Minulla on kylmä."
             ],
             "warm": [
                 "Täällä on vähän kuuma.",
@@ -2889,7 +2926,7 @@
                 "Kylmää...",
                 "Niin kylmää...",
                 "Jäädyn!",
-                "Jäätymässä...",
+                "Jäätymässä..."
             ],
             "emaciated": [
                 "Olen niin laiha... Olo on heikko.",
@@ -2908,7 +2945,7 @@
                 "...Enkö ole hieman ylipainoinen?",
                 "Minun täytyy pudottaa muutama kilo.",
                 "Näen rasvan kertyvän päälleni...",
-                "En voi jatkaa syömistä näin paljon.",
+                "En voi jatkaa syömistä näin paljon."
             ],
             "opiated": [
                 "Taisin huumaantua...",
@@ -3063,7 +3100,7 @@
                 "Nffgh...",
                 "Aaawgh!",
                 "Ngghhh...",
-                "Ough!",
+                "Ough!"
             ],
             "bigpain": [
                 "OW!!!",
@@ -3112,7 +3149,7 @@
                 "AAHHHHJG!",
                 "AAAAACK!",
                 "AAH!",
-                "AAAAAAAAAAHHH!",
+                "AAAAAAAAAAHHH!"
             ],
             "hitbycreature": [
                 "AAAHHHHH!",
@@ -3135,7 +3172,7 @@
                 "AAAAAAAHHHHH!! VITTUUUUU!!",
                 "EIEIEIEI-AAAAAAAHHHHHH!",
                 "!!!!!!!!",
-                "AAAAAAAHHHH!!!!!",
+                "AAAAAAAHHHH!!!!!"
             ],
             "wet": [
                 "Olen läpimärkä...",
@@ -3178,7 +3215,7 @@
                 "Guh! Olen kokonaan lian peitossa.",
                 "Turkissani on nokea.",
                 "Olo on likainen. Tarvitsen todella kylvyn tai jotain...",
-                "Suihku olisi paikallaan!",
+                "Suihku olisi paikallaan!"
             ],
             "encumbered": [
                 "Kannan vähän liikaa.",
@@ -3214,13 +3251,13 @@
                 "GAH! Paska! Korvani!",
                 "AHHH! Vittu... Korvissani soi...",
                 "PERKELE! ... Auutshh... Se oli niin kovaa...",
-                "EI!!! Voi vittu, hemmetti... Aghhh, se oli kovaa...",
+                "EI!!! Voi vittu, hemmetti... Aghhh, se oli kovaa..."
             ],
             "murderregret": [
                 "Miksi... Miksi tein tuon..? V-vittu...",
                 "Gh... Luoja... Miksi..?",
                 "Minä... Se oli kamalaa.. Olen hirviö...",
-                "Nhh... Miksi... Miksi? Tuo oli yksi meistä...",
+                "Nhh... Miksi... Miksi? Tuo oli yksi meistä..."
             ],
             "tradeemeet": [
                 "Hei!",
@@ -3404,7 +3441,7 @@
                 "NGH!",
                 "VITTU.",
                 "Vittu. Vittu. Vittu!",
-                "SINÄ!",
+                "SINÄ!"
             ],
             "braindamaged": [
                 "Maistan metallia.",
