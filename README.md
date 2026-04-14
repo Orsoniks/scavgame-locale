@@ -9,7 +9,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [Français (FR)](/FR.json)  | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick)                                 |                                                                             |
 | [Русский (RU)](/RU.json)   | [Tairel](https://github.com/Tairelol), [olv](https://github.com/Ol1vver), [Flam3masterr](https://github.com/Flam3masterr)                                         |
 | [Беларускі (BY)](/BY.json)   | [Russian kid](https://github.com/Russiankids)   |
-| [Português (PT)](/PT.json) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar)       |
+| [Português (PT)](/PT-BR.json) | [Jeffinp](https://github.com/Jeffinp), [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar)       |
 | [Polski (PL)](/PL.json)   | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik)                                                                             |
 | [Español (ES)](/ES.json)   | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45)                                                                             |
 | [Deutsch (DE)](/DE.json)   | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ)                                                                               |
