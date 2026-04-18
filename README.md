@@ -15,7 +15,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [Deutsch (DE)](/DE.json)   | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ)                                                                               |
 | [اَلْعَرَبِيَّةُ (AR)](/AR.json)   | [Enderwolf](https://github.com/Enderw0lf)    |
 | [简体中文 (zh-CN)](/ZH.json)   | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr                                                                       |
-| [繁體中文 (zh-TW)](/zh-TW.json)   | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D)                                                                           |
+| [繁體中文 (zh-TW)](/zh-TW.json)   | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205)                                                                           |
 | [한국어 (KO)](/KO.json)     | [muqhc](https://github.com/muqhc), [DrawinDarwin](https://github.com/DrawinDarwin), [Kedr2806](https://github.com/Kedr2806)                            |
 | [Română (RO)](/RO.json)    | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan)                            |
 | [Italiano (IT)](/IT.json)   | [LorgamerPizza](https://github.com/lorgamerpizza-code),chaosussy        |
