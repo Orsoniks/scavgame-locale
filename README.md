@@ -9,7 +9,6 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [Français (FR)](/FR.json)  | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick)                                 |                                                                             |
 | [Русский (RU)](/RU.json)   | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm)                                         |
 | [Русский-альтернативный (RU-alt)](/RU(alt).json) | [voidslugcat](https://github.com/voidslugcatik) |
-
 | [Беларускі (BY)](/BY.json)   | [Russian kid](https://github.com/Russiankids)   |
 | [Português (PT)](/PT.json) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar)       |
 | [Polski (PL)](/PL.json)   | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik)                                                                             |
