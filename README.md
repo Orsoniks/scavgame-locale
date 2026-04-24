@@ -23,6 +23,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [Ukrainian (UA)](/UA.json)   | [Vladorion737](https://github.com/vladorion737)        |
 | [日本語 (JP)](/ja-JP.json)   | [marui-neko](https://github.com/marui-neko)        |
 | [Suomi (FI)](/FI.json)   | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk)        |
+| [Toki Pona (TOK)](/TOK.json) and [󱥬󱥔󱤙󱥠󱥔](/TOK-SP.json)   | [EGAMatsu/Funny Man 9000](https://github.com/EGAMatsu), [Razzon22](https://github.com/Razzon22)        |
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera)
