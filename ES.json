@@ -1445,7 +1445,7 @@
         "dislocationMinigameGuide": "Coloca el hueso en el lugar correcto para corregir la dislocación.\nUsar una llave inglesa dolerá mucho menos.",
         "amputationMinigameGuide": "Sierra la extremidad en su totalidad para amputarla. Asegúrate de detener el sangrado luego de la operación.",
         "aedMinigameGuide": "Siga las instrucciones en pantalla.",
-        "manualDefibMinigameGuide": "Ajuste la potencia proporcionalmente al ciclo de fibrilación en el que se encuentra el corazón. Carga y luego, descarga. Repítalo si es necesario.\nEl valor estimado (POW.EST) se vuelve más precis a mayor nivel en INT.",
+        "manualDefibMinigameGuide": "Ajuste la potencia proporcionalmente al ciclo de fibrilación en el que se encuentra el corazón. Carga y luego, descarga. Repítalo si es necesario.\nEl valor estimado (POW.EST) es más preciso a mayor nivel en INT.",
         "aedstate0": "Coloque las almohadillas en las posiciones indicadas.",
         "aedstate1": "Analizando pulso",
         "aedstate2": "Se recomienda descarga.\nPresiona el botón para descargar.",
