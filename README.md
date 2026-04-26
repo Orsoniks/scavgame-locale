@@ -24,6 +24,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 | [日本語 (JP)](/ja-JP.json)   | [marui-neko](https://github.com/marui-neko)        |
 | [Suomi (FI)](/FI.json)   | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk)        |
 |[Español España (es-ES)](/ESca.json)  | [Maksklv2010](https://github.com/Maksklv2010),  [Thursday](https://github.com/Fhursday).        |
+|[ไทย (th-TH)](/th-TH.json)  | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung)        |
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera)
