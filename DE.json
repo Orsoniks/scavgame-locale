@@ -2662,7 +2662,7 @@
                 "Hahaha...",
                 "Ooohhh Junge...",
                 "Es wird alles bald vorbei sein. Versprochen.",
-                "Ich war tod ab dem Moment als ich meine Kapsel verlies."
+                "Ich war tot ab dem Moment als ich meine Kapsel verlies."
             ],
             "selfharm": [
                 "Hahahaha... FUCK alter... Tut das gut...",
@@ -2904,7 +2904,7 @@
                 "Hast du irgendetwas Brauchbares, Kumpel?",
                 "Es sind so viele...",
                 "Ich glaube ich gewöhne mich langsam an den Anblick.",
-                "Ich glaube inzwischen zählt das schon als Völkermord...",
+                "Ich glaube inzwischen zählt das schon als Genozid...",
                 "So viele unschuldige Leben... ausgelöscht...",
                 "Der hier sieht komisch aus.",
                 "Ich hab mittlerweile eine Menge von denen gesehen.",
@@ -2934,8 +2934,8 @@
                 "Uuuunnnd noch eine...",
                 "...Jep, das ist eine weitere Leiche!",
                 "Mehr Leichen...",
-                "Für einen Moment dachte ich, ich würde ihn erkennen...",
-                "So viele tote...",
+                "Für einen Moment dachte ich, ich hätte sie erkannt...",
+                "So viele Tote...",
                 "So langsam wird es langweilig.",
                 "Ich bin erschüttert wie viele von uns hier gestorben sind.",
                 "....",
@@ -2959,7 +2959,7 @@
                 "Freund! Neeeiiin.. Kein Freund...",
                 "Das ist nicht hygienisch.",
                 "Ich glaube nicht dass er seinen Aufenthalt genossen hat.",
-                "Pfui, du stinkst! Geh duschen alter...",
+                "Pfui, du stinkst! Geh duschen Alter...",
                 "Mmh...",
                 "Eine weitereeeee...",
                 "Die alle nach und nach zu sehen ist traurig.",
@@ -2970,7 +2970,7 @@
             "seecorpsesuicidal": [
                 "Ich schließ mich dir bald an.",
                 "Nicht mehr lange bis ich auch so ende.",
-                "Ich wünschte ich wäre an seiner Stelle.",
+                "Ich wünschte ich wäre an deiner Stelle.",
                 "Alles wird bald vorbei sein.",
                 "Vielleicht wäre ich auf der anderen Seite nicht so unglücklich.",
                 "Gott, ich will auch einfach nur noch sterben...",
@@ -2993,9 +2993,9 @@
             "breakcorpse": [
                 "Warum habe ich das getan... Ew...",
                 "Das ist ekelhaft... Ich will das nicht noch mal machen.",
-                "Ew!!!",
+                "Bah!!!",
                 "Demoralisierend.",
-                "Ist das zum kotzen.",
+                "Ist das zum Kotzen.",
                 "Ich würde es vorziehen zufällig gefundene Leichen nicht zu zerstückeln...",
                 "So eine Scheiße. Ugh.",
                 "Ekelhaft!!! Argh...",
@@ -3180,7 +3180,7 @@
                 "Ich fühle mich besser... Ohh... ja...",
                 "Zeit meine Sorgen einzustellen...",
                 "Ich könnte... das öfter tun!...",
-                "freeeeiiiiihheeeeeiiiiitt...",
+                "Freeeeiiiiihheeeeeiiiiitt...",
                 "Danke dafür, alberne Medizin...",
                 "Ich muss aufhören mir Sorgen zu machen... aufhören zu denken...",
                 "Nur um... mich von dieser Situation abzulenken...",
@@ -3281,7 +3281,7 @@
                 "Argh! Mein<limb>! Irgendetwas stimmt ganz und gar nicht.",
                 "Ich brauche was gegen die Schmerzen...",
                 "Ich sollte es eine Weile langsam angehen lassen... Mein<limb> tut höllisch weh.",
-                "Fuck- Warte... Mein<limb>... Ahh...",
+                "Scheiße- Warte... Mein<limb>... Ahh...",
                 "Mein<limb> ist so wund..."
             ],
             "hitgroundhard": [
@@ -3353,8 +3353,8 @@
                 "AAAHHHHH!",
                 "AAAAAAAAHHHHH!",
                 "AHHH!! FUCK!!!",
-                "GAAAHHHHHH!!! NEHMT ES WEG!",
-                "NEHMT ES RUNTER VON MIR! AAHHHH!",
+                "GAAAHHHHHH!!! NIMM ES WEG!",
+                "RUNTER VON MIR! AAHHHH!",
                 "HAU AB!",
                 "AAAAAAAAAAAAAA!",
                 "STOP!!! AAHHHHHH!",
@@ -3376,7 +3376,7 @@
                 "Ich bin klitschnass...",
                 "Ich bin durchnässt!",
                 "Ich bin völlig durchnässt.",
-                "Urgh Da ist Wasser auf meinem Fell...",
+                "Urgh Da ist Wasser in meinem Fell...",
                 "Ich bin so nass... Ugh...",
                 "Ich bin von oben bis unten Nass!",
                 "Mein Fell ist FEUCHT.",
@@ -3437,12 +3437,12 @@
                 "Bin etwas zu viel am horten... All die Ausrüstung ist schwer."
             ],
             "watchlike": [
-                "Ich mag dieses Uhren-Dingens. Ist praktisch."
+                "Ich mag dieses Uhren-Dingsbums. Ist praktisch."
             ],
             "drillend": [
                 "...Das hat eine Weile gedauert.",
                 "Ich schwöre, das Ding hatte keine Schalldämmung.",
-                "ziemlich lange Fahrt hier.."
+                "Ziemlich lange Fahrt hier.."
             ],
             "loud": [
                 "FUCK! Das war laut...",
@@ -3501,7 +3501,7 @@
                 "Aghh! Hey! Nicht anfassen!",
                 "Ich passe...",
                 "Nein danke.",
-                "Wa- Hey! Nimm deine Pfoten weg.",
+                "Wa- Hey! Nimm deine Pfoten weg!",
                 "Hey! Fass mich nicht an! Ich vertraue dir nicht."
             ],
             "traderhagglesuccess": [
@@ -3609,8 +3609,8 @@
             "traderseegun": [
                 "...Woah moment! Steck die Waffe weg, Mann... wie auch immer.",
                 "Hey! Was soll die Waffe? Steck sie weg, bitte. ...Also.",
-                "Ich hoffe du benutzt diese Waffe nicht, haha.",
-                "Ey, ich habe keine Waffe, also steck deine weg, Kumpel."
+                "Ich hoffe du benutzt diese Waffe nicht, haha...",
+                "Ey Kumpel, ich habe keine Waffe, also steck deine weg."
             ],
             "tradermeetimpairedspeech": [
                 "...Häh? Was? Hast du irgendwas in deinem Mund? Ich kann dich nicht verstehen...",
@@ -3653,7 +3653,7 @@
                 "Das stimmt was nicht. Ich fühle einen metallischen Geschmack...",
                 "Weder etwas Wütendes noch etwas Glückseliges geringfügig?",
                 "Un Niemand der sich für das Erfinden mittels vieler trocknet.",
-                "Aber natürlich! Dynamik zwei null neun zweiundvierzig dre zwo zwo acht zwei siben.",
+                "Aber natürlich! Dynamik zwei null neun zweiundvierzig drei zwo zwo acht zwei sieben.",
                 "Schloss hastig des hoho! Auf niemanden?",
                 "Gut! Gewiss jemand sich selbst dringend!",
                 "Denn wie seltsam ihn drängen es der Kumpel Ratten! Meines ihrselbst genau richtig.",
@@ -3732,7 +3732,7 @@
                 "Du hast geschlafen wie ein Welpe, haha..."
             ],
             "tradergiveitem": [
-                "Danke schön.",
+                "Dankeschön.",
                 "Das wird noch nützlich sein.",
                 "Danke für diesen Beitrag.",
                 "Ich nehme das.",
@@ -3785,12 +3785,12 @@
             ],
             "traderbuyfailmaxvalue": [
                 "Genug Handel für heute. Du hast schon sehr viel Gekauft.",
-                "Ich möchte nicht unser ganzes Eigentum gründlich austauschen. Machen wir Schluss für heute."
+                "Ich möchte nicht unser ganzes Eigentum austauschen. Machen wir Schluss für heute."
             ],
             "traderthreatensuccess": [
                 "Es liegt nicht in meinem Interesse verletzt zu werden. Nimm was auch immer und geh.",
                 "Na schön. Such dir etwas aus und verlasse bitte meine Kapsel.",
-                "Ich hoffe Unglück wartet auf dich. Na gut. Nimm was und geh.",
+                "Ich hoffe das Unglück wartet auf dich. Na gut. Nimm was und geh.",
                 "Du bist eine schreckliche Person, weißt du das?",
                 "So löst du also deine Probleme. Mhm. Na gut.",
                 "Musste es wirklich so weit kommen? Du solltest es besser wissen... Ugh. Na schön.",
@@ -3798,13 +3798,13 @@
             ],
             "traderwarning": [
                 "Hau ab. Sofort.",
-                "Deine Anwesenheit wird nicht geschätzt. Geh.",
+                "Deine Anwesenheit wird nicht erwünscht. Geh.",
                 "RAUS.",
                 "Glaubst du ich mein das nicht ernst? Raus.",
                 "Raus. Hier.",
                 "Bitte. Geh wieder.",
                 "Verschwinde.",
-                "Ich habe im Moment keine Nerven übrig für dich.",
+                "Ich habe keine Nerven übrig für dich.",
                 "Bitte lass meine Kapsel in Ruhe. Ich war zuerst hier."
             ],
             "tradercombat": [
@@ -4412,7 +4412,7 @@
                 "Item3": "experiment"
             },
 			{
-                "Item1": "Ich möchte diesen Ort verlassen, ich bin traumatisiert, mir fehlen die Worte um zu beschreiben was ich gerade erlebt habe, es war eine große, entsetzliche Kreatur mit Hunderten von Zähnen, bereit mich zu verschlingen, sie hat mich eine gefühlte Ewigkeit lang gejagt, sie zerstört alles was ihr in den Weg kommt. Sie hörte erst auf als ich so weit weg war, dass ich mich schon völlig verirrt hatte, das hat mich viel gekostest, Essen, Wasser, Werkzeuge, selbst meine geistige Gesundheit, ich will einfach nur das es aufhört.",
+                "Item1": "Ich möchte diesen Ort verlassen, ich bin traumatisiert, mir fehlen die Worte um zu beschreiben was ich gerade erlebt habe. Es war eine große, entsetzliche Kreatur mit Hunderten von Zähnen, bereit mich zu verschlingen und sie hat mich eine gefühlte Ewigkeit lang gejagt. Sie zerstört alles was ihr in den Weg kommt. Sie hörte erst auf als ich so weit weg war, dass ich mich schon völlig verirrt hatte. Das hat mich viel gekostest, Essen, Wasser, Werkzeuge, selbst meine geistige Gesundheit, ich will einfach nur das es aufhört.",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "milky"
             }
@@ -4441,7 +4441,7 @@
 				"Item3": "milky"
 			},
             {
-                "Item1": "Ich weiß nicht was mich getroffen hat aber ich kann mein Bein nicht mehr spüren, alles was ich sehe ist ein Wirrwarr aus Muskeln Knochen und Blut\nmein körper schreit nach einem ende dieser qualen \ndas Einzige was ich habe ist dieses blaue gerät auf meiner brust. Der Händler bei dem ich es gekauft habe sagte mir man solle es nur in notfällen benutzen.\nDer Schmerz ist nicht mehr unerträglich, aber das Licht blinkt jetzt. Ich weiß nicht wie lange ich noch habe. wird die dunkelheit zurückkehren wenn dieses ding leer ist? Ich will nicht dahinschwinden...",
+                "Item1": "Ich weiß nicht was mich getroffen hat aber ich kann mein Bein nicht mehr spüren, alles was ich sehe ist ein Wirrwarr aus Muskeln, Knochen und Blut\nmein Körper schreit nach einem Ende dieser Qualen \ndas Einzige was ich habe ist dieses blaue Gerät auf meiner Brust. Der Händler bei dem ich es gekauft habe sagte mir man solle es nur in Notfällen benutzen.\nDer Schmerz ist nicht mehr unerträglich, aber das Licht blinkt jetzt. Ich weiß nicht wie lange ich noch habe. Wird die Dunkelheit zurückkehren wenn dieses Ding leer ist? Ich will nicht dahinschwinden...",
                 "Item2": "",
                 "Item3": "milky"
             }
