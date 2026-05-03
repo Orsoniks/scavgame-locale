@@ -1,6 +1,6 @@
 {
-    "name": "Italian",
-	"description": "Traduzione non ufficiale. Lingua italiana versione v.6.0 (beta)steam-relase. Completa. \nSe trovate errori, è apprezzato qualsiasi feedback o modifica/aggiornamento. \n\nCrediti:\n@LorgamerPizza (dialoghi, note e PDA originali, effetti di stato, tutorial, e aggiornamento a v6.0)\n@chaosussy (oggetti, strutture, nome livelli originali, varie)\n\nUltime modifiche 21/04/26:\nAggiornamento a versione 6.0. Miglioramento dialoghi. Correzione errori grammaticali vari.",
+    "name": "Italiano",
+	"description": "Traduzione non ufficiale. Lingua italiana versione v.6.1(beta-build) steam-demo. Completa. \nSe trovate errori, è apprezzato qualsiasi feedback o modifica/aggiornamento. \n\nCrediti:\n@LorgamerPizza (dialoghi, note e PDA originali, effetti di stato, tutorial, e aggiornamento a v6.0)\n@chaosussy (oggetti, strutture, nome livelli originali, varie)\n\nUltime modifiche 03/05/26:\nAggiornamento a versione 6.1. Correzione errori.",
     "main": {
         "bandage": "Benda",
         "bandagedsc": "Un panno arrotolato con delle bende, utile per rallentare il sanguinamento, stabilizzare fratture e migliorare la guarigione della pelle. Non ha effetto sul danno muscolare.",
