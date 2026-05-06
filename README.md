@@ -1,5 +1,19 @@
 Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https://github.com/Orsoniks)
 
+## Installing
+
+To install a locale:
+1. Download the JSON file for your locale from this repository.
+2. Go to *Casualties: Unknown*'s install path.
+   - For Steam: Library -> Right click on *Casualties: Unknown* -> Manage -> Browse local files
+3. Place the JSON file under the `CasualtiesUnknown_Data/Lang` folder, next to `EN.json`.
+
+If done correctly, your new locale should appear as an option on the main menu, in the top right corner.
+
+## Contributing
+
+Please read the [contribution guidelines](/.github/CONTRIBUTING.md) for ways in which you can contribute to existing or new localizations.
+
 ## Locales
 
 | File | Contributors |
