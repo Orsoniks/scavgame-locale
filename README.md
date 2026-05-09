@@ -36,7 +36,7 @@ Please read the [contribution guidelines](/.github/CONTRIBUTING.md) for ways in 
 | [Română (România)](/ro-RO.json) | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan) |
 | [Русский (Россия)](/ru-RU.json) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm) |
 | [ไทย (ไทย)](/th-TH.json) | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung) |
-| [Українська (Україна)](/uk-UA.json) | [Vladorion737](https://github.com/vladorion737) |
+| [Українська (Україна)](/uk-UA.json) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati) |
 | [简体中文 (中国)](/zh-CN.json) | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘 |
 | [繁體中文 (台灣)](/zh-TW.json) | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
 
