@@ -1650,6 +1650,7 @@
         "indifferenttip": "Normal prices and rep gain",
         "wantskeeptip": "Increased prices and no rep gain",
         "costs": "<sprite index=9>Costs ",
+	"weighs": "<sprite index=0>Weighs ",
         "purchase": "Purchase",
         "trade": "Give to trader",
         "reputationtip": "Reputation",
