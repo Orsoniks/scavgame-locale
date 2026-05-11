@@ -21,7 +21,7 @@ Please read the [contribution guidelines](/.github/CONTRIBUTING.md) for ways in 
 | [English (**Reference**)](/EN.json) | [Orsoniks](https://github.com/Orsoniks) |
 | [العربية (العالم العربي)](/ar-001.json) | [Enderwolf](https://github.com/Enderw0lf) |
 | [Беларуская (Беларусь)](/be-BY.json) | [Russian kid](https://github.com/Russiankids) |
-| [Deutsch (Deutschland)](/de-DE.json) | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ) |
+| [Deutsch (Deutschland)](/de-DE.json) | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
 | [Español (Latinoamérica)](/es-419.json) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG) |
 | [Español (España)](/es-ES.json) | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday) |
 | [Suomi (Suomi)](/fi-FI.json) | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
