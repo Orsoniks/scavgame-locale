@@ -1,6 +1,6 @@
 {
     "name": "한국어",
-    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n<color=\"white\">----------------------------------------------------------------------</color>\n번역 제작자\n\n<color=\"white\">진돌이(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
+    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n<color=\"white\">----------------------------------------------------------------------</color>\n번역 제작자\n\n<color=\"white\">A토픽(topicular)</color> <color=\"yellow\">https://github.com/metnias</color>\n<color=\"white\">진돌이(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
     "main": {
         "bandage": "붕대",
         "bandagedsc": "출혈을 늦추고 골절을 안정시키며 피부 치유를 돕는 붕대 한 뭉치. 근육 건강에는 효력이 없다.",
@@ -675,7 +675,7 @@
         "sandrose": "샌드 로즈",
         "sandrosedsc": "모서리가 둥근 직사각형 모양의 큰 물건이 여러 개 자라난 듯 보이는 이상하게 아름다운 식물.",
         "scrapeater": "고철 투입구",
-        "scrapeaterdsc": "\"고철을 투입해 여십시오\"라는 문구가 적힌 라벨이 붙어있다. 그 옆 작은 화면에 <color=#fff>\"<>%\"</color>라 떠 있다.",
+        "scrapeaterdsc": "\"고철을 투입해 여십시오\"라는 문구가 적힌 라벨이 붙어있다. 그 옆 작은 화면에 <color=#ffffff>\"<>%\"</color>라 떠 있다.",
         "shuttledoor": "셔틀 문",
         "shuttledoordsc": "안에 있는 것과 밖에 있는 것을 확실하게 구분 짓게끔 하는 커다란 강철판.",
         "shuttleelevator": "셔틀 엘리베이터",
@@ -914,6 +914,7 @@
         "impendingdoom": "불길한 예감",
         "horrified": "공포",
         "focused": "몰두",
+        
         "braindamage4dsc": "...",
         "braindamage3dsc": "현 실 감각이점... 점멀어진 다.",
         "braindamage2dsc": "심한 정신적 장애. 사고 능력과 자립성이 결핍된다. 심각한 뇌 손상이 우려됨.",
