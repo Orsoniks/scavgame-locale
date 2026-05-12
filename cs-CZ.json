@@ -1,6 +1,6 @@
 {
     "name": "Čeština",
-    "description": "POTŘEBUJETE QoL: Unknown (<color=\"blue\">https://github.com/jimmyking9999999/QoL-Unknown</color>) MOD PRO ČESKÉ ZNAKY. Pokud vidíte písmeno Ž tak funguje >w<. Hi, Hello, Welcome, This is the Czech translation for the game. If you find any mistakes, please report them to me. Its for the latest version of the game (6.1. I think >w<) I used the few alredy translated items from now deleted file made by @TheOneWhoBuilds1.",
+    "description": "WORK IN PROGRESS! Bohužel nejde 'písmeno Z s háčkem' ale s tím nic neudělám QwQ. Hi, Hello, Welcome, This is the Czech translation for the game. If you find any mistakes, please report them to me. Its for the latest version of the game (6.1. I think >w<) I used the few alredy translated items from now deleted file made by @TheOneWhoBuilds1. Ver: 1.0",
     "main": {
         "bandage": "Obvaz",
         "bandagedsc": "Role obvazu s bandáží, která se používá ke zpomalení krvácení, stabilizaci zlomenin a podpoře hojení kůže. Nemá žádný vliv na zdraví svalů.",
@@ -122,7 +122,7 @@
         "syringedsc": "100ml stříkačka, kterou lze intravenózně aplikovat tekutiny. Je vyrobena podomácku.",
         "scrapmetal": "Kovový šrot",
         "scrapmetaldsc": "Kousky a úlomky oceli ze zničených strojů. Lze jej položit na zem, pokud je jeho stav nad 25 %. Přeživšími je běžně využíván jako měna a pro výrobu předmětů.",
-        "climbingrope": "Šplhací lano",
+        "climbingrope": "Lano na lezení",
         "climbingropedsc": "Dlouhý, zesílený provaz s upevňovacími body na obou koncích. Lze jej umístit nad velký sráz a použít ke slezení dolů. Má dvě použití.",
         "circuitboard": "Obvodová deska",
         "circuitboarddsc": "Kus obvodové desky, vytržený z kdysi funkčního stroje. Občas stále jiskří. Používá se při výrobě.",
@@ -1933,7 +1933,7 @@
         "tutclosehealthpanel": "Zavři panel zdraví.",
         "tutopenhealthpanel": "Otevři panel zdraví.",
         "tutnice": "Pěkně.",
-        "startlorenote": "Rok 2XXX \n<>\nLidstvo technologicky pokročilo do významné míry. \n<>\nJedna korporace začala investovat do výzkumu v oblasti bioinženýrství a kombinování zvířecí a lidské DNA. \n<>\nTo vedlo k vytvoření druhu Experimentů a desítek jejich pozdějších odnoží. \n<>\nPo letech neetického soukromého testování v laboratořích zaměřili své cíle na něco většího. \n<>\nSlyšeli o šedé planetě s bujnou flórou, faunou a snadnou trasou pro cestování vesmírem. \n<>\nBrzy tam byly odeslány tisíce jedinců, budov a nejrůznějšího nákladu. \n<>\nAčkoliv většina zásilky byla doručena správně, velké množství nákladu bylo kvůli kalibrační chybě omylem posláno do rozsáhlé sítě jeskyní na planetě. \n<>\nTo zahrnuje i omylem poslaný kus důležité experimentální technologie, který nyní leží hluboko v podzemních systémech bez snadného způsobu, jak ho dostat zpět. \n<>\nVědci v tom však spatřili příležitost k dalšímu výzkumu chování a poslali dolů tisíce jedinců, aby ztracenou technologii získali zpět. \n<>\nŠance na úspěch byly nízké, ale přeprava je levná a potravy pro děla mají víc než dost. \n<>\nTy jsi jedním z těch nešťastných jedinců.\nOdpor nemá smysl."
+        "startlorenote": "Rok 2XXX \n<>\nLidstvo dosáhlo významného technologického pokroku. \n<>\nJedna korporace začala investovat do výzkumu v oblasti bioinženýrství a kombinování zvířecí a lidské DNA. \n<>\nTo vedlo k vytvoření druhu Experimentů a desítek jejich pozdějších odnoží. \n<>\nPo letech neetického soukromého testování v laboratořích zaměřili své cíle na něco většího. \n<>\nSlyšeli o šedé planetě s bujnou flórou, faunou a snadnou trasou pro cestování vesmírem. \n<>\nBrzy tam byly odeslány tisíce jedinců, budov a nejrůznějšího nákladu. \n<>\nAčkoliv většina zásilky byla doručena správně, velké množství nákladu bylo kvůli kalibrační chybě omylem posláno do rozsáhlé sítě jeskyní na planetě. \n<>\nTo zahrnuje i omylem poslaný kus důležité experimentální technologie, který nyní leží hluboko v podzemních systémech bez snadného způsobu, jak ho dostat zpět. \n<>\nVědci v tom však spatřili příležitost k dalšímu výzkumu chování a poslali dolů tisíce jedinců, aby ztracenou technologii získali zpět. \n<>\nŠance na úspěch byla mizivá, ale přeprava je levná a toho jejich dýchajícího spotřebního materiálu je víc než dost. \n<>\nTy jsi jedním z těch nešťastných jedinců.\nOdpor nemá smysl."
     },
     "character": [
         {
