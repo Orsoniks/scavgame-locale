@@ -1621,10 +1621,10 @@
         "read": "Elolvas",
         "repairmetalalloy": "Megjavítás fúró javítókészlettel.",
         "insertscrap": "Helyezzen be hulladékot",
-        "open": "Nyitva",
+        "open": "Kinyitás",
         "insertbattery": "elem behelyezése elsődleges kézből",
-        "lockpick": "Zárfeltörő",
-        "learnedrecipe": "Megtanultad a r1 receptjét.\n<color=\"green\">35 INT pontot szereztél.",
+        "lockpick": "Zár feltörése",
+        "learnedrecipe": "Megtanultad a(z) r1 receptjét.\n<color=\"green\">35 INT pontot szereztél.",
         "hasbattery": "Elemet tartalmaz (<>)\n<sprite index=17 tint=1>Kivételéhez szerszám szükséges",
         "nobattery": "Nincs benne elem (Max. <>)",
         "unknownobject": "Valami...",
@@ -2311,7 +2311,7 @@
                 "Olyan jó lenne, ha itt lenne valaki...",
                 "Kezdem érezni az izolációt.",
                 "Félek.",
-                "Az életem hátralévő része ilyen lesz?"
+                "Az életem hátralévő része végig ilyen lesz?"
             ],
             "gloomy": [
                 "Mehetnének jobban is a dolgok.",
