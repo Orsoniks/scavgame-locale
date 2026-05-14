@@ -30,7 +30,7 @@ Please read the [contribution guidelines](/.github/CONTRIBUTING.md) for ways in 
 | [Italiano (Italia)](/it-IT.json) | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
 | [日本語 (日本)](/ja-JP.json) | [marui-neko](https://github.com/marui-neko) |
 | [Қазақша (Қазақстан)](/kk-KZ.json) | [Russiankids](https://github.com/Russiankids) |
-| [한국어 (대한민국)](/ko-KR.json) | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc) |
+| [한국어 (대한민국)](/ko-KR.json) | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), [topicular](https://github.com/metnias) |
 | [Polski (Polska)](/pl-PL.json) | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
 | [Português (Brasil)](/pt-BR.json) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar) |
 | [Română (România)](/ro-RO.json) | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan) |
