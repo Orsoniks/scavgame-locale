@@ -33,7 +33,7 @@ Please read the [contribution guidelines](/.github/CONTRIBUTING.md) for ways in 
 | [한국어 (대한민국)](/ko-KR.json) | [muqhc](https://github.com/muqhc), [DrawinDarwin](https://github.com/DrawinDarwin), [Kedr2806](https://github.com/Kedr2806) |
 | [Polski (Polska)](/pl-PL.json) | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
 | [Português (Brasil)](/pt-BR.json) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar) |
-| [Română (România)](/ro-RO.json) | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan) |
+| [Română (România)](/ro-RO.json) | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan), Stefilutz |
 | [Русский (Россия)](/ru-RU.json) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) |
 | [ไทย (ไทย)](/th-TH.json) | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung) |
 | [Українська (Україна)](/uk-UA.json) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati) |
