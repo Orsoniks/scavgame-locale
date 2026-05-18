@@ -1288,7 +1288,7 @@
         "braingrow": "Braingrow",
         "braingrowdsc": "Special orally-taken medicine that stimulates brain regrowth. Increases brain integrity, but often has serious side effects.",
         "mindwipe": "Mindwipe",
-        "mindwipedsc": "Specially synthetised drug which completely wipes the brain of most of its memories and past traumas, leaving only a blank emotionless vessel with basic knowledge and survival instincts. Commonly used as a last resort on subjects which are too far gone to function or are at risk of suicide. May also cure cases of moderate-to-severe brain damage. The effect is permanent without extensive rehabilitation. Use as a last resort.",
+        "mindwipedsc": "Specially synthesized drug which completely wipes the brain of most of its memories and past traumas, leaving only a blank emotionless vessel with basic knowledge and survival instincts. Commonly used as a last resort on subjects which are too far gone to function or are at risk of suicide. May also cure cases of moderate-to-severe brain damage. The effect is permanent without extensive rehabilitation. Use as a last resort.",
         "streptokinase": "Streptokinase",
         "streptokinasedsc": "Blood thinner. Strongly reduces blood viscosity and breaks down clots.",
         "sodiumnitroprusside": "Sodium nitroprusside",
@@ -1368,7 +1368,7 @@
         "dunetraderdsc": "Tall, wide, imposing, with muscle-for-brains. They have odd-looking fins scattered around their body, 6 spikes protruding from the side of their head and a terrifyingly large mouth littered with many big, sharp teeth. It looks like they have gills around their torso. While they're not directly aggressive, they are mostly just driven by hunger, thus they probably won't care too much about whatever trinkets you give them; You'll need to think of a better way to get on their good side.",
         "Shelly": "Shelly",
         "clicktocontinue": "Click to continue...\nESC to skip",
-        "favouriteditem": "Favourited items won't be used in crafting",
+        "favouriteditem": "Favorited items won't be used in crafting",
         "mainhand": "Main hand",
         "secondaryhand": "Secondary hand",
         "mouth": "Mouth",
@@ -1492,7 +1492,7 @@
         "crafttipdsc": "Toggle the crafting menu\n\nDrag an item here to show what recipes it's used in",
         "craftsearchrecipes": "Search recipes...",
         "craftingredients": "Ingredients",
-        "craftingredientsdsc": "Favourited (<>) items will not be used in crafting",
+        "craftingredientsdsc": "Favorited (<>) items will not be used in crafting",
         "craftinfo": "Info",
         "craftnotmadebefore": "<sprite index=25>You haven't made this before.",
         "craftnotmadebeforetip": "Crafting new recipes gives INT experience and a slight mood boost.",
@@ -1689,7 +1689,7 @@
         "purchase": "Purchase",
         "trade": "Give to trader",
         "reputationtip": "Reputation",
-        "reputationtipdsc": "Affects item prices and the survivor's behaviour towards you. Affected by your general state and interactions with the survivor.",
+        "reputationtipdsc": "Affects item prices and the survivor's behavior towards you. Affected by your general state and interactions with the survivor.",
         "valuegiventip": "Value given",
         "valuegiventipdsc": "How much the survivor owes you. This is your currency when trading items.\n\nYou can only get total 60 value before the survivor starts refusing taking more items.",
         "traderpurchase": "Purchase item",
@@ -1856,7 +1856,7 @@
         "tutaid27": "Your blood pressure is now really low, forcing your heart to compensate by speeding up.",
         "tutaid28": "This only goes so far, though. With really high heart rates or really low pressures, something called FIBRILLATION will start.",
         "tutaid29": "Fibrillation is the process of your heart rhythm getting more erratic until it stops. It kills in about two minutes.",
-        "tutaid30": "You might notice an arrhythmia moodle in the bottom left. This is a sign of said fibrillation.",
+        "tutaid30": "You might notice an arrhythmia moodlet in the bottom left. This is a sign of said fibrillation.",
         "tutaid31": "This is an Automated External Defibrillator. It resets your fibrillation to zero, stabilizing you for a while.",
         "tutaid32": "Use it on your chest and follow the steps it gives you. Good luck.",
         "tutaid33": "Congrats! You lived.",
@@ -1913,8 +1913,8 @@
         "tutcraft9": "Nicely done. Dressings are very cheap to make and are crucial for your survival. They should be your priority right after getting a container.",
         "tutcraft10": "Important note - you can pin a recipe to have it permanently highlighted in the corner, using the button in the bottom right of the crafting menu. Pin the recipe for a flimsy knife.",
         "tutcraft11": "Lets add some scrap and wood to the mix. Create a flimsy knife using these resources. You can merge items in the inventory.",
-        "tutcraft12": "Nicely done. Something to note is that you can favourite items to prevent them from being used in crafting recipes. You'd do this for stuff like bags, to not rip them up by accident.",
-        "tutcraft13": "Press [F] on the flimsy knife you just made to favourite it.",
+        "tutcraft12": "Nicely done. Something to note is that you can favorite items to prevent them from being used in crafting recipes. You'd do this for stuff like bags, to not rip them up by accident.",
+        "tutcraft13": "Press [F] on the flimsy knife you just made to favorite it.",
         "tutcraft14": "Now, try making a sterilized dressing using these items. Remember you can rip certain bags and clothing items via crafting.",
         "tutcraft15": "Nice. You might've noticed we made your INT level go up for this test.",
         "tutcraft16": "Crafting ability is tied to your intelligence level. You might've noticed that every recipe has its own INT requirement.",
@@ -1934,7 +1934,7 @@
         "tutclosehealthpanel": "Close the health panel.",
         "tutopenhealthpanel": "Open the health panel.",
         "tutnice": "Nice.",
-        "startlorenote": "Year 2XXX \n<>\nHumanity has technologically progressed to a significant extent. \n<>\nOne corporation began to put research into bio-engineering, combining animal and human DNA. \n<>\nThis led to their creation of the Experiment species, along with dozens of later offshoots. \n<>\nAfter years of unethical private testing in labs, they set their sights on something bigger. \n<>\nThey knew of a gray planet with thriving flora, fauna and an easy space travel path. \n<>\nSoon, thousands of specimens, buildings and miscellaneous cargo were sent. \n<>\nWhile most was shipped correctly, a large amount of cargo was mistakenly sent to the planet's expansive cave network due to a calibration error. \n<>\nThis includes a mistakenly sent piece of important experimental technology, which now sat deep in the underground systems, without an easy way to get it back. \n<>\nThis, however, was seen as an opportunity by the scientists to do more behavioural research by sending thousands of specimens down to retrieve the lost tech. \n<>\nThe chance of it working were low, but shipment is cheap and their breathing fodder is plenty. \n<>\nYou are one unlucky specimen.\nResistance is not an option."
+        "startlorenote": "Year 2XXX \n<>\nHumanity has technologically progressed to a significant extent. \n<>\nOne corporation began researching bioengineering, combining animal and human DNA. \n<>\nThis led to their creation of the Experiment species, along with dozens of later offshoots. \n<>\nAfter years of unethical private testing in labs, they set their sights on something bigger. \n<>\nThey knew of a gray planet with thriving flora, fauna and an easy space travel path. \n<>\nSoon, thousands of specimens, buildings and miscellaneous cargo were sent. \n<>\nWhile most was shipped correctly, a large amount of cargo was mistakenly sent to the planet's expansive cave network due to a calibration error. \n<>\nThis included a mistakenly sent piece of important experimental technology, which now sat deep in the underground systems, without an easy way to get it back. \n<>\nThis, however, was seen as an opportunity by the scientists to conduct more behavioral research by sending thousands of specimens down to retrieve the lost tech. \n<>\nThe chances of it working were low, but shipment is cheap and their breathing fodder was plentiful. \n<>\nYou are one unlucky specimen.\nResistance is not an option."
     },
     "character": [
         {
@@ -4094,7 +4094,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "I was performing a self check-up following a painful incident when I noticed a dark, nodular bump on my skin. It appeared irregular in shape and was oddly multicoloured and variegated. I estimated its diameter to be approximately eight millimetres. Upon further inspection, I found several more in various locations on my body. I corresponded with a younger friend and they seemed to have none, but my older friend had many more. Should I keep track of the evolution of this potential malignancy?",
+                "Item1": "I was performing a self check-up following a painful incident when I noticed a dark, nodular bump on my skin. It appeared irregular in shape and was oddly multicolored and variegated. I estimated its diameter to be approximately eight millimetres. Upon further inspection, I found several more in various locations on my body. I corresponded with a younger friend and they seemed to have none, but my older friend had many more. Should I keep track of the evolution of this potential malignancy?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4483,7 +4483,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and neigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behavior and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and neigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
         {
