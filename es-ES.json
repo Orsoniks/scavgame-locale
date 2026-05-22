@@ -1268,7 +1268,7 @@
         "redblood": "Sangre roja",
         "redblooddsc": "Sangre roja. Te parece rara, y el olor te recuerda a tus apresadores. Puede tratar la hipovolemia, pero tu cuerpo no se lo tomará bien.",
         "alienblood": "Sangre alienígena",
-        "alienblooddsc": "Sangre amarilla de un alien. Mientras que se vea similar a la tuya, es ligeramente distinta. Aunque no debereía de ser un remplazo tan malo, es crees.",
+        "alienblooddsc": "Sangre amarilla de un alien. Mientras que se vea similar a la tuya, es ligeramente distinta. Sin embargo, no debería ser tan mala para usar como sangre de reemplazo.",
         "antiserum": "Antisuero",
         "antiserumdsc": "Suero de sangre que contiene anticuerpos para pelear contra las infecciones más comunes. Aumenta la inmunidad y ayuda a reducir la sepsis. Aumenta ligeramente el volumen de sangre.",
         "antibiotics": "Antibioticos",
@@ -1957,7 +1957,7 @@
                 "Vamos a salir afuera.",
                 "*Preocupado*",
                 "¡Estoy emocionado!",
-                "Not excited for this.",
+                "No estoy emocionado por esto.",
                 "Mejor aquí que allí...",
                 "Al menos tenía comida y un refugio allí arriba...",
                 "Ya estoy hechando de menos a mis colegas de allí arriba.",
@@ -2851,7 +2851,7 @@
                 "Tengo que quitarme cualquier trozo de cristal que tenga.",
                 "Vamos a NO pisar cristales rotos.",
                 "Preferiría evitar insertar cristales en mis patas.",
-                "Esas ventanas claramente no estaban templados."
+                "Esas ventanas claramente no estaban templadas."
             ],
             "seecorpse": [
                 "Oh... Oh dios.",
