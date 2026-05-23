@@ -1503,7 +1503,7 @@
         "craftitemquality": "- (<1>) คุณภาพ <2>",
         "craftliquidquality": "- รวม (<1>) คุณภาพ <2>",
         "craftcondition": "- สภาพอย่างน้อย <>%",
-        "craft มล.": "- อย่างน้อย <> มล.",
+        "craftml": "- อย่างน้อย <> มล.",
         "craftinfocondition": "สภาพ: ",
         "craftinfovolume": "ปริมาตร: ",
         "craftinfoamount": "จำนวน: ",
