@@ -928,7 +928,6 @@
         "impendingdoom": "Senzație de catastrofă iminentă",
         "horrified": "ÎNGROZIT",
         "focused": "CONCENTRAT",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "realitatea  ..  încetează   să mai aibă   sens",
         "braindamage2dsc": "Deficit mental sever. Capacitatea de a gândi inteligent și de a se întreține singur este limitată. Prezența unor leziuni cerebrale grave.",
@@ -3897,6 +3896,43 @@
                 "...Uuuhh... ...Ce se întâmplă...?",
                 "...Oh. Oh. OH. OH! NU. NU NU NU. STAI. DE CE? CE AM FĂCUT?!",
                 "...A-ah... Bine... P-păi... La r-revedere, a-atunci..."
+            ],
+            "vomitresponse": [
+                "Uuuhmm... Ești bine..?"
+            ],
+            "vomitbloodresponse": [
+                "Ack! Nu cumva ai... Oh... Hei, tu știi că numai ce ai... Vomitat sânge, nu?"
+            ],
+            "hungryresponse": [
+                "Sper că știi că este o grămadă de mâncare în afară...",
+                "Păi, aș putea să-ți dau niște mâncare în schimb la altceva..?"
+            ],
+            "thirstyresponse": [
+                "Pun pariu că poți găsi niște apă în afară...",
+                "Din câte am auzit, poți rezista doar trei ”zile” fără apă, haha..."
+            ],
+            "sadresponse": [
+                "Hei, e ok... Ești încă viu și plin de energie, nu-i așa..."
+            ],
+            "depressedresponse": [
+                "...Te rog, calmează-te... Va fi bine..."
+            ],
+            "selfharmresponse": [
+                "...D-de ce... ai..."
+            ],
+            "braindamagedresponse": [
+                "...Nu suni... Prea bine.",
+                "...Ce?"
+            ],
+            "hotresponse": [
+                "Poți să scazi temperatura termostatului."
+            ],
+            "coldresponse": [
+                "Știi că noi avem un radiator aici..."
+            ],
+            "bleedingresponse": [
+                "Da... arată rău... Dar... sunt sigur că poți să o tratezi...",
+                "H-hei, calmează-te. Vei fi bine."
             ]
         },
         {
@@ -4065,6 +4101,43 @@
             ],
             "tradermovefail": [
                 "De ce să mă mișc pentru cineva ca tine?."
+            ],
+            "vomitresponse": [
+                "Se pare că ți-ai dat afară conținutul stomacului."
+            ],
+            "vomitbloodresponse": [
+                "...Se pare că ai o hemoragie internă. Te rog să-ți direcționezi gura departe de mine pentru viitorul apropiat."
+            ],
+            "hungryresponse": [
+                "Dacă crezi că îți voi satisface foamea fără răsplată, greșești amarnic.",
+                "Nu sunt un filantrop. Găsește niște mâncare, sau fă un schimb cu mine."
+            ],
+            "thirstyresponse": [
+                "Foarte multe bazine de apă potabilă sunt răspândite în acest loc. Folosește-te de ele.",
+                "Găsește-ți sursa ta de apă altundeva."
+            ],
+            "sadresponse": [
+                "Te rog, termină-ți vaietele."
+            ],
+            "depressedresponse": [
+                "Nu îți vei rezolva problemele tale lăsându-te pradă disperării."
+            ],
+            "selfharmresponse": [
+                "...Chiar ești bolnav. Oprește-te."
+            ],
+            "braindamagedresponse": [
+                "Ești complet incoerent.",
+                "Pun pariu că ai o comoție cerebrală."
+            ],
+            "hotresponse": [
+                "E posibil să îți permit să utilizezi răcitorul acestei capsule dacă te porți cum se cuvine."
+            ],
+            "coldresponse": [
+                "Fă niște exerciții. Te vei încălzi într-o clipă."
+            ],
+            "bleedingresponse": [
+                "Te rog să nu sângerezi asupra mea.",
+                "Te implor să ai grijă de rănile tale."
             ]
         },
         {
@@ -4232,6 +4305,43 @@
             ],
             "tradermovefail": [
                 "Du-ne place loc cur-ent..."
+            ],
+            "vomitresponse": [
+                "Pri-eten... Vomită... Simt r-ău?"
+            ],
+            "vomitbloodresponse": [
+                "Du-ne... Miros sân-ge... De la... Pri-eten... Gus-tos..?"
+            ],
+            "hungryresponse": [
+                "Du-ne înțelege... Dune flă-mând la fel!",
+                "De acord... Du-ne nevoie mân-care la fel!"
+            ],
+            "thirstyresponse": [
+                "Du-ne bea baltă... Simte bi-ne... Prieten încearcă?",
+                "Mm-m... Timp de sor-bit?"
+            ],
+            "sadresponse": [
+                "Pri-eten simte rău..? De ce?"
+            ],
+            "depressedresponse": [
+                "Pri-eten simte foarte rău... Vi-no stai cu du-ne!"
+            ],
+            "selfharmresponse": [
+                "De ce pri-eten rană? Pri-eten rău?"
+            ],
+            "braindamagedresponse": [
+                "Du-ne de acord.",
+                ".........?"
+            ],
+            "hotresponse": [
+                "Du-ne niciodată simte fierbinte! Du-ne place cald..."
+            ],
+            "coldresponse": [
+                "Du-ne frică de re-ce... Camera e ca-ld! Pri-eten stă cu dune..."
+            ],
+            "bleedingresponse": [
+                "Pri-eten e rănit. Pri-eten nevoie ajutor!",
+                "Pri-eten miroase ca sânge. Du-ne place."
             ]
         }
     ],
@@ -4388,9 +4498,9 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(Hârtia este boțită și zdrobită, ca și cum ar fi fost menită să fie aruncată.)\n<>\nprietenul meu el... cred ca el sa sinucis. dupa o alta cazatura urata am incercat sa le vindec picioarele dar tot imi spuneau sa ma duc dracului. ma tot alungau ca pe o musca, spunandumi sai las in pace. nu intelegeam. am plecat sa iau niste plante din locul asta ca sa incerc sa ii bandajez dar... cand m-am intors el avea inca o rana. una pe brat. inca imi amintesc cum arata, era rea, practic era sfasiata. am incercat sa folosesc plantele gasite pentru a le vindeca rana noua dar el tot ma indeparta. ochii lui erau... aratau... goi. iam zis sa se opreasca la naiba si sa ma lase sal ajut dar el nu a raspuns. am incercat sal mai ajut de cateva ori si el ma tot impingea pana ce sa... oprit. tin minte cum corpul lui se relaxa, cred ca atunci au incetat sa mai respire. nu pot sami scot imaginea aia din cap...\n<>\nam... am facut ceva gresit? jur ca nu am... ce am facut gresit? de ce a facut el asta? eu... eu nu am facut nimic. nu inteleg, nu vreau sa mor... eu nu... eu...\n<>\n...\n<>\nhaha...\n<>\ne asa de singuratic aici.\n<>\n(Observi picături vagi, uscate de lacrimi și sânge uscat ciuruit în jurul biletului mototolit.)",
+                "Item1": "(Hârtia este boțită și zdrobită, ca și cum ar fi fost menită să fie aruncată.)\n<>\nprietenul meu el... cred ca el sa sinucis. dupa o alta cazatura urata am incercat sa le vindec picioarele dar tot imi spuneau sa stau departe. ma tot alungau ca pe o musca, spunandumi sai las in pace. nu intelegeam. am plecat sa iau niste plante din locul asta ca sa incerc sa ii bandajez dar... cand m-am intors el avea inca o rana. una pe brat. inca imi amintesc cum arata, era rea, practic era sfasiata. am incercat sa folosesc plantele gasite pentru a le vindeca rana noua dar el tot ma indeparta. ochii lui erau... aratau... goi. iam zis sa se opreasca si sa ma lase sal ajut dar el nu a raspuns. am incercat sal mai ajut de cateva ori si el ma tot impingea pana ce sa... oprit. tin minte cum corpul lui se relaxa, cred ca atunci au incetat sa mai respire. nu pot sami scot imaginea aia din cap...\n<>\nam... am facut ceva gresit? jur ca nu am... ce am facut gresit? de ce a facut el asta? eu... eu nu am facut nimic. nu inteleg, nu vreau sa mor... eu nu... eu...\n<>\n...\n<>\nhaha...\n<>\ne asa de singuratic aici.\n<>\n(Observi picături vagi, uscate de lacrimi și sânge uscat ciuruit în jurul biletului mototolit.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(Pe hârtie sunt grafice colorate și nu pare să fie scrisă de mână)\n<>\nSupă! Încercați oala noastră specială - pur și simplu puneți carnea și ingredientele și lăsați să fiarbă la foc mic. Nu vă faceți griji. Veți fi de acord că merită din plin gustul său. Poate fi păstrată până la 737 de ani!",
