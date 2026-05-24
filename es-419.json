@@ -1334,7 +1334,7 @@
         "oil": "Petróleo",
         "oildsc": "Un alquitrán espeso y negro. Con dificultad para moverse. Incomible.",
         "sap": "Savia",
-        "sapdsc": "Una espesa, rica savia, producido por los árboles de la jungla. Muy azucarada.",
+        "sapdsc": "Una rica y espesa savia producido por los árboles de la jungla. Muy azucarada.",
         "fat": "Grasa",
         "fatdsc": "Grasa líquida animal obtenida de la carne. Se puede comer, aunque no es particularmente agradable. Se puede procesar para hacer jabón.",
         "soap": "Jabón",
@@ -1392,7 +1392,7 @@
         "startrun": "Comenzar",
         "startrundsc": "Desciende a las cuevas.",
         "presetnormal": "Normal",
-        "presetnormaldsc": "The default experience. Mistakes are punishing. Knowledge and situational awareness are greatly rewarded. Time is of the essence. Your death is all but guaranteed.",
+        "presetnormaldsc": "La experiencia predeterminada. Los errores son castigables. El conocimiento y tu percepción de tu entorno son altamente recompensados. El tiempo es esencial. Tu muerte es prácticamente garantizada.",
         "presetrelaxed": "Relajado",
         "presetrelaxeddsc": "A slower, more forgiving descent. Mistakes are still punishing, but are easier to avoid. You have more time to explore and consider your surroundings.",
         "presetparadise": "El Paraíso",
@@ -2125,7 +2125,7 @@
         "tutclosehealthpanel": "Cierra el panel de salud.",
         "tutopenhealthpanel": "Abre el panel de salud.",
         "tutnice": "Bien.",
-        "startlorenote": "Año 25XX \n<>\nLa humanidad ha progresado tecnológicamente de manera significativa.\n<>\nUna corporación comenzó a investigar en bioingeniería, combinando ADN animal y humano.\n<>\nEsto condujo a la creación de la especie Experimento, junto con docenas de derivaciones posteriores.\n<>\nDespués de años de pruebas privadas poco éticas dentro de los laboratorios, pusieron la mira en algo más grande.\n<>\nSabían de un planeta gris con una flora y fauna próspera, y una ruta de viaje espacial asequible.\n<>\nPronto, se enviaron miles de ejemplares, edificios y cargamentos diversos.\n<>\nAunque la mayor parte se envió correctamente, una gran cantidad de cargamento se envió por error a la extensa red de cuevas del planeta debido a un error de calibración.\n<>\nEsto incluye una pieza de tecnología experimental importante enviada por error, que ahora yace en lo más profundo de los sistemas subterráneos, sin una forma sencilla de recuperarla.\n<>\nSin embargo, los científicos vieron esto como una oportunidad para realizar más investigaciones comportamentales, enviando miles de especímenes para recuperar la tecnología perdida.\n<>\nLas posibilidades de que funcionara eran bajas, pero el envío es barato y sus recursos abundantes.\n<>\nEres un espécimen desafortunado.\nLa resistencia no es una opción."
+        "startlorenote": "Año 2XXX \n<>\nLa tecnología humana ha progresado significativamente. Las cosas que antes parecían imposibles ahora se convirtieron en algo cotidiano.\n<>\nEn el centro de todo solo había una corporación. Sus avances parecían milagros, pero tenían sus secretos guardados.\n<>\nAños atrás, la corporación había creado una nueva especie: una combinación de ADN animal y humano al que simplemente llamaron \"Experimentos.\"\n<>\nEstos experimentos eran los sujetos de prueba perfectos al ser tan parecidos a los humanos, y estaban a total disposición de la corporación para hacer lo que ellos quisieran. Trabajaron arduamente en ellos, retorciendo su biología más allá para satisfacer sus necesidades, y mientras pasaban los años, la población no dejaba de crecer.\n\nNinguno ha conocido el mundo exterior.\n<>\nEn ese momento, parecía que la Tierra ya no podía contener sus ambiciones. Con su recién desarrollada tecnología de teletransportación, pusieron la mira en un planeta gris llena de vida.\n<>\nPronto, toneladas de cargamentos diversos y desechos fueron enviados.\n<>\nDebido a problemas presentados en la calibración, muchos de estos cargamentos terminaron tanto en la compleja red de cuevas del planeta, como en su superficie. Aun así, el proyecto avanzó. \n<>\nEso fue así, hasta que un error desconocido provocó que una pieza importante de tecnología fuera enviada a lo más profundo de las cuevas.\n<>\nEventualmente, los científicos habían ideado un plan. Un plan que representaba nulo riesgo para sí mismos.\n<>\nLas probabilidades de que funcionara eran bajas, pero sus recursos biológicos eran abundantes.\n<>\nEres un espécimen desafortunado.\nLa resistencia no es una opción."
     },
     "character": [
         {
@@ -3898,6 +3898,43 @@
                 "...Uuuhh... ...¿Qué es este pitido...?",
                 "...Oh. Oh. OH. ¡OH! NO. NO NO NO. ESPERA. ¿POR QUÉ? ¿¡QUÉ HICE!?",
                 "...A-ah... Bueno... P-pues... A-adiós en-tonces..."
+            ],
+            "vomitresponse": [
+                "Uuummm... ¿Estás bien..?"
+            ],
+            "vomitbloodresponse": [
+                "¡Ugh! ¿Acaso estás...? Oh... Ey, sabes que acabas de... Vomitar sangre, ¿verdad?"
+            ],
+            "hungryresponse": [
+                "Allá afuera hay un montón de comida, ¿sabes..?",
+                "Bueno, ¿podría darte algo de comida a cambio de algo..?"
+            ],
+            "thirstyresponse": [
+                "Estoy muy seguro que puedes encontrar algo de agua ahí afuera...",
+                "Lo último que oí fue que solo puedes durar tres \"días\" sin agua, jaja..."
+            ],
+            "sadresponse": [
+                "Oye, está bien... Aún sigues vivo, ¿no?..."
+            ],
+            "depressedresponse": [
+                "...Cálmate, por favor... Todo estará bien..."
+            ],
+            "selfharmresponse": [
+                "...¿Por-por qué... te cor..."
+            ],
+            "braindamagedresponse": [
+                "...No te entiendo... bien.",
+                "...¿Qué?"
+            ],
+            "hotresponse": [
+                "Pues enciende el aire."
+            ],
+            "coldresponse": [
+                "Sabes que tenemos calefacción aquí..."
+            ],
+            "bleedingresponse": [
+                "Eso... Se ve mal... Pero, emm... Estoy seguro que lo puedes arreglar...",
+                "O-oye, cálmate. Vas a estar bien."
             ]
         },
         {
@@ -4066,6 +4103,43 @@
             ],
             "tradermovefail": [
                 "¿Por qué le haría caso a alguien cómo tú?"
+            ],
+            "vomitresponse": [
+                "Parece que expulsaste el contenido de tu estómago."
+            ],
+            "vomitbloodresponse": [
+                "...Parece que estás sangrando internamente. Por favor, apunta tu boca a otro lado para el futuro previsible."
+            ],
+            "hungryresponse": [
+                "Si crees que voy a saciar tu hambre sin pago alguno, estás totalmente equivocado.",
+                "No soy una caridad. Encuentra algo para comer o intercambia algo conmigo."
+            ],
+            "thirstyresponse": [
+                "Hay muchas piscinas con agua potable que se extienden en este lugar. Haz uso de ellas.",
+                "Busca tu fuente de agua en otra parte."
+            ],
+            "sadresponse": [
+                "Por favor, cesa tus lamentos."
+            ],
+            "depressedresponse": [
+                "Caer en una espiral de desesperación no resolverá ninguno de tus problemas."
+            ],
+            "selfharmresponse": [
+                "...Realmente estás enfermo. Deténte."
+            ],
+            "braindamagedresponse": [
+                "Eres completamente incoherente.",
+                "Apuesto a que tienes una contusión cerebral."
+            ],
+            "hotresponse": [
+                "Podría dejarte usar el aire de esta cápsula si te comportas."
+            ],
+            "coldresponse": [
+                "Haz ejercicio. Entrarás en calor en un abrir y cerrar de ojos."
+            ],
+            "bleedingresponse": [
+                "Por favor, no sangres sobre mí.",
+                "Te imploro que trates tus heridas."
             ]
         },
         {
@@ -4225,7 +4299,7 @@
                 "¡NNGGHHRR! ¡Por qué ami-go roba! ¡Sal de a-quí! GGrrhhhhhh... ¡MALO..!",
                 "¡GRRR! ¡MALVADO! ¡FU-ERA!",
                 "¡MALO! Grrrr... Ami-go malo... ¡Malo! ¡Vet-e!",
-                "¡Dune NO VE! ¡MAL AMI-GO! ¡VETE... LEE-JOS!",
+                "¡Dune NO VE! ¡MAL AMI-GO! ¡VETE...! ¡FUEE-RA!",
                 "¡Ami-go roba! No ami-go..."
             ],
             "tradermove": [
@@ -4233,6 +4307,43 @@
             ],
             "tradermovefail": [
                 "Du-ne gusta este si-tio..."
+            ],
+            "vomitresponse": [
+                "Ami-go... Vomi... Tar... ¿Sientes enfer-mo?"
+            ],
+            "vomitbloodresponse": [
+                "Du-ne... Huele sang-re... De... Ami-go... ¿Sabro-so..?"
+            ],
+            "hungryresponse": [
+                "Du-ne entiende... ¡Dune con ham-bre también!",
+                "¡Sí Sí... Du-ne necesita com-ida también!"
+            ],
+            "thirstyresponse": [
+                "Du-ne bebe en charco... Sentir mej-or... ¿Intenta amigo?",
+                "Mm-m... ¿A be-ber?"
+            ],
+            "sadresponse": [
+                "¿Ami-go siente mal..? ¿Por qué?"
+            ],
+            "depressedresponse": [
+                "Ami-go verse muy mal... ¡Sentar-te con du-ne!"
+            ],
+            "selfharmresponse": [
+                "¿Por qué ami-go se corta? ¿Ami-go es malo?"
+            ],
+            "braindamagedresponse": [
+                "Du-ne concu-erda.",
+                "¿.........?"
+            ],
+            "hotresponse": [
+                "¡Du-ne nunca tiene calor! Du-ne ama calor..."
+            ],
+            "coldresponse": [
+                "Du-ne teme el f-río... ¡Cuarto es cá-lido! Ami-go quéda-te con du-ne..."
+            ],
+            "bleedingresponse": [
+                "Ami-go herido. ¡Ami-go necesita ayuda!",
+                "Ami-go oler a sangre. Du-ne gustar."
             ]
         }
     ],
@@ -4839,8 +4950,8 @@
         "Esperaré.",
         "¿En serio?",
         "El tiempo se detiene.",
-        "¿Taking a break already?",
-        "Tired yet?",
+        "¿Ya estás tomando un descanso?",
+        "¿Con sueño?",
         "Decepcionante.",
         "Esperando por ti",
         "¡Oye!",
@@ -4854,7 +4965,7 @@
         "¿Estresado?",
         "Wow, ¿sigues vivo?",
         "Oye, ¡vuelve al trabajo!",
-        "Take a breather.",
+        "Tómate un respiro.",
         "¿Hora de almorzar?",
         "Tómate un snack.",
         "¡Oh, vamos!",
@@ -4864,10 +4975,10 @@
         "Flojo.",
         "Entonces, ¿cómo va tu día?",
         "¡Hola!",
-        "Took you long enough.",
+        "Se tardó bastante.",
         "What a display of competency...",
-        "Too scared?",
-        "Giving up?",
+        "¿Muy asustado?",
+        "¿Te rindes?",
         "Siempre hay un precio por el silencio.",
         "Could've given me a warning at least.",
         "Nos volvemos a encontrar.",
@@ -4887,7 +4998,7 @@
         "Now what? What's your next step?",
         "You are no fun.",
         "Got something on your mind?",
-        "Pusado. ¿Por qué?",
+        "Pausado. ¿Por qué?",
         "Usa este tiempo sabiamente.",
         "Puedo esperar todo el día.",
         "Aún sigo aquí.",
@@ -4901,28 +5012,28 @@
         "You should've seen the look on your face!",
         "Plenty of space for improvement. Just saying.",
         "Keep going. What else can you do?",
-        "Might as well quit. The button's right there.",
-        "Just get it over with and return.",
+        "Igual podrías rendirte. El botón está justo ahí.",
+        "Solo termina de una vez y regresa.",
         "I don't like this habit of yours.",
         "You're gonna give me a headache. Or, you would, if I could feel pain.",
         "Are you doing this on purpose? Get on with it.",
         "Going to take the easy way out?",
         "I have all the time I need. Same cannot be said about you.",
         "A grand delusion. A grand failure and waste. But not to me.",
-        "How interesting. Please continue.",
+        "Qué interesante. Por favor, continúa.",
         "An amusing display of emotion.",
         "I am the all that I possess. Are you?",
         "Your delusion of any semblance of control is amusing. Continue.",
-        "Ready to start taking this seriously?",
-        "Trapped in eternity.",
-        "They don't know you're doing this.",
-        "You can still salvage this. I've seen worse.",
-        "Hello? Is this thing on?",
+        "¿Listo para empezar a tomarte esto en serio?",
+        "Atrapado en la eternidad.",
+        "Ellos no saben que lo estás haciendo.",
+        "Aún puedes solucionar esto. He visto cosas peores.",
+        "¿Hola? ¿Está encendido?",
         "I hope you reflect on what you just did.",
         "You really think this thing is worth getting all the way down there? I can make plenty more.",
         "¿Estás deteniendo el tiempo a cada rato para ver lo que tengo que decir?",
         "Una pena, justo cuando me empezabas a caer bien.",
-        "Do you feel in charge?",
+        "¿Te sientes al mando?",
         "You all are incredibly disappointing. But also entertaining. Are you any different?",
         "I know how this ends. But do continue.",
         "The stars are watching you.",
@@ -4933,8 +5044,8 @@
         "So much confidence in your own intellect. Cute.",
         "Your supervisors do not tell you everything.",
         "You're a dead man walking. Statistically speaking.",
-        "I suppose miracles do happen.",
-        "Delaying the inevitable?",
+        "Supongo que sí existen los milagros.",
+        "¿Retrasando lo inevitable?",
         "I'm afraid it's terminal.",
         "You are too resilient for your own good.",
         "¡Ey, estábamos llegando a la mejor parte!",
