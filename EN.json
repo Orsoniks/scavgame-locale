@@ -3898,6 +3898,43 @@
                 "...Uuuhh... ...What is this beeping...?",
                 "...Oh. Oh. OH. OH! NO. NO NO NO. WAIT. WHY? WHAT DID I DO!?",
                 "...A-ah... Alright... W-well... G-goodbye, t-then..."
+            ],
+            "vomitresponse": [
+                "Uuuhmm... You good..?"
+            ],
+            "vomitbloodresponse": [
+                "Ack! Did you just... Oh... Hey, you know you just... Threw up blood, right?"
+            ],
+            "hungryresponse": [
+                "There's a bunch of food out there, you know...",
+                "Well, I could give you food in exchange for something..?"
+            ],
+            "thirstyresponse": [
+                "I'd wager you can find some water out...",
+                "Last I heard you can only go for three \"days\" without water, haha..."
+            ],
+            "sadresponse": [
+                "Hey, it's okay... You're still alive and kicking, right..."
+            ],
+            "depressedresponse": [
+                "...Calm down, please... It'll be fine..."
+            ],
+            "selfharmresponse": [
+                "...W-why... Did you..."
+            ],
+            "braindamagedresponse": [
+                "...You don't sound... Very well.",
+                "...What?"
+            ],
+            "hotresponse": [
+                "Turn the heat down, then."
+            ],
+            "coldresponse": [
+                "You know, we do have a heater here..."
+            ],
+            "bleedingresponse": [
+                "It... Does look bad... But, I... I'm sure you can fix it...",
+                "H-hey, calm down. You'll be okay."
             ]
         },
         {
@@ -4066,6 +4103,43 @@
             ],
             "tradermovefail": [
                 "Why would I move for someone like you?"
+            ],
+            "vomitresponse": [
+                "You appear to have returned your stomach contents."
+            ],
+            "vomitbloodresponse": [
+                "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
+            ],
+            "hungryresponse": [
+                "If you imagine me to satiate your hunger without payment, you would be sorely mistaken.",
+                "I'm not a charity. Find some food, or exhange something with me."
+            ],
+            "thirstyresponse": [
+                "Many pools of drinkable water permeate this place. Make use of them.",
+                "Find thine source of water elsewhere."
+            ],
+            "sadresponse": [
+                "Please, cease your wailings."
+            ],
+            "depressedresponse": [
+                "Spiraling into desparity will not solve any of your problems."
+            ],
+            "selfharmresponse": [
+                "...You really are ill. Stop this."
+            ],
+            "braindamagedresponse": [
+                "You are entirely incoherent.",
+                "I'd wager you have a concussion."
+            ],
+            "hotresponse": [
+                "I may let you use this lifepod's cooler if you behave."
+            ],
+            "coldresponse": [
+                "Exercise. You will warm up in the blink of an eye."
+            ],
+            "bleedingresponse": [
+                "Please don't bleed all over me.",
+                "I implore you to take care of your wounds."
             ]
         },
         {
@@ -4233,6 +4307,43 @@
             ],
             "tradermovefail": [
                 "Du-ne like cur-rent spot..."
+            ],
+            "vomitresponse": [
+                "Fri-end... Throw... Up... Feel si-ck?"
+            ],
+            "vomitbloodresponse": [
+                "Du-ne... Smell blo-od... From... Fri-end... Tas-ty..?"
+            ],
+            "hungryresponse": [
+                "Du-ne understand... Dune hung-ry too!",
+                "Agree... Du-ne need fo-od too!"
+            ],
+            "thirstyresponse": [
+                "Du-ne drink puddle... Feel bet-ter... Friend try?",
+                "Mm-m... Slu-rp time?"
+            ],
+            "sadresponse": [
+                "Fri-end feel bad..? Why?"
+            ],
+            "depressedresponse": [
+                "Fri-end look very bad... Co-me sit with du-ne!"
+            ],
+            "selfharmresponse": [
+                "Why is fri-end hurt? Fri-end evil?"
+            ],
+            "braindamagedresponse": [
+                "Du-ne agree.",
+                ".........?"
+            ],
+            "hotresponse": [
+                "Du-ne never feel hot! Du-ne love heat..."
+            ],
+            "coldresponse": [
+                "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th dune..."
+            ],
+            "bleedingresponse": [
+                "Fri-end is hurt. Fri-end need help!",
+                "Fri-end smell like blood. Du-ne like."
             ]
         }
     ],
@@ -4389,9 +4500,9 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me to fuck off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to fucking stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
+                "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(There are colorful graphics on the paper, and it doesn't appear to be handwritten)\n<>\nSoup! Try our Specialty Pot - just put the meat and ingredients in and simmer. Don't worry. You'll agree it's worth its weight in flavor. Can be stored for up to 737 years!",
