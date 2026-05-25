@@ -769,7 +769,7 @@
         "cantbreathe": "Fallo respiratorio",
         "thoraxdestroyed": "Fallo pulmonar",
         "pulmonaryembolism": "Embolismo pulmonar",
-        "oxygen1": "Leve Hipoxemia",
+        "oxygen1": "Leve hipoxemia",
         "oxygen2": "Hipoxemia",
         "oxygen3": "Hipoxemia severa",
         "oxygen4": "Hipoxemia crítica",
@@ -1282,7 +1282,7 @@
         "redblood": "Sangre roja",
         "redblooddsc": "Sangre roja. Te parece rara, y el olor te recuerda a tus apresadores. Puede tratar la hipovolemia, pero tu cuerpo no se lo tomará bien.",
         "alienblood": "Sangre alienígena",
-        "alienblooddsc": "Sangre amarilla de un alien. Mientras que se vea similar a la tuya, es ligeramente distinta. Aunque no debereía de ser un remplazo tan malo, es crees.",
+        "alienblooddsc": "Sangre amarilla de un alien. Mientras que se vea similar a la tuya, es ligeramente distinta. Sin embargo, no debería ser tan mala para usar como sangre de reemplazo.",
         "antiserum": "Antisuero",
         "antiserumdsc": "Suero de sangre que contiene anticuerpos para pelear contra las infecciones más comunes. Aumenta la inmunidad y ayuda a reducir la sepsis. Aumenta ligeramente el volumen de sangre.",
         "antibiotics": "Antibioticos",
@@ -1374,7 +1374,7 @@
         "ThighBShort": "Pierna",
         "CrusBShort": "Pierna",
         "FootBShort": "Pata",
-        "experiment": "Experiment",
+        "experiment": "Experimento",
         "experimenttraderdsc": "Una extraña rata-perro-persona de baja estatura, con 3 extrusiones en forma de pichos blanditas de detras de su cabeza. Su cabeza se ve como la de un roedor. Aunque sean algo raros, no tienen ninguna característica única en el contexto del comercio. No hace falta mucha confianza para que te permitan un abrazo.",
         "milky": "Milky",
         "milkytraderdsc": "Una criatura particularmente pequeña, peludita, con un hocico aplastado y con unos pequeños cuernos blancos de su cabeza. Probablemente acuáticos hasta cierto punto, a juzgar por su par de aletas en su espalda. Parecen ser algo inteligentes y medianamente arrogantes, es posible que tengan algún tipo de arma para compensar sus características físicas poco impresionantes. No suelen estar muy interesados en el afecto físico, tendrás que tener más confianza con ellos para que te permitan un abrazo.",
@@ -1397,7 +1397,7 @@
         "presetrelaxeddsc": "Un descenso mas lento y permisivo. Los errores siguen siendo costosos, pero es más fácil evitarlos. Tienes más tiempo para explorar y considerar tus alrededores.",
         "presetparadise": "Paraiso",
         "presetparadisedsc": "Estas cuevas son definitivamente mejores que los laboratorios. Los errores son mucho menos costosos, el botín y las caras amistosas son cuantiosas. Apenas hay peligros o presión temporal.",
-        "presetdesolate": "Desolate",
+        "presetdesolate": "Desolador",
         "presetdesolatedsc": "Solo en la oscuridad. Hay poco que encontrar y hay muchos peligros. Aunque los supervivientes son raros, los que encuentres tendrán mucho que ofrecer.",
         "presetunchipped": "Sin chip",
         "presetunchippeddsc": "Aunque el no tener chip alivia el límite de tiempo articifial que limita a otros, también hace autodiagnosticarte un proceso complicado. ¿Tal vez merezca la pena al final?",
@@ -1437,7 +1437,7 @@
         "runsetinfectionspeed": "Velocidad de infección",
         "runsetinfectionspeeddsc": "Como de rápido progresan y disminuyen las infecciones y como de rápido matan. También afecta a la duración de los antisépticos",
         "runsetinfectionchance": "Posibilidad de infección",
-        "runsetinfectionchancedsc": "Como de probable es contraer un infección por una herida",
+        "runsetinfectionchancedsc": "Como de probable es contraer una infección por una herida",
         "runsetfibrillationrate": "Tasa de fibrilación",
         "runsetfibrillationratedsc": "Como de rápido progresa la fibrilación cardiaca. Un número mas grande significa una muerte más rápida",
         "runsetbonuslimbarmor": "Armadura extra de miembros",
@@ -1447,19 +1447,19 @@
         "runsetattackdamage": "Daño de ataque",
         "runsetattackdamagedsc": "Cuanto daño inflinges con tus ataques",
         "runsetstrokes": "Activar derrames",
-        "runsetstrokesdsc": "Determina si puedes sufir un derrame por una crisis de hipertensión",
+        "runsetstrokesdsc": "Determina si puedes sufir un derrame por una crisis hipertensiva",
         "runsetbraindamagefx": "Efectos de daño cerebral",
         "runsetbraindamagefxdsc": "Determina si el daño cerebral causa episodios de forma periodica",
         "runsetinfinitelaststand": "Úlimos alientos infinitos",
-        "runsetinfinitelaststanddsc": "Detrmina se puedes intentar obtener mas de un último aliento por partida",
+        "runsetinfinitelaststanddsc": "Determina si puedes intentar obtener mas de un último aliento por partida",
         "runsetmoodnormalizationrate": "Tasa de normalización de humor",
         "runsetmoodnormalizationratedsc": "Como de rápido va pasando tu humor a 0. Un valor más alto hace más dificil permanecer tanto feliz como triste.",
         "runsetforcesleep": "Forzar sueño",
-        "runsetforcesleepdsc": "Debería forzarse al jugador a estar inconsciente cuando su energía llega a 0",
+        "runsetforcesleepdsc": "Debería forzarse al personaje a estar inconsciente cuando su energía llega a 0",
         "runsetlowmoodevents": "Eventos de bajo humor",
-        "runsetlowmoodeventsdsc": "Debería el jugador tomar medidas especiales si su humor está muy bajo",
+        "runsetlowmoodeventsdsc": "Debería el personaje tomar medidas especiales si su humor está muy bajo",
         "runsetliquidpushing": "Empuje de líquidos",
-        "runsetliquidpushingdsc": "Determina si los líquidos en movimento empujan al jugados y objetos",
+        "runsetliquidpushingdsc": "Determina si los líquidos en movimento empujan al personaje y objetos",
         "runsetdisfigurement": "Acitivar desfiguramiento",
         "runsetdisfigurementdsc": "Determina si tu personaje puede perder de forma permanente sus rasgo faciales",
         "runsetsleepcyclespeed": "Velocidad de ciclo de sueño",
@@ -1467,9 +1467,9 @@
         "runsetencumbrancecap": "Límite de transporte",
         "runsetencumbrancecapdsc": "Cuanto peso puede llevar el personaje antes de estar sobrecargado",
         "runsetnosleeprestrictions": "Sin restricciones de sueño",
-        "runsetnosleeprestrictionsdsc": "¿Puede el jugado dormir siempre incluso si no está cansado o está dolorido/enfermo/etc?",
+        "runsetnosleeprestrictionsdsc": "¿Puede el personaje dormir siempre incluso si no está cansado o está dolorido/enfermo/etc?",
         "runsettraderchance": "Probabilidad de mercader",
-        "runsettraderchancedsc": "La frecuencia con la que los mercadres aparecen en cápsulas salvavidas",
+        "runsettraderchancedsc": "La frecuencia con la que los mercaderes aparecen en cápsulas salvavidas",
         "runsettraderitemamount": "Cantidad de objetos de mercader",
         "runsettraderitemamountdsc": "Multiplicador de la cantidad de objetos que los mercaderes tienen al aparecer",
         "runsettraderrepoffset": "Modificador de reputación de mercader",
@@ -1488,9 +1488,9 @@
         "runsetambientlightenough": "Lo suficiente para ver",
         "runsetambientlightbright": "Claro",
         "runsetoreamount": "Cantidad de mineral",
-        "runsetoreamountdsc": "Cuanto cobre e ilmenita se genera en cada capa.",
-        "runsetminigamehandshake": "Minigame hand shaking",
-        "runsetminigamehandshakedsc": "How much your hand shakes during minigames while in pain",
+        "runsetoreamountdsc": "Cuanto cobre e ilmenita se generan en cada capa.",
+        "runsetminigamehandshake": "Temblor de mano en minijuegos",
+        "runsetminigamehandshakedsc": "Cuánto te tiembla la mano durante los minijuegos cuando estás dolorido",
         "runsetdebugworld": "Mundo de pruebas",
         "runsetdebugworlddsc": "Si está activo, hace que el mundo sea mucho más pequeño para acelerar la generación. No está pensado jugar de forma normal.",
 
@@ -2154,7 +2154,7 @@
                 "Vamos a salir afuera.",
                 "*Preocupado*",
                 "¡Estoy emocionado!",
-                "Not excited for this.",
+                "No estoy emocionado por esto.",
                 "Mejor aquí que allí...",
                 "Al menos tenía comida y un refugio allí arriba...",
                 "Ya estoy hechando de menos a mis colegas de allí arriba.",
@@ -3048,7 +3048,7 @@
                 "Tengo que quitarme cualquier trozo de cristal que tenga.",
                 "Vamos a NO pisar cristales rotos.",
                 "Preferiría evitar insertar cristales en mis patas.",
-                "Esas ventanas claramente no estaban templados."
+                "Esas ventanas claramente no estaban templadas."
             ],
             "seecorpse": [
                 "Oh... Oh dios.",
@@ -3900,7 +3900,7 @@
             ],
 
             "vomitresponse": [
-                "Ehhhh... '¿Tas bien..?"
+                "Ehhhh... ¿'Tas bien..?"
             ],
             "vomitbloodresponse": [
                 "¡Ahh! Acabas de... Oh... Hey, sabes que acabas de... Vomitar sangre, ¿no?"
@@ -4119,7 +4119,7 @@
                 "Encuentre su fuente de agua en otro lugar."
             ],
             "sadresponse": [
-                "Por favor, cesa tus llantos."
+                "Por favor, cesa tus lloriqueos."
             ],
             "depressedresponse": [
                 "Caer en una espiral de desesperación no solucionará ninguno de tus problemas."
@@ -4132,7 +4132,7 @@
                 "Apostaría a que sufres una concusión."
             ],
             "hotresponse": [
-                "I may let you use this lifepod's cooler if you behave."
+                "Tal vez te deje usar la refrigeración de la cápsula si te comportas."
             ],
             "coldresponse": [
                 "Ejercita. Entrarás en calor en nada de tiempo."
@@ -4360,17 +4360,17 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "sigo perdiendo peso. necesito comer mas para estar en forma. todo este ejercicio de alli para alla te hace perder calorias muy rapido. supongo que tengo que estar lleno mas a menudo.",
+                "Item1": "sigo perdiendo peso. necesito comer más para estar en forma. todo este ejercicio de allí para allá te hace perder calorías muy rápido. supongo que tengo que estar lleno mas a menudo.",
                 "Item2": "Sprites/noteDrawings/underweight",
                 "Item3": "experiment"
             },
             {
-                "Item1": "esto es horrible. esto es jodidamente horrible. no puedo con esto. es una mision suicida. abandona toda la esperanza que tengas. esto no tiene sentido",
+                "Item1": "esto es horrible. esto es jodidamente horrible. no puedo con esto. es una misión suicida. abandona toda la esperanza que tengas. esto no tiene sentido",
                 "Item2": "Sprites/noteDrawings/x",
                 "Item3": "experiment"
             },
             {
-                "Item1": "no entiendo el porque estamos aqui. para que? se que tengo que recuperar una especie de bateria o algo. asumire que hay otros con la misma mision. no hay formas mas eficientes para hacer esto? de manera logica? para que mandarnos aqui. extraño a mis amigos. no quiero morir.",
+                "Item1": "no entiendo el porque estamos aqui. para qué? sé que tengo que recuperar una especie de batería o algo. asumiré que hay otros con la misma misión. no hay formas mas eficientes para hacer esto? de manera lógica? para qué mandarnos aquí. extraño a mis amigos. no quiero morir.",
                 "Item2": "Sprites/noteDrawings/alone",
                 "Item3": "experiment"
             },
@@ -4380,7 +4380,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "sobreescuche a nuestros captores llamarnos amalgamas mutadas a partir de \"humano, zorro y rata\", o lo que signifique eso. cuanto se nos esta ocultando? en cuanto a informacion? el hecho de pensarlo me aterra. nunca he llegado a considerar nada de estar afuera de donde nos criamos. y ahora estoy aqui. no puedo comprender todo esto.\n(Hay un dibujo de lo que parece ser un autoretrato.)",
+                "Item1": "sobreescuché a nuestros captores llamarnos amalgamas mutadas a partir de \"humano, zorro y rata\", o lo que signifique eso. cuánto se nos esta ocultando? en cuanto a información? el hecho de pensarlo me aterra. nunca he llegado a considerar nada de estar afuera de dónde nos criamos. y ahora estoy aquí. no puedo comprender todo esto.\n(Hay un dibujo de lo que parece ser un autoretrato.)",
                 "Item2": "Sprites/noteDrawings/experiment",
                 "Item3": "experiment"
             },
@@ -4425,7 +4425,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "abrazar a otros me pone feliz... pero algunos de los sobrevivientes me los rechaza, creo que pueden ser apaciguados de alguna forma. por cierto, dormir junto a ellos es mucho mejor que en el piso frío, solito.",
+                "Item1": "abrazar a otros me pone feliz... pero algunos de los supervivientes me los rechazan, creo que pueden ser apaciguados de alguna forma. por cierto, dormir junto a ellos es mucho mejor que en el piso frío, solito.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4517,12 +4517,12 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "things are going good for me. tasty food in my belly and maybe a mushtail or two makes me happy. the traders smile back at me too! i just hate seeing myself bleed, it scares me",
+                "Item1": "las cosas me van bien por ahora. comida rica en mi barriga y posiblemente una o dos tentácolas me hacen feliz. ¡los mercaderes también me devuelven la sonrisa! odio verme sangrar, me asusta",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i dont like not knowing what to do. back at home they would always tell me. play this game, be quiet when a human is talking, get stabbed by these pokey things.\nnow im supposed to complete this mission but i dont know how to do it. im thirsty and i hurt my leg but im also really dirty and cold and i have no idea where to go other than down.\ni guess ill try to stop what's going to kill me the fastest. i hope it works.",
+                "Item1": "no me gusta no saber qué hacer. en casa siempre me lo decían. juega a esto, estate callado cuando hable un humano, deja que te apuñalen estas cosas afiladas.\nahora se supone que debo completar esta misión pero no sé cómo. tengo sed y me he hecho daño en la pierna but pero también estoy muy sucio y frío and y no tengo ni idea de adónde ir salvo hacia abajo.\ncreo que intentaré parar lo que me vaya a matar antes. espero que funcione.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4584,12 +4584,12 @@
                 "Item3": ""
             },
             {
-                "Item1": "casi me ahogo hace un rato. nunca nade antes, y cansa mucho. es difil mantenerse a flote cuando estas cansado. imagino que hundirse para siempre tiene que ser muy doloroso... ve con cautela.",
+                "Item1": "casi me ahogo hace un rato. nunca nadé antes, y cansa mucho. es difícil mantenerse a flote cuando estás cansado. imagino que hundirse para siempre tiene que ser muy doloroso... ve con cautela.",
                 "Item2": "Sprites/noteDrawings/drown",
                 "Item3": "experiment"
             },
             {
-                "Item1": "escuche un poco de nuestros captores, aparentemente el cargamento que se supone que debemos de recuperar es una \"fuente avanzada de energia\". algo sobre almacenar una gran cantidad de energia y repartirla de manera \"inalambrica\". no se que significa ni la mitad de lo que han dicho, pero tal vez es util conocer esta informacion. Cuidate",
+                "Item1": "escuché un poco de nuestros captores, aparentemente el cargamento que se supone que debemos de recuperar es una \"fuente avanzada de energía\". algo sobre almacenar una gran cantidad de energía y repartirla de manera \"inalambrica\". no sé que significa ni la mitad de lo que han dicho, pero tal vez es útil conocer esta informacion. Cuídate",
                 "Item2": "",
                 "Item3": "experiment"
             },
