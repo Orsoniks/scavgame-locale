@@ -576,10 +576,6 @@
         "minibarreldsc": "Un pequeño barril industrial hecho para almacenar líquidos. Extremadamente pesado e impráctico."
     },
     "buildings": {
-        "mushplant": "Hidranta",
-        "mushplantdsc": "Se está contrayendo lentamente... Se ve húmedo.",
-        "plantiation": "Pop",
-        "plantiationdsc": "Una grande plánta con un color morado opaco, con un gran bulbo semitransparente creciendo en la punta.",
         "animalcorpse": "Cadáver de animal",
         "animalcorpsedsc": "",
         "fungalibungali": "Hongo bungaló",
@@ -1113,6 +1109,7 @@
         "focuseddsc": "<i>Ambos morimos hoy. Uno un poco después que el otro."
     },
     "other": {
+        "fullmouthchars": "mnoae",
         "underwaterchars": "blug",
         "layertitletutorial": "Tierra\nLaboratorio de entrenamiento",
         "layertitle1": "Tierras de grava",
