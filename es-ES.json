@@ -4169,7 +4169,7 @@
                 "Te imploro a que trates tus heridas."
             ],
             "painresponse": [
-                "El dolor es simplemente la debilidad saliendo del cuerpo. Fortalecete, gusano.",
+                "El dolor está garantizado aquí abajo. Fortalecete.",
                 "Tómate un analgésico. Seguro que debes tener algunos."
             ],
             "dirtyresponse": [
@@ -4180,7 +4180,7 @@
                 "Menudo fastidio que eres."
             ],
             "dyingresponse": [
-                "No esperes que desperdicie mi tiempo haciéndole RCP a tu cadáver.",
+                "No creo que la RCP pudiese ayudar en esta situación.",
                 "¿En serio? ¿Muriéndote, en MI suelo?",
                 "¿De verdad entrar en pánico va a mejorar la situación?"
             ]
