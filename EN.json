@@ -4171,7 +4171,7 @@
                 "I implore you to take care of your wounds."
             ],
             "painresponse": [
-                "Pain is simply weakness leaving the body. Toughen up, worm.",
+                "Pain is a guarantee down here. Toughen up.",
                 "Take a painkiller. Surely, you must have some..."
             ],
             "dirtyresponse": [
@@ -4182,7 +4182,7 @@
                 "Such a tease you are."
             ],
             "dyingresponse": [
-                "Do not expect me to waste my time performing CPR on your corpse.",
+                "I'm not sure CPR will help the situation at hand.",
                 "Really? Dying, on MY floor?",
                 "Will panicking really make the situation any better?"
             ]
