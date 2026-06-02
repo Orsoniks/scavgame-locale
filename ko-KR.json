@@ -1553,7 +1553,7 @@
         "gamesetscreenshake": "화면 흔들림",
         "gamesetscreenshakedsc": "크게 떨어졌을 때나 폭발 등이 벌어진 후 화면이 얼마나 흔들릴지 정합니다.",
         "gamesetcensorpain": "고통 묘사 검열",
-        "gamesetcensorpaindsc": "고통에 찬 신음과 몇몇 대사의 어조를 순화합니다.\n참고: 당신이 이 게임을 플레이하기 위해 이 설정이 꼭 필요한 게 아니라면 추천하지 않습니다.",
+        "gamesetcensorpaindsc": "고통에 찬 신음을 끄고 몇몇 대사의 어조를 순화합니다.\n참고: 당신이 이 게임을 플레이하기 위해 이 설정이 꼭 필요한 게 아니라면 추천하지 않습니다.",
         "gamesetcensormood": "기분 묘사 검열",
         "gamesetcensormooddsc": "기분이 낮을 때 연출과 몇몇 대사의 어조를 순화합니다.\n참고: 당신이 이 게임을 플레이하기 위해 이 설정이 꼭 필요한 게 아니라면 추천하지 않습니다.",
         "gamesetalwaysexpand": "물건 설명 늘 펼치기",
