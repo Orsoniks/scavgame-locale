@@ -3576,17 +3576,17 @@
                 "Out of stock! Sorry! You've bought so much already..."
             ],
             "traderwarning": [
-                "Leave.",
-                "Leave. Now.",
-                "Out! Get out!",
-                "Leave this pod.",
-                "I don't like you being here. Leave.",
-                "Leave!",
-                "Out.",
-                "Get out of here!",
-                "Get lost.",
-                "Fuck off!",
-                "Fuck off."
+                "Menj el.",
+                "Menj el. Most.",
+                "Kifelé! Menj ki!",
+                "Hagyd el ezt a kapszulát.",
+                "Nem tetszik, hogy itt vagy. Menj el.",
+                "Menj el!",
+                "Kifelé.",
+                "Menj ki innen!",
+                "Kopj le.",
+                "Húzz a picsába!",
+                "Húzz a picsába."
             ],
             "tradercombat": [
                 "I'm done with your shit.",
@@ -3611,12 +3611,12 @@
                 "Dude. Okay... Okay then. Okay... I... Uh... Please leave."
             ],
             "traderwakegreet": [
-                "Good mornin'.",
-                "Hi! You're up now.",
-                "Morning, sleepyhead.",
-                "How didya rest?",
-                "Hope you slept well.",
-                "Wakey wakey!"
+                "Jó reggelt.",
+                "Szia! Felkeltél.",
+                "Reggelt, álomszuszék.",
+                "Hogy aludtál?",
+                "Remélem jól aludtál.",
+                "Ébresztő!"
             ],
             "traderseegun": [
                 "...Woah there! Put that gun away, man... Anyway.",
