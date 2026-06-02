@@ -312,7 +312,7 @@
         "duffelbagdsc": "Una mochila de tamaño decente hecha de una tela resistente.",
         "bigpack": "Mochila",
         "bigpackdsc": "Una mochila de tamaño mediano.",
-        "bikehelmet": "Casco de bicicleta"
+        "bikehelmet": "Casco de bicicleta",
         "bikehelmetdsc": "Un casco diseñado para reducir la gravedad de los impactos en la cabeza. Reduce las lesiones en la cabeza por caídas.",
         "riothelmet": "Casco antidisturbios",
         "riothelmetdsc": "Un casco avanzado que reduce significativamente la gravedad de los traumatismos craneales.",
@@ -349,7 +349,7 @@
         "traumarig": "Chaleco táctico",
         "traumarigdsc": "Un chaleco sintético avanzado de protección que puede cargar varias herramientas, armas y equipo médico. ¡También protege tu torso!",
         "popcorn": "Palomitas",
-        "popcorndsc": "Un cubo con un montón de granos de maíz, inflados por el calor. Te parece un concepto bastante novedoso. Sabroso. Se conserva por mucho tiempo.",
+        "popcorndsc": "Un cubo con un montón de granos de maíz, inflados por el calor. Te parece un concepto bastante novedoso. Sabrosos. Se conserva por mucho tiempo.",
         "nopopcorn": "Canasta sin palomitas",
         "nopopcorndsc": "Canasta de papel vacío. Puedes almacenar cosas ahí dentro.",
         "spacedrain": "Drenador espacial",
@@ -459,7 +459,7 @@
         "striderpelt": "Piel del caminante",
         "striderpeltdsc": "Una trozo blanco, grueso y mullido arrancado de un caminante helado. Ofrece aislamiento térmico de los elementos.",
         "funguschunk": "Pedazo de hongo",
-        "funguschunkdsc": "Una parte arrancada de un hongo. Hace un trabajo decente como comida, aunque no estas del todo seguro acerca de sus efectos secundarios.",
+        "funguschunkdsc": "Una parte arrancada de un hongo. Hace un trabajo decente como comida, aunque no estás del todo seguro acerca de sus efectos secundarios.",
         "clottingmush": "Pasta coagulante",
         "clottingmushdsc": "Un pequeño frasco de cataplasma coagulante. Debe guardarse en un contenedor especial o se echará a perder. Aunque no es particularmente útil por sí solo, podría refinarse...",
         "bunchunk": "Bunchunk",
@@ -1000,13 +1000,13 @@
         "exertion2dsc": "Incómodamente agotado, luchando por moverse y trabajar. (<>%)",
         "exertion3dsc": "Apenas capaz de moverse, muy agotado físicamente. (<>%)",
         "exertion4dsc": "Apenas puedes respirar. (<>%)",
-        "brokenbonedsc": "Te rompiste algo. Intenta no utilizar la extremidad afectada y descansa lo máximo posible. Tratamiento muy recomendable.",
+        "brokenbonedsc": "Te rompiste algo. Intenta no utilizar la extremidad afectada y descansa lo máximo posible. Tratamiento altamente recomendado.",
         "dislocationdsc": "Te dislocaste algo. Trate de no utilizar la extremidad afectada y busque una manera de solucionarlo. Tratamiento recomendado.",
-        "brokenneckdsc": "Tienes el cuello roto. Tu médula espinal no está dañada, pero cualquier movimiento que haga será agonizante. Físicamente más débil del cuello para abajo. Comer es doloroso.",
+        "brokenneckdsc": "Tienes el cuello roto. Tu médula espinal no está dañada, pero cualquier movimiento que hagas será agonizante. Físicamente más débil del cuello para abajo. Comer es doloroso.",
         "brokenribsdsc": "Tus costillas están rotas, lo que hace que respirar sea doloroso y mucho más difícil. Espero que ninguno de ellos te haya perforado los pulmones. Fuerza en los brazos debilitada.",
         "dislocatedjawdsc": "Tu mandíbula está dislocada, lo que afecta tu habla y hace que comer cualquier cosa sea extremadamente doloroso.",
         "dislocatedspinedsc": "Tu columna está dislocada. Tu médula espinal no está dañada, pero moverte es realmente doloroso. Físicamente más débil de la cintura para abajo.",
-        "infected1dsc": "El sitio de la infección está hinchado y caliente. Tratamiento necesario. Encuentre algo que pueda matar los cuerpos extraños.",
+        "infected1dsc": "El sitio de la infección está hinchado y caliente. Tratamiento necesario. Encuentra algo que pueda matar los cuerpos extraños.",
         "infected2dsc": "El sitio de la infección desprende pus oscura y se hincha más. Tratamiento necesario.",
         "infected3dsc": "La infección se propaga por la extremidad de forma rápida y dolorosa. Posibilidades de sufrir sepsis. Se necesita tratamiento urgente.",
         "infected4dsc": "La infección se está propagando a otras extremidades y la extremidad infectada comienza a sufrir necrosis. La sepsis está comenzando. Se necesita atención de emergencia.",
@@ -1047,7 +1047,7 @@
         "hot4dsc": "Las células están empezando a morir por el intenso calor. El daño irreversible a los órganos es inminente.",
         "cold1dsc": "Con mucho frío para estar conforme.",
         "cold2dsc": "Desagradablemente frío. Tu cuerpo se está desacelerando.",
-        "cold3dsc": "Temperatura peligrosamente baja, cuerpo y mente invadidos por el frío. Todo tu cuerpo se está apagando lentamente.",
+        "cold3dsc": "Temperatura peligrosamente baja. Cuerpo y mente invadidos por el frío. Todo tu cuerpo se está apagando lentamente.",
         "cold4dsc": "Sientes que te estás quemando, pero también muy cansado y confundido. Buenas noches...",
         "wet1dsc": "Tu pelaje se siente ligeramente húmedo.",
         "wet2dsc": "Considerablemente mojado. La temperatura y la felicidad disminuyeron.",
@@ -1102,8 +1102,8 @@
         "lowimmunitydsc": "Tu sistema inmune está severamente debilitado, debido a la suciedad, al hambre, sed o más. Las infecciones son mucho más peligrosas. Cuídate mejor de ti mismo.",
         "highimmunitydsc": "Tu sistema inmune está trabajando a su máxima capacidad, posiblemente debido a los antibióticos. Las infecciones son mucho menos peligrosas, e incluso pueden desaparecer por si solas si están cerca del 200%.",
         "amputationdsc": "Una de tus extremidades ha sido desmembrada. Traumatizante. Obviamente, cualquier uso de la extremidad amputada ha desaparecido para siempre.",
-        "clawdamage1dsc": "Tus garras están desgastadas por su uso continuo, por lo que el daño que inflinges se reduce. Dale un descanso a tus manos o usa una herramienta.",
-        "clawdamage2dsc": "Tus garras están muy dañadas por su uso excesivo. El daño que inflinges se reduce aún más. Te podrías lastimar tus manos si sigues usándolas sin una herramienta.",
+        "clawdamage1dsc": "Tus garras están desgastadas por su uso continuo, por lo que el daño que infliges se reduce. Dale un descanso a tus manos o usa una herramienta.",
+        "clawdamage2dsc": "Tus garras están muy dañadas por su uso excesivo. El daño que infliges se reduce aún más. Te podrías lastimar tus manos si sigues usándolas sin una herramienta.",
         "keratinboosterdsc": "Tus garras se regeneran tres veces más rápido. (<>)",
         "impendingdoomdsc": "Sientes un miedo repentino y abrumador. Tu piel está erizada. Como si la naturaleza a tu alrededor se silenciara de repente...",
         "horrifieddsc": "NO PUEDES CONCENTRARTE. NO PUEDES PENSAR. NADA IMPORTA. ¡ES PELEAR O HUIR!",
@@ -1324,7 +1324,7 @@
         "amiodarone": "Amiodarona",
         "amiodaronedsc": "Un medicamento antiarrítmico usado para tratar y prevenir la fibrilación. Reducirá gradualmente la mayoría de las arritmias, pero causa sangrado interno leve. Solo funciona vía intravenosa. 20 ml por minuto.",
         "chocolatemilk": "Leche achocolatada",
-        "chocolatemilkdsc": "Un tipo de leche saborizada que se elabora mezclándola con sólidos de cacao. Muy dulce y sabroso, pero tóxico para tu especie. Aumenta la felicidad, consúmase con precaución.",
+        "chocolatemilkdsc": "Un tipo de leche saborizada que se elabora mezclándola con sólidos de cacao. Muy dulce y sabrosa, pero tóxico para tu especie. Aumenta la felicidad, consúmase con precaución.",
         "icedtea": "Té helado",
         "icedteadsc": "Un té frío descafeinado y endulzado. ¡Sabroso!",
         "soup": "Sopa",
@@ -1531,9 +1531,9 @@
         "tabinput": "Controles",
         "tablanguage": "Idioma",
         "gamesetreswidth": "Ancho de resolución",
-        "gamesetreswidthdsc": "",
+        "gamesetreswidthdsc": "Resolución horizontal preferida. Tenga presente que su sistema operativo podría limitarlo.",
         "gamesetresheight": "Altura de resolución",
-        "gamesetresheightdsc": "",
+        "gamesetresheightdsc": "Resolución vertical preferida. Tenga presente que su sistema operativo podría limitarla.",
         "gamesetfullscreen": "Pantalla completa",
         "gamesetfullscreendsc": "Alterna entre el modo ventana y el modo sin bordes",
         "gamesetvsync": "V-Sync",
@@ -1675,7 +1675,7 @@
         "fixdislocation": "Arreglar dislocación",
         "fixdislocationdsc": "Intentar corregir la dislocación a mano.",
         "removesplint": "Quitar férula",
-        "removesplintdsc": "Retirar la férula de la extremidad",
+        "removesplintdsc": "Retira la férula de la extremidad",
         "removetourniquet": "Quitar torniquete",
         "removeshrapnel": "Extraer esquirlas",
         "removeshrapneldsc": "Intenta extraer las esquirlas a mano.",
@@ -2695,16 +2695,6 @@
                 "Mi <limb> chorrea sangre...",
                 "¡Dios mío! ¡Parece que me equivoqué en mis cálculos y ahora mi <limb> se ve totalmente amarillo! ¡Oh dios querido! ¡Qué hago ahora!"
             ],
-            "sepsis": [
-                "Oh dios... Me siento muy mal...",
-                "Auugh... Qué me está ocurriendo...",
-                "Estoy... Luchando... Físicamente...",
-                "Mi cuerpo no lo está pasando bien...",
-                "Guuhh... Me siento mal...",
-                "Siento como si mi cuerpo entero estuviese inflamado...",
-                "Mis entrañas duelen...",
-                "No lo estoy pasando bien..."
-            ],
             "sad": [
                 "Podría haber salido peor.",
                 "Hmm...",
@@ -3507,7 +3497,7 @@
             ],
             "hitgroundhard": [
                 "¡Agh!",
-                "¡Gack!",
+                "¡Gagh!",
                 "¡Mierda!",
                 "¡Augh!",
                 "¡Ghagh!",
@@ -3583,7 +3573,7 @@
                 "¡AAHHHH NOO! ¡MIERDA! ¡ALÉJATE DE MI!",
                 "¡AAAAHHHHHHH!",
                 "*suspiro*",
-                "¡MIERDA! ¡CARAJO! ¡JODER! ¡AAHHHHHH!",
+                "¡MIERDA! ¡CARAJO! ¡MALDICIÓN! ¡AAHHHHHH!",
                 "¡NOOOOO! ¡AHHHHHHHHH!",
                 "¡AAGHHHHHHHH! ¡MIERDA! ¡DUELE!",
                 "¡MAAAALDITA SEA! ¡¡¡ALÉJATE!!! ¡AAAAHHHHHH!",
@@ -3958,6 +3948,21 @@
             "bleedingresponse": [
                 "Eso... Se ve mal... Pero, emm... Estoy seguro que lo puedes arreglar...",
                 "O-oye, cálmate. Vas a estar bien."
+            ],
+            "painresponse": [
+                "¿Estás bien..? ¿Por qué te duele?",
+                "¿Pisaste sobre algo?"
+            ],
+            "dirtyresponse": [
+                "...Sabes que tenemos una ducha, ¿no?. O... Bueno, solo ve a nadar en las pozas de por ahí..."
+            ],
+            "encumberedresponse": [
+                "No vendría mal darme algunas de tus cosas.",
+                "¡Haré un buen uso de tus cosas!"
+            ],
+            "dyingresponse": [
+                "Rayos... Uh... Nunca aprendí como reanimar a otros...",
+                "Ehh... Uh... Espero que estés bien..."
             ]
         },
         {
@@ -4128,7 +4133,8 @@
                 "¿Por qué le haría caso a alguien cómo tú?"
             ],
             "vomitresponse": [
-                "Parece que expulsaste el contenido de tu estómago."
+                "Parece que expulsaste el contenido de tu estómago.",
+                "¿Es en serio? ¿En MI piso?"
             ],
             "vomitbloodresponse": [
                 "...Parece que estás sangrando internamente. Por favor, apunta tu boca a otro lado para el futuro previsible."
@@ -4163,6 +4169,22 @@
             "bleedingresponse": [
                 "Por favor, no sangres sobre mí.",
                 "Te imploro que trates tus heridas."
+            ],
+            "painresponse": [
+                "El dolor es una garantía aquí abajo. Acostúmbrate.",
+                "Tómate un analgésico. Seguro que traes uno contigo..."
+            ],
+            "dirtyresponse": [
+                "Correcto. Estás sucio. Abstente de tocarme hasta que te limpies."
+            ],
+            "encumberedresponse": [
+                "¿No te importaría dejar esas pesadas pertenecias conmigo?",
+                "Eres un fastidio."
+            ],
+            "dyingresponse": [
+                "No estoy seguro que el RCP pueda solucionarlo.",
+                "¿Es en serio? ¿Muriendo? ¿Y preciso en MI piso?",
+                "¿Acaso entrar en pánico va a hacer que la situación mejore?"
             ]
         },
         {
@@ -4342,14 +4364,14 @@
                 "¡Sí Sí... Du-ne necesita com-ida también!"
             ],
             "thirstyresponse": [
-                "Du-ne bebe en charco... Sentir mej-or... ¿Intenta amigo?",
+                "Du-ne bebe en charco... Sentir mej-or... ¿Intenta ami-go?",
                 "Mm-m... ¿A be-ber?"
             ],
             "sadresponse": [
-                "¿Ami-go siente mal..? ¿Por qué?"
+                "¿Ami-go siente mal..? ¿Por q-ué?"
             ],
             "depressedresponse": [
-                "Ami-go verse muy mal... ¡Sentar-te con du-ne!"
+                "Ami-go verse muy mal... ¡Sentar-te con Du-ne!"
             ],
             "selfharmresponse": [
                 "¿Por qué ami-go se corta? ¿Ami-go es malo?"
@@ -4362,11 +4384,26 @@
                 "¡Du-ne nunca tiene calor! Du-ne ama calor..."
             ],
             "coldresponse": [
-                "Du-ne teme el f-río... ¡Cuarto es cá-lido! Ami-go quéda-te con du-ne..."
+                "Du-ne teme el f-río... ¡Cuarto es cá-lido! Ami-go quéda-te con Du-ne..."
             ],
             "bleedingresponse": [
                 "Ami-go herido. ¡Ami-go necesita ayuda!",
                 "Ami-go oler a sangre. Du-ne gustar."
+            ],
+            "painresponse": [
+                "¿Ami-go herido..?",
+                "Du-ne ent-iende... ¡Du-ne sentir también do-lor! ¿Ami-go bien?"
+            ],
+            "dirtyresponse": [
+                "¿Qué es su-cio?"
+            ],
+            "encumberedresponse": [
+                "¿Poder tomar cosas de amigo?",
+                "¡Du-ne puede aliviar carga!"
+            ],
+            "dyingresponse": [
+                "¿Qu-é le pasa a ami-go..?",
+                "Du-ne no saber cómo ayu-dar..."
             ]
         }
     ],
@@ -4523,9 +4560,9 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(La nota está arrugada y aplastada, como si alguien hubiera querido tirarla.)\n<>\nmi amigo, cre... creo que se suicidó. después de tener otra caída grave, intenté arreglarle sus piernas, pero seguía diciéndome que me fuera a la mierda. me seguía apartando como si fuera una mosca, insistiendo en que lo dejara solo. no lo entiendo. salí a recoger algunas plantas que encontré para intentar vendarlo, pero... cuando regresé, tenía otra herida. en su brazo. aún recuerdo cómo se veía, estaba tan mal que parecía arrancada. intenté usar las plantas que encontré para curar esa herida, pero seguía en las mismas. sus ojos estaban... parecían verse... vacíos. le dije que dejara esa mierda y que lo dejara ayudar, pero no respondía. lo intenté un par de veces más y me empujaba hasta que... dejó de hacerlo. recuerdo ver su cuerpo relajarse, creo que eso pasó cuando dejó de respirar. no puedo sacarme esa imagen de mi cabeza...\n<>\n¿hi... hice algo malo? Juro que no... ¿qué hice mal? ¿por qué hacía eso? no... no hice nada. No entiendo, no quiero morir... no quiero... no...\n<>\n...\n<>\nja, ja...\n<>\nestoy tan solo.\n<>\n(Notas algunas lágrimas secas y manchas de sangre seca esparcida entre las arrugas de la nota.)",
+                "Item1": "(La nota está arrugada y aplastada, como si alguien hubiera querido tirarla.)\n<>\nmi amigo, cre... creo que se suicidó. después de tener otra caída grave, intenté arreglarle sus piernas, pero seguía diciéndome que lo dejara en paz. me seguía apartando como si fuera una mosca, insistiendo en que lo dejara solo. no lo entiendo. salí a recoger algunas plantas que encontré para intentar vendarlo, pero... cuando regresé, tenía otra herida. en su brazo. aún recuerdo cómo se veía, estaba tan mal que parecía arrancada. intenté usar las plantas que encontré para curar esa herida, pero seguía en las mismas. sus ojos estaban... parecían verse... vacíos. le dije que dejara esa mierda y que lo dejara ayudar, pero no respondía. lo intenté un par de veces más y me empujaba hasta que... dejó de hacerlo. recuerdo ver su cuerpo relajarse, creo que eso pasó cuando dejó de respirar. no puedo sacarme esa imagen de mi cabeza...\n<>\n¿hi... hice algo malo? Juro que no... ¿qué hice mal? ¿por qué hacía eso? no... no hice nada. no entiendo, no quiero morir... no quiero... no...\n<>\n...\n<>\nja, ja...\n<>\nestoy tan solo.\n<>\n(Notas algunas lágrimas secas y manchas de sangre seca esparcida entre las arrugas de la nota.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(Hay gráficos coloridos en el papel, y no parecen haber sido escritos a mano)\n<>\n¡Sopa! Prueba nuestra Olla Especial: solo coloca la carne y los ingredientes, y deja que se cocinen a fuego lento. No te preocupes, verás que vale cada gramo de sabor. ¡Se puede conservar hasta por 737 años!",
@@ -4782,7 +4819,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "found some weird bouncey things. they sent me flying... but i could keep my feet pointed down. its pretty fun. maybe could be useful sometimes, too. kind of dangerous maybe, but what isnt down here.",
+                "Item1": "encontré unas cosas raras que te hacen rebotar. me hicieron salir volando... pero pude mantener mi equilibrio. es muy divertido. tal vez pueda ser útil también en ocasiones. algo peligroso, me imagino, pero qué no lo es aquí abajo.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4794,97 +4831,97 @@
         ],
         [
             {
-                "Item1": "every single one of these growths here seems like it has some kind of effect... i dont know what exactly. its unpredictable. but there are patterns to it. some are safe, some arent, some are helpful. i'll try to write things down as i figure it out...",
+                "Item1": "cada uno de estos cristales tiene un efecto distinto... no sé qué exactamente. es impredecible, pero he visto ciertos patrones. algunos son seguros, otros no y otros te pueden ayudar. intento escribir estas cosas mientras descubro su naturaleza...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "..ugh. okay. the yellow ones HURT. feels kind of similar to the coils i found a few hours back... they usually have some kind of weird zappy field around them... don't touch them. its not good. for your body, at least. i noticed it did somehow recharge all my batteries after touching...",
+                "Item1": "..ugh. bueno. las amarillas DUELEN. se siente muy parecidas a los conductores que encontré hace unas horas... usualmente tienen algo a su alrededor, como un campo raro que suelta chispas a su alrededor... no los toquen. no es bueno. para tu cuerpo, al menos. me di cuenta de que recargó todas mis baterías después de tocarlo, de alguna forma...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "this geiger counter i have goes crazy when around one of the green growths. some kind of \"radiation\", whatever that is. im pretty sure its bad for you. avoid being near those if you can.",
+                "Item1": "este contador geiger se pone como loco cuando me acerco a las de color verde. algún tipo de \"radiación\", lo que sea que sea eso. pero estoy seguro de que es algo malo para ti. eviten acercarse a esos si pueden.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "noticed some of these are weirdly fragile. they shatter when i touch them at all. youll see they look really brittle, there's cracks all over them. weirdly enough, this seems to also appear alongside some of the other types ive seen... wonder if this is the case for all of them.",
+                "Item1": "me he dado cuenta de que algunos de estos son muy frágiles. se rompen cuando apenas los toco. se ven y son muy quebradizos, tienen grietas por todas partes. y aún más raro, que esto les pasa a otros tipos de cristales que he visto... me pregunto si esto pasa para los demás.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "noticed a lot of the growths either push me away or pull me in. you can feel some kind of force going through you when that happens. could prove useful sometimes",
+                "Item1": "he notado que muchas formaciones me repelen o me atraen. puedes sentir como una especie de fuerza que te recorre cuando eso pasa. podría ser algo útil, tal vez",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "gosh. i am SO glad i had an ice pack on me. it seems like the foggy, shimmery ones rapidly heat things up around them... including me. i wouldnt be surprised if some did the opposite. i heard this weird sound coming from them too...",
+                "Item1": "dios. me alegra TANTO de tener una bolsa de hielo conmigo. las que tienen niebla y son brillantes hace que se caliente todo a su alrededor... incluyéndome. no me sorprendería si otra de estas hiciera lo opuesto. y agrego que escuché un sonido raro que venían de esas...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "make sure you have some antibiotics n such. i think the purple ones mess with your immune system. they have a vague purple haze around them... i sat next to one for a while to rest, and noticed my vital signs dropping on my chip. seems like some kind of sepsis response. i think i'll be fine",
+                "Item1": "asegúrate de tener algo de antibióticos o algo parecido. creo que las moradas afectan tu sistema inmune. tienen como una neblina morada muy tenue a su alrededor... me había sentado al pie de una de estas para descansar, y luego vi en mi chip como mis signos vitales fueron en picada. parece como una especie de respuesta por la sepsis. creo que estaré bien",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "okay. the shakey ones look really scary... they aren't. they send you flying... but, like, i can keep my feet pointed down the entire time. kind of similar to the bouncey things in the previous area i was in.",
+                "Item1": "okay. las que tiemblan se ven muy aterradoras... pero no lo son. te mandan volando... pero, puedo caer de pie todo el tiempo. algo similar a las cosas que rebotan en el área que estaba antes.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "...\n<>...\n<>...\n<>the flying things. i dont know how they did that. holy... oh god. im fine now, but...<>\n\nhow to say this... theres weird sharp flying things. they make really weird loud noises... almost as if theyre laughign at me. they wind up sometimes and charge at me, trying to stab me. they got me once or twice, but... whenever they did that, they got stuck in the ground and i hit it a few times until it... uh... not sure... what happened, but it was gone. i think it came from one of the growths, but it was kind of moving.<>\n\ni got something after it disappeared... maybe its useful? it feels like its growing into something, ill wait and see.",
+                "Item1": "...\n<>...\n<>...\n<>las cosas flotantes. no sé cómo lo hacían. santo... oh dios. estoy mejor, pero...<>\n\nCómo decir esto... hay unas cosas afiladas que vuelan. hacen ruidos muy raros... como si se estuvieran riendo de mí. a veces toman un impulso y cargan contra mí, intentando apuñalarme. me dieron una o dos veces, pero... cada vez que lo hacían se quedaban atascadas en el suelo y las pude golpear varias veces hasta que... uh... no estoy seguro... lo que pasó, pero desapareció. creo que vino de esos cristales, pero de las que se movía.<>\n\ncuando desapareció, tuve esta cosa... ¿quizás sea útil? parece que se está convirtiendo en algo, esperaré a ver que pasa.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "okay. good news and bad news. the thing i kept around after killing one of the flying things... it... grew into. more of the flying things. two of them... from one... they seemed to be slower in a group though... like, they were... giving me a chance to fight back? weird.<>\n\ni ate the cores i got from them, i didnt have any other ideas for what to do with it... it was. pretty good, actually. and it seems like it didnt morph into anything this time. maybe i could do this every once in a while to get more and more food? i cant exactly find much of it down here anyway",
+                "Item1": "okay. hay buenas y malas noticias. la cosa que había guardado después de matar una de esas cosas flotantes... pues... creció. en otras dos cosas flotantes... de una sola... pero parecían ir más despacio cuando iban en grupo, como si me dieran la oportunidad de... ¿defenderme? qué raro.<>\n\nme comí uno de esos núcleos que saqué de esas cosas, no se me ocurrió otra idea sobre cómo deshacerme de esas cosas... y la verdad. estaban bastante ricos. y esta vez, sin cosas flotantes transformadas. ¿tal vez podría hacer esto más seguido para tener más y más comida? de todas formas, casi no encuentro mucha por aquí abajo",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "no clue where i am. i think i touched a weird growth and got... sent. somewhere. safely, though. still, no clue where. all i remember is it looking a bit more see-through than usual. almost as if i could see the place i ended up in...",
+                "Item1": "no tengo idea de dónde estoy. creo que toqué un cristal raro y... terminé. en otro lugar. a salvo. pero sigo sin tener idea en dónde. todo lo que recuerdo es mirar un cristal más transparente de lo normal. casi como si pudiera ver el lugar en el que estoy...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "noticed a lot of these things drip liquids. doesnt seem like they do much else though. water source, maybe?",
+                "Item1": "he notado que muchas de estas cosas gotean líquidos. no parecen que hagan algo más. ¿podría ser una fuente de agua?",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "touched a gray one, it flashed white, made a weird noise. didnt feel much afterwards... until i tried using my laser drill. thing was out of power, when i was sure it wasnt a moment ago. checked the rest of the batteries i saved up, same story. weird. avoid. might be worth throwing myself at one of the zappy ones to recharge them...",
+                "Item1": "toqué uno de color gris, y eso alumbró con una luz blanca e hizo un ruido extraño. no sentí nada después de eso... hasta que intenté usar mi taladro láser. ya estaba descargada y tengo memoria de que no lo estaba hace un rato. revisé el resto de las baterías que guardé y la misma historia. extraño. evítalas. podría valer la pena arrojarme a una de las que echan chispas para recargarlas...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "eyes hurt. next to a super super bright one. doesnt seem like its doing anything other than... well.. blinding me. dont like it, but i prefer that over whatever other things they can do.",
+                "Item1": "mis ojos duelen. estoy al lado de una súper ultra brillante. creo que no hace nada más que... bueno... cegarme. no me gusta, pero prefiero eso a cualquier otro efecto que estas cosas hacen.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "the reddish ones blow up. run when it ticks down. i'm fine... god, i sure as hell almost wasn't.",
+                "Item1": "las rojizas explotan. corre cuando escuches un tic. estoy bien... dios, un poco más y no estaría escribiendo esta nota.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "found a weird hazy one. touched it, and i couldnt see for a bit... but when i opened my eyes, i saw some rope and a bag laying infront of me. the growth was gone. i cant complain. doesnt seem like it did anything else.",
+                "Item1": "encontré uno que tenía una niebla rara. lo toqué y no pude ver por un rato... y cuando abrí mis ojos, encontré algo de cuerda y un bolso en frente de mí. y el cristal desapareció. no me quejo. no parece que hiciera otra cosa más.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "you can touch the green ones. theyre good. i liked that a lot. hehe. uh. the not geiger counter activating green ones. the good ones seem like they bounce up a bit. oh... uh... huh... i liked the green one a lot. i like the green one. you can touch it. i like the green one.",
+                "Item1": "uno si puede tocar las verdes. son buenas. me gustaron mucho. je je. uh. los verdes que no activan el contador geiger. los que son buenos parece que rebotan un poquito. oh... uh... ajá... me gusta mucho el verde. me gusta el verde. puedes tocarlo. me gusta el verde.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "found a burning one. touched it out of curiosity. don't do that. it was hot.",
+                "Item1": "encontré uno ardiendo. lo toqué por curiosidad. no lo hagan. estaba muy caliente.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "huh. i was walking on one of the growth and it looked normal, but it suddenly made a sound and became different. like. it switched places? weird.",
+                "Item1": "umm. estaba caminando en un cristal que parecía normal, pero de repente hizo un sonido y se transformó en otro. como si. ¿cambiaran lugares? qué raro.",
                 "Item2": "",
                 "Item3": "experiment"
             }
@@ -4928,7 +4965,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[Registro de Inventario 11-34X]\n[Medidas de Retención al Personal en las Instalaciones]\n--------------------------------------------------------<>\nRR-104 Dispositivo Neumático de Control de Acceso Por Área - \"Trampa de Estaca\"\n\nUna varilla de acero afilada (180 cm de largo, 10 cm de diámetro) ligada a un mecanismo de lanzamiento, capaz de extenderse por completo en 0.3 segundos.\nDiseñado para causar heridas perforantes e incapacitantes que privan la capacidad de movimiento al objetivo de forma inmediata. Activación mediante sensor de movimiento.\n\n[Nota: Esto es ridículo. Estas cosas se ven a más de un kilómetro, y el mecanismo necesita volver a ser armado después de un solo uso. Lo único al que lograría detener es al fugitivo más torpe. Proyecto descontinuado. Deshacerse de las unidades existentes.\n--------------------------------------------------------<>\nTG-22 Lanzador Termodirigido de Proyectiles - \"Torreta\"\n\nUn rifle de calibre 9 mm unido sobre un soporte de la marca <corrupt:0xFB387A>.\nEl mecanismo de disparo es controlado por un sensor térmico captado en un rango de 100 metros.\nExisten variantes que usan munición de mayor calibre, pero las 9 mm deberían servir por ahora.\n\n[Nota: Le pusiste un arma encima de una cámara térmica. Pero, aun así, es efectiva. Recomendaría calibres más altos, debido a nuestras nuevas adiciones de especímenes. Sin embargo, no nos serán útiles. Resolviste un problema de efectividad, pero la letalidad no es una característica deseada. Los especímenes y empleados representan un riesgo de seguridad, pero tampoco son invaluables.]\n--------------------------------------------------------<>\nDD-6X1 Sistema Acústico de Coerción - \"Cañón Sonórico\"\n\nUn altavoz direccional modificado que utiliza bancos de condensadores de alto rendimiento. Diseñado para forzar la obediencia mediante estímulos acústicos.\nLa exposición provoca pérdida inmediata del control motriz, hemorragia interna leve a moderada y dolor severo.\nLa potencia de salida se detalla exclusivamente en documentación confidencial.\n\n[Nota: Esto servirá.]",
+            "Item1": "[Registro de Inventario 11-34X]\n[Medidas de Retención al Personal en las Instalaciones]\n--------------------------------------------------------<>\nRR-104 Dispositivo Neumático de Control de Acceso Por Área - \"Trampa de Estaca\"\n\nUna varilla de acero afilada (180 cm de largo, 10 cm de diámetro) ligada a un mecanismo de lanzamiento, capaz de extenderse por completo en 0.3 segundos.\nDiseñado para causar heridas perforantes e incapacitantes que privan la capacidad de movimiento al objetivo de forma inmediata. Activación mediante sensor de movimiento.\n\n[Nota: Esto es ridículo. Estas cosas se ven a más de un kilómetro, y el mecanismo necesita volver a ser armado después de un solo uso. El único al que lograría detener es al fugitivo más torpe. Proyecto descontinuado. Deshacerse de las unidades existentes.\n--------------------------------------------------------<>\nTG-22 Lanzador Termodirigido de Proyectiles - \"Torreta\"\n\nUn rifle de calibre 9 mm unido sobre un soporte de la marca <corrupt:0xFB387A>.\nEl mecanismo de disparo es controlado por un sensor térmico captado en un rango de 100 metros.\nExisten variantes que usan munición de mayor calibre, pero las 9 mm deberían servir por ahora.\n\n[Nota: Le pusiste un arma encima de una cámara térmica. Pero, aun así, es efectiva. Recomendaría calibres más altos, debido a nuestras nuevas adiciones de especímenes. Sin embargo, no nos serán útiles. Resolviste un problema de efectividad, pero la letalidad no es una característica deseada. Los especímenes y empleados representan un riesgo de seguridad, pero tampoco son invaluables.]\n--------------------------------------------------------<>\nDD-6X1 Sistema Acústico de Coerción - \"Cañón Sonórico\"\n\nUn altavoz direccional modificado que utiliza bancos de condensadores de alto rendimiento. Diseñado para forzar la obediencia mediante estímulos acústicos.\nLa exposición provoca pérdida inmediata del control motriz, hemorragia interna leve a moderada y dolor severo.\nLa potencia de salida se detalla exclusivamente en documentación confidencial.\n\n[Nota: Esto servirá.]",
             "Item2": ""
         },
         {
@@ -4980,17 +5017,17 @@
         "¡Oye!",
         "\"Mientras no estás, traéme una gaseosa.\"",
         "Cobarde.",
-        "And so, time has halted...",
-        "The clock stopped ticking",
+        "Y así, el tiempo se ha detenido...",
+        "El reloj dejó de avanzar",
         "Solo inhala y exhala.",
         "No fue para TANTO...",
         "Hagamos una pausa.",
         "¿Estresado?",
-        "Wow, ¿sigues vivo?",
+        "Guau, ¿sigues vivo?",
         "Oye, ¡vuelve al trabajo!",
         "Tómate un respiro.",
         "¿Hora de almorzar?",
-        "Tómate un snack.",
+        "Ve por algo de comer.",
         "¡Oh, vamos!",
         "Eso dolió con solo mirar.",
         "Podría haber salido mejor.",
@@ -4999,11 +5036,11 @@
         "Entonces, ¿cómo va tu día?",
         "¡Hola!",
         "Se tardó bastante.",
-        "What a display of competency...",
+        "Qué gran demostración de habilidad...",
         "¿Muy asustado?",
         "¿Te rindes?",
         "Siempre hay un precio por el silencio.",
-        "Could've given me a warning at least.",
+        "Al menos me podrías haber avisado.",
         "Nos volvemos a encontrar.",
         "¿Necesitas ayuda? Qué mal.",
         "El exceso de confianza es un asesino lento y traicionero",
@@ -5013,64 +5050,64 @@
         "Sabes que esto no te salvará.",
         "Siempre observando.",
         "Aún no hemos terminado. Vuelve a trabajar.",
-        "Thought you'd last a little longer.",
+        "Pbesé que aguantarías un poco más.",
         "Y así se detuvo...",
         "Esto no cambiará tu destino.",
-        "We're done when I say we're done.",
-        "I don't like being interrupted.",
-        "Now what? What's your next step?",
-        "You are no fun.",
-        "Got something on your mind?",
+        "Terminaremos cuando yo diga que terminamos.",
+        "No me gusta que me interrumpan.",
+        "¿Ahora qué? ¿Cuál es tu siguiente paso?",
+        "Eres un aburrido.",
+        "¿Tienes algo en mente?",
         "Pausado. ¿Por qué?",
         "Usa este tiempo sabiamente.",
         "Puedo esperar todo el día.",
         "Aún sigo aquí.",
-        "The World has stopped. It's quiet.",
-        "No pausado. ¡Bromeo!",
+        "El mundo se ha detenido. Qué silencio.",
+        "No está pausado. ¡Bromeo!",
         "Grosero. Pero lo aceptaré. Pausado.",
         "Es de mala educación hacer esperar a alguien.",
         "Asegúrate de estirar tus piernas.",
         "Esto no es una carrera, pero apúrate.",
-        "You are terrible at this. I'm proud.",
-        "You should've seen the look on your face!",
-        "Plenty of space for improvement. Just saying.",
-        "Keep going. What else can you do?",
+        "Eres pésimo en esto. Estoy orgulloso de ti.",
+        "¡Deberías haber visto la cara que pusiste!",
+        "Aún te falta mucho por mejorar. Solo digo.",
+        "Sigue. ¿Qué otra cosa puedes hacer?",
         "Igual podrías rendirte. El botón está justo ahí.",
         "Solo termina de una vez y regresa.",
-        "I don't like this habit of yours.",
-        "You're gonna give me a headache. Or, you would, if I could feel pain.",
-        "Are you doing this on purpose? Get on with it.",
-        "Going to take the easy way out?",
-        "I have all the time I need. Same cannot be said about you.",
-        "A grand delusion. A grand failure and waste. But not to me.",
+        "No me gusta esta costumbre tuya.",
+        "Me vas a dar un dolor de cabeza. Bueno, así sería si pudiera sentir dolor.",
+        "¿Lo estás haciendo a propósito? Ponte serio y muévete.",
+        "¿Vas a tomar el camino fácil?",
+        "Tengo todo el tiempo que necesito. No puedo decir lo mismo de ti.",
+        "Un gran fraude. Un gran fracaso y desperdicio. Pero no para mí.",
         "Qué interesante. Por favor, continúa.",
-        "An amusing display of emotion.",
-        "I am the all that I possess. Are you?",
-        "Your delusion of any semblance of control is amusing. Continue.",
+        "Una entretenida exposición de emociones.",
+        "Yo soy el todo que poseo. ¿Y tú?",
+        "Tu ilusión de tener cualquier tipo de control es entretenida. Continúa.",
         "¿Listo para empezar a tomarte esto en serio?",
         "Atrapado en la eternidad.",
         "Ellos no saben que lo estás haciendo.",
         "Aún puedes solucionar esto. He visto cosas peores.",
         "¿Hola? ¿Está encendido?",
-        "I hope you reflect on what you just did.",
-        "You really think this thing is worth getting all the way down there? I can make plenty more.",
+        "Espero que reflexiones sobre lo que acabas de hacer.",
+        "¿Realmente crees que esta cosa lo vale para bajar por todo esto? Puedo hacer muchos más.",
         "¿Estás deteniendo el tiempo a cada rato para ver lo que tengo que decir?",
-        "Una pena, justo cuando me empezabas a caer bien.",
+        "Qué pena, justo cuando me empezabas a caer bien.",
         "¿Te sientes al mando?",
-        "You all are incredibly disappointing. But also entertaining. Are you any different?",
-        "I know how this ends. But do continue.",
-        "The stars are watching you.",
+        "Todos ustedes son increíblemente decepcionantes. Y entretenidos a la vez. ¿Eres distinto a ellos?",
+        "Sé cómo esto termina. Pero continua.",
+        "Las estrellas te observan.",
         "El \"Humano\" no es el único que observa.",
         "Nunca aprende. Nunca comprende. Nunca consistente. Si solo pudieras ver.",
         "Detrás de ti.",
-        "This place has more interest than you could ever comprehend.",
-        "So much confidence in your own intellect. Cute.",
-        "Your supervisors do not tell you everything.",
-        "You're a dead man walking. Statistically speaking.",
+        "Este lugar es mucho más fascinante del que jamás podrías comprender.",
+        "Cuánta confianza en tu propio intelecto. Adorable.",
+        "Tus captores no te lo dicen todo.",
+        "Eres un muerto caminando. Estadísticamente hablando.",
         "Supongo que sí existen los milagros.",
         "¿Retrasando lo inevitable?",
-        "I'm afraid it's terminal.",
-        "You are too resilient for your own good.",
+        "Me temo que es terminal.",
+        "Eres demasiado resiliente para tu propio bien.",
         "¡Ey, estábamos llegando a la mejor parte!",
         "No te pongas cómodo."
     ]
