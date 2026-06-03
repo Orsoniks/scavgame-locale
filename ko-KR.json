@@ -1548,6 +1548,8 @@
         "gamesetbloomdsc": "밝은 것을 더 멋져 보이게 합니다. 더러운 렌즈 효과에도 영향을 줍니다",
         "gamesetfilmgrain": "필름 그레인",
         "gamesetfilmgraindsc": "노이즈 필터 효과를 얼마나 보이게 할지 정합니다",
+        "gamesetbrightness": "밝기",
+        "gamesetbrightnessdsc": "완전히 검지 않은 부분을 얼마나 밝게 할지 정합니다.",
         "gamesetlineofsightcount": "시선 범위 해상도",
         "gamesetlineofsightcountdsc": "시선 범위 셰이더가 적용될 때 얼마나 섬세하게 할지 정합니다. 값을 높이면 성능이 떨어집니다",
         "gamesetscreenshake": "화면 흔들림",
