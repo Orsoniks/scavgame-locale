@@ -1548,6 +1548,8 @@
         "gamesetbloomdsc": "Hace que los objetos brillantes se vean mejor. Afecta también a la suciedad del lente",
         "gamesetfilmgrain": "Grano de película",
         "gamesetfilmgraindsc": "Cuánta cantidad de filtro de ruido quieres que sea visible",
+        "gamesetbrightness": "Brillo",
+        "gamesetbrightnessdsc": "Cuánto brillo reciben los tonos que no están en negro absoluto",
         "gamesetlineofsightcount": "Resolución de la línea de visión",
         "gamesetlineofsightcountdsc": "Qué tan detallado es la sombra de la línea de visión si aplica. Valores más altos empeoran el rendimiento",
         "gamesetscreenshake": "Sacudida de pantalla",
