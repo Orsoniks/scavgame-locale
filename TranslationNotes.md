@@ -5,11 +5,10 @@ This document contains extra notes about some of the texts present in the Englis
 - [General notes](#general-notes)
   - [Survivor notes](#survivor-notes)
 - [Notes on specific texts](#notes-on-specific-texts)
-  - [`moodles.bleeding4dsc`](#moodlesbleeding4dsc)
-  - [`moodles.thirst4dsc`](#moodlesthirst4dsc)
-  - [`moodles.sepsis3dsc`](#moodlessepsis3dsc)
-  - [`moodles.irradiated4dsc`](#moodlesirradiated4dsc)
-  - [`pauseQuotes`](#pausequotes)
+  - [Main](#main)
+  - [Moodles](#moodles)
+  - [Other](#other)
+  - [Pause Quotes](#pause-quotes)
 
 ## General notes
 
