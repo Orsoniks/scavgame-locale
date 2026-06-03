@@ -4124,7 +4124,7 @@
             "traderlightbreak": [
                 "...Hermano. Tengo ojos. Ladrón... ¡Ya vete!",
                 "Oh, ¡idiota! Vete, ¡ahora! ¡FUERA!",
-                "¡EY! Imbécil! ¡Sal de aquí, carajo!",
+                "¡EY! ¡Imbécil! ¡Sal de aquí, carajo!",
                 "¿¡Por qué mierda harías eso!? ¡Ya vete! ¡Necesitaba esa luz!",
                 "¿¡Por qué estás destrozando mi cápsula!? ¡AFUERA! ¡VETE!"
             ],
@@ -4132,7 +4132,7 @@
                 "Está bien."
             ],
             "tradermovefail": [
-                "¿Por qué le haría caso a alguien cómo tú?"
+                "¿Por qué le haría caso a alguien como tú?"
             ],
             "vomitresponse": [
                 "Parece que expulsaste el contenido de tu estómago.",
