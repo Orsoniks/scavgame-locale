@@ -3,6 +3,7 @@
 This document contains extra notes about some of the texts present in the English locale, like context to take into consideration while translating, or specific references used.
 
 - [General notes](#general-notes)
+  - [Translation style](#translation-style)
   - [Survivor notes](#survivor-notes)
 - [Notes on specific texts](#notes-on-specific-texts)
   - [Main](#main)
