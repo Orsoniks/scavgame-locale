@@ -1545,6 +1545,8 @@
         "gamesetbloom": "Brillo",
         "gamesetbloomdsc": "Hace que las cosas mas brillantes se vean mejor. También afecta a la suciedad de lente",
         "gamesetfilmgrain": "Filtro de grano de película",
+        "gamesetbrightness": "Brillo",
+        "gamesetbrightnessdsc": "Cuánto brillo se le da a los tonos que no sean totalmente oscuros",
         "gamesetfilmgraindsc": "Como de visible quieres que sea el filtro de grano de película",
         "gamesetlineofsightcount": "Resolución de línea de visión",
         "gamesetlineofsightcountdsc": "Como de detallado es el sombreado de la línea de visión, cuando sea aplicable. Un valor más alto reduce el rendimiento.",
