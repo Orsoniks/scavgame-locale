@@ -1473,7 +1473,7 @@
         "runsetlowmoodeventsdsc": "Debería el personaje tomar medidas especiales si su humor está muy bajo",
         "runsetliquidpushing": "Empuje por líquidos",
         "runsetliquidpushingdsc": "Determina si los líquidos en movimento empujan al personaje y objetos",
-        "runsetdisfigurement": "Acitivar desfiguramiento",
+        "runsetdisfigurement": "Activar desfiguramiento",
         "runsetdisfigurementdsc": "Determina si tu personaje puede perder de forma permanente sus rasgos faciales",
         "runsetsleepcyclespeed": "Velocidad de ciclo de sueño",
         "runsetsleepcyclespeeddsc": "Como de rápido se gasta la energía estando despierto y se regenera al dormir",
