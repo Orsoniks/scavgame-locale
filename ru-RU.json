@@ -1,6 +1,6 @@
 {
     "name": "Русский",
-    "description": "Неофициальная русская локализация. Может иметь ошибки. Другие переводы доступны по ссылке: <color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>. Они не были тщательно проверены, и также могут содержать ошибки или быть устаревшими.\nАвторы данной локализации: UCRD (Axawer), Vinterhelm, SoberFurry, Kavoshnik",
+    "description": "Неофициальная русская локализация. Может иметь ошибки. Другие переводы доступны по ссылке: <color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>. Они не были тщательно проверены, и также могут содержать ошибки или быть устаревшими.\nАвторы данной локализации: UCRD (Axawer), Vinterhelm, SoberFurry, Kavoshnik.",
     "main": {
         "bandage": "Бинт",
         "bandagedsc": "Рулон бинта. Замедляет кровотечение, стабилизирует переломы и заживляет кожу. Не влияет на здоровье мышц.",
@@ -1949,12 +1949,12 @@
         "endscreenstatus": "ОТЧЕТ О СОСТОЯНИИ ГРУЗА MSN",
         "endscreenunresolved": "НЕ РАЗРЕШЕНО",
         "endscreencasualties": "ПОТЕРИ:",
-        "endscreenunknown": "НЕИЗВЕСТНО",
+        "endscreenunknown": "НЕИЗВЕСТНЫ",
         "endscreenphysical": "ФИЗИЧЕСКОЕ СОСТОЯНИЕ:",
         "endscreendeceased": "МЕРТВ",
-        "endscreenmental": "ПОСЛЕДНИЙ ЗАПИСАННЫЙ ПСИХИЧЕСКИЙ СТАТУС:",
+        "endscreenmental": "ПОСЛЕДНИЙ ПСИХ. СТАТУС:",
         "endscreendepth": "ГЛУБИНА:",
-        "endscreendepthres": " МЕТРОВ НА ",
+        "endscreendepthres": " МЕТРОВ ЗА ",
         "endscreencalories": "КАЛОРИИ:",
         "endscreenmainmenu": "ВЕРНУТЬСЯ В МЕНЮ",
         "endscreenclipboard": "КОПИРОВАТЬ В БУФЕР ОБМЕНА",
