@@ -1548,6 +1548,8 @@
         "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
         "gamesetfilmgrain": "Film grain",
         "gamesetfilmgraindsc": "How much of the noisy filter you want visible",
+        "gamesetbrightness": "Brightness",
+        "gamesetbrightnessdsc": "How much brighter to make any non-pitch black tones",
         "gamesetlineofsightcount": "Line of sight resolution",
         "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
         "gamesetscreenshake": "Screenshake",

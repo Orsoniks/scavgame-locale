@@ -14,6 +14,8 @@ If done correctly, your new locale should appear as an option on the main menu, 
 
 Please read the [contribution guidelines](/.github/CONTRIBUTING.md) for ways in which you can contribute to existing or new localizations.
 
+The [translation notes](./TranslationNotes.md) may provide additional context and rules on how to translate specific text from the English locale.
+
 ## Locales
 
 | File | Contributors |
