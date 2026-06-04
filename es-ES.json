@@ -1463,7 +1463,7 @@
         "runsetstrokesdsc": "Determina si puedes sufir un derrame por una crisis hipertensiva",
         "runsetbraindamagefx": "Efectos de daño cerebral",
         "runsetbraindamagefxdsc": "Determina si el daño cerebral causa episodios de forma periódica",
-        "runsetinfinitelaststand": "Úlimos alientos infinitos",
+        "runsetinfinitelaststand": "Últimos alientos infinitos",
         "runsetinfinitelaststanddsc": "Determina si puedes intentar obtener más de un último aliento por partida",
         "runsetmoodnormalizationrate": "Tasa de normalización de humor",
         "runsetmoodnormalizationratedsc": "Como de rápido va pasando tu humor a 0. Un valor más alto hace más dificil permanecer tanto feliz como triste.",
