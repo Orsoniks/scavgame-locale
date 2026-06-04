@@ -2146,7 +2146,9 @@
         "magma": "Магма",
         "magmadsc": "Расплавленная порода. Все твои чувства кричат тебе, чтобы ты держался от нее подальше.",
         "runsettemperatureoffset": "Смещение температуры окружающей среды",
-        "runsettemperatureoffsetdsc": "Насколько в среднем теплее или холоднее должна быть окружающая среда"
+        "runsettemperatureoffsetdsc": "Насколько в среднем теплее или холоднее должна быть окружающая среда",
+        "gamesetmastervolumedsc": "",
+        "gamesetmusicvolumedsc": ""
     },
     "character": [
         {
