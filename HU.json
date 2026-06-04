@@ -3464,116 +3464,116 @@
                 "NO!!! Fuck me, man... Aghhh, that was loud..."
             ],
             "murderregret": [
-                "Why... Why did I do that..? F-fuck...",
-                "Gh... God... Why..?",
-                "I... That was horrible.. I'm a monster...",
-                "Nhh... Why... Why? That was one of us..."
+                "Miért... Miért tettem ezt..? B-basszus...",
+                "Is... Istenem... Miért..?",
+                "Én... Ez borzasztó volt.. Egy szörnyeteg vagyok...",
+                "Nhh... Miért... Miért? Ő is közölünk való volt..."
             ],
             "tradeemeet": [
-                "Hey!",
-                "Hello?",
-                "Oh! Hello!",
+                "Hé!",
+                "Helló?",
+                "Ó! Helló!",
                 "Hm?",
-                "Finally, someone...",
-                "...Hello?",
-                "Hay!",
-                "Hello!"
+                "Végre valaki...",
+                "...Helló?",
+                "Szevasz!",
+                "Helló!"
             ],
             "tradermeetnormal": [
-                "Hey!",
-                "Hello!",
-                "Oh! Someone finally came over...",
-                "Oh! Heya.",
-                "Hey! Glad to see someone alive.",
-                "Hey, buddy.",
-                "Welcome!"
+                "Szia!",
+                "Helló!",
+                "Ó! Végre jött valaki...",
+                "Ó! Szervusz.",
+                "Hahó! Örülök, hogy látok még valakit, aki él.",
+                "Szia, haver.",
+                "Üdvözlet!"
             ],
             "tradermeetgood": [
-                "Ah! Hi!!",
-                "Hello! How are ya?",
-                "Aah! Hello!! Hi!"
+                "Áh! Szia!!",
+                "Helló! Hogy vagy?",
+                "Ááh! Helló!! Szia!"
             ],
             "tradermeetbad": [
-                "Hheeyy...I dislike your presence..?",
-                "H... Hello... Uhh...",
-                "...Hey.",
-                "...Hm. Hello."
+                "Héééé...Nem tetszik a jelenléted..?",
+                "H... Helló... Hm...",
+                "...Szia.",
+                "...Hm. Helló."
             ],
             "traderhugsuccess": [
-                "Awww... Thank you.",
-                "Ahhh... Thank you, buddy.",
-                "Mmmh... Aww, thanks!",
-                "Ah! Mmhh... Thank you...",
-                "Aw! You're so nice!",
-                "...Thank you, I needed that."
+                "Óóó... Köszönöm.",
+                "Aaaa... Köszönöm, haver.",
+                "Mmmh... Óóó, köszi!",
+                "Áh! Mmhh... Köszönöm...",
+                "Óó! Annyira kedves vagy!",
+                "...Köszönöm, ez most kellett."
             ],
             "traderhugfail": [
-                "AHHH! Don't touch me out of nowhere...",
-                "Hey! No touchy.",
-                "Aghh! Hey! No touchies!",
-                "I'll pass...",
-                "No thanks.",
-                "Wh- Hey! Get your paws off of me.",
-                "Hey! Don't touch me! I don't trust you."
+                "ÁÁHH! Ne érj hozzám csak úgy hirtelen",
+                "Hé! Nincs tapi.",
+                "Ááhh! Hé! Ne tapperolj!",
+                "Most kihagynám...",
+                "Nem, kösz.",
+                "Mi- Hé! El a mancsokkal",
+                "Hé! Ne érj hozzám! Nem bízok benned."
             ],
             "traderhagglesuccess": [
-                "...Okay!",
-                "Mmmmhmmm... Got it.",
-                "I'll think about it.",
-                "I'll consider...",
-                "Y-yeah... Sure...",
-                "Makes sense to me!",
-                "Uh huh.",
-                "Hmm... Okay."
+                "...Oké!",
+                "Mmmmhmmm... Rendben.",
+                "Még meggondolom.",
+                "Ezt megfontolom...",
+                "I-igen... Persze...",
+                "Nekem logikusnak tűnik!",
+                "Aha",
+                "Hmm... Oké."
             ],
             "traderhagglefail": [
-                "You didn't sound very convincing there.",
-                "...No, thanks.",
-                "Nuh uh.",
-                "Not interested.",
-                "What? Why would I do that..?",
-                "Meeehhh... Another time.",
-                "Meh.",
-                "...Nhh...",
-                "...Ugh. Sorry."
+                "Nem tűntél túl meggyőzőnek",
+                "...Nem, kösz.",
+                "Dehogyis.",
+                "Nem érdekel.",
+                "Micsoda? Ezt miért tenném..?",
+                "Nyeeeh... Majd máskor.",
+                "Nyeh.",
+                "...Hm...",
+                "...Uff. Bocsi."
             ],
             "traderdepressed": [
-                "...Uh... ...Are you okay? You look a little... Disgruntled...?",
-                "...No greetings or anything...? Wh... Why are you looking at me like that...",
-                "...? ...Um...  ...Hello..? ...You there..?",
-                "...You look terrified. Are you okay? Hello...?",
-                "Hey! How are yooouuuu......you don't look so well there, buddy... Uhm...",
-                "Hey! ...What's with that piercing look? Uhm..."
+                "...Ööö... ...Jól vagy? Kicsit... morcosnak tűnsz...?",
+                "...Nincs üdvözlés vagy valami...? Mi... Miért nézel így rám...",
+                "...? ...Ööö...  ...Haló..? ...Ott vagy..?",
+                "...Rémültnek tűnsz. Jól vagy? Haló...?",
+                "Hé! Hogy vaaaagy?... Nem nézel ki túl jól, haver... Hm...",
+                "Hé! ...Mi ez a szúrós tekintet? Ööö..."
             ],
             "tradergiveitem": [
-                "Thanks!",
-                "Adding that to the count.",
-                "Thank you!",
-                "I'll be needing that.",
-                "Aye! Thanks!",
-                "Good!"
+                "Köszi!",
+                "Ezt hozzáadom a számlálóhoz.",
+                "Köszönöm!",
+                "Ez majd kelleni fog nekem.",
+                "Jó! Köszi!",
+                "Remek!"
             ],
             "tradergiveitemrefuse": [
-                "Alright... That's enough for today, my bag's all full.",
-                "Hey, enough gifts! I don't want to give out all my stock to you."
+                "Jól van... Ennyi elég mára, tele van a táskám.",
+                "Hé, elég az ajándékokból! Nem akarom neked odaadni a teljes készletemet."
             ],
             "traderbuy": [
-                "Here you are. Cheers!",
-                "Alright! Here's your pick. Good luck out there.",
-                "Have this. Thank ya, mate.",
-                "Here, have this.",
-                "Pleasure doing business with you, haha.",
-                "There."
+                "Tessék. Egészségedre!",
+                "Rendben! Itt van amit kértél. Sok szerencsét odakint.",
+                "Tessék. Kösz, haver.",
+                "Tessék, vidd ezt.",
+                "Öröm volt veled üzletet kötni, haha.",
+                "Tessék."
             ],
             "traderbuyfail": [
-                "Gimmie a few more things.",
-                "I'm not going first.",
-                "Hand over a few more things first.",
-                "Pay first!"
+                "Adj még pár dolgot.",
+                "Nem én kezdek.",
+                "Először adj még pár dolgot.",
+                "Előbb fizess!"
             ],
             "traderbuyfailmaxvalue": [
-                "Sorry, that's all I'm willing to trade for now.",
-                "Out of stock! Sorry! You've bought so much already..."
+                "Bocsi, egyenlőre csak ennyit vagyok hajlandó eladni.",
+                "Kifogytam a cuccokból! Bocsi! Már annyi minden vettél..."
             ],
             "traderwarning": [
                 "Menj el.",
@@ -3589,26 +3589,26 @@
                 "Húzz a picsába."
             ],
             "tradercombat": [
-                "I'm done with your shit.",
-                "Fuck OFF!",
-                "I'M DONE WITH YOU!",
-                "FUCK YOU!",
-                "OUT! GET OUT! NOW! OUT!",
-                "GET OUT!"
+                "Elegem van a szarjaidból.",
+                "Menj a FRANCBA!",
+                "ELEGEM VAN BELŐLED!",
+                "BASZD MEG!",
+                "KIFELE! MENJ KI! MOST! KI!",
+                "KIFELE!"
             ],
             "traderthreatensuccess": [
-                "Okay, okay, jeez... Take whatever, just don't hurt me...",
-                "Asshole... Fine. Go ahead. Please leave after.",
-                "Nggh... Fuck you... Take what you want and leave!",
-                "Please don't hurt me! Take something and... Please leave...",
-                "...Okay. Take something and do not come back. Spare the threats."
+                "Oké, oké, Jézus... Vigyél bármit, csak ne bánts...",
+                "Seggfej... Jólvan. Tessék. Kérlek utánna menj el.",
+                "Nggh... Baszd meg... Vigyél amit akarsz és húzz el!",
+                "Kérlek, ne bánts! Vigyél valamit és... Légyszi menj el...",
+                "...Oké. Vigyél valamit és menj el. Ne fenyegetőzz."
             ],
             "traderlightbreak": [
-                "Dude, what the fuck? Why would you do that? Fuck off.",
-                "...Did you really think I would not see that. You fucker. Get out!",
-                "Hey! What the hell! I needed that! Get the fuck out!",
-                "Ahh! You THIEF! Get the hell out!",
-                "Dude. Okay... Okay then. Okay... I... Uh... Please leave."
+                "Ember, mi a fasz? Ezt most miért csináltad? Menj a francba.",
+                "...Tényleg azt hitted, hogy ezt nem fogom látni. Te rohadék. Menj ki!",
+                "Hé! Mi a szar?! Az kellett volna! Menj a faszba!",
+                "Ááh! Te TOLVAJ! Tűnj el innen!",
+                "Ember. Oké... Okés. Oké... Én... öö... Kérlek, menj el innen."
             ],
             "traderwakegreet": [
                 "Jó reggelt.",
@@ -3619,26 +3619,26 @@
                 "Ébresztő!"
             ],
             "traderseegun": [
-                "...Woah there! Put that gun away, man... Anyway.",
-                "Hey! What's with the gun? Put that away, please. ...So.",
-                "I hope you're not using that gun, haha.",
-                "Ey, I don't have a gun, so put yours away, bud."
+                "...Hé, várj csak! Tedd el azt a fegyvert, haver... Na mindegy.",
+                "Hé! Mi van azzal a fegyverrel? Tedd el, kérlek. ...Na szóval..",
+                "Remélem, nem használod azt a fegyvert, haha.",
+                "Hé, nekem nincs fegyverem, úgyhogy tedd el a tiédet, haver."
             ],
             "tradermeetimpairedspeech": [
-                "...Huh? What? Is there something in your mouth? I can't understand you...",
-                "Mmmff mff mmmmfff mhfff! That's what you sound like.",
-                "I get that this is a bad scenario we're in, but you can atleast put in some effort into speaking clearly..."
+                "...Hogyan? Mi van? Van valami a szádban? Nem értem amit mondasz...",
+                "Mmmff mff mmmmfff mhfff! Pont így hangzol.",
+                "Értem, hogy nehéz helyzetben vagyunk, de legalább annyit megtehetnél, hogy érthetőbben beszélsz..."
             ],
             "traderseehurt": [
-                "Since you're hurt, I'll let ya grab a bandage for free if you can find one around here...",
-                "Aww, you're hurt. If you can find a bandage on me, you can take it! I don't remember if I have one...",
-                "Ohh, you don't seem to be doing well... Tell ya what, you can grab a bandage for free if you see one."
+                "Mivel megsérültél, ingyen adok neked egy kötszert, ha találsz itt valahol egyet...",
+                "Jaj, megsérültél. Ha találsz nálam ragtapaszt, nyugodtan elveheted! Nem is tudom, van-e nálam...",
+                "Ó, úgy látom, nem vagy túl jól... Tudod, mit? Ha látsz egy ragtapaszt, nyugodtan vedd el ingyen."
             ],
             "tradermove": [
-                "Oh, sorry. Here."
+                "Ó, bocsi. Tessék."
             ],
             "tradermovefail": [
-                "Huh? Why? What are you trying to do..? I don't trust you."
+                "Mi? Miért? Mit akarsz...? Nem bízom benned."
             ],
             "swingresponse": [
                 "I'M SORRY!",
