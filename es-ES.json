@@ -1,6 +1,6 @@
 {
     "name": "Español",
-    "description": "El creador official creó el juego originalmente en Inglés. Puedes encontrar traducciones de la comunidad (Como esta :D) en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque algunas de estas traducciones no tienen una revisión de calidad (Esta si que lo es) y tal vez estén mal traducidas o no estén actualizadas.",
+    "description": "El creador oficial creó el juego originalmente en Inglés. Puedes encontrar traducciones de la comunidad (Como esta :D) en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque algunas de estas traducciones no tienen una revisión de calidad (Esta si que lo es) y tal vez estén mal traducidas o no estén actualizadas.",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de tela con un vendaje, usado para detener el sangrado, estabilizar fracturas y ayudar a la regeneración de la piel. No tiene efecto en la regeneración muscular.",
