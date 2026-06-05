@@ -39,7 +39,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Русский (Россия)](/ru-RU.json) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) |
 | [ไทย (ไทย)](/th-TH.json) | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung), [Khaomi](https://github.com/Khaomi) |
 | [Українська (Україна)](/uk-UA.json) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati) |
-| [简体中文 (中国)](/zh-CN.json) | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG|
+| [简体中文 (中国)](/zh-CN.json) | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX)|
 | [繁體中文 (台灣)](/zh-TW.json) | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
 
 ## Maintainers
