@@ -1037,6 +1037,7 @@
     "overhydrated1dsc": "Twoje pragnienie jest w pełni zaspokojone - wystarczy ci to na jakiś czas. Wzrost pragnienia zwiększony dwukrotnie. Ciśnienie krwi zwiększone.",
     "overhydrated2dsc": "Konsumpcja wody większa niż tego potrzebujesz. Trochę utrudniony ruch. Wzrost pragnienia zwiększony dwukrotnie. Ciśnienie krwi zwiększone.",
     "overhydrated3dsc": "Nadmierne spożycie wody . Twoje komórki pęcznieją, zwiększając ciśnienie śródczaszkowe, zakłócają dopływ krwi do mózgu. Boli się głowa... Wzrost pragnienia zwiększony dwukrotnie. Ciśnienie krwi zwiększone.",
+    "sick1dsc": "Czujesz dyskomfort i lekkie nudności",
     "sick2dsc": "Skołowanie i dyskomfort przy brzuchu. Skłonność do wymiotów.",
     "sick3dsc": "Ospałość, zmęczenie i duży dyskomfort. Duża skłonność do wymiotów.",
     "sick4dsc": "Okropne nudności. Coś jest NAPRAWDĘ źle wewnątrz ciebie. Słabość, skołowanie i okropny ból.",
