@@ -18,29 +18,29 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 
 ## Locales
 
-| File | Contributors |
-|------|--------------|
-| [English (**Reference**)](/EN.json) | [Orsoniks](https://github.com/Orsoniks) |
-| [العربية (العالم العربي)](/ar-001.json) | [Enderwolf](https://github.com/Enderw0lf) |
-| [Беларуская (Беларусь)](/be-BY.json) | [Russian kid](https://github.com/Russiankids) |
-| [Deutsch (Deutschland)](/de-DE.json) | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
-| [Español (Latinoamérica)](/es-419.json) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG) |
-| [Español (España)](/es-ES.json) | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky) |
-| [Suomi (Suomi)](/fi-FI.json) | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
-| [Français (France)](/fr-FR.json) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick) |
-| [Bahasa Indonesia (Indonesia)](/id-ID.json) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/) |
-| [Italiano (Italia)](/it-IT.json) | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
-| [日本語 (日本)](/ja-JP.json) | [marui-neko](https://github.com/marui-neko) |
-| [Қазақша (Қазақстан)](/kk-KZ.json) | [Russiankids](https://github.com/Russiankids) |
-| [한국어 (대한민국)](/ko-KR.json) | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), Shelt3redcat, [topicular](https://github.com/metnias) |
-| [Polski (Polska)](/pl-PL.json) | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
-| [Português (Brasil)](/pt-BR.json) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar) |
-| [Română (România)](/ro-RO.json) | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan) |
-| [Русский (Россия)](/ru-RU.json) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) [Captain_Kirk](https://github.com/Danich27rus)|
-| [ไทย (ไทย)](/th-TH.json) | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung), [Khaomi](https://github.com/Khaomi) |
-| [Українська (Україна)](/uk-UA.json) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati) |
-| [简体中文 (中国)](/zh-CN.json) | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX)|
-| [繁體中文 (台灣)](/zh-TW.json) | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
+| File | Locale State | Contributors |
+|------|-------------|--------------|
+| [English (**Reference**)](/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
+| [العربية (العالم العربي)](/ar-001.json) | Outdated | [Enderwolf](https://github.com/Enderw0lf) |
+| [Беларуская (Беларусь)](/be-BY.json) | Outdated | [Russian kid](https://github.com/Russiankids) |
+| [Deutsch (Deutschland)](/de-DE.json) | v7.0.1 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
+| [Español (Latinoamérica)](/es-419.json) | v6.1 | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG) |
+| [Español (España)](/es-ES.json) | v6.0 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky) |
+| [Suomi (Suomi)](/fi-FI.json) | v6.1 | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
+| [Français (France)](/fr-FR.json) | v5 (slightly outdated) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick) |
+| [Bahasa Indonesia (Indonesia)](/id-ID.json) | v5.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/) |
+| [Italiano (Italia)](/it-IT.json) | v6.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
+| [日本語 (日本)](/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
+| [Қазақша (Қазақстан)](/kk-KZ.json) | Outdated | [Russiankids](https://github.com/Russiankids) |
+| [한국어 (대한민국)](/ko-KR.json) | v7.0.1 | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), Shelt3redcat, [topicular](https://github.com/metnias) |
+| [Polski (Polska)](/pl-PL.json) | Outdated | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
+| [Português (Brasil)](/pt-BR.json) | v5 (incomplete) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar) |
+| [Română (România)](/ro-RO.json) | v6.1 | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan) |
+| [Русский (Россия)](/ru-RU.json) | v7.0.1 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) [Captain_Kirk](https://github.com/Danich27rus)|
+| [ไทย (ไทย)](/th-TH.json) | v6.1 | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung), [Khaomi](https://github.com/Khaomi) |
+| [Українська (Україна)](/uk-UA.json) | v7.0.1 | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati) |
+| [简体中文 (中国)](/zh-CN.json) | v7.0.1 | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX)|
+| [繁體中文 (台灣)](/zh-TW.json) | v5.1 | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera), [Marioalexsan](https://github.com/Marioalexsan)
