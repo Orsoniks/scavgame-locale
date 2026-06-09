@@ -513,7 +513,7 @@
         "string": "Hilo de cuerda",
         "stringdsc": "Una fina y engañosamente duradera cuerda de materia de planta. Usada para recetas más intricadas.",
         "stick": "Palo",
-        "stickdsc": "Un corto palo de madera. Aunque es frágil también es ligero. Demasiado pequeño para usarse como arma. Puede servir como un martillo improvisado.",
+        "stickdsc": "Un corto palo de madera. Aunque es frágil, también es ligero. Demasiado pequeño para usarse como arma. Puede servir como un martillo improvisado.",
         "ilmenitechunk": "Trozo de ilmenita",
         "ilmenitechunkdsc": "Un mineral de óxido de titanio. Aunque costosamente, puede ser procesado a una fuerte aleación de titanio.",
         "titaniumslab": "Losa de titanio",
@@ -1754,7 +1754,7 @@
         "speed3": "Muy rápido",
         "workout": "Ejercítate",
         "workoutdsc": "Da experiencia en FUE/RES al coste de tiempo y energía. Está bien para pasar el rato, aunque te hará daño si estás muy herido.",
-        "pushups": "Frexiones",
+        "pushups": "Flexiones",
         "pushupsdsc": "Da experiencia de FUE. Es algo difícil de hacer, cansándote rápido.",
         "squats": "Sentadillas",
         "squatsdsc": "Da experiencia de RES. No demanda tanta fuerza física, al coste de dar experiencia más lento.",
@@ -4460,7 +4460,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "La distribución de especies aquí parece muy desproporcionada. Los Experimentos están en todas partes, sin embargo, otras especies como la nuestra parecen ser mucho menores en número. Es raro... De todas formas, no me gusta la cantidad de muertos. Más de nosotros necesitan ser ayudados.",
+                "Item1": "La distribución de especies aquí parece muy desproporcionada. Los Experiments están en todas partes, sin embargo, otras especies como la nuestra parecen ser mucho menores en número. Es raro... De todas formas, no me gusta la cantidad de muertos. Más de nosotros necesitan ser ayudados.",
                 "Item2": "Sprites/noteDrawings/milky",
                 "Item3": "milky"
             },
