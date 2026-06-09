@@ -1531,9 +1531,9 @@
         "tabinput": "Controls",
         "tablanguage": "Language",
         "gamesetreswidth": "Resolution width",
-        "gamesetreswidthdsc": "",
+        "gamesetreswidthdsc": "Preferred horizontal resolution. Note that your OS might limit this.",
         "gamesetresheight": "Resolution height",
-        "gamesetresheightdsc": "",
+        "gamesetresheightdsc": "Preferred vertical resolution. Note that your OS might limit this.",
         "gamesetfullscreen": "Fullscreen",
         "gamesetfullscreendsc": "Toggle between windowed and borderless",
         "gamesetvsync": "V-Sync",
@@ -1548,6 +1548,8 @@
         "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
         "gamesetfilmgrain": "Film grain",
         "gamesetfilmgraindsc": "How much of the noisy filter you want visible",
+        "gamesetbrightness": "Brightness",
+        "gamesetbrightnessdsc": "How much brighter to make any non-pitch black tones",
         "gamesetlineofsightcount": "Line of sight resolution",
         "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
         "gamesetscreenshake": "Screenshake",
@@ -4171,7 +4173,7 @@
                 "I implore you to take care of your wounds."
             ],
             "painresponse": [
-                "Pain is simply weakness leaving the body. Toughen up, worm.",
+                "Pain is a guarantee down here. Toughen up.",
                 "Take a painkiller. Surely, you must have some..."
             ],
             "dirtyresponse": [
@@ -4182,7 +4184,7 @@
                 "Such a tease you are."
             ],
             "dyingresponse": [
-                "Do not expect me to waste my time performing CPR on your corpse.",
+                "I'm not sure CPR will help the situation at hand.",
                 "Really? Dying, on MY floor?",
                 "Will panicking really make the situation any better?"
             ]
