@@ -1392,6 +1392,7 @@
         "unchippeddsc": "Se desactiva tu chip de salud, obligándote a esforzarte más en identificar los peligros de tu entorno.\n\nNo se recomienda para principiantes, aunque rara vez puede aparecer en el juego como un modificador de capa",
         "startrun": "Empezar",
         "startrundsc": "Descendé a las cuevas.",
+        
         "tutorialwarning": "<size=150%>Antes de continuar...\n\n<size=100%>Aún no completaste el curso de instrucción básica.\n¿Seguro que querés adentrarte sin preparación alguna?\n\n\n\nTu muerte es prácticamente segura.",
         "tutorialwarningyes": "Completar el curso básico",
         "tutorialwarningno": "¡Sé lo que hago!",
@@ -1431,7 +1432,7 @@
         "itemwearableisolation": "Aislamiento térmico:",
         "itemvalue": "Valor comercial: ",
         "itemqualities": "Tiene cualidades ",
-        "you": "Tú",
+        "you": "Vos",
         "damagereduction": "Reducción de daño: ",
         "bodyinsulation": "Aislamiento corporal: ",
         "youdescription": "<sprite index=20>Inventario",
