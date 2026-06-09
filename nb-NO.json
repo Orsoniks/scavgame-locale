@@ -1,6 +1,6 @@
 {
-    "name": "Norsk (Bokmål)",
-    "description": "Den uoffisielle Norsk bokmål oversettelse av spillet! Du kan finne fellesskapsskapte oversettelser i andre språk her: (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>). Noen av oversettelsene har ikke blitt kvallitetsjekket og kan vær gammel. Det er mulig at det kjem Nynorsk oversettelser i framtida. Ellers kan du lage dem sjøl!",
+    "name": "Norsk Bokmål",
+    "description": "Den uoffisielle Norsk Bokmål oversettelse av spillet! Du kan finne fellesskapsskapte oversettelser i andre språk her: (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>). Noen av oversettelsene har ikke blitt kvallitetsjekket og kan vær gammel. Det er mulig at det kjem Nynorsk oversettelser i framtida. Ellers kan du lage dem sjøl!",
     "main": {
         "bandage": "Forbinding",
         "bandagedsc": "En rull med bandasje, brukt til å bremse blødning, stabilisere beinbrudd og hjelp til med hudheling. Har ingen påvirkning på muskelhelse",
