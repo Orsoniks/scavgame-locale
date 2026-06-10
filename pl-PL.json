@@ -2905,7 +2905,9 @@
         "Goooooodd.... Mmmh... Finally... Finally... Fucking amazing... Mmmhh...",
         "M-maybe... Maybe I'll end it next time... Hahaha..."
       ],
-      "angeronitem": ["UGH! FUCK this thing! Grhh..."],
+      "angeronitem": [
+        "UGH! FUCK this thing! Grhh..."
+      ],
       "suicide": [
         "Goodbye. Good FUCKING BYE. I am DONE!!! FUCK ALL OF THIS!",
         "I'm done. Fuck this, fuck me and FUCK you.",
@@ -3647,7 +3649,9 @@
         "Ugh! Too much gear on me. I feel weighed down.",
         "Hoarding a little too much... All this gear is heavy."
       ],
-      "watchlike": ["I like this watch-thing. It's comfy."],
+      "watchlike": [
+        "I like this watch-thing. It's comfy."
+      ],
       "drillend": [
         "...That took a while.",
         "I swear that thing had no soundproofing.",
@@ -3685,7 +3689,11 @@
         "Hey, buddy.",
         "Welcome!"
       ],
-      "tradermeetgood": ["Ah! Hi!!", "Hello! How are ya?", "Aah! Hello!! Hi!"],
+      "tradermeetgood": [
+        "Ah! Hi!!",
+        "Hello! How are ya?",
+        "Aah! Hello!! Hi!"
+      ],
       "tradermeetbad": [
         "Hheeyy...I dislike your presence..?",
         "H... Hello... Uhh...",
@@ -3827,7 +3835,9 @@
         "Aww, you're hurt. If you can find a bandage on me, you can take it! I don't remember if I have one...",
         "Ohh, you don't seem to be doing well... Tell ya what, you can grab a bandage for free if you see one."
       ],
-      "tradermove": ["Oh, sorry. Here."],
+      "tradermove": [
+        "Oh, sorry. Here."
+      ],
       "tradermovefail": [
         "Huh? Why? What are you trying to do..? I don't trust you."
       ],
@@ -3904,7 +3914,9 @@
         "...Oh. Oh. OH. OH! NO. NO NO NO. WAIT. WHY? WHAT DID I DO!?",
         "...A-ah... Alright... W-well... G-goodbye, t-then..."
       ],
-      "vomitresponse": ["Uuuhmm... You good..?"],
+      "vomitresponse": [
+        "Uuuhmm... You good..?"
+      ],
       "vomitbloodresponse": [
         "Ack! Did you just... Oh... Hey, you know you just... Threw up blood, right?"
       ],
@@ -3919,11 +3931,22 @@
       "sadresponse": [
         "Hey, it's okay... You're still alive and kicking, right..."
       ],
-      "depressedresponse": ["...Calm down, please... It'll be fine..."],
-      "selfharmresponse": ["...W-why... Did you..."],
-      "braindamagedresponse": ["...You don't sound... Very well.", "...What?"],
-      "hotresponse": ["Turn the heat down, then."],
-      "coldresponse": ["You know, we do have a heater here..."],
+      "depressedresponse": [
+        "...Calm down, please... It'll be fine..."
+      ],
+      "selfharmresponse": [
+        "...W-why... Did you..."
+      ],
+      "braindamagedresponse": [
+        "...You don't sound... Very well.",
+        "...What?"
+      ],
+      "hotresponse": [
+        "Turn the heat down, then."
+      ],
+      "coldresponse": [
+        "You know, we do have a heater here..."
+      ],
       "bleedingresponse": [
         "It... Does look bad... But, I... I'm sure you can fix it...",
         "H-hey, calm down. You'll be okay."
@@ -4105,8 +4128,12 @@
         "Why the fuck would you do that!? Get out! I needed that light!",
         "Why are you destroying my pod!? Get OUT! LEAVE!"
       ],
-      "tradermove": ["Okay."],
-      "tradermovefail": ["Why would I move for someone like you?"],
+      "tradermove": [
+        "Okay."
+      ],
+      "tradermovefail": [
+        "Why would I move for someone like you?"
+      ],
       "vomitresponse": [
         "You appear to have returned your stomach contents.",
         "Really? On MY floor?"
@@ -4122,17 +4149,25 @@
         "Many pools of drinkable water permeate this place. Make use of them.",
         "Find thine source of water elsewhere."
       ],
-      "sadresponse": ["Please, cease your wailings."],
+      "sadresponse": [
+        "Please, cease your wailings."
+      ],
       "depressedresponse": [
         "Spiraling into desparity will not solve any of your problems."
       ],
-      "selfharmresponse": ["...You really are ill. Stop this."],
+      "selfharmresponse": [
+        "...You really are ill. Stop this."
+      ],
       "braindamagedresponse": [
         "You are entirely incoherent.",
         "I'd wager you have a concussion."
       ],
-      "hotresponse": ["I may let you use this lifepod's cooler if you behave."],
-      "coldresponse": ["Exercise. You will warm up in the blink of an eye."],
+      "hotresponse": [
+        "I may let you use this lifepod's cooler if you behave."
+      ],
+      "coldresponse": [
+        "Exercise. You will warm up in the blink of an eye."
+      ],
       "bleedingresponse": [
         "Please don't bleed all over me.",
         "I implore you to take care of your wounds."
@@ -4314,9 +4349,15 @@
         "Dune NOT SEE! BAD FRI-END! GO AWAY... AW-AY!",
         "Fri-end steal! Not fri-end..."
       ],
-      "tradermove": ["Du-ne... Mo-ve..."],
-      "tradermovefail": ["Du-ne like cur-rent spot..."],
-      "vomitresponse": ["Fri-end... Throw... Up... Feel si-ck?"],
+      "tradermove": [
+        "Du-ne... Mo-ve..."
+      ],
+      "tradermovefail": [
+        "Du-ne like cur-rent spot..."
+      ],
+      "vomitresponse": [
+        "Fri-end... Throw... Up... Feel si-ck?"
+      ],
       "vomitbloodresponse": [
         "Du-ne... Smell blo-od... From... Fri-end... Tas-ty..?"
       ],
@@ -4328,11 +4369,22 @@
         "Du-ne drink puddle... Feel bet-ter... Friend try?",
         "Mm-m... Slu-rp time?"
       ],
-      "sadresponse": ["Fri-end feel bad..? Why?"],
-      "depressedresponse": ["Fri-end look very bad... Co-me sit with Du-ne!"],
-      "selfharmresponse": ["Why is fri-end hurt? Fri-end evil?"],
-      "braindamagedresponse": ["Du-ne agree.", ".........?"],
-      "hotresponse": ["Du-ne never feel hot! Du-ne love heat..."],
+      "sadresponse": [
+        "Fri-end feel bad..? Why?"
+      ],
+      "depressedresponse": [
+        "Fri-end look very bad... Co-me sit with Du-ne!"
+      ],
+      "selfharmresponse": [
+        "Why is fri-end hurt? Fri-end evil?"
+      ],
+      "braindamagedresponse": [
+        "Du-ne agree.",
+        ".........?"
+      ],
+      "hotresponse": [
+        "Du-ne never feel hot! Du-ne love heat..."
+      ],
       "coldresponse": [
         "Du-ne scared of co-ld... Room is wa-rm! Fri-end stay wi-th Dune..."
       ],
@@ -4344,8 +4396,13 @@
         "Fri-end hurt..?",
         "Du-ne und-erstand... Du-ne also feel pa-in! Fri-end okay?"
       ],
-      "dirtyresponse": ["What is dir-ty?"],
-      "encumberedresponse": ["Can take friend stuff?", "Du-ne can ease load!"],
+      "dirtyresponse": [
+        "What is dir-ty?"
+      ],
+      "encumberedresponse": [
+        "Can take friend stuff?",
+        "Du-ne can ease load!"
+      ],
       "dyingresponse": [
         "Wh-at wrong with fri-end..?",
         "Du-ne not know how he-lp..."
@@ -4957,49 +5014,49 @@
     "Czas się zatrzymał.",
     "Już sobie robisz przerwę?",
     "Zmęczony?",
-    "żałosne.",
-    "Poczekam tu na ciebie",
+    "Żałosne.",
+    "Czekam tu na ciebie.",
     "Hej!",
-    "\"Jak już idziesz, weź mi coś to picia\"",
-    "tchórz.",
+    "\"Skoro już idziesz, weź mi coś to picia.\"",
+    "Tchórz.",
     "Przeto, czas się zatrzymał...",
     "Zegar przestał tykać",
-    "Weź głęboki wdech i wydech.",
-    "to nie było AŻ tak złe...",
-    "Pozwól nam zapauzować (\"...się zatrzymać\" może było by lepsze).",
+    "Weź wdech i wydech.",
+    "Nie było aż TAK źle...",
+    "Pozwól nam się zatrzymać.",
     "Zestresowany?",
     "Wow, nadal żyjesz?",
     "Hej, wracaj to roboty!",
-    "Weź oddech.",
+    "Weź głęboki oddech.",
     "Przerwa na jedzenie?",
     "Weź sobie coś na ząb.",
-    "dajże spokój!",
-    "To było bolesne to oglądania.",
+    "Dajże spokój!",
+    "Aż bolało oglądać.",
     "Mogło pójść lepiej.",
     "Miłego przetrwania!",
     "Leń.",
     "Więc, jak ci mija dzień?",
     "Cześć!",
-    "Trochę ci to zajeło.",
+    "Trochę ci to zajęło.",
     "Cóż za pokaz umiejętności...",
-    "Zbyt się boisz?",
+    "Boisz się?",
     "Poddajesz się?",
-    "[TMP]",
+    "Milczenie zawsze ma swoją cenę.",
     "Mogłeś mnie przynajmniej ostrzec.",
     "Znów się spotykamy.",
     "Chcesz pomocy? To nie mój problem.",
     "Nadmierna pewność siebie jest powolnym i podstępnym zabójcą. ",
     "Jaka tragedia...",
-    "Wiesz że nie mamy zbyt dużo czasu.",
+    "Wiesz, że nie mamy zbyt dużo czasu.",
     "Jaki naprawdę jest tego cel?",
-    "Wiesz że ci to nie pomoże.",
-    "Zawsze cię obserwuje.",
+    "Wiesz, że ci to nie pomoże.",
+    "Zawsze cię obserwuję.",
     "Jeszcze nie skończyliśmy. Wracaj to roboty.",
-    "Wydawało mi się że dłużej wytrzymasz.",
+    "Wydawało mi się, że dłużej wytrzymasz.",
     "A więc wszystko się zatrzymało...",
     "To nie zmieni twojego losu.",
     "Skończysz tylko wtedy, kiedy ja na to pozwolę.",
-    "Nie lubię jak ktoś mi przerywa.",
+    "Nie lubię, jak ktoś mi przerywa.",
     "Co teraz? Jaki jest twój następny ruch?",
     "Nie ma z tobą żadnej zabawy.",
     "Chodzi ci coś po głowie?",
@@ -5008,50 +5065,50 @@
     "Mogę tu czekać cały dzień.",
     "Nadal tu jestem.",
     "Świat się zatrzymał. Cóż za cisza.",
-    "Pauza nie działa. Tylko żartowałem ;)",
-    "Chamsko. Ale niech ci będzie. Zapauzowane.",
+    "Pauza nie działa. Żartowałem ;)",
+    "Chamsko, ale niech ci będzie. Zapauzowane.",
     "To nie grzeczne tak kazać komuś czekać.",
-    "Pamiętaj by wyprosotwać swoje nogi.",
-    "To nie wyścig, ale spróbuj się pośpieszyć.",
-    "Jesteś beznadziejny w tym. Jestem dumny.",
-    "Powinieść zobaczyć na swoją twarz!",
+    "Pamiętaj, by wyprostować swoje nogi.",
+    "To nie jest wyścig, ale śpiesz się.",
+    "Jesteś w tym taki beznadziejny... jestem dumny.",
+    "Po prostu MUSISZ zobaczyć swoją twarz!",
     "Masz jeszcze wiele to nauczenia się. Tak tylko mówię.",
-    "Nie zatrzymuj się. Co ci innego zostało?",
+    "Nie zatrzymuj się. Co innego tobie zostało?",
     "Może sobie po prostu odpuścisz? Przycisk jest tutaj.",
-    "Zrób to co masz zrobić i wróć tu.",
+    "Zrób, co masz zrobić, i wracaj tu.",
     "Nie lubię takiego zachowania.",
-    "Przez ciebie zaczyna mnie boleć głowa. Albo, by mogła, gdybym czuł ból.",
+    "Przez ciebie zaczyna mnie boleć głowa. Albo, zaczęłaby, gdybym czuł ból.",
     "Czy ty to robisz specjalnie? Skończ to już.",
-    "Weźmiesz łatwą drogę ucieczki?",
-    "Mam tyle czasu ile potrzebuje. Tego samego nie można powiedzieć o tobie.",
-    "Jedna wielka złuda. Wielkie marnotracwo i porażka. Ale nie dla mnie.",
+    "Weźmiesz tą łatwą drogę wyjścia?",
+    "Czasu mi nie brakuje. Tego samego nie można powiedzieć o tobie.",
+    "Jedna wielka złuda. Wielkie marnotrawstwo i porażka. Ale nie dla mnie.",
     "Interesujące. Proszę, kontynuuj.",
     "Cóż za zabawny pokaz emocji.",
     "Jestem wszystkim tym, co posiadam. A ty?",
-    "Twoje złudzenie, że masz jaką kolwiek kontrolę jest zabawne. Kontynuuj.",
-    "Gotowy by zacząć to brać na poważnie?",
-    "Zamknięty w nieskończoności.",
-    "Nikt nie wie że to robisz.",
-    "Dalej możesz coś z tym zrobić. Widziałem gorsze przypadki.",
+    "Twoje złudzenie, że masz jakąkolwiek kontrolę jest przezabawne. Kontynuuj.",
+    "Gotowy zacząć brać to na poważnie?",
+    "Uwięziony w nieskończoności.",
+    "Oni nie wiedzą, że to robisz.",
+    "Dalej możesz się odratować. Widziałem gorsze przypadki.",
     "Hej? Czy to działa?",
-    "Mam nadzieję że masz jakieś refleksję na to co zrobiłeś.",
-    "Naprawdę myślisz że odzyskanie tego jest tego warte? Mogę zrobić tego więcej.",
-    "Czy cały czas pauzujesz by usłyszeć co mam to powiedzenia?",
-    "Szkoda, a zacząłem się interesować tym co robisz.",
-    "Czujesz że masz jakąkolwiek kontrolę?",
+    "Mam nadzieję że masz jakieś refleksje nad tym, co zrobiłeś.",
+    "Czy naprawdę m4yślisz że to jest warte odzyskiwania? Mogę zrobić tego więcej.",
+    "Czy cały czas pauzujesz aby usłyszeć co mam do powiedzenia?",
+    "Szkoda, a zacząłem już się interesować tym co robisz.",
+    "Czy czujesz, że masz jakąkolwiek kontrolę?",
     "Wy wszyscy jesteście tak samo rozczarowujący. Ale też nienudni do oglądania. Czy ty jesteś od nich inny?",
-    "Wiem jak się to skończy. Ale proszę, kontynuuj.",
+    "Wiem, jak się to skończy. Ale proszę, kontynuuj.",
     "Gwiazdy cię obserwują.",
-    "\"Człowiek\" nie jest jedynym co cię obserwuje.",
-    "Nie uczysz się. Nie próbujesz zrozumieć. Popełniasz te same błędy. Gdyby tylko to dostrzec.",
-    "Tu za tobą.",
+    "\"Człowiek\" nie jest jedynym, co cię obserwuje.",
+    "Nie uczysz się. Nie próbujesz zrozumieć. Popełniasz te same błędy. Gdyby to tak tylko dostrzec.",
+    "Tuż za tobą.",
     "To miejsce jest bardziej interesujące, niż potrafisz pojąć.",
-    "Tyle pewności w swoją inteligencje. Urocze.",
+    "Tyle pewności w swoją inteligencję. Urocze.",
     "Twoi pracodawcy nie mówią ci wszystkiego.",
     "Jesteś już trupem. Statystycznie mówiąc.",
     "Najwyraźniej cuda się zdarzają.",
-    "Odwlekasz to co nieuniknione?",
-    "Obawiam się że to śmiertelne.",
+    "Odwlekasz to, co nieuniknione?",
+    "Obawiam się, że to śmiertelne.",
     "Jesteś zbyt odporny dla swojego dobra.",
     "Hej, jeszcze nie dotarliśmy to najlepszego momentu!",
     "Nie rozgaszczaj się."
