@@ -1,0 +1,108 @@
+name: Validate Locale Files
+
+on:
+  pull_request:
+    paths:
+      - '**.json'
+      - '!EN.json'
+
+jobs:
+  validate:
+    name: JSON Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate changed locale files
+        run: |
+          python3 - <<'EOF'
+          import json
+          import sys
+          import subprocess
+          import os
+
+          # Get list of changed JSON files (excluding EN.json)
+          result = subprocess.run(
+              ['git', 'diff', '--name-only', 'origin/main...HEAD'],
+              capture_output=True, text=True
+          )
+          changed = [
+              f for f in result.stdout.strip().splitlines()
+              if f.endswith('.json') and f != 'EN.json' and os.path.exists(f)
+          ]
+
+          if not changed:
+              print("No locale files changed.")
+              sys.exit(0)
+
+          # Load reference
+          with open('EN.json', 'r', encoding='utf-8') as f:
+              en = json.load(f)
+
+          def flatten(obj, prefix=''):
+              out = {}
+              if isinstance(obj, dict):
+                  for k, v in obj.items():
+                      out.update(flatten(v, f'{prefix}.{k}' if prefix else k))
+              elif isinstance(obj, list):
+                  for i, item in enumerate(obj):
+                      out.update(flatten(item, f'{prefix}[{i}]'))
+              else:
+                  out[prefix] = obj
+              return out
+
+          en_flat = flatten(en)
+          en_keys = set(k for k, v in en_flat.items() if isinstance(v, str))
+
+          errors = []
+
+          for filepath in changed:
+              print(f'\n=== Checking {filepath} ===')
+
+              # 1. Valid JSON?
+              try:
+                  with open(filepath, 'r', encoding='utf-8') as f:
+                      locale = json.load(f)
+                  print('  ✓ Valid JSON syntax')
+              except json.JSONDecodeError as e:
+                  errors.append(f'{filepath}: JSON syntax error — {e}')
+                  print(f'  ✗ Invalid JSON: {e}')
+                  continue
+
+              locale_flat = flatten(locale)
+              locale_keys = set(k for k, v in locale_flat.items() if isinstance(v, str))
+
+              # 2. Missing keys?
+              missing = en_keys - locale_keys
+              if missing:
+                  for k in sorted(missing)[:20]:
+                      errors.append(f'{filepath}: missing key — {k}')
+                  if len(missing) > 20:
+                      errors.append(f'{filepath}: ... and {len(missing) - 20} more missing keys')
+                  print(f'  ✗ Missing {len(missing)} key(s)')
+              else:
+                  print('  ✓ No missing keys')
+
+              # 3. Extra keys (not in EN)?
+              extra = locale_keys - en_keys
+              # Ignore metadata keys
+              extra = {k for k in extra if not k.startswith('name') and not k.startswith('description') and not k.startswith('gameVer')}
+              if extra:
+                  for k in sorted(extra)[:10]:
+                      print(f'  ⚠ Extra key (not in EN.json): {k}')
+
+          if errors:
+              print(f'\n❌ Validation failed with {len(errors)} error(s):')
+              for e in errors:
+                  print(f'  - {e}')
+              sys.exit(1)
+          else:
+              print('\n✅ All locale files passed validation.')
+          EOF
