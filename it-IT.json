@@ -1,6 +1,6 @@
 {
     "name": "Italiano",
-	"description": "Traduzione non ufficiale. Lingua italiana versione v.6.1(beta-build) steam-demo. Completa. \nSe trovate errori, è apprezzato qualsiasi feedback o modifica/aggiornamento. \n\nCrediti:\n@LorgamerPizza (dialoghi, note e PDA originali, effetti di stato, tutorial, e aggiornamento a v6.1)\n@chaosussy (oggetti, strutture, nome livelli originali, varie)\n\nUltime modifiche 03/05/26:\nAggiornamento a versione 6.1. Correzione errori.",
+	"description": "Traduzione non ufficiale. Lingua italiana versione v.7.0.1(beta-build) steam-demo. Completa. \nSe trovate errori, è apprezzato qualsiasi feedback o modifica/aggiornamento. Se volete contribuire, siete liberi di farlo ma vi chiederei di contattarmi @LorgamerPizza per metterci d'accordo sul lavoro. \n\nCrediti:\n@LorgamerPizza (dialoghi, note e PDA originali, effetti di stato, tutorial e praticamente tutto il resto)\n@chaosussy (oggetti, strutture, nome livelli originali, varie)\n\nUltime modifiche 09/06/26:\nAggiornamento a versione 7.0.1.",
     "main": {
         "bandage": "Benda",
         "bandagedsc": "Un panno arrotolato con delle bende, utile per rallentare il sanguinamento, stabilizzare fratture e migliorare la guarigione della pelle. Non ha effetto sul danno muscolare.",
@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Un rotolo di bende di materiali robusti e plasticosi, progettato per coprire efficacemente ferite e stabilizzare fratture. Non ha effetto sulla salute muscolare.",
         "adhesivebandage": "Cerotti",
         "adhesivebandagedsc": "Un classico pacchetto di cerotti, per piccole ferite. Rallenta il sanguinamento.",
-        "musharm": "Ramo di poltiglia",
+        "musharm": "Fibre avvolgenti",
         "musharmdsc": "Parte di una pianta non commestibile, utile come benda improvvisata. Può essere usata come fogliame nella creazione di oggetti.",
         "paincream": "Crema disinfettante",
         "paincreamdsc": "Una bottiglia da 100mldi una crema calmante, tipo vaselina. Dose 10ml.",
@@ -210,6 +210,8 @@
         "sodacandsc": "Drink zuccherato in un formato conveniente. 0.25L",
         "alcohol": "Bottiglia di alcol",
         "alcoholdsc": "Bottiglia da 0.4L",
+		"exposedcore": "Nucleo esposto",
+        "exposedcoredsc": "I resti inerti di qualcosa che un tempo era vivo. Probabilmente potresti mangiarlo per assorbirne l'energia sotto forma di sostanze nutritive e acqua. <i>Sembra che si stia lentamente trasformando in qualcosa...</i>",
         "foliage": "Fogliame",
         "foliagedsc": "Pianta aliena generica. A malapena commestibile, e dal sapore sgradevole. Potrebbe darti nausea. Si degrada rapidamente. Spesso usato nella creazione.",
 		"foliagemeal": "Insalata",
@@ -296,12 +298,12 @@
         "tutorialradiodsc": "Te ne hanno fornita una durante le sessioni di allenamento. Non sai se i messaggi sono preregistrati o trasmessi. Ha un pulsante che puoi premere.",
         "mp3player": "Lettore MP3",
         "mp3playerdsc": "Incredibilmente funziona ancora. Non male. Riproduce della musica quando usato.",
-        "mushpear": "Pera poltigliosa",
-        "mushpeardsc": "Parte blu di una pianta, serve a distribuire l'acqua. A malapena commestibile, con una strana proprietà assorbi massa e un sapore sgradevole. Riduce la massa corporea se consumato. Sembra contenere oppiacei.",
-        "mushtail": "Radice poltigliosa",
-        "mushtaildsc": "La radice di una pianta poltiglia. Contiene sostanze capaci di mettere al tappeto chiunque per un po', con conseguente miglioramento dell'umore. Bizzarro. Nessun valore nutrizionale.",
-        "mushball": "Palla poltigliosa",
-        "mushballdsc": "Un frutto spugnoso, rotondo e commestibile. Ha un aspetto e consistenza un po' sgradevoli, ma è ricco d'acqua. Si degrada rapidamente.",
+        "mushpear": "Bacca umida",
+        "mushpeardsc": "Parte di un hydra che filtra e distribuisce l'acqua. Ha una strana proprietà assorbi-massa e un sapore sgradevole. Riduce la massa corporea se consumato. Sembra contenere oppiacei.",
+        "mushtail": "Coda del sonno",
+        "mushtaildsc": "La parte finale di un hydra. Contiene sostanze capaci di mettere al tappeto chiunque per un po', con conseguente miglioramento dell'umore. Bizzarro. Nessun valore nutrizionale.",
+        "aquapple": "Mela acquosa",
+        "aquappledsc": "Un frutto bagnato, a forma di bolla. Ha un aspetto e consistenza un po' sgradevoli, ma è ricco d'acqua. Si degrada rapidamente.",
         "droppings": "Regalino",
         "droppingsdsc": "E' cacca.",
         "smallpack": "Zainetto",
@@ -312,6 +314,8 @@
         "bigpackdsc": "Uno zaino di medie dimensioni.",
         "bikehelmet": "Caschetto da bici",
         "bikehelmetdsc": "Un elmetto progettato per ridurre gli impatti alla testa. Riduce il danno alla testa durante le cadute.",
+		"riothelmet": "Casco antisommossa",
+        "riothelmetdsc": "Un elmetto avanzato che riduce fortemente l'impatto di traumi alla testa.",
 		"holidayhat": "Cappello festivo",
         "holidayhatdsc": "Hai sentito che le persone li indossavano per celebrare una festività, ma non ne sai molto al riguardo. E' carino che te ne abbiano inviato uno però.",
         "headlamp": "Luce pilota",
@@ -332,6 +336,8 @@
         "balaclavadsc": "Un pezzo di cotone spesso e imbottito da mettere in testa. Offre leggera protezione e isolamento termico.",
         "latexgloves": "Guanti in lattice",
         "latexglovesdsc": "Un paio di semplici guanti in lattice. Offre una leggera protezione termica.",
+		 "tacticalgloves": "Guanti tattici",
+        "tacticalglovesdsc": "Un paio di avanzati guanti sintetici. Protegge efficacemente le mani da eventuali traumi fisici.",
         "fannypack": "Marsupio",
         "fannypackdsc": "Una piccola borsa fatta per essere legata alla vita.",
         "bandolier": "Bandoliera",
@@ -340,6 +346,8 @@
         "bellyarmordsc": "Un grande pezzo metallico da indossare sull'addome. Fornisce una protezione fisica e un pò di isolamento termico.",
         "belt": "Cintura",
         "beltdsc": "Una cintura di pelle che va indossata in vita. Puoi riporci solo attrezzi.",
+		"traumarig": "Rig medico",
+        "traumarigdsc": "Un avanzato sistema di tasche sintetiche che possono contenere vari oggetti, armi e attrezzature mediche. Inoltre, protegge il torace!",
         "popcorn": "Popcorn",
         "popcorndsc": "Un secchio contenente chicchi di mais fatti scoppiare con il calore. Ti sembra una buonissima idea. Delizioso. Si conserva a lungo.",
         "nopopcorn": "Popcorn vuoti",
@@ -378,6 +386,10 @@
         "carcasssplintdsc": "Una lunga e robusta stecca immobilizzante creata dall'unione di molteplici carcasse. Funziona come rimedio di fortuna per l'immobilizzazione di fratture.",
         "terrainscanner": "Scanner geologico",
         "terrainscannerdsc": "Mostra una mappa grezza delle terreno sottostante. Il terreno è rappresentato in verde, le strutture in rosso. Non è sempre molto preciso. Si estende per 24 metri.",
+		"geigercounter": "Contatore geiger",
+        "geigercounterdsc": "Strumento elettronico per il rilevamento e la misurazione delle radiazioni ionizzanti mediante l'uso di un tubo di Geiger-Müller. Usa per accendere.",
+        "handcrank": "Carica-batterie manuale",
+        "handcrankdsc": "Un dispositivo in grado di ricaricare le batterie scariche tramite un semplice meccanismo manuale. Inserisci una batteria e inizia a girare!",
         "sleepingbag": "Sacco a pelo",
         "sleepingbagdsc": "Una copertura isolante usata per dormire all'aperto, e migliorare la qualità del sonno. (Massimo: Buona) Fornisce un pò di isolamento mentre dormi. Si applicano le normali restrizioni del sonno.",
 	    "liquidcentrifuge": "Centrifuga per liquidi",
@@ -432,16 +444,18 @@
         "browncapdsc": "Non sai di che tipo di fungo si tratti. Per quel che ne sai potrebbe curare ferite, essere commestibile, provocare allucinazioni o direttamente ucciderti sul colpo.",
         "sneakers": "Sneakers",
         "sneakersdsc": "Un paio di sneakers bianche, non progettate per il tuo piede. Se riesci tuttavia ad infilarci la zampa, fornisce protezione da vetro e e piccoli frammenti taglienti.",
+		"tacticalboots": "Scarponi tattici",
+        "tacticalbootsdsc": "Un paio di pesanti scarponi sintetici, fatti per proteggere efficacemente il piede da vari tipi di traumi fisici.",
         "frigiantfruit": "Frutta del ghiaccio",
         "frigiantfruitdsc": "Un frutto molto freddo, duro o ghiacciato. Saporito ma abbassa la temperatura corporea se ingerito. Considera l'idea di consumarlo quando non fa già un freddo tremendo.",
-        "purpleherb": "Erbe viola",
-        "purpleherbdsc": "Una foglia verde e secca, ruvida al tatto. Spesso usata per trattare certe condizioni - aiuta contro la nausea, la perdita dell'udito e può ridurre l'emorragia interna. Usare con prudenza - tende ad aumentare la temperatura corporea di chi la mangia.",
-        "bulbskin": "Bolla fibrosa",
-        "bulbskindsc": "Un pezzo di spessa fibra di una pianta gialla. Contiene alte dosi di adrenalina. E' leggermente idratante ma ha leggeri effetti cognitivi negativi. Può essere usato come anestetico locale o bendaggio di fortuna.",
-        "geigefruit": "Frutto irradiato",
-        "geigefruitdsc": "Uno strano frutto rettangolare luminoso. Odora di olio, ma ha un buon sapore! Sazia e disseta leggermente. Può avere effetti momentanei sui tuoi polmoni, e potrebbe ridurre o aumentare casualmente il tuo tasso di radioattività. Ha una reazione rumorosa quando tocca il terreno ad alte velocità - utile per misurare l'altezza delle cadute.",
-        "antisepticmush": "Poltiglia antisettica",
-        "antisepticmushdsc": "Pezzetti di frutti e fogliame sbattuti insieme, creando una mistura capace di trattare le infezioni. Ad uso singolo.",
+        "helluce": "Lattuga infernale",
+        "hellucedsc": "Un'erba secca di colore viola dal sapore particolarmente piccante. Aiuta a combattere le malattie, allevia leggermente la perdita dell'udito e potrebbe ridurre le emorragie interne. Tende ad aumentare notevolmente la temperatura corporea del consumatore.",
+        "bulbskin": "Membrana rigonfia",
+        "bulbskindsc": "Un pezzo spesso di una membrana gialla. Disseta, ma potrebbe influire leggermente sulle funzioni cerebrali. Può essere utilizzato anche come bendaggio improvvisato e analgesico.",
+        "popfruit": "Frutto scoppiettante",
+        "popfruitdsc": "Uno strano frutto rettangolare e scintillante. Buono e sazia sia fame che sete. Casualmente può intensificare o ridurre avvelenamento da radiazioni. Quando colpisce il terreno ad alte velocità, scoppietta creando un suono particolare - Puoi usarlo per controllare la profondità di un dirupo",
+        "antisepticmush": "Muschietto antisettico",
+		"antisepticmushdsc": "Pezzetti di frutti e fogliame sbattuti insieme, creando una mistura capace di trattare le infezioni. Ad uso singolo.",
         "striderpelt": "Pelliccia di Strider",
         "striderpeltdsc": "Un grande e spesso pezzo di pelle, ricavato da uno strider delle nevi. Offre un considerevole isolamento termico.",
         "funguschunk": "Pezzo di fungo",
@@ -622,8 +636,8 @@
         "ladderdsc": "Una scala a pioli verticale, da cui poter salire e scendere. Ovviamente sai come si usa.",
 		"shadecrawler": "Ragno delle caverne",
         "shadecrawlerdsc": "",
-        "wallbiter": "Mordi-muro",
-        "wallbiterdsc": "Una spaventosa bestia grande e pelosa a sei zampe. Ti sembra di notare dei denti affilati che gli sbucano dalla bocca. Si muove in modo in modo irregolare.",
+        "wallbiter": "Cacciatore delle sabbie",
+        "wallbiterdsc": "Una spaventosa bestia grande e pelosa a sei zampe. Ti sembra di notare dei denti affilati che gli sbucano dalla bocca. Si sta muovendo in modo irregolare.",
         "thornbackyoung": "Thornback",
         "thornbackyoungdsc": "Un giovane di Thornback, aggressivo ma peloso. Sembra che si godano fare tunnel attraverso il terreno e spostare cose.",
         "thornbackelder": "Thornback anziano",
@@ -664,14 +678,26 @@
         "medcratedsc": "Contiene attrezzature mediche.",
 		"rechargingstation": "Stazione di ricarica",
         "rechargingstationdsc": "Una stazione usata per la ricarica delle batterie. Accetta batterie di ogni tipologia, e non ha limiti di ricarica. Puoi inserire la batteria dalla mano principale per poi riprendertela. \n\n Ha un lettore musicale collegato per riprodurre un pò di musica mentre aspetti la ricarica delle batterie, ma per ironia della sorte... è sprovvisto di una batteria.",
-        "mushplant": "Pianta poltigliosa",
-        "mushplantdsc": "Si contorce lentamente...Sembra umida.",
+        "hydreed": "hydra",
+        "hydreeddsc": "Ha tanti rami con dei frutti rotondi che sporgono. Sembra umida...",
         "OxygenCrystal": "Cristallo ossigenante",
         "OxygenCrystaldsc": "Sembra scoppiettare delicatamente...",
         "reinforceddoor": "Porta rinforzata",
         "reinforceddoordsc": "Qualcosa potrà pur aprirla...",
         "ReliefCrystal": "Cristallo del sollievo",
         "ReliefCrystaldsc": "Sembra affilato e rossastro.",
+		"crystalmini": "Cristallo",
+        "crystalminidsc": "Un minuscolo cristallo bioluminescente.",
+        "crystalsmall": "Cristallo",
+        "crystalsmalldsc": "Un piccolo cristallo bioluminescente.",
+        "crystalmedium": "Cristallo",
+        "crystalmediumdsc": "Un cristallo bioluminescente.",
+        "crystalbig": "Cristallo",
+        "crystalbigdsc": "Un grande cristallo bioluminescente.",
+        "crystalmassive": "Cristallo",
+        "crystalmassivedsc": "Un gigantesco cristallo bioluminescente.",
+        "crystalenemy": "Manifestation",
+        "crystalenemydsc": "An expression of malignant intent, from somethimg far, far beyond your limited physical comprehension.",
         "sandrose": "Rosa del deserto",
         "sandrosedsc": "Una pianta stranamente affascinante con delle strane forme oblunghe che gli crescono sopra.",
         "scrapeater": "Mangia-rottami",
@@ -719,8 +745,8 @@
         "geyserdsc": "Un geyser instabile che tende a rilasciare acqua se stimolato. PER FORTUNA l'acqua è a temperatura ambiente.",
         "oilpipe": "Tubo di scarico",
         "oilpipedsc": "Un tubo arrugginito con una melma nera che ne fuoriesce. Non vuoi guardarci dentro... Probabilmente inonderà l'area se gli dai il tempo.",
-        "plantiation": "Pianta-bulbo",
-        "plantiationdsc": "Una lunga e strana pianta viola, con un grande bulbo semi trasparente in punta.",
+        "pop": "Pop",
+        "popdsc": "Una lunga, inerte pianta viola, con un grande bulbo semi-trasparente che sporge dall'estremità.",
         "mushroomdropper": "Fungo Frana",
         "mushroomdropperdsc": "Un fungo che fa cadere il suo cappello per spargere le sue spore attorno a qualunque passante sfortunato.",
         "mushroomdropperpayload": "Cappello di fungo frana",
@@ -1294,7 +1320,7 @@
         "sodiumnitroprusside": "Nitroprussiato di sodio",
         "sodiumnitroprussidedsc": "Un potente vasodilatatore endovenoso utilizzato principalmente nelle emergenze ipertensive per abbassare la pressione del sangue. Somministrazione solo endovenosa. 10ml ogni minuto.",
         "vasopressin": "Vasopressina",
-        "vasopressindsc": "Un ormone usato per aumentare la pressione sanguinea, utile per contrastare l'Ipotensione. Funziona solo per via endovenosa. 10ml ogni minuto.",
+        "vasopressindsc": "Un ormone usato per aumentare la pressione sanguinea, utile per contrastare l'Ipotensione. Funziona meglio se somministrato per via endovenosa. 10ml ogni minuto.",
         "amiodarone": "Amiodarone",
         "amiodaronedsc": "Un medicinale ad effetto anti-aritmia usato per prevenire la fibrillazione. La maggior parte delle aritmie miglioreranno, ma causa danni interni. Somministrazione solo endovenosa. 20ml ogni minuto.",
 		"chocolatemilk": "Latte al cioccolato",
@@ -1317,6 +1343,8 @@
         "dirtywaterdsc": "Almeno non è sul tuo corpo.",
         "algae": "Acqua gelatinosa",
         "algaedsc": "Acqua molto densa, con alghe bioluminescenti che cresce dentro di essa.",
+		"magma": "Magma",
+        "magmadsc": "Roccia fusa. Ogni singola cellula del tuo corpo ti sta dicendo di evitarla.",
         "oil": "Petrolio",
         "oildsc": "Un nero e spesso strato di catrame. Difficile muoversi all'interno.",
         "sap": "Linfa di albero",
@@ -1375,35 +1403,213 @@
         "upperback": "Spalle",
         "middleback": "Schiena",
         "lowerback": "Fianchi",
-        "volumewarning": "AVVERTIMENTO VOLUME",
-        "volumewarningtext": "Potresti sentire rumori MOLTO forti in questo livello. \nConsidera di abbassare un pò il volume a meno che anche tu non voglia riceve danni all'udito insieme a lui. ",
-        "runsettings": "Impostazioni partita",
-        "looatmount": "Quantità oggetti",
-        "trapamount": "Quantità trappole",
-        "lootdepthmultiplier": "Diminuzione oggetti per strato",
-        "trapdepthincrease": "Aumento trappole per strato",
-        "radlinedisable": "Disattiva limite di tempo",
-        "unchipped": "Senza chip",
-        "looatmountdsc": "Quantitativo percentuale di tutti gli oggetti\n\nQuesto modifica quanti oggetti, come capsule o casse, appariranno in ogni strato\n\nUna percentuale elevata può causare problemi di prestazioni",
-        "trapamountdsc": "Quantitativo percentuale di tutte le trappole\n\nQuesto modifica quante trappole, come spuntoni e nemici, appariranno in ogni strato\n\nUna percentuale elevata può causare problemi di prestazioni",
-        "lootdepthmultiplierdsc": "Il quantitativo di oggetti è moltiplicato per questo numero a ogni nuovo strato\n\nIn altre parole, se lo imposti a 50%, il quantitativo di oggetti viene dimezzato per ogni nuovo strato, mentre con 100% rimane invariato",
-        "trapdepthincreasedsc": "Questo numero viene aggiunto al quantitativo di trappole a ogni nuovo strato\n\nIn altre parole, se lo imposti a 50%, il quantitativo di trappole aumenterà da 100% -> 150% -> 200% -> 250%, e così via",
-        "radlinedisabledsc": "Se attivo, disabilita il tempo limite per livello",
-        "unchippeddsc": "Nessun chip neurale che fornisce i tuoi parametri di salute.",
         "startrun": "Avvia partita",
         "startrundsc": "Inizia la discesa nelle caverne.",
+		 "presetnormal": "Normale",
+        "presetnormaldsc": "L'esperienza classica.Ogni errore è rischio. La conoscenza e la percezione dell'ambiente circostante sono fondamentali. Anche il tempo gioca un ruolo chiave. La tua morte non è altro che garantita.",
+        "presetrelaxed": "Rilassato",
+        "presetrelaxeddsc": "Una discesa più lenta e pacata. Gli errori sono sempre fatali, ma più facili da evitare. Hai più tempo a disposizione per esplorare e osservare l'ambiente che ti circonda.",
+        "presetparadise": "Paradiso",
+        "presetparadisedsc": "Queste caverne sono nettamente superiori ai laboratori. Gli errori sono molto meno punitivi, e la quantità di oggetti e sopravvissuti è aumentata. Ci sono pochi pericoli e il tempo a disposizione è più che abbondante.",
+        "presetdesolate": "Desolato",
+        "presetdesolatedsc": "Da solo nell'oscurità. C'è poco da trovare e i pericoli sono dietro l'angolo. Anche se trovare sopravvissuti è raro, quelli che troverai avranno molto da offrire.",
+        "presetunchipped": "Senza chip",
+        "presetunchippeddsc": "Anche se senza chip non ti devi più preoccupare del limite di tempo, la tua capacità di autodiagnosi è fortemente compromessa. Ma chi lo sa. Magari alla fine ne vale la pena?",
+        "presetendless": "Infinita",
+        "presetendlessdsc": "Non c'è via di scampo; Questa è la tua condanna a morte. Quanto riscirai a scendere, mentre i pericoli si faranno sempre di più?\n\n[NOTA: Allo stato corrente del gioco non è disponibile, visto che il gioco in demo non ha comunque una fine.]",
+        "runsettings": "Impostazioni partita",
+        "runsettingsdsc": "Scegli uno stile di gioco tra i preset disponibili. Puoi modificare i parametri a tuo piacimento nel pannello a destra.",
+        "customsettings": "Impostazioni personalizzate",
+        "customsettingsdsc": "Configura specifiche impostazioni per la partita",
+        "runsetunchipped": "Senza chip",
+        "runsetunchippeddsc": "Disabilita il pannello salute, obbligandoti a ragionare per scoprire esattamente cosa ti sta succedendo. Abilita linea visiva.",
+        "runsetbaselootdensity": "Densità oggetti",
+        "runsetbaselootdensitydsc": "Quanti oggetti potrai trovare nei livelli. Sono influenzate anche il numero di casse, capsule e rifornimenti.",
+        "runsetlootmultiplier": "Moltiplicatore densità oggetti",
+        "runsetlootmultiplierdsc": "Ogni volta che attraversi un livello, gli oggetti che troverai saranno diminuiti in percentuale a questo valore rispetto al livello precedente. Ogni volta che attraversi un livello quindi, la densità degli diminuisce secondio questo valore.\n\nIn altre parole, se imposti 0.5x, il quantitativo di loot e oggetti che troverai sarà la metà del livello precedente.",
+        "runsetbasetrapdensity": "Densità trappole",
+        "runsetbasetrapdensitydsc": "Quante trappole troverai per ogni livello. Pericoli in generale e le trappole meccaniche, mostri, o altre calamità.",
+        "runsettrapincrease": "Moltiplicatore densità trappole",
+        "runsettrapincreasedsc": "Questo numero viene moltiplicato alle trappole del livello precedente e usato per generare il successivo.\n\nIn altre parole, se imposti per esempio 0.5x, le trappole diventeranno 1x -> 1.5x -> 2x e così via.",
+        "runsettimelimit": "Limite tempo livello",
+        "runsettimelimitdsc": "Rappresentato in minuti, quanto puoi rimanere in quel livello prima del protocollo punitivo",
+        "runsetstartingsupplies": "Oggetti iniziali",
+        "runsetstartingsuppliesdsc": "Gli oggetti con cui il tuo personaggio inzierà",
+        "runsetstartingsuppliesnone": "Nulla",
+        "runsetstartingsupplieslight": "Torcia",
+        "runsetstartingsuppliesfull": "Kit completo",
+        "runsetxpgain": "Moltiplicatore esperienza",
+        "runsetxpgaindsc": "Moltiplicatore per l'esperienza che guadagni",
+        "runsetmetabolismrate": "Velocità metabolismo",
+        "runsetmetabolismratedsc": "Quanto veloce o lento il tuo metabolismo lavora. Infumenza fame/sete/malattia/peso.",
+        "runsethealingrate": "Velocità di guarigione",
+        "runsethealingratedsc": "Velocità rigenerativa del tuo corpo. Influenza la rigenerazione della pelle/muscoli, coagulazione e rigenerazione del sangue, fratture, dislocazioni e traumi cerebrali",
+        "runsetfracturepain": "Tasso dolore fratture",
+        "runsetfracturepaindsc": "Quanto dolore provoca un arto fratturato/dislocato",
+        "runsetbleedrate": "Tasso di sanguinamento",
+        "runsetbleedratedsc": "Quanto velocemente perdi sangue a causa di emorragie",
+        "runsetinfectionspeed": "Tasso infezioni",
+        "runsetinfectionspeeddsc": "Quanto velocemente un infezione aumenta/diminuisce e quanto velocemente uccidono. Influenza anche la durata degli agenti antisettici",
+        "runsetinfectionchance": "Probabilità di infezione",
+        "runsetinfectionchancedsc": "Con che probabilità puoi contrarre infezioni da ferite o lesioni",
+        "runsetfibrillationrate": "Tasso fibrillazione",
+        "runsetfibrillationratedsc": "Con che ritmo sopraggiunge la Fibrillazione. Un numero più alto = morte più veloce",
+        "runsetbonuslimbarmor": "Armatura bonus arti",
+        "runsetbonuslimbarmordsc": "La capacità innata dei tuoi arti di resistere a danni. Un valore 1 significa che i tui arti non subiranno danni",
+        "runsetstaminaregen": "Rigenerazione stamina",
+        "runsetstaminaregendsc": "Quanto velocemente recuperi il fiato",
+        "runsetattackdamage": "Danni attacco",
+        "runsetattackdamagedsc": "Quanto danno provochi attaccando con gli artigli",
+        "runsetstrokes": "Abilita ictus",
+        "runsetstrokesdsc": "Determina se puoi essere affetto da ictus durante crisi ipertensive",
+        "runsetbraindamagefx": "Effetti danni cerebrali",
+        "runsetbraindamagefxdsc": "Determina se riceverai effetti visivi periodici in caso di danni cerebrali",
+        "runsetinfinitelaststand": "Ultima resistenza infinita",
+        "runsetinfinitelaststanddsc": "Determina se puoi avere ulteriori chance di avere ultima resistenza",
+        "runsetmoodnormalizationrate": "Tasso normalizzazzione umore",
+        "runsetmoodnormalizationratedsc": "Quanto velocemente il tuo umore tende verso lo 0. Valori alti renderanno difficile rimanere triste o felice.",
+        "runsetforcesleep": "Forza sonno",
+        "runsetforcesleepdsc": "Se il giocatore viene forzato a dormire quando le energie raggiungono 0",
+        "runsetlowmoodevents": "Eventi umore basso",
+        "runsetlowmoodeventsdsc": "Se il personaggio intraprende specifiche azioni in caso di umore molto basso",
+        "runsetliquidpushing": "Spinta liquidi",
+        "runsetliquidpushingdsc": "I liquidi spostano il giocatore",
+        "runsetdisfigurement": "Abilita sfiguramento",
+        "runsetdisfigurementdsc": "Determina se il tuo personaggio può perdere le proprie caratteristiche facciali",
+        "runsetsleepcyclespeed": "Velocità ciclo sonno",
+        "runsetsleepcyclespeeddsc": "Quanto velocemente recuperi e perdi le energie mentre dormi o sei sveglio",
+        "runsetencumbrancecap": "Massimo ingombro",
+        "runsetencumbrancecapdsc": "Quanto un giocatore può trasportare prima di diventare ingombrante",
+        "runsetnosleeprestrictions": "Zero restrizioni sonno",
+        "runsetnosleeprestrictionsdsc": "Può un giocatore dormire sempre anche quando soffre/sta male etc",
+        "runsettraderchance": "Probabilità di trovare un mercante",
+        "runsettraderchancedsc": "Probabilità di trovare un mercante dentro le capsule",
+        "runsettraderitemamount": "Quantitativo oggetti mercante",
+        "runsettraderitemamountdsc": "Moltiplicatore degli oggetti che i mercanti hanno",
+        "runsettraderrepoffset": "Default reputazione mercante",
+        "runsettraderrepoffsetdsc": "Quanta reputazione ricevi quanto incontri nuovi mercanti",
+        "runsetitemdecayrate": "Tasso di deterioramento oggetti",
+        "runsetitemdecayratedsc": "Quanto velocemente cibo e oggetti come borse si deteriorano",
+        "runsetlayermodifierchance": "Possibilità di ottenere un modificatore livello",
+        "runsetlayermodifierchancedsc": "Con che probabilità hai di ottenere un modificatore per ogni livello",
+        "runsettimebetweenearthquakes": "Intervallo tra terremoti",
+        "runsettimebetweenearthquakesdsc": "Quanto tempo in media passa tra un terremoto e l'altro",
+		"runsettemperatureoffset": "Offset temperatura ambientale",
+        "runsettemperatureoffsetdsc": "Quanto più calda o fredda dovrebbe essere la temperatura ambientale in media",
+        "runsetlockpickprecision": "Facilità scasso",
+        "runsetlockpickprecisiondsc": "Quanto è ampio l'angolo di precisione durante i minigiochi di scassinaggio",
+        "runsetambientlight": "Luce ambientale",
+        "runsetambientlightdsc": "Quanto le aree non direttamente illuminate saranno luminose",
+        "runsetambientlightnone": "Buio pesto",
+        "runsetambientlightenough": "Abbastanza da vederci",
+        "runsetambientlightbright": "Luminoso",
+        "runsetoreamount": "Quantitativo metalli",
+        "runsetoreamountdsc": "Quanta rame/ilmenite viene generata in ogni livello",
+        "runsetminigamehandshake": "Tremolio mani minigioco",
+        "runsetminigamehandshakedsc": "Quanto ti tremano le mani durante i minigiochi per via del dolore",
+        "runsetdebugworld": "Mondo di debug",
+        "runsetdebugworlddsc": "Se acceso, genera velocemente livelli più piccoli. Non inteso per il gameplay",
 		"tutorialwarning": "<size=150%>Prima di andare...\n\n<size=100%>Non hai ancora superato il corso di addestramento base.\nSei sicuro di voler procedere?\n\n\n\nLa tua rovina non è altro che garantita.",
         "tutorialwarningyes": "Vai all'addestramento",
         "tutorialwarningno": "So cosa sto facendo!",
-        "quit": "Esci",
+		"pausereturn": "Indietro",
+        "pausegiveup": "Arrenditi",
+        "pausegiveup2": "Sei sicuro?",
+        "pausegiveup3": "Sei ASSOLUTAMENTE sicuro?",
+        "pausegiveup4": "Hai così voglia di morire?",
+        "pausegiveup5": "ORDIGNO ESPLOSIVO INTRACRANICO ARMATO",
+        "pausegiveup5dsc": "La tua materia grigia sta per diventare un tutt'uno con l'ambiente circostante.",
+        "pausegiveupdsc": "Abbandona questa vita",
+        "pauseexit": "Esci",
+        "pausesettings": "Impostazioni",
+        "pausesettingsdsc": "Perché il gioco è troppo rumoroso",
         "resettodefault": "Reimposta predefiniti",
-        "resettodefaultdsc": "Ripristina le impostazioni partita ai valori predefiniti",
-		"back": "Indietro",
+		"tabvideo": "Video",
+        "tabaudio": "Audio",
+        "tabgame": "Gameplay",
+        "tabinput": "Controlli",
+        "tablanguage": "Lingua",
+        "gamesetreswidth": "Larghezza risoluzione",
+        "gamesetreswidthdsc": "Risoluzione orizzontale preferita. A volte il sistema operativo può limitare questa impostazione.",
+        "gamesetresheight": "Altezza risoluzione",
+        "gamesetresheightdsc": "Risoluzione verticale preferita. A volte il sistema operativo può limitare questa impostazione.",
+        "gamesetfullscreen": "Schermo intero",
+        "gamesetfullscreendsc": "Alterna tra finestra e senza bordi",
+        "gamesetvsync": "V-Sync",
+        "gamesetvsyncdsc": "Sincronia verticale, riduce gli strappi del monitor a scapito delle performance. Se attivo sovrascrive il limite di framerate impostato",
+        "gamesetframerate": "Framerate massimo",
+        "gamesetframeratedsc": "Se sopra 0, Imposta a che fotogrammi al secondo il gioco pò scorrere. 0 rappresenta nessun limite. Se il V-Sync è attivo ignorerà questa preferenza",
+	    "gamesetpixelate": "Render a pixel",
+        "gamesetpixelatedsc": "Attiva o disattiva il rendering a risoluzione ridotta o a piena risoluzione. Tieni presente che disattivando il rendering pixelato si sacrifica in parte lo stile grafico previsto dal gioco.",
+		"gamesetdarkerbackground": "Sfondo caverna nero",
+        "gamesetdarkerbackgrounddsc": "Lo sfondo della caverna diventa nero per aumentare il contrasto",
+        "gamesetbloom": "Bagliore",
+        "gamesetbloomdsc": "Rende le cose luminose più belle.",
+        "gamesetfilmgrain": "Grana cinematografica",
+        "gamesetfilmgraindsc": "Quanto di questo filtro vuoi vedere",
+		 "gamesetbrightness": "Luminosità",
+        "gamesetbrightnessdsc": "Quanto luminosi saranno tutti i valori non completamente neri",
+        "gamesetlineofsightcount": "Risoluzione linea visiva",
+        "gamesetlineofsightcountdsc": "Quanto dettagliata è la linea visiva, quando possibile. Valori più alti peggiorano le performance.",
+        "gamesetscreenshake": "Screenshake",
+        "gamesetscreenshakedsc": "Quanto lo schermo trema dopo cadute, esplosioni ecc.",
+		"gamesetcensorpain": "Censura dolore",
+        "gamesetcensorpaindsc": "Disabilità certi aspetti e suoni legati al dolore del personaggio.\nNOTA: A meno che tu non ne senta il bisogno, ti consigliamo di mantenerli per un esperienza di gioco più autentica",
+        "gamesetcensormood": "Censura umore",
+        "gamesetcensormooddsc": "Attutisce certi aspetti come musica, dialoghi ed eventi legati all'umore negativo.\nNOTA: A meno che tu non ne senta il bisogno, ti consigliamo di mantenerli per un esperienza di gioco più autentica",
+        "gamesetalwaysexpand": "Espandi sempre descrizione oggetti",
+        "gamesetalwaysexpanddsc": "Se attivo, vedrai sempre la versione estesa delle descrizioni degli oggetti, senza premere il tasto apposito",
+        "gamesetshowhiddenmoodles": "Mostra sempre effetti di stato nascosti",
+        "gamesetshowhiddenmoodlesdsc": "Se attivo, gli effetti di stato meno importanti verranno sempre e comunque mostrati, invece di essere nascosti.",
+        "gamesetitemfloating": "Oggetti fluttuanti",
+        "gamesetitemfloatingdsc": "Se attivo, gli oggetti che troverai nelle casse non cadranno immediatamente.",
+        "gamesetclearerrecipes": "Contrasto lista ricettario",
+        "gamesetclearerrecipesdsc": "Se attivo, potrai vedere un maggiore contrasto tra gli oggetti che puoi creare e non",
+        "gamesetinventoryuseleniency": "Time-out apertura inventario",
+        "gamesetinventoryuseleniencydsc": "Quanto tempo devi aspettare dopo aver aperto l'inventario prima di poter usare gli oggetti.",
+        "gamesetskipintro": "Salta intro",
+        "gamesetskipintrodsc": "Perché ormai l'hai vista mille volte...",
+        "gamesetrpc": "Presenza discord",
+        "gamesetrpcdsc": "Toglie la possibilità a discord di mostrare il gioco mentre è in esecuzione nel tuo profilo",
+        "gamesetmastervolume": "Volume generale",
+        "gamesetmastervolumedsc": "",
+        "gamesetmusicvolume": "Volume musica",
+        "gamesetmusicvolumedsc": "",
+        "gamesetdronevolume": "Volume crisi",
+        "gamesetdronevolumedsc": "Il volume di alcune tracce che rappresentano episodi come la morte, combattimenti ecc.",
+        "gamesettrackinterval": "Intervallo tracce musicali",
+        "gamesettrackintervaldsc": "In secondi, quanto tempo passa prima di riprodurre la prossima traccia audio",
+        "gamesetsadnessdistortion": "Distorsione musica umore basso",
+        "gamesetsadnessdistortiondsc": "Se o meno, distrocere la musica progressivamente quando l'umore raggiunge livelli bassi",
+        "gamesetautojump": "Auto-salto",
+        "gamesetautojumpdsc": "Il personaggio proverà a saltare finché il pulsante è premuto. Vecchio comportamento legacy",
+        "gamesettogglelabels": "Attiva/disattiva visualizzazione etichette",
+        "gamesettogglelabelsdsc": "Se acceso, le descrizioni degli oggetti verranno mostrate o nascoste quando premi il pulsante, invece di dover tenere premuto",
+        "gamesetjump": "Salta",
+        "gamesetleft": "Muovi a sinistra",
+        "gamesetright": "Muovi a destra",
+        "gamesetdown": "Accovacciati",
+        "gamesetup": "Vai su",
+        "gamesetattack": "Colpisci",
+        "gamesetiteminteract": "Usa oggetti/annulla",
+        "gamesetthrow": "Lancia",
+        "gamesetswitchhands": "Cambia mano",
+        "gamesetragdoll": "Ragdoll",
+        "gamesetwoundview": "Pannello salute",
+        "gamesetcraft": "Menu creazione",
+        "gamesetfavourite": "Oggetto preferito",
+        "gamesettoggleinventory": "Inventario",
+        "gamesetspeed1": "Velocità normale",
+        "gamesetspeed2": "Velocità accellerata",
+        "gamesetspeed3": "Velocità super accellerata",
+        "gamesetexpanddesc": "Espandi descrizione oggetti",
+        "gamesetaltview": "Mostra descrizioni",
+        "gamesetbark": "Abbaia",
+        "gamesetconsole": "Togli la console di debug",
+        "gamesetpause": "Pausa",
+        "copy": "Copia negli appunti",
+        "paste": "Incolla dagli appunti",
         "descend": "Discendi",
-		"mainmenu": "Menu\nPrincipale",
-		"screenbrightness": "Luminosità schermo",
-        "gamma": "Gamma",
-        "paneltip": "Premi ESCAPE per aprire/chiudere questo pannello",
         "unarmed": "Niente",
         "container": "Contenitore",
         "containermaxweight": "Capacità",
@@ -1446,6 +1652,7 @@
 		"amputationMinigameGuide": "Taglia attraverso l'arto per amputare. Assicurati di fermare l'emorragia subito dopo.",
 		"aedMinigameGuide": "Segui le istruzioni sul display.",
         "manualDefibMinigameGuide": "Sincronizza la scarica in base alla lunghezza del ciclo di fibrillazione del cuore, caricare, e somministrare. Ripetere se necessario.\nLa stima raccomandata (POW.EST) è più precisa con un valore di INT più alto.",
+		"handCrankMinigameGuide": "Afferra il manico e inizia a girare per ricaricare.",
         "aedstate0": "Posiziona le piastre nei luoghi indicati.",
         "aedstate1": "Analizzando ECG",
         "aedstate2": "Shock raccomandato.\nPremi il pulsante per somministrare.",
@@ -1564,6 +1771,8 @@
         "togglehealthmode": "Scambia ispezione ferite/armatura",
 		"selecttrainingcourse": "Seleziona un corso di addestramento.",
         "start": "Inizia",
+		"quit": "Esci",
+        "back": "Indietro",
         "basicscourse": "Tutorial Base",
         "firstaidcourse": "Tutorial Primo soccorso",
         "craftingcourse": "Tutorial Creazione",
@@ -1625,11 +1834,9 @@
 		"hplimbforce": "Forza arto",
 		"hplimbforcedsc": "La capacità totale dell'arto di muoversi ed esercitare forza",
         "hpopiate": "Quantità di oppiacei",
-        "keybinds": "Assegnazione tasti",
-		"keybindsdsc": "Apre il file dei tasti. Ricordati di salvare!",
-        "custommusic": "Musica personalizzata",
-        "custommusicdsc": "Apri la cartella musica personalizzata.\nPuoi mettere file .mp3/.ogg./.wav al suo interno, che potrai riprodurre sul lettore MP3 che potrai trovare in gioco.\nAltri tipologie di file non sono supportate.",
-        "layer": "Strato",
+		"settings": "Impostazioni",
+        "credits": "Crediti",
+		"layer": "Strato",
         "toggleheatmode": "Attiva/disattiva modalità riscaldamento",
         "activateshower": "Attiva doccia",
         "heaterhot": "caldo",
@@ -1658,8 +1865,8 @@
         "open": "Apri",
         "insertbattery": "Inserisci batteria dalla mano principale",
         "lockpick": "Scassina",
-        "learnedrecipe": "Ricetta imparata per r1.\nOttenuto <color=\"green\">30 INT exp.",
-		"epdalearn": "Ottenuto <color=\"green\">50 INT exp.",
+        "learnedrecipe": "Ricetta imparata per r1.\nOttenuto <color=\"green\">35 INT exp.",
+		"epdalearn": "Ottenuto <color=\"green\">35 INT exp.",
         "hasbattery": "Ha una batteria (<>)\n<sprite index=17 tint=1>Usa strumento per rimuovere",
         "nobattery": "Manca batteria (Max. <>)",
         "unknownobject": "Qualcosa...",
@@ -1675,6 +1882,11 @@
 		"small": "Piccolo",
         "medium": "Medio",
         "large": "Grande",
+		"crystaleffect1": "Ha un che di strano",
+        "crystaleffect2": "C'è qualcosa che non ti convince.",
+        "crystaleffect3": "Emana un energia particolare. Noti delle cose strane provenire da esso.",
+        "crystaleffect4": "Questo mana un energia particolarmente intensa. Sembra quasi che la realtà si distoga intorno ad esso.",
+        "crystaleffectmany": "C'è qualcosa di orribilmente sbagliato. Forse non dovresti avvicinarti... o forse, dovresti?",
         "lockprecision": "Precisione lucchetto: ",
         "degree": "grado",
         "degrees": "gradi",
@@ -1710,17 +1922,18 @@
         "tradermovedsc": "Chiedi gentilmente al mercante di spostarsi, in caso stiano bloccando qualcosa di importante.",
 		"exit": "Esci",
         "free": "<color=\"orange\">LIBERO!",
-        "deceased": "Deceduto",
-        "statusreport": "Rapporto di stato",
-        "firmware": "Firmware",
-        "depth": "Profondità",
-        "caloriesconsumed": "Calorie consumate",
-        "mentalstate": "Stato mentale",
-        "timetaken": "Tempo impiegato",
-        "missionstatus": "Stato missione",
-        "missionstatusfailure": "Missione fallita",
-        "casualties": "Morti",
-        "unknown": "Sconosciuto",
+		"endscreenstatus": "MSN-TRASPORTI RAPPORTO SPEDIZIONE",
+        "endscreenunresolved": "IRRISOLTO",
+        "endscreencasualties": "VITTIME:",
+        "endscreenunknown": "SCONOSCIUTE",
+        "endscreenphysical": "STATO FISICO:",
+        "endscreendeceased": "DECEDUTO",
+        "endscreenmental": "ULTIMO STATO MENTALE REGISTRATO:",
+        "endscreendepth": "PROFONDITA:",
+        "endscreendepthres": " METRI A ",
+        "endscreencalories": "CALORIE:",
+        "endscreenmainmenu": "RITORNA AL MENU",
+        "endscreenclipboard": "COPIA NEGLI APPUNTI",
         "moodrange-10": "Suicida",
         "moodrange-9": "Senza speranza",
         "moodrange-8": "Miserabile",
@@ -1743,10 +1956,12 @@
         "moodrange9": "Gioioso",
         "moodrange10": "Estasiato",
         "moodrangewiped": "Vuoto",
-        "moodrangeyethopeful": ", ma speranzoso...",
+        "moodrangeyethopeful": ", ma speranzoso",
 		"wiki": "Wiki",
 		"discord": "Server Discord",
 		"translations": "Archivio traduzioni",
+		"localefolder": "Cartella traduzioni",
+        "musicfolder": "Musica personalizzata",
 		"healthchipcriticalalert1": "PARAMETRI VITALI\nCRITICI",
         "healthchipcriticalalert2": "MORTE\nIMMINENTE",
         "healthchipcriticalalert3": "NECESSARIA\nASSISTENZA MEDICA",
@@ -1763,7 +1978,7 @@
         "tutbasic8": "Piccola creatura agile.",
         "tutbasic9": "Ora, ripassiamo come si maneggiano gli oggetti.",
         "tutbasic10": "Le interazioni con gli oggetti si eseguono con [CLICK DESTRO]. Clicca su te stesso per aprire l'inventario, e clicca al di fuori per chiudere.",
-        "tutbasic11": "Ecco qualcosa con cui giocare. [CLICK DESTRO] e trascinalo su te stesso, e dopo su uno slot libero.",
+        "tutbasic11": "Ecco qualcosa con cui giocare. [CLICK DESTRO] e trascinalo su te stesso, e dopo su uno slot libero. Puoi tenere premuto [CONTROL] per vedere le icone degli oggetti, aiutandoti a localizzarli. ",
         "tutbasic12": "Bene. Puoi inoltre usare gli oggetti dall'inventario. Trascinalo al centro per usare e proseguire.",
         "tutbasic13": "Buona vero? Ora finisci la barretta.",
 		"tutbasic13fail": "In realtà volevo che la raccogliessi... Diavolo, tutta? Tutta in un boccone..?",
@@ -1934,7 +2149,7 @@
         "tutclosehealthpanel": "Chiudi il pannello salute.",
         "tutopenhealthpanel": "Apri il pannello salute.",
         "tutnice": "Bene.",
-        "startlorenote": "Anno 2XXX \n<>\nL'umanità ha raggiunto progressi tecnologici significativi. \n<>\nUn'azienda decise di intraprendere studi nel campo della bio-ingegneria, combinando DNA umano con quello animale. \n<>\nQuesto portò alla creazione di specie sperimentali, insieme ad un altra dozzina di ibridi e fallimenti bio-ingegneristici. \n<>\nDopo anni di ricerche eticamente discutibili portate avanti da questa compagnia privata, il laboratorio non gli bastava più. Avevano poggiato gli occhi su qualcosa di più grande. \n<>\nErano a conoscenza di un pianeta grigio ricco di flora e fauna, e dal facile raggiungimento tramite viaggi spaziali. \n<>\n In breve tempo, migliaia di specie, insieme a edifici e merce, vennero spediti lì. \n<>\nMentre la maggior parte venne consegnata senza problemi, una grossa fetta di merci venne erroneamente inviata nel fitto sistema minerario del pianeta a causa di un errore di calibrazione. \n<>\nQuesto includeva un pezzo di importante tecnologia sperimentale inviato per sbaglio, e dall'inestimabile valore. Ora sotterrato nel fitto sistema di caverne, senza modo di recuperarlo. \n<>\nQuesto, tuttavia, fu visto come un opportunità dagli scienziati della compagnia per condurre ulteriori test comportamentali inviando migliaia di specie sperimentali a recuperare tale tecnologia. \n<>\nLa probabilità di riuscita del piano erano basse, ma i costi d'invio delle specie era ancora più bassi e avevano a disposizione molte cavie.\n<>\nTu sei uno di quegli ibridi sfortunati.\nLa resistenza non è un opzione."
+        "startlorenote": "Anno 2XXX \n<>\nLa tecnologia dell'umanità ha fatto passi da gigante. Cose che prima sembravano impossibili ora erano all'ordine del giorno.\n<>\nAl centro di tutto c'era un'unica compagnia. I loro progressi sembravano miracolosi, ma i suoi segreti erano custoditi gelosamente.\n<>\nAnni fa avevano creato una nuova specie: un incrocio tra DNA animale e umano che chiamavano semplicemente \"Esperimenti.\"\n<>\nQuesti esperimenti erano i soggetti da test perfetti: abbastanza simili agli esseri umani, ma di cui potevano disporre a loro piacimento. Ci lavorarono senza sosta, alterandone ulteriormente la biologia per adattarla alle loro esigenze, e con il passare degli anni la popolazione non fece che aumentare.\n\n Nessuno di loro avrebbe mai visto il mondo esterno.\n<>\nOrmai sembrava che la Terra non potesse più contenere le loro ambizioni. Grazie alla loro nuova tecnologia di teletrasporto, puntarono lo sguardo su un pianeta grigio brulicante di vita.\n<>\nIn men che non si dica, furono spedite tonnellate di merci varie e rifiuti.\n<>\nA causa di alcune difficoltà nella calibrazione, la quantità di materiale finita nel sistema di grotte del pianeta è stata pari a quella rimasta in superficie, ma il progetto è andato avanti senza intoppi. \n<>\nTutto questo fino a quando un errore sconosciuto ha causato l'invio di un importante componente tecnologico nelle profondità delle caverne.\n<>\nIn poco tempo, gli scienziati avevano architettato un piano. Un piano che comportava pochi rischi per loro.\n<>\nLe probabilità di successo erano basse, ma la loro riserva di specie era ampia.\n<>\nTu sei uno di quelli individui sfortunati. \nLa resistenza non è un opzione."
     },
     "character": [
         {
@@ -2480,16 +2695,6 @@
                 "Il <limb> non ha un bell'aspetto...",
                 "Il <limb> è ricoperto di sangue...",
                 "Santissima libertà! Sembra proprio che i miei calcoli si siano rivelati errati e ora il mio <limb> è completamente giallo! Santi numi! E ora cosa potrei fare!"
-            ],
-            "sepsis": [
-                "Dio... Mi sento molto male...",
-                "Auugh... Che mi sta succedendo...",
-                "Sto... Facendo fatica... Fisicamente...",
-                "Il mio corpo non se la passa bene...",
-                "Guuhh... Sto male...",
-                "E' come se tutto il mio corpo fosse infiammato...",
-                "Mi fanno male le interiora...",
-                "Non me la sto passando bene..."
             ],
             "sad": [
                 "Le cose potrebbero andare peggio dai.",
@@ -3698,7 +3903,68 @@
                 "Pres-sto sa-sarà tutto..tutto f-finito..?",
                 "Basta... Basta... Basta... Vi prego... Per dio... N-non così... Salvatemi...",
                 "Cazzo... CAzzo... Aiutatemi... Io non... voglio m-morire... H-h.."
-            ]
+			],
+            "magicheal": [
+                "...Huh. Mi sento...Meglio..?",
+                "Ahh..! ...uh. Mi sento... Mi sento meglio. Che bello."
+            ],
+            "selfdestruct": [
+                "...Uuuhh... ...Cos'è questo suono...?",
+                "...Oh. Oh. OH. OH! NO. NO NO NO. ASPETTA. PERCHE'? CHE COSA HO FATTO!?",
+                "...A-ah... Ho capito... B-beh... A-addio, a-allora..."
+            ],
+            "vomitresponse": [
+                "Uuuhmm... Tutto ok..?"
+            ],
+            "vomitbloodresponse": [
+                "AH! Hai appena... Oh... Sai che, hai appena tipo... vomitato sangue, giusto?"
+            ],
+            "hungryresponse": [
+                "Là fuori c'è del cibo, sai...",
+                "Voglio dire, potrei darti del cibo in cambio di qualcosa..?"
+            ],
+            "thirstyresponse": [
+                "Sono sicuro che puoi trovare dell'acqua là fuori...",
+                "Da quello che ho sentito, il corpo può sopravvivere solo tre \"giorni\" senza acqua, haha..."
+            ],
+            "sadresponse": [
+                "Hey, va tutto bene... sei ancora vivo e vegeto, vedo..."
+            ],
+            "depressedresponse": [
+                "...Calmati, ti prego... andrà tutto bene..."
+            ],
+            "selfharmresponse": [
+                "...P-perché... ti sei..."
+            ],
+            "braindamagedresponse": [
+                "...Non mi sembri molto uhh... a posto.",
+                "...Cosa?"
+            ],
+            "hotresponse": [
+                "Allora, abbassa il termostato."
+            ],
+            "coldresponse": [
+                "Lo sai che qui abbiamo l'aria condizionata vero?..."
+            ],
+            "bleedingresponse": [
+                "Sembra... messa male... MA, Io sono sicuro che... riuscirai a sistemarla...",
+                "H-hey, calma. andrà tutto bene."
+			],
+            "painresponse": [
+                "Tutto ok..? Perché soffri?",
+                "Hai pestato su qualcosa?"
+            ],
+            "dirtyresponse": [
+                "...Abbiamo una doccia qui, sai. Oppure... puoi farti una nuotata in una di quelle piscine là fuori..."
+            ],
+            "encumberedresponse": [
+                "Non ti farebbe male lasciare un pò della tua roba qui con me.",
+                "Mi prenderò cura io delle tue cose!"
+            ],
+            "dyingresponse": [
+                "Diamine... Uh... Non ho mai imparato le manovre di rianimazione...",
+                "Io... Uh... Sperò ti andrà tutto bene..."
+			]
         },
         {
             "tradermeetnormal": [
@@ -3866,6 +4132,60 @@
             ],
             "tradermovefail": [
                 "Perché dovrei spostarmi per una persona come te?"
+            ],
+            "vomitresponse": [
+                "Sembra che tu abbia restituito alla terra il contenuto del tuo stomaco.",
+				"Sul serio? Sul MIO pavimento?"
+            ],
+            "vomitbloodresponse": [
+                "...Credo tu stia sanguinando internamente. Ti chiedo gentilmente di porgere la tua bocca lontano da me per evitare spiacevoli inconvenienti futuri."
+            ],
+            "hungryresponse": [
+                "Se pensi che io possa saziare la tua fame senza che tu mi paghi, ti sbagli di grosso.",
+                "Non sono un ente di beneficenza. Trovati qualcosa da mangiare, oppure scambia qualcosa con me."
+            ],
+            "thirstyresponse": [
+                "In questa zona ci sono molte sorgenti di acqua potabile. Approfittatene.",
+                "Cerca altrove la tua fonte d'acqua."
+            ],
+            "sadresponse": [
+                "Per favore, smettila di lamentarti."
+            ],
+            "depressedresponse": [
+                "Sprofondare nella disperazione non risolverà alcun problema."
+            ],
+            "selfharmresponse": [
+                "...Tu sei veramente malato. Fermati."
+            ],
+            "braindamagedresponse": [
+                "Sei del tutto incoerente.",
+                "Scommetterei che hai una commozione cerebrale."
+            ],
+            "hotresponse": [
+                "Se ti comporti bene, potrei lasciarti usare l'aria condizionata di questa capsula."
+            ],
+            "coldresponse": [
+                "Fai un po' di esercizio. Ti riscalderai in un batter d'occhio."
+            ],
+            "bleedingresponse": [
+                "Per favore, non sporcarmi di sangue.",
+                "Ti prego di curare le tue ferite."
+  ],
+            "painresponse": [
+                "Il dolore è una garanzia qua sotto. Raddrizzati, verme.",
+                "Prendi un antidolorifico. Naturalmente, ne avrai uno..."
+            ],
+            "dirtyresponse": [
+                "Esatto. Sei sporco. Evita di toccarmi prima di esserti lavato."
+            ],
+            "encumberedresponse": [
+                "Ti dispiacerebbe lasciarmi quelle cose pesanti?",
+                "Così mi fai gola."
+            ],
+            "dyingresponse": [
+                "Non credo che rianimarti sistemerebbe qualcosa in questa situazione.",
+                "Davvero? Morire, sul MIO pavimento?",
+                "Ma andare nel panico migliorerà davvero la situazione?"
             ]
         },
 		{
@@ -4033,6 +4353,58 @@
             ],
             "tradermovefail": [
                 "Du-ne pia-ce dove sta..."
+             ],
+            "vomitresponse": [
+                "Ami-co... Vomitato... Stare ma-le?"
+            ],
+            "vomitbloodresponse": [
+                "Du-ne... Odora s-angue... da... Ami-co... Buo-no..?"
+            ],
+            "hungryresponse": [
+                "Du-ne capire... Dune fa-me!",
+                "Si... Du-ne bisogno anche l-lui ci-bo!"
+            ],
+            "thirstyresponse": [
+                "Du-ne bere po-po-pozzanghera... stato meglio... Amico p-provare?",
+                "Mm-m... ora di s-succo?"
+            ],
+            "sadresponse": [
+                "A-mico stare male..? Perché?"
+            ],
+            "depressedresponse": [
+                "Ami-co brutto viso... Sedere con Du-ne!"
+            ],
+            "selfharmresponse": [
+                "Perché amico f-ferito? Ami-co cattivo?"
+            ],
+            "braindamagedresponse": [
+                "Du-ne c-c-concorda.",
+                ".........?"
+            ],
+            "hotresponse": [
+                "Du-ne mai caldo! Du-ne ama c-aldo..."
+            ],
+            "coldresponse": [
+                "Du-ne paura di f-freddo... Stanza è c-calda! A-amico stare con Du-ne..."
+            ],
+            "bleedingresponse": [
+                "Ami-co ferito. Ami-co bisogno a-aiuto!",
+                "Ami-co odore s-sangue. Du-ne piace."
+			],
+            "painresponse": [
+                "Am-ico dolore..?",
+                "Du-ne capire... Du-ne sentire dolore! Ami-co ok?"
+            ],
+            "dirtyresponse": [
+                "Perché sporco?"
+            ],
+            "encumberedresponse": [
+                "Posso prendere roba di am-ico?",
+                "Du-ne può alleggerire carico!"
+            ],
+            "dyingresponse": [
+                "Cosa c'è che non va con a-amico..?",
+                "Du-ne non sa c-come aiutare..."
             ]
         }
     ],
@@ -4189,9 +4561,9 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(Il biglietto è accartocciato e stropicciato, come se fosse destinato a essere gettato via.)\n<>\nIl mio amico... credo che si sia suicidato. Dopo un'altra brutta caduta ho provato a medicargli le gambe, ma continuava a mandarmi a fanculo. Continuava a scacciarmi come se fossi una mosca, dicendomi di lasciarlo in pace. Non capivo. Sono andato a prendere alcune delle piante qui intorno per provare a fasciarli, ma... quando sono tornato avevano un'altra ferita. Una sul braccio. Ricordo ancora com'era, era grave, praticamente lacerata. Ho provato a usare le piante che avevo trovato per medicare la nuova ferita, ma continuavano a respingermi. I loro occhi erano... sembravano proprio... vuoti. Ho detto loro di smetterla, cazzo, e di lasciarmi aiutare, ma non hanno risposto. Ho provato ad aiutarli ancora un paio di volte e mi hanno respinto finché non si sono semplicemente... fermati. Ricordo di aver visto il loro corpo rilassarsi, penso che sia stato allora che hanno smesso di respirare. Non riesco a togliermi quell'immagine dalla testa...\n<>\nHo... ho fatto qualcosa di male? Giuro che non l'ho fatto... cosa ho fatto di male? Perché l'hanno fatto? Io... io non ho fatto niente. Non capisco, non voglio morire... non voglio... io...\n<>\n...\n<>\nhaha...\n<>\nÈ così vuoto qui.\n<>\n(Si notano deboli tracce di lacrime e sangue secco sparse sul biglietto.)",
+                "Item1": "(Il biglietto è accartocciato e stropicciato, come se fosse destinato a essere gettato via.)\n<>\nIl mio amico... credo che si sia suicidato. Dopo un'altra brutta caduta ho provato a medicargli le gambe, ma continuava a mandarmi via. Continuava a scacciarmi come se fossi una mosca, dicendomi di lasciarlo in pace. Non capivo. Sono andato a prendere alcune delle piante qui intorno per provare a fasciarli, ma... quando sono tornato avevano un'altra ferita. Una sul braccio. Ricordo ancora com'era, era grave, praticamente lacerata. Ho provato a usare le piante che avevo trovato per medicare la nuova ferita, ma continuavano a respingermi. I loro occhi erano... sembravano proprio... vuoti. Ho detto loro di smetterla, cazzo, e di lasciarmi aiutare, ma non hanno risposto. Ho provato ad aiutarli ancora un paio di volte e mi hanno respinto finché non si sono semplicemente... fermati. Ricordo di aver visto il loro corpo rilassarsi, penso che sia stato allora che hanno smesso di respirare. Non riesco a togliermi quell'immagine dalla testa...\n<>\nHo... ho fatto qualcosa di male? Giuro che non l'ho fatto... cosa ho fatto di male? Perché l'hanno fatto? Io... io non ho fatto niente. Non capisco, non voglio morire... non voglio... io...\n<>\n...\n<>\nhaha...\n<>\nÈ così vuoto qui.\n<>\n(Si notano deboli tracce di lacrime e sangue secco sparse sul biglietto.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(C'è una colorata grafica su carta, e non è fatta a mano.)\n<>\nZuppa! Prova la nostra ciotola speciale! - metti la carne e gli ingredienti a cucinare. Non temere. Sarai presto d'accordo che vale il suo peso in oro. Può essere conservato per 737 anni!",
@@ -4251,7 +4623,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Gli esseri umani fanno cose strane. Non dovresti mai fidarti anche se sono gentili..\nMa puoi fidarti di loro per restare in vita.<>\nUna volta mi sono rotto un braccio e mi hanno messo un “gesso”. Non mi piaceva. Era pesante e mi impediva di muovere il braccio. Sembrava che lo avessero fatto apposta per peggiorare le cose e mi hanno costretto a tenerlo per molto tempo. <>\nUn giorno l'hanno tolto e il mio braccio stava bene. <>\nGli esseri umani hanno peggiorato la situazione, affinché potesse migliorare. <>\n\nPenso che abbiano fatto qualcosa di simile alla testa di Jumper.\nJumper urlava e piangeva molto. Una volta si è fatto male e gli umani lo hanno portato via.<>\nJumper è tornato. Non piange piu'. Non parla. Sembra sempre assonnato. La sua testa era come il mio braccio. Non vedo alcun “gesso” intorno ad essa e il suo comportamento mi preoccupa, ma almeno non si fà più del male. Spero che gli umani sistemino qualsiasi cosa abbiano fatto una volta che la testa di Jumper sarà guarita.<>\n\nMi manca.",
+                "Item1": "Gli esseri umani fanno cose strane. Non dovresti mai fidarti anche se sono gentili..\nMa puoi fidarti di loro per restare in vita.<>\nUna volta mi sono rotto un braccio e mi hanno messo un \"gesso\". Non mi piaceva. Era pesante e mi impediva di muovere il braccio. Sembrava che lo avessero fatto apposta per peggiorare le cose e mi hanno costretto a tenerlo per molto tempo. <>\nUn giorno l'hanno tolto e il mio braccio stava bene. <>\nGli esseri umani hanno peggiorato la situazione, affinché potesse migliorare. <>\n\nPenso che abbiano fatto qualcosa di simile alla testa di Jumper.\nJumper urlava e piangeva molto. Una volta si è fatto male e gli umani lo hanno portato via.<>\nJumper è tornato. Non piange piu'. Non parla. Sembra sempre assonnato. La sua testa era come il mio braccio. Non vedo alcun \"gesso\" intorno ad essa e il suo comportamento mi preoccupa, ma almeno non si fà più del male. Spero che gli umani sistemino qualsiasi cosa abbiano fatto una volta che la testa di Jumper sarà guarita.<>\n\nMi manca.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4447,6 +4819,11 @@
                 "Item2": "",
 				"Item3": "milky"
             },
+			{
+                "Item1": "ho trovate delle cose rimbalzanti qui sotto. mi hanno fatto volare... ma sono riuscito a tenere i piedi rivolti verso il terreno. è divertente. potrebbe anche tornare utile. forse un pò pericoloso, ma cosa qua sotto non lo è?.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
 			 {
                 "Item1": "Non so cosa mi ha colpito ma non sento più le gambe, vedo solo un ammasso di sangue e ossa.\nil mio corpo mi sta pregando di farla finita \nl'unica cosa che ho è questo dispositivo blu sul petto. Il mercante che me lo ha venduto ha detto di usarlo solo un casi di estrema necessità.\nIl dolore è ancora sopportabile, ma la luce sta lampeggiando. non so quanto tempo mi rimane. morirò quando si spegnerà? Non voglio scomparire...",
                 "Item2": "",
@@ -4455,9 +4832,99 @@
         ],
         [
             {
-                "Item1": "",
+                "Item1": "Sembra che ognuna di queste escrescenze abbia un qualche effetto... non so esattamente quale. È imprevedibile. Ma ci sono degli schemi ricorrenti. Alcune sono innocue, altre no, altre ancora sono utili. Cercherò di prendere appunti man mano che capisco come funzionano...",
                 "Item2": "",
-				"Item3": ""
+				"Item3": "experiment"
+            },
+			            {
+                "Item1": "..ugh. ok.qui cosi gialli FANNO MALE. sembrano simili alle bobine che ho trovato qualche ora fa... Di solito sono circondati da una specie di strano campo elettrico... non toccarli. nulla di buono. Almeno al tuo corpo. Ho notato che, in qualche modo, dopo averlo toccato mi ha ricaricato tutte le batterie per lo meno...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "il contatore gaiger è impazzito vicino a quelle fessure verdi. qualche tipo di \"radiazione\", o come si chiamava. Sono abbastanza sicuro che faccia male. Se puoi, evita di stare vicino a quelle cose.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Ho notato che alcuni di questi sono stranamente fragili. Si rompono al minimo tocco. vedete anche voi quanto sembrano davvero fragili, e sono pieni di crepe. Stranamente, sembra che questo accada anche con altri tipi che ho visto... mi chiedo se sia così per tutti.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Ho notato che molte di queste formazioni tendono a respingermi o ad attrarmi. Quando succede, si avverte una sorta di forza che ti attraversa. potrebbe rivelarsi utile",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Cavolo. Sono davvero felice di aver aver tenuto con me un pacco di ghiaccio. Sembra che quelle cose nebbiose e scintillanti riscaldino rapidamente tutto ciò che li circonda... me compreso. Non mi stupirei se alcuni facessero il contrario. Ho sentito anche uno strano rumore provenire da loro...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Assicurati di avere degli antibiotici e roba del genere. Credo che quelli viola interferiscano con il sistema immunitario. Hanno una sorta di vaga foschia viola intorno... Mi sono seduto accanto a uno di essi per un po' per riposarmi e ho notato che i miei parametri vitali sul chip stavano calando. Sembra una sorta di reazione settica. Penso che starò bene comunque...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Ok. Quelle che traballano sembrano davvero spaventose... maaaa non lo sono. Ti fanno volare via... ma riesco a tenere i piedi ben saldi per tutto il tempo. Sono un po' simili a quelle cose che rimbalzano nella zona in cui mi trovavo prima.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "...\n<>...\n<>...\n<>le cose volanti. non so come hanno fatto. cristo... dio. sto bene ora, ma...<>\n\ncom'è che si dice... fanno dei suoni davvero strani... come se si stessero prendendo gioco di me. si caricano tipo e a volte si lanciano contro di me, provando ad infilzarmi. mi hanno beccato un paio di volte, ma... quando ci provavano, rimanevano incastrati al pavimento e io... uh... non ricordo bene... cosa è successo, ma era sparito. credo venisse dalle giungla, ma si muoveva.<>\n\ndopo che è sparito ho trovato qualcosa... forse utile? sembra si stia trasformando in qualcosa. aspetto e vediamo.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ok. buone e cattive notizie. la cosa che ho tenuto dopo aver ucciso quelle cose volanti... è... cresciuta in. altre di quelle robe volanti. due... da uno... però fanno più fatica a muoversi in gruppo... come se mi stessero dando una... possibilità di combattere? strano.<>\n\nho mangiato i nuclei di quelle cose, visto che non sapevo che farcene... era. abbastanza buono, in realtà. e questa volta non sembra si stiano trasformando in altro. magari potrei rifarlo ogni tanto per del cibo? non c'è molto da mangiare qua sotto in ogni caso",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "no clue where i am. i think i touched a weird growth and got... sent. somewhere. safely, though. still, no clue where. all i remember is it looking a bit more see-through than usual. almost as if i could see the place i ended up in...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Ho notato che molte di queste piante perdono liquido. Non sembra però che servano a molto altro. Una fonte d'acqua, forse?",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ho toccato uno grigio: ha emesso un lampo bianco e ha fatto uno strano rumore. Dopo non ho sentito granché... finché non ho provato a usare il mio trapano laser. Il dispositivo era scarico, anche se un attimo prima ero sicuro che non lo fosse. Ho controllato il resto delle batterie che avevo messo da parte: stessa storia. Strano. Da evitare. Forse varrebbe la pena lanciarmi contro uno di quelli che fanno le scariche per ricaricarle hahahah...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "gli occhi fanno male. accanto luce super super forte. Non sembra che faccia altro che... beh... accecarmi. Non mi piace, ma lo preferisco a qualsiasi altra cosa possano fare.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Quelli rossastri esplodono. Scappa quando il conto alla rovescia arriva a zero. Sto bene... Dio, per un pelo non ce l'avrei fatta.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Ne ho trovata una strana e sfocata. L'ho toccata e per un attimo non ci vedevo più nulla... ma quando ho riaperto gli occhi, ho visto una corda e una borsa davanti a me. era sparita. Non posso lamentarmi. Sembra che non abbia causato altri danni.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Puoi toccare quelli verdi. Sono fantastici. Mi sono divertito molto. Hehe. Ehm... quelli verdi che non fanno scattare il contatore Geiger. Quelli giusti sembrano rimbalzare un po'. Oh... ehm... eh... mi è piaciuto tantissimo quello verde. Mi piace quello verde. Puoi toccarlo. Mi piace quello verde.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ho trovato uno di quelli roventi. per curiosità l'ho toccato. non fatelo. caldo.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Eh? Stavo camminando su una di quelle erbacce e sembrava normale, ma all'improvviso ha fatto un rumore ed è cambiata. È come se avesse cambiato posto? Strano.",
+                "Item2": "",
+                "Item3": "experiment"
             }
         ]
     ],
@@ -4538,5 +5005,111 @@
             "Item1": "Il PDA è gravemente danneggiato. Sullo schermo compaiono innumerevoli avvisi, ma alcuni dati sono leggibili...\n<>\n[Riunione de consiglio d'aministrazione 542-23-145C Trascrizione]\n---------------------------------------------------------------\nLUOGO: Sede della compagnia a <corrupt:0xFFFF43>\nData: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -sicuramente vi renderete conto di cosa abbiamo tra le mani qui. I Sawians- loro… loro sono il nostro biglietto d'oro! I dati di cui disponiamo attualmente sarebbero sufficienti per assegnare un Premio Nobel a ogni singola persona presente in questa sala! \n\n<corrupt:0xFFFFF7>: Si. Quindi si tratterebbe di nove premi. Anche se ci mettessimo d'accordo e donassimo tutto a [<corrupt:0xFFFBc3>], avremo più o meno quindici milioni di dollari. Una goccia rispetto al buco nero finanziario che è il tuo progetto idiota!<>\n\n[<corrupt:0xFFFFD9> i alza dalla sedia.]\n\n<corrupt:0xFFFFD9>: IDIOTA?! IDIOTA?! STIAMO CREANDO LA VITA! Sei testimone della nascita di una nuova forma di vita intelligente! I nostri colleghi avrebbero *ucciso* dieci anni fa per avere le nostre stesse risorse!\n\n<corrupt:0xFFFFF7>: Uccidere? Ovviamente. Ma pagare il conto? Diavolo. No.<>\n\n<corrupt:0xFFFFD9>: E' sempre una questione di soldi per te? E va bene! Faremo dei soldi! Anche la nostra linea di peluche è più che sufficiente per coprire-\n\n<corrupt:0xFFFFF7>: Qualcosa che paghi di più del denaro, cretino! Nel momento in cui tutta questa faccenda finirà sulla scrivania di qualche cazzo di giornalista ficcanaso, la pagheremo tutti con la nostra stessa *vita.* Diamine, le nostre famiglie verranno linciate. Inoltre, i peluche non ci obbligano a mantenere in vita la tua colonia di... ratti topo parlanti o come li chiami.\n\n<corrupt:0xFFFFD9>: I Sawians non sono ratti parlanti! Sono un mix di-<>\n\n<corrupt:0xFFFFF7>: OH, COMEEE SCUSA! Volevo dire biglietti viventi per la dematerializzazione! I NOSTRI BIGLIETTI! Io non ci vado davanti alla corte marziale, solo perché tu sei un cazzo di sporco e avido f-\n\n<corrupt:0xFA05F2>: Signori. Vi prego.\n\n<corrupt:0xFFFFF7>: I-uh- voglio scusarmi <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Dottore <corrupt:0xFFFFD9>. Per favore arrivi al punto. Perché vale la pena lasciar in vita quelle creature?<>\n\n[Silenzio. <corrupt:0xFFFFD9> si siedono.]\n\n<corrupt:0xFFFFD9>:  Voglio dire... Ci sono così tanti motivi per scegliere, che non-\n\n<corrupt:0xFA05F2>: Allora sono sicuro che ne avrai scelta una importante.\n\n<corrupt:0xFFFFD9>:  Uh. Si. Giusto. Ok- Il cresci-cervello! Possiamo rigenerare il cervello!\n\n<corrupt:0xFFFFF7>: Sì, il medicinale disponibile in al negozio all'angolo. <>\n\n<corrupt:0xFFFFD9>: No, non basta. Potrei spaccare la testa a qualcuno. Far conoscere il lobo frontale a un martello per dio. E il tuo farmaco da banco cresci-cervello non serve proprio a nulla. Ma i nostri sono in grado di ripristinare le funzioni cerebrali in meno di UNA SETTIMANA. Senza una così ampia disponibilità di soggetti più o meno umani su cui fare i test, ci sarebbero impiegati decenni per perfezionare le direttive delle nanomacchine. Il doppio del tempo solo per fare i test.\n\n<corrupt:0xFA05F2>: Ho capito. <corrupt:0xFFFFF7>. Tu che ne pensi?<>\n\n<corrupt:0xFFFFF7>: Si. Lui HA dei risultati. Ma appena la popolazione scoprirà COME li abbiamo ottenuti, saremo fottuti. Cosa dirai huh, [#######]? Che le creature che vendiamo ai bambini esistono e che ti diverti a spaccargli la testa nel tuo tempo libero? Non ci sarà nessunaltro da incolpare. Saremo noi a rispondere per questo; l'intera compagnia. Hanno persino ammazzato uno dei nostri bidelli per dio!\n\n[Il <corrupt:0xFA05F2> annuisce, guardandoli un attimo iin silezio.]<>\n\n<corrupt:0xFA05F2>: Ora capisco perché ti scontri con tanta violenza. Non è nella nostra natura tirarci indietro quando la verità è dalla nostra parte. E la verità è che... avete ragione entrambi.\n\n[Silenzio.]<>\n\n<corrupt:0xFA05F2>: I Sawians rappresentano un rischio che non possiamo permetterci. Ma non sono neanche un opportunità che possiamo permetterci di distruggere. Sono in mano nostra. E ci assicureremo che le cose rimangano esattamente così.\n\n<corrupt:0xFFFFD9>: But… how, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> smiles, and- \n\n<corrupt:0xA1CF43><>\n\n[Meeting Riassunto]\n-Struttura chiusa fino a nuovo avviso. \n-Sawians confinati nelle loro celle fino a nuovo ordine.\n-Ai dipendenti è vietato lasciare l'area fino a nuovo avviso.\n-Contratti dei dipendenti prorogati a tempo indeterminato.\n-Obbligo di porto d'armi per il personale di sicurezza\n-Procedure di bonifica termica approvate e preautorizzate.",
             "Item2": ""
         }
+   ],
+    "pauseQuotes": [
+        "In pausa.",
+        "Aspetterò.",
+        "Davvero?",
+        "Il tempo si è come fermato.",
+        "Fai una pausa? Di già?",
+        "Già stanco?",
+        "Deludente.",
+        "Ti sto aspettando",
+        "Hey!",
+        "\"Mentre sei via, portami una soda.\"",
+        "Codardo.",
+        "E quindi, il tempo si è fermato...",
+        "L'orologio ha smesso di girare",
+        "Fai un bel respiro. Dentro e fuori.",
+        "OH andiamo, non eri messo COSI' male...",
+        "Ci facciamo una pausa.",
+        "Stressato?",
+        "Wow, sei ancora vivo?",
+        "Hey, torna al lavoro!",
+        "Take a breather.",
+        "Pranzo?",
+        "Vai a prenderti uno snack.",
+        "Oh, andiamoo!",
+        "Stavo male a guardarti.",
+        "Poteva andare meglio.",
+        "Buona sopravvivenza!",
+        "Pigro.",
+        "Quiiindi... come va oggi?",
+        "Ciao!",
+        "Ci hai messo un pò.",
+        "Che gran dimostrazione di competenza...",
+        "Troppa fifa?",
+        "Ti arrendi?",
+        "C'è sempre un prezzo per il silenzio.",
+        "Almeno mi potevi avvisare.",
+        "Ci reincontriamo di nuovo.",
+        "Hai bisogno di una mano? Peccato.",
+        "La presunzione è un killer lento e insidioso",
+        "Che tragedia...",
+        "Lo sai vero che non abbiamo tutto il tempo del mondo vero?.",
+        "Davvero, che senso ha?",
+        "Sai che questo non ti salverà.",
+        "Ti osservo.",
+        "Non è ancora finita. Non arrenderti.",
+        "Speravo saresti durato un pò di più.",
+        "Si è fermato di nuovo...",
+        "Questo non cambierà il tuo destino.",
+        "Abbiamo finito quando io dico che abbiamo finito.",
+        "Non mi piace essere interrotto.",
+        "E ora? Qual'è il piano?",
+        "Non sei così divertente.",
+        "Stai pensando a qualcosa?",
+        "In pausa.. Perché?",
+        "Usa questo tempo in modo saggio.",
+        "Io posso aspettare tutto il giorno.",
+        "Sono sempre qui.",
+        "Il mondo si è fermato. Senti che silenzio.",
+        "Non sei in pausa! Scherzone.",
+        "Uffa. Ma mi accontenterò. Pausa.",
+        "Non è carino far aspettare qualcuno.",
+        "Fai un pò di streching.",
+        "Non è una gara, ma fai in fretta.",
+        "Fai veramente pena. Sono fiero di te.",
+        "Avresti dovuto vedere la tua faccia!",
+        "Voglio dire, c'è un gran margine di miglioramento. Tanto per dire.",
+        "Continua. Cos'altro puoi fare?",
+        "A questo punto arrenderti. Il pulsante è qua sotto.",
+        "Datti una sistemata e torna.",
+        "Non mi piace questa tua abitudine.",
+        "Mi farai venire il mal di testa. O almeno, se sentissi dolore.",
+        "Lo fai di proposito? Riprendi.",
+        "Vuoi la via d'uscita semplice?",
+        "Ho tutto il tempo che mi serve. Lo stesso non si può dire di te.",
+        "Una grande illusione. Un grande spreco e fallimento. Ma non per me.",
+        "Interessante. Continua.",
+        "Una curiosa manifestazione di emozioni.",
+        "Sono tutto quello che possiedo. E tu?",
+        "La tua illusione di avere un minimo di controllo è divertente. Continua pure.",
+        "Sei pronto a prendere la cosa seriamente?",
+        "Intrappolato nell'eternità.",
+        "Non sanno che lo stai facendo.",
+        "Puoi ancora rimediare. Ho visto di peggio.",
+        "Pronto? Questo coso funziona?",
+        "Spero che tu rifletta su ciò che hai appena fatto.",
+        "Pensi che quella cosa in fondo valga tutta la fatica fatta per arrivare qui? Posso farne altre.",
+        "Ti interrompi continuamente per sentire ciò che ho da dire?",
+        "Vergogna, proprio quando mi stavo interessando alla tua storia.",
+        "Ti senti in controllo?",
+        "Siete tutti incredibilmente deludenti. Ma anche interessanti. E tu sei diverso?",
+        "So già come finisce. Ma continua pure.",
+        "Le stelle ti osservano.",
+        "\"Gli umani\" non sono gli unici a guardarti.",
+        "Non impari mai. Non capisci mai. Sempre incoerente. Se solo potessi vedere.",
+        "Sono dietro di te.",
+        "Questo posto è molto più affascinante di quanto tu possa immaginare.",
+        "Che fiducia nella tua intelligenza. Carino.",
+        "I tuoi supervisori non ti hanno raccontano tutto.",
+        "Sei un morto che cammina. Statisticamente parlando.",
+        "Suppongo i miracoli esistano.",
+        "Rimandare l'inevitabile?",
+        "Temo sia terminale.",
+        "Sei troppo tenace con te stesso.",
+        "Hey, stavamo arrivando alla parte bella!",
+        "Non ti ci abituare."
     ]
 }
