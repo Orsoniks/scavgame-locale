@@ -1,109 +1,92 @@
 name: Validate Locale Files
 
 on:
-  workflow_dispatch:
-  pull_request:
-    paths:
-      - '**.json'
-      - '!EN.json'
+workflow_dispatch:
+pull_request:
+paths:
+- "*.json"
 
 jobs:
-  validate:
-    name: JSON Validation
-    runs-on: ubuntu-latest
+validate:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+```
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.12"
 
-      - name: Validate changed locale files
-        run: |
-          python3 - <<'EOF'
-          import json
-          import sys
-          import subprocess
-          import os
+  - name: Validate locale files
+    run: |
+      python3 - <<'EOF'
+      import json
+      import re
+      import sys
+      from pathlib import Path
 
-          # Get list of changed JSON files (excluding EN.json)
-          result = subprocess.run(
-              ['git', 'diff', '--name-only', 'origin/main...HEAD'],
-              capture_output=True, text=True
-          )
-          changed = [
-              f for f in result.stdout.strip().splitlines()
-              if f.endswith('.json') and f != 'EN.json' and os.path.exists(f)
-          ]
+      REFERENCE_FILE = "EN.json"
+      PLACEHOLDER_RE = re.compile(r"\{[^}]+\}")
 
-          if not changed:
-              print("No locale files changed.")
-              sys.exit(0)
+      def placeholders(text):
+          if not isinstance(text, str):
+              return set()
+          return set(PLACEHOLDER_RE.findall(text))
 
-          # Load reference
-          with open('EN.json', 'r', encoding='utf-8') as f:
+      try:
+          with open(REFERENCE_FILE, "r", encoding="utf-8") as f:
               en = json.load(f)
+      except Exception as e:
+          print(f"::error::{REFERENCE_FILE}: {e}")
+          sys.exit(1)
 
-          def flatten(obj, prefix=''):
-              out = {}
-              if isinstance(obj, dict):
-                  for k, v in obj.items():
-                      out.update(flatten(v, f'{prefix}.{k}' if prefix else k))
-              elif isinstance(obj, list):
-                  for i, item in enumerate(obj):
-                      out.update(flatten(item, f'{prefix}[{i}]'))
-              else:
-                  out[prefix] = obj
-              return out
+      en_keys = set(en.keys())
 
-          en_flat = flatten(en)
-          en_keys = set(k for k, v in en_flat.items() if isinstance(v, str))
+      errors = 0
 
-          errors = []
+      for file in sorted(Path(".").glob("*.json")):
+          if file.name == REFERENCE_FILE:
+              continue
 
-          for filepath in changed:
-              print(f'\n=== Checking {filepath} ===')
+          try:
+              with open(file, "r", encoding="utf-8") as f:
+                  locale = json.load(f)
+          except json.JSONDecodeError as e:
+              print(
+                  f"::error file={file.name}::JSON syntax error: {e}"
+              )
+              errors += 1
+              continue
 
-              # 1. Valid JSON?
-              try:
-                  with open(filepath, 'r', encoding='utf-8') as f:
-                      locale = json.load(f)
-                  print('  ✓ Valid JSON syntax')
-              except json.JSONDecodeError as e:
-                  errors.append(f'{filepath}: JSON syntax error — {e}')
-                  print(f'  ✗ Invalid JSON: {e}')
-                  continue
+          locale_keys = set(locale.keys())
 
-              locale_flat = flatten(locale)
-              locale_keys = set(k for k, v in locale_flat.items() if isinstance(v, str))
+          missing = en_keys - locale_keys
+          extra = locale_keys - en_keys
 
-              # 2. Missing keys?
-              missing = en_keys - locale_keys
-              if missing:
-                  for k in sorted(missing)[:20]:
-                      errors.append(f'{filepath}: missing key — {k}')
-                  if len(missing) > 20:
-                      errors.append(f'{filepath}: ... and {len(missing) - 20} more missing keys')
-                  print(f'  ✗ Missing {len(missing)} key(s)')
-              else:
-                  print('  ✓ No missing keys')
+          for key in sorted(missing):
+              print(
+                  f"::error file={file.name}::Missing key: {key}"
+              )
+              errors += 1
 
-              # 3. Extra keys (not in EN)?
-              extra = locale_keys - en_keys
-              # Ignore metadata keys
-              extra = {k for k in extra if not k.startswith('name') and not k.startswith('description') and not k.startswith('gameVer')}
-              if extra:
-                  for k in sorted(extra)[:10]:
-                      print(f'  ⚠ Extra key (not in EN.json): {k}')
+          for key in sorted(extra):
+              print(
+                  f"::warning file={file.name}::Extra key: {key}"
+              )
 
-          if errors:
-              print(f'\n❌ Validation failed with {len(errors)} error(s):')
-              for e in errors:
-                  print(f'  - {e}')
-              sys.exit(1)
-          else:
-              print('\n✅ All locale files passed validation.')
-          EOF
+          for key in sorted(en_keys & locale_keys):
+              if placeholders(en[key]) != placeholders(locale[key]):
+                  print(
+                      f"::error file={file.name}::Placeholder mismatch in '{key}'"
+                  )
+                  errors += 1
+
+      if errors:
+          print(f"Validation failed with {errors} error(s).")
+          sys.exit(1)
+
+      print("All locale files passed validation.")
+      EOF
