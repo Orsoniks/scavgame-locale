@@ -1937,7 +1937,7 @@
         "endscreenclipboard": "COPIAR AL PORTAPAPELES",
         "moodrange-10": "Suicida",
         "moodrange-9": "Desesperanzado",
-        "moodrange-8": "Absolutamente miserable",
+        "moodrange-8": "Muy miserable",
         "moodrange-7": "Horrorizado",
         "moodrange-6": "Aterrado",
         "moodrange-5": "Deprimido",
@@ -1957,7 +1957,7 @@
         "moodrange9": "Gozoso",
         "moodrange10": "Extático",
         "moodrangewiped": "En blanco",
-        "moodrangeyethopeful": ", y aferrándose a la esperanza",
+        "moodrangeyethopeful": ", y esperanzado",
         "wiki": "Wiki",
         "discord": "Servidor de Discord",
         "translations": "Repositorio de traducciones",
@@ -4562,7 +4562,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(La nota está arrugada y aplastada, como si alguien hubiera querido tirarla.)\n<>\nmi amigo, cre... creo que se suicidó. después de tener otra caída grave, intenté arreglarle sus piernas, pero seguía diciéndome que lo dejara en paz. me seguía apartando como si fuera una mosca, insistiendo en que lo dejara solo. no lo entiendo. salí a recoger algunas plantas que encontré para intentar vendarlo, pero... cuando regresé, tenía otra herida. en su brazo. aún recuerdo cómo se veía, estaba tan mal que parecía arrancada. intenté usar las plantas que encontré para curar esa herida, pero seguía en las mismas. sus ojos estaban... parecían verse... vacíos. le dije que dejara esa mierda y que lo dejara ayudar, pero no respondía. lo intenté un par de veces más y me empujaba hasta que... dejó de hacerlo. recuerdo ver su cuerpo relajarse, creo que eso pasó cuando dejó de respirar. no puedo sacarme esa imagen de mi cabeza...\n<>\n¿hi... hice algo malo? Juro que no... ¿qué hice mal? ¿por qué hacía eso? no... no hice nada. no entiendo, no quiero morir... no quiero... no...\n<>\n...\n<>\nja, ja...\n<>\nestoy tan solo.\n<>\n(Notas algunas lágrimas secas y manchas de sangre seca esparcida entre las arrugas de la nota.)",
+                "Item1": "(La nota está arrugada y aplastada, como si alguien hubiera querido tirarla.)\n<>\nmi amigo, cre... creo que se suicidó. después de tener otra caída grave, intenté arreglarle sus piernas, pero seguía diciéndome que lo dejara en paz. me seguía apartando como si fuera una mosca, insistiendo en que lo dejara solo. no lo entiendo. salí a recoger algunas plantas que encontré para intentar vendarlo, pero... cuando regresé, tenía otra herida. en su brazo. aún recuerdo cómo se veía, estaba tan mal que parecía arrancada. intenté usar las plantas que encontré para curar esa herida, pero seguía en las mismas. sus ojos estaban... parecían verse... vacíos. le dije que se detuviera con eso y que lo dejara ayudar, pero no respondía. lo intenté un par de veces más y me empujaba hasta que... dejó de hacerlo. recuerdo ver su cuerpo relajarse, creo que eso pasó cuando dejó de respirar. no puedo sacarme esa imagen de mi cabeza...\n<>\n¿hi... hice algo malo? Juro que no... ¿qué hice mal? ¿por qué hacía eso? no... no hice nada. no entiendo, no quiero morir... no quiero... no...\n<>\n...\n<>\nja, ja...\n<>\nestoy tan solo.\n<>\n(Notas algunas lágrimas secas y manchas de sangre seca esparcida entre las arrugas de la nota.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
