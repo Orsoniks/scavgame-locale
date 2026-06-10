@@ -1,91 +1,89 @@
 name: Validate Locale Files
 
 on:
-workflow_dispatch:
-pull_request:
-paths:
-- "*.json"
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "*.json"
 
 jobs:
-validate:
-runs-on: ubuntu-latest
+  validate:
+    runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Set up Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.12"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-  - name: Validate locale files
-    run: |
-      python3 - <<'EOF'
-      import json
-      import re
-      import sys
-      from pathlib import Path
+      - name: Validate locale files
+        run: |
+          python3 - <<'EOF'
+          import json
+          import re
+          import sys
+          from pathlib import Path
 
-      REFERENCE_FILE = "EN.json"
-      PLACEHOLDER_RE = re.compile(r"\{[^}]+\}")
+          REFERENCE_FILE = "EN.json"
+          PLACEHOLDER_RE = re.compile(r"\{[^}]+\}")
 
-      def placeholders(text):
-          if not isinstance(text, str):
-              return set()
-          return set(PLACEHOLDER_RE.findall(text))
-
-      try:
-          with open(REFERENCE_FILE, "r", encoding="utf-8") as f:
-              en = json.load(f)
-      except Exception as e:
-          print(f"::error::{REFERENCE_FILE}: {e}")
-          sys.exit(1)
-
-      en_keys = set(en.keys())
-
-      errors = 0
-
-      for file in sorted(Path(".").glob("*.json")):
-          if file.name == REFERENCE_FILE:
-              continue
+          def placeholders(text):
+              if not isinstance(text, str):
+                  return set()
+              return set(PLACEHOLDER_RE.findall(text))
 
           try:
-              with open(file, "r", encoding="utf-8") as f:
-                  locale = json.load(f)
-          except json.JSONDecodeError as e:
-              print(
-                  f"::error file={file.name}::JSON syntax error: {e}"
-              )
-              errors += 1
-              continue
+              with open(REFERENCE_FILE, "r", encoding="utf-8") as f:
+                  en = json.load(f)
+          except Exception as e:
+              print(f"::error::{REFERENCE_FILE}: {e}")
+              sys.exit(1)
 
-          locale_keys = set(locale.keys())
+          en_keys = set(en.keys())
+          errors = 0
 
-          missing = en_keys - locale_keys
-          extra = locale_keys - en_keys
+          for file in sorted(Path(".").glob("*.json")):
+              if file.name == REFERENCE_FILE:
+                  continue
 
-          for key in sorted(missing):
-              print(
-                  f"::error file={file.name}::Missing key: {key}"
-              )
-              errors += 1
-
-          for key in sorted(extra):
-              print(
-                  f"::warning file={file.name}::Extra key: {key}"
-              )
-
-          for key in sorted(en_keys & locale_keys):
-              if placeholders(en[key]) != placeholders(locale[key]):
+              try:
+                  with open(file, "r", encoding="utf-8") as f:
+                      locale = json.load(f)
+              except json.JSONDecodeError as e:
                   print(
-                      f"::error file={file.name}::Placeholder mismatch in '{key}'"
+                      f"::error file={file.name}::JSON syntax error: {e}"
+                  )
+                  errors += 1
+                  continue
+
+              locale_keys = set(locale.keys())
+              missing = en_keys - locale_keys
+              extra = locale_keys - en_keys
+
+              for key in sorted(missing):
+                  print(
+                      f"::error file={file.name}::Missing key: {key}"
                   )
                   errors += 1
 
-      if errors:
-          print(f"Validation failed with {errors} error(s).")
-          sys.exit(1)
+              for key in sorted(extra):
+                  print(
+                      f"::warning file={file.name}::Extra key: {key}"
+                  )
 
-      print("All locale files passed validation.")
-      EOF
+              for key in sorted(en_keys & locale_keys):
+                  if placeholders(en[key]) != placeholders(locale[key]):
+                      print(
+                          f"::error file={file.name}::Placeholder mismatch in '{key}'"
+                      )
+                      errors += 1
+
+          if errors:
+              print(f"Validation failed with {errors} error(s).")
+              sys.exit(1)
+
+          print("All locale files passed validation.")
+          EOF
