@@ -1,0 +1,89 @@
+name: Translation Bug / Error
+description: Report an incorrect, missing, or low-quality translation in a locale file.
+title: "[Translation] "
+labels: ["translation"]
+body:
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      options:
+        - Incorrect translation
+        - Typo / grammar mistake
+        - Missing translation
+        - Placeholder issue
+        - Inconsistent terminology
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: locale
+    attributes:
+      label: Affected Locale
+      description: Which locale file has the issue?
+      options:
+        - ar-001 (Arabic)
+        - be-BY (Belarusian)
+        - de-DE (German)
+        - es-419 (Spanish - Latin America)
+        - es-ES (Spanish - Spain)
+        - fi-FI (Finnish)
+        - fr-FR (French)
+        - id-ID (Indonesian)
+        - it-IT (Italian)
+        - ja-JP (Japanese)
+        - kk-KZ (Kazakh)
+        - ko-KR (Korean)
+        - pl-PL (Polish)
+        - pt-BR (Portuguese - Brazil)
+        - ro-RO (Romanian)
+        - ru-RU (Russian)
+        - th-TH (Thai)
+        - uk-UA (Ukrainian)
+        - zh-CN (Chinese Simplified)
+        - zh-TW (Chinese Traditional)
+    validations:
+      required: true
+
+  - type: input
+    id: key
+    attributes:
+      label: JSON Key
+      description: The translation key that contains the issue.
+      placeholder: e.g. bandagedsc
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current (incorrect) translation
+      description: Paste the current value from the locale file.
+    validations:
+      required: true
+
+  - type: textarea
+    id: english
+    attributes:
+      label: English reference
+      description: Paste the corresponding value from EN.json for context.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested fix
+      description: What should the correct translation be? If you're unsure, describe the problem.
+    validations:
+      required: true
+
+  - type: input
+    id: game_version
+    attributes:
+      label: Game version
+      description: Which version of the game are you playing?
+      placeholder: e.g. v7.0.1
+    validations:
+      required: true

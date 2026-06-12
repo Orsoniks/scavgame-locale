@@ -1,5 +1,3 @@
-(delete unrelevant sections)
-
 ## Type of Contribution
 
 - [ ] New locale
@@ -9,7 +7,11 @@
 
 ## Target Locale
 
-Language: (e.g. `pt-BR`):
+Language (e.g. `pt-BR`):
+
+## Game Version
+
+This translation targets game version (e.g. `v7.0.1`):
 
 ## Description
 
@@ -23,10 +25,12 @@ Please describe what this pull request includes:
 
 ### General Requirements
 
-- [ ] I’ve read and followed the contribution guide's recommendations.
+- [ ] I've read and followed the contribution guide's recommendations.
 - [ ] No keys are missing or extra compared to `en.json`.
 - [ ] Untranslated lines remain in **English**.
-- [ ] I updated the `README.md`
+- [ ] Keys are sorted in the same order as `en.json`.
+- [ ] All placeholders (`<>`, `<1>`, `<color="grey">`, `<limb>`, etc.) are preserved exactly.
+- [ ] I updated my locale's entry in `README.md` (state and contributors).
 
 ### Review & Quality
 

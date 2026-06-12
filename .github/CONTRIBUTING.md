@@ -10,13 +10,13 @@ Different threads are available for different languages. Here are some guideline
 
 ## Repository Structure
 
-You will find the localization files in the root directory. The reference locale is `en.json` (English). Each language has its own json file named according to its locale code, where the first two letters represent the language, and the capitalized ones the country (e.g., `pt-BR.json` for Brazilian Portuguese `es-ES.json` for Spain Spanish).
+You will find the localization files in the root directory. The reference locale is `en.json` (English). Each language has its own json file named according to its locale code, where the first two letters represent the language, and the capitalized ones the country (e.g., `pt-BR.json` for Brazilian Portuguese, `es-ES.json` for Spain Spanish).
 
 ## Guidelines for Editing Localization Files
 
 1. Do **not** edit:
 
-   -  The `en.json` (English) locale file, as it serves as the reference for all other locales. Should you correct a typo present in the reference, it should berforehand be discussed with @Orsoniks.
+   -  The `en.json` (English) locale file, as it serves as the reference for all other locales. Should you correct a typo present in the reference, it should beforehand be discussed with @Orsoniks.
 
 2. While translating in json files:
 
@@ -72,7 +72,7 @@ Make sure your pull request follows these rules to increase speed and chances of
 
 2. When updating an existing locale, **use the current translation as a base**.
    - Add any new keys introduced in `en.json`.
-   - Only rewrite everything if the translation is severely outdated (>1 year) or clearly low quality.
+   - Only rewrite everything if the translation is severely outdated (more than 1 year old) or clearly low quality.
 
 3. Translations must be reviewed and approved by **at least one native speaker** of the target language. Two heads are better than one!
 

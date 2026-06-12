@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Ensure JSON locale files always use LF line endings
+# to prevent false diffs between Windows and Linux contributors
+*.json text eol=lf
+
+# Markdown files use LF as well
+*.md text eol=lf
