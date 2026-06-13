@@ -24,10 +24,10 @@
         "paincreamdsc": "Một chai nhỏ 100ml dùng để chứa kem giảm đau. Liều dùng là 10ml.",
         "morphine": "Ống tiêm Morphine",
         "morphinedsc": "Một ống tiêm 100ml có thể tiêm chất lỏng vào tĩnh mạch. Nhãn quá liều ghi 88ml.",
-        "makeshiftlrd": "L.R.D. tự chế",
-        "makeshiftlrddsc": "Thiết bị hồi sức cục bộ tự chế. Trông như được dán băng dính lại với nhau. Tăng sức khỏe cơ bắp và khử trùng chi được sử dụng, VÀ bất kỳ chi nào liền kề. Giảm chảy máu trong nhẹ nếu dùng trên ngực. Cần ít nhất 25mL huyết thanh LRD để hoạt động.",
-        "lrd": "L.R.D.",
-        "lrddsc": "Thiết bị hồi sức cục bộ, được tạo ra để dễ dàng cung cấp chăm sóc chấn thương tổng quát hiệu quả. Cần ít nhất 25mL huyết thanh LRD để hoạt động.",
+        "makeshiftlrd": "Thiết bị hồi sức cục bộ (L.R.D.) tự chế",
+        "makeshiftlrddsc": "Thiết bị hồi sức cục bộ (L.R.D.) tự chế. Trông như được dán băng dính lại với nhau. Tăng sức khỏe cơ bắp và khử trùng chi được sử dụng, VÀ bất kỳ chi nào liền kề. Giảm chảy máu trong nhẹ nếu dùng trên ngực. Cần ít nhất 25mL huyết thanh LRD để hoạt động.",
+        "lrd": "Thiết bị hồi sức cục bộ (L.R.D.)",
+        "lrddsc": "Thiết bị hồi sức cục bộ (Localized Resuscitation Device), được tạo ra để dễ dàng cung cấp chăm sóc chấn thương tổng quát hiệu quả. Cần ít nhất 25mL huyết thanh LRD để hoạt động.",
         "opium": "Ống tiêm thuốc phiện",
         "opiumdsc": "Một ống tiêm 100ml có thể tiêm chất lỏng vào tĩnh mạch. Nhãn quá liều ghi 200ml.",
         "heroin": "Ống tiêm Heroin",
@@ -46,7 +46,7 @@
         "fentanyldsc": "Ống tiêm 100ml chứa fentanyl pha loãng để giảm đau. Nhãn quá liều ghi 20ml.",
         "painkillers": "Chai thuốc giảm đau",
         "painkillersdsc": "Một chai thuốc viên 100ml. Liều dùng là 10ml.",
-        "braingrow": "Chai thuốc Braingrow",
+        "braingrow": "Chai thuốc tái tạo mô não",
         "braingrowdsc": "Một chai thuốc viên 100ml. Liều dùng là 20ml.",
         "autopump": "Máy bơm tự động",
         "autopumpdsc": "Khi đeo, bơm máu thay cho tim của bạn bằng cơ chế đơn giản và pin bên trong, giữ huyết áp ở mức có thể sống được.",
@@ -278,8 +278,8 @@
         "troweldsc": "Công cụ làm vườn thô sơ, làm bằng gỗ và kim loại.",
         "woodtrowel": "Bay gỗ",
         "woodtroweldsc": "Công cụ làm vườn thô sơ, làm bằng gỗ.",
-        "vật thí nghiệmflesh": "Thịt vàng",
-        "vật thí nghiệmfleshdsc": "Một miếng thịt xé ra từ một trong những đồng loại của bạn. No bụng, nhưng gây buồn nôn.",
+        "experimentflesh": "Thịt vàng",
+        "experimentfleshdsc": "Một miếng thịt xé ra từ một trong những đồng loại của bạn. No bụng, nhưng gây buồn nôn.",
         "rope": "Dây thừng",
         "ropedsc": "Một vài mảnh lá, buộc lại với nhau thành một sợi dây thừng. Dùng để chế tạo.",
         "animalflesh": "Thịt động vật",
@@ -601,7 +601,7 @@
         "snowstriderdsc": "Một sinh vật lớn, lông lá săn tìm thức ăn ở các vùng lạnh giá của hệ thống hang động này. Lớp da dày giữ ấm cho nó.",
         "spaceheater": "Máy sưởi không gian ion",
         "spaceheaterdsc": "Một thiết bị làm nóng mạnh khu vực xung quanh. Có thể gây bệnh bức xạ nhẹ nếu bạn ở quá gần trong thời gian quá lâu.",
-        "xaloris": "Xaloris",
+        "xaloris": "Cây Xaloris",
         "xalorisdsc": "Một loài dương xỉ xốp và đầy gai sưởi ấm không khí xung quanh để phát tán bào tử. Xua tan cái lạnh, nhưng hít phải bào tử quá lâu có thể làm rối loạn hệ miễn dịch của bạn.",
         "lifepodheater": "Máy sưởi khoang cứu sinh",
         "lifepodheaterdsc": "Giữ cho bên trong đẹp đẽ và ấm cúng.",
@@ -755,7 +755,7 @@
         "mushroomropedsc": "Một mẩu nấm dài. Có vẻ như bạn có thể dễ dàng leo lên nó.",
         "sidestabber": "Trắc Thích Khuẩn Thú",
         "sidestabberdsc": "Một con vật kỳ lạ hợp nhất với một loại nấm. Phóng một chiếc gai lớn vào bất kỳ con mồi nào đi ngang qua.",
-        "skullcrusher": "Phá Sọ Thạch",
+        "skullcrusher": "Phá Sọ Kim",
         "skullcrusherdsc": "Có thể làm bạn đau đầu.",
         "gunmine": "Mìn súng",
         "gunminedsc": "Được gọi thông tục là \"Kẻ làm nổ ngón chân\".",
@@ -945,7 +945,7 @@
         "braindamage3dsc": "thực tại .. không còn .. ý nghĩa",
         "braindamage2dsc": "Thiểu năng trí tuệ nghiêm trọng. Khả năng suy nghĩ thông minh và tự duy trì bị hạn chế. Tổn thương não nghiêm trọng đang hiện diện.",
         "braindamage1dsc": "Suy giảm tinh thần do tổn thương não. Bạn cảm thấy bối rối một cách kỳ lạ...",
-        "strokedsc": "Chảy máu trong não, có khả năng do tăng huyết áp nghiêm trọng. Đã ở giai đoạn tiến triển, cơ hội sống sót là con số không trừ khi bạn có Braingrow hoặc chất đông máu.",
+        "strokedsc": "Chảy máu trong não, có khả năng do tăng huyết áp nghiêm trọng. Đã ở giai đoạn tiến triển, cơ hội sống sót là con số không trừ khi bạn có thuốc tái tạo mô não hoặc chất đông máu.",
         "cantbreathedsc": "Ngạt thở! Mất ý thức và cái chết sắp xảy ra nếu không được điều trị.",
         "thoraxdestroyeddsc": "Phổi của bạn quá tổn thương để hoạt động, do sức khỏe cơ ngực ở mức thấp nguy kịch.",
         "pulmonaryembolismdsc": "Một cục máu đông lớn đã vỡ ra và kẹt trong phổi, làm tắc nghẽn động mạch. Tổn thương phổi và ngạt thở sẽ nhanh chóng xảy ra. Hãy hạ độ nhớt của máu khẩn cấp.",
@@ -1309,11 +1309,11 @@
         "oxylinedsc": "Hóa chất tổng hợp làm tăng nồng độ oxy trong máu một cách nhanh chóng khi tiêm, đồng thời ổn định tình trạng rung tim và thúc đẩy sản xuất hemoglobin. Có xu hướng phát nổ khi trộn lẫn với axit dạ dày.",
         "antidepressants": "Thuốc chống trầm cảm",
         "antidepressantsdsc": "Thuốc chống trầm cảm dạng viên liều cao. Khiến bạn cảm nhận mọi thứ ít đi một lúc và từ từ làm tăng mức độ vui vẻ. Có thể có tác dụng phụ.",
-        "antirad": "Anti-rad",
+        "antirad": "Thuốc kháng phóng xạ",
         "antiraddsc": "Thuốc thử nghiệm trực tiếp làm giảm ảnh hưởng của nhiễm phóng xạ khi uống. Sẽ cần liều cao hơn cho bệnh nặng.",
-        "braingrow": "Braingrow",
+        "braingrow": "Thuốc tái tạo mô não",
         "braingrowdsc": "Thuốc uống đặc biệt kích thích sự tái tạo của não bộ. Tăng cường sự nguyên vẹn của não, nhưng thường có tác dụng phụ nghiêm trọng.",
-        "mindwipe": "Mindwipe",
+        "mindwipe": "Thuốc xóa trí nhớ",
         "mindwipedsc": "Thuốc tổng hợp đặc biệt xóa sạch hầu hết ký ức và những chấn thương tâm lý trong não, chỉ để lại một vật chủ trống rỗng vô cảm với kiến thức cơ bản và bản năng sinh tồn. Thường được sử dụng như phương sách cuối cùng cho các đối tượng đã đi quá giới hạn không thể hoạt động hoặc có nguy cơ tự sát. Cũng có thể chữa trị các trường hợp tổn thương não từ trung bình đến nặng. Tác dụng là vĩnh viễn nếu không được phục hồi toàn diện. Sử dụng như biện pháp cuối cùng.",
         "streptokinase": "Streptokinase",
         "streptokinasedsc": "Thuốc làm loãng máu. Giảm mạnh độ nhớt của máu và phá vỡ cục máu đông.",
@@ -1388,8 +1388,8 @@
         "ThighBShort": "Chân",
         "CrusBShort": "Chân",
         "FootBShort": "Bàn chân",
-        "vật thí nghiệm": "Vật thí nghiệm",
-        "vật thí nghiệmtraderdsc": "Một sinh vật lai chó-chuột-người lùn kỳ lạ, với 3 điểm nhô ra như gai mềm nhô ra từ phía sau đầu. Đầu của họ trông giống hình chuột. Tuy có hơi vụng về, nhưng họ không có đặc điểm nào quá độc đáo trong bối cảnh giao thương. Không mất nhiều niềm tin để họ cho phép bạn ôm.",
+        "experiment": "Cá thể thí nghiệm",
+        "experimenttraderdsc": "Một sinh vật lai chó-chuột-người lùn kỳ lạ, với 3 điểm nhô ra như gai mềm nhô ra từ phía sau đầu. Đầu của họ trông giống hình chuột. Tuy có hơi vụng về, nhưng họ không có đặc điểm nào quá độc đáo trong bối cảnh giao thương. Không mất nhiều niềm tin để họ cho phép bạn ôm.",
         "milky": "Milky",
         "milkytraderdsc": "Một sinh vật đặc biệt lùn, có bộ lông trắng mịn, mõm rất phẳng và những chiếc sừng ngắn, màu trắng nhô ra từ đầu. Có vẻ như sống dưới nước ở một mức độ nào đó, đánh giá bằng cặp vây trên lưng họ. Họ có vẻ khá thông minh và hơi kiêu ngạo, rất có thể họ sẽ mang theo một loại vũ khí nào đó để bù đắp cho đặc điểm thể chất không mấy ấn tượng của mình. Họ không quá hứng thú với những cử chỉ tình cảm vật lý, có thể mất nhiều niềm tin hơn để nhận được một cái ôm từ họ.",
         "dune": "Dune",
@@ -1417,7 +1417,7 @@
         "presetunchippeddsc": "Dù việc không có chip làm giảm bớt giới hạn thời gian nhân tạo mà những người khác bị giới hạn, nó cũng khiến việc tự chẩn đoán bệnh cho bản thân trở thành một nỗ lực khó khăn. Biết đâu điều đó sẽ xứng đáng vào phút cuối?",
         "presetendless": "Vô tận",
         "presetendlessdsc": "Không có lối thoát; Đây là bản án tử hình của bạn. Bạn có thể tiến xa đến đâu, khi các mối nguy hiểm nhân lên trước mắt bạn?\n\n[LƯU Ý: Không khả dụng ở giai đoạn này, vì trò chơi hiện tại đằng nào cũng là vô tận]",
-        "runsettings": "Cài đặt chạy",
+        "runsettings": "Cài đặt màn chạy",
         "runsettingsdsc": "Chọn một lối chơi từ các cấu hình thiết lập bên dưới. Bạn có thể điều chỉnh chúng trong bảng cài đặt tùy chỉnh ở bên phải.",
         "customsettings": "Cài đặt tùy chỉnh",
         "customsettingsdsc": "Định cấu hình các cài đặt chạy cụ thể",
@@ -1871,7 +1871,7 @@
         "hasbattery": "Có pin (<>)\n<sprite index=17 tint=1>Sử dụng công cụ để gỡ ra",
         "nobattery": "Không có pin (Tối đa <>)",
         "unknownobject": "Một thứ gì đó...",
-        "unknownmedical": "Một loại thuốc nào đó...",
+        "unknownmedical": "Một loại đồ dùng y tế nào đó...",
         "unknowndrug": "Một loại thuốc gây nghiện nào đó...",
         "unknownfood": "Một loại thức ăn nào đó...",
         "unknownwater": "Một loại chai nào đó...",
@@ -2150,7 +2150,7 @@
         "tutclosehealthpanel": "Đóng bảng sức khỏe.",
         "tutopenhealthpanel": "Mở bảng sức khỏe.",
         "tutnice": "Tuyệt.",
-        "startlorenote": "Năm 2XXX \n<>\nCông nghệ của nhân loại đã tiến bộ đáng kể. Những điều tưởng chừng như không thể trước đây giờ đã trở nên phổ biến.\n<>\nỞ trung tâm của sự phát triển đó là một công ty. Sự tiến bộ của họ có vẻ như một phép màu, nhưng họ lại giữ kín bí mật của mình.\n<>\nNhiều năm trước, họ đã tạo ra một giống loài mới: sự kết hợp giữa ADN động vật và con người mà họ chỉ đơn giản gọi là \"Vật thí nghiệm.\"\n<>\nNhững vật thí nghiệm này là những đối tượng hoàn hảo, đủ giống con người, nhưng thuộc về họ để họ muốn làm gì thì làm. Họ đã dày công nghiên cứu chúng, bóp méo hình dạng sinh học của chúng hơn nữa để phù hợp với nhu cầu của mình, và năm tháng trôi qua, số lượng vật thí nghiệm chỉ ngày một tăng lên.\n\nKhông một vật thí nghiệm nào được nhìn thấy thế giới bên ngoài.\n<>\nBây giờ có vẻ như Trái Đất không còn chứa nổi tham vọng của họ nữa. Cùng với công nghệ dịch chuyển tức thời mới được phát minh, họ nhắm mục tiêu đến một hành tinh xám xịt nhưng tràn đầy sự sống.\n<>\nChẳng mấy chốc, hàng tấn hàng hóa và rác rưởi linh tinh đã được gửi đến.\n<>\nDo khó khăn trong việc hiệu chuẩn, lượng rác rơi vào hệ thống hang động của hành tinh cũng nhiều như trên bề mặt, nhưng dự án vẫn tiến triển thuận lợi. \n<>\nCho đến khi, một lỗi không xác định khiến một mảnh công nghệ quan trọng bị rơi thẳng vào sâu trong lòng hang động.\n<>\nChẳng bao lâu sau, các nhà khoa học đã vạch ra một kế hoạch. Một kế hoạch ít có rủi ro đối với chính họ.\n<>\nCơ hội thành công là rất thấp, nhưng nguồn thức ăn sống của chúng thì dồi dào.\n<>\nBạn là một sinh vật không may mắn.\nKháng cự không phải là một lựa chọn."
+        "startlorenote": "Năm 2XXX \n<>\nCông nghệ của nhân loại đã tiến bộ đáng kể. Những điều tưởng chừng như không thể trước đây giờ đã trở nên phổ biến.\n<>\nỞ trung tâm của sự phát triển đó là một công ty. Sự tiến bộ của họ có vẻ như một phép màu, nhưng họ lại giữ kín bí mật của mình.\n<>\nNhiều năm trước, họ đã tạo ra một giống loài mới: sự kết hợp giữa ADN động vật và con người mà họ chỉ đơn giản gọi là \"Cá thể thí nghiệm.\"\n<>\nNhững cá thể thí nghiệm này là những đối tượng hoàn hảo, đủ giống con người, nhưng thuộc về họ để họ muốn làm gì thì làm. Họ đã dày công nghiên cứu chúng, bóp méo hình dạng sinh học của chúng hơn nữa để phù hợp với nhu cầu của mình, và năm tháng trôi qua, số lượng cá thể thí nghiệm chỉ ngày một tăng lên.\n\nKhông một cá thể thí nghiệm nào được nhìn thấy thế giới bên ngoài.\n<>\nBây giờ có vẻ như Trái Đất không còn chứa nổi tham vọng của họ nữa. Cùng với công nghệ dịch chuyển tức thời mới được phát minh, họ nhắm mục tiêu đến một hành tinh xám xịt nhưng tràn đầy sự sống.\n<>\nChẳng mấy chốc, hàng tấn hàng hóa và rác rưởi linh tinh đã được gửi đến.\n<>\nDo khó khăn trong việc hiệu chuẩn, lượng rác rơi vào hệ thống hang động của hành tinh cũng nhiều như trên bề mặt, nhưng dự án vẫn tiến triển thuận lợi. \n<>\nCho đến khi, một lỗi không xác định khiến một mảnh công nghệ quan trọng bị rơi thẳng vào sâu trong lòng hang động.\n<>\nChẳng bao lâu sau, các nhà khoa học đã vạch ra một kế hoạch. Một kế hoạch ít có rủi ro đối với chính họ.\n<>\nCơ hội thành công là rất thấp, nhưng nguồn thức ăn sống của chúng thì dồi dào.\n<>\nBạn là một sinh vật không may mắn.\nKháng cự không phải là một lựa chọn."
     },
     "character": [
         {
@@ -2229,7 +2229,7 @@
                 "Ngonnn...",
                 "Đồ ăn tốt phết.",
                 "Mmmmm...",
-                "Ăn hoài không ngán...",
+                "Không bao giờ ngán...",
                 "Mmm! Tốt hơn hẳn",
                 "Măm măm măm.",
                 "Tuyệt thật!",
@@ -2561,8 +2561,8 @@
                 "Có chút đồ ăn vặt thì tốt...",
                 "Mình cần một bữa ăn nhẹ.",
                 "Bắt đầu đói rồi.",
-                "Giờ ăn vặt.",
-                "Giờ ăn trưa.",
+                "Tới giờ ăn vặt rồi.",
+                "Tới giờ ăn trưa rồi.",
                 "Mình cần thức ăn.",
                 "Mình rất muốn có đồ ăn.",
                 "Bụng mình trống rỗng.",
@@ -3227,7 +3227,7 @@
                 "Hmph... lạnh.",
                 "Do mình hay là lạnh thật nhỉ?",
                 "Cảm thấy hơi lạnh.",
-                "Lạnh ở trong này...",
+                "Trong này lạnh...",
                 "Mình nên cố gắng giữ ấm.",
                 "Brrr.",
                 "Mình thấy hơi lạnh lùng.",
@@ -3243,7 +3243,7 @@
                 "Mình bắt đầu đổ mồ hôi nhiều rồi.",
                 "Mình cần giải nhiệt.",
                 "Mình nóng không chịu nổi.",
-                "Mình cần bình tĩnh lại - theo đúng nghĩa đen.",
+                "Mình cần giữ cái đầu lạnh - theo đúng nghĩa đen.",
                 "Cái gì đó để làm mát mình sẽ rất tuyệt...",
                 "Mình đang bốc hỏa đây...",
                 "Ở đây hơi ấm...",
@@ -4414,7 +4414,7 @@
             {
                 "Item1": "điều này thật kinh khủng. có quá nhiều xác chết... mình sợ. tại sao họ lại gửi quá nhiều người chúng mình đến đây? mình không hiểu. mình thực sự không hiểu. họ đã đánh gục mình bằng một loại phi tiêu nào đó và ép mình vào một cái khoang để gửi đến đây. mình ghét hành tinh này.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình đã hỏi những người khác xung quanh về khả năng nhìn thấy trạng thái thể chất của chúng ta trong tâm trí, và hóa ra đây là điều mà hầu như tất cả những người khác ở đây đều làm được. Khá thú vị - đây không phải là điều chúng mình từng có thể làm được khi ở nhà. Có phải chúng mình đã bị cấy ghép thứ gì đó? Không có vật thể gắn kèm nào có thể nhìn thấy trên bất kỳ ai trong chúng mình. mình cũng nhận thấy rằng có rất ít người ở đây không chia sẻ trải nghiệm này, dường như thiếu đi bất cứ thứ gì cho phép chúng mình làm điều này. Thật kỳ lạ.",
@@ -4424,27 +4424,27 @@
             {
                 "Item1": "mình liên tục sụt cân. mình cần ăn nhiều hơn để giữ dáng. tất cả những việc chạy nhảy này làm mình tiêu thụ calo thực sự nhanh. mình đoán mình cần phải ăn no thường xuyên hơn.",
                 "Item2": "Sprites/noteDrawings/underweight",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "điều này thật tồi tệ. điều này thật chết tiệt. mình không thể làm được nữa. đây là một nhiệm vụ tử thần. hãy từ bỏ mọi hy vọng. việc này chẳng có ý nghĩa gì  cả.",
                 "Item2": "Sprites/noteDrawings/x",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình không hiểu tại sao chúng ta lại ở đây. để làm gì chứ? mình biết mình được cho là phải thu hồi một loại pin hay gì đó. mình cho rằng những người khác cũng có cùng nhiệm vụ. không có cách nào để làm việc này hiệu quả hơn sao? logic hơn? tại sao lại gửi mình đến đây chứ. mình nhớ bạn bè của mình. mình không muốn chết.",
                 "Item2": "Sprites/noteDrawings/alone",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình đã bị ngã. rất tệ. chân mình bị dập nát. điều này thực sự tồi tệ. di chuyển một chút thôi cũng đau. mình cần một số loại thuốc giảm đau cho thứ này.",
                 "Item2": "Sprites/noteDrawings/brokenleg",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình nghe lén được những kẻ bắt giữ chúng mình gọi chúng mình là một thứ pha trộn ghớm ghiếc của \"người, cáo và chuột\", bất kể điều đó có nghĩa là gì. họ đang giấu bao nhiêu thứ khỏi chúng mình? suy nghĩ đó làm mình sợ hãi. mình chưa bao giờ xem xét bất cứ điều gì nằm ngoài nơi chúng mình được nuôi dưỡng. và bây giờ mình ở đây. mình không thể hiểu nổi tất cả những chuyện này.\n(Trên tờ giấy có gì đó trông giống như một bức chân dung tự họa.)",
                 "Item2": "Sprites/noteDrawings/experiment",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình nhận thấy vẽ là một cách giải thoát khá ổn cho tình huống mà mình đang gặp phải. Có vẻ như tất cả mọi người đều đang phải vật lộn với trạng thái tinh thần của mình. Thỉnh thoảng có một thứ gì đó làm phân tâm khỏi thực tại khắc nghiệt cũng tốt.",
@@ -4462,7 +4462,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "Sự phân bố của các loài ở đây dường như rất không cân xứng. Các vật thí nghiệm ở khắp mọi nơi, nhưng các loài khác như của chúng mình dường như ít hơn rất nhiều. Lạ thật... Dù sao thì, mình không thích số lượng thương vong ở đây. Nhiều người trong chúng mình cần được giúp đỡ hơn.",
+                "Item1": "Sự phân bố của các loài ở đây dường như rất không cân xứng. Các cá thể thí nghiệm ở khắp mọi nơi, nhưng các loài khác như của chúng mình dường như ít hơn rất nhiều. Lạ thật... Dù sao thì, mình không thích số lượng thương vong ở đây. Nhiều người trong chúng mình cần được giúp đỡ hơn.",
                 "Item2": "Sprites/noteDrawings/milky",
                 "Item3": "milky"
             },
@@ -4474,12 +4474,12 @@
             {
                 "Item1": "mình không muốn làm điều đó. họ có một ống dẫn lưu màng phổi. mình có thể làm gì chứ? chết ngạt trong chính máu của mình sao? tất cả những gì mình có là một thanh thuốc nổ... giá như mình có thể ở nhà, dù chỉ là nghe radio huấn luyện, mình sẽ đánh đổi bất cứ thứ gì. đó không phải là lỗi của mình. đó không phải là lỗi của mình.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình yêu nơi này! mình vẫn gặp những sinh vật mới, chúng thật dễ thương! có rất nhiều điều thú vị ở đây! mình sẽ không bao giờ quay lại phòng thí nghiệm, hang động muôn năm!",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "dune thích nếm bạn bè .  tất cả bạn bè nếm khác nhau .  bạn lông sẫm thì cứng .  bạn lông sáng thì dai .   nếm dune vị như nào nhỉ ?",
@@ -4489,7 +4489,7 @@
             {
                 "Item1": "ôm người khác làm mình hạnh phúc hơn... nhưng một số người sống sót lại từ chối những cái ôm, mình nghĩ mình có thể xoa dịu họ bằng cách nào đó. ngoài ra ngủ cạnh họ tốt hơn nhiều so với việc nằm một mình trên sàn lạnh.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "Gửi đến bất cứ ai tìm thấy thứ này, họ có thể và sẽ kiểm soát bạn, ngay cả trong cái địa ngục này. Không có cảnh báo trước nào, mình bắt đầu nghe thấy một tiếng còi báo động lớn bên trong mình, mình có thể thấy một dòng tin nhắn nói rằng \"ĐỘ SÂU KHÔNG ĐẠT YÊU CẦU\" với những ánh đèn đỏ nhấp nháy hiện thực hóa ở khóe mắt mình.\n\nmình bắt đầu chạy, hoảng loạn, không biết tại sao họ lại làm điều này. Chỉ sau khi mình đi vào một khu vực khác của mạng lưới hang động này, nó mới dừng lại. Họ biết bạn đang dành bao nhiêu thời gian ở đây, họ biết rằng bạn sẽ sợ hãi, và họ muốn bạn chết. Tất cả chuyện này là một cuộc diệt chủng hàng loạt.",
@@ -4499,47 +4499,47 @@
             {
                 "Item1": "mình tìm thấy một vũ khí. một khẩu súng. trời ạ... mình không quen dùng thứ này... lẽ ra mình nên cẩn thận hơn trong các buổi huấn luyện... mình hoàn toàn không hiểu tại sao họ lại không giết bỏ mình mà lại gửi đến đây khi không chuẩn bị trước như thế này. mình gần như đã vô tình bắn một ai đó. lẽ ra mình nên bật chốt an toàn của súng... mình là ai mà biết được chứ. những người khác có xu hướng thực sự hoảng sợ khi họ thấy bạn cầm vũ khí trong tay. vì vậy có lẽ tốt nhất là nên giấu nó vào trong thứ gì đó, để họ không nhìn thấy. họ nghĩ bạn sẽ bắn họ, họ không biết ý định của bạn. chà, mình cũng sẽ nghĩ như vậy nếu có ai đó chĩa súng vào mình.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình thật giận bản thân mình vì đã hành xử như một thằng khốn nạn với những người khác ở trên đó... bây giờ tất cả những người sống sót mà mình tìm thấy đều đuổi mình ra khỏi khoang của họ... chậc, nếu mà bạn biết họ đã chửi rủa khó nghe thế nào... họ đã cố cào mình... và mình chỉ tự nhủ với bản thân: \"được rồi, mình xin lỗi. chết tiệt thật, bạn có nhận ra rằng hiện tại mỗi mạng sống đều quan trọng không? không có chỗ cho việc làm tổn thương và giết chóc lẫn nhau đâu.\". mình ước mình là một người tốt hơn... đây đều là lỗi của chính mình.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "đừng luôn tin tưởng vào những bình chất lỏng nằm rải rác xung quanh. mình tìm được một bình chứa mini chứa thứ mà mình nghĩ là nước chanh, nhưng một ngụm đắng ngắt là đủ để nói với mình rằng không phải vậy. mình đã cố gắng rửa trôi nó bằng một thùng nước khác, nhưng nước đó khiến mình rất ốm và lông mình bắt đầu rụng.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "hôm nay mình tìm thấy một vài lon kim loại kỳ lạ bị xé nhãn. mình không thể nói đó là gì và chất lỏng quá đặc để đổ ra ngoài, nhưng nó no bụng một cách đáng ngạc nhiên, mình cảm thấy như mình vừa ăn một miếng bít tết ngon lành... mình cảm thấy rất buồn ngủ. mình chuẩn bị uống lon tiếp theo, mình yêu những cái lon này!\n(Phần dưới cùng của tờ giấy trông giống như có những cục đen bị bắn mạnh vào.)",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "điều này nói ra có thể rất lạ nhưng mình đã bằng lòng với tình huống này. mình đã cố gắng tự chăm sóc bản thân nhiều nhất có thể và cố gắng an ủi tất cả những người khác mà mình đã gặp ở dưới này. nó làm mình cảm thấy... mãn nguyện? mặc dù mình đã bị thương rất nhiều nhưng mình đã có thể xử lý nó mà không cảm thấy chán nản.\nmình sẽ cố gắng đi xa nhất có thể, và mặc dù có lẽ mình sẽ không thành công, mình biết mình đã làm hết sức và giúp đỡ càng nhiều người khác càng tốt. đó là tất cả những gì bất cứ ai trong chúng ta có thể làm.\nnếu bạn đang đọc điều này, đừng bỏ cuộc, nhé?",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình đã nhìn thấy ngày càng nhiều những khoang đổ nát này gần đây, hơi giống những cái mà họ đã gửi chúng mình xuống đây ngoại trừ những cái này bằng cách nào đó đã nổ tung <>\nbên trong đống đổ nát, mình thường tìm thấy một số loại đạn súng cùng với một cục thịt gớm ghiếc nào đó? \n<>\ntrông thật tồi tệ nhưng nó có thể ăn được???\ncái người gọi là dune mà mình gặp trước đó nói với mình rằng ăn nó rất tốt\nmình có thể thử ăn một chút\n<>\n\nđã ăn nó và nôn mửa liên tục trong hai mươi phút, sai lầm tồi tệ nhất trong cuộc đời mình <>\nvì chúa, đừng ăn bất cứ thứ gì đó là",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình liên tục có cùng một giấc mơ. mình có đôi cánh khổng lồ và mình có thể tiếp tục bay lên, bay lên và bay lên. không gì có thể ngăn cản mình. mình lao qua trần của những hang động này và ra thế giới bên ngoài. ngoài kia thật đẹp nhưng mình vẫn tiếp tục bay. mình bỏ lại mọi thứ phía sau cho đến khi không còn gì ngoài một khoảng không khổng lồ. đó là lúc cuối cùng mình nhận ra. mình an toàn. mình tự do.\n\nmỗi lần mình thức dậy, mình không thể ngừng khóc. mình ước mình có thể tiếp tục mơ mãi mãi.\n\n(Có một bức vẽ lem luốc nước mắt về một số đôi cánh rất không chính xác.)",
                 "Item2": "Sprites/noteDrawings/wings",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "các nhà khoa học có thực sự nhìn thấy mình ở đây không? họ luôn muốn mình nói to những gì mình đang nghĩ, nhưng ở đây, mình chỉ đang nói chuyện với chính mình. mình cho rằng mình có quyền tự do dừng lại, nhưng... nó có cảm giác mang tính trị liệu. nếu mình không vượt qua được, có lẽ ít nhất những ghi chú này có thể.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình đã không nhận ra nó trở nên tồi tệ như thế nào cho đến khi mình cố gắng đào tiếp và móng vuốt của mình chỉ... lướt qua. không còn chút độ sắc nào nữa. mình đã cào qua đá không ngừng nghỉ, mình không để ý tới nó. mình cảm thấy trần trụi. hóa ra da thịt không thể thay thế công cụ.\n<>\nmình cứ đinh ninh rằng mình cần một cái cuốc cho mọi thứ. nhưng mình phát hiện ra con dao rựa của mình hoạt động rất tốt đối với những thứ nhẹ hơn. đất, thực vật, cát, nó cắt xuyên qua tất. cứu đôi tay mình khỏi rất nhiều đau đớn.\n<>\ntìm thấy một cái chai có dán nhãn thuốc kích thích keratin. cho thấy họ đã lên kế hoạch cho việc các bộ phận của chúng mình bị hỏng. uống một ngụm. một lúc sau, các lớp cũ bắt đầu bong ra như lông. bên dưới, chúng có cảm giác sắc bén hơn. cứng chắc hơn. thật thỏa mãn một cách kỳ lạ khi nhìn thấy những bộ phận mòn mỏi bong ra. mình thích cách móng vuốt của mình cho phép mình bám chặt vào tường tốt hơn\n<>\nmình nhớ đến con người. họ có móng tay trên mọi ngón tay. tất cả chúng. không có móng vuốt nào cả. nó trông thật sai trái khi nhìn gần. mềm. cùn. thật kỳ dị cách họ xoay xở mọi thứ với đôi bàn tay như vậy.\n<>\nmình từng nghĩ điều đó khiến họ yếu ớt.\n<>\nbây giờ mình tự hỏi liệu đó có phải là mục đích hay không.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "Cái hang chứa đầy đủ loại sinh vật liên tục đi lang thang khắp mọi nơi. mình là một người hơi theo chủ nghĩa hòa bình, vì vậy mình cố gắng chạy trốn khỏi chúng, thay vì chiến đấu với chúng, vì mình không biết ai sẽ giết ai trước... Xét cho cùng, những vết thương chúng để lại trên người mình đau đớn khủng khiếp... mình không biết nữa... Những kẻ bắt giữ chúng mình có biết chúng mình đang trải qua những gì ở dưới này không?",
@@ -4564,7 +4564,7 @@
             {
                 "Item1": "(Tờ giấy bạc bị nhàu nát và nghiền nát, như thể nó được dự định vứt đi.)\n<>\nbạn mình họ... mình nghĩ họ đã tự sát. sau một cú ngã tồi tệ khác, mình đã cố gắng sửa lại đôi chân của họ nhưng họ cứ mắng mỏ mình. họ cứ xua đuổi mình như thể mình là một con ruồi nào đó, bảo mình để họ yên. mình không hiểu. mình rời đi để lấy một số cây cỏ ở đây để cố gắng băng bó cho họ nhưng... khi mình quay lại, họ lại có thêm một vết thương nữa. một vết trên cánh tay họ. mình vẫn nhớ nó trông như thế nào, nó rất tệ, gần như bị xé toạc. mình đã cố sử dụng những cây cỏ mình tìm thấy để băng bó vết thương mới nhưng họ cứ đẩy mình ra. đôi mắt của họ... trông chỉ... trống rỗng. mình bảo họ dừng lại và cứ để mình giúp nhưng họ không phản hồi. mình đã cố giúp thêm vài lần nữa và họ xô mình ra cho đến khi họ chỉ... dừng lại. mình nhớ đã nhìn thấy cơ thể họ thả lỏng, mình nghĩ đó là lúc họ ngừng thở. mình không thể lấy hình ảnh đó ra khỏi đầu mình...\n<>\ncó phải... mình đã làm gì sai không? mình thề là mình không làm... mình đã làm gì sai? tại sao họ lại làm thế? mình... mình không làm gì cả. mình không hiểu, mình không muốn chết... mình không... mình...\n<>\n...\n<>\nhaha...\n<>\nở trong này thật cô đơn.\n<>\n(Bạn nhận thấy những giọt nước mắt khô mờ nhạt và vết máu khô lốm đốm giữa tờ ghi chú nhăn nhúm.)",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "(Có đồ họa đầy màu sắc trên tờ giấy, và nó dường như không phải được viết tay)\n<>\nSúp! Hãy thử Nồi Đặc Sản của chúng mình - chỉ cần cho thịt và nguyên liệu vào và ninh nhỏ lửa. Đừng lo lắng. Bạn sẽ đồng ý rằng nó đáng giá từng chút một về hương vị. Có thể bảo quản lên đến 737 năm!",
@@ -4576,32 +4576,32 @@
             {
                 "Item1": "ugh, nơi này thật tệ. mình liên tục bị cắn bởi những con nhện ngẫu nhiên mà mình không thể nhìn thấy kịp. mình nghĩ chúng có nọc độc, vì chúng để lại những vết thương nhiễm trùng trông rất khó chịu trên người mình... trái cây phát sáng cũng có ích với những vết thương đó",
                 "Item2": "Sprites/noteDrawings/spider",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mọi thứ đang diễn ra tốt đẹp với mình. thức ăn ngon trong bụng mình và có lẽ một hoặc hai cái đuôi nấm làm mình vui. các thương nhân cũng mỉm cười đáp lại mình! mình chỉ ghét nhìn thấy mình chảy máu, nó làm mình sợ",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình không thích việc không biết phải làm gì. khi ở nhà, họ luôn bảo mình. chơi trò chơi này, hãy im lặng khi con người đang nói chuyện, bị đâm bởi những thứ nhọn hoắt này.\nbây giờ mình được cho là phải hoàn thành nhiệm vụ này nhưng mình không biết làm thế nào để thực hiện. mình khát và mình bị thương ở chân nhưng mình cũng rất bẩn và lạnh và mình không biết phải đi đâu ngoài việc đi xuống dưới.\nmình đoán mình sẽ cố gắng ngăn chặn những gì sẽ giết chết mình nhanh nhất. mình hy vọng nó có hiệu quả.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "những ánh đèn nhấp nháy màu đỏ trong bóng tối là bẫy gai. hãy cẩn thận với chúng. làm ơn. làm ơn. có người vừa bước vào một cái ở phía xa, mình chỉ nghe thấy một tiếng kêu ăng ẳng và sự im lặng sau đó. hãy giữ an toàn",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "ở đây lạnh. rất lạnh. lạnh hơn nhiều so với ngôi nhà trước đây của chúng mình. thành thật mà nói, mình thích nó. tắm trong các hồ bơi cảm thấy rất dễ chịu, nó sảng khoái. mình đang thích kỳ nghỉ này",
                 "Item2": "Sprites/noteDrawings/pool",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình đã gặp một người, chúng mình đồng ý cố gắng ra ngoài bề mặt thông qua một trong những lỗ thủng dẫn ra ngoài. bạn mình bước ra trước, và ngay lập tức họ bắt đầu loạng choạng vì sốc. họ dường như đang rất đau đớn. họ nôn mửa rất nhiều, sau đó gục ngã và ngừng thở ngay sau đó. da của họ cũng bắt đầu phồng rộp, đặc biệt là quanh đầu và cổ. có thứ gì đó đang ngăn cản chúng ta rời đi. mình sợ.",
                 "Item2": "Sprites/noteDrawings/radiation",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "Bị ướt dường như khá nguy hiểm nếu bạn không cẩn thận. Nhiệt độ ở đây thấp hơn nhiều so với ở nhà của chúng mình, và có vẻ như bị ướt sũng quá lâu có thể đưa chúng mình vào trạng thái hạ thân nhiệt. Hãy thử thực hiện một số bài tập thể chất nếu bạn cần làm ấm nhanh chóng, mình đã phát hiện ra điều đó có ích.",
@@ -4611,17 +4611,17 @@
             {
                 "Item1": "mình thực sự cần phải ngừng việc làm mất đèn của mình. bất cứ thứ gì cũng được, ngay cả những loại thực vật phát sáng kỳ lạ đó. mình cứ rời đi và quên mất chúng, sau đó vấp ngã và vô tình bị thương. không tốt.",
                 "Item2": "Sprites/noteDrawings/glowplant",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "ánh sáng là nguồn tài nguyên quý giá ở đây, đặc biệt là khi trời càng tối khi chúng ta đi càng xa. không muốn vô tình giẫm phải bẫy. với xác của một con nhện và những mảnh thực vật phát sáng, mình có thể tạo ra một chiếc đèn pha để rảnh tay. trong tình thế khó khăn, bóng đèn trong các khoang dường như chạy bằng pin đã cạn, và có thể bị bẻ gãy tương đối dễ dàng, gây ra sự hung hăng lớn cho chủ nhân của khoang",
                 "Item2": "Sprites/noteDrawings/lightbulb",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "có rất nhiều khoang ở ngoài này giống như cái mình đã thức dậy. mình đã vào một cái qua cửa sổ nhưng mình giẫm phải kính vỡ. phải thực sự cẩn thận, nhưng mình đã rút nó ra khỏi chân mình. cần phải đảm bảo mình dọn sạch các mảnh vỡ vào lần tới.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "Con người làm những điều kỳ lạ. Bạn không bao giờ nên tin tưởng rằng họ sẽ tốt bụng.\nNhưng bạn có thể tin tưởng họ sẽ giữ cho bạn sống sót.<>\nMột lần mình bị gãy tay, và họ bó nó vào một cái \"bó bột.\" mình không thích nó. Nó nặng nề và ngăn cánh tay mình cử động hoàn toàn. Có vẻ như họ cố tình làm cho nó tệ hơn, và họ bắt mình phải đeo nó trong một thời gian dài.<>\nHọ đã tháo nó ra vào một ngày nọ, và cánh tay mình vẫn ổn.<>\nCon người đã làm nó tệ hơn, để nó có thể tốt hơn.<>\n\nmình nghĩ họ đã làm điều gì đó tương tự với đầu của Jumper.\nJumper từng hét và khóc rất nhiều. Một lần họ tự làm mình bị thương, và con người đã đưa họ đi.<>\nJumper hiện đã trở lại. Họ không khóc nữa. Họ không nói chuyện. Họ lúc nào cũng trông có vẻ buồn ngủ. Đầu của họ giống như cánh tay của mình trước đây. mình không thể nhìn thấy bất kỳ \"bó bột\" nào xung quanh nó, và hành vi của họ làm mình lo lắng, nhưng ít nhất họ không còn tự làm mình bị thương nữa. mình hy vọng con người sẽ hoàn tác bất cứ điều gì họ đã làm khi đầu của Jumper được sửa xong.<>\n\nmình nhớ họ.",
@@ -4633,7 +4633,7 @@
             {
                 "Item1": "rõ ràng là những cái hộp có những chiếc máy tính kỳ lạ bên cạnh có thể được mở ra nếu bạn đổ một ít máu đỏ lên chúng. nó phải đặc biệt là máu đỏ, nếu không nó sẽ không hoạt động. nó có một số thùng thưa bên trong, bạn có thể mở chúng và lấy đồ mang theo. hữu ích.",
                 "Item2": "Sprites/noteDrawings/bloodbag",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "Kiểm tra thành phần hóa học của các túi máu màu khác nhau mà mình tìm thấy ở đây, có vẻ như chúng khác biệt đáng kể về thành phần. Máu đỏ hoàn toàn khác với máu của chúng ta và máu mà các sinh vật ở đây sở hữu. Dường như nó có thành phần hơi giống kim loại vì lý do nào đó, thật kỳ lạ. Tốt hơn là không nên dùng thứ đó cho bản thân mình.",
@@ -4648,12 +4648,12 @@
             {
                 "Item1": "mình gần như đã chết đuối chỉ một khoảnh khắc trước. mình chưa bao giờ bơi trước đây, và nó rất mệt mỏi. thật khó để giữ mình nổi trên mặt nước khi mình mệt. mình tưởng tượng chìm mãi mãi sẽ khá đau đớn... hãy cẩn thận.",
                 "Item2": "Sprites/noteDrawings/drown",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "tình cờ nghe được một chút từ những kẻ bắt giữ chúng mình, có vẻ như hàng hóa mà chúng mình được cho là phải lấy là một loại \"nguồn năng lượng tiên tiến\" nào đó. điều gì đó về việc lưu trữ một lượng lớn điện năng và phân phối nó \"không dây\". mình không biết phần lớn những thứ đó có nghĩa là gì, nhưng có lẽ sẽ hữu ích nếu biết. hãy giữ an toàn",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "Gần đây tìm thấy một loại máy khoan, nhưng nó bị thiếu một vài bộ phận. mình không thể hình dung ra nó cần gì, ngoại trừ tấm che cho tất cả các cơ chế... Có thể chứng tỏ hữu ích nếu mình đưa nó vào trạng thái hoạt động.",
@@ -4685,12 +4685,12 @@
             {
                 "Item1": "ugh. ở đây thật nóng. thực sự cần phải giãn cách các chuyển động của mình ra và cẩn thận để không bị tê liệt vì nóng. mình nhận thấy rằng lặn xuống các hồ nước ở đây có ích... thậm chí có thể là những hồ màu nâu nếu tuyệt vọng.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình không thể nữa. tại sao.\nmọi người đã chết\nmình không thể.\nmình muốn chuyện này dừng lại\nmình không thể\nmình muốn sự tự do\ntại sao\nmình không thể. mình không muốn nhìn thấy bất kỳ điều gì thế này nữa. mình đã thấy quá nhiều điều tồi tệ. mình quá ốm yếu.\nchân mình bị hỏng rồi. bị nổ tung bởi một quả mìn\ntay mình, tay phải, cũng đang hành hạ mình rất dữ dội\nmình muốn chấm dứt mọi thứ\nmọi thứ là một sự khốn khổ\nmình không thể chịu đựng thêm nữa\nmột lát nữa mình sẽ cào đứt động mạch của mình và biến thành một cái xác khác để bạn liếc nhìn - miễn là họ không ăn thịt mình vào lúc bạn đến đây.\n\ncảm ơn vì tất cả mọi thứ. tạm biệt",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "Những dây leo trải dài quanh khu vực này có thể trèo lên một cách đáng ngạc nhiên. Những dây mỏng thì khó hơn, nhưng bạn có thể sử dụng những dây lớn như những chiếc thang tự nhiên. Chắc chắn đã cứu mình khỏi vài cái chân bị gãy.",
@@ -4715,22 +4715,22 @@
             {
                 "Item1": "có hàng tấn bụi rậm quanh nơi này, mặc dù mình không thể nói mình đã nhìn thấy bất kỳ bụi nào còn sống. mình nghĩ chúng khá hữu ích để làm dây thừng và làm đệm giảm chấn cho các cú ngã, nhưng chúng cũng có xu hướng giấu bẫy...",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "ở dưới này quá nóng. mình cảm thấy như mình chỉ đang lao từ khoang cứu sinh này sang khoang cứu sinh khác. mình thậm chí không muốn mở các viên nang thả xuống, chúng cũng làm mình nóng lên. tuy nhiên người bạn dune tên stimpy của mình dường như không bận tâm lắm. phải chăng họ chỉ không phàn nàn, hay là tất cả lớp da đó đang làm họ mát đi?",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "cứu mình    đã giẫm phải   đĩa phát nổ   mình  đang trong   rất nhiều   đau đớn  cứu    cứu mình  làm ơn   mình đang n g ấ t    đ i",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình nghe thấy tiếng reo.. đầu mình rất, rất đau, mình nghe thấy một tiếng bíp lớn khi mình đi xuống một chút và sau đó là âm thanh nổ lớn đó     mình không biết nó phát ra từ đâu . mình không thể nhìn xa hơn nhiều nhưng có một thứ gì đó rất nguy hiểm trong những hang động này, hãy cẩn thận với những không gian mở rộng lớn",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             }
         ],
         [
@@ -4757,17 +4757,17 @@
             {
                 "Item1": "nước có thể uống được ở đây thực sự khan hiếm, và mình không nghĩ thứ trông giống nhựa đường đó an toàn. một số thảm thực vật ở đây có đủ hàm lượng nước để ép thành nước trái cây, mặc dù mùi vị không được dễ chịu cho lắm. dù sao thì nó vẫn tốt hơn là bị khát",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình lại giẫm phải một trong những cuộn dây chết tiệt đó vào hôm nay, nó được giấu trong một bụi cây, mình nhận ra nó quá muộn để kéo lại.\n<>\nthật tồi tệ, giống như mình đang bị nấu chín từ bên trong, ngay cả sau cú sốc ban đầu. tuy nhiên, đồ uống lạnh có vẻ giúp ích, mình đã phải uống phần lớn sữa khẩu phần của mình, và một ít nước táo, không chắc não của mình có sống sót được nếu không có nó không. mọi thứ vẫn đang quay cuồng, hầu như không thể quay trở lại khoang của mình.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình không còn chút nước nào trong chai ở sa mạc này. mình rất bẩn và khát. mình bước vào một vũng nước mà mình tìm thấy để uống nó và tắm, sau đó tất cả bụi bẩn làm cho nó trở nên đục ngầu. mình không thể uống nó được nữa. Lẽ ra mình nên ném chai của mình vào. mình cần nước...",
                 "Item2": "Sprites/noteDrawings/waterbottle",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             }
         ],
         [
@@ -4784,12 +4784,12 @@
             {
                 "Item1": "mình... mình cảm thấy mình đang chết. mọi chuyện quá đỗi bất ngờ, máu ở khắp mọi nơi và mình không thể mở mắt ra được. mình đã sợ... nhưng mình không muốn bỏ cuộc. mình đã tìm thấy rất nhiều điều thú vị ở nơi này và mình cảm thấy như mình đã đạt được rất nhiều tiến bộ trong nhiệm vụ này. mình sẽ không dừng lại ở đây. mình sẽ vượt qua tất cả những chuyện tồi tệ này. mình sẽ gặp lại bạn bè của mình.",
                 "Item2": "Sprites/noteDrawings/laststand",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình đã không nghĩ con quái vật đó sẽ tìm lại mình, nhưng nó đã làm. nó biết khuôn mặt của mình, những sai lầm của mình... nhưng không phải khẩu súng trường của mình. khi nó cuối cùng vỡ toác ra, mình nhìn thấy cái cuốc đó. mình thấy hình khắc mà mình cào lên nó, cũng giống như hình khắc mà họ đã cào lên cái cuốc của mình. mình nhìn thấy mảnh vỡ từ khi họ cố đào một ít titan lên để tặng mình. và rồi, đột nhiên, mình thấy điều đó xảy ra một lần nữa. mùi thép cọ xát. những chấn động của mặt đất. âm thanh của da thịt bị xé toạc. mùi vị của mồ hôi và máu, khi mình cố chạy, làm rơi thức ăn mà mình mang về khoang-\n<>\nmình có được cho là sẽ cảm thấy thanh thản ngay lúc này không? hay mình chỉ đang mặc cả cho sự bình yên, để rồi bị phá vỡ khi một kẻ khác tìm thấy mình?",
                 "Item2": "Sprites/noteDrawings/thornback",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình muốn rời khỏi nơi này, mình đang bị khủng bố, mình không có từ ngữ nào để mô tả những gì mình vừa trải qua, đó là một sinh vật to lớn, khủng khiếp với hàng trăm cái răng, sẵn sàng nuốt chửng mình, nó đuổi theo mình trong khoảng thời gian mà mình cảm thấy như hàng giờ, nó phá hủy mọi thứ trên đường đi của nó. Nó chỉ dừng lại sau khi mình đã đi quá xa đến mức mình hoàn toàn bị lạc, nó làm cạn kiệt thức ăn, nước uống, công cụ, thậm chí cả sự tỉnh táo của chính mình, mình chỉ muốn điều này kết thúc.",
@@ -4801,7 +4801,7 @@
             {
                 "Item1": "ở đây quá lạnh. phải cố gắng hết sức để không bị ướt chút nào, nếu không mình sẽ gặp rắc rối lớn. chúng mình thật may mắn, có rất nhiều loài thực vật có bào tử kỳ lạ tỏa ra một số nhiệt lượng, cùng với những cỗ máy kỳ lạ đó. mình đoán hãy chạy giữa những thứ đó khi có thể. tốt hơn là không nên bị mắc kẹt trong cái lạnh cóng.",
                 "Item2": "Sprites/noteDrawings/xaloris",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "dune lạnh. đào ấm không đủ ấm. dune ăn bạn có lông. ăn sống! dune có lông. lông ấm cho dune. dune no và ấm. dune vui không lạnh.",
@@ -4811,7 +4811,7 @@
             {
                 "Item1": "dưới này lạnh quá, mình liên tục phải chui vào các khoang cứu sinh để làm ấm... mặc dù đôi khi có những chiếc lò sưởi nhỏ kêu vo ve mà mình có thể ghé lại để lấy hơi ấm, mình chỉ cần cẩn thận đừng chạm vào chúng quá lâu, chúng khiến mình cảm thấy ốm. vừa đủ để làm ấm và sau đó tiếp tục đi. nếu mình là bạn, mình sẽ chơi an toàn và chú ý đến bất cứ thứ gì đào về phía mình khi mình đang nghỉ ngơi. mình có thể nghe thấy những thứ đang đào hầm xung quanh mình.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             }
         ],
         [
@@ -4823,7 +4823,7 @@
             {
                 "Item1": "tìm thấy một số thứ nảy kỳ lạ. chúng đẩy mình bay lên... nhưng mình có thể giữ chân mình chĩa xuống. nó khá vui. có lẽ đôi khi cũng có thể hữu ích. có thể hơi nguy hiểm, nhưng điều gì không nguy hiểm ở dưới này cơ chứ.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "mình không biết cái gì đã đánh mình nhưng mình không còn cảm thấy chân mình nữa, tất cả những gì mình có thể thấy là một mớ hỗn độn của cơ xương và máu\ncơ thể mình đang gào thét đòi sự đau đớn kết thúc \nthứ duy nhất mình có là thiết bị màu xanh này trên ngực. mình được người thương nhân mà mình mua nó từ đó bảo rằng nó chỉ nên được sử dụng trong trường hợp khẩn cấp.\nCơn đau không còn quá sức chịu đựng nữa, nhưng bây giờ đèn đang nhấp nháy. mình không biết mình còn bao lâu nữa. bóng tối có trở lại khi thứ này hết điện không? mình không muốn tan biến...",
@@ -4835,175 +4835,175 @@
             {
                 "Item1": "mỗi một trong những khối u ở đây dường như nó có một loại hiệu ứng nào đó... mình không biết chính xác là gì. nó không thể đoán trước được. nhưng có những quy luật đối với nó. một số an toàn, một số thì không, một số có ích. mình sẽ cố gắng viết ra mọi thứ khi mình khám phá ra nó...",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "..ugh. được rồi. những cái màu vàng làm ĐAU. cảm giác hơi giống với những cuộn dây mà mình tìm thấy vài giờ trước... chúng thường có một loại trường phọt phẹt kỳ lạ xung quanh chúng... đừng chạm vào chúng. điều đó không tốt. ít nhất là đối với cơ thể của bạn. mình nhận thấy bằng cách nào đó nó đã sạc lại tất cả pin của mình sau khi chạm vào...",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "bộ đếm geiger mà mình có này trở nên điên cuồng khi ở xung quanh một trong những khối u màu xanh lá cây. một loại \"bức xạ\", bất kể đó là gì. mình khá chắc nó có hại cho bạn. hãy tránh ở gần những thứ đó nếu bạn có thể.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "nhận thấy một số thứ này mỏng manh một cách kỳ lạ. chúng vỡ vụn khi mình chạm vào chúng chút xíu. bạn sẽ thấy chúng trông thực sự giòn, có vết nứt khắp trên chúng. kỳ lạ thay, điều này dường như cũng xuất hiện cùng với một số loại khác mà mình đã thấy... tự hỏi liệu đây có phải là trường hợp của tất cả chúng không.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "nhận thấy rất nhiều khối u đẩy mình ra xa hoặc kéo mình vào. bạn có thể cảm nhận được một loại lực nào đó đi qua bạn khi điều đó xảy ra. có thể chứng minh là hữu ích đôi khi",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "trời ạ. mình CỰC KỲ mừng vì mình có túi chườm đá trong người. có vẻ như những cái có sương mù, lung linh làm nóng mọi thứ xung quanh chúng một cách nhanh chóng... bao gồm cả mình. mình sẽ không ngạc nhiên nếu một số làm điều ngược lại. mình cũng nghe thấy âm thanh kỳ lạ này phát ra từ chúng...",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "đảm bảo bạn có sẵn một ít thuốc kháng sinh. mình nghĩ những cái màu tím làm rối loạn hệ thống miễn dịch của bạn. chúng có một màn sương màu tím mờ ảo xung quanh... mình đã ngồi cạnh một cái một lúc để nghỉ ngơi, và nhận thấy các dấu hiệu sinh tồn của mình giảm xuống trên con chip. có vẻ như một loại phản ứng nhiễm trùng máu. mình nghĩ mình sẽ ổn",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "được rồi. những thứ rung rinh trông thực sự đáng sợ... không phải vậy đâu. chúng đẩy bạn bay lên... nhưng, kiểu như, mình có thể giữ chân chĩa xuống toàn bộ thời gian. hơi giống với những thứ nảy trong khu vực trước mà mình đã ở.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "...\n<>...\n<>...\n<>những thứ bay lượn. mình không biết chúng làm thế nào. lạy chúa... ôi trời. giờ mình ổn rồi, nhưng...<>\n\nnói thế nào nhỉ... có những thứ bay sắc nhọn kỳ lạ. chúng tạo ra những tiếng động lớn thực sự kỳ lạ... gần như thể chúng đang cười nhạo mình. đôi khi chúng lấy đà và lao vào mình, cố đâm mình. chúng bắt được mình một hoặc hai lần, nhưng... bất cứ khi nào chúng làm thế, chúng bị kẹt vào đất và mình đánh nó vài lần cho đến khi nó... uh... không chắc... chuyện gì đã xảy ra, nhưng nó đã biến mất. mình nghĩ nó đến từ một trong những khối u, nhưng nó có vẻ như đang di chuyển.<>\n\nmình lấy được một thứ gì đó sau khi nó biến mất... có lẽ nó hữu ích? có vẻ như nó đang phát triển thành thứ gì đó, mình sẽ đợi và xem.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "được rồi. tin tốt và tin xấu. cái thứ mà mình giữ lại sau khi giết một trong những thứ bay lượn... nó... đã phát triển thành. nhiều thứ bay lượn hơn. hai con... từ một... tuy nhiên chúng dường như chậm hơn khi đi theo nhóm... kiểu như, chúng đã... cho mình cơ hội đánh trả? kỳ lạ.<>\n\nmình đã ăn những cái lõi mình lấy được từ chúng, mình không có ý tưởng nào khác để làm gì với nó... nó. khá ngon, thực ra là vậy. và có vẻ như lần này nó không biến đổi thành bất cứ thứ gì. có lẽ thỉnh thoảng mình có thể làm điều này để ngày càng có nhiều thức ăn? dù sao thì mình không thể tìm thấy nhiều thức ăn ở dưới này",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "không có manh mối gì về việc mình đang ở đâu. mình nghĩ mình đã chạm vào một khối u kỳ lạ và bị... gửi đi. đến một nơi nào đó. dù sao thì cũng an toàn. tuy nhiên, không có manh mối ở đâu. tất cả những gì mình nhớ là nó trông trong suốt hơn một chút so với bình thường. gần như thể mình có thể nhìn thấy nơi mình đã kết thúc ở đó...",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "nhận thấy rất nhiều thứ trong số này nhỏ giọt chất lỏng. dường như chúng không làm được gì nhiều ngoài việc đó. nguồn nước, có lẽ vậy?",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "đã chạm vào một cái màu xám, nó nhấp nháy màu trắng, tạo ra một âm thanh kỳ lạ. không cảm thấy nhiều sau đó... cho đến khi mình cố gắng sử dụng máy khoan laser của mình. thứ đó đã hết điện, trong khi mình chắc chắn cách đây một khoảnh khắc thì không. đã kiểm tra phần pin còn lại mà mình tích trữ, kết quả tương tự. kỳ lạ. tránh xa. có thể đáng để ném mình vào một trong những thứ phóng điện để sạc lại chúng...",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "nhức mắt. bên cạnh một cái siêu siêu sáng. có vẻ như nó không làm bất cứ điều gì ngoài... chà.. làm mình chói mắt. không thích nó, nhưng mình thích nó hơn bất kỳ thứ gì khác mà chúng có thể làm.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "những cái màu hơi đỏ sẽ phát nổ. hãy chạy khi nó đếm ngược. mình ổn... chúa ơi, mình chắc chắn là gần như đã không ổn.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "tìm thấy một cái mờ mờ kỳ lạ. chạm vào nó, và mình không thể nhìn thấy gì trong một lúc... nhưng khi mình mở mắt ra, mình thấy một vài sợi dây thừng và một cái túi nằm ngay trước mặt mình. khối u đã biến mất. mình không thể phàn nàn. có vẻ như nó không làm bất cứ điều gì khác.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "bạn có thể chạm vào những cái màu xanh lá cây. chúng rất tốt. mình rất thích điều đó. hehe. uh. những cái màu xanh lá cây không kích hoạt bộ đếm geiger. những cái tốt dường như nảy lên một chút. oh... uh... huh... mình rất thích cái màu xanh lá cây. mình thích cái màu xanh lá cây. bạn có thể chạm vào nó. mình thích cái màu xanh lá cây.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "tìm thấy một cái đang bốc cháy. chạm vào nó vì tò mò. đừng làm vậy. nó rất nóng.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             },
             {
                 "Item1": "huh. mình đang đi bộ trên một trong những khối u và nó trông bình thường, nhưng đột nhiên nó phát ra một âm thanh và trở nên khác biệt. kiểu như. nó chuyển đổi vị trí? kỳ lạ.",
                 "Item2": "",
-                "Item3": "vật thí nghiệm"
+                "Item3": "cá thể thí nghiệm"
             }
         ]
     ],
     "pdaNotes": [
-        {
-            "Item1": "[BIOMETRIC REPORT - 25##-11-19-18-49-58-4587]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: vật thí nghiệm\n<>\n[CONTENTS]\n\nThe stable biological version of our newest project is ready.\nIt appears that, mentally, there wasn't and will be nothing left of our original human volunteer, not to mention the rest of the subjects.\nDespite that, they seem to be learning fast, and are not retaliating.\n<>\nThe DNA combination caused the vật thí nghiệm to be considerably smaller in stature than a human person, and lack fat and muscle mass.\nDespite this, it's muscle and bone density is much higher. This will assumbly result in the specimen being resilient to various forms of physical trauma... And give it a hard time swimming.\nIt has three protrusions at the back of its skull, of form similar to ear cartilage. Somehow, it has an ear structure similar to that of an avian - must've been lying around somewhere in the DNA we spliced.\nIt is thinly furred, and has pink-ish yellow-ish flesh, as seen on wounds and on the inside of the mouth.\nIts hands are some kind of combination between a canine's and a homosapiens'. I know one of my co-workers is going to enjoy the paws-\nSomehow, the bioluminescent eyes from our earlier prototypes of this species have stayed. We are yet to determine the exact effects this has on their sight.\n<>\nWe will soon clone this specimen 30 times to conduct destructive testing on the clones. We will leave a few to naturally reproduce, to save on resources.\n\n[END]",
+         {
+            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-11-19-18-49-58-4587]\n<>\nLỚP THỰC THỂ: Sinh học\nPHÂN LỚP THỰC THỂ: Sawian\nTÊN THỰC THỂ: Cá thể thí nghiệm\n<>\n[NỘI DUNG]\n\nPhiên bản sinh học ổn định của dự án mới nhất của chúng ta đã sẵn sàng.\nCó vẻ như, về mặt tinh thần, đã và sẽ không còn lại gì của tình nguyện viên con người ban đầu của chúng ta, chưa kể đến phần còn lại của các đối tượng.\nMặc dù vậy, chúng dường như học hỏi nhanh chóng, và không hề phản kháng.\n<>\nSự kết hợp DNA đã khiến Cá thể thí nghiệm có vóc dáng nhỏ hơn đáng kể so với một con người, và thiếu mỡ cũng như khối lượng cơ bắp.\nMặc dù vậy, mật độ cơ và xương của nó lại cao hơn nhiều. Điều này có thể dẫn đến việc mẫu vật có khả năng kháng cự với nhiều hình thức chấn thương thể chất khác nhau... Và khiến nó gặp khó khăn khi bơi.\nNó có ba phần nhô ra ở phía sau hộp sọ, có hình dạng tương tự như sụn tai. Bằng cách nào đó, nó có cấu trúc tai tương tự như của loài chim - chắc hẳn đã nằm quanh quẩn đâu đó trong DNA mà chúng ta đã ghép lại.\nNó có lớp lông mỏng, và có phần thịt màu vàng hơi hồng, như được thấy trên các vết thương và ở bên trong miệng.\nBàn tay của nó là một sự kết hợp nào đó giữa của một loài chó và một người tinh khôn. Tôi biết một trong những đồng nghiệp của tôi sẽ thích những đôi bàn chân này-\nBằng cách nào đó, đôi mắt phát quang sinh học từ các nguyên mẫu trước đó của chúng ta về loài này vẫn được giữ lại. Chúng ta vẫn chưa xác định được tác động chính xác của điều này lên thị lực của chúng.\n<>\nChúng ta sẽ sớm nhân bản mẫu vật này 30 lần để tiến hành thử nghiệm phá hủy trên các bản sao. Chúng ta sẽ để lại một số để sinh sản tự nhiên, nhằm tiết kiệm tài nguyên.\n\n[KẾT THÚC]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nSUBJECT: Announcement on befriending Sawians\nFROM: Project Manager\nTO: All Employees\n<>\n[CONTENTS]\n\nDear staff,\n\nIt has come to our attention that one of our employees had been consistently meeting up with a SAW-03 and disclosing private information to it. Not only was this an egregious breach of confidentiality, but having such relationships with the specimens is completely unacceptable. The scientist in question was swiftly terminated and the SAW-03 committed suicide shortly after.\n\nDo YOU have any Sawian friends? We are closing in on you. It's not too late to turn back. But if we catch you befriending them, you will meet the same fate.\n\nYours in good faith,\nProject Manager\n\n[END]",
+            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nCHỦ ĐỀ: Thông báo về việc kết bạn với người Sawian\nTỪ: Quản lý Dự án\nĐẾN: Toàn thể Nhân viên\n<>\n[NỘI DUNG]\n\nKính gửi đội ngũ nhân viên,\n\nChúng tôi đã nhận được sự chú ý rằng một trong những nhân viên của chúng ta đã liên tục gặp gỡ một SAW-03 và tiết lộ thông tin riêng tư cho nó. Đây không chỉ là một sự vi phạm bảo mật nghiêm trọng, mà việc có những mối quan hệ như vậy với các mẫu vật là hoàn toàn không thể chấp nhận được. Nhà khoa học liên quan đã nhanh chóng bị chấm dứt hợp đồng và SAW-03 đã tự sát ngay sau đó.\n\nBẠN có người bạn Sawian nào không? Chúng tôi đang nhắm đến bạn. Giờ chưa phải quá muộn để dừng lại. Nhưng nếu chúng tôi bắt gặp bạn kết bạn với chúng, bạn sẽ gặp phải kết cục tương tự.\n\nTrân trọng,\nQuản lý Dự án\n\n[KẾT THÚC]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nSUBJECT: Too late for your questions\nFROM: Researcher\nTO: Psychologist\n<>\n[CONTENTS]\n\nI am writing to let you know that all of the Sawians that rioted last week have ALREADY been euthanized, so I'm afraid you will not be able to get your questions in.\n\nThey were already interviewed thoroughly, and they confessed that everything they knew came from that SAW-03, so the mystery is solved. Concerningly, some of the scientists they killed were their own handlers, and they admitted to targeting them on purpose. \n\nI heard security will be tightened up, so hopefully this mess will not happen again.\n\nRegards,\nResearcher\n\n[END]",
+            "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nCHỦ ĐỀ: Quá muộn cho những câu hỏi của bạn\nTỪ: Nhà nghiên cứu\nĐẾN: Nhà tâm lý học\n<>\n[NỘI DUNG]\n\nTôi viết thư này để cho bạn biết rằng tất cả những người Sawian đã nổi loạn vào tuần trước ĐÃ BỊ an tử, vì vậy tôi e rằng bạn sẽ không thể đưa ra các câu hỏi của mình.\n\nChúng đã được phỏng vấn kỹ lưỡng, và chúng thú nhận rằng mọi thứ chúng biết đều đến từ SAW-03 đó, vì vậy bí ẩn đã được giải quyết. Đáng lo ngại thay, một số nhà khoa học mà chúng giết lại là những người trực tiếp quản lý chúng, và chúng thừa nhận đã cố tình nhắm vào họ.\n\nTôi nghe nói an ninh sẽ được thắt chặt, vì vậy hy vọng mớ hỗn độn này sẽ không xảy ra nữa.\n\nTrân trọng,\nNhà nghiên cứu\n\n[KẾT THÚC]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-01-15-29-18-1058]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Meat-Consumption Report\n<>\n[CONTENTS]\n\nReduction of Corporate Waste Objective\n<>\n32 Sawians were recruited randomly among those at our site fro<corrupt:0xFFFFFF> Baseline characteristics were: 25 SAW-01, 4 SAW-05, 3 SAW-12. The subjects were randomly assigned to 8 groups of 4 subjects each. Each group were subject to one choice in three types of conditions: consuming Sawian or Terran meat, consuming raw or as soup, and observing or being ignorant of the source of the meat.\n\nMeat was sourced from the Indicent on [25##-12-30].\n<>\nWhile the SAW-01 and SAW-05 in all groups which consumed the Sawian meat, regardless of whether they observed the source of the meat, displayed extreme negative emotion upon consumption, the SAW-12 did not display the same negative emotions. No Sawians which consumed the terran meat displayed negative emotions, presumably as they did not recognize the meat as their own, although complaints were raised about eating noncooked food. No Sawians which consumed the meat in soup form displayed negative emotions, even if they had observed the source.\n\nThe SAW-12 displayed an aberrant apathy towards consuming raw Sawian meat, as expected. We might be able to repurpose discarded specimens as food for any SAW-12s on site.\n\n[END]",
+            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-04-01-15-29-18-1058]\n<>\nLỚP THỰC THỂ: Sinh học\nPHÂN LỚP THỰC THỂ: Sawian\nTÊN THỰC THỂ: Báo Cáo Tiêu Thụ Thịt\n<>\n[NỘI DUNG]\n\nMục tiêu Giảm thiểu Chất thải Doanh nghiệp\n<>\n32 Sawian đã được tuyển chọn ngẫu nhiên trong số tại cơ sở của chúng ta từ<corrupt:0xFFFFFF> Đặc điểm cơ bản là: 25 SAW-01, 4 SAW-05, 3 SAW-12. Các đối tượng được phân công ngẫu nhiên vào 8 nhóm, mỗi nhóm 4 đối tượng. Mỗi nhóm phải chịu một sự lựa chọn trong ba loại điều kiện: tiêu thụ thịt Sawian hoặc Terran, tiêu thụ sống hoặc dưới dạng súp, và quan sát hoặc không biết về nguồn gốc của thịt.\n\nThịt được lấy từ Sự Cố ngày [25##-12-30].\n<>\nTrong khi các SAW-01 và SAW-05 trong tất cả các nhóm tiêu thụ thịt Sawian, bất kể chúng có quan sát thấy nguồn gốc của thịt hay không, đều thể hiện cảm xúc tiêu cực cực độ khi tiêu thụ, thì SAW-12 không thể hiện những cảm xúc tiêu cực tương tự. Không có Sawian nào tiêu thụ thịt Terran thể hiện cảm xúc tiêu cực, được cho là vì chúng không nhận ra thịt là của đồng loại, mặc dù đã có những lời phàn nàn về việc ăn thức ăn không được nấu chín. Không có Sawian nào tiêu thụ thịt dưới dạng súp thể hiện cảm xúc tiêu cực, ngay cả khi chúng đã quan sát thấy nguồn gốc.\n\nSAW-12 đã thể hiện sự thờ ơ khác thường đối với việc tiêu thụ thịt Sawian sống, đúng như dự đoán. Chúng ta có thể có khả năng tái sử dụng các mẫu vật bị loại bỏ làm thức ăn cho bất kỳ SAW-12 nào có mặt tại cơ sở.\n\n[KẾT THÚC]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"vật thí nghiệm\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
+            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-04-08-09-06-08-0002]\n<>\nCHỈ MỤC CƠ SỞ DỮ LIỆU: Sổ đăng ký Dự án Sawian\nCHỈ MỤC PHỤ CƠ SỞ DỮ LIỆU: Các loài\n<>\n[NỘI DUNG]\n\n[DÀNH CHO TẤT CẢ THỰC THỂ TRONG SỔ ĐĂNG KÝ]\n- GHI ĐÈ LOẠI THỰC THỂ: Mẫu\n- LỚP THỰC THỂ: Sinh học\n- PHÂN LỚP THỰC THỂ: Sawian\n<>\nTÊN THỰC THỂ: SAW-01 \"Cá thể thí nghiệm\"\nSỐ LƯỢNG: [Không xác định]\n- Nguyên mẫu cuối cùng cho bước đột phá khổng lồ đầu tiên của chúng ta trong công nghệ sinh học.\nMột sự kết hợp DNA-Ghép tinh tế của một trong những con chuột thử nghiệm của chúng ta và một nhân viên cùng với thú cưng của họ.\nThuộc họ chó. Nhỏ và tương đối yếu ớt. Hèn nhát và sợ hãi. Không hữu ích cho bất cứ việc gì khác ngoài việc làm bia đỡ đạn.\n<>\nTÊN THỰC THỂ: SAW-02 \"Orange\"\nSỐ LƯỢNG: 52082\n- Một phiên bản đột biến của SAW-01. To lớn, cục súc, ngu ngốc và có bốn tay. Phù hợp với những công việc chân tay và bất kỳ thử nghiệm thể chất căng thẳng nào mà cái chết là điều không được xảy ra.\n<>\nTÊN THỰC THỂ: SAW-03 \"Milky\"\nSỐ LƯỢNG: 32184\n- SAW-01 đột biến được ghép với DNA sinh vật biển không xác định. Nhỏ bé, kiêu ngạo nhưng thông minh. Đặc tính thị lực xuất sắc. Tốt cho lao động trí óc.\n<>\nTÊN THỰC THỂ: SAW-04 \"Leapy\"\nSỐ LƯỢNG: 2046\n- SAW-01 đột biến được ghép với DNA của rêu. Phải mất một thời gian để đưa cái này vào một trạng thái phần nào đó ổn định được. Khởi phát ung thư tương đối nhanh của chúng khiến chúng gần như vô dụng đối với lao động. Đồng thời có rủi ro bỏ trốn.\n<>\nTÊN THỰC THỂ: SAW-05 \"Chompy\"\nSỐ LƯỢNG: 6084\n- SAW-03 đột biến được ghép với DNA của \"Shark\". Ăn thịt và sống dưới nước. Không có lông. Thân thiện một cách kỳ lạ. Tốt để giải quyết xung đột khi bạo lực là không mong muốn. Chiếc đuôi to lớn của chúng cản trở chúng nặng nề, xác nhận các lý thuyết đã có từ lâu của chúng ta.\n- Cá mập từng là một loài cá biển săn mồi. Chúng đã tuyệt chủng, nhưng DNA của chúng được giữ lại cho mục đích khoa học.\n<>\nTÊN THỰC THỂ: SAW-06 \"Roza\"\nSỐ LƯỢNG: 7848\n- SAW-01 đột biến được ghép với DNA của \"Băng Bộ Thú\". Nhiệt độ cơ thể thấp một cách kỳ lạ. Dễ thay đổi và dễ bị kích ứng, nhưng ngoan ngoãn khi không bị đe dọa. Chiếc đuôi vướng víu. Có những đặc điểm nữ tính thông thường, có thể là kết quả của sự pha trộn Băng Bộ Thú tương tác với DNA của trái đất.\n- Xem <corrupt:0xFFF853> để biết thêm chi tiết về \"Băng Bộ Thú\".\n\n[TRANG 1 TRONG 2]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
+            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-04-08-09-06-19-3953]\n<>\nCHỈ MỤC CƠ SỞ DỮ LIỆU: Sổ đăng ký Dự án Sawian\nCHỈ MỤC PHỤ CƠ SỞ DỮ LIỆU: Các loài\n<>\n[NỘI DUNG]\n\n[DÀNH CHO TẤT CẢ THỰC THỂ TRONG SỔ ĐĂNG KÝ]\n- GHI ĐÈ LOẠI THỰC THỂ: Mẫu\n- LỚP THỰC THỂ: Sinh học\n- PHÂN LỚP THỰC THỂ: Sawian\n<>\nTÊN THỰC THỂ: SAW-07 \"Voyager\"\nSỐ LƯỢNG: 3604\n- SAW-01 đột biến với DNA của họ mèo được ghép vào. Một kẻ khốn nạn nổi bật. Chúng ghét các loài khác vì lý do nào đó, nhưng lại đánh giá cao chúng ta. Rất nhanh nhẹn, nhưng chúng không có nhiều rủi ro bỏ trốn. Chúng thích lẩn trốn, gây nhiều bất lợi cho các quy trình thử nghiệm của chúng ta.\n<>\nTÊN THỰC THỂ: SAW-08 \"Baron\"\nSỐ LƯỢNG: 73\n- SAW-02 đột biến được ghép với DNA của <corrupt:0xFFDED0>. Cao lớn. Bằng khoảng hai lần kích thước của một con người. Cực kỳ mạnh mẽ, nhưng lại ổn định về mặt cảm xúc. Mặc dù không phải là rủi ro bỏ trốn, việc giữ chúng theo một giao thức chặt chẽ hơn được khuyến nghị. Kích thước của chúng khiến chúng khó bị nhân bản và sinh sản - tránh giết chết nếu có thể.\n<>\nTÊN THỰC THỂ: <corrupt:0xFFFFEA>\nSỐ LƯỢNG: 3067\n- SAW-03 đột biến được ghép với DNA giống côn trùng. Xương rỗng. Màu lông hồng tươi sáng đến kỳ lạ. Có các phần phụ giống như cánh và các đặc điểm giống côn trùng. Chúng có xu hướng hành động như những kẻ khó ưa, mặc dù có vẻ không ác ý. Vẻ ngoài của chúng dường như thu hút ánh nhìn của các sawian khác.\n<>\nTÊN THỰC THỂ: SAW-10 \"Crystal\"\nSỐ LƯỢNG: 2360\n- SAW-06 đột biến được ghép với DNA của thằn lằn. Có các mảng cứng, giống như pha lê mọc khắp trên cơ thể. Chiếc lưỡi dài, cực kỳ dính, đủ bền để giữ trọng lượng cơ thể của chúng. Chúng dường như thích treo mình trên trần nhà vì một lý do nào đó. Thử nghiệm tâm thần vẫn chưa được thực hiện, nhưng chúng có vẻ hơi kiêu ngạo. Cùng các đặc điểm nữ tính như SAW-06.\n<>\nTÊN THỰC THỂ: SAW-11 \"Velvet\"\nSỐ LƯỢNG: 158\n- SAW-06 đột biến được ghép với DNA của động vật chân đốt. Trông giống con nhện theo cách thông thường. Có rất ít thử nghiệm được thực hiện trên chúng, vì thường làm các nhân viên sợ hãi, cả qua hành vi và ngoại hình. Yêu cầu giao thức nghiêm ngặt - một người gác cổng không may mắn được báo cáo là đã bị dụ dỗ tiếp xúc với một SAW-11. Cái xác bị ăn mất một nửa của anh ta đã được tìm thấy vài giờ sau đó, với những vết máu có thể nhìn thấy xung quanh tất cả các khoang chứa SAW-11 trong cùng một đơn vị.\n<>\nTÊN THỰC THỂ: SAW-12 \"Dune\"\nSỐ LƯỢNG: 1839\n- SAW-05 đột biến được ghép với DNA của động vật chân đốt. CẦN GIAO THỨC NGHIÊM NGẶT - Nhiều vụ giết nhân viên và sawian đã được báo cáo. Chỉ tiếp xúc từ xa và với một vũ khí sát thương. Đừng để vẻ ngoài của chúng đánh lừa bạn. Chúng có xu hướng ăn thịt đồng loại và có cơn đói gần như không thể thỏa mãn. Trí thông minh rất kém của chúng chỉ làm nổi bật sự thật đó. Phần lớn quần thể của chúng được lên kế hoạch trục xuất đến <corrupt:0xFF0011> để đảm bảo sự an toàn cho nhân viên của chúng ta, vì việc loại bỏ tất cả chúng là không khả thi.\n<>\nTÊN THỰC THỂ: SAW-13 \"Shelly\"\nSỐ LƯỢNG: 784\n- SAW-10 đột biến được ghép với DNA của động vật chân đốt. Đừng sợ vẻ ngoài của chúng - SAW-10 thường rất hiền lành. Chúng không có miệng và dường như sống dựa vào bức xạ nền. Chúng không thể nói được, nhưng dường như có trí thông minh tương đối cao. Khuyến nghị các nhân viên biết Ngôn ngữ Ký hiệu Toàn cầu tiến hành thử nghiệm chúng. Lớp vỏ của chúng hạn chế sự sinh sản, nhưng việc nhân bản chúng vẫn tương đối dễ dàng. Hạn chế thử nghiệm phá hủy nếu có thể.\n<>\n[TRANG 2 TRONG 2]",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA takes a moment to load. A warning about drive integrity is the first thing you notice.)<>\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Lead Engineer <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nOWNERS NOTE: \n\nWe've made a breakthrough concerning the nanotechnological status chip. WE FINALLY DID IT! Testing on rats by the biological division showed that they could in fact react to their biological status and perform tasks as they reach certain biological value   <corrupt:0xFFFFFF>     <corrupt:0xFFFFFF>   mazing what human determination can accomplish with nearly unlimited funding. I honestly can't imagine how many people this tech could help keep better care of themselves. If our new Sawian program goes well, we could test the <corrupt:0xFFFD5E> on them.\n<>\nNOTED CHIP SPECIFICATIONS: \n\nThe <corrupt:0xFFFD5E> is an irregular plate wi        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   onstructed in such a way that it can be implemented near the brain at the back of the head. Two possible configurations have been created so far, one on the inside of the skull and one on the outside. Both variants connect to neurons via elastic conductive nanorods.\n\n<corrupt:0xFFFD5E> works by intaking certain electrical signals from the brain, boosting those signals,  processing received information, and then outputting final data to the brain's visual cortex, creating a loop allowing for direct viewing of bodily functions by the patient. This data includes heart rate, skin irritation, muscle irritation, oxygen exchang   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   <corrupt:0xFFFD5E> 's power source is currently a small secured battery based on company <corrupt:0xFFBD5A> patent. Since it recharges itself using the background radiation, it should last indefinitely unless damaged.<>\n\nThe production cost is estimated to b   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>           tion is based on the fact that most internal components and the nanoprocessor are already being produced for other unrelated products.\n\nThe <corrupt:0xFFFD5E> has modular slots for other chip attachments, leaving it easily expandable for the future.\n<>\nATTACHED CHIP BLUEP   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(The PDA suddenly seizes up and shuts off.)",
+            "Item1": "(PDA mất một lúc để tải. Một cảnh báo về tính toàn vẹn của ổ đĩa là thứ đầu tiên bạn nhận thấy.)<>\n\n[TIN NHẮN NỘI BỘ]\n[DỰ ÁN <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nĐỊA ĐIỂM: <corrupt:0xFBC00F> Bộ Phận Sinh Trắc Học\nNGÀY: <corrupt:0xFFFFFF>\nCHỦ SỞ HỮU: Kỹ sư Trưởng <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nGHI CHÚ CỦA CHỦ SỞ HỮU:\n\nChúng ta đã tạo ra một bước đột phá liên quan đến con chip trạng thái bằng công nghệ nano. CHÚNG TA CUỐI CÙNG ĐÃ LÀM ĐƯỢC! Các thử nghiệm trên chuột của bộ phận sinh học cho thấy chúng thực sự có thể phản ứng với trạng thái sinh học của chúng và thực hiện các nhiệm vụ khi chúng đạt được giá trị sinh học nhất định   <corrupt:0xFFFFFF>     <corrupt:0xFFFFFF>   inh ngạc những gì lòng quyết tâm của con người có thể đạt được với nguồn tài trợ gần như vô hạn. Tôi thực sự không thể tưởng tượng công nghệ này có thể giúp bao nhiêu người có thể tự chăm sóc bản thân tốt hơn. Nếu chương trình Sawian mới của chúng ta diễn ra suôn sẻ, chúng ta có thể thử nghiệm <corrupt:0xFFFD5E> trên chúng.\n<>\nTHÔNG SỐ KỸ THUẬT CỦA CHIP ĐƯỢC GHI CHÚ:\n\n<corrupt:0xFFFD5E> là một tấm đĩa có hình dạng không đều vớ        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   ược cấu trúc theo cách có thể được tíhc hợp gần não ở phía sau đầu. Cho đến nay, có hai cấu hình có thể được tạo ra, một ở bên trong hộp sọ và một ở bên ngoài. Cả hai đều kết nối với các tế bào thần kinh thông qua các thanh nano dẫn điện đàn hồi.\n\n<corrupt:0xFFFD5E> hoạt động bằng cách tiếp nhận một số tín hiệu điện nhất định từ não, khuếch đại các tín hiệu đó, xử lý thông tin nhận được, và sau đó xuất dữ liệu cuối cùng tới vỏ não thị giác của não, tạo ra một vòng lặp cho phép bệnh nhân quan sát trực tiếp các chức năng cơ thể. Dữ liệu này bao gồm nhịp tim, sự kích ứng da, sự kích ứng cơ bắp, sự trao đổi oxy   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   nguồn điện của <corrupt:0xFFFD5E> hiện là một pin nhỏ an toàn dựa trên bằng sáng chế của công ty <corrupt:0xFFBD5A>. Vì nó tự sạc lại bằng bức xạ nền, nó sẽ tồn tại vô thời hạn trừ khi bị hỏng.<>\n\nChi phí sản xuất ước tính khoả   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>          oán dựa trên thực tế là hầu hết các thành phần bên trong và bộ xử lý nano đã được sản xuất cho các sản phẩm không liên quan khác.\n\n<corrupt:0xFFFD5E> có các khe cắm mô-đun cho các chip đính kèm khác, giúp nó có thể dễ dàng mở rộng trong tương lai.\n<>\nBẢN THIẾT KẾ CHI TIẾT ĐÍNH KÈ   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF VI PHẠM TRUY CẬP BỘ NHỚ><>\n\n\n(PDA đột ngột bị treo và tắt.)",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nSUBJECT: Congratulations!!\nFROM: <corrupt:0xFF0BEA>\nTO: GROUP <corrupt:0xFC0002>\n<>\n[CONTENTS]\n\nDear scientists,\n\nThe creation of a gonosimulistic (use the term correctly) mammal capable of asexual reproduction is an astonishing breakthrough of science. This has never been seen before in nature. Not sure we can call them mammals anymore... It proves to me and to <corrupt:0x0001FC> that there is nothing this team cannot do.\n\nI wish to thank everybody who contributed to this amazing feat. It greatly reduces the cost and complexity of their production, as it is not necessary to create and organize separate male and female Sawians. The lack of sex drive also curbs overpopulation and avoids any incidents while still allowing them to reproduce.\n<>\nYou can expect a reward from me soon.\n\nYours in good faith,\n<corrupt:0xFF0BEA>\n<>\n[ATTACHMENTS]\n\nREF: [INTERNAL MEMORANDUM - 25##-12-07-09-12-40-0157]\n\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\n<>\n[CONTENTS]\n\nThis memorandum establishes mandatory terminology policy regarding the Sawian species and supersedes all prior documentation, annotations, and informal usage.\n\nEffective immediately, the term \"hermaphrodite\" is **banned in all corporate communications**, including scientific, operational, cultural, and casual contexts. The sole exception is explicit historical reference (e.g., quotations, legacy documentation analysis, or discussion of obsolete Earth taxonomies), which must be clearly labeled as such.\n\nThe approved descriptor for Sawian reproductive biology is \"gonosimulistic.\"  \nContext-dependent alternatives include \"cosexual\" and \"monoecious.\"\n\nUse of the term outside of these narrow historical contexts is considered inappropriate, reductive, and professionally suspect. This introduces avoidable interpretive risk and will be reviewed under the Stakeholder-Facing Language Control Framework.\n<>\nNo human naturally possesses two fully functional reproductive systems. The appropriate human medical and social term is \"intersex\", not \"hermaphrodite\". The latter term originated from the mythological figure Hermaphroditus and has long been associated with stigma, violence, and dehumanization. This includes the use of this term to refer to animals, thus equating intersex humans with animals. This has thus proven volatile in public, academic, and media-facing environments.\n<>\nThe application of this term to non-human species arose from that same framework and is therefore neither neutral nor acceptable, regardless of biological differences.\n<>\nWhile historical alternatives exist, such as \"eunuch\", \"bisexual\", and \"androgyny\", these have taken on new meanings and connotations and are not appropriate to use in this way either.\n\nDo not project human gender or sex frameworks onto Sawian subjects. Reproductive biology does not imply gender identity, presentation, orientation, or social function.\n\nReproductive terminology is not casual vocabulary and should not be treated as such.\n<>\nThis policy does not constitute a moral position, medical guidance, or cultural endorsement. Its purpose is strictly to ensure consistency, reduce ambiguity, and protect the organization from reputational exposure.\n\n[ATTACHMENTS END]\n\n[END]",
+            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nCHỦ ĐỀ: Xin chúc mừng!!\nTỪ: <corrupt:0xFF0BEA>\nĐẾN: NHÓM <corrupt:0xFC0002>\n<>\n[NỘI DUNG]\n\nKính gửi các nhà khoa học,\n\nViệc tạo ra một loài động vật có vú đồng thời tính (hãy sử dụng thuật ngữ này một cách chính xác) có khả năng sinh sản vô tính là một bước đột phá đáng kinh ngạc của khoa học. Điều này chưa từng được thấy trước đây trong tự nhiên. Không chắc chúng ta có thể gọi chúng là động vật có vú nữa không... Nó chứng minh cho tôi và cho <corrupt:0x0001FC> rằng không có gì mà nhóm này không thể làm được.\n\nTôi muốn cảm ơn tất cả những ai đã đóng góp vào kỳ tích tuyệt vời này. Nó làm giảm đáng kể chi phí và sự phức tạp trong quá trình sản xuất chúng, vì không cần thiết phải tạo ra và sắp xếp các Sawian đực và cái riêng biệt. Sự thiếu hụt ham muốn tình dục cũng kiềm chế tình trạng bùng nổ dân số và tránh bất kỳ sự cố nào trong khi vẫn cho phép chúng sinh sản.\n<>\nCác bạn có thể mong đợi một phần thưởng từ tôi sớm thôi.\n\nTrân trọng,\n<corrupt:0xFF0BEA>\n<>\n[TỆP ĐÍNH KÈM]\n\nTHAM KHẢO: [BẢN GHI NHỚ NỘI BỘ - 25##-12-07-09-12-40-0157]\n\nLỚP THỰC THỂ: Sinh học\nPHÂN LỚP THỰC THỂ: Sawian\n<>\n[NỘI DUNG]\n\nBản ghi nhớ này thiết lập chính sách thuật ngữ bắt buộc liên quan đến loài Sawian và thay thế cho tất cả các tài liệu, chú thích và cách sử dụng không chính thức trước đây.\n\nCó hiệu lực ngay lập tức, thuật ngữ \"lưỡng tính\" bị **cấm trong mọi giao tiếp của công ty**, bao gồm các bối cảnh khoa học, hoạt động, văn hóa và thông thường. Ngoại lệ duy nhất là tài liệu tham khảo lịch sử rõ ràng (ví dụ: trích dẫn, phân tích tài liệu cũ, hoặc thảo luận về các hệ thống phân loại Trái đất lỗi thời), phải được dán nhãn rõ ràng như vậy.\n\nThuật ngữ mô tả được phê duyệt cho sinh học sinh sản của Sawian là \"đồng thời tính\" (gonosimulistic).  \nCác lựa chọn thay thế phụ thuộc vào ngữ cảnh bao gồm \"đồng giới\" và \"đơn tính cùng gốc\".\n\nViệc sử dụng thuật ngữ bên ngoài những bối cảnh lịch sử hẹp này được coi là không phù hợp, rút gọn và bị nghi ngờ về mặt chuyên môn. Điều này tạo ra rủi ro diễn giải có thể tránh được và sẽ được xem xét theo Khung Kiểm soát Ngôn ngữ Đối mặt với Các Bên liên quan.\n<>\nKhông có con người nào sở hữu tự nhiên hai hệ thống sinh sản đầy đủ chức năng. Thuật ngữ y học và xã hội phù hợp cho con người là \"liên giới tính\", không phải \"lưỡng tính\". Thuật ngữ sau này bắt nguồn từ nhân vật thần thoại Hermaphroditus và từ lâu đã gắn liền với sự kỳ thị, bạo lực và sự phi nhân hóa. Điều này bao gồm việc sử dụng thuật ngữ này để chỉ động vật, do đó đánh đồng con người liên giới tính với động vật. Do đó, điều này đã được chứng minh là dễ gây biến động trong môi trường công cộng, học thuật và truyền thông.\n<>\nViệc áp dụng thuật ngữ này cho các loài không phải con người nảy sinh từ cùng một khuôn khổ đó và do đó không mang tính trung lập cũng như không được chấp nhận, bất kể sự khác biệt sinh học.\n<>\nMặc dù tồn tại các lựa chọn thay thế trong lịch sử, chẳng hạn như \"thái giám\", \"song tính\" và \"lưỡng tính nam nữ\", những thuật ngữ này đã mang những ý nghĩa và hàm ý mới và việc sử dụng chúng theo cách này cũng không phù hợp.\n\nKhông phản chiếu các khuôn khổ về giới hoặc giới tính của con người lên các đối tượng Sawian. Sinh học sinh sản không ngụ ý về bản dạng giới, sự thể hiện, khuynh hướng hoặc chức năng xã hội.\n\nThuật ngữ sinh sản không phải là từ vựng thông thường và không nên được coi như vậy.\n<>\nChính sách này không cấu thành lập trường đạo đức, hướng dẫn y tế hay sự chứng thực về văn hóa. Mục đích của nó là tuyệt đối đảm bảo tính nhất quán, giảm thiểu sự mơ hồ và bảo vệ tổ chức khỏi rủi ro về uy tín.\n\n[KẾT THÚC TỆP ĐÍNH KÈM]\n\n[KẾT THÚC]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-06-21-18-20-06-1075]\n<>\nSUBJECT: <corrupt:0xFFFFFF>\nFROM: <corrupt:0xFFF0CE>\nTO: <corrupt:0xFA05F2>\n<>\n[CONTENTS]\n\nGood morning.\nAs per my last e-mail, I am highly concerned with the rate at which our manufacturing division is producing designs for plush toys. I understand that having multiple sapient designs has been good at diverting attention to our current objectives, along with confusing any attempts at leaking information, I've ran ballpark numbers and have noticed that of our current budget; 43.7% of it is going towards research and development for these toys.\n\nAs you should know, we've already been dealing with a deficit thanks to the food we've been importing for the Sawians. I understand that keeping the public in the dark about our actions is the primary agenda but when we could be spending <corrupt:0xFFFFFF> on actually feeding the specimens and avoiding any unrest within them, I see little reason to be funnelling this much money into these toys.\n<>\nRegards,\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000>\n<corrupt:0xMEM ACCESS VIOLATION>",
+            "Item1": "[EMAIL - 25##-06-21-18-20-06-1075]\n<>\nCHỦ ĐỀ: <corrupt:0xFFFFFF>\nTỪ: <corrupt:0xFFF0CE>\nĐẾN: <corrupt:0xFA05F2>\n<>\n[NỘI DUNG]\n\nChào buổi sáng.\nTheo email cuối cùng của tôi, tôi vô cùng lo ngại về tốc độ mà bộ phận sản xuất của chúng ta đang tạo ra các thiết kế cho đồ chơi nhồi bông. Tôi hiểu rằng việc có nhiều thiết kế mang tính tri giác là tốt để chuyển hướng sự chú ý khỏi các mục tiêu hiện tại của chúng ta, cùng với việc gây nhầm lẫn cho bất kỳ nỗ lực rò rỉ thông tin nào, tôi đã chạy những con số xấp xỉ và nhận thấy rằng trong ngân sách hiện tại của chúng ta; 43,7% trong số đó được dành cho nghiên cứu và phát triển những đồ chơi này.\n\nNhư các bạn nên biết, chúng ta đã phải đối mặt với tình trạng thâm hụt nhờ vào lượng thực phẩm mà chúng ta đã nhập khẩu cho các Sawian. Tôi hiểu rằng việc giữ cho công chúng không biết gì về hành động của chúng ta là chương trình nghị sự chính nhưng khi chúng ta có thể dành <corrupt:0xFFFFFF> cho việc thực sự nuôi sống các mẫu vật và tránh bất kỳ sự bất ổn nào trong số chúng, tôi thấy rất ít lý do để rót quá nhiều tiền vào những món đồ chơi này.\n<>\nTrân trọng,\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000>\n<corrupt:0xVI PHẠM TRUY CẬP BỘ NHỚ>",
             "Item2": ""
         },
         {
-            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won't stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I'd recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You've solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
+            "Item1": "[Nhật ký kiểm kê 11-34X]\n[Các biện pháp lưu giữ nhân sự tại chỗ]\n--------------------------------------------------------<>\nThiết bị từ chối truy cập khu vực bằng khí nén RR-104 - \"Bẫy Gai\"\n\nMột thanh thép sắc nhọn (dài 180 cm, đường kính 10 cm) được gắn vào một cơ chế phóng, có khả năng kéo dài gai hoàn toàn trong 0,3 giây.\nNhằm mục đích gây ra các vết thương xuyên thủng gây vô hiệu hóa, ngay lập tức tước đi khả năng di chuyển của mục tiêu. Được kích hoạt bởi một cảm biến chuyển động.\n\n[Ghi chú: Thật ngu ngốc. Những thứ này có thể được nhìn thấy từ cách xa cả dặm, và cơ chế phóng yêu cầu phải nạp lại chỉ sau một lần sử dụng. Nó sẽ không ngăn được bất cứ thứ gì ngoài những kẻ trốn thoát chậm não nhất. Dự án bị ngừng. Hãy vứt nguồn cung đi.]\n--------------------------------------------------------<>\nBộ phân phối đạn đạo dẫn đường bằng nhiệt TG-22 - \"Tháp Pháo\"\n\nMột khẩu súng trường cỡ nòng 9mm được gắn vào bệ đỡ thương hiệu <corrupt:0xFB387A>.\nCơ chế bắn được điều khiển bởi một cảm biến nhiệt có tầm xa 100 mét.\nBao gồm các biến thể sử dụng đạn cỡ lớn hơn để sử dụng trên thực địa, nhưng cỡ 9mm là đủ cho thời điểm hiện tại.\n\n[Ghi chú: Bạn cắm một khẩu súng lên đỉnh một chiếc camera tầm nhiệt. Nhưng nó hiệu quả. Tôi khuyên bạn nên sử dụng cỡ nòng lớn hơn, do những mẫu vật mới nổi gần đây của chúng ta. Tuy nhiên, điều này sẽ không được. Bạn đã giải quyết được vấn đề hiệu quả, nhưng khả năng sát thương của nó không phải là một tính năng mong muốn. Cả các Đối tượng và nhân viên đều gây rủi ro về an ninh, nhưng chúng không phải là không có giá trị.]\n--------------------------------------------------------<>\nHệ thống thực thi tuân thủ âm thanh DD-6X1 - \"Pháo Âm Thanh\"\n\nMột chiếc loa định hướng đã được sửa đổi sử dụng các dãy tụ điện năng suất cao. Được thiết kế để thực thi sự tuân thủ nhanh chóng thông qua kích thích bằng âm thanh.\nPhơi nhiễm gây mất kiểm soát vận động ngay lập tức, xuất huyết trong từ nhẹ đến trung bình, và đau đớn dữ dội.\nCông suất đầu ra chỉ được liệt kê trong tài liệu hạn chế.\n\n[Ghi chú: Cái này sẽ được.]",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a \"bzzzz\" sound and can see faint smoke rising from the device.)",
+            "Item1": "(PDA bị hỏng; màn hình bị nứt và một số thiết bị điện tử bị lộ ra ngoài. Với một chút nỗ lực, bạn có thể khởi động lại nó.)\n\n[TIN NHẮN NỘI BỘ]\n[DỰ ÁN <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nĐỊA ĐIỂM: <corrupt:0xFBC00F> Bộ Phận Sinh Trắc Học\nNGÀY: <corrupt:0xFFFFFF>\nCHỦ SỞ HỮU: Kỹ sư Cơ khí <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nTIN NHẮN TRÊN MẠNG GIAO TIẾP NỘI BỘ\n\n\nTỪ: <corrupt:0xFFFFFF>\nĐẾN:  <corrupt:0xFA05F2>\n\nTôi không thích điều này chút nào. Nhiệm vụ chính của chúng ta trong quý này là phát triể <corrupt:0xFFF0CE> Vậy tại sao chúng ta lại quay lại đây. Tôi đã lên kế hoạch cho kỳ nghỉ một tuần cùng bạn bè và phải hủy những kế hoạch đó vì một s <corrupt:0xFFFFFF> ở đợi? Nhiệm vụ hiện tại này cũng mờ ám chết đi được. Tôi có thể hiểu việc mở rộng nền tảng thần kinh mới của chúng ta để cải thiện cho bệnh nhân, nhưng \"p <corrupt:0xFF0BEA> i này là dành cho ai? Tù nhân? Ý tôi là chính phủ của chúng ta, thậm chí cả công ty của chúng ta cũng sẽ không đưa thứ này vào gói dân sự đúng không? Có lẽ nó dành cho quân đội? Để họ có thể ra những mệnh lệnh cơ bản trực tiếp cho binh lính và đảm bảo rằng mọi người không làm rò rỉ thông tin bị hạn chế? Ngay cả đ <corrupt:0xFBC00F> Dù sao thì có vẻ như chúng ta phải tìm ra cách cho phép truyền thông tin tốt hơn trong khi sử dụng pin cơ bản của mình. Thực ra thì quên đi, Họ muốn phần tiện ích bổ sung này được sử dụng để kiểm soát với một biện pháp bảo vệ sát thương, đúng không? Vậy thì chúng t <corrupt:0xFFFFFF> ch này chúng ta sẽ có hai nguồn điện với khả năng gây mất ổn định một trong số chúng bằng cách sạc quá mức. Tôi sẽ phác thảo một cái gì đó, cho tôi biết kh\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF VI PHẠM TRUY CẬP BỘ NHỚ><>\n\n\n(Bạn nghe thấy âm thanh \"bzzzz\" và có thể thấy làn khói mờ bốc lên từ thiết bị.)",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA looks like it's barely holding on)\n\n[INTERNAL MESSAGE]\n[NEUROLOGIC <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFFFFFF> Surgery Bureau\nDATE: <corrupt:0xFBC00F>\nDECLARED OWNER: Designated Lab <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nHey, looks like we got an update on the current assignment. We are to refrain from installing those new \"punishment\" chips i <corrupt:0xFFFFFF> ming Sawians. Leadership wants to test how they'll behave with no oversight from the company. However, they still want us to implement the platforms. Why just the platforms and not the addons? My guess is tha <corrupt:0xFA05F2> ack, some food for thought. Anyway, once you're ready with this batch come by the cafeteria, apparently today they'll be serving some <corrupt:0xFFFFFF> with <corrupt:0xFFF0CE>. Also don't worry about more subjects coming in today, apparently training grounds are locked up for the day because of some incident. Apparen\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FA INTERNAL STORAGE DAMAGE><>\n\n(PDA turns off.)",
+            "Item1": "(Cái PDA trông như nó sắp hỏng vậy)\n\n[INTERNAL MESSAGE]\n[NEUROLOGIC <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nVỊ TRÍ: <corrupt:0xFFFFFF>Phòng phẫu thuật\nNGÀY: <corrupt:0xFBC00F>\nCHỦ SỞ HỮU: Phòng thí nghiệm được chỉ định <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nTIN NHẮN TRÊN MẠNG LƯỚI TRUYỀN THÔNG NỘI BỘ\n\nTỪ: <corrupt:0xFFFFFF>\nĐẾN:  <corrupt:0xFA05F2>\n\nNày, có vẻ như chúng ta vừa nhận được thông tin cập nhật về nhiệm vụ hiện tại. Chúng ta phải ngưng việc cài những con chip \"trừng phạt\" lên những con Sawian s <corrupt:0xFFFFFF> ới. Ban lãnh đạo muốn kiểm tra xem họ sẽ hành xử như thế nào khi không có sự giám sát từ công ty. Tuy nhiên, họ vẫn muốn chúng ta triển khai các nền tảng. Tại sao chỉ triển khai nền tảng mà không phải các tiện ích bổ sung? Tôi đoán là ch <corrupt:0xFA05F2> ại , cũng đáng suy nghĩ đấy. Dù sao thì, khi nào bạn hoàn thành xong đợt này thì hãy đến căng tin, hình như hôm nay họ sẽ phục vụ món <corrupt:0xFFFFFF> cùng với <corrupt:0xFFF0CE>. Cũng đừng lo lắng về việc có thêm học viên đến hôm nay, hình như khu huấn luyện đã bị khóa cả ngày vì một sự cố nào đó. Hiện\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FA HƯ HỎNG BỘ NHỚ TRONG><>\n\n(Thiết bị PDA tắt đi.)",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-1-25-9-06-42-2810]\n<>\nSUBJECT: Watch it!\nFROM: <corrupt:0xFBF010>\nTO: <corrupt:0xFF0BEA>\n<>\n[CONTENTS]\n\nBe careful how you spend company money. Uncle Sam is nosy. I had to sit through a very uncomfortable phone call because of you. All this food is making them suspicious, and I would rather admit to anything BUT what we're actually doing.\n\n<corrupt:0xFBF010>\n\n[END]",
+            "Item1": "[EMAIL - 25##-1-25-9-06-42-2810]\n<>\nCHỦ ĐỀ: Xem chừng nó!\nTỪ: <corrupt:0xFBF010>\nĐẾN: <corrupt:0xFF0BEA>\n<>\n[NỘI DUNG]\n\nHãy xem lại cách mà bạn tiêu tiền của công ty đi. Chú Sam hay soi mói mấy vụ này lắm đấy. Tôi đã phải trải qua một cuộc điện thoại rất khó chịu bởi vì anh. Tất cả món đồ ăn này khiến họ nghi ngờ, và tôi thà thừa nhận bất cứ điều gì KHÁC với việc chúng ta thực sự đang làm gì.\n\n<corrupt:0xFBF010>\n\n[KẾT THÚC]",
             "Item2": ""
         },
         {
-            "Item1": "(As you tap the PDA screen a few times, it starts to boot up in emergency mode.)\n\n[INTERNAL MESSAGE]\n[LAW <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCATION: LAW FIRM O<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFBC00F>\nDECLARED OWNER: Lawyer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFFFFFF><>\n\nThis is insane. Recent bulk orders of different foods and ingredients, brought so much unnecessary attention to us that god da <corrupt:0xFA05F2> at us. Do you understand that if the government finds out about the hybrids we are done for? I can explain the water or bananas, hell I won't have a problem with explaining those tankers of chocolate milk. Do you want to know what won't be so easy to explain? WHY 2 FULL SEMI TRUCKS OF DOG FOOD WERE UNLOADED JUST THIS EVENING BY THE WAREHOUSES. What am I supposed to say to <corrupt:0xFA05F2>  eird orders? \"Oh don't worry, it's just because the company had declared record profits this year and wanted to stock up on food for the future\". I'm not joking, that's one of the ideas that I got fro <corrupt:0xFFFFFF> It's like those people are deaf and can't hear their own stupid ideas. What do you mean \"stock up on food\"? We have at most <corrupt:0xFFFFFF> ogs on this site, this one order would be enough to feed them, their pups and their pups pups. We'll have to improvise, tell them about bioenergy, confuse their senile executives with professional language and pretend that most of those <corrupt:0xFBC00F> reactors. We can't slip up her \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE RANDOM-ACCES MEMORY FAILURE><>\n\n(The PDA turns off with unpleasant noises accompanying it.)",
+            "Item1": "(Bạn chạm vào màn hình của thiết bị PDA vài lần, nó bắt đầu khởi động ở chế độ khẩn cấp.)\n\n[THÔNG ĐIỆP NỘI BỘ]\n[LUẬT <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nVỊ TRÍ: LUẬT CÔNG TY O<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFBC00F>\nCHỦ SỞ HỮU: Luật sư <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nTIN NHẮN TRÊN MẠNG LƯỚI TRUYỀN THÔNG NỘI BỘ\n\nTỪ: <corrupt:0xFFFFFF>\nĐẾN:  <corrupt:0xFFFFFF><>\n\nĐiều này thật điên rồ. Những đơn đặt hàng số lượng lớn các loại thực phẩm và nguyên liệu khác nhau gần đây đã thu hút quá nhiều sự chú ý không cần thiết đến mức <corrupt:0xFA05F2> đến chúng tôi. Anh có hiểu rằng nếu chính phủ phát hiện ra chuyện lai tạp thì chúng ta tiêu đời không? Tôi có thể giải thích về nước hay chuối, thậm chí tôi cũng không gặp vấn đề gì khi giải thích về những xe bồn chở sữa sô cô la. Anh có muốn biết điều gì sẽ khó giải thích hơn không? TẠI SAO HAI XE TẢI CHỨA ĐẦY THỨC ĂN CHO CHÓ VỪA ĐƯỢC DỠ RA TẠI CÁC KHO HÀNG TỐI NAY? ​​Tôi phải nói gì với <corrupt:0xFA05F2>  về mấy đơn đặt hàng kỳ lạ này? \"Ồ đừng lo, Đơn giản là vì công ty đã công bố mức lợi nhuận kỷ lục trong năm nay và muốn tích trữ lương thực cho tương lai.\". Tôi còn chẳng đùa cơ, đó là một trong những ý tưởng mà tôi có được từ <corrupt:0xFFFFFF> It's like those people are deaf and can't hear their own stupid ideas. Ý bạn \"tích trữ lương thực\" là sao? Chúng ta chỉ có <corrupt:0xFFFFFF> hó ở khu vực này, một đơn hàng này đủ để nuôi chúng, con của chúng và cả con của con chúng nữa. Chúng ta phải ứng biến, nói với họ về năng lượng sinh học, làm cho mấy ông giám đốc già lẩm cẩm của họ bối rối bằng ngôn ngữ chuyên ngành và giả vờ rằng hầu hết những <corrupt:0xFBC00F> lò phản ứng. Chúng ta không được phép phạm sai lầm với cô ấy \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE LỖI TRUY CẬP BỘ NHỚ RAM><>\n\n(Thiết bị PDA tắt ngấm đi kèm theo những tiếng ồn khó chịu.)",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA seems to be extremely damaged)\n<>\n[RECEIVED DIRECTIVE]\n[SPACE <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCATION: UNDER G<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\nWARNING SITE PERSONNEL\n\nAN ACCIDENT HAPPENED TODAY I <corrupt:0xFFFFFF> \n\nALL TESTS CONCERN <corrupt:0xFFFFFF> RE TO BE HALTED. \nEFFECTIVE IMMEDIATELY\n<>\nINCIDENT REPORT:\n\nOn <corrupt:0xFFFFFF> during routine tests on the drop pod capsules codename <corrupt:0xFFFFFF> there was an unexpected anomaly concerning the telepo <corrupt:0xFFFFFF>\nThe pod was teleported partially into a wall, destabilizing the tele-landing procedure and causing a brief black-hole pr <corrupt:0xFFFFFF>ecause o <corrupt:0xFFFFFF> a number of scientists and engineers suffered extreme damage caused by the implosion. The sawian occupying the pod did not survive.\n\nFrom now on all teleportation tech resear   <corrupt:0xFFFFFF>topped until further notice. Unit <corrupt:0xFFFFFF> is under lockdown until <corrupt:0xFFFFFF>\n<>\n\nAll available personnel are to report to s<corrupt:0xFFFFFF>\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS>\n\n(There seems to be no more text except errors)",
+            "Item1": "(Cái thiết bị PDA này trông có vẻ đã hư hỏng rất nặng)\n<>\n[ĐÃ NHẬN CHỈ THỊ]\n[KHÔNG GIAN <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nVỊ TRÍ: DƯỚI MẶT Đ<corrupt:0xFFFFFF> \nNGÀY: <corrupt:0xFFFFFF>\nCHỦ SỞ HỮU: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\nCẢNH BÁO NHÂN VIÊN TẠI CÔNG TRƯỜNG\n\nHÔM NAY ĐÃ XẢY RA MỘT VỤ TAI NẠN Ở <corrupt:0xFFFFFF> \n\nTẤT CẢ CÁC BÀI KIỂM TRA LIÊN QUAN ĐẾN <corrupt:0xFFFFFF> Ẽ BỊ DỪNG LẠI. \nCÓ HIỆU LỰC NGAY LẬP TỨC\n<>\nBÁO CÁO TAI NẠN:\n\nỞ <corrupt:0xFFFFFF> Trong các cuộc thử nghiệm định kỳ trên các khoang thả có mật danh <corrupt:0xFFFFFF> đã xảy ra một sự cố bất thường liên quan đến hệ thống dịch chuyển tức th <corrupt:0xFFFFFF>\nKhoang thả bị dịch chuyển một phần vào tường, làm mất ổn định quy trình hạ cánh và gây ra một hố đen nhỏ <corrupt:0xFFFFFF>ởi vì <corrupt:0xFFFFFF> Do đó, một số nhà khoa học và kỹ sư đã bị thương nặng do vụ nổ. Các Sawian bên trong khoang thả đã không sống sót.\n\nTừ nay trở đi, tất cả các nghiên cứu công nghệ dịch chuyển tức th   <corrupt:0xFFFFFF>đều bị tạm dừng cho đến khi có thông báo mới. Đơn vị <corrupt:0xFFFFFF> đang bị phong tỏa cho đến khi <corrupt:0xFFFFFF>\n<>\n\nTất cả nhân viên hiện có phải báo cáo đến<corrupt:0xFFFFFF>\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF TRUY CẬP BỘ NHỚ BẤT HỢP PHÁP>\n\n(Dường như không còn đoạn văn bản nào khác ngoài các dòng bị chữ lỗi)",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------<>\nSo.\nThis is my \"journal\" now. Which is apparently a written work describing one's life and experiences.\nI am not entirely sure why the coats have me doing this, but the same can be said about most things they make us do.\nStill, I got lucky today. It can get way worse than a writing exercise.\nI find this device quite fascinating, and it is a shame that I will part with it in just a few hours. But I have been given a task, and I shall complete it.<>\n\nWe usually are woken up either by eachother, or by the first food buzzer ringing. Rarely do we wake up to testing immediately.\nI'm not sure what \"hour\" this happens at... Hell, I barely understand the concept. Though, I hear the coats talking about it all the time...\n\nAnyway, we wake up and soon it's time for our very first meal of the day.\nWhat they feed us is slightly varied, which wasn't the case just a few years ago. Still mostly just nutrient bars, though. They're really bland, but I can't complain...\n\n--------------------------------------------------<>\nIt's some hours later now.\n\nThis is the time when the coats hunt.\nThey call you out by the number, and you have to come to them.\nOr they come for you. \nYou do not want that.\nSometimes, they call out multiple numbers... It's usually a good sign, though.<>\n\nWhat they'll do to you is up to chance, really.\nThe tests can be harmless, they can be terrible, or they can be beneficial.\nIt's worth noting that the coats merely TRY to do things, and while sometimes they try to help, those attempts are usually far less successful than the ones where they try to mess you up.<>\n\nTwo numbers are called, and two others stand up, their faces worried.\nOne of them is healthy. Far more likely to get hurt.\n\nThe other has four arms.\nOne on the left, and three on the right.\nWell, if you could call the weird growths arms. They look kinda close?\nThey were originally born with two. The coats decided that to be too much one day, and removed one.\nThe next day, they came back with ELEVEN arms.\nThe humans removed ten of those, only to grace them with seven new ones.\nThe next day it was five.\nToday it's four.\n\nThey are getting close now.<>\n\nThe poor fellow is called Arms. And I swear, this was their name BEFORE this whole ordeal, and it's widely believed that humans picked them because of that.\nPerhaps it's their idea of a joke?\n\n[PAGE 1 OF 2]",
+            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------<>\nThì.\nĐây là \"hành trình\" của tôi vào lúc này. Rõ ràng đây là một tác phẩm viết mô tả cuộc sống và kinh nghiệm của một người.\nTôi không hoàn toàn chắc chắn tại sao những người mặc áo khoác lại bắt tôi làm điều này, nhưng điều tương tự cũng có thể nói về hầu hết những việc họ bắt chúng tôi làm.\nDù sao thì hôm nay tôi cũng may mắn. Mọi chuyện có thể tệ hơn nhiều so với một bài tập viết.\nTôi thấy thiết bị này khá thú vị, và thật đáng tiếc là tôi sẽ phải chia tay nó chỉ sau vài giờ nữa. Nhưng tôi đã được giao nhiệm vụ, và tôi sẽ hoàn thành nó.<>\n\nChúng tôi thường thức dậy bởi nhau hoặc bởi tiếng chuông báo giờ ăn đầu tiên. Hiếm khi chúng tôi bị đánh thức ngay lập tức để làm bài kiểm tra.\nTôi không chắc \"giờ\" này diễn ra lúc nào... Chết tiệt, tôi hầu như không hiểu khái niệm này. Mặc dù tôi nghe thấy những người mặc áo khoác nói về nó suốt...\n\nDù sao thì, chúng tôi thức dậy và chẳng mấy chốc đã đến giờ ăn bữa đầu tiên trong ngày.\nTuy nhiên, chủ yếu vẫn là thanh dinh dưỡng. Chúng khá nhạt nhẽo, nhưng tôi không thể phàn nàn...\n\n--------------------------------------------------<>\nBây giờ đã vài giờ trôi qua.\n\nĐây là lúc những người mặc áo khoác đi săn. Họ gọi bạn bằng số thứ tự, và bạn phải đến chỗ họ.\nHoặc họ sẽ tìm đến bạn. \nBạn không muốn điều đó đâu.\nĐôi khi, họ gọi ra nhiều số... Nhưng thường thì đó là một dấu hiệu tốt.<>\n\nNhững gì họ sẽ làm với bạn thực sự là tùy thuộc vào may rủi.\nCác bài kiểm tra có thể vô hại, có thể rất khủng khiếp, hoặc có thể có lợi.\nCần lưu ý rằng những người mặc áo khoác chỉ CỐ GẮNG làm mọi việc, và mặc dù đôi khi họ cố gắng giúp đỡ, nhưng những nỗ lực đó thường ít thành công hơn nhiều so với những nỗ lực mà họ cố gắng làm hại bạn.<>\n\nHai số được gọi, và hai người khác đứng dậy, vẻ mặt họ đầy lo lắng.\nMột trong hai khỏe mạnh. Có nhiều khả năng bị thương hơn.\n\nNgười kia có bốn cánh tay.\nMột cái bên trái, và ba cái bên phải.\nChà, nếu bạn có thể gọi những khối u kỳ lạ đó là cánh tay. Chúng trông khá giống nhau?\nBan đầu họ được sinh ra với hai cánh tay. Những người mặc áo khoác quyết định rằng như vậy là quá nhiều và trong hôm đó họ đã cắt bỏ một cánh tay.\nNgày hôm sau, người đó quay lại với MƯỜI MỘT cánh tay.\nCon người đã cắt bỏ mười trong số đó, chỉ để ban cho chúng bảy cánh tay mới.\nNgày hôm sau là năm.\nHôm nay là bốn.\n\nBọn họ sắp xong rồi.<>\n\nNgười bạn tội nghiệp này được gọi là Cánh tay. Và tôi thề, đây là tên của họ TRƯỚC khi toàn bộ chuyện này xảy ra, và người ta tin rộng rãi rằng con người đã chọn tên cho họ vì điều đó.\nCó lẽ đó chính là trò đùa của chúng?\n\n[TRANG 1 TRONG 2]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------\n<>\nIt's quiet. Those who get lucky often just rest; sometimes they socialize. Usually, they just worry about those who got taken.\nThis concept of \"Hours\", this cycle, schedule... It's terrifying.\nI don't understand it. Why is each sleep cycle divided into 24 (?) hours? What governs such rules? Even the humans play by it.\nIs something above them controlling it?\n<>\n\nSome more hours later, the first test subjects start to trickle back in.\nBest-case scenario, they walk in on their own. Quite common, actually.\nSometimes they are carried in.\nRarely, two guards come in instead. They head straight to someone's cot and take away their things.\nIf it were your friend, and the guards are some of the nicer ones, they will let you keep a thing or two.\nI don't really have anyone to wait for anymore, so I just watch those who do. Everyone is used to this, but the nerves are always present.\n<>\n\nDinner time.\nThe meal dispensers dropped some cooked meat on my plate. Lucky. Better than breakfast, for sure.\nSome others hum approvingly, as they get similarly lucky. Others grumble as they get served the same old nutrient bars. It's really like they are feeding us with whatever they have on hand... Maybe this is a test, too?\nSometimes fights break out over the food, but that's rare. The guards are not happy anytime this happens.\n \nPeople talk. They play. They sing.\nSome nurse their wounds, or help others nurse theirs.\nIt's a calm time.\nThe coats are done for the time being.\n\nLater.\nIn about an \"hour\", our last meal of the day will be served.\nBedtime soon after that.\nThere is not much more to say, really.\n\nActually, there is one thing. Very rarely, extra tests will be called around this time. Well, the humans call them \"Relocations\" or \"Assignments.\"\n<>\nYou never come back when you get called to one of those. But they always allow you to take your things. I am not sure if it's because they are really taking you somewhere else, or they simply want to expedite the process of emptying your place by having you do it yourself.\n<>\n\nEveryone wonders what reaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nfddda\nshit\nFroze up for a moment there. I can't remove the letters. The device won't let me. It's bery\ncrap\n<>\nmy hands are shaking its difficult to type\nthey called the tests tonight\ni dont know where those called go\nbut they called my number\ni am about to find out\n<>\nwish me luck\n\n[PAGE 2 OF 2]",
+            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------\n<>\nThật yên tĩnh. Những người may mắn thường chỉ nghỉ ngơi; đôi khi họ giao lưu với nhau. Thường thì, họ chỉ lo lắng cho những người đã bị bắt đi.\nCái khái niệm \"Giờ giấc\", chu kỳ này, lịch trình này... Thật đáng sợ.\nTôi không hiểu. Tại sao mỗi chu kỳ ngủ lại được chia thành 24 (?) giờ? Điều gì chi phối những quy tắc này? Ngay cả con người cũng tuân theo nó.\nCó thứ gì đó ở trên họ đang điều khiển nó không?\n<>\n\nVài giờ sau, những người bị thử nghiệm đầu tiên bắt đầu quay trở lại.\nTrường hợp tốt nhất là họ tự đi vào. Thực ra khá phổ biến.\nĐôi khi họ được khiêng vào.\nHiếm khi, hai lính canh bước vào. Họ đi thẳng đến giường của ai đó và lấy đi đồ đạc của họ.\nNếu đó là bạn của bạn, và những người lính canh là những người hiền lành, họ sẽ cho bạn giữ lại một hoặc hai thứ.\nTôi không còn ai để chờ đợi nữa, vì vậy tôi chỉ quan sát những người đang chờ đợi. Ai cũng quen với chuyện này rồi, nhưng sự hồi hộp vẫn luôn hiện hình.\n<>\n\nGiờ ăn tối.\nMáy phân phát thức ăn thả một ít thịt chín lên đĩa ăn tôi. May mắn thật. Chắc chắn là ngon hơn bữa sáng rồi.\nMột vài người khác khẽ ngân nga tán thưởng vì họ cũng may mắn như vậy. Những người khác thì càu nhàu khi được phục vụ những thanh dinh dưỡng quen thuộc. Thật sự là họ đang cho chúng ta ăn bất cứ thứ gì họ có... Hoặc có lẽ đây cũng là một bài thử nghiệm chăng?\nThỉnh thoảng xảy ra xô xát vì thức ăn, nhưng điều đó rất hiếm. Các lính canh sẽ không vui mỗi khi chuyện này xảy ra.\n \nMọi người trò chuyện. Họ chơi đùa. Họ hát hò.\nMột số người tự băng bó vết thương hoặc giúp đỡ người khác băng bó vết thương.\nĐó là một khoảng thời gian yên tĩnh.\nNhững người mặc áo khoác đã xong việc của họ rồi.\n\nSau đó.\nKhoảng một \"giờ\" nữa, bữa ăn cuối cùng trong ngày của chúng tôi sẽ được phục vụ.\nGiờ ngủ theo ngay sau đó.\nThực ra cũng không còn gì để nói nữa.\n\nThực ra, còn một điều nữa. Rất hiếm khi, sẽ có thêm các bài kiểm tra được gọi vào khoảng thời gian này. À thì, con người gọi đó là \"Di dời\" hoặc \"Nhiệm vụ.\"\n<>\nBạn sẽ không bao giờ quay lại khi được gọi đi làm một trong những việc đó. Nhưng họ luôn cho phép bạn mang đồ đạc của mình đi. Tôi không chắc liệu họ thực sự đưa bạn đến một nơi khác hay chỉ đơn giản là muốn đẩy nhanh quá trình dọn dẹp nơi ở của bạn bằng cách để bạn tự làm.\n<>\n\nMọi người đều tự hỏi chuyện gìììììììììììììììììììììììììììììììì\nfddda\nchết tiệt\nTôi bị đơ một lúc. Tôi không thể xóa các chữ cái được. Thiết bị này không cho phép tôi. Thật là\nkhỉ thật\n<>\ntay tôi run quá, khó mà gõ chữ được\nhọ gọi kiểm tra tối nay\ntôi không biết những người được gọi sẽ đi đâu\nnhưng họ đã gọi số của tôi\ntôi sắp đoán ra được rồi\n<>\nchúc tôi may mắn\n\n[TRANG 2 TRONG 2]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\nSUBJECT: Regulations Approval\nFROM: <corrupt:0xFFFFDC>\nTO: <corrupt:0xFFFF0A>\n<>\nI just got off a holocall with the national regulation board. The food teleportation systems are good to sell! Now we can really push for that single-use packaging ban - and given that our food-boxes already resist spoilage, food waste (and our unprofitable years) will be a thing of the past. And with how lazy people are nowadays, we can certainly adapt this tech to other things.\n<>\nDon't forget to strengthen the thermal shielding of the dropbox. The failure rate is less than 1 in 500, but still... As you know, when E=mc2, and c is so large, that means just the mass of a raisin collapsing into a black hole will immediately (within 10^-25 seconds) evaporate to Hawking radiation, and generate the energy equivalent to the nuclear bomb dropped on Hiroshima. Our systems for reversing the teleportation when this happens are getting better and can take away most of that energy, but we can't let any more leak out.\n<>\nSerendipitously, this solves our abnormally high food usage problem, for now. No one will question why our food delivery department is using food.\n<>\nDo you ever wonder, in an alternate universe, we would have pursued that infinite energy idea?\n\n[END]",
+            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\nCHỦ ĐỀ: Phê duyệt quy định\nTỪ: <corrupt:0xFFFFDC>\nĐẾN: <corrupt:0xFFFF0A>\n<>\nTôi vừa kết thúc cuộc họp trực tuyến với hội đồng quản lý quốc gia. Hệ thống dịch chuyển thực phẩm đang rất được ưa chuộng! Giờ đây chúng ta có thể thực sự thúc đẩy lệnh cấm bao bì dùng một lần - và vì hộp đựng thực phẩm của chúng ta đã có khả năng chống hư hỏng, nên tình trạng lãng phí thực phẩm (và những năm thua lỗ) sẽ trở thành dĩ vãng. Và với sự lười biếng của con người hiện nay, chúng ta chắc chắn có thể áp dụng công nghệ này cho những thứ khác.\n<>\nĐừng quên tăng cường lớp chắn nhiệt cho hộp thả. Tỷ lệ hỏng hóc dưới 1 trên 500, nhưng vẫn... Như bạn biết đấy, khi E=mc2, và c rất lớn, điều đó có nghĩa là chỉ cần khối lượng của một quả nho khô sẽ sụp thành một hố đen ngay lập tức (trong vòng 10^-25 giây) bốc hơi thành bức xạ Hawking, và tạo ra năng lượng tương đương với quả bom hạt nhân thả xuống Hiroshima. Hệ thống đảo ngược hiện tượng dịch chuyển tức thời khi điều này xảy ra của chúng ta đang ngày càng tốt hơn và có thể hấp thụ phần lớn năng lượng đó, nhưng chúng ta không thể để bất kỳ năng lượng nào rò rỉ ra ngoài nữa.\n<>\nThật tình cờ, điều này giải quyết được vấn đề tiêu thụ thực phẩm cao bất thường của chúng ta, ít nhất là ngay lúc này. Sẽ không ai thắc mắc tại sao bộ phận giao đồ ăn của chúng ta lại sử dụng nhiều thực phẩm đến vậy.\n<>\nBạn có bao giờ tự hỏi, trong một vũ trụ khác, liệu chúng ta có theo đuổi cái lý tưởng năng lượng vô hạn đó không?\n\n[KẾT THÚC]",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is heavily damaged. Countless warnings pop up on the screen, but some of the data is readable...)\n<>\n[Executive Board Meeting 542-23-145C Transcript]\n---------------------------------------------------------------\nLOCATION: Company Headquarters at <corrupt:0xFFFF43>\nDATE: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -you surely realize what we have on our hands here. The Sawians- they… they are our golden ticket! The data we have right now would be enough for a Nobel Prize for every single person in this room!\n\n<corrupt:0xFFFFF7>: Yes. That's nine prizes. If we all agreed to donate the cash from those to [<corrupt:0xFFFBc3>], we'd end up with roughly fifteen million dollars. A drop in a bucket compared to the financial black hole that is your idiotic project!<>\n\n[<corrupt:0xFFFFD9> rises from his chair.]\n\n<corrupt:0xFFFFD9>: IDIOTIC?! IDIOTIC?! WE ARE CREATING LIFE! You are a witness to the infancy of a new intelligent species! Our colleagues would *kill* for such an opportunity mere ten years ago!\n\n<corrupt:0xFFFFF7>: Kill? Sure. Pay what you ask? Hell. No.<>\n\n<corrupt:0xFFFFD9>: Is it always money with you? Fine! We are making money! Even our plushie line is more than enough to cover-\n\n<corrupt:0xFFFFF7>: Pay more than cash, you cretin! The moment this whole affair ends up on some nosy journalist's desk, we will all pay with our *lives.* Hell, our families will be lynched. Besides, the plushies do not require us to keep your colony of… talking rats alive.\n\n<corrupt:0xFFFFD9>: The Sawians are not talking rats! They are a mix of-<>\n\n<corrupt:0xFFFFF7>: OH, EXCUUUSE ME! I meant to say walking tickets to a dematerializer! OUR TICKETS! I am not ending up before the ICC, just because you are a greedy little fu-\n\n<corrupt:0xFA05F2>: Gentlemen. Please.\n\n<corrupt:0xFFFFF7>: I- Ah. Apologies <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Please make your case. Why are those creatures worth keeping?<>\n\n[Silence. <corrupt:0xFFFFD9> sits down.]\n\n<corrupt:0xFFFFD9>:  I mean... There are so many reasons to pick, I-\n\n<corrupt:0xFA05F2>: Then I trust that you will be able to pick the right one.\n\n<corrupt:0xFFFFD9>:  Uh. Right. Okay. Braingrow! We have Braingrow!\n\n<corrupt:0xFFFFF7>: Yes, the commercially available medicine that one can purchase at the corner store.<>\n\n<corrupt:0xFFFFD9>: No. Not this one. I could bash someone's head straight open. Introduce the frontal lobe to a hammer. Corner store Braingrow won't help here. Ours will have the fellow walking and talking within a WEEK. Without such an ample supply of human-like test subjects, we'd need decades to perfect the nanomachines' operational directives. Twice that for testing.\n\n<corrupt:0xFA05F2>: Of course. <corrupt:0xFFFFF7>. Your counterpoint?<>\n\n<corrupt:0xFFFFF7>: Yeah. He's got results. The moment the public finds out just HOW he got them, we are all done for. What are you going to say, [#######]? That the creatures whose likeness we sell to kids exist, and that you enjoy cracking their heads in your spare time? There will be no shifting the blame. We will answer for this; the entire Company will. They'll even lynch our goddamned janitor!\n\n[The <corrupt:0xFA05F2> nods, watching the two silently for a moment.]<>\n\n<corrupt:0xFA05F2>: I now understand why you clash with such intensity. It is not in our nature to back down when the truth is on our side. And the truth is… You are both correct.\n\n[Silence.]<>\n\n<corrupt:0xFA05F2>: The Sawians pose a risk that we cannot afford to take. They are also an opportunity that we cannot afford to let go. We have them in our grasp. And we must make sure things remain that way.\n\n<corrupt:0xFFFFD9>: But… how, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> smiles, and- \n\n<corrupt:0xA1CF43><>\n\n[Meeting summary]\n-Facility put on lockdown until further notice.\n-Sawians confined to their cells until further notice.\n-Employees are forbidden from leaving the grounds until further notice.\n-Employee contracts extended indefinitely.\n-Carrying firearms made mandatory for Security personnel\n-Facility-wide thermal remediation procedures approved and pre-authorized.",
+            "Item1": "(Chiếc PDA đã bị hư hỏng nặng. Vô số bảng cảnh báo hiện lên màn hình, nhưng một số dữ liệu vẫn có thể đọc được...)\n<>\n[Cuộc họp Ban điều hành 542-23-145C Bản sao lại]\n---------------------------------------------------------------\nLOCATION: Trụ sở công ty tại <corrupt:0xFFFF43>\nNGÀY: 12-04-[fetch.year(): thất bại]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -yoChắc chắn anh nhận ra chúng ta đang nắm trong tay cái gì chứ. Sawian—họ... họ chính là tấm vé vàng của chúng ta! Dữ liệu chúng ta có ngay bây giờ đủ để mỗi người trong phòng này đều nhận được một giải Nobel!\n\n<corrupt:0xFFFFF7>: Đúng vậy. Đó là tận chín giải. Nếu tất cả chúng ta đồng ý quyên góp số tiền đó cho [<corrupt:0xFFFBc3>], chúng ta sẽ có đâu đó khoảng mười lăm triệu đô la. Một giọt nước trong một cái xô so với cái hố đen tài chính là cái dự án ngu ngốc của anh!<>\n\n[<corrupt:0xFFFFD9> đứng dậy khỏi ghế.]\n\n<corrupt:0xFFFFD9>: NGU NGỐC?! NGU NGỐC?! CHÚNG TA ĐANG TẠO RA SỰ SỐNG! Anh là nhân chứng cho sự non trẻ của một loài thông minh mới! Các đồng nghiệp của chúng tôi sẽ *giết* người để có được cơ hội như thế này chỉ mười năm trước!\n\n<corrupt:0xFFFFF7>: Giết người? Chắc chắn rồi. Trả những thứ mà anh yêu cầu? Không đời nào.<>\n\n<corrupt:0xFFFFD9>: Lúc nào anh cũng chỉ quan tâm đến tiền à? Được thôi! Chúng tôi đang kiếm được nhiều tiền! Ngay cả dòng sản phẩm thú nhồi bông của chúng tôi cũng đủ để trang trải-\n\n<corrupt:0xFFFFF7>: Trả nhiều hơn tiền mặt đi, đồ ngu! Ngay khi toàn bộ vụ việc này lọt vào tay một nhà báo tò mò nào đó, chúng tôi sẽ phải trả giá bằng *mạng sống* của mình. Thậm chí gia đình chúng tôi sẽ bị treo cổ. Hơn nữa, những con thú nhồi bông không cần chúng tôi phải duy trì đàn chuột...biết nói của anh\n\n<corrupt:0xFFFFD9>: Sawian không phải là lũ chuột biết nói! Chúng là một loài lai giữa-<>\n\n<corrupt:0xFFFFF7>: Ồ, XIN LỖI! Ý tôi là những tấm vé biết đi đến máy hủy vật chất! VÉ CỦA CHÚNG TA! Tôi sẽ không bị đưa ra trước Tòa án Hình sự Quốc tế chỉ vì anh là một thằng tham lam-\n\n<corrupt:0xFA05F2>: Thưa các quý ông. Làm ơn.\n\n<corrupt:0xFFFFF7>: Tôi- À. Xin lỗi <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Bác sĩ <corrupt:0xFFFFD9>. Xin hãy trình bày lý lẽ của ông. Tại sao những sinh vật đó lại đáng để giữ lại?<>\n\n[Yên lặng. <corrupt:0xFFFFD9> ngồi xuống.]\n\n<corrupt:0xFFFFD9>:  Ý tôi là... Có rất nhiều lý do để nói, tôi-\n\n<corrupt:0xFA05F2>: Vậy thì tôi tin rằng anh sẽ chọn được một cái lý do đúng đắn.\n\n<corrupt:0xFFFFD9>:  Ừ. Đúng rồi. Được rồi. Thuốc tái tạo mô não! Chúng ta có thuốc tái tạo mô não!\n\n<corrupt:0xFFFFF7>: Vâng, loại thuốc bán sẵn trên thị trường mà người ta có thể mua ở cửa hàng tạp hóa.<>\n\n<corrupt:0xFFFFD9>: Không. Không phải loại này. Tôi có thể đập vỡ đầu ai đó. Dùng búa đập vào thùy trán. Thuốc tái tạo mô não mua ở cửa hàng tạp hóa sẽ không giúp được gì đâu. Thuốc của chúng ta sẽ giúp người đó đi lại và nói chuyện được trong vòng MỘT TUẦN. Nếu không có nguồn cung cấp dồi dào các đối tượng thử nghiệm giống người như vậy, chúng ta sẽ cần hàng thập kỷ để hoàn thiện các chỉ thị hoạt động của thiết bị nano. Gấp đôi số đó để thử nghiệm.\n\n<corrupt:0xFA05F2>: Tất nhiên rồi.  <corrupt:0xFFFFF7>. Ý kiến ​​phản bác của anh thì sao?<>\n\n<corrupt:0xFFFFF7>: Ừ. Hắn ta có kết quả rồi. Khoảnh khắc công chúng phát hiện ra hắn ta có được chúng BẰNG CÁCH NÀO, chúng ta tiêu đời hết. Anh định nói gì, [#######]? Rằng những sinh vật mà chúng ta bán hình ảnh cho trẻ em là có thật, và anh thích đập đầu chúng trong thời gian rảnh rỗi? Sẽ không có chuyện đổ lỗi cho người khác. Chúng ta sẽ phải chịu trách nhiệm về việc này; toàn bộ Công ty sẽ phải chịu trách nhiệm. Thậm chí họ còn sẽ treo cổ cả tên lao công khốn kiếp của chúng ta!\n\n[<corrupt:0xFA05F2> gật đầu, im lặng quan sát hai người một lúc.]<>\n\n<corrupt:0xFA05F2>: Giờ tôi hiểu tại sao các người lại xung đột gay gắt như vậy. Bản chất của chúng ta không phải là lùi bước khi sự thật đứng về phía mình. Và sự thật là... Cả hai người đều đúng.\n\n[Yên lặng.]<>\n\n<corrupt:0xFA05F2>: Sawian tiềm ẩn rủi ro mà chúng ta không thể chấp nhận. Họ cũng là cơ hội mà chúng ta không thể bỏ lỡ. Chúng ta đang nắm giữ họ trong tay. Và chúng ta phải đảm bảo mọi thứ vẫn giữ nguyên như vậy.\n\n<corrupt:0xFFFFD9>: Nhưng... làm thế nào, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> cười mỉm, và- \n\n<corrupt:0xA1CF43><>\n\n[Tóm tắt cuộc họp]\n-Cơ sở bị phong tỏa cho đến khi có thông báo mới.\n-Sawian bị giam giữ trong phòng giam cho đến khi có thông báo mới.\n-Nhân viên bị cấm rời khỏi khuôn viên cho đến khi có thông báo mới.\n-Hợp đồng của nhân viên được gia hạn vô thời hạn.\n-Việc mang theo súng là bắt buộc đối với nhân viên an ninh.\n-Các thủ tục xử lý nhiệt toàn cơ sở đã được phê duyệt và cho phép trước.",
             "Item2": ""
         }
     ],
