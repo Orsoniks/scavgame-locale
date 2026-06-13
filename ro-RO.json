@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Un sul dintr-un material rezistent, special sintetizat, conceput pentru a acoperi eficient rănile și a stabiliza fracturile. Nu are efect asupra sănătății mușchilor.",
         "adhesivebandage": "Bandaje adezive",
         "adhesivebandagedsc": "Un pachet de pansamente medicale mici, destinate tratării leziunilor minore. Reduce sângerarea.",
-        "musharm": "Braț terci",
+        "musharm": "Înfășorliană",
         "musharmdsc": "Parte de plantă necomestibilă, utilă ca bandaj improvizat de unică folosință. Poate fi folosită ca frunziș pentru artizanat.",
         "paincream": "Sticluță cu cremă calmantă",
         "paincreamdsc": "O sticluță de 100 ml care conține crema calmantă. Doza este de 10ml.",
@@ -211,7 +211,7 @@
         "alcohol": "Sticlă de alcool",
         "alcoholdsc": "Sticlă cu o capacitate de 0,4 L.",
         "exposedcore": "Nucleu expus",
-        "exposedcoredsc": "Rămășițele inactive ale unei chestii care a fost vie la un moment dat. Probabil că ai putea să o mănânci pentru a absorbi energia ei în formă de nutrienți și apă. <i>Pare că se transformă încet în ceva...",
+        "exposedcoredsc": "Rămășițele inactive ale unei chestii care a fost vie la un moment dat. Probabil că ai putea să o mănânci pentru a absorbi energia ei în formă de nutrienți și apă. <i>Pare că se transformă încet în ceva...</i>",
         "foliage": "Frunziș",
         "foliagedsc": "Plantă extraterestră generică. Abia comestibilă, cu un gust nesatisfăcător. Poate provoca greață. Se descompune rapid. Adesea folosită în artizanat.",
         "foliagemeal": "Mâncare din frunziș",
@@ -298,12 +298,12 @@
         "tutorialradiodsc": "De obicei, ți se dă unul dintre acestea pentru sesiunile de antrenament. Nu sunt sigur dacă mesajele sunt transmise în direct sau sunt preînregistrate. Are un buton pe care îl poți apăsa.",
         "mp3player": "MP3 player",
         "mp3playerdsc": "Surprinzător, încă funcționează. Are un mic drive de stocare, cu câteva melodii salvate pe el. Le poți reda pe oricare dintre ele pentru propria ta distracție.",
-        "mushpear": "Tercipară",
-        "mushpeardsc": "O parte albastră a plantei, destinată distribuției apei. Abia comestibilă, cu o proprietate ciudată de absorbție a greutății și un gust neplăcut. Reduce masa corporală atunci când este consumată. Pare să conțină urme de opiacee.",
-        "mushtail": "Tercicoadă",
-        "mushtaildsc": "Coada unei terciplante. Conține o substanță chimică care poate provoca leșinul instantaneu al unei persoane pentru o perioadă scurtă de timp, urmată de o îmbunătățire vizibilă a stării de spirit. Ciudat. Fără valoare nutritivă.",
-        "mushball": "Tercibilă",
-        "mushballdsc": "Un fruct rotund, comestibil, asemănător unei bule, cu conținut ridicat de apă. Arată și pare puțin dezgustător, dar are un conținut ridicat de apă. Se strică foarte repede.",
+        "mushpear": "Amorțifruct",
+        "mushpeardsc": "O parte a unei buruhidre care filtrează și distribuie apă. Are o proprietate ciudată de absorbție a greutății și un gust neplăcut. Reduce masa corporală atunci când este consumată. Pare să conțină urme de opiacee.",
+        "mushtail": "Somnicoadă",
+        "mushtaildsc": "Coada unei buruhidre. Conține o substanță chimică care poate provoca leșinul instantaneu al unei persoane pentru o perioadă scurtă de timp, urmată de o îmbunătățire vizibilă a stării de spirit. Ciudat. Fără valoare nutritivă.",
+        "aquapple": "Hidramăr",
+        "aquappledsc": "Un fruct apos, în forma unei bule. Arată și pare puțin dezgustător, dar are un conținut ridicat de apă. Se strică foarte repede.",
         "droppings": "Excremente",
         "droppingsdsc": "Este rahat.",
         "smallpack": "Rucsac mic",
@@ -314,6 +314,8 @@
         "bigpackdsc": "Un rucsac de dimensiuni medii.",
         "bikehelmet": "Cască de bicicletă",
         "bikehelmetdsc": "O cască concepută pentru a reduce gravitatea impacturilor la nivelul capului. Reduce leziunile la cap cauzate de căderi.",
+        "riothelmet": "Cască de poliție",
+        "riothelmetdsc": "O cască avansată care diminuează puternic gravitatea traumatismelor craniane.",
         "holidayhat": "Pălărie de sărbătoare",
         "holidayhatdsc": "Ai auzit că oamenii poartă astea pentru o ocazie specială, deși nu ești sigur despre ce este vorba. Măcar e bine că ai fost trimis cu una.",
         "headlamp": "Lampă frontală",
@@ -334,6 +336,8 @@
         "balaclavadsc": "O bucată groasă de pânză căptușită care se pune în jurul capului tău. Oferă protecție minoră și izolare termică decentă.",
         "latexgloves": "Mănuși din latex",
         "latexglovesdsc": "O pereche de mănuși simple din latex. Oferă o izolare redusă împotriva intemperiilor.",
+        "tacticalgloves": "Mănuși tactice",
+        "tacticalglovesdsc": "O pereche de mănuși sintetice avansate. Protejează eficient mâinile contra traumatismelor fizice.",
         "fannypack": "Borsetă",
         "fannypackdsc": "O geantă mică concepută pentru a fi purtată pe burtă.",
         "bandolier": "Bandulieră",
@@ -342,6 +346,8 @@
         "bellyarmordsc": "O bucată mare de metal, concepută pentru a fi fixată pe abdomen. Oferă o protecție excelentă și o oarecare izolare.",
         "belt": "Curea",
         "beltdsc": "O centură de piele care se pune peste burtă. Poate stoca doar unelte.",
+        "traumarig": "Echipament protector",
+        "traumarigdsc": "O pungă protectoare sintetică avansată în care pot fi puse diverse unelte, arme și echipament medical. De asemenea, îți protejează trunchiul!",
         "popcorn": "Popcorn",
         "popcorndsc": "O găleată care conține un buchet de boabe de porumb, umflate din cauza încălzirii. Ți se pare un concept destul de inovator. Gustos. Are un termen de valabilitate lung.",
         "nopopcorn": "Fără popcorn",
@@ -380,6 +386,10 @@
         "carcasssplintdsc": "Un tub rigid și lung, realizat din mai multe carcase îmbinate. Funcționează ca o atelă improvizată decentă pentru tratarea fracturilor.",
         "terrainscanner": "Scaner de teren",
         "terrainscannerdsc": "Îți arată o hartă de calitate redusă a terenului de sub voi. Terenul este evidențiat cu verde, iar clădirile solide cu roșu. E un pic imprecis. Se întinde pe o adâncime de 24 de metri.",
+        "geigercounter": "Contor Geiger",
+        "geigercounterdsc": "Un instrument electronic pentru detecția și măsurarea radiației ionizante folosind un tub Geiger-Müller. Utilizează-l pentru a-l comuta.",
+        "handcrank": "Generator cu manivelă",
+        "handcrankdsc": "Un dispozitiv care poate reîncărca bateriile descărcate prin rotirea manuală a manivelei. Inserează o baterie și rotește!",
         "sleepingbag": "Sac de dormit",
         "sleepingbagdsc": "O cuvertură izolată în care se poate dormi. Utilizează pentru a dormi în ea, ridicând calitatea somnului cu un nivel (limitat la Bine) și acordând un pic de izolare în timpul nopții. Restricțiile uzuale pentru somn rămân la fel.",
         "liquidcentrifuge": "Centrifugă pentru lichide",
@@ -434,14 +444,16 @@
         "browncapdsc": "Nu ești sigur ce fel de ciupercă este exact. Din câte știi, ar putea face orice, de la vindecarea rănilor până la uciderea ta pe loc.",
         "sneakers": "Adidași",
         "sneakersdsc": "O pereche de adidași albi, care nu sunt deloc făcuți să-ți acopere picioarele. Dacă reușești cumva să-ți bagi picioarele în ei, îți oferă protecție împotriva cioburilor de sticlă.",
+        "tacticalboots": "Cizme tactice",
+        "tacticalbootsdsc": "O pereche de cizme sintetice grele, făcute să protezeje eficient picioarele împotriva diverselor forme de traumatisme.",
         "frigiantfruit": "Fructe frigiante",
         "frigiantfruitdsc": "Un fruct foarte rece, tare și sticlos. Gustos, dar are tendința de a te răcori foarte mult. Evită să-l consumi în frigul glacial.",
-        "purpleherb": "Ierbă violetă",
-        "purpleherbdsc": "O frunză uscată, de culoare violetă, cu textură aspră. Utilizată în mod obișnuit ca remediu pentru anumite afecțiuni - ajută împotriva bolilor, ameliorează ușor pierderea auzului și poate reduce sângerările interne. A se utiliza cu precauție - are tendința de a crește foarte mult temperatura corpului consumatorului.",
-        "bulbskin": "Coaja bulbului",
-        "bulbskindsc": "O bucată uleioasă de coajă groasă și galbenă de plantă. Conține o cantitate mare de adrenalină și este ușor hidratantă, dar poate afecta ușor funcțiile cerebrale. Poate fi folosită și ca bandaj improvizat și analgezic pentru membre.",
-        "geigefruit": "Fructul Geige",
-        "geigefruitdsc": "Un fruct ciudat, dreptunghiular și strălucitor. Miroase a ulei, dar are un gust plăcut! Potolește foamea și setea. Poate afecta temporar plămânii și poate ajuta sau agrava ușor, în mod aleatoriu, simptomele bolii cauzate de radiații. Are o reacție zgomotoasă la impactul cu solul la viteză mare – util pentru verificarea înălțimii de cădere.",
+        "helluce": "Salatiadă",
+        "hellucedsc": "O iarbă uscată, de culoare violetă, cu un gust extrem de picant. Ajută împotriva bolilor, ameliorează ușor pierderea auzului și poate reduce sângerările interne. Are tendința de a crește foarte mult temperatura corpului consumatorului.",
+        "bulbskin": "Pocbrană",
+        "bulbskindsc": "O bucată de membrană groasă și galbenă. Satisface setea, dar poate afecta ușor funcțiile cerebrale. Poate fi folosită și ca bandaj improvizat și analgezic.",
+        "popfruit": "Fruct de poc",
+        "popfruitdsc": "Un fruct ciudat, dreptunghiular și strălucitor. Gustos, potolește foamea și setea. Poate ajuta sau agrava ușor, în mod aleatoriu, simptomele bolii cauzate de radiații. Are o reacție zgomotoasă la impactul cu solul la viteză mare – util pentru verificarea înălțimii de cădere.",
         "antisepticmush": "Terci antiseptic",
         "antisepticmushdsc": "Bucăți de fructe și frunze zdrobite, rezultând un amestec eficient în tratarea infecțiilor. Durează o singură utilizare.",
         "striderpelt": "Blana de Strider",
@@ -624,8 +636,8 @@
         "ladderdsc": "Un set vertical de trepte utilizat pentru urcare sau coborâre. Probabil știi cum să-l folosești.",
         "shadecrawler": "Umbro-Târâtoare",
         "shadecrawlerdsc": "",
-        "wallbiter": "Mușcător de perete",
-        "wallbiterdsc": "O fiară îngrijorător de mare, pufoasă, cu șase picioare. Se pot vedea niște dinți ascuțiți care ies în afară. Pare să se miște haotic.",
+        "wallbiter": "Supraveghetor de nisipuri",
+        "wallbiterdsc": "O fiară îngrijorător de mare, pufoasă, cu șase picioare. Se pot vedea niște dinți ascuțiți care ies în afară. Se mișcă haotic.",
         "thornbackyoung": "Spinospate",
         "thornbackyoungdsc": "Un tânăr, pufos și foarte agresiv spinospate. Se pare că le place să sapă tuneluri în pământ și să sfâșie orice mișcă în apropiere.",
         "thornbackelder": "Spinospate bătrân",
@@ -666,8 +678,8 @@
         "medcratedsc": "Conține articole medicale.",
         "rechargingstation": "Stație de reîncărcare",
         "rechargingstationdsc": "O stație utilizată pentru reîncărcarea bateriilor. Acceptă baterii de orice dimensiune și are o putere aparent infinită. Utilizeaz-o pentru a introduce o baterie din mâna ta principală, apoi trage bateria înapoi spre tine.\n\nSe pare că are un player muzical pentru a crea o atmosferă relaxantă în timp ce aștepți... În mod ironic, nu are baterie.",
-        "mushplant": "Terciplantă",
-        "mushplantdsc": "Se mișcă încet... Pare umed.",
+        "hydreed": "Buruhidră",
+        "hydreeddsc": "Are mai multe brațe cu fructe sub formă de bule la capete. Pare umedă...",
         "OxygenCrystal": "Cristal de oxigen",
         "OxygenCrystaldsc": "Pare să fiarbă încet...",
         "reinforceddoor": "Ușă ramforsată",
@@ -733,8 +745,8 @@
         "geyserdsc": "Un gheizer instabil, cu tendința de a arunca apă. Din fericire, în cel mai rău caz, apa are temperatura camerei.",
         "oilpipe": "Țeavă de evacuare",
         "oilpipedsc": "O țeavă ruginită din care curge un gudron întunecat. Nu vrei să te uiți înăuntru... Probabil că va inunda zona dacă va avea suficient timp.",
-        "plantiation": "Plantadiație",
-        "plantiationdsc": "O plantă lungă, de culoare violet închis, cu un bulb mare, semitransparent, care crește la capăt.",
+        "pop": "Poc",
+        "popdsc": "O plantă lungă, de culoare violet închis, cu un bulb mare, semitransparent, care crește la capăt.",
         "mushroomdropper": "Căzurociupercă",
         "mushroomdropperdsc": "O ciupercă care își eliberează capacul pentru a-și răspândi sporii în jurul oricărui trecător nefericit.",
         "mushroomdropperpayload": "Pălărie de Căzurociupercă",
@@ -928,7 +940,6 @@
         "impendingdoom": "Senzație de catastrofă iminentă",
         "horrified": "ÎNGROZIT",
         "focused": "CONCENTRAT",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "realitatea  ..  încetează   să mai aibă   sens",
         "braindamage2dsc": "Deficit mental sever. Capacitatea de a gândi inteligent și de a se întreține singur este limitată. Prezența unor leziuni cerebrale grave.",
@@ -1331,6 +1342,8 @@
         "dirtywaterdsc": "Măcar nu mai e pe corpul tău. Nu-i sigur de băut.",
         "algae": "Lumalge",
         "algaedsc": "Apă în care cresc alge dense, bioluminiscente. Foarte flotabil. Necomestibil.",
+        "magma": "Magmă",
+        "magmadsc": "Roci incandescente. Fiecare simț al tău țipă la tine să o eviți.",
         "oil": "Ulei",
         "oildsc": "Un gudron gros și negru. Greu de traversat prin. Necomestibil.",
         "sap": "Sevă de copac",
@@ -1480,6 +1493,8 @@
         "runsetlayermodifierchancedsc": "Cât de probabil e ca un modificator de strat să apară, per strat",
         "runsettimebetweenearthquakes": "Timpul între cutremure",
         "runsettimebetweenearthquakesdsc": "Cât de mult timp ia, în medie, ca un cutremur să apară",
+        "runsettemperatureoffset": "Decalaj temperatură ambientală",
+        "runsettemperatureoffsetdsc": "Cu cât ar trebui să fie, în medie, mai cald/rece mediul",
         "runsetlockpickprecision": "Ușurința descuierii",
         "runsetlockpickprecisiondsc": "Cât de larg e unghiul de precizie în timpul minijocurilor de descuiere",
         "runsetambientlight": "Lumina ambientală",
@@ -1514,9 +1529,9 @@
         "tabinput": "Controale",
         "tablanguage": "Limbaj",
         "gamesetreswidth": "Lățime rezoluție",
-        "gamesetreswidthdsc": "",
+        "gamesetreswidthdsc": "Rezoluție orizontală preferată. Sistemul tău operativ poate limita asta.",
         "gamesetresheight": "Înălțime rezoluție",
-        "gamesetresheightdsc": "",
+        "gamesetresheightdsc": "Rezoluție verticală preferată. Sistemul tău operativ poate limita asta.",
         "gamesetfullscreen": "Pe tot ecranul",
         "gamesetfullscreendsc": "Comutează între modul fereastră și modul fără margini de ecran",
         "gamesetvsync": "V-Sync",
@@ -1525,14 +1540,22 @@
         "gamesetframeratedsc": "Dacă este mai mare de 0, setează cât de rapid va fi redat jocul. Valoarea 0 înseamnă nelimitat. Suprascris dacă V-Sync e activ",
         "gamesetpixelate": "Redare pixelată",
         "gamesetpixelatedsc": "Comutează între redare la rezoluție redusă sau completă. Dezactivarea redării pixelate sacrifică o parte din stilul artistic al jocului.",
+        "gamesetdarkerbackground": "Fundaluri mai întunecate",
+        "gamesetdarkerbackgrounddsc": "Face ca pereții de fundal ai peșterilor să fie mai întunecați pentru a spori contrastul",
         "gamesetbloom": "Efect de bloom",
         "gamesetbloomdsc": "Face ca obiectele strălucitoare să arate mai frumos. De asemenea, afectează petele de pe lentilă",
         "gamesetfilmgrain": "Granulație de film",
         "gamesetfilmgraindsc": "Cât de mult vrei să fie vizibil filtrul de zgomot",
+        "gamesetbrightness": "Luminozitate",
+        "gamesetbrightnessdsc": "Cu cât de mult să fie crescută luminozitatea nuanțelor, cu excepția celor de negru intens",
         "gamesetlineofsightcount": "Rezoluția liniilor de vizibilitate",
         "gamesetlineofsightcountdsc": "Cât de detaliat e shaderul pentru liniile de vizibilitate, acolo unde este cazul. Valorile mai mari scad performanța.",
         "gamesetscreenshake": "Vibrația ecranului",
         "gamesetscreenshakedsc": "Cât de mult de vibrat ecranul după căzături mari, explozii, etc.",
+        "gamesetcensorpain": "Cenzurează durerea",
+        "gamesetcensorpaindsc": "Dezactivează vaietele de durere și domolește unele linii de text.\nNOTĂ: Asta nu e recomandată decât dacă chiar ai nevoie de ea ca să poți juca în continuare",
+        "gamesetcensormood": "Cenzurează starea de spirit",
+        "gamesetcensormooddsc": "Domolește evenimentele legate de starea rea de spirit și unele linii de text.\nNOTĂ: Asta nu e recomandată decât dacă chiar ai nevoie de ea ca să poți juca în continuare",
         "gamesetalwaysexpand": "Extinde întotdeauna descrierile obiectelor",
         "gamesetalwaysexpanddsc": "Dacă e activat, vei vedea tot timpul descrierile extinse ale obiectelor când treci peste un obiect, fără să ții butonul pentru extindere",
         "gamesetshowhiddenmoodles": "Arată întotdeauna moodle-urile ascunse",
@@ -1628,6 +1651,7 @@
         "amputationMinigameGuide": "Taie membrul pentru a-l amputa. Asigură-te că oprești sângerarea după aceea.",
         "aedMinigameGuide": "Urmărește instrucțiunile arătate.",
         "manualDefibMinigameGuide": "Potrivește încărcarea proporțional cu progresul ciclului de fibrilație al inimei tale, încarcă, apoi aplică șoc. Repetă dacă-i nevoie.\nEstimarea recomandată (POW.EST) devine mai precisă cu INT mai ridicat.",
+        "handCrankMinigameGuide": "Apucă mânerul și rotește-l pentru a încărca.",
         "aedstate0": "Plasează plăcile pe locurile destinate.",
         "aedstate1": "Analizând pulsul",
         "aedstate2": "Șoc recomandat\nApasă butonul pentru șoc.",
@@ -1810,8 +1834,6 @@
         "hplimbforcedsc": "Abilitatea totală al unui membru de a se mișca și a exercita forță",
         "hpopiate": "Cantitatea de opiacee",
         "settings": "Setări",
-        "custommusic": "Muzică personalizată",
-        "custommusicdsc": "Deschide directorul de muzică personalizat.\nPoți să pui fișiere .mp3/.ogg./.wav acolo pentru a le afișa ca opțiuni atunci când este utilizat playerul MP3.\nAlte tipuri de fișiere nu sunt acceptate.",
         "credits": "Contribuitori",
         "layer": "Nivel",
         "toggleheatmode": "Comutare mod de încălzire",
@@ -1937,6 +1959,8 @@
         "wiki": "Wiki",
         "discord": "Server Discord",
         "translations": "Traduceri",
+        "localefolder": "Dosar de traduceri",
+        "musicfolder": "Muzică personalizată",
         "healthchipcriticalalert1": "SEMNE VITALE\nCRITICE",
         "healthchipcriticalalert2": "TERMINARE\nIMMINENTĂ",
         "healthchipcriticalalert3": "CĂUTAȚI ASISTENȚĂ\nMEDICALĂ",
@@ -2670,16 +2694,6 @@
                 "<limb> nu arată bine...",
                 "<limb> este plin de sânge...",
                 "Doamne sfinte! Se pare că am greșit calculele și acum <limb> este complet galben! Dumnezeule! Ce să fac acum!"
-            ],
-            "sepsis": [
-                "Doamne... Mă simt foarte rău...",
-                "Auugh... Ce se întâmplă cu mine...",
-                "Mă... chinui... fizic...",
-                "Corpul meu nu se simte bine...",
-                "Guuhh... Mă simt rău...",
-                "Simt că tot corpul meu este inflamat...",
-                "Mă doare în interior...",
-                "Nu mă simt bine..."
             ],
             "sad": [
                 "Lucrurile ar putea fi și mai rele.",
@@ -3934,6 +3948,21 @@
             "bleedingresponse": [
                 "Da... arată rău... Dar... sunt sigur că poți să o tratezi...",
                 "H-hei, calmează-te. Vei fi bine."
+            ],
+            "painresponse": [
+                "Ești bine..? De ce ai dureri?",
+                "Ai călcat pe ceva?"
+            ],
+            "dirtyresponse": [
+                "...Știi, avem un duș. Sau... pur și simplu, du-te șu înoată în bazinele din apropiere..."
+            ],
+            "encumberedresponse": [
+                "N-ar strica să lași o parte din obiectele tale în posesia mea.",
+                "O să am grijă de lucrurile tale!"
+            ],
+            "dyingresponse": [
+                "Fir-ar... Uh... N-am învățat niciodată cum să resuscitez pe cineva...",
+                "Eu... Uh... Sper că vei fi bine..."
             ]
         },
         {
@@ -4104,7 +4133,8 @@
                 "De ce să mă mișc pentru cineva ca tine?."
             ],
             "vomitresponse": [
-                "Se pare că ți-ai dat afară conținutul stomacului."
+                "Se pare că ți-ai dat afară conținutul stomacului.",
+                "Chiar așa? Pe podeaua MEA?"
             ],
             "vomitbloodresponse": [
                 "...Se pare că ai o hemoragie internă. Te rog să-ți direcționezi gura departe de mine pentru viitorul apropiat."
@@ -4139,6 +4169,22 @@
             "bleedingresponse": [
                 "Te rog să nu sângerezi asupra mea.",
                 "Te implor să ai grijă de rănile tale."
+            ],
+            "painresponse": [
+                "Durerea este garantată aici jos. Fii mai tare.",
+                "Ia un analgezic. Cu siguranță că ar trebui să ai unul..."
+            ],
+            "dirtyresponse": [
+                "Corect. Ești murdar. Abține-te de la a mă atinge până nu te speli."
+            ],
+            "encumberedresponse": [
+                "Ar fi o problemă dacă mi-ai lăsa lucrurile alea grele?",
+                "Ești destul de ademenitor."
+            ],
+            "dyingresponse": [
+                "Nu sunt sigur dacă RCPul va ajuta în această situație.",
+                "Chiar așa? Mori, pe podeaua MEA?",
+                "Se va îmbunătăți oare situația dacă intri în panică?"
             ]
         },
         {
@@ -4325,7 +4371,7 @@
                 "Pri-eten simte rău..? De ce?"
             ],
             "depressedresponse": [
-                "Pri-eten simte foarte rău... Vi-no stai cu du-ne!"
+                "Pri-eten simte foarte rău... Vi-no stai cu Du-ne!"
             ],
             "selfharmresponse": [
                 "De ce pri-eten rană? Pri-eten rău?"
@@ -4338,11 +4384,26 @@
                 "Du-ne niciodată simte fierbinte! Du-ne place cald..."
             ],
             "coldresponse": [
-                "Du-ne frică de re-ce... Camera e ca-ld! Pri-eten stă cu dune..."
+                "Du-ne frică de re-ce... Camera e ca-ld! Pri-eten stă cu Dune..."
             ],
             "bleedingresponse": [
                 "Pri-eten e rănit. Pri-eten nevoie ajutor!",
                 "Pri-eten miroase ca sânge. Du-ne place."
+            ],
+            "painresponse": [
+                "Pri-eten rănit..?",
+                "Du-ne înț-elege... Du-ne la fel simte du-rere! Pri-eten bine?"
+            ],
+            "dirtyresponse": [
+                "Ce e mur-dar?"
+            ],
+            "encumberedresponse": [
+                "Pot lua lucruri prieten?",
+                "Du-ne poate ușura povară!"
+            ],
+            "dyingresponse": [
+                "C-e greșit cu pri-eten..?",
+                "Du-ne nu știe cum aju-tor..."
             ]
         }
     ],
