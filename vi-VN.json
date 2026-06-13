@@ -4414,7 +4414,7 @@
             {
                 "Item1": "điều này thật kinh khủng. có quá nhiều xác chết... mình sợ. tại sao họ lại gửi quá nhiều người chúng mình đến đây? mình không hiểu. mình thực sự không hiểu. họ đã đánh gục mình bằng một loại phi tiêu nào đó và ép mình vào một cái khoang để gửi đến đây. mình ghét hành tinh này.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình đã hỏi những người khác xung quanh về khả năng nhìn thấy trạng thái thể chất của chúng ta trong tâm trí, và hóa ra đây là điều mà hầu như tất cả những người khác ở đây đều làm được. Khá thú vị - đây không phải là điều chúng mình từng có thể làm được khi ở nhà. Có phải chúng mình đã bị cấy ghép thứ gì đó? Không có vật thể gắn kèm nào có thể nhìn thấy trên bất kỳ ai trong chúng mình. mình cũng nhận thấy rằng có rất ít người ở đây không chia sẻ trải nghiệm này, dường như thiếu đi bất cứ thứ gì cho phép chúng mình làm điều này. Thật kỳ lạ.",
@@ -4424,27 +4424,27 @@
             {
                 "Item1": "mình liên tục sụt cân. mình cần ăn nhiều hơn để giữ dáng. tất cả những việc chạy nhảy này làm mình tiêu thụ calo thực sự nhanh. mình đoán mình cần phải ăn no thường xuyên hơn.",
                 "Item2": "Sprites/noteDrawings/underweight",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "điều này thật tồi tệ. điều này thật chết tiệt. mình không thể làm được nữa. đây là một nhiệm vụ tử thần. hãy từ bỏ mọi hy vọng. việc này chẳng có ý nghĩa gì  cả.",
                 "Item2": "Sprites/noteDrawings/x",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình không hiểu tại sao chúng ta lại ở đây. để làm gì chứ? mình biết mình được cho là phải thu hồi một loại pin hay gì đó. mình cho rằng những người khác cũng có cùng nhiệm vụ. không có cách nào để làm việc này hiệu quả hơn sao? logic hơn? tại sao lại gửi mình đến đây chứ. mình nhớ bạn bè của mình. mình không muốn chết.",
                 "Item2": "Sprites/noteDrawings/alone",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình đã bị ngã. rất tệ. chân mình bị dập nát. điều này thực sự tồi tệ. di chuyển một chút thôi cũng đau. mình cần một số loại thuốc giảm đau cho thứ này.",
                 "Item2": "Sprites/noteDrawings/brokenleg",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình nghe lén được những kẻ bắt giữ chúng mình gọi chúng mình là một thứ pha trộn ghớm ghiếc của \"người, cáo và chuột\", bất kể điều đó có nghĩa là gì. họ đang giấu bao nhiêu thứ khỏi chúng mình? suy nghĩ đó làm mình sợ hãi. mình chưa bao giờ xem xét bất cứ điều gì nằm ngoài nơi chúng mình được nuôi dưỡng. và bây giờ mình ở đây. mình không thể hiểu nổi tất cả những chuyện này.\n(Trên tờ giấy có gì đó trông giống như một bức chân dung tự họa.)",
                 "Item2": "Sprites/noteDrawings/experiment",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình nhận thấy vẽ là một cách giải thoát khá ổn cho tình huống mà mình đang gặp phải. Có vẻ như tất cả mọi người đều đang phải vật lộn với trạng thái tinh thần của mình. Thỉnh thoảng có một thứ gì đó làm phân tâm khỏi thực tại khắc nghiệt cũng tốt.",
@@ -4474,12 +4474,12 @@
             {
                 "Item1": "mình không muốn làm điều đó. họ có một ống dẫn lưu màng phổi. mình có thể làm gì chứ? chết ngạt trong chính máu của mình sao? tất cả những gì mình có là một thanh thuốc nổ... giá như mình có thể ở nhà, dù chỉ là nghe radio huấn luyện, mình sẽ đánh đổi bất cứ thứ gì. đó không phải là lỗi của mình. đó không phải là lỗi của mình.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình yêu nơi này! mình vẫn gặp những sinh vật mới, chúng thật dễ thương! có rất nhiều điều thú vị ở đây! mình sẽ không bao giờ quay lại phòng thí nghiệm, hang động muôn năm!",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "dune thích nếm bạn bè .  tất cả bạn bè nếm khác nhau .  bạn lông sẫm thì cứng .  bạn lông sáng thì dai .   nếm dune vị như nào nhỉ ?",
@@ -4489,7 +4489,7 @@
             {
                 "Item1": "ôm người khác làm mình hạnh phúc hơn... nhưng một số người sống sót lại từ chối những cái ôm, mình nghĩ mình có thể xoa dịu họ bằng cách nào đó. ngoài ra ngủ cạnh họ tốt hơn nhiều so với việc nằm một mình trên sàn lạnh.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Gửi đến bất cứ ai tìm thấy thứ này, họ có thể và sẽ kiểm soát bạn, ngay cả trong cái địa ngục này. Không có cảnh báo trước nào, mình bắt đầu nghe thấy một tiếng còi báo động lớn bên trong mình, mình có thể thấy một dòng tin nhắn nói rằng \"ĐỘ SÂU KHÔNG ĐẠT YÊU CẦU\" với những ánh đèn đỏ nhấp nháy hiện thực hóa ở khóe mắt mình.\n\nmình bắt đầu chạy, hoảng loạn, không biết tại sao họ lại làm điều này. Chỉ sau khi mình đi vào một khu vực khác của mạng lưới hang động này, nó mới dừng lại. Họ biết bạn đang dành bao nhiêu thời gian ở đây, họ biết rằng bạn sẽ sợ hãi, và họ muốn bạn chết. Tất cả chuyện này là một cuộc diệt chủng hàng loạt.",
@@ -4499,47 +4499,47 @@
             {
                 "Item1": "mình tìm thấy một vũ khí. một khẩu súng. trời ạ... mình không quen dùng thứ này... lẽ ra mình nên cẩn thận hơn trong các buổi huấn luyện... mình hoàn toàn không hiểu tại sao họ lại không giết bỏ mình mà lại gửi đến đây khi không chuẩn bị trước như thế này. mình gần như đã vô tình bắn một ai đó. lẽ ra mình nên bật chốt an toàn của súng... mình là ai mà biết được chứ. những người khác có xu hướng thực sự hoảng sợ khi họ thấy bạn cầm vũ khí trong tay. vì vậy có lẽ tốt nhất là nên giấu nó vào trong thứ gì đó, để họ không nhìn thấy. họ nghĩ bạn sẽ bắn họ, họ không biết ý định của bạn. chà, mình cũng sẽ nghĩ như vậy nếu có ai đó chĩa súng vào mình.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình thật giận bản thân mình vì đã hành xử như một thằng khốn nạn với những người khác ở trên đó... bây giờ tất cả những người sống sót mà mình tìm thấy đều đuổi mình ra khỏi khoang của họ... chậc, nếu mà bạn biết họ đã chửi rủa khó nghe thế nào... họ đã cố cào mình... và mình chỉ tự nhủ với bản thân: \"được rồi, mình xin lỗi. chết tiệt thật, bạn có nhận ra rằng hiện tại mỗi mạng sống đều quan trọng không? không có chỗ cho việc làm tổn thương và giết chóc lẫn nhau đâu.\". mình ước mình là một người tốt hơn... đây đều là lỗi của chính mình.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "đừng luôn tin tưởng vào những bình chất lỏng nằm rải rác xung quanh. mình tìm được một bình chứa mini chứa thứ mà mình nghĩ là nước chanh, nhưng một ngụm đắng ngắt là đủ để nói với mình rằng không phải vậy. mình đã cố gắng rửa trôi nó bằng một thùng nước khác, nhưng nước đó khiến mình rất ốm và lông mình bắt đầu rụng.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "hôm nay mình tìm thấy một vài lon kim loại kỳ lạ bị xé nhãn. mình không thể nói đó là gì và chất lỏng quá đặc để đổ ra ngoài, nhưng nó no bụng một cách đáng ngạc nhiên, mình cảm thấy như mình vừa ăn một miếng bít tết ngon lành... mình cảm thấy rất buồn ngủ. mình chuẩn bị uống lon tiếp theo, mình yêu những cái lon này!\n(Phần dưới cùng của tờ giấy trông giống như có những cục đen bị bắn mạnh vào.)",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "điều này nói ra có thể rất lạ nhưng mình đã bằng lòng với tình huống này. mình đã cố gắng tự chăm sóc bản thân nhiều nhất có thể và cố gắng an ủi tất cả những người khác mà mình đã gặp ở dưới này. nó làm mình cảm thấy... mãn nguyện? mặc dù mình đã bị thương rất nhiều nhưng mình đã có thể xử lý nó mà không cảm thấy chán nản.\nmình sẽ cố gắng đi xa nhất có thể, và mặc dù có lẽ mình sẽ không thành công, mình biết mình đã làm hết sức và giúp đỡ càng nhiều người khác càng tốt. đó là tất cả những gì bất cứ ai trong chúng ta có thể làm.\nnếu bạn đang đọc điều này, đừng bỏ cuộc, nhé?",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình đã nhìn thấy ngày càng nhiều những khoang đổ nát này gần đây, hơi giống những cái mà họ đã gửi chúng mình xuống đây ngoại trừ những cái này bằng cách nào đó đã nổ tung <>\nbên trong đống đổ nát, mình thường tìm thấy một số loại đạn súng cùng với một cục thịt gớm ghiếc nào đó? \n<>\ntrông thật tồi tệ nhưng nó có thể ăn được???\ncái người gọi là dune mà mình gặp trước đó nói với mình rằng ăn nó rất tốt\nmình có thể thử ăn một chút\n<>\n\nđã ăn nó và nôn mửa liên tục trong hai mươi phút, sai lầm tồi tệ nhất trong cuộc đời mình <>\nvì chúa, đừng ăn bất cứ thứ gì đó là",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình liên tục có cùng một giấc mơ. mình có đôi cánh khổng lồ và mình có thể tiếp tục bay lên, bay lên và bay lên. không gì có thể ngăn cản mình. mình lao qua trần của những hang động này và ra thế giới bên ngoài. ngoài kia thật đẹp nhưng mình vẫn tiếp tục bay. mình bỏ lại mọi thứ phía sau cho đến khi không còn gì ngoài một khoảng không khổng lồ. đó là lúc cuối cùng mình nhận ra. mình an toàn. mình tự do.\n\nmỗi lần mình thức dậy, mình không thể ngừng khóc. mình ước mình có thể tiếp tục mơ mãi mãi.\n\n(Có một bức vẽ lem luốc nước mắt về một số đôi cánh rất không chính xác.)",
                 "Item2": "Sprites/noteDrawings/wings",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "các nhà khoa học có thực sự nhìn thấy mình ở đây không? họ luôn muốn mình nói to những gì mình đang nghĩ, nhưng ở đây, mình chỉ đang nói chuyện với chính mình. mình cho rằng mình có quyền tự do dừng lại, nhưng... nó có cảm giác mang tính trị liệu. nếu mình không vượt qua được, có lẽ ít nhất những ghi chú này có thể.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình đã không nhận ra nó trở nên tồi tệ như thế nào cho đến khi mình cố gắng đào tiếp và móng vuốt của mình chỉ... lướt qua. không còn chút độ sắc nào nữa. mình đã cào qua đá không ngừng nghỉ, mình không để ý tới nó. mình cảm thấy trần trụi. hóa ra da thịt không thể thay thế công cụ.\n<>\nmình cứ đinh ninh rằng mình cần một cái cuốc cho mọi thứ. nhưng mình phát hiện ra con dao rựa của mình hoạt động rất tốt đối với những thứ nhẹ hơn. đất, thực vật, cát, nó cắt xuyên qua tất. cứu đôi tay mình khỏi rất nhiều đau đớn.\n<>\ntìm thấy một cái chai có dán nhãn thuốc kích thích keratin. cho thấy họ đã lên kế hoạch cho việc các bộ phận của chúng mình bị hỏng. uống một ngụm. một lúc sau, các lớp cũ bắt đầu bong ra như lông. bên dưới, chúng có cảm giác sắc bén hơn. cứng chắc hơn. thật thỏa mãn một cách kỳ lạ khi nhìn thấy những bộ phận mòn mỏi bong ra. mình thích cách móng vuốt của mình cho phép mình bám chặt vào tường tốt hơn\n<>\nmình nhớ đến con người. họ có móng tay trên mọi ngón tay. tất cả chúng. không có móng vuốt nào cả. nó trông thật sai trái khi nhìn gần. mềm. cùn. thật kỳ dị cách họ xoay xở mọi thứ với đôi bàn tay như vậy.\n<>\nmình từng nghĩ điều đó khiến họ yếu ớt.\n<>\nbây giờ mình tự hỏi liệu đó có phải là mục đích hay không.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Cái hang chứa đầy đủ loại sinh vật liên tục đi lang thang khắp mọi nơi. mình là một người hơi theo chủ nghĩa hòa bình, vì vậy mình cố gắng chạy trốn khỏi chúng, thay vì chiến đấu với chúng, vì mình không biết ai sẽ giết ai trước... Xét cho cùng, những vết thương chúng để lại trên người mình đau đớn khủng khiếp... mình không biết nữa... Những kẻ bắt giữ chúng mình có biết chúng mình đang trải qua những gì ở dưới này không?",
@@ -4564,7 +4564,7 @@
             {
                 "Item1": "(Tờ giấy bạc bị nhàu nát và nghiền nát, như thể nó được dự định vứt đi.)\n<>\nbạn mình họ... mình nghĩ họ đã tự sát. sau một cú ngã tồi tệ khác, mình đã cố gắng sửa lại đôi chân của họ nhưng họ cứ mắng mỏ mình. họ cứ xua đuổi mình như thể mình là một con ruồi nào đó, bảo mình để họ yên. mình không hiểu. mình rời đi để lấy một số cây cỏ ở đây để cố gắng băng bó cho họ nhưng... khi mình quay lại, họ lại có thêm một vết thương nữa. một vết trên cánh tay họ. mình vẫn nhớ nó trông như thế nào, nó rất tệ, gần như bị xé toạc. mình đã cố sử dụng những cây cỏ mình tìm thấy để băng bó vết thương mới nhưng họ cứ đẩy mình ra. đôi mắt của họ... trông chỉ... trống rỗng. mình bảo họ dừng lại và cứ để mình giúp nhưng họ không phản hồi. mình đã cố giúp thêm vài lần nữa và họ xô mình ra cho đến khi họ chỉ... dừng lại. mình nhớ đã nhìn thấy cơ thể họ thả lỏng, mình nghĩ đó là lúc họ ngừng thở. mình không thể lấy hình ảnh đó ra khỏi đầu mình...\n<>\ncó phải... mình đã làm gì sai không? mình thề là mình không làm... mình đã làm gì sai? tại sao họ lại làm thế? mình... mình không làm gì cả. mình không hiểu, mình không muốn chết... mình không... mình...\n<>\n...\n<>\nhaha...\n<>\nở trong này thật cô đơn.\n<>\n(Bạn nhận thấy những giọt nước mắt khô mờ nhạt và vết máu khô lốm đốm giữa tờ ghi chú nhăn nhúm.)",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(Có đồ họa đầy màu sắc trên tờ giấy, và nó dường như không phải được viết tay)\n<>\nSúp! Hãy thử Nồi Đặc Sản của chúng mình - chỉ cần cho thịt và nguyên liệu vào và ninh nhỏ lửa. Đừng lo lắng. Bạn sẽ đồng ý rằng nó đáng giá từng chút một về hương vị. Có thể bảo quản lên đến 737 năm!",
@@ -4576,32 +4576,32 @@
             {
                 "Item1": "ugh, nơi này thật tệ. mình liên tục bị cắn bởi những con nhện ngẫu nhiên mà mình không thể nhìn thấy kịp. mình nghĩ chúng có nọc độc, vì chúng để lại những vết thương nhiễm trùng trông rất khó chịu trên người mình... trái cây phát sáng cũng có ích với những vết thương đó",
                 "Item2": "Sprites/noteDrawings/spider",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mọi thứ đang diễn ra tốt đẹp với mình. thức ăn ngon trong bụng mình và có lẽ một hoặc hai cái đuôi nấm làm mình vui. các thương nhân cũng mỉm cười đáp lại mình! mình chỉ ghét nhìn thấy mình chảy máu, nó làm mình sợ",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình không thích việc không biết phải làm gì. khi ở nhà, họ luôn bảo mình. chơi trò chơi này, hãy im lặng khi con người đang nói chuyện, bị đâm bởi những thứ nhọn hoắt này.\nbây giờ mình được cho là phải hoàn thành nhiệm vụ này nhưng mình không biết làm thế nào để thực hiện. mình khát và mình bị thương ở chân nhưng mình cũng rất bẩn và lạnh và mình không biết phải đi đâu ngoài việc đi xuống dưới.\nmình đoán mình sẽ cố gắng ngăn chặn những gì sẽ giết chết mình nhanh nhất. mình hy vọng nó có hiệu quả.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "những ánh đèn nhấp nháy màu đỏ trong bóng tối là bẫy gai. hãy cẩn thận với chúng. làm ơn. làm ơn. có người vừa bước vào một cái ở phía xa, mình chỉ nghe thấy một tiếng kêu ăng ẳng và sự im lặng sau đó. hãy giữ an toàn",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "ở đây lạnh. rất lạnh. lạnh hơn nhiều so với ngôi nhà trước đây của chúng mình. thành thật mà nói, mình thích nó. tắm trong các hồ bơi cảm thấy rất dễ chịu, nó sảng khoái. mình đang thích kỳ nghỉ này",
                 "Item2": "Sprites/noteDrawings/pool",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình đã gặp một người, chúng mình đồng ý cố gắng ra ngoài bề mặt thông qua một trong những lỗ thủng dẫn ra ngoài. bạn mình bước ra trước, và ngay lập tức họ bắt đầu loạng choạng vì sốc. họ dường như đang rất đau đớn. họ nôn mửa rất nhiều, sau đó gục ngã và ngừng thở ngay sau đó. da của họ cũng bắt đầu phồng rộp, đặc biệt là quanh đầu và cổ. có thứ gì đó đang ngăn cản chúng ta rời đi. mình sợ.",
                 "Item2": "Sprites/noteDrawings/radiation",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Bị ướt dường như khá nguy hiểm nếu bạn không cẩn thận. Nhiệt độ ở đây thấp hơn nhiều so với ở nhà của chúng mình, và có vẻ như bị ướt sũng quá lâu có thể đưa chúng mình vào trạng thái hạ thân nhiệt. Hãy thử thực hiện một số bài tập thể chất nếu bạn cần làm ấm nhanh chóng, mình đã phát hiện ra điều đó có ích.",
@@ -4611,17 +4611,17 @@
             {
                 "Item1": "mình thực sự cần phải ngừng việc làm mất đèn của mình. bất cứ thứ gì cũng được, ngay cả những loại thực vật phát sáng kỳ lạ đó. mình cứ rời đi và quên mất chúng, sau đó vấp ngã và vô tình bị thương. không tốt.",
                 "Item2": "Sprites/noteDrawings/glowplant",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "ánh sáng là nguồn tài nguyên quý giá ở đây, đặc biệt là khi trời càng tối khi chúng ta đi càng xa. không muốn vô tình giẫm phải bẫy. với xác của một con nhện và những mảnh thực vật phát sáng, mình có thể tạo ra một chiếc đèn pha để rảnh tay. trong tình thế khó khăn, bóng đèn trong các khoang dường như chạy bằng pin đã cạn, và có thể bị bẻ gãy tương đối dễ dàng, gây ra sự hung hăng lớn cho chủ nhân của khoang",
                 "Item2": "Sprites/noteDrawings/lightbulb",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "có rất nhiều khoang ở ngoài này giống như cái mình đã thức dậy. mình đã vào một cái qua cửa sổ nhưng mình giẫm phải kính vỡ. phải thực sự cẩn thận, nhưng mình đã rút nó ra khỏi chân mình. cần phải đảm bảo mình dọn sạch các mảnh vỡ vào lần tới.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Con người làm những điều kỳ lạ. Bạn không bao giờ nên tin tưởng rằng họ sẽ tốt bụng.\nNhưng bạn có thể tin tưởng họ sẽ giữ cho bạn sống sót.<>\nMột lần mình bị gãy tay, và họ bó nó vào một cái \"bó bột.\" mình không thích nó. Nó nặng nề và ngăn cánh tay mình cử động hoàn toàn. Có vẻ như họ cố tình làm cho nó tệ hơn, và họ bắt mình phải đeo nó trong một thời gian dài.<>\nHọ đã tháo nó ra vào một ngày nọ, và cánh tay mình vẫn ổn.<>\nCon người đã làm nó tệ hơn, để nó có thể tốt hơn.<>\n\nmình nghĩ họ đã làm điều gì đó tương tự với đầu của Jumper.\nJumper từng hét và khóc rất nhiều. Một lần họ tự làm mình bị thương, và con người đã đưa họ đi.<>\nJumper hiện đã trở lại. Họ không khóc nữa. Họ không nói chuyện. Họ lúc nào cũng trông có vẻ buồn ngủ. Đầu của họ giống như cánh tay của mình trước đây. mình không thể nhìn thấy bất kỳ \"bó bột\" nào xung quanh nó, và hành vi của họ làm mình lo lắng, nhưng ít nhất họ không còn tự làm mình bị thương nữa. mình hy vọng con người sẽ hoàn tác bất cứ điều gì họ đã làm khi đầu của Jumper được sửa xong.<>\n\nmình nhớ họ.",
@@ -4633,7 +4633,7 @@
             {
                 "Item1": "rõ ràng là những cái hộp có những chiếc máy tính kỳ lạ bên cạnh có thể được mở ra nếu bạn đổ một ít máu đỏ lên chúng. nó phải đặc biệt là máu đỏ, nếu không nó sẽ không hoạt động. nó có một số thùng thưa bên trong, bạn có thể mở chúng và lấy đồ mang theo. hữu ích.",
                 "Item2": "Sprites/noteDrawings/bloodbag",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Kiểm tra thành phần hóa học của các túi máu màu khác nhau mà mình tìm thấy ở đây, có vẻ như chúng khác biệt đáng kể về thành phần. Máu đỏ hoàn toàn khác với máu của chúng ta và máu mà các sinh vật ở đây sở hữu. Dường như nó có thành phần hơi giống kim loại vì lý do nào đó, thật kỳ lạ. Tốt hơn là không nên dùng thứ đó cho bản thân mình.",
@@ -4648,12 +4648,12 @@
             {
                 "Item1": "mình gần như đã chết đuối chỉ một khoảnh khắc trước. mình chưa bao giờ bơi trước đây, và nó rất mệt mỏi. thật khó để giữ mình nổi trên mặt nước khi mình mệt. mình tưởng tượng chìm mãi mãi sẽ khá đau đớn... hãy cẩn thận.",
                 "Item2": "Sprites/noteDrawings/drown",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "tình cờ nghe được một chút từ những kẻ bắt giữ chúng mình, có vẻ như hàng hóa mà chúng mình được cho là phải lấy là một loại \"nguồn năng lượng tiên tiến\" nào đó. điều gì đó về việc lưu trữ một lượng lớn điện năng và phân phối nó \"không dây\". mình không biết phần lớn những thứ đó có nghĩa là gì, nhưng có lẽ sẽ hữu ích nếu biết. hãy giữ an toàn",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Gần đây tìm thấy một loại máy khoan, nhưng nó bị thiếu một vài bộ phận. mình không thể hình dung ra nó cần gì, ngoại trừ tấm che cho tất cả các cơ chế... Có thể chứng tỏ hữu ích nếu mình đưa nó vào trạng thái hoạt động.",
@@ -4685,12 +4685,12 @@
             {
                 "Item1": "ugh. ở đây thật nóng. thực sự cần phải giãn cách các chuyển động của mình ra và cẩn thận để không bị tê liệt vì nóng. mình nhận thấy rằng lặn xuống các hồ nước ở đây có ích... thậm chí có thể là những hồ màu nâu nếu tuyệt vọng.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình không thể nữa. tại sao.\nmọi người đã chết\nmình không thể.\nmình muốn chuyện này dừng lại\nmình không thể\nmình muốn sự tự do\ntại sao\nmình không thể. mình không muốn nhìn thấy bất kỳ điều gì thế này nữa. mình đã thấy quá nhiều điều tồi tệ. mình quá ốm yếu.\nchân mình bị hỏng rồi. bị nổ tung bởi một quả mìn\ntay mình, tay phải, cũng đang hành hạ mình rất dữ dội\nmình muốn chấm dứt mọi thứ\nmọi thứ là một sự khốn khổ\nmình không thể chịu đựng thêm nữa\nmột lát nữa mình sẽ cào đứt động mạch của mình và biến thành một cái xác khác để bạn liếc nhìn - miễn là họ không ăn thịt mình vào lúc bạn đến đây.\n\ncảm ơn vì tất cả mọi thứ. tạm biệt",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "Những dây leo trải dài quanh khu vực này có thể trèo lên một cách đáng ngạc nhiên. Những dây mỏng thì khó hơn, nhưng bạn có thể sử dụng những dây lớn như những chiếc thang tự nhiên. Chắc chắn đã cứu mình khỏi vài cái chân bị gãy.",
@@ -4715,22 +4715,22 @@
             {
                 "Item1": "có hàng tấn bụi rậm quanh nơi này, mặc dù mình không thể nói mình đã nhìn thấy bất kỳ bụi nào còn sống. mình nghĩ chúng khá hữu ích để làm dây thừng và làm đệm giảm chấn cho các cú ngã, nhưng chúng cũng có xu hướng giấu bẫy...",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "ở dưới này quá nóng. mình cảm thấy như mình chỉ đang lao từ khoang cứu sinh này sang khoang cứu sinh khác. mình thậm chí không muốn mở các viên nang thả xuống, chúng cũng làm mình nóng lên. tuy nhiên người bạn dune tên stimpy của mình dường như không bận tâm lắm. phải chăng họ chỉ không phàn nàn, hay là tất cả lớp da đó đang làm họ mát đi?",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "cứu mình    đã giẫm phải   đĩa phát nổ   mình  đang trong   rất nhiều   đau đớn  cứu    cứu mình  làm ơn   mình đang n g ấ t    đ i",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình nghe thấy tiếng reo.. đầu mình rất, rất đau, mình nghe thấy một tiếng bíp lớn khi mình đi xuống một chút và sau đó là âm thanh nổ lớn đó     mình không biết nó phát ra từ đâu . mình không thể nhìn xa hơn nhiều nhưng có một thứ gì đó rất nguy hiểm trong những hang động này, hãy cẩn thận với những không gian mở rộng lớn",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             }
         ],
         [
@@ -4757,17 +4757,17 @@
             {
                 "Item1": "nước có thể uống được ở đây thực sự khan hiếm, và mình không nghĩ thứ trông giống nhựa đường đó an toàn. một số thảm thực vật ở đây có đủ hàm lượng nước để ép thành nước trái cây, mặc dù mùi vị không được dễ chịu cho lắm. dù sao thì nó vẫn tốt hơn là bị khát",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình lại giẫm phải một trong những cuộn dây chết tiệt đó vào hôm nay, nó được giấu trong một bụi cây, mình nhận ra nó quá muộn để kéo lại.\n<>\nthật tồi tệ, giống như mình đang bị nấu chín từ bên trong, ngay cả sau cú sốc ban đầu. tuy nhiên, đồ uống lạnh có vẻ giúp ích, mình đã phải uống phần lớn sữa khẩu phần của mình, và một ít nước táo, không chắc não của mình có sống sót được nếu không có nó không. mọi thứ vẫn đang quay cuồng, hầu như không thể quay trở lại khoang của mình.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình không còn chút nước nào trong chai ở sa mạc này. mình rất bẩn và khát. mình bước vào một vũng nước mà mình tìm thấy để uống nó và tắm, sau đó tất cả bụi bẩn làm cho nó trở nên đục ngầu. mình không thể uống nó được nữa. Lẽ ra mình nên ném chai của mình vào. mình cần nước...",
                 "Item2": "Sprites/noteDrawings/waterbottle",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             }
         ],
         [
@@ -4784,12 +4784,12 @@
             {
                 "Item1": "mình... mình cảm thấy mình đang chết. mọi chuyện quá đỗi bất ngờ, máu ở khắp mọi nơi và mình không thể mở mắt ra được. mình đã sợ... nhưng mình không muốn bỏ cuộc. mình đã tìm thấy rất nhiều điều thú vị ở nơi này và mình cảm thấy như mình đã đạt được rất nhiều tiến bộ trong nhiệm vụ này. mình sẽ không dừng lại ở đây. mình sẽ vượt qua tất cả những chuyện tồi tệ này. mình sẽ gặp lại bạn bè của mình.",
                 "Item2": "Sprites/noteDrawings/laststand",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình đã không nghĩ con quái vật đó sẽ tìm lại mình, nhưng nó đã làm. nó biết khuôn mặt của mình, những sai lầm của mình... nhưng không phải khẩu súng trường của mình. khi nó cuối cùng vỡ toác ra, mình nhìn thấy cái cuốc đó. mình thấy hình khắc mà mình cào lên nó, cũng giống như hình khắc mà họ đã cào lên cái cuốc của mình. mình nhìn thấy mảnh vỡ từ khi họ cố đào một ít titan lên để tặng mình. và rồi, đột nhiên, mình thấy điều đó xảy ra một lần nữa. mùi thép cọ xát. những chấn động của mặt đất. âm thanh của da thịt bị xé toạc. mùi vị của mồ hôi và máu, khi mình cố chạy, làm rơi thức ăn mà mình mang về khoang-\n<>\nmình có được cho là sẽ cảm thấy thanh thản ngay lúc này không? hay mình chỉ đang mặc cả cho sự bình yên, để rồi bị phá vỡ khi một kẻ khác tìm thấy mình?",
                 "Item2": "Sprites/noteDrawings/thornback",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình muốn rời khỏi nơi này, mình đang bị khủng bố, mình không có từ ngữ nào để mô tả những gì mình vừa trải qua, đó là một sinh vật to lớn, khủng khiếp với hàng trăm cái răng, sẵn sàng nuốt chửng mình, nó đuổi theo mình trong khoảng thời gian mà mình cảm thấy như hàng giờ, nó phá hủy mọi thứ trên đường đi của nó. Nó chỉ dừng lại sau khi mình đã đi quá xa đến mức mình hoàn toàn bị lạc, nó làm cạn kiệt thức ăn, nước uống, công cụ, thậm chí cả sự tỉnh táo của chính mình, mình chỉ muốn điều này kết thúc.",
@@ -4801,7 +4801,7 @@
             {
                 "Item1": "ở đây quá lạnh. phải cố gắng hết sức để không bị ướt chút nào, nếu không mình sẽ gặp rắc rối lớn. chúng mình thật may mắn, có rất nhiều loài thực vật có bào tử kỳ lạ tỏa ra một số nhiệt lượng, cùng với những cỗ máy kỳ lạ đó. mình đoán hãy chạy giữa những thứ đó khi có thể. tốt hơn là không nên bị mắc kẹt trong cái lạnh cóng.",
                 "Item2": "Sprites/noteDrawings/xaloris",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "dune lạnh. đào ấm không đủ ấm. dune ăn bạn có lông. ăn sống! dune có lông. lông ấm cho dune. dune no và ấm. dune vui không lạnh.",
@@ -4811,7 +4811,7 @@
             {
                 "Item1": "dưới này lạnh quá, mình liên tục phải chui vào các khoang cứu sinh để làm ấm... mặc dù đôi khi có những chiếc lò sưởi nhỏ kêu vo ve mà mình có thể ghé lại để lấy hơi ấm, mình chỉ cần cẩn thận đừng chạm vào chúng quá lâu, chúng khiến mình cảm thấy ốm. vừa đủ để làm ấm và sau đó tiếp tục đi. nếu mình là bạn, mình sẽ chơi an toàn và chú ý đến bất cứ thứ gì đào về phía mình khi mình đang nghỉ ngơi. mình có thể nghe thấy những thứ đang đào hầm xung quanh mình.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             }
         ],
         [
@@ -4823,7 +4823,7 @@
             {
                 "Item1": "tìm thấy một số thứ nảy kỳ lạ. chúng đẩy mình bay lên... nhưng mình có thể giữ chân mình chĩa xuống. nó khá vui. có lẽ đôi khi cũng có thể hữu ích. có thể hơi nguy hiểm, nhưng điều gì không nguy hiểm ở dưới này cơ chứ.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "mình không biết cái gì đã đánh mình nhưng mình không còn cảm thấy chân mình nữa, tất cả những gì mình có thể thấy là một mớ hỗn độn của cơ xương và máu\ncơ thể mình đang gào thét đòi sự đau đớn kết thúc \nthứ duy nhất mình có là thiết bị màu xanh này trên ngực. mình được người thương nhân mà mình mua nó từ đó bảo rằng nó chỉ nên được sử dụng trong trường hợp khẩn cấp.\nCơn đau không còn quá sức chịu đựng nữa, nhưng bây giờ đèn đang nhấp nháy. mình không biết mình còn bao lâu nữa. bóng tối có trở lại khi thứ này hết điện không? mình không muốn tan biến...",
@@ -4835,97 +4835,97 @@
             {
                 "Item1": "mỗi một trong những khối u ở đây dường như nó có một loại hiệu ứng nào đó... mình không biết chính xác là gì. nó không thể đoán trước được. nhưng có những quy luật đối với nó. một số an toàn, một số thì không, một số có ích. mình sẽ cố gắng viết ra mọi thứ khi mình khám phá ra nó...",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "..ugh. được rồi. những cái màu vàng làm ĐAU. cảm giác hơi giống với những cuộn dây mà mình tìm thấy vài giờ trước... chúng thường có một loại trường phọt phẹt kỳ lạ xung quanh chúng... đừng chạm vào chúng. điều đó không tốt. ít nhất là đối với cơ thể của bạn. mình nhận thấy bằng cách nào đó nó đã sạc lại tất cả pin của mình sau khi chạm vào...",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "bộ đếm geiger mà mình có này trở nên điên cuồng khi ở xung quanh một trong những khối u màu xanh lá cây. một loại \"bức xạ\", bất kể đó là gì. mình khá chắc nó có hại cho bạn. hãy tránh ở gần những thứ đó nếu bạn có thể.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "nhận thấy một số thứ này mỏng manh một cách kỳ lạ. chúng vỡ vụn khi mình chạm vào chúng chút xíu. bạn sẽ thấy chúng trông thực sự giòn, có vết nứt khắp trên chúng. kỳ lạ thay, điều này dường như cũng xuất hiện cùng với một số loại khác mà mình đã thấy... tự hỏi liệu đây có phải là trường hợp của tất cả chúng không.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "nhận thấy rất nhiều khối u đẩy mình ra xa hoặc kéo mình vào. bạn có thể cảm nhận được một loại lực nào đó đi qua bạn khi điều đó xảy ra. có thể chứng minh là hữu ích đôi khi",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "trời ạ. mình CỰC KỲ mừng vì mình có túi chườm đá trong người. có vẻ như những cái có sương mù, lung linh làm nóng mọi thứ xung quanh chúng một cách nhanh chóng... bao gồm cả mình. mình sẽ không ngạc nhiên nếu một số làm điều ngược lại. mình cũng nghe thấy âm thanh kỳ lạ này phát ra từ chúng...",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "đảm bảo bạn có sẵn một ít thuốc kháng sinh. mình nghĩ những cái màu tím làm rối loạn hệ thống miễn dịch của bạn. chúng có một màn sương màu tím mờ ảo xung quanh... mình đã ngồi cạnh một cái một lúc để nghỉ ngơi, và nhận thấy các dấu hiệu sinh tồn của mình giảm xuống trên con chip. có vẻ như một loại phản ứng nhiễm trùng máu. mình nghĩ mình sẽ ổn",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "được rồi. những thứ rung rinh trông thực sự đáng sợ... không phải vậy đâu. chúng đẩy bạn bay lên... nhưng, kiểu như, mình có thể giữ chân chĩa xuống toàn bộ thời gian. hơi giống với những thứ nảy trong khu vực trước mà mình đã ở.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "...\n<>...\n<>...\n<>những thứ bay lượn. mình không biết chúng làm thế nào. lạy chúa... ôi trời. giờ mình ổn rồi, nhưng...<>\n\nnói thế nào nhỉ... có những thứ bay sắc nhọn kỳ lạ. chúng tạo ra những tiếng động lớn thực sự kỳ lạ... gần như thể chúng đang cười nhạo mình. đôi khi chúng lấy đà và lao vào mình, cố đâm mình. chúng bắt được mình một hoặc hai lần, nhưng... bất cứ khi nào chúng làm thế, chúng bị kẹt vào đất và mình đánh nó vài lần cho đến khi nó... uh... không chắc... chuyện gì đã xảy ra, nhưng nó đã biến mất. mình nghĩ nó đến từ một trong những khối u, nhưng nó có vẻ như đang di chuyển.<>\n\nmình lấy được một thứ gì đó sau khi nó biến mất... có lẽ nó hữu ích? có vẻ như nó đang phát triển thành thứ gì đó, mình sẽ đợi và xem.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "được rồi. tin tốt và tin xấu. cái thứ mà mình giữ lại sau khi giết một trong những thứ bay lượn... nó... đã phát triển thành. nhiều thứ bay lượn hơn. hai con... từ một... tuy nhiên chúng dường như chậm hơn khi đi theo nhóm... kiểu như, chúng đã... cho mình cơ hội đánh trả? kỳ lạ.<>\n\nmình đã ăn những cái lõi mình lấy được từ chúng, mình không có ý tưởng nào khác để làm gì với nó... nó. khá ngon, thực ra là vậy. và có vẻ như lần này nó không biến đổi thành bất cứ thứ gì. có lẽ thỉnh thoảng mình có thể làm điều này để ngày càng có nhiều thức ăn? dù sao thì mình không thể tìm thấy nhiều thức ăn ở dưới này",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "không có manh mối gì về việc mình đang ở đâu. mình nghĩ mình đã chạm vào một khối u kỳ lạ và bị... gửi đi. đến một nơi nào đó. dù sao thì cũng an toàn. tuy nhiên, không có manh mối ở đâu. tất cả những gì mình nhớ là nó trông trong suốt hơn một chút so với bình thường. gần như thể mình có thể nhìn thấy nơi mình đã kết thúc ở đó...",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "nhận thấy rất nhiều thứ trong số này nhỏ giọt chất lỏng. dường như chúng không làm được gì nhiều ngoài việc đó. nguồn nước, có lẽ vậy?",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "đã chạm vào một cái màu xám, nó nhấp nháy màu trắng, tạo ra một âm thanh kỳ lạ. không cảm thấy nhiều sau đó... cho đến khi mình cố gắng sử dụng máy khoan laser của mình. thứ đó đã hết điện, trong khi mình chắc chắn cách đây một khoảnh khắc thì không. đã kiểm tra phần pin còn lại mà mình tích trữ, kết quả tương tự. kỳ lạ. tránh xa. có thể đáng để ném mình vào một trong những thứ phóng điện để sạc lại chúng...",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "nhức mắt. bên cạnh một cái siêu siêu sáng. có vẻ như nó không làm bất cứ điều gì ngoài... chà.. làm mình chói mắt. không thích nó, nhưng mình thích nó hơn bất kỳ thứ gì khác mà chúng có thể làm.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "những cái màu hơi đỏ sẽ phát nổ. hãy chạy khi nó đếm ngược. mình ổn... chúa ơi, mình chắc chắn là gần như đã không ổn.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "tìm thấy một cái mờ mờ kỳ lạ. chạm vào nó, và mình không thể nhìn thấy gì trong một lúc... nhưng khi mình mở mắt ra, mình thấy một vài sợi dây thừng và một cái túi nằm ngay trước mặt mình. khối u đã biến mất. mình không thể phàn nàn. có vẻ như nó không làm bất cứ điều gì khác.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "bạn có thể chạm vào những cái màu xanh lá cây. chúng rất tốt. mình rất thích điều đó. hehe. uh. những cái màu xanh lá cây không kích hoạt bộ đếm geiger. những cái tốt dường như nảy lên một chút. oh... uh... huh... mình rất thích cái màu xanh lá cây. mình thích cái màu xanh lá cây. bạn có thể chạm vào nó. mình thích cái màu xanh lá cây.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "tìm thấy một cái đang bốc cháy. chạm vào nó vì tò mò. đừng làm vậy. nó rất nóng.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             },
             {
                 "Item1": "huh. mình đang đi bộ trên một trong những khối u và nó trông bình thường, nhưng đột nhiên nó phát ra một âm thanh và trở nên khác biệt. kiểu như. nó chuyển đổi vị trí? kỳ lạ.",
                 "Item2": "",
-                "Item3": "cá thể thí nghiệm"
+                "Item3": "experiment"
             }
         ]
     ],
