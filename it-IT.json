@@ -395,7 +395,7 @@
 	    "liquidcentrifuge": "Centrifuga per liquidi",
         "liquidcentrifugedsc": "Una centrifuga portatile che è in grado di separare mix di sostanze diverse nei rispettivi composti originali. Il processo è abbastanza complesso e circa un terzo del volume totale dei liquidi viene perso nel processo. Si ricarica ogni 60 secondi.",
         "epda": "E-PDA",
-        "epdadsc": "Un assistente digitale personale elettronico, che probabilmente apparteneva ai tuoi padroni. Se trovi una batteria, potresti leggere i loro appunti e diari o trovare informazioni utili.",
+        "epdadsc": "Un assistente digitale personale elettronico, che probabilmente apparteneva ai tuoi padroni. Se trovi una batteria, potresti leggere i loro appunti e imparare cose che non conoscevi.",
         "bloodcoagulant": "Siringa di Procoagulante",
         "bloodcoagulantdsc": "Una siringa da 100ml con un auto-iniettore in punta. Il disaggio è ~34mL.",
 		"combatpen": "Stimolanti da combattimento",
@@ -443,7 +443,7 @@
         "browncap": "Fungo marrone",
         "browncapdsc": "Non sai di che tipo di fungo si tratti. Per quel che ne sai potrebbe curare ferite, essere commestibile, provocare allucinazioni o direttamente ucciderti sul colpo.",
         "sneakers": "Sneakers",
-        "sneakersdsc": "Un paio di sneakers bianche, non progettate per il tuo piede. Se riesci tuttavia ad infilarci la zampa, fornisce protezione da vetro e e piccoli frammenti taglienti.",
+        "sneakersdsc": "Un paio di sneakers bianche, non progettate per il tuo piede. Se riesci tuttavia ad infilarci la zampa, fornisce protezione da frammenti di vetro.",
 		"tacticalboots": "Scarponi tattici",
         "tacticalbootsdsc": "Un paio di pesanti scarponi sintetici, fatti per proteggere efficacemente il piede da vari tipi di traumi fisici.",
         "frigiantfruit": "Frutta del ghiaccio",
@@ -696,8 +696,8 @@
         "crystalbigdsc": "Un grande cristallo bioluminescente.",
         "crystalmassive": "Cristallo",
         "crystalmassivedsc": "Un gigantesco cristallo bioluminescente.",
-        "crystalenemy": "Manifestation",
-        "crystalenemydsc": "An expression of malignant intent, from somethimg far, far beyond your limited physical comprehension.",
+        "crystalenemy": "Manifestazione",
+        "crystalenemydsc": "L'espressione d'un intenzione maligna. Qualcosa di molto, molto superiore alla tua capacità di comprensione fisica.",
         "sandrose": "Rosa del deserto",
         "sandrosedsc": "Una pianta stranamente affascinante con delle strane forme oblunghe che gli crescono sopra.",
         "scrapeater": "Mangia-rottami",
@@ -1188,7 +1188,7 @@
         "infinirock": "Infinipietra",
         "clay": "Argilla",
         "soil": "Terra",
-        "granite": "Granite",
+        "granite": "Granito",
         "marble": "Marmo",
         "limestone": "Calcare",
         "bricks": "Mattoni",
@@ -1551,7 +1551,7 @@
         "gamesetbrightnessdsc": "Quanto luminosi saranno tutti i valori non completamente neri",
         "gamesetlineofsightcount": "Risoluzione linea visiva",
         "gamesetlineofsightcountdsc": "Quanto dettagliata è la linea visiva, quando possibile. Valori più alti peggiorano le performance.",
-        "gamesetscreenshake": "Screenshake",
+        "gamesetscreenshake": "Vibrazione dello schermo",
         "gamesetscreenshakedsc": "Quanto lo schermo trema dopo cadute, esplosioni ecc.",
 		"gamesetcensorpain": "Censura dolore",
         "gamesetcensorpaindsc": "Disabilità certi aspetti e suoni legati al dolore del personaggio.\nNOTA: A meno che tu non ne senta il bisogno, ti consigliamo di mantenerli per un esperienza di gioco più autentica",
@@ -1739,7 +1739,7 @@
         "cqblood": "Sangue",
         "cqopiate": "Oppiaceo",
         "cqdressing": "Fasciatura",
-        "cqproduce": "Produce",
+        "cqproduce": "Frutto",
         "cqmeat": "Carne",
         "cqfirestarter": "Accendi-fuoco",
         "cqheatsource": "Fonte di calore",
@@ -1865,7 +1865,7 @@
         "open": "Apri",
         "insertbattery": "Inserisci batteria dalla mano principale",
         "lockpick": "Scassina",
-        "learnedrecipe": "Ricetta imparata per r1.\nOttenuto <color=\"green\">35 INT exp.",
+        "learnedrecipe": "Ricetta imparata per r1.\nOttenuto <color=\"green\">25 INT exp.",
 		"epdalearn": "Ottenuto <color=\"green\">35 INT exp.",
         "hasbattery": "Ha una batteria (<>)\n<sprite index=17 tint=1>Usa strumento per rimuovere",
         "nobattery": "Manca batteria (Max. <>)",
@@ -2485,7 +2485,7 @@
             ],
             "vomit": [
                 "Bluughh... uughh...",
-                "Ghghh... *cough*",
+                "Ghghh... *tossisce*",
                 "Ecco il mio... pranzo...",
                 "Bllggh... ugh... diamine...",
                 "Uuggh... che... sensazione orribile...",
@@ -2508,7 +2508,7 @@
             ],
             "vomitblood": [
                 "Bluughh... io... Oh. Oh cazzo, quello è sangue...",
-                "Ghghh... *cough* ...Cazzo... Quello è... Sangue...",
+                "Ghghh... *tossisce* ...Cazzo... Quello è... Sangue...",
                 "Ecco il mio pra... pra... Oh. Oh no no no. Oh no. Ho appena vomitato sangue...",
                 "Bllggh... ugh... Io... Oh... Dio...",
                 "Quello è... è sangue che ho... Blugh...",
@@ -4200,10 +4200,10 @@
             "tradermeetgood": [
                 "W-ow! C-ciao!",
                 "Mmmm... Amic-o... Ben-venuto al... Sicuro...",
-                "Fri-end! Hel-lo...! How is...",
-                "Dune find... Go-od fri-end!...",
-                "Hel-loo!... Frie-nd... App-ro-ach...",
-                "Ne-w fri-end?.. Dune ha-ppy..."
+                "Ami-co! C-ciao...! Come v-va...",
+                "Dune trovare... B-buon am-ico!...",
+                "C-ciao!... Amic-o... arr-ivato...",
+                "Nuovo a-amico?.. Dune f-felice..."
             ],
             "tradermeetbad": [
                 "Grrr... Pers-ona...",
@@ -4561,7 +4561,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(Il biglietto è accartocciato e stropicciato, come se fosse destinato a essere gettato via.)\n<>\nIl mio amico... credo che si sia suicidato. Dopo un'altra brutta caduta ho provato a medicargli le gambe, ma continuava a mandarmi via. Continuava a scacciarmi come se fossi una mosca, dicendomi di lasciarlo in pace. Non capivo. Sono andato a prendere alcune delle piante qui intorno per provare a fasciarli, ma... quando sono tornato avevano un'altra ferita. Una sul braccio. Ricordo ancora com'era, era grave, praticamente lacerata. Ho provato a usare le piante che avevo trovato per medicare la nuova ferita, ma continuavano a respingermi. I loro occhi erano... sembravano proprio... vuoti. Ho detto loro di smetterla, cazzo, e di lasciarmi aiutare, ma non hanno risposto. Ho provato ad aiutarli ancora un paio di volte e mi hanno respinto finché non si sono semplicemente... fermati. Ricordo di aver visto il loro corpo rilassarsi, penso che sia stato allora che hanno smesso di respirare. Non riesco a togliermi quell'immagine dalla testa...\n<>\nHo... ho fatto qualcosa di male? Giuro che non l'ho fatto... cosa ho fatto di male? Perché l'hanno fatto? Io... io non ho fatto niente. Non capisco, non voglio morire... non voglio... io...\n<>\n...\n<>\nhaha...\n<>\nÈ così vuoto qui.\n<>\n(Si notano deboli tracce di lacrime e sangue secco sparse sul biglietto.)",
+                "Item1": "(Il biglietto è accartocciato e stropicciato, come se fosse destinato a essere gettato via.)\n<>\nIl mio amico... credo che si sia suicidato. dopo un'altra brutta caduta ho provato a medicargli le gambe, ma continuava a mandarmi via. continuava a scacciarmi come se fossi una mosca, dicendomi di lasciarlo in pace. non capivo. sono andato a prendere alcune delle piante qui intorno per provare a medicarlo, ma... quando sono tornato avevano un'altra ferita. una sul braccio. ricordo ancora com'era, era grave, praticamente lacerata. Ho provato a usare le piante che avevo trovato per medicare la nuova ferita, ma continuavano a respingermi. i loro occhi erano... sembravano proprio... vuoti. ho detto loro di smetterla, e di lasciarmi aiutare, ma non hanno risposto. ho provato ad aiutarli ancora un paio di volte e mi hanno respinto finché non si sono semplicemente... fermati. Ricordo di aver visto il loro corpo rilassarsi, penso che sia stato allora che hanno smesso di respirare. Non riesco a togliermi quell'immagine dalla testa...\n<>\nHo... ho fatto qualcosa di male? Giuro che non l'ho fatto... cosa ho fatto di male? Perché l'hanno fatto? Io... io non ho fatto niente. Non capisco, non voglio morire... non voglio... io...\n<>\n...\n<>\nhaha...\n<>\nÈ così vuoto qui.\n<>\n(Si notano deboli tracce di lacrime e sangue secco sparse sul biglietto.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4882,7 +4882,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "no clue where i am. i think i touched a weird growth and got... sent. somewhere. safely, though. still, no clue where. all i remember is it looking a bit more see-through than usual. almost as if i could see the place i ended up in...",
+                "Item1": "non so dove sono. credo di aver toccato una fessura strana che mi ha... mandato. da qualche parte. per fortuna in modo sicuro. ma comunque, non ho idea dove. mi ricordo solo che era più trasparente del solito. quasi come se potessi vedere il posto in cui sono finito...",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4892,7 +4892,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "ho toccato uno grigio: ha emesso un lampo bianco e ha fatto uno strano rumore. Dopo non ho sentito granché... finché non ho provato a usare il mio trapano laser. Il dispositivo era scarico, anche se un attimo prima ero sicuro che non lo fosse. Ho controllato il resto delle batterie che avevo messo da parte: stessa storia. Strano. Da evitare. Forse varrebbe la pena lanciarmi contro uno di quelli che fanno le scariche per ricaricarle hahahah...",
+                "Item1": "ho toccato uno  di quelli grigi: ha emesso un lampo bianco e ha fatto uno strano rumore. Dopo non ho sentito granché... finché non ho provato a usare il mio trapano laser. Il dispositivo era scarico, anche se un attimo prima ero sicuro che non lo fosse. Ho controllato il resto delle batterie che avevo messo da parte: stessa storia. Strano. Da evitare. Forse varrebbe la pena lanciarmi contro uno di quelli che fanno le scariche per ricaricarle hahahah...",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5025,7 +5025,7 @@
         "Ci facciamo una pausa.",
         "Stressato?",
         "Wow, sei ancora vivo?",
-        "Hey, torna al lavoro!",
+        "Hei, torna al lavoro!",
         "Take a breather.",
         "Pranzo?",
         "Vai a prenderti uno snack.",
