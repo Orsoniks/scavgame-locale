@@ -1885,18 +1885,18 @@
         "tutbasic11": "Itt van valami amivel játszhatsz. [JOBB KLIKK] és húzd magadra, majd egy üres cellába, hogy felvedd.",
         "tutbasic12": "Szép! A leltáradból már tudod is használni a tárgyat. Húzd középre a használathoz és a folytatáshoz.",
         "tutbasic13": "Mennyei finom, ugye? Most meg kéne enned az egészet.",
-        "tutbasic13fail": "Az szerettem volna, hogy felvedd, nem hogy megedd... Jaj, az egészet? Egyszerre..?",
+        "tutbasic13fail": "Azt szerettem volna, hogy felvedd, nem hogy megedd... Nemhogy, az egészet? Egyszerre..?",
         "tutbasic14": "Tényleg éhes voltál...",
-        "tutbasic15": "Próbáljunk ki valami mást. Itt van még egy cucc, amivel játszhatsz.",
+        "tutbasic15": "Próbáljunk ki most valami mást. Itt van még egy cucc, amivel játszhatsz.",
         "tutbasic16": "Hat darab fő cellád van, amibe rakhatsz dolgokat. Kettőt kézbe, egyet szájba, és hármat a hátadra.",
-        "tutbasic17": "Rakd be ezt valamelyik kezed egyikébe.",
+        "tutbasic17": "Rakd be ezt valamelyik kezedbe.",
         "tutbasic18": "Bizonyos eszközöket tudsz használni a  \"Fő kezedbe\". Tedd a gereblyét oda és próbálj vele ütni [BAL KLIKK].",
-        "tutbasic19": "Mostmár tényleg a szellemekkel harcolsz... Szép munka!",
-        "tutbasic20": "A [Q] billentyűvel gyorsan áttudod cserélni a két kezedben lévő tárgyat. Próbáld ki!",
-        "tutbasic21": "A távolságból való cselekvés szintén egy nagyon hasznos képesség. Tartsd nyomva a [T] billentyűt, hogy eldobd azt, ami kezedben van. Célozz a célpontokra, amiket csináltunk!",
+        "tutbasic19": "Már tényleg a szellemekkel harcolsz... Szép munka!",
+        "tutbasic20": "A [Q] billentyűvel gyorsan áttudod cserélni a két kezedben lévő tárgyat. Próbáld csak ki!",
+        "tutbasic21": "A messzebre hatás egy nagyon hasznos képesség. Tartsd nyomva a [T] billentyűt, hogy eldobd azt, ami kezedben van. Célozz a célpontokra, amiket készítettünk!",
         "tutbasic22": "Csodálatos célzás!",
-        "tutbasic23": "Most tegyük vissza a gereblyét a kezedbe.",
-        "tutbasic24": "Áttudsz ásni dolgokon, ha elkezded ütögetni őket. Ez gyorsan kifáraszt, de ha tartasz mértéket, akkor hasznos.",
+        "tutbasic23": "Most vegyük vissza a gereblyét a kezedbe.",
+        "tutbasic24": "Áttudsz ásni dolgokon, ha elkezded ütögetni őket. Ez gyorsan kifáraszt, de ha mértéket tartasz, akkor jól jöhet.",
         "tutbasic25": "Áss át a túloldalra! Tartsd hosszan az [S] billentyűt a guggoláshoz.",
         "tutbasic26": "Bizonyos állapotok, például a fájdalom vagy a kimerültség egy kis időbe telnek, mire megszűnnek. Gyorsítsd fel az időt [1-3] ,hogy gyorsabban enyhüljenek.",
         "tutbasic27": "Kipihent vagy.",
@@ -3512,10 +3512,10 @@
                 "AAAAAAAHHHH!!!!!"
             ],
             "wet": [
-                "I'm drenched...",
-                "I'm soaked!",
-                "I'm completely drenched.",
-                "Eugh! There's water on my fur...",
+                "Csurom vizes vagyok...",
+                "Teljesen átáztam!",
+                "Csurom vizes lettem.",
+                "Elég! Túl vizes már a bundám...",
                 "I'm so wet... Ugh...",
                 "I'm covered in water!",
                 "I am MOIST.",
@@ -3632,7 +3632,7 @@
                 "Mmmh... Óóó, köszi!",
                 "Áh! Mmhh... Köszönöm...",
                 "Óó! Annyira kedves vagy!",
-                "...Köszönöm, ez most kellett."
+                "...Köszönöm, ez már kellet."
             ],
             "traderhugfail": [
                 "ÁÁHH! Ne érj hozzám csak úgy hirtelen",
@@ -3644,12 +3644,13 @@
                 "Hé! Ne érj hozzám! Nem bízok benned."
             ],
             "traderhagglesuccess": [
+                "érthető",
                 "...Oké!",
                 "Mmmmhmmm... Rendben.",
                 "Még meggondolom.",
                 "Ezt megfontolom...",
                 "I-igen... Persze...",
-                "Nekem logikusnak tűnik!",
+                "Érthető tűnik!",
                 "Aha",
                 "Hmm... Oké."
             ],
@@ -3732,7 +3733,7 @@
             ],
             "traderlightbreak": [
                 "Ember, mi a fasz? Ezt most miért csináltad? Menj a francba.",
-                "...Tényleg azt hitted, hogy ezt nem fogom látni. Te rohadék. Menj ki!",
+                "...Tényleg azt hitted, hogy ezt nem fogom észrevenni. Te rohadék. Menj ki!",
                 "Hé! Mi a szar?! Az kellett volna! Menj a faszba!",
                 "Ááh! Te TOLVAJ! Tűnj el innen!",
                 "Ember. Oké... Okés. Oké... Én... öö... Kérlek, menj el innen."
@@ -3773,7 +3774,7 @@
                 "ÁGH!",
                 "HAGYD ABBA!",
                 "KI CSESZETT!",
-                "Stop!",
+                "SZÜNTESD MEG!",
                 "ÁÁH!",
                 "NGH!",
                 "KURVA.",
@@ -4002,176 +4003,177 @@
         },
         {
             "tradermeetnormal": [
-                "Mmm... Hell-o....",
-                "Well-come... Fri-end...",
-                "F-riend... Hell-o... Have s-it...",
-                "H-i-y... Fr-iend... Per-son...",
-                "Come... He-re... Fri-end...",
-                "Here... Fri-end..."
+                "Mmm... Hell-ó....",
+                "Üdv-özöllek... Ko-ma...",
+                "B-barát... Sz-szia... Ülj l-le...",
+                "Sz-i... Ba-arát... Személy...",
+                "Gyere... Ide... Ko-ma...",
+                "Itt... Ba-rát..."
             ],
             "tradermeetgood": [
-                "GGack! H-i!",
-                "Mmmm... Fri-end... Well-come to... Safe...",
-                "Fri-end! Hel-lo...! How is...",
-                "Dune find... Go-od fri-end!...",
-                "Hel-loo!... Frie-nd... App-ro-ach...",
-                "Ne-w fri-end?.. Dune ha-ppy..."
+                "GGack! Szi-a!",
+                "Mmmm... Ba-rát... Üd-vöz-öllek... Bizton-ság...",
+                "Ba-rát! Hel-ló...! Hogyan...",
+                "Dune talál... Jó ba-rát!...",
+                "Hel-loo!... Bar-át... jöjj-csak... bejebb...",
+                "Új ba-rát? .. Dune bol-dog..."
             ],
             "tradermeetbad": [
-                "Grrr... Per-son...",
-                "Nggghhrr... Hel-lo... Per-son...",
-                "Grrrrr... Fri-end... No look tas-ty...",
-                "Grrrr... Bad per-son!.. Grrr...",
-                "Grrrpmh.. Bad!... Not fri-end...",
-                "Dune dis-li-ke... This fri-end!..."
+                "Grrr... Valaki...",
+                "Nggghhrr... Hel-lo... Va-laki...",
+                "Grrrrr... Ba-rát... Nem néz finom-nak...",
+                "Grrrr... Rossz Va-laki!.. Grrr...",
+                "Grrrpmh.. Rossz!... Nem ba-rát...",
+                "Dune nem sze-ret... Ezt ba-rát!..."
             ],
             "traderwakegreet": [
-                "Frien-d... Wake from nap...",
-                "No mo-re slee-p... Hel-lo..! Wake...",
-                "Awake... Goo-d mor-ning...",
-                "Wake... Fri-end...",
-                "Wa-ke up.. Friend...",
-                "Fri-end slee-p... Wake... Dune gr-eet!"
+                "Bará-t... Felébred...",
+                "N-nincs több al-vás... Hel-lo..! Ébred...",
+                "Ébred... Jó reg-gel...",
+                "Reggel... Ko-ma...",
+                "Éb-red.. Barát...",
+                "Ba-rát alsz-ik... Ébren... Dune kö-szönt!"
             ],
             "tradergiveitem": [
-                "Dune will ta-ke.",
-                "Accept thin-g..!",
-                "Dune ta-ke thing..!",
-                "Than-k... Fri-end...",
-                "Du-ne nee-d...",
-                "Goo-d... Tha-nk...",
-                "Fri-end gi-ves... Good..."
+                "Dune meg-tartja.",
+                "Megtart dolog..!",
+                "Dune el-veszi dolog..!",
+                "kösz-i... Ko-ma...",
+                "Du-ne kell ne-ki...",
+                "Jó... Kös-sz...",
+                "Ba-rát jót... ad..."
             ],
             "tradergiveitemrefuse": [
-                "No more take!",
-                "Is eno-ugh...",
-                "Fri-end.. Not.. Get it.. En-ough...",
-                "Dune n-ot... Take mo-re!",
-                "No! Dune ha-ve eno-ugh..."
+                "Nincs több vétel!",
+                "El-lég...",
+                "ko-ma.. Nem.. kéri.. Elég...",
+                "Dune nem... Vessz töb-bet!",
+                "Du-ne nem! Van e-lég..."
             ],
             "traderbite": [
-                "Good... Enjoy tast-e. Like fri-end more!",
-                "Yes... Than-k for... Du-ne din-ner...",
-                "Hmmhhm... Than-k... Good tas-te... Grab any-thing..!",
-                "Eat good... Fri-end good...",
-                "Dune lo-ves fri-end taste...",
-                "Go-od fri-end... Ate we-ll..."
+                "Jó... Élvezetes íz. Szeret barát többet!",
+                "Igen... Köszönöm... Du-ne darált vacs...",
+                "Hmmhhm... Kös-sz... Jó íz... Vehetsz bár-mit..!",
+                "Evés jó... Bar-át jó...",
+                "Dune imád ba-rát íze...",
+                "j-ó ba-rát... Étel jó..."
             ],
             "traderbuy": [
-                "Have thing. Friend des-erve!",
-                "Take thi-ng! As rew-ard...",
-                "Dune gi-ve back gif-t! Fri-end have...",
-                "Du-ne give...",
-                "Dune... Pa-y ba-ck...",
-                "Fri-end give... Once... Dune give too...",
-                "You... Ta-ke thing! Fri-end good..."
+                "Tied dolog. Barát érdemli!",
+                "Vedd dolgot! Ajándék-ként...",
+                "Jó te-tt hely-ébe jót várj!",
+                "Dune vissza ad neked ajánd-ék miatt! Komá-nak...",
+                "Du-ne ad...",
+                "Dune... Vis-sza fizet...",
+                "Ba-rát ad... Aztán... Dune is ad...",
+                "Te... Megkapod dolog! Ba-rát jó..."
             ],
             "traderbuyfail": [
                 "Grrrr!",
-                "No! Ggrhhr...",
-                "No! Gi-ve own!",
-                "Grrrr... Dune need thi-ng too!",
-                "Du-ne not gif-t... Giv-e now!... Grrrr...",
-                "Fri-end gi-ve fir-st..."
+                "Nem! Ggrhhr...",
+                "Nem! Add saját!",
+                "Grrrr... Dunénak is kell dolog!",
+                "Du-ne nem aján-dékoz... Adj most!... Grrrr...",
+                "Ba-rát ad elö-sszőr..."
             ],
             "traderbuyfailmaxvalue": [
-                "Gave enough! Go a-way now!",
-                "Dune give so mu-ch... Too much... Fri-end stop...",
-                "Dune not give... Big...",
-                "Grrr... Du-ne kee-p big! Grrrmph...",
-                "Dune ke-ep... Dune nee-d... Mo-re..."
+                "Adtam eleget! Menj e-el , most!",
+                "Dune ad nagyon sokat... Túl sokat... Szünet ba-rát...",
+                "Dune nem ad... Értékes...",
+                "Grrr... Du-ne megtart értékes! Grrrmph...",
+                "Dune t-tart... Dune-nak kell... t-több..."
             ],
             "traderthreatensuccess": [
-                "Not need eff-ort... Take thing... Me-an...",
-                "Dune not take up com-bat... Take thi-ng and leave... Ggrhhr...",
-                "Fri-end gr-eat.. Hunter! Dune... Fear... Y-ou take...",
-                "Dune weak-er... Dune give... Up... Ta-ke and lea-ve...",
-                "Don't hu-rt Dune... Ta-ke thi-ng... Lea-ve...",
-                "Dune all-ow evil fri-end take thi-ng... But Dune ha-te fri-end..."
+                "Nem k-kell erő-feszítés... Vedd d-dolgot... Gon-nosz...",
+                "Dune nem fog har-colni... Vedd dolgot é-s menj... Ggrhhr...",
+                "Ba-rát nagyszerű.. zsivány! Dune... Fél... Te vedd...",
+                "Dune gyengébb... Dune fél... add... Ved-d S men-j...",
+                "Ne bántsd Dunet... Vedd dolgot... Menj el...",
+                "Dune hadja gonosz ba-rát elvesz dolgot... De  Dune ut-tál bar-rát..."
             ],
             "traderwarning": [
-                "Go aw-ay! Or bit-e! Now!",
-                "Mnnnhh... Pre-y is ask for it...",
-                "Gghhrr! LEAVE... AW-AY...",
-                "Go... Away! Fa-r...",
-                "Dune hate fri-end!",
-                "Dune not let fri-end in!... Out!...",
-                "Dune want fri-end out!... No-w!..."
+                "Tünj el! Vagy ha-harapok! Azon-nal!",
+                "Mnnnhh... Zsákmány akarta...",
+                "Gghhrr! MENJ... E-EL...",
+                "Menj... el! Messze...",
+                "Dune utál ba-rát!",
+                "Dune nem enged bar-átot be... Kifele!...",
+                "Dune kifele akar ba-rátot!... M-most!..."
             ],
             "tradercombat": [
                 "Nggrrrrr! Grrrrrrr! GAAAAHHH!",
                 "GGHHRRAHHH!",
                 "GNNGHRHHRRRRR!",
-                "FRI-END REGRET CHO0I-CE!",
+                "BAR-ÁT BÁNJA DÖŐNTÉST!",
                 "NGGHHRRR...",
-                "GRRRR! DUNE HATE!",
-                "NGHHRRRR... NO MO-RE FRI-END!",
-                "DUNE HA-TE EVIL FRI-END! GRRRR!",
-                "DUNE... FIND... E-NE-MY! M-ON-STER!"
+                "GRRRR! DUNE UTÁL!",
+                "NGHHRRRR... NEM BA-RÁT!",
+                "DUNE UTÁL GONOSZ BA-RÁT! GRRRR!",
+                "DUNE... TALÁL... ELLENFÉL! SZ-ÖRNY-ETEG!"
             ],
             "traderhugsuccess": [
-                "Why is fri-end touch...",
-                "Wh-at is fri-end doing..?",
-                "Gnhghr..? Why fri-end touch..?",
-                "Why tou-ch..? Du-ne not get...",
-                "Uhh... Grr... Du-ne not get... Dune allow...",
-                "Fri-end... Why?... Okay...",
-                "Dune not know... Why fri-end... Fri-end can do...",
-                "Dune and fri-end clo-se?... Wh-at..."
+                "Ba-rát miért fogdos...",
+                "Ba-rát mit csinál..?",
+                "Gnhghr..? Miért fogdos ba-rát..?",
+                "Miért fogdos..? Du-ne nem fogja fel...",
+                "Uhh... Grr... Du-ne nem érti... Dune hagyja...",
+                "Ko-ma... Miért?... Oké...",
+                "Dune nem érti... Miért ba-rát... Ba-rát mit csinál...",
+                "Dune és ba-rát közel?... M-mi..."
             ],
             "traderhugfail": [
-                "GRRR! Away! Ggrrn...",
-                "Ngghrr! No! Aw-ay!",
-                "No! Dune not let...",
-                "Dune dis-like fri-end close...",
-                "Grrr! No! Ngghr...",
-                "Fri-end do not app-ro-ach! Grrr... Dune dis-like..."
+                "GRRR! Férre! Ggrrn...",
+                "Ngghrr! Nem! Férre!",
+                "Nem! Dune nem hagy...",
+                "Dune nem szeret ba-rát közel...",
+                "Grrr! Ne! Ngghr...",
+                "Ko-ma ne k-köze-líts! Grrr... Dune nem szeret..."
             ],
             "traderseegun": [
-                "What friend hold..? St-op!",
-                "Du-ne not com-fort with boom-stick...",
-                "N-no... Dune fear... loud rod...",
-                "Fri-end... Dune f-ear you... Lo-ud sti-ck...",
-                "Why fri-end ho-ld... thing of pain?...",
-                "Dune... Fear in-st-ant... Hurt thing...",
-                "Why fri-end ho-ld... Click-boom... Dune... Dislike...",
-                "Dune fear... Fee-mee-jee?... Pain... Not get...",
-                "Un-fair fi-ghter... Dune... Dislike... Gu-n..."
+                "Mit fog barát..? St-op!",
+                "Du-ne nem kényelmes bummbot mel-lett...",
+                "N-ne... Dune fél... hangos bot...",
+                "Ba-rát... Dune fél töled... Han-gos b-bot...",
+                "Ba-rát miért fog... Sér-tő dolog?...",
+                "Dune... Fél röktön... Fájdalom dol-log...",
+                "Ba-rát miért fog... hirtelen-bumm... Dune... Nem szereti...",
+                "Dune fél... Fegy-VER?... Fájdalom... Nem akar...",
+                "Igaz-sgátalan fegyveres... Dune... Nem szeret... Fegy-VER..."
             ],
             "tradermeetimpairedspeech": [
-                "Dune not under-stand... Word bet-ter! Fri-end word bad...",
-                "What is fri-end say..? Voice is muf-fle...",
-                "Dune word ba-d... Fri-end word bad... Bad bad!...",
-                "Du-ne hard talk... Fri-end talk... ba-d...",
-                "Dune no-t unde-r-stand... You...",
-                "Du-ne tro-uble hear fri-end!"
+                "Dune nem ért... Szóbban! Ba-rát beszéd rossz...",
+                "Barát mit mond..? Hang nagyon ért-hetetlen...",
+                "Dune beszéd rossz... Ba-rát beszél rossz... Rossz Rossz!...",
+                "Du-ne nehéz beszél... Barát beszél... ros-szul...",
+                "Dune nem ért... Téged...",
+                "Du-ne gond hall ba-rát!"
             ],
             "traderseehurt": [
-                "Fri-end hurt... Ngghhgrr... Take fix thin-g... Free...",
-                "Why hurt?.. Dune can... gi-ve li-fe thing... Free...",
-                "Fri-end i-nj-ure... Dune give thing-help... Free...",
-                "Th-is fri-end bo-dy bad... Dune ca-n gift fix...",
-                "Fri-end feel pain... Dune gift help..."
+                "Ko-ma sebesült... Ngghhgrr... Vedd javí-tó dolgot... Ingyen...",
+                "Miért sebesült?.. Dune tud... adni élet izét... önzetlenül...",
+                "Barát sebesült... Dune ad segítő-dolgot... díj-mentesen...",
+                "E ba-rát test rossz... Dune aján-dékozni tud ja-vítást...",
+                "Ba-rát fájdalom érez... Dune ajándé-koz javí-tást..."
             ],
             "traderlightbreak": [
-                "NNGGHHRR! Why fri-end steal! Go away! GGrrhhhhhh... BAD..!",
-                "GRRR! EVIL! GE-T OUT!",
-                "BAD! Grrrr... Fri-end bad... Bad! Lea-ve!",
-                "Dune NOT SEE! BAD FRI-END! GO AWAY... AW-AY!",
-                "Fri-end steal! Not fri-end..."
+                "NNGGHHRR! Miért lop ba-rát ! Tünj el! GGrrhhhhhh... ROSSZ..!",
+                "GRRR! GONOSZ! MENJ EL I-INN-NEN!",
+                "ROSSZ! Grrrr... Ba-rát rossz... Rossz! Menj!",
+                "Dune NEM LÁT! ROSSZ BA-RÁT! MENJ EL... TÜ-NÉS!",
+                "Ba-rát lop! Nem ba-rát nem ba-rát..."
             ],
             "tradermove": [
-                "Du-ne... Mo-ve..."
+                "Du-ne... Mozdul..."
             ],
             "tradermovefail": [
-                "Du-ne like cur-rent spot..."
+                "Du-ne szereti jelen-legi he-lyét..."
             ]
         }
     ],
     "notes": [
         [
             {
-                "Item1": "this is horrifying. there's so many corpses... im scared. why did they send so many of us here? i dont understand. i really dont understand. they knocked me out cold with some kind of dart and forced me into a pod to be sent here. i hate this planet.",
+                "Item1": "ez rettenet. túl sok a hulla...  megrémiszt. miért kellet ennyiünket ideküldeni? nem értem. tényleg megmagyarázhatatlan. Hidegvérrel elkábítottak egy dártal, és betuszkoltak egy mentőkapszulába. utálatos ez a bolygó.",
                 "Item2": "",
                 "Item3": "experiment"
             },
