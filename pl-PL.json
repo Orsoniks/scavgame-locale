@@ -940,6 +940,7 @@
     "impendingdoom": "Poczucie nadchodzącej katastrofy",
     "horrified": "PRZERAŻANIE",
     "focused": "SKUPIENIE",
+
     "braindamage4dsc": "...",
     "braindamage3dsc": "rzeczywistość  ..  przestaje mieć sens",
     "braindamage2dsc": "Poważny niedobór umysłowy. Zdolność myślenia i samo utrzymania jest ograniczona. Nastąpiło poważne uszkodzenie mózgu.",
@@ -1508,6 +1509,7 @@
     "runsetminigamehandshakedsc": "Zmienia jak bardzo trzęsie ci się ręka podczas minigier",
     "runsetdebugworld": "Świat to Debug'owania",
     "runsetdebugworlddsc": "Kiedy włączony, sprawia że świat jest mniejszy, by szybciej się generował. Nie jest on przeznaczony to normalnej rozgrywki.",
+
     "tutorialwarning": "<size=150%>Zanim pójdziesz...\n\n<size=100%>Nie przeszedłeś jeszcze podstawowego samouczka.\nCzy jesteś pewien, że chcesz iść na ślepo?\n\n\n\nBolesna śmierć jest wręcz gwarantowana.",
     "tutorialwarningyes": "Chcę zrobić samouczek",
     "tutorialwarningno": "Wiem, co robię!",
