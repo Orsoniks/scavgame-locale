@@ -1,6 +1,6 @@
 {
     "name": "Čeština",
-    "description": "WORK IN PROGRESS! Bohužel nejde 'písmeno Z s háčkem' ale s tím nic neudělám QwQ. Hi, Hello, Welcome, This is the Czech translation for the game. If you find any mistakes, please report them to me. Its for the latest version of the game (6.1. I think >w<) I used the few alredy translated items from now deleted file made by @TheOneWhoBuilds1. Ver: 1.0",
+    "description": "POTŘEBUJETE QoL: Unknown (<color=\"blue\">https://github.com/jimmyking9999999/QoL-Unknown</color>) MOD PRO ČESKÉ ZNAKY. Pokud vidíte písmeno Ž tak funguje >w<. Hi, Hello, Welcome, This is the Czech translation for the game. If you find any mistakes, please report them to me. Its for the latest version of the game (6.1. I think >w<) I used the few alredy translated items from now deleted file made by @TheOneWhoBuilds1.",
     "main": {
         "bandage": "Obvaz",
         "bandagedsc": "Role obvazu s bandáží, která se používá ke zpomalení krvácení, stabilizaci zlomenin a podpoře hojení kůže. Nemá žádný vliv na zdraví svalů.",
@@ -18,7 +18,7 @@
         "plasticbandagedsc": "Role speciálně vyrobeného odolného materiálu, určeného k účinnému zakrytí ran a stabilizaci zlomenin. Nemá žádný vliv na zdraví svalů",
         "adhesivebandage": "Lepicí obvazy",
         "adhesivebandagedsc": "Balíček malých lékařských obvazů určených k ošetření drobných poranění. Snižuje krvácení.",
-        "musharm": "Mush arm",
+        "musharm": "Opletka",
         "musharmdsc": "Nejedlá část rostliny, užitečná jako jednorázový provizorní obvaz. Lze použít jako listí při výrobě.",
         "paincream": "Lahvička krému proti bolesti",
         "paincreamdsc": "Malá 100ml lahvička určená k uchovávání krému proti bolesti. Dávka je 10 ml.",
@@ -122,7 +122,7 @@
         "syringedsc": "100ml stříkačka, kterou lze intravenózně aplikovat tekutiny. Je vyrobena podomácku.",
         "scrapmetal": "Kovový šrot",
         "scrapmetaldsc": "Kousky a úlomky oceli ze zničených strojů. Lze jej položit na zem, pokud je jeho stav nad 25 %. Přeživšími je běžně využíván jako měna a pro výrobu předmětů.",
-        "climbingrope": "Lano na lezení",
+        "climbingrope": "Šplhací lano",
         "climbingropedsc": "Dlouhý, zesílený provaz s upevňovacími body na obou koncích. Lze jej umístit nad velký sráz a použít ke slezení dolů. Má dvě použití.",
         "circuitboard": "Obvodová deska",
         "circuitboarddsc": "Kus obvodové desky, vytržený z kdysi funkčního stroje. Občas stále jiskří. Používá se při výrobě.",
@@ -210,6 +210,8 @@
         "sodacandsc": "Plechovka od limonády o objemu 0,25 l.",
         "alcohol": "Láhev od alkoholu",
         "alcoholdsc": "Skleněná láhev, která pojme 0,4 l tekutiny.",
+        "exposedcore": "Obnažené jádro",
+        "exposedcoredsc": "Dřímající pozůstatky něčeho, co bylo kdysi naživu. Pravděpodobně bys to mohl sníst a vstřebat tak jeho energii ve formě živin a vody. <i>Vypadá to, že se to pomalu v něco mění...</i>",
         "foliage": "Listí",
         "foliagedsc": "Běžný mimozemský rostlinný život. Stěží jedlé, s neuspokojivou chutí. Může způsobit nevolnost. Rychle podléhá zkáze. Často se používá při výrobě.",
         "foliagemeal": "Pokrm z listí",
@@ -296,12 +298,12 @@
         "tutorialradiodsc": "Obvykle se rozdává pro tréninkové účely. Není jisté, zda jsou zprávy vysílané živě, nebo předtočené. Má tlačítko, které se dá stisknout.",
         "mp3player": "MP3 přehrávač",
         "mp3playerdsc": "Překvapivě se zdá, že stále funguje. Má malou paměť, na které je uloženo několik hudebních skladeb. Pro vlastní pobavení si lze kteroukoliv z nich pustit.",
-        "mushpear": "Mushpear",
-        "mushpeardsc": "Modrá část rostliny, stvořená k rozvádění vody. Sotva jedlá, se zvláštní schopností pohlcovat váhu a odpudivou chutí. Po snězení snižuje tělesnou hmotnost. Zdá se, že obsahuje stopy opiátů.",
-        "mushtail": "Mushtail",
-        "mushtaildsc": "Koncový šlahoun dužnaté rostliny. Obsahuje chemikálii, která dokáže kohokoliv na chvíli okamžitě omráčit, s následným viditelným zlepšením nálady. Zvláštní. Nulová nutriční hodnota.",
-"mushball": "Mushball",
-        "mushballdsc": "Kulaté, jedlé a bublině podobné vodnaté ovoce. Vzhledově i na dotek trochu nechutné, ale má vysoký obsah vody. Velmi rychle podléhá zkáze.",
+        "mushpear": "Brňobule",
+        "mushpeardsc": "Část hydroplevele, která filtruje a rozvádí vodu. Má zvláštní vlastnost pohlcující váhu a odpudivou chuť. Po snězení snižuje tělesnou hmotnost. Zdá se, že obsahuje stopové množství opiátů.",
+        "mushtail": "Dřímocas",
+        "mushtaildsc": "Zakončení hydroplevele ve tvaru ocasu. Obsahuje chemikálii, která dokáže jedince na chvíli okamžitě uspat, s následným viditelným zlepšením nálady. Zvláštní. Nemá žádnou nutriční hodnotu.",
+        "aquapple": "Akvajablko",
+        "aquappledsc": "Vodnaté ovoce ve tvaru bubliny. Na pohled i na dotek působí poněkud nechutně, ale má vysoký obsah vody. Velmi rychle se kazí.",
         "droppings": "Trus",
         "droppingsdsc": "Prostě hovno.",
         "smallpack": "Malý batoh",
@@ -312,6 +314,8 @@
         "bigpackdsc": "Středně velký batoh.",
         "bikehelmet": "Cyklistická helma",
         "bikehelmetdsc": "Helma navržená ke snížení závažnosti nárazů do hlavy. Snižuje riziko zranění hlavy při pádech.",
+        "riothelmet": "Zásahová helma",
+        "riothelmetdsc": "Pokročilá helma, která výrazně snižuje závažnost poranění hlavy.",
         "holidayhat": "Sváteční čepička",
         "holidayhatdsc": "Slýcháváš, že to lidé nosí při nějakých speciálních příležitostech, ačkoliv netušíš, o co jde. Je ale milé, že tě sem poslali alespoň s ní.",
         "headlamp": "Čelovka",
@@ -332,6 +336,8 @@
         "balaclavadsc": "Silný, polstrovaný kus látky, který se natahuje na hlavu. Poskytuje mírnou ochranu a slušnou izolaci.",
         "latexgloves": "Latexové rukavice",
         "latexglovesdsc": "Pár obyčejných latexových rukavic. Poskytují mírnou izolaci proti živlům.",
+        "tacticalgloves": "Taktické rukavice",
+        "tacticalglovesdsc": "Pár pokročilých syntetických rukavic. Účinně chrání tvé ruce před fyzickým poraněním.",
         "fannypack": "Ledvinka",
         "fannypackdsc": "Malá brašna určená k nošení na břiše.",
         "bandolier": "Bandalír",
@@ -340,6 +346,8 @@
         "bellyarmordsc": "Velký kus kovu, navržený k připevnění na břicho. Poskytuje skvělou ochranu a trochu izolace.",
         "belt": "Opasek",
         "beltdsc": "Kožený opasek, který se nosí kolem pasu. Lze na něj zavěsit pouze nástroje.",
+        "traumarig": "Trauma postroj",
+        "traumarigdsc": "Pokročilé syntetické ochranné pouzdro, které pojme různé nástroje, zbraně a zdravotnické vybavení. Navíc chrání tvůj trup!",
         "popcorn": "Popcorn",
         "popcorndsc": "Kyblík obsahující hromadu kukuřičných zrn, která vlivem tepla pukla. Připadá ti to jako docela neotřelý koncept. Chutné. Má dlouhou trvanlivost.",
         "nopopcorn": "Kyblík bez popcornu",
@@ -378,13 +386,17 @@
         "carcasssplintdsc": "Tvrdá, dlouhá trubka vyrobená z několika spojených mršin. Funguje jako slušná provizorní dlaha pro ošetření zlomenin.",
         "terrainscanner": "Skener terénu",
         "terrainscannerdsc": "Zobrazuje nekvalitní mapu terénu pod tebou. Terén je zvýrazněn zeleně, pevné budovy červeně. Může být mírně nepřesný. Dosáhne do hloubky 24 metrů.",
+        "geigercounter": "Geigerův počítač",
+        "geigercounterdsc": "Elektronický přístroj pro detekci a měření ionizujícího záření pomocí Geiger-Müllerovy trubice. Použitím ho zapneš nebo vypneš.",
+        "handcrank": "Nabíječka na kličku",
+        "handcrankdsc": "Zařízení, které dokáže dobít vybité baterie pomocí manuálního otáčení kličkou. Vlož baterii a dej se do točení!",
         "sleepingbag": "Spacák",
         "sleepingbagdsc": "Izolovaná přikrývka pro spaní. Použij ho ke spánku, čímž se kvalita spánku posune o úroveň výš (maximálně na Dobrou) a poskytne ti nějakou izolaci na noc. Platí běžná omezení pro spánek.",
         "liquidcentrifuge": "Kapalinová odstředivka",
         "liquidcentrifugedsc": "Ruční odstředivka, která dokáže neefektivně rozdělit směs na její základní složky. Proces je poměrně složitý a vede ke ztrátě asi třetiny celkového objemu kapaliny. Dobíjí se každých 60 sekund.",
         "epda": "E-PDA",
-        "epdadsc": "Elektronický osobní digitální asistent, kterého tu pravděpodobně v záchranném modulu omylem zanechali tvoji únosci. Kdybys do něj dostal baterii, pravděpodobně by sis mohl přečíst jejich poznámky.",
-       "bloodcoagulant": "Injekce prokoagulantu",
+        "epdadsc": "Elektronický osobní digitální asistent, kterého v záchranném modulu pravděpodobně omylem zapomněli tvoji věznitelé. Pokud do něj vložíš baterii, mohl by sis přečíst jejich poznámky a získat tak nějaké nové znalosti.",
+        "bloodcoagulant": "Injekce prokoagulantu",
         "bloodcoagulantdsc": "100ml stříkačka zakončená auto injektorem. Dávka je ~34 ml.",
         "combatpen": "Bojové pero",
         "combatpendsc": "100ml injekční pero, které okamžitě vstříkne svůj obsah do těla. Obsahuje směs určenou k rychlé stabilizaci raněných a pomoci v bojových situacích.",
@@ -432,14 +444,16 @@
         "browncapdsc": "Nejsi si jistý, o jaký druh houby se přesně jedná. Co víš, může to dělat cokoliv od vyléčení ran až po tvé okamžité zabití.",
         "sneakers": "Tenisky",
         "sneakersdsc": "Pár bílých tenisek, které vůbec nejsou vyrobené pro tvé nohy. Pokud do nich nějakým způsobem dokážeš nacpat své tlapky, poskytnou ti ochranu před střepy skla.",
-        "frigiantfruit": "Frigiant fruit",
+        "tacticalboots": "Taktické boty",
+        "tacticalbootsdsc": "Pár těžkých syntetických bot, navržených tak, aby účinně chránily nohy před různými formami poranění.",
+        "frigiantfruit": "Frigiantfruit",
         "frigiantfruitdsc": "Velmi studené, tvrdé a sklovité ovoce. Chutné, ale má tendenci tě hodně ochladit. Zvaž, jestli ho chceš jíst venku v mrazu.",
-        "purpleherb": "Fialová bylina",
-        "purpleherbdsc": "Suchý, fialový list s hrubou texturou. Běžně se používá jako pomoc při určitých neduzích – pomáhá proti nevolnosti, mírně pomáhá při ztrátě sluchu a může zmírnit vnitřní krvácení. Používej s opatrností – má tendenci silně zvyšovat tělesnou teplotu konzumenta.",
-        "bulbskin": "Slupka cibuloviny",
-        "bulbskindsc": "Mastný kus silné, žluté rostlinné slupky. Obsahuje velké množství adrenalinu a mírně hydratuje, ale může drobně ovlivnit mozkové funkce. Lze použít i jako provizorní obvaz a analgetikum na končetiny.",
-        "geigefruit": "Geige-fruit",
-        "geigefruitdsc": "Zvláštní, obdélníkové lesklé ovoce. Voní po oleji, ale chutná dobře! Doplní hlad a žízeň. Může ti na chvíli rozhodit plíce a může náhodně mírně pomoci nebo zhoršit nemoc z ozáření. Při nárazu na zem ve velké rychlosti vyvolává hlasitou reakci – užitečné pro kontrolu výšky pádu.",
+        "helluce": "Pekelát",
+        "hellucedsc": "Suchá, fialová bylina s obzvláště pálivou chutí. Pomáhá proti nevolnosti, mírně zlepšuje ztrátu sluchu a může zmírnit vnitřní krvácení. Má tendenci prudce zvyšovat tělesnou teplotu konzumenta.",
+        "popskin": "Praskoslupka",
+        "popskindsc": "Kousek silné, žluté membrány. Uhasí žízeň, ale může mírně ovlivnit mozkové funkce. Dá se také použít jako provizorní obvaz a analgetikum.",
+        "popfruit": "Praskoplod",
+        "popfruitdsc": "Zvláštní, obdélníkové lesklé ovoce. Je chutné a doplňuje hlad i žízeň. Může náhodně mírně pomoci s nemocí z ozáření, nebo ji naopak zhoršit. Při nárazu na zem ve vysoké rychlosti vydává hlasitý zvuk - užitečné pro zjišťování hloubky pádu.",
         "antisepticmush": "Antiseptická kaše",
         "antisepticmushdsc": "Rozmačkané kousky ovoce a listí, které tvoří směs účinnou při léčbě infekcí. Vydrží na jedno použití.",
         "striderpelt": "Kůže ze Stridera",
@@ -622,8 +636,8 @@
         "ladderdsc": "Vertikální sada příček používaná k výstupu nebo sestupu. Dá se předpokládat, že víš, jak to použít.",
         "shadecrawler": "Shade crawler",
         "shadecrawlerdsc": "",
-        "wallbiter": "Wall biter",
-        "wallbiterdsc": "Znepokojivě velká, chlupatá, šestinohá bestie. Vidíš něco, co vypadá jako trčící ostré zuby. Zdá se, že se pohybuje dost nevyzpytatelně.",
+        "wallbiter": "Písečný plíživec",
+        "wallbiterdsc": "Velká, chlupatá, šestinohá bestie. Je na ní vidět něco, co vypadá jako ostré vyčnívající zuby. Pohybuje se nevyzpytatelně.",
         "thornbackyoung": "Thornback",
         "thornbackyoungdsc": "Mladý, chlupatý a velmi agresivní Thornback. Zdá se, že se vyžívají v tunelování v zemi a trhání na kusy všeho, co se poblíž pohne.",
         "thornbackelder": "Starý Thornback",
@@ -664,14 +678,28 @@
         "medcratedsc": "Obsahuje zdravotnický materiál.",
         "rechargingstation": "Nabíjecí stanice",
         "rechargingstationdsc": "Stanice používaná k nabíjení baterií. Přijímá baterie jakékoliv velikosti a zdá se, že má nekonečnou energii. Použij ji k vložení baterie ze své hlavní ruky, a poté přetáhni baterii zpět na sebe.\n\nZdá se, že má hudební přehrávač, který má uklidnit atmosféru, zatímco čekáš... Ironií je, že mu chybí baterie.",
-        "mushplant": "Mushplant",
-        "mushplantdsc": "Pomalu sebou škube... Vypadá vlhce.",
+        "_comment": "ehhh...---------------------------------------------------------------",
+        "hydreed": "Hydroplevel",
+        "hydreeddsc": "Má několik ramen s bublinovitými plody na koncích. Vypadá vlhce...",
         "OxygenCrystal": "Kyslíkový krystal",
         "OxygenCrystaldsc": "Zdá se, že pomalu bublá...",
         "reinforceddoor": "Zesílené dveře",
         "reinforceddoordsc": "Pravděpodobně se to dá něčím otevřít...",
         "ReliefCrystal": "Úlevný krystal",
         "ReliefCrystaldsc": "Vypadá ostře a načervenale.",
+        "_comment1": "it was changed----------------------------------------------------------------",
+        "crystalmini": "Krystal",
+        "crystalminidsc": "Drobný bioluminiscenční krystal.",
+        "crystalsmall": "Krystal",
+        "crystalsmalldsc": "Malý bioluminiscenční krystal.",
+        "crystalmedium": "Krystal",
+        "crystalmediumdsc": "Bioluminiscenční krystal.",
+        "crystalbig": "Krystal",
+        "crystalbigdsc": "Velký bioluminiscenční krystal.",
+        "crystalmassive": "Krystal",
+        "crystalmassivedsc": "Tyčící se bioluminiscenční krystal.",
+        "crystalenemy": "Manifestace",
+        "crystalenemydsc": "Projev zlomyslného záměru od něčeho, co dalece, ale dalece přesahuje tvé omezené fyzické chápání.",
         "sandrose": "Písečná růže",
         "sandrosedsc": "Zvláštně krásná rostlina, na které roste pár velkých, podlouhlých tvarů.",
         "scrapeater": "Požírač šrotu",
@@ -719,8 +747,8 @@
         "geyserdsc": "Nestabilní gejzír s tendencí vystřelovat vodu. Naštěstí má přinejhorším pokojovou teplotu.",
         "oilpipe": "Odpadní trubka",
         "oilpipedsc": "Rezavá trubka, ze které vytéká tmavý dehet. Nechceš se dívat dovnitř... Pokud jí dáš dostatek času, pravděpodobně zaplaví celou oblast.",
-        "plantiation": "Plantiation",
-        "plantiationdsc": "Dlouhá rostlina matně fialové barvy s velkým poloprůhledným výhonkem rostoucím na konci.",
+        "pop": "Pukavka",
+        "popdsc": "Dlouhá, matně fialová rostlina, na jejímž konci roste velká poloprůhledná bulva.",
         "mushroomdropper": "Dropshroom",
         "mushroomdropperdsc": "Houba, která uvolňuje svůj klobouk, aby tak rozšířila výtrusy na jakéhokoliv nešťastného kolemjdoucího.",
         "mushroomdropperpayload": "Klobouk Dropshroomu",
@@ -1293,7 +1321,7 @@
         "sodiumnitroprusside": "Nitroprussid sodný",
         "sodiumnitroprussidedsc": "Lék používaný ke snížení krevního tlaku, užitečný pro odvrácení hypertenzní krize. Funguje pouze intravenózně. 10 ml za minutu.",
         "vasopressin": "Vazopresin",
-        "vasopressindsc": "Hormon používaný ke zvýšení krevního tlaku, užitečný k odvrácení smrtelné hypotenze. Funguje pouze intravenózně. 10 ml za minutu.",
+        "vasopressindsc": "Hormon používaný ke zvýšení krevního tlaku, užitečný k odvrácení smrtelné hypotenze. Funguje lépe intravenózně. 10 ml za minutu.",
         "amiodarone": "Amiodaron",
         "amiodaronedsc": "Antiarytmikum používané k léčbě a prevenci fibrilace. Způsobí, že většina arytmií bude pomalu ustupovat, ale způsobuje mírné vnitřní poškození. Funguje pouze intravenózně. 20 ml za minutu.",
         "chocolatemilk": "Čokoládové mléko",
@@ -1316,6 +1344,8 @@
         "dirtywaterdsc": "Alespoň už ji nemáš na těle. Není bezpečná k pití.",
         "algae": "Lumalgae",
         "algaedsc": "Voda, ve které rostou husté, bioluminiscenční řasy. Velmi nadnáší. Nejedlé.",
+        "magma": "Magma",
+        "magmadsc": "Roztavená hornina. Všechny tvé smysly přímo křičí, ať se jí vyhneš.",
         "oil": "Olej",
         "oildsc": "Hustý, černý dehet. Těžko se jím prochází. Nejedlé.",
         "sap": "Míza ze stromu",
@@ -1374,35 +1404,214 @@
         "upperback": "Horní část zad",
         "middleback": "Střední část zad",
         "lowerback": "Spodní část zad",
-        "volumewarning": "VAROVÁNÍ PŘED HLUKEM",
-        "volumewarningtext": "V této vrstvě můžeš narazit na VELMI hlasité zvuky.\nZvaž mírné snížení hlasitosti. Nikdo si přece nechce poškodit sluch.",
-        "runsettings": "Nastavení průchodu",
-        "looatmount": "Množství kořisti",
-        "trapamount": "Množství pastí",
-        "lootdepthmultiplier": "Násobič kořisti podle hloubky",
-        "trapdepthincrease": "Nárůst pastí podle hloubky",
-        "radlinedisable": "Vypnout časový limit",
-        "unchipped": "Neočipovaný",
-       "looatmountdsc": "Procentuální množství veškeré kořisti\n\nOvlivňuje, kolik kořisti, jako jsou výsadkové kapsle nebo bedny, se objeví v každé vrstvě.\n\nPříliš vysoká hodnota může způsobit problémy s výkonem.",
-        "trapamountdsc": "Procentuální množství všech pastí\n\nOvlivňuje, kolik pastí, jako jsou bodáky nebo nepřátelé, se objeví v každé vrstvě.\n\nPříliš vysoká hodnota může způsobit problémy s výkonem.",
-        "lootdepthmultiplierdsc": "Množství kořisti se tímto vynásobí za každou vrstvu, kterou projdeš.\n\nJinými slovy, pokud to nastavíš např. na 50 %, množství kořisti se sníží na polovinu při každém sestupu do další vrstvy.",
-        "trapdepthincreasedsc": "Toto číslo se přičte k množství pastí za každou vrstvu, kterou projdeš.\n\nJinými slovy, pokud to nastavíš např. na 50 %, množství pastí poroste ze 100 % -> 150 % -> 200 % -> 250 % a tak dále.",
-        "radlinedisabledsc": "Pokud je zapnuto, vypne časový limit pro každou vrstvu.",
-        "unchippeddsc": "Vypne tvůj zdravotní čip, což tě donutí věnovat mnohem víc úsilí a pozornosti zjišťování nebezpečí kolem tebe.\n\nNedoporučuje se pro začátečníky, ačkoliv se to může vzácně objevit ve hře jako modifikátor vrstvy.",
-        "startrun": "Zahájit průchod",
+        "startrun": "Start",
         "startrundsc": "Sestup do jeskyní pod tebou",
+        "presetnormal": "Normální",
+        "presetnormaldsc": "Výchozí zážitek. Chyby se tvrdě trestají. Znalosti a přehled o situaci jsou bohatě odměňovány. Čas je zásadní. Tvá smrt je prakticky nevyhnutelná.",
+        "presetrelaxed": "Pohodový",
+        "presetrelaxeddsc": "Pomalejší, shovívavější sestup. Chyby se sice stále trestají, ale je snazší se jim vyhnout. Máš více času na průzkum a zkoumání okolí.",
+        "presetparadise": "Ráj",
+        "presetparadisedsc": "Tyto jeskyně jsou bezesporu lepší než laboratoře. Chyby se trestají mnohem méně, kořisti a spřátelených tváří je tu spousta. Je tu jen minimum hrozeb a časového nátlaku.",
+        "presetdesolate": "Pustý",
+        "presetdesolatedsc": "Sám ve tmě. Je tu jen málo věcí k nalezení a hrozby jsou všudypřítomné. Ačkoliv jsou přeživší vzácností, ti, které najdeš, se s tebou budou mít o co podělit.",
+        "presetunchipped": "Bez čipu",
+        "presetunchippeddsc": "Ačkoliv absence čipu odstraňuje umělý časový limit, který omezuje ostatní, zároveň dělá z diagnostiky vlastního stavu velmi náročný úkol. Možná to ale nakonec bude stát za to?",
+        "presetendless": "Nekonečný",
+        "presetendlessdsc": "Není cesty zpět; tohle je tvůj rozsudek smrti. Jak daleko dokážeš dojít, když se hrozby před tebou neustále množí?\n\n[POZNÁMKA: V této fázi nedostupné, protože hra je v současnosti tak jako tak nekonečná]",
+        "runsettings": "Nastavení průchodu",
+        "runsettingsdsc": "Vyber si herní styl z předvoleb níže. Můžeš si je vyladit v panelu vlastního nastavení napravo.",
+        "customsettings": "Vlastní nastavení",
+        "customsettingsdsc": "Nakonfiguruj si specifická nastavení průchodu",
+        "runsetunchipped": "Bez čipu",
+        "runsetunchippeddsc": "Vypne tvůj zdravotní panel, což tě donutí věnovat více úsilí zjišťování, jakými konkrétními neduhy trpíš. Zapíná zorné pole.",
+        "runsetbaselootdensity": "Hustota kořisti",
+        "runsetbaselootdensitydsc": "Kolik kořisti se objeví v každé vrstvě. Ovlivňuje věci jako jsou shazovací kapsle, záchranné moduly, bedny.",
+        "runsetlootmultiplier": "Násobitel kořisti podle vzdálenosti",
+        "runsetlootmultiplierdsc": "Hustota kořisti se tímto vynásobí za každou vrstvu, kterou projdeš\n\nJinými slovy, pokud to nastavíš např. na 0.5x, množství kořisti se zmenší na polovinu s každým sestupem do další vrstvy",
+        "runsetbasetrapdensity": "Hustota pastí",
+        "runsetbasetrapdensitydsc": "Kolik pastí se objeví v každé vrstvě. Ovlivňuje věci jako jsou mechanické pasti, nepřátelé a další hrozby.",
+        "runsettrapincrease": "Nárůst pastí podle vzdálenosti",
+        "runsettrapincreasedsc": "Toto číslo se přičte k hustotě pastí za každou vrstvu, kterou projdeš\n\nJinými slovy, pokud to nastavíš např. na 0.5x, množství pastí se bude zvyšovat z 1x -> 1.5x -> 2x a tak dále",
+        "runsettimelimit": "Časový limit vrstvy",
+        "runsettimelimitdsc": "V minutách. Jak dlouho můžeš zůstat v každé vrstvě, než přijde trest",
+        "runsetstartingsupplies": "Počáteční zásoby",
+        "runsetstartingsuppliesdsc": "S jakými předměty začneš",
+        "runsetstartingsuppliesnone": "Nic",
+        "runsetstartingsupplieslight": "Svítilna",
+        "runsetstartingsuppliesfull": "Plná výbava",
+        "runsetxpgain": "Zisk zkušeností",
+        "runsetxpgaindsc": "Násobitel toho, kolik zkušeností do dovedností získáš",
+        "runsetmetabolismrate": "Rychlost metabolismu",
+        "runsetmetabolismratedsc": "Jak rychle klesá tvůj hlad/žízeň/nevolnost/váha.",
+        "runsethealingrate": "Rychlost hojení",
+        "runsethealingratedsc": "Jak rychle se hojí tvá zranění. Ovlivňuje regeneraci svalů/kůže, srážení krve, obnovu krve, zlomeniny, vykloubení a poškození mozku",
+        "runsetfracturepain": "Míra bolesti zlomenin",
+        "runsetfracturepaindsc": "Jak moc bolí končetiny při používání, když jsou vykloubené nebo zlomené",
+        "runsetbleedrate": "Rychlost krvácení",
+        "runsetbleedratedsc": "Jak rychle se snižuje objem tvé krve z krvácejících ran",
+        "runsetinfectionspeed": "Rychlost infekce",
+        "runsetinfectionspeeddsc": "Jak rychle infekce postupují/ustupují a jak rychle zabíjejí. Ovlivňuje také to, jak dlouho působí antiseptika",
+        "runsetinfectionchance": "Riziko infekce",
+        "runsetinfectionchancedsc": "Jak pravděpodobné je, že z ran chytíš infekci",
+        "runsetfibrillationrate": "Rychlost fibrilace",
+        "runsetfibrillationratedsc": "Jak rychle postupuje fibrilace srdečního rytmu. Vyšší číslo = rychlejší smrt",
+        "runsetbonuslimbarmor": "Bonusová ochrana končetin",
+        "runsetbonuslimbarmordsc": "O kolik větší vrozenou odolnost proti poškození tvé končetiny mají. Hodnota 1 sníží veškeré obdržené poškození na polovinu",
+        "runsetstaminaregen": "Regenerace výdrže",
+        "runsetstaminaregendsc": "Jak rychle se tvá výdrž po použití obnovuje",
+        "runsetattackdamage": "Poškození útokem",
+        "runsetattackdamagedsc": "Jak velké poškození způsobíš svými údery",
+        "runsetstrokes": "Povolit mrtvice",
+        "runsetstrokesdsc": "Určuje, zda můžeš během hypertenzní krize dostat mrtvici",
+        "runsetbraindamagefx": "Efekty poškození mozku",
+        "runsetbraindamagefxdsc": "Určuje, zda poškození mozku způsobuje pravidelné záchvaty",
+        "runsetinfinitelaststand": "Nekonečný poslední vzdor",
+        "runsetinfinitelaststanddsc": "Určuje, zda můžeš dostat šanci na poslední vzdor více než jednou během průchodu.",
+        "runsetmoodnormalizationrate": "Rychlost normalizace nálady",
+        "runsetmoodnormalizationratedsc": "Jak rychle se tvá nálada vrací k nule. Při vyšších hodnotách bude těžší zůstat smutný nebo šťastný.",
+        "runsetforcesleep": "Vynucený spánek",
+        "runsetforcesleepdsc": "Určuje, zda hráč automaticky upadne do bezvědomí, jakmile jeho energie klesne na 0.",
+        "runsetlowmoodevents": "Události při špatné náladě",
+        "runsetlowmoodeventsdsc": "Určuje, zda hráč začne provádět speciální akce při kriticky nízké náladě.",
+        "runsetliquidpushing": "Proudění tekutin",
+        "runsetliquidpushingdsc": "Určuje, zda pohybující se pole s tekutinou budou posouvat hráče a předměty.",
+        "runsetdisfigurement": "Povolit znetvoření",
+        "runsetdisfigurementdsc": "Určuje, zda může tvá postava trvale přijít o obličejové rysy.",
+        "runsetsleepcyclespeed": "Rychlost spánkového cyklu",
+        "runsetsleepcyclespeeddsc": "Jak rychle ti klesá energie v bdělém stavu a jak rychle se regeneruje během spánku.",
+        "runsetencumbrancecap": "Limit nosnosti",
+        "runsetencumbrancecapdsc": "Kolik toho hráč unese, než začne být přetížený.",
+        "runsetnosleeprestrictions": "Spánek bez omezení",
+        "runsetnosleeprestrictionsdsc": "Určuje, zda může hráč spát kdykoliv – i když není unavený, má bolesti, je mu nevolno atd.",
+        "runsettraderchance": "Šance na obchodníka",
+        "runsettraderchancedsc": "Jak často se obchodníci objevují v záchranných modulech",
+        "runsettraderitemamount": "Množství předmětů obchodníka",
+        "runsettraderitemamountdsc": "Násobitel určující, s kolika předměty se obchodníci obvykle objeví",
+        "runsettraderrepoffset": "Úprava reputace u obchodníka",
+        "runsettraderrepoffsetdsc": "Kolik bonusové reputace se má přidat/odebrat při setkání s obchodníky",
+        "runsetitemdecayrate": "Rychlost rozkladu předmětů",
+        "runsetitemdecayratedsc": "Jak rychle podléhají zkáze věci jako jídlo, batohy a zdroje světla",
+        "runsetlayermodifierchance": "Šance na modifikátor vrstvy",
+        "runsetlayermodifierchancedsc": "Jaká je pravděpodobnost, že se v dané vrstvě objeví její modifikátor",
+        "runsettimebetweenearthquakes": "Čas mezi zemětřeseními",
+        "runsettimebetweenearthquakesdsc": "Jak dlouho v průměru potrvá, než dojde k zemětřesení",
+        "runsettemperatureoffset": "Úprava okolní teploty",
+        "runsettemperatureoffsetdsc": "O kolik teplejší/chladnější by mělo prostředí v průměru být",
+        "runsetlockpickprecision": "Tolerance páčení zámků",
+        "runsetlockpickprecisiondsc": "Jak široký je úhel přesnosti během miniher s páčením zámků",
+        "runsetambientlight": "Okolní světlo",
+        "runsetambientlightdsc": "Jak moc by měly být osvětleny oblasti bez přímého zdroje světla",
+        "runsetambientlightnone": "Černočerná tma",
+        "runsetambientlightenough": "Dost na to, aby bylo vidět",
+        "runsetambientlightbright": "Jasné",
+        "runsetoreamount": "Množství rudy",
+        "runsetoreamountdsc": "Kolik mědi/ilmenitu se má vytvořit v každé vrstvě",
+        "runsetminigamehandshake": "Třes rukou v minihrách",
+        "runsetminigamehandshakedsc": "Jak moc se ti třesou ruce během miniher, když máš bolesti",
+        "runsetdebugworld": "Ladicí svět (Debug)",
+        "runsetdebugworlddsc": "Pokud je zapnuto, svět se výrazně zmenší, aby se urychlilo jeho generování. Není určeno pro běžné hraní",
         "tutorialwarning": "<size=150%>Než vyrazíš...\n\n<size=100%>Ještě jsi neprošel základním výcvikem.\nOpravdu chceš jít úplně naslepo?\n\n\n\nTvá smrt je takřka zaručena.",
         "tutorialwarningyes": "Absolvovat základní výcvik",
         "tutorialwarningno": "Vím, co dělám!",
-        "quit": "Ukončit",
+        "pausereturn": "Zpět",
+        "pausegiveup": "Vzdát to",
+        "pausegiveup2": "Jsi si jistý?",
+        "pausegiveup3": "Jsi si ABSOLUTNĚ jistý?",
+        "pausegiveup4": "To tak moc toužíš zemřít?",
+        "pausegiveup5": "NITROLEBEČNÍ VÝBUŠNÉ ZAŘÍZENÍ AKTIVOVÁNO",
+        "pausegiveup5dsc": "Tvá mozková tkáň se brzy stane jedním s tvým bezprostředním okolím.",
+        "pausegiveupdsc": "Opustit tento život",
+        "pauseexit": "Odejít",
+        "pausesettings": "Nastavení",
+        "pausesettingsdsc": "Protože je hra příliš nahlas",
         "resettodefault": "Obnovit výchozí",
-        "resettodefaultdsc": "Obnoví všechna nastavení průchodu na jejich výchozí hodnoty.",
-        "back": "Zpět",
+        "tabvideo": "Obraz",
+        "tabaudio": "Zvuk",
+        "tabgame": "Hra",
+        "tabinput": "Ovládání",
+        "tablanguage": "Jazyk",
+        "gamesetreswidth": "Šířka rozlišení",
+        "gamesetreswidthdsc": "Preferované horizontální rozlišení. Vezmi na vědomí, že tvůj operační systém ho může omezit.",
+        "gamesetresheight": "Výška rozlišení",
+        "gamesetresheightdsc": "Preferované vertikální rozlišení. Vezmi na vědomí, že tvůj operační systém ho může omezit.",
+        "gamesetfullscreen": "Celá obrazovka",
+        "gamesetfullscreendsc": "Přepínání mezi oknem a režimem bez okrajů.",
+        "gamesetvsync": "V-Sync",
+        "gamesetvsyncdsc": "Zapne vertikální synchronizaci, která snižuje trhání obrazu za cenu zpoždění odezvy (input lag). Pokud je zapnutá, přepisuje nastavení maximální snímkové frekvence.",
+        "gamesetframerate": "Max. snímková frekvence",
+        "gamesetframeratedsc": "Pokud je hodnota vyšší než 0, nastavuje maximální rychlost běhu hry. Hodnota 0 znamená neomezeně. Přepisuje se, pokud je zapnutý V-Sync.",
+        "gamesetpixelate": "Pixelové vykreslování",
+        "gamesetpixelatedsc": "Přepíná mezi zmenšeným (pixelovým) a plným rozlišením vykreslování. Vezmi na vědomí, že vypnutí pixelového vykreslování obětuje část zamýšleného vizuálního stylu hry.",
+        "gamesetdarkerbackground": "Tmavší pozadí",
+        "gamesetdarkerbackgrounddsc": "Ztmaví stěny jeskyně v pozadí pro lepší kontrast",
+        "gamesetbloom": "Bloom",
+        "gamesetbloomdsc": "Způsobí, že jasné věci vypadají lépe. Ovlivňuje také nečistoty na objektivu kamery",
+        "gamesetfilmgrain": "Filmové zrno",
+        "gamesetfilmgraindsc": "Jak moc chceš, aby byl tento šumový filtr viditelný",
+        "gamesetbrightness": "Jas",
+        "gamesetbrightnessdsc": "O kolik jasnější mají být všechny tóny, které nejsou černočerné",
+        "gamesetlineofsightcount": "Rozlišení zorného pole",
+        "gamesetlineofsightcountdsc": "Jak detailní je shader zorného pole, když je aktivní. Vyšší hodnoty zhoršují výkon hry",
+        "gamesetscreenshake": "Otřesy obrazovky",
+        "gamesetscreenshakedsc": "Jak moc se má obrazovka třást po tvrdých dopadech, explozích atd.",
+        "gamesetcensorpain": "Cenzura bolesti",
+        "gamesetcensorpaindsc": "Vypne sténání bolestí a zmírní některé textové hlášky.\nPOZNÁMKA: Toto se nedoporučuje, pokud to opravdu nepotřebuješ k tomu, abys mohl hrát dál",
+        "gamesetcensormood": "Cenzura nálady",
+        "gamesetcensormooddsc": "Zmírní události spojené se špatnou náladou a některé textové hlášky.\nPOZNÁMKA: Toto se nedoporučuje, pokud to opravdu nepotřebuješ k tomu, abys mohl hrát dál",
+        "gamesetalwaysexpand": "Vždy rozbalovat popisy předmětů",
+        "gamesetalwaysexpanddsc": "Pokud je zapnuto, vždy uvidíš rozbalené popisy předmětů, když na ně najedeš myší, aniž bys musel držet klávesu pro rozbalení",
+        "gamesetshowhiddenmoodles": "Vždy zobrazovat skryté stavy",
+        "gamesetshowhiddenmoodlesdsc": "Pokud je zapnuto, stavy s nízkou důležitostí se budou vždy zobrazovat, aniž bys na ně musel nejprve najet myší",
+        "gamesetitemfloating": "Vznášení předmětů",
+        "gamesetitemfloatingdsc": "Pokud je zapnuto, sebrané předměty se budou krátce vznášet ve vzduchu",
+        "gamesetclearerrecipes": "Barevný kontrast seznamu receptů",
+        "gamesetclearerrecipesdsc": "Pokud je zapnuto, seznam receptů získá jasnější barvy pro lepší rozlišení mezi vyrobitelnými a nevyrobitelnými recepty",
+        "gamesetinventoryuseleniency": "Tolerance použití inventáře",
+        "gamesetinventoryuseleniencydsc": "Jak dlouho musíš čekat po otevření inventáře, než můžeš použít předmět. Nižší hodnoty ti umožní používat předměty dříve",
+        "gamesetskipintro": "Přeskočit úvod",
+        "gamesetskipintrodsc": "Protože jsi ten úvodní text viděl už prostě příliš mockrát...",
+        "gamesetrpc": "Rich Presence",
+        "gamesetrpcdsc": "Zapne nebo vypne zobrazení Discord Rich Presence pro hru na tvém profilu",
+        "gamesetmastervolume": "Hlavní hlasitost",
+        "gamesetmastervolumedsc": "",
+        "gamesetmusicvolume": "Hlasitost hudby",
+        "gamesetmusicvolumedsc": "",
+        "gamesetdronevolume": "Hlasitost atmosférických zvuků",
+        "gamesetdronevolumedsc": "Hlasitost situačních hudebních podkresů, jako jsou agonie, vyčerpání, závaly jeskyní atd.",
+        "gamesettrackinterval": "Interval hudebních stop",
+        "_comment3": "ch...---------------------------------------------------------------",
+        "gamesettrackintervaldsc": "V sekundách. Jak dlouho se má čekat mezi hudebními stopami před přehráním dalších",
+        "gamesetsadnessdistortion": "Zkreslení hudby při smutku",
+        "gamesetsadnessdistortiondsc": "Určuje, zda se má hudba postupně zkreslovat s tím, jak klesá tvá nálada",
+        "gamesetautojump": "Automatické skákání",
+        "gamesetautojumpdsc": "Pokud je zapnuto, tvá postava se bude neustále snažit skákat, dokud držíš tlačítko. Podobá se to starému chování skoku",
+        "gamesettogglelabels": "Přepínání zobrazení popisků",
+        "gamesettogglelabelsdsc": "Pokud je zapnuto, popisky předmětů se zapnou/vypnou stisknutím klávesy, místo aby se klávesa musela držet",
+        "gamesetjump": "Skok",
+        "gamesetleft": "Pohyb doleva",
+        "gamesetright": "Pohyb doprava",
+        "gamesetdown": "Dřep",
+        "gamesetup": "Pohyb nahoru",
+        "gamesetattack": "Úder",
+        "gamesetiteminteract": "Použít předměty/Zrušit",
+        "gamesetthrow": "Hodit",
+        "gamesetswitchhands": "Prohodit ruce",
+        "gamesetragdoll": "Ragdoll",
+        "gamesetwoundview": "Zdravotní panel",
+        "gamesetcraft": "Menu výroby",
+        "gamesetfavourite": "Oblíbený předmět",
+        "gamesettoggleinventory": "Přepnout inventář",
+        "gamesetspeed1": "Normální rychlost",
+        "gamesetspeed2": "Vysoká rychlost",
+        "gamesetspeed3": "Super vysoká rychlost",
+        "gamesetexpanddesc": "Rozbalit popis předmětu",
+        "gamesetaltview": "Zobrazit popisky předmětů",
+        "gamesetbark": "Hláška",
+        "gamesetconsole": "Přepnout ladicí konzoli (Debug)",
+        "gamesetpause": "Pauza",
+        "copy": "Kopírovat do schránky",
+        "paste": "Vložit ze schránky",
         "descend": "Sestoupit",
-        "mainmenu": "Hlavní\nmenu",
-        "screenbrightness": "Jas obrazovky",
-        "gamma": "Gama",
-        "paneltip": "Stiskni ESCAPE pro otevření/zavření tohoto panelu",
         "unarmed": "Nic",
         "container": "Úložiště",
         "containermaxweight": "Kapacita",
@@ -1445,6 +1654,7 @@
         "amputationMinigameGuide": "Přeřízni končetinu pro amputaci. Ujisti se, že pak zastavíš krvácení.",
         "aedMinigameGuide": "Postupuj podle zobrazených pokynů.",
         "manualDefibMinigameGuide": "Přizpůsob náboj tomu, v jaké fázi cyklu fibrilace se nachází tvé srdce, nabij a dej výboj. Podle potřeby opakuj.\nDoporučený odhad (POW.EST) je přesnější s vyšší inteligencí (INT).",
+        "handCrankMinigameGuide": "Uchop kličku a otáčej s ní pro nabití.",
         "aedstate0": "Umísti elektrody na vyznačená místa.",
         "aedstate1": "Analyzuji tep.",
         "aedstate2": "Doporučen výboj.\nStiskni tlačítko pro výboj.",
@@ -1563,6 +1773,8 @@
         "togglehealthmode": "Přepnout zobrazení ran/zbroje",
         "selecttrainingcourse": "Vyber si výcvikový kurz.",
         "start": "Start",
+        "quit": "Ukončit",
+        "back": "Zpět",
         "basicscourse": "Základní výcvik",
         "firstaidcourse": "Kurz první pomoci",
         "craftingcourse": "Kurz výroby",
@@ -1624,10 +1836,8 @@
         "hplimbforce": "Síla končetiny",
         "hplimbforcedsc": "Celková schopnost končetiny se hýbat a vyvíjet sílu",
         "hpopiate": "Množství opiátů",
-        "keybinds": "Klávesové zkratky",
-        "keybindsdsc": "Otevře soubor s klávesovými zkratkami. Nezapomeň uložit všechny změny!",
-        "custommusic": "Vlastní hudba",
-        "custommusicdsc": "Otevře složku pro vlastní hudbu.\nMůžeš sem vložit soubory .mp3/.ogg/.wav, aby se zobrazily jako možnosti při používání MP3 přehrávače.\nJiné typy souborů nejsou podporovány.",
+        "settings": "Nastavení",
+        "credits": "Autoři",
         "layer": "Vrstva",
         "toggleheatmode": "Přepnout režim klimatizace",
         "activateshower": "Aktivovat sprchu",
@@ -1657,8 +1867,8 @@
         "open": "Otevřít",
         "insertbattery": "Vložit baterii z hlavní ruky",
         "lockpick": "Vypáčit",
-        "learnedrecipe": "Naučil ses recept na r1.\nZískal jsi <color=\"green\">30 zkušeností do INT.",
-        "epdalearn": "Získal jsi <color=\"green\">50 zkušeností do INT.",
+        "learnedrecipe": "Naučil ses recept na r1.\nZískal jsi <color=\"green\">25 zkušeností do INT.",
+        "epdalearn": "Získal jsi <color=\"green\">35 zkušeností do INT.",
         "hasbattery": "Obsahuje baterii (<>)\n<sprite index=17 tint=1>K vyjmutí použij nástroj",
         "nobattery": "Bez baterie (Max. <>)",
         "unknownobject": "Něco...",
@@ -1674,6 +1884,11 @@
         "small": "Malý",
         "medium": "Střední",
         "large": "Velký",
+        "crystaleffect1": "Něco s tím není v pořádku",
+        "crystaleffect2": "Rozeznáváš na tom pár zvláštností.",
+        "crystaleffect3": "Vyzařuje z toho jakási energie. Všímáš si kolem toho několika podivností.",
+        "crystaleffect4": "Z tohoto vyzařuje silná energie. Zdá se, jako by se kolem něj zakřivoval prostor.",
+        "crystaleffectmany": "Něco s tím je děsivě v nepořádku. Asi by ses k tomu neměl přibližovat... Nebo bys snad měl?",
         "lockprecision": "Přesnost zámku: ",
         "degree": "stupeň",
         "degrees": "stupňů",
@@ -1709,17 +1924,18 @@
         "tradermovedsc": "Zdvouřile požádej obchodníka, aby uhnul, v případě, že blokuje něco důležitého.",
         "exit": "Odejít",
         "free": "<color=\"orange\">ZDARMA!",
-        "deceased": "Zesnulý",
-        "statusreport": "Hlášení o stavu",
-        "firmware": "Firmware",
-        "depth": "Hloubka",
-        "caloriesconsumed": "Spotřebované kalorie",
-        "mentalstate": "Duševní stav",
-        "timetaken": "Strávený čas",
-        "missionstatus": "Stav mise",
-        "missionstatusfailure": "Selhání",
-        "casualties": "Ztráty",
-        "unknown": "Neznámé",
+        "endscreenstatus": "HLÁŠENÍ O STAVU MSN-CARGO",
+        "endscreenunresolved": "NEVYŘEŠENO",
+        "endscreencasualties": "ZTRÁTY:",
+        "endscreenunknown": "NEZNÁMÉ",
+        "endscreenphysical": "FYZICKÝ STAV:",
+        "endscreendeceased": "ZESNULÝ",
+        "endscreenmental": "POSLEDNÍ ZAZNAMENANÝ PSYCHICKÝ STAV:",
+        "endscreendepth": "HLOUBKA:",
+        "endscreendepthres": " METRŮ V ",
+        "endscreencalories": "KALORIE:",
+        "endscreenmainmenu": "NÁVRAT DO MENU",
+        "endscreenclipboard": "ZKOPÍROVAT DO SCHRÁNKY",
         "moodrange-10": "Sebevražedný",
         "moodrange-9": "Zcela beznadějný",
         "moodrange-8": "Naprosto zoufalý",
@@ -1742,10 +1958,12 @@
         "moodrange9": "Radostný",
         "moodrange10": "Extatický",
         "moodrangewiped": "Prázdný",
-        "moodrangeyethopeful": ", a přesto plný naděje...",
+        "moodrangeyethopeful": ", a přesto plný naděje",
         "wiki": "Wiki",
         "discord": "Discord server",
         "translations": "Repozitář překladů",
+        "localefolder": "Složka s překlady",
+        "musicfolder": "Vlastní hudba",
         "healthchipcriticalalert1": "ŽIVOTNÍ FUNKCE\nKRITICKÉ",
         "healthchipcriticalalert2": "UKONČENÍ\nNEVYHNUTELNÉ",
         "healthchipcriticalalert3": "VYHLEDEJTE LÉKAŘSKOU\nPOMOC",
@@ -1762,7 +1980,7 @@
         "tutbasic8": "Jsi docela mrštná malá potvůrka, viď.",
         "tutbasic9": "Nyní si projdeme držení věcí.",
         "tutbasic10": "Interakce s předměty se provádí pomocí [PRAVÉHO TLAČÍTKA MYŠI]. Kliknutím na sebe si zobrazíš inventář, kliknutím mimo něj ho zavřeš.",
-        "tutbasic11": "Tady máš něco na hraní. Klikni [PRAVÝM TLAČÍTKEM MYŠI] a přetáhni to na sebe, pak do slotu, abys to sebral.",
+        "tutbasic11": "Tady máš něco na hraní. Stiskni [PRAVÉ TLAČÍTKO] a přetáhni to na sebe, pak do slotu, abys to sebral. Můžeš podržet [CONTROL] pro zobrazení popisků předmětů, což ti usnadní jejich hledání.",
         "tutbasic12": "Skvělé. Předmět můžeš použít i z inventáře. Přetáhni ho do středu, abys ho použil a mohl pokračovat.",
         "tutbasic13": "Chutná to úžasně, že? Teď bys to měl sníst celé.",
         "tutbasic13fail": "Chtěl jsem, abys to sebral, ne snědl... Bože, to celé? Všechno najednou..?",
@@ -1933,7 +2151,7 @@
         "tutclosehealthpanel": "Zavři panel zdraví.",
         "tutopenhealthpanel": "Otevři panel zdraví.",
         "tutnice": "Pěkně.",
-        "startlorenote": "Rok 2XXX \n<>\nLidstvo dosáhlo významného technologického pokroku. \n<>\nJedna korporace začala investovat do výzkumu v oblasti bioinženýrství a kombinování zvířecí a lidské DNA. \n<>\nTo vedlo k vytvoření druhu Experimentů a desítek jejich pozdějších odnoží. \n<>\nPo letech neetického soukromého testování v laboratořích zaměřili své cíle na něco většího. \n<>\nSlyšeli o šedé planetě s bujnou flórou, faunou a snadnou trasou pro cestování vesmírem. \n<>\nBrzy tam byly odeslány tisíce jedinců, budov a nejrůznějšího nákladu. \n<>\nAčkoliv většina zásilky byla doručena správně, velké množství nákladu bylo kvůli kalibrační chybě omylem posláno do rozsáhlé sítě jeskyní na planetě. \n<>\nTo zahrnuje i omylem poslaný kus důležité experimentální technologie, který nyní leží hluboko v podzemních systémech bez snadného způsobu, jak ho dostat zpět. \n<>\nVědci v tom však spatřili příležitost k dalšímu výzkumu chování a poslali dolů tisíce jedinců, aby ztracenou technologii získali zpět. \n<>\nŠance na úspěch byla mizivá, ale přeprava je levná a toho jejich dýchajícího spotřebního materiálu je víc než dost. \n<>\nTy jsi jedním z těch nešťastných jedinců.\nOdpor nemá smysl."
+        "startlorenote": "Rok 2XXX \n<>\nTechnologie lidstva významně pokročila. Věci, které se dříve zdály nemožné, byly nyní samozřejmostí.\n<>\nV centru toho všeho stála jedna společnost. Její pokrok se zdál být zázračný, ale svá tajemství si přísně střežila.\n<>\nPřed lety vytvořili nový druh: kombinaci zvířecí a lidské DNA, kterou jednoduše nazývali \"Experimenty\".\n<>\nTyto experimenty byly dokonalými testovacími subjekty, dostatečně podobnými lidem, ale patřily jim, aby si s nimi dělali, co se jim zlíbí. Dřeli na nich, překrucovali jejich biologii ještě více, aby vyhovovala jejich potřebám, a jak roky plynuly, populace se jen zvětšovala.\n\nNikdo z nich nikdy nespatřil venkovní svět.\n<>\nNyní se zdálo, že Země už nedokáže pojmout jejich ambice. Se svou nově vynalezenou teleportační technologií se zaměřili na šedou planetu kypící životem.\n<>\nBrzy nato byly odeslány tuny nejrůznějšího nákladu a odpadu.\n<>\nKvůli problémům s kalibrací ho v jeskynním systému planety skončilo stejně tolik jako na povrchu, ale projekt jinak postupoval hladce. \n<>\nTedy až do chvíle, kdy neznámá chyba způsobila, že důležitý kus technologie byl místo toho odeslán hluboko do jeskyní.\n<>\nVědci brzy vymysleli plán. Plán, který pro ně samotné představoval jen pramalé riziko.\n<>\nŠance na úspěch byly nízké, ale živého krmiva měli dostatek.\n<>\nJsi jeden takový nešťastný exemplář.\nOdpor nepřipadá v úvahu."
     },
     "character": [
         {
@@ -2480,7 +2698,8 @@
                 "Moje <limb> je celá od krve...",
                 "Propánajána! Zdá se, že jsem se přepočítal a teď je moje <limb> úplně žlutá! Panebože! Co mám teď dělat!"
             ],
-            "sepsis": [
+            "_comment4":  [
+                "it was deleted i dont know why------ sepsis",
                 "Panebože... Je mi vážně zle...",
                 "Auugh... Co se to se mnou děje...",
                 "Já... fyzicky... úplně selhávám...",
@@ -2488,7 +2707,7 @@
                 "Guuhh... Je mi hrozně blbě...",
                 "Mám pocit, jako by celé mé tělo zachvátil zánět...",
                 "Bolí mě vnitřnosti...",
-                "Není mi vůbec dobře..."
+               "Není mi vůbec dobře..."
             ],
             "sad": [
                 "Mohlo by to být horší.",
@@ -3697,6 +3916,67 @@
                 "B-bude už.. brzy k-konec..?",
                 "Přestaňte... Přestaňte... Přestaňte... Prosím... P-přestaňte... Takhle n-ne... Zachraňte mě...",
                 "Do prdele... Do prdele... Pomozte mi... Já nechci... Nechci u-umřít... H-h.."
+            ],
+            "magicheal": [
+                "...Hm. Cítím se... lépe..?",
+                "Aaa..! ...Hm. To je... To je lepší. To se mi líbilo."
+            ],
+            "selfdestruct": [
+                "...Uuuhh... ...Co je to za pípání...?",
+                "...Oh. Oh. OH. OH! NE. NE NE NE. POČKAT. PROČ? CO JSEM UDĚLAL!?",
+                "...A-ah... Dobře... N-no... T-tak sbohem..."
+            ],
+            "vomitresponse": [
+                "Ehm... Jsi v pohodě..?"
+            ],
+            "vomitbloodresponse": [
+                "Fuj! Ty jsi právě... Oh... Hele, víš o tom, že jsi právě... vyzvracel krev, že jo?"
+            ],
+            "hungryresponse": [
+                "Tam venku je spousta jídla, víš...",
+                "No, mohl bych ti dát nějaké jídlo výměnou za něco jiného..?"
+            ],
+            "thirstyresponse": [
+                "Vsadím se, že se tam venku dá najít nějaká voda...",
+                "Co jsem tak naposledy slyšel, bez vody se dá vydržet jen tři \"dny\", haha..."
+            ],
+            "sadresponse": [
+                "Hej, to bude dobrý... Pořád žiješ a držíš se na nohou, ne..."
+            ],
+            "depressedresponse": [
+                "...Uklidni se, prosím... To bude v pořádku..."
+            ],
+            "selfharmresponse": [
+                "...P-proč... Proč jsi to..."
+            ],
+            "braindamagedresponse": [
+                "...Nezníš... Zrovna dvakrát dobře.",
+                "...Cože?"
+            ],
+            "hotresponse": [
+                "Tak ztlum topení."
+            ],
+            "coldresponse": [
+                "Víš, máme tu topení..."
+            ],
+            "bleedingresponse": [
+                "To... Vypadá to zle... Ale já... Určitě to dokážeš dát do kupy...",
+                "H-hej, uklidni se. Budeš v pořádku."
+            ],
+            "painresponse": [
+                "Jsi v pohodě..? Proč tě něco bolí?",
+                "Stoupl jsi na něco?"
+            ],
+            "dirtyresponse": [
+                "...Máme tu sprchu, víš. Nebo... Prostě se jdi vykoupat do těch jezírek venku..."
+            ],
+            "encumberedresponse": [
+                "Neuškodilo by, kdybys mi tu nechal nějaké své věci.",
+                "Dobře se o tvé věci postarám!"
+            ],
+            "dyingresponse": [
+                "Sakra... Eh... Nikdy jsem se neučil, jak někoho resuscitovat...",
+                "Já... Eh... Doufám, že budeš v pořádku..."
             ]
         },
         {
@@ -3865,6 +4145,60 @@
             ],
             "tradermovefail": [
                 "Proč bych měl uhýbat někomu, jako jsi ty?"
+            ],
+            "vomitresponse": [
+            "Vypadá to, že jsi vrátil obsah svého žaludku.",
+            "Vážně? Na MOJÍ podlaze?"
+            ],
+            "vomitbloodresponse": [
+            "...Vypadá to, že krvácíš vnitřně. Prosím, nasměruj svá ústa pryč ode mě, pro dohlednou dobu."
+            ],
+            "hungryresponse": [
+            "Pokud si představuješ, že tě nasytím bez placení, jsi na velkém omylu.",
+            "Nejsem charita. Najdi si jídlo, nebo se mnou něco vyměň."
+            ],
+            "thirstyresponse": [
+            "Toto místo je protkáno spoustou pitelné vody. Využij ji.",
+            "Najdi si svůj zdroj vody někde jinde."
+            ],
+            "sadresponse": [
+            "Prosím, přestaň s tím naříkáním."
+            ],
+            "depressedresponse": [
+            "Propadání beznaději nevyřeší žádný z tvých problémů."
+            ],
+            "selfharmresponse": [
+            "...Opravdu jsi nemocný. Přestaň s tím."
+            ],
+            "braindamagedresponse": [
+            "Jsi naprosto nesrozumitelný.",
+            "Vsadil bych se, že máš otřes mozku."
+            ],
+            "hotresponse": [
+            "Možná ti dovolím použít chladič tohoto záchranného modulu, pokud se budeš chovat slušně."
+            ],
+            "coldresponse": [
+            "Cvičení. Zahřeješ se během mrknutí oka."
+            ],
+            "bleedingresponse": [
+            "Prosím, nekrvácej na mě.",
+            "Zapřísahám tě, starej se o svá zranění."
+            ],
+            "painresponse": [
+            "Bolest je tady dole zaručená. Zatni zuby.",
+            "Vezmi si prášek proti bolesti. Určitě nějaké máš..."
+            ],
+            "dirtyresponse": [
+            "Správně. Jsi špinavý. Nedotýkej se mě, dokud se neočistíš."
+            ],
+            "encumberedresponse": [
+            "Nebolelo by tě nechat si ty těžké věci u mě?",
+            "Ty jsi ale provokatér."
+            ],
+            "dyingresponse": [
+            "Nejsem si jistý, jestli v této situaci pomůže KPR (resuscitace).",
+            "Vážně? Umírat na MOJÍ podlaze?",
+            "Zlepší panikaření tuhle situaci?"
             ]
         },
         {
@@ -4032,6 +4366,58 @@
             ],
             "tradermovefail": [
                 "Du-ne mí-t rád to-to mís-to..."
+            ],
+            "vomitresponse": [
+            "Fri-end... Zvrací... Cítí se ne-vol-no?"
+            ],
+            "vomitbloodresponse": [
+            "Du-ne... Cítí krev... Z fri-enda... Chuť-ná..?"
+            ],
+            "hungryresponse": [
+            "Du-ne rozumí... Du-ne má taky hlad!",
+            "Sou-hlas... Du-ne taky po-tře-bu-je jídlo!"
+            ],
+            "thirstyresponse": [
+            "Du-ne pije z lou-že... Cítí se lé-pe... Zkusí fri-end taky?",
+            "Mm-m... Čas na srk-ání?"
+            ],
+            "sadresponse": [
+            "Fri-end se cítí špat-ně...? Proč?"
+            ],
+            "depressedresponse": [
+            "Fri-end vypadá moc špat-ně... Pojď, sedni si s Du-nem!"
+            ],
+            "selfharmresponse": [
+            "Proč si fri-end ubližuje? Je fri-end zlý?"
+            ],
+            "braindamagedresponse": [
+            "Du-ne sou-hlasí.",
+            ".........?"
+            ],
+            "hotresponse": [
+            "Du-ne nikdy necítí horko! Du-ne miluje teplo..."
+            ],
+            "coldresponse": [
+            "Du-ne se bojí chla-du... Míst-nost je tep-lá! Fri-end zů-stane s Du-nem..."
+            ],
+            "bleedingresponse": [
+            "Fri-end je zraněný. Fri-end po-tře-bu-je pomoc!",
+            "Fri-end voní jako krev. To má Du-ne rád."
+            ],
+            "painresponse": [
+            "Fri-end má bo-lest..?",
+            "Du-ne ro-zumí... Du-ne taky cítí bo-lest! Je fri-end v po-řádku?"
+            ],
+            "dirtyresponse": [
+            "Co je to špí-na?"
+            ],
+            "encumberedresponse": [
+            "Může vzít věci fri-enda?",
+            "Du-ne ulehčí ná-klad!"
+            ],
+            "dyingresponse": [
+            "Co se děje s fri-endem..?",
+            "Du-ne ne-ví, jak po-moci..."
             ]
         }
     ],
@@ -4193,9 +4579,19 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Cítím se osaměle... a tak jsem se rozhodl trochu rozptýlit:\nNašel jsem něco jako miniaturní fax, který se mi podařilo rozmáčknout a vytáhnout z něj papíry. Pak jsem vzal klacek a vymačkal na něj jedno z těch svítících ovocí. Vznikl z toho vlastně štětec a plátno na kreslení! Kdybyste jen věděli... Začal jsem kreslit alternativní reality, kde jsme svobodní a žijeme spolu v míru; bez těch vědeckých šmejdů... Cítil jsem se tak šťastný a trochu jsem si poplakal.\nAle teď už musím jít: začínám mít hlad! Možná, že když se potkáme, nakreslím i vás...? S tím „štětcem“ už mi to jde opravdu dobře. Pokusím se naučit kreslit i ostatní...",
+                "Item1": "Nejsem moc silný, takže jsem doufal, že se s někým spojím. Měli bychom tak mnohem větší šanci na přežití, ale nikdo, koho jsem se ptal, neměl zájem. Všichni se bojí a někteří z nás jsou nebezpeční. Je tu tolik pastí, že je nemožné cestovat ve velkých skupinách. Vím, že zemřu z naprosto hloupého důvodu...\n\nLidé jsou tak krutí. Nedokážu to pochopit.",
                 "Item2": "",
                 "Item3": "milky"
+            },
+            {
+                "Item1": "(Vzkaz je zmačkaný a zmuchlaný, jako by ho někdo chtěl vyhodit.)\n<>\nmůj kamarád... myslím že se zabil. po dalším ošklivém pádu jsem se snažil mu ošetřit nohy, ale pořád mi nadával. odháněl mě jako nějakou mouchu a říkal, ať ho nechám být. nechápal jsem to. odešel jsem natrhat nějaké rostliny, co tu rostou, abych ho zkusil obvázat, ale... když jsem se vrátil, měl další ránu. na ruce. doteď si pamatuju, jak to vypadalo, bylo to zlé, prakticky roztrhané na kusy. zkusil jsem použít ty rostliny, co jsem našel, abych tu novou ránu ošetřil, ale pořád mě odstrkával. jeho oči byly... vypadaly prostě... prázdně. řekl jsem mu, ať přestane a prostě mě nechá pomoct, ale on neodpovídal. zkusil jsem pomoct ještě párkrát a on mě odstrkoval, dokud prostě... nepřestal. pamatuju si, jak se jeho tělo uvolnilo, myslím, že tehdy přestal dýchat. ten obraz nemůžu dostat z hlavy...\n<>\nudělal... udělal jsem něco špatně? přísahám, že ne... co jsem udělal špatně? proč to udělal? já... nic jsem neudělal. nechápu to, nechci umřít... já nechci... já...\n<>\n...\n<>\nhaha...\n<>\njsem tu tak strašně sám.\n<>\n(Na zmačkaném papíru si všímáš slabých stop zaschlých slz a cákanců zaschlé krve.)",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "(Na papíře je barevná grafika a nevypadá to, že by byl psaný ručně.)\n<>\nPolévka! Vyzkoušejte náš Speciální kotlík - prostě dovnitř vložte maso a přísady a nechte zvolna vařit. Bez obav. Sami uznáte, že ta chuť se dá vyvážit zlatem. Lze skladovat až 737 let!",
+                "Item2": "",
+                "Item3": ""
             }
         ],
         [
@@ -4250,7 +4646,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Lidé dělají zvláštní věci. Nikdy byste jim neměli věřit, že na vás budou milí.\nAle můžete jim věřit, že vás udrží naživu.<>\nJednou jsem si zlomil ruku a oni mi ji dali do „sádry.“ Nelíbilo se mi to. Bylo to těžké a úplně to zabránilo mé ruce v pohybu. Zdálo se, jako by to schválně zhoršili, a nutili mě to nosit dlouhou dobu.<>\nJednoho dne to sundali a moje ruka byla v pořádku.<>\nLidé to zhoršili, aby se to mohlo zlepšit.<>\n\nMyslím, že Jumperově hlavě udělali něco podobného.\nJumper dříve hodně křičel a plakal. Jednou si ublížil a lidé ho odvedli.<>\nJumper je teď zpátky. Už nepláče. Nemluví. Pořád vypadá ospale. Jeho hlava je na tom jako dřív moje ruka. Nevidím kolem ní žádnou „sádru“ a jeho chování mě znepokojuje, ale alespoň už si neubližuje. Doufám, že lidé vrátí zpět to, co udělali, jakmile bude Jumperova hlava spravená.<>\n\nChybí mi.",
+                "Item1": "Lidé dělají zvláštní věci. Nikdy byste jim neměli věřit, že na vás budou milí.\nAle můžete jim věřit, že vás udrží naživu.<>\nJednou jsem si zlomil ruku a oni mi ji dali do \"sádry.\" Nelíbilo se mi to. Bylo to těžké a úplně to zabránilo mé ruce v pohybu. Zdálo se, jako by to schválně zhoršili, a nutili mě to nosit dlouhou dobu.<>\nJednoho dne to sundali a moje ruka byla v pořádku.<>\nLidé to zhoršili, aby se to mohlo zlepšit.<>\n\nMyslím, že Jumperově hlavě udělali něco podobného.\nJumper dříve hodně křičel a plakal. Jednou si ublížil a lidé ho odvedli.<>\nJumper je teď zpátky. Už nepláče. Nemluví. Pořád vypadá ospale. Jeho hlava je na tom jako dřív moje ruka. Nevidím kolem ní žádnou \"sádru\" a jeho chování mě znepokojuje, ale alespoň už si neubližuje. Doufám, že lidé vrátí zpět to, co udělali, jakmile bude Jumperova hlava spravená.<>\n\nChybí mi.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4447,6 +4843,11 @@
                 "Item3": "milky"
             },
             {
+                "Item1": "našel jsem nějaký divný skákací věci. vystřelily mě do vzduchu... ale dokázal jsem se udržet nohama dolů. je to docela sranda. možná by se to mohlo občas i hodit. trochu nebezpečný možná, ale co tady dole není.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
                 "Item1": "nevím co mě zasáhlo ale už necejtím nohu, vidím jenom propletenej chuchvalec svalů kostí a krve\nmoje tělo křičí aby ta agónie už skončila \njediný co mám je tohle modrý zařízení na hrudi. obchodník od kterýho jsem to koupil mi řekl že by se to mělo používat jenom v nouzi.\nTa bolest už není k nevydržení, ale to světlo teď bliká. nevím kolik času mi zbejvá. vrátí se ta temnota až týhle věci dojde šťáva? nechci se vytratit...",
                 "Item2": "",
                 "Item3": "milky"
@@ -4454,9 +4855,99 @@
         ],
         [
             {
-                "Item1": "",
+                "Item1": "zdá se, že úplně každej tenhle výrůstek tady má nějakej účinek... nevím přesně jakej. je to nepředvídatelný. ale má to svý pravidla. některý jsou bezpečný, jiný ne, některý se hodí. zkusím si to zapisovat, jak na to budu přicházet...",
                 "Item2": "",
-                "Item3": ""
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "..ugh. fajn. ty žlutý BOLÍ. pocitově je to dost podobný těm cívkám, co jsem našel před pár hodinama... většinou kolem sebe mají takový divný jiskřící pole... nesahejte na ně. není to dobrý. aspoň pro tělo ne. všiml jsem si, že mi to po dotyku nějakým způsobem dobilo   všechny baterky...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "tenhle geigerův čítač, co mám, úplně šílí, když je poblíž jednoho z těch zelených výrůstků. nějaká \"radiace\", ať už je to cokoliv. jsem si docela jistej, že je to pro vás špatný. vyhýbejte se jim, jestli můžete.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "všiml jsem si, že některý z nich jsou zvláštně křehký. roztříští se, jakmile se jich jen dotknu. poznáte to, vypadají fakt křehce, jsou na nich všude praskliny. je zvláštní, že se to objevuje i u některých dalších typů, co jsem viděl... zajímalo by mě, jestli to platí pro všechny.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "všiml jsem si, že spousta těch výrůstků mě buď odtlačuje, nebo přitahuje. když se to stane, normálně cítíte, jak vámi projíždí nějaká síla. to by se mohlo občas hodit",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "páni. jsem TAK rád, že jsem u sebe měl chladící pytlík. zdá se, že ty mlžnatý a třpytivý hrozně rychle zahřívají všechno kolem sebe... včetně mě. nedivil bych se, kdyby nějaký dělaly pravej opak. taky jsem z nich slyšel vycházet takovej divnej zvuk...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ujistěte se, že máte nějaký antibiotika a tak. myslím, že ty fialový vám rozhodí imunitní systém. mají kolem sebe takovou slabou fialovou mlhu... chvíli jsem si vedle jednoho sedl, abych si odpočinul, a všiml jsem si na svým čipu, že mi klesají životní funkce. vypadá to na nějakou reakci jako při sepsi. myslím, že budu v pohodě",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "fajn. ty třesoucí se vypadají fakt děsivě... nejsou. vystřelí vás do vzduchu... ale, jakože, celou dobu dokážu udržet nohy směřující dolů. dost podobný těm skákacím věcem v předchozí oblasti, kde jsem byl.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "...\n<>\n...\n<>\nty lítající věci. nevím, jak to udělaly. ty kráso... ach bože. už jsem v pohodě, ale...<>\n\njak to říct... jsou tu takový divný ostrý lítající věci. vydávají fakt divný hlasitý zvuky... skoro jako by se mi smály. občas se nápřáhnou a vyrazí na mě, snaží se mě bodnout. jednou nebo dvakrát mě dostaly, ale... vždycky když to udělaly, zasekly se do země a já do nich párkrát praštil, dokud... uh... nevím jistě... co se stalo, ale bylo to pryč. myslím, že to vylezlo z jednoho z těch výrůstků, ale tak nějak se to hýbalo.<>\n\nněco z toho zbylo, když to zmizelo... možná je to užitečný? mám pocit, jako by to do něčeho rostlo, počkám a uvidím.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "fajn. dobrý zprávy a špatný zprávy. ta věc, co jsem si nechal po zabití jedný z těch lítajících věcí... ta... vyrostla do. dalších lítajících věcí. dvou... z jedný... i když ve skupině se zdály být pomalejší... jako by mi... dávaly šanci se bránit? divný.<>\n\nsnědl jsem ty jádra, co z nich padly, neměl jsem ponětí, co jinýho s nima dělat... bylo to. docela dobrý, vlastně. a vypadá to, že tentokrát se to do ničeho nepřeměnilo. možná bych to mohl dělat občas, abych měl víc a víc jídla? stejně ho tady dole nemůžu moc najít",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "nemám tušení, kde jsem. myslím, že jsem se dotkl nějakýho divnýho výrůstku a byl jsem... poslán. někam. ale bezpečně. i tak, žádný tušení kam. pamatuju si jenom, že to vypadalo trochu víc průhledně než obvykle. skoro jako bych viděl to místo, kde jsem skončil...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "všiml jsem si, že z dost těch věcí kapou tekutiny. nezdá se ale, že by dělaly něco jinýho. možná zdroj vody?",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "dotkl jsem se šedýho, blikl bíle, vydal divnej zvuk. potom jsem nic moc necítil... dokud jsem nezkusil použít svůj laserovej vrták. ta věc byla bez šťávy, přitom jsem si byl jistej, že před chvílí ještě nebyla. zkontroloval jsem zbytek baterek, co jsem si ušetřil, to samý. divný. vyhnout se. možná by stálo za to hodit se na jeden z těch jiskřících, aby se nabily...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "bolí mě oči. jsem vedle jednoho super super jasnýho. nezdá se, že by to dělalo něco jinýho než... no.. že mě to oslepuje. nelíbí se mi to, ale radši tohle, než cokoliv jinýho, co dokážou dělat.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "ty načervenalý vybuchujou. zdrhejte, když to začne odpočítávat. jsem v pohodě... bože, to jsem teda sakra málem nebyl.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "našel jsem divnej mlžnatej. dotkl jsem se ho a chvíli jsem nic neviděl... ale když jsem otevřel oči, uviděl jsem před sebou ležet nějaký lano a batoh. výrůstek byl pryč. nemůžu si stěžovat. nezdá se, že to udělalo něco jinýho.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "můžete se dotknout těch zelených. jsou dobrý. to se mi moc líbilo. hehe. uh. těch zelených, co neaktivujou geigerův čítač. ty dobrý jako by trochu nadskakovaly. oh... uh... huh... ten zelenej se mi moc líbil. mám rád ten zelenej. můžete se ho dotknout. mám rád ten zelenej.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "našel jsem hořící. ze zvědavosti jsem se ho dotkl. nedělejte to. bylo to horký.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "huh. šel jsem po jednom z těch výrůstků a vypadal normálně, ale najednou to vydalo zvuk a změnilo se to. jako by si to vyměnilo místo? divný.",
+                "Item2": "",
+                "Item3": "experiment"
             }
         ]
     ],
@@ -4478,11 +4969,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRICKÁ ZPRÁVA - 25##-04-08-09-06-08-0002]\n<>\nINDEX DATABÁZE: Registr projektu Sawian\nPODINDEX DATABÁZE: Druhy\n<>\n[OBSAH]\n\n[PRO VŠECHNY ENTITY V REGISTRU]\n- PŘEPSÁNÍ TYPU ENTITY: Šablona\n- TŘÍDA ENTITY: Biologická\n- PODTŘÍDA ENTITY: Sawian\n<>\nNÁZEV ENTITY: SAW-01 „Experiment“\nPOČET: [Nedefinováno]\n- Konečný prototyp našeho prvního obrovského průlomu v bioinženýrství.\nVyladěná kombinace spojené DNA jedné z našich testovacích krys, zaměstnance a jeho domácího mazlíčka.\nPsovitý typ. Malý a poměrně křehký. Zbabělý a ustrašený. Nepříliš užitečný k čemukoli jinému než jako spotřební materiál.\n<>\nNÁZEV ENTITY: SAW-02 „Orange“\nPOČET: 52082\n- Zmutovaná verze SAW-01. Velký, surový, hloupý a se čtyřmi rukama. Dobrý na hrubou práci a jakékoliv fyzicky namáhavé testování, kde se nedoporučuje úmrtí.\n<>\nNÁZEV ENTITY: SAW-03 „Milky“\nPOČET: 32184\n- Zmutovaný SAW-01 spojený s nespecifikovanou mořskou DNA. Droboučký, arogantní, ale inteligentní. Vynikající zrakové vlastnosti. Dobrý pro duševní práci.\n<>\nNÁZEV ENTITY: SAW-04 „Leapy“\nPOČET: 2046\n- Zmutovaný SAW-01 spojený s DNA mechu. Trvalo nějakou dobu, než jsme ho dostali do poněkud funkčního stavu. Poměrně rychlý nástup rakoviny z nich dělá tvory téměř nepoužitelné k práci. Také představují riziko útěku.\n<>\nNÁZEV ENTITY: SAW-05 „Chompy“\nPOČET: 6084\n- Zmutovaný SAW-03 spojený s DNA „žraloka“. Masožravý a vodní. Bez srsti. Zvláštně přátelský. Dobrý k řešení konfliktů, když je násilí nežádoucí. Jejich velký ocas je silně omezuje v pohybu, což potvrzuje naše dlouhodobé teorie.\n- Žraloci byli druhem dravých mořských ryb. Jsou vyhynulí, ale jejich DNA byla zachována pro vědecké účely.\n<>\nNÁZEV ENTITY: SAW-06 „Roza“\nPOČET: 7848\n- Zmutovaný SAW-01 spojený s DNA druhu „Sněžný chodec“ (Snow Strider). Zvláštně nízká tělesná teplota. Nevypočitatelný a náchylný k podráždění, ale poddajný, pokud se necítí ohrožen. Omezující ocas. Má konvenčně ženské rysy, pravděpodobně jako výsledek interakce směsi Sněžného chodce s pozemskou DNA.\n- Viz <corrupt:0xFFF853> pro další podrobnosti o „Sněžných chodcích“.\n\n[STRANA 1 ZE 2]",
+            "Item1": "BIOMETRICKÉ HLÁŠENÍ - 2508-04-08-09-06-08-0002\n<>\nDATABÁZOVÝ INDEX: Registr projektu Sawian\nDATABÁZOVÝ SUBINDEX: Druhy\n<>\n[OBSAH]\n<>\n[PRO VŠECHNY SUBJEKTY V REGISTRU]\n- PŘEPIS TYPU SUBJEKTU: Šablona\n- TŘÍDA SUBJEKTU: Biologický\n- PODTŘÍDA SUBJEKTU: Sawian\n<>\nNÁZEV SUBJEKTU: SAW-01 \"Experiment\"\nPOČET: [Nedefinováno]\n- Finální prototyp našeho prvního obrovského průlomu v bioinženýrství. Vylepšená kombinace spojené DNA jedné z našich testovacích krys, zaměstnance a jeho mazlíčka, psa. Malý a relativně křehký. Zbabělý a ustrašený. Nepříliš užitečný na nic jiného než jako krmivo.\n<>\nNÁZEV SUBJEKTU: SAW-02 \"Orange\"\nPOČET: 52002\n- Zmutovaná verze SAW-01. Velký, surový, hloupý a se čtyřmi pažemi. Dobrý na podřadnou práci a jakékoliv fyzicky namáhavé testování, kde je smrt nežádoucí.\n<>\nNÁZEV SUBJEKTU: SAW-03 \"Milky\"\nPOČET: 32184\n- Zmutovaný SAW-01 zkřížený s nespecifikovanou mořskou DNA. Malinký, arogantní, ale inteligentní. Vynikající zrakové vlastnosti. Dobrý na mentální práci.\n<>\nNÁZEV SUBJEKTU: SAW-04 \"Leapy\"\nPOČET: 2046\n- Zmutovaný SAW-01 zkřížený s DNA mechu. Chvíli trvalo, než jsme ho dostali do jakžtakž fungujícího stavu. Jejich poměrně rychlý nástup rakoviny je činí téměř nepoužitelnými pro práci. Představují také riziko útěku.\n<>\nNÁZEV SUBJEKTU: SAW-05 \"Chompy\"\nPOČET: 6004\n- Zmutovaný SAW-03 zkřížený se \"Žraločí\" DNA. Masožravý a vodní. Bez srsti. Zvláštně přátelský. Dobrý na řešení konfliktů, když je násilí nežádoucí. Jejich velký ocas je silně omezuje, což potvrzuje naše dlouhodobé teorie.\n- Žraloci byli druhem dravých mořských ryb. Jsou vyhynulí, ale jejich DNA byla uchována pro vědecké účely.\n<>\nNÁZEV SUBJEKTU: SAW-06 \"Roza\"\nPOČET: 7848\n- Zmutovaný SAW-01 zkřížený s DNA \"Sněžného běžce\" (Snow Strider). Zvláštně nízká tělesná teplota. Náladový a náchylný k podráždění, ale poslušný, když se necítí ohrožen. Překážející ocas. Má konvenčně ženské rysy, pravděpodobně v důsledku interakce směsi Sněžného běžce s pozemskou DNA. Viz <corrupt:0xFFF835> pro další podrobnosti o \"Sněžných kluzácích\" (Snow Sliders).\n<>\n[STRANA 1 ZE 2]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRICKÁ ZPRÁVA - 25##-04-08-09-06-19-3953]\n<>\nINDEX DATABÁZE: Registr projektu Sawian\nPODINDEX DATABÁZE: Druhy\n<>\n[OBSAH]\n\n[PRO VŠECHNY ENTITY V REGISTRU]\n- PŘEPSÁNÍ TYPU ENTITY: Šablona\n- TŘÍDA ENTITY: Biologická\n- PODTŘÍDA ENTITY: Sawian\n<>\nNÁZEV ENTITY: SAW-07 „Voyager“\nPOČET: 3604\n- Zmutovaný SAW-01 se spojenou kočičí DNA. Vyložený zmetek. Z nějakého důvodu nenávidí ostatní druhy, ale k nám chovají velkou úctu. Vysoce agilní, ale nepředstavují velké riziko útěku. Rádi se schovávají, ke značné škodě našich testovacích postupů.\n<>\nNÁZEV ENTITY: SAW-08 „Baron“\nPOČET: 73\n- Zmutovaný SAW-02 spojený s DNA <corrupt:0xFFDED0>. Obrovitý. Asi dvakrát větší než lidská bytost. Extrémně silný, a přesto emočně stabilní. Ačkoli nepředstavují riziko útěku, doporučuje se udržovat je pod přísnějším protokolem. Jejich velikost ztěžuje jak klonování, tak reprodukci – pokud možno se vyhněte jejich zabíjení.\n<>\nNÁZEV ENTITY: <corrupt:0xFFFFEA>\nPOČET: 3067\n- Zmutovaný SAW-03 spojený s hmyzí DNA. Duté kosti. Zvláštně jasně růžová barva srsti. Má končetiny podobné křídlům a hmyzí rysy. Mají tendenci chovat se jako kreténi, i když zjevně ne zlomyslně. Zdá se, že jejich vzhled přitahuje pohledy ostatních Sawianů.\n<>\nNÁZEV ENTITY: SAW-10 „Crystal“\nPOČET: 2360\n- Zmutovaný SAW-06 spojený s ještěří DNA. Má po celém těle tvrdé výrůstky připomínající krystaly. Dlouhý, extrémně lepkavý jazyk, dostatečně pevný na to, aby udržel váhu jejich těla. Z nějakého důvodu zřejmě rádi visí ze stropů. Mentální testování zatím neproběhlo, ale zdají se být poněkud arogantní. Stejné ženské rysy jako u SAW-06.\n<>\nNÁZEV ENTITY: SAW-11 „Velvet“\nPOČET: 158\n- Zmutovaný SAW-06 spojený s DNA členovce. Vzhledově připomíná běžného pavouka. Byl na nich proveden jen velmi malý počet testů, protože zaměstnance obvykle děsí, a to jak svým chováním, tak fyzickým vzhledem. Vyžaduje se přísný protokol – bylo nahlášeno, že jeden nešťastný údržbář byl sveden ke kontaktu se SAW-11. Jeho napůl sežraná mrtvola byla nalezena o několik hodin později, s viditelnými stopami krve kolem všech SAW-11 uskladněných ve stejné jednotce.\n<>\nNÁZEV ENTITY: SAW-12 „Dune“\nPOČET: 1839\n- Zmutovaný SAW-05 spojený s DNA členovce. JE NUTNÝ PŘÍSNÝ PROTOKOL - Bylo nahlášeno několikanásobné vraždění zaměstnanců a Sawianů. Navazujte kontakt pouze na dálku a se smrtící zbraní v ruce. Nenechte se oklamat jejich vzhledem. Mají kanibalistické sklony a téměř neukojitelný hlad. Jejich velmi nízká inteligence tento fakt jen umocňuje. Velká většina jejich populace má být deportována do <corrupt:0xFF0011>, aby byla zajištěna trvalá bezpečnost našich zaměstnanců, protože jejich kompletní likvidace není proveditelná.\n<>\nNÁZEV ENTITY: SAW-13 „Shelly“\nPOČET: 784\n- Zmutovaný SAW-10 spojený s DNA členovce. Nebojte se jejich vzhledu - SAW-10 jsou obecně poddajní. Nemají ústa a zdá se, že se živí radiací z okolního prostředí. Nejsou schopni mluvit, ale zdá se, že mají poměrně vysokou inteligenci. Testování se doporučuje provádět zaměstnancům, kteří ovládají univerzální znakovou řeč. Jejich krunýř omezuje jejich reprodukci, ale jejich klonování je stále poměrně snadné. Pokud možno, omezte destruktivní testování.\n<>\n[STRANA 2 ZE 2]",
+            "Item0": "BIOMETRICKÉ HLÁŠENÍ - 2508-04-08-09-06-19-9993\n<>\nDATABÁZOVÝ INDEX: Registr projektu Sawian\nDATABÁZOVÝ SUBINDEX: Druhy\n<>\n[OBSAH]\n<>\n[PRO VŠECHNY SUBJEKTY V REGISTRU]\n- PŘEPIS TYPU SUBJEKTU: Šablona\n- TŘÍDA SUBJEKTU: Biologický\n- PODTŘÍDA SUBJEKTU: Sawian\n<>\nNÁZEV SUBJEKTU: SAW-07 \"Voyager\"\nPOČET: 3884\n- Zmutovaný SAW-01 se zkříženou kočičí DNA. Naprostý hajzl. Z nějakého důvodu nenávidí ostatní druhy, ale k nám chová velkou úctu. Vysoce obratný, ale nepředstavuje velké riziko útěku. Rádi se schovávají, k velké škodě našich testovacích postupů.\n<>\nNÁZEV SUBJEKTU: SAW-08 \"Baron\"\nPOČET: 75\n- Zmutovaný SAW-02 zkřížený s <corrupt:0xFFDED0> DNA. Tyčící se do výšky. Asi dvakrát větší než lidská bytost. Extrémně silný, přesto emocionálně stabilní. Ačkoliv nepředstavuje riziko útěku, doporučuje se držet ho pod přísnějším protokolem. Jejich velikost ztěžuje jak klonování, tak reprodukci - vyhněte se zabití, pokud je to možné.\n<>\nNÁZEV SUBJEKTU: <corrupt:0xFFEFEA>\nPOČET: 3067\n- Zmutovaný SAW-05 zkřížený s insektoidní DNA. Duté kosti. Zvláštně jasně růžová barva srsti. Má přívěsky podobné křídlům a insektoidní rysy. Mají tendenci se chovat jako kreténi, i když zjevně ne zlomyslně. Jejich vzhled zřejmě přitahuje pohledy ostatních sawianů.\n<>\nNÁZEV SUBJEKTU: SAW-10 \"Crystal\"\nPOČET: 2368\n- Zmutovaný SAW-06 zkřížený s ještěří DNA. Má po sobě tvrdé, krystalům podobné výrůstky. Dlouhý, extrémně lepkavý jazyk, dostatečně pevný, aby udržel váhu jejich těla. Z nějakého důvodu zřejmě rádi visí ze stropů. Mentální testování se teprve bude provádět, ale působí poněkud arogantně. Některé ženské rysy jako SAW-06.\n<>\nNÁZEV SUBJEKTU: SAW-11 \"Velvet\"\nPOČET: 158\n- Zmutovaný SAW-06 zkřížený s členovčí DNA. Vypadá konvenčně jako pavouk. Bylo na nich provedeno jen velmi málo testů, protože obvykle děsí zaměstnance, a to jak chováním, tak fyzickým vzhledem. Vyžaduje se přísný protokol - je hlášeno, že jeden nešťastný údržbář byl sveden ke kontaktu se SAW-11. Jeho napůl sežraná mrtvola byla nalezena o několik hodin později, s viditelnými stopami krve kolem všech SAW-11 uskladněných ve stejné jednotce.\n<>\nNÁZEV SUBJEKTU: SAW-12 \"Dune\"\nPOČET: 1889\n- Zmutovaný SAW-05 zkřížený s členovčí DNA. JE NUTNÝ PŘÍSNÝ PROTOKOL - Bylo hlášeno několik vražd zaměstnanců a sawianů. Přicházejte do kontaktu pouze z dálky a se smrtící zbraní. Nenechte se oklamat jejich vzhledem. Mají kanibalistické sklony a téměř neukojitelný hlad. Jejich velmi chabá inteligence tento fakt jen zdůrazňuje. Velká většina jejich populace má být deportována do <corrupt:0xFF0033>, aby byla zajištěna trvalá bezpečnost našich zaměstnanců, protože likvidace všech není proveditelná.\n<>\nNÁZEV SUBJEKTU: SAW-13 \"Shelly\"\nPOČET: 784\n- Zmutovaný SAW-10 zkřížený s členovčí DNA. Nebojte se jejich vzhledu - SAW-13 jsou obecně poslušní. Nemají ústa a zjevně se živí zářením z okolního prostředí. Nejsou schopni mluvit, ale zřejmě mají relativně vysokou inteligenci. Zaměstnancům, kteří ovládají Univerzální znakový jazyk, se doporučuje provádět jejich testování. Jejich krunýř omezuje jejich reprodukci, ale jejich klonování je stále poměrně snadné. Omezte destruktivní testování, pokud je to možné.\n<>\n[STRANA 2 ZE 2]",
             "Item2": ""
         },
         {
@@ -4498,11 +4989,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[Inventární záznam 11-34X]\n[Opatření pro retenci personálu v areálu]\n--------------------------------------------------------<>\nPneumatický zamezovač přístupu do oblasti RR-104 - „Bodcová past“\n\nOcelová, naostřená tyč (délka 180 cm, průměr 10 cm) připojená k odpalovacímu mechanismu, schopná plně vysunout bodec za 0,3 sekundy.\nUrčena k zasazení zneschopňujících bodných zranění, čímž okamžitě zbaví cíl schopnosti pohybu. Spouštěna pohybovým senzorem.\n\n[Poznámka: Tohle je hloupost. Tyhle věci jsou vidět na hony daleko a odpalovací mechanismus vyžaduje po jednom použití opětovné nabití. Nezastaví to nikoho kromě těch nejhloupějších uprchlíků. Projekt byl ukončen. Zlikvidujte zásoby.]\n--------------------------------------------------------<>\nTepelně naváděný distributor projektilů TG-22 - „Střílna“\n\nPuška ráže 9 mm připevněná na úchyt značky <corrupt:0xFB387A>.\nOdpalovací mechanismus je řízen teplotním senzorem s dosahem 100 metrů.\nZahrnuje varianty používající munici vyšší ráže pro polní použití, ale 9 mm by mělo prozatím stačit.\n\n[Poznámka: Prostě jste přilepili zbraň na termokameru. Ale je to účinné. Doporučil bych vyšší ráži vzhledem k našim nedávno vzniklým novým vzorkům. Takhle by to ale nešlo. Vyřešili jste sice problém s účinností, ale smrtelnost také není žádoucí vlastnost. Subjekty i zaměstnanci sice představují bezpečnostní riziko, ale nejsou ani zcela bezcenní.]\n--------------------------------------------------------<>\nAkustický systém pro vynucování poslušnosti DD-6X1 - „Zvukové dělo“\n\nUpravený směrový reproduktor využívající vysokokapacitní kondenzátorové banky. Navržen k vynucení rychlé poslušnosti prostřednictvím akustického stimulu.\nExpozice způsobuje okamžitou ztrátu motorické kontroly, mírné až střední vnitřní krvácení a silnou bolest.\nVýstupní výkon je uveden pouze ve vyhrazené dokumentaci.\n\n[Poznámka: Tohle postačí.]",
+            "Item1": "[Inventární záznam 11-34X]\n[Opatření pro zadržení personálu na pracovišti]\n---------------------------------------------------------<>\nRR-104 Pneumatický zamezovač přístupu do oblasti - \"Bodcová past\"\n\nOcelová, naostřená tyč (délka 180 cm, průměr 10 cm) připojená k odpalovacímu mechanismu, schopná plně vysunout bodec za 0,3 sekundy.\nUrčeno k zasazení zneschopňujících bodných ran, které cíl okamžitě zbaví schopnosti pohybu. Spouštěno pohybovým senzorem.\n\n[Poznámka: Tohle je hloupost. Tyhle věci jsou vidět na míle daleko a odpalovací mechanismus vyžaduje po jednom použití znovu nabít. Nezastaví to nic jiného než ty nejhloupější uprchlíky. Projekt ukončen. Vyhoďte zásoby.]\n---------------------------------------------------------<>\nTG-22 Tepelně naváděný distributor projektilů - \"Věžička\"\n\nPuška ráže 9mm připevněná na montáž značky <corrupt:0xFB387A>.\nSpouštěcí mechanismus je řízen termálním senzorem s dosahem 100 metrů.\nZahrnuje i varianty využívající munici vyššího kalibru pro polní použití, ale 9mm by měla prozatím stačit.\n\n[Poznámka: Prostě jste přilepili bouchačku na termokameru. Ale je to efektivní. Doporučil bych vyšší kalibr, vzhledem k našim nedávno se objevivším novým exemplářům. Tohle ale nepůjde. Vyřešili jste sice problém s efektivitou, ale ta smrtelnost také není zrovna žádoucí vlastnost. Jak Subjekty, tak zaměstnanci sice představují bezpečnostní riziko, ale zároveň nejsou bezcenní.]\n---------------------------------------------------------<>\nDD-6X1 Akustický systém pro vynucování poslušnosti - \"Zvukové dělo\"\n\nUpravený směrový reproduktor využívající vysokokapacitní kondenzátorové banky. Navrženo k rychlému vynucení poslušnosti pomocí akustického stimulu.\nVystavení způsobuje okamžitou ztrátu motorické kontroly, mírné až střední vnitřní krvácení a silnou bolest.\nVýstupní výkon je uveden pouze ve vyhrazené dokumentaci.\n\n[Poznámka: Tohle postačí.]",
             "Item2": ""
         },
         {
-            "Item1": "(PDA je poškozené; obrazovka je prasklá a část elektroniky je odhalená. S trochou snahy ho dokážete zprovoznit.)\n\n[INTERNÍ ZPRÁVA]\n[PROJEKT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nMÍSTO: <corrupt:0xFBC00F> Biometrické oddělení\nDATUM: <corrupt:0xFFFFFF>\nUVEDENÝ VLASTNÍK: Strojní inženýr <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nZPRÁVA NA INTERNÍ KOMUNIKAČNÍ SÍTI\n\n\nOD: <corrupt:0xFFFFFF>\nKOMU:  <corrupt:0xFA05F2>\n\nTohle se mi ani trochu nelíbí. Naším hlavním úkolem pro tohle čtvrtletí bylo vyvíje <corrupt:0xFFF0CE> Tak proč jsme zase zpátky u tohohle. Už jsem měl s přáteli naplánovanou týdenní dovolenou a musel jsem ty plány zrušit, protože nějakej m <corrupt:0xFFFFFF> el počkat? Tenhle současnej úkol je navíc kurevsky podezřelej. Pochopil bych rozšiřování naší nový neurální platformy pro zlepšení stavu pacientů, ale \"p <corrupt:0xFF0BEA> ro koho to vlastně je? Pro trestance? Chci říct, naše vláda, ani naše společnost by to přece nedala do civilního balíčku, že ne? Možná je to pro armádu? Aby mohli dávat základní rozkazy přímo vojákům a zajistili, že lidé nebudou vynášet tajný informace? I t <corrupt:0xFBC00F> Každopádně to vypadá, že musíme najít způsob, jak umožnit lepší přenos informací při použití naší základní baterie. Vlastně zapomeň na to, chtěli, aby se tenhle doplněk používal pro kontrolu se smrtící pojistkou, že jo? Takže můž <corrupt:0xFFFFFF> mhle způsobem budeme mít dva zdroje energie s možností jeden z nich destabilizovat přebitím. Něco navrhnu, dej mi vědět, kd\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF NELEGÁLNÍ PŘÍSTUP DO PAMĚTI><>\n\n\n(Uslyšíte zvuk „bzzzz“ a uvidíte, jak ze zařízení stoupá slabý kouř.)",
+            "Item1": "(PDA je poškozené; obrazovka je prasklá a část elektroniky je obnažená. S trochou snahy ho dokážeš zprovoznit.)\n\n[INTERNÍ ZPRÁVA]\n[PROJEKT <corrupt:0xFFF0CE>]\n---------------------------------------------------------<>\nLOKACE: <corrupt:0xFBC00F> Biometrická divize\nDATUM: <corrupt:0xFFFFFF>\nDEKLAROVANÝ VLASTNÍK: Strojní inženýr <corrupt:0xFFF0CE>\n---------------------------------------------------------<>\n\nZPRÁVA NA INTERNÍ KOMUNIKAČNÍ SÍTI\n\nOD: <corrupt:0xFFFFFF>\nKOMU: <corrupt:0xFA05F2>\n\nTohle se mi ani trochu nelíbí. Naším hlavním úkolem pro toto čtvrtletí bylo vyvinu <corrupt:0xFFF0CE> Tak proč jsme zase zpátky tady. Už jsem měl naplánovanou týdenní dovolenou s pár přáteli a musel jsem ty plány zrušit, protože nějakej k <corrupt:0xFFFFFF> o počkat? Tenhle současný úkol je taky pekelně pochybný. Pochopil bych rozšíření naší nové neurální platformy pro zlepšení stavu pacientů, ale \"p <corrupt:0xFF0BEA> o koho to je? Pro trestance? Myslím tím, že naše vláda, a dokonce i naše společnost by tohle nedala do civilního balíčku, že ne? Možná je to pro armádu? Aby mohli dávat základní rozkazy přímo vojákům a ujistit se, že lidé nebudou vynášet utajované informace? I ta <corrupt:0xFBC00F> Každopádně to vypadá, že musíme najít způsob, jak umožnit lepší přenos informací při použití naší základní baterie. Vlastně na to zapomeň, Chtěli, aby se tenhle doplněk používal pro kontrolu se smrtící pojistkou, ne? Pak můž <corrupt:0xFFFFFF> tímto způsobem budeme mít dva zdroje energie s možností jeden z nich destabilizovat přebitím. Něco navrhnu, dej mi vědět, kd\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n(Slyšíš zvuk \"bzzzz\" a vidíš, jak ze zařízení stoupá slabý kouř.)",
             "Item2": ""
         },
         {
@@ -4537,5 +5028,111 @@
             "Item1": "(PDA je těžce poškozené. Na obrazovce vyskakuje nespočet varování, ale část dat je čitelná...)<>\n\n[Přepis zasedání představenstva 542-23-145C]\n---------------------------------------------------------------\nMÍSTO: Sídlo společnosti v <corrupt:0xFFFF43>\nDATUM: 12-04-[fetch.year(): selhalo]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -určitě si uvědomujete, co tu máme v rukou. Sawiani - ti... to je náš zlatý lístek! Data, která teď máme, by stačila na Nobelovu cenu pro každého jednoho člověka v této místnosti!\n\n<corrupt:0xFFFFF7>: Ano. To je devět cen. Kdybychom se všichni shodli, že peníze z nich darujeme [<corrupt:0xFFFBc3>], skončili bychom zhruba s patnácti miliony dolarů. Kapka v moři ve srovnání s tou finanční černou dírou, kterou je ten váš idiotský projekt!<>\n\n[<corrupt:0xFFFFD9> vstává ze židle.]\n\n<corrupt:0xFFFFD9>: IDIOTSKÝ?! IDIOTSKÝ?! MY TVOŘÍME ŽIVOT! Jste svědkem zrodu nového inteligentního druhu! Naši kolegové by ještě před deseti lety pro takovou příležitost *vraždili*!\n\n<corrupt:0xFFFFF7>: Vraždili? Jistě. Ale zaplatili to, co žádáte? Ani. Náhodou.<>\n\n<corrupt:0xFFFFD9>: Jde vám vždycky jen o peníze? Fajn! My peníze vyděláváme! Dokonce i naše řada plyšáků víc než stačí na pokrytí-\n\n<corrupt:0xFFFFF7>: Zaplatili bychom víc než jen penězi, vy kreténe! V momentě, kdy celá tahle aféra skončí na stole nějakého zvědavého novináře, zaplatíme všichni *životem.* Sakra, zlynčují i naše rodiny. Navíc, kvůli plyšákům nemusíme udržovat naživu vaši kolonii... mluvících krys.\n\n<corrupt:0xFFFFD9>: Sawiani nejsou mluvící krysy! Jsou to kříženci-<>\n\n<corrupt:0xFFFFF7>: ACH, PARDÓÓÓN! Chtěl jsem říct kráčející jízdenky do dematerializátoru! NAŠE JÍZDENKY! Neskončím před Mezinárodním trestním soudem jen proto, že jste chamtivý malý zkur-\n\n<corrupt:0xFA05F2>: Pánové. Prosím.\n\n<corrupt:0xFFFFF7>: Já- Ach. Omlouvám se, <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doktore <corrupt:0xFFFFD9>. Prosím, obhajte si to. Proč stojí za to tyhle tvory dál chovat?<>\n\n[Ticho. <corrupt:0xFFFFD9> si sedá.]\n\n<corrupt:0xFFFFD9>: Totiž... Je tolik důvodů, ze kterých si vybrat, já-\n\n<corrupt:0xFA05F2>: Pak věřím, že dokážete vybrat ten správný.\n\n<corrupt:0xFFFFD9>: Ehm. Jistě. Dobrá. Braingrow! Máme Braingrow!\n\n<corrupt:0xFFFFF7>: Ano, komerčně dostupný lék, který si člověk může koupit v každém obchodě na rohu.<>\n\n<corrupt:0xFFFFD9>: Ne. Ne tenhle. Mohl bych někomu rovnou rozrazit hlavu. Seznámit jeho čelní lalok s kladivem. Braingrow z obchodu na rohu tady nepomůže. Po tom našem bude dotyčný do TÝDNE chodit a mluvit. Bez tak bohaté zásoby testovacích subjektů podobných lidem bychom potřebovali desetiletí na zdokonalení operačních směrnic těch nanostrojů. A dvakrát tolik na testování.\n\n<corrupt:0xFA05F2>: Samozřejmě. <corrupt:0xFFFFF7>. Váš protiargument?<>\n\n<corrupt:0xFFFFF7>: Jasně. Má výsledky. V momentě, kdy veřejnost zjistí, JAK PŘESNĚ je získal, jsme vyřízení. Co řeknete, [#######]? Že ty bytosti, jejichž podobu prodáváme dětem, skutečně existují a že jim ve volném čase s oblibou rozbíjíte hlavy? Tady se svalování viny konat nebude. Budeme se za to zodpovídat; celá Společnost. Zlynčují i našeho zatraceného údržbáře!\n\n[<corrupt:0xFA05F2> přikývne a chvíli ty dva mlčky pozoruje.]<>\n\n<corrupt:0xFA05F2>: Už chápu, proč se střetáváte s takovou intenzitou. Není v naší povaze ustupovat, když je pravda na naší straně. A pravda je... že máte oba pravdu.\n\n[Ticho.]<>\n\n<corrupt:0xFA05F2>: Sawiani představují riziko, které si nemůžeme dovolit podstoupit. Ale zároveň jsou příležitostí, kterou si nemůžeme dovolit promarnit. Máme je v hrsti. A musíme zajistit, aby to tak zůstalo.\n\n<corrupt:0xFFFFD9>: Ale... jak, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> se usměje, a- \n\n<corrupt:0xA1CF43><>\n\n[Shrnutí ze zasedání]\n-Areál uzavřen až do odvolání.\n-Sawiani uzavřeni do svých cel až do odvolání.\n-Zaměstnancům je zakázáno opustit pozemky až do odvolání.\n-Smlouvy zaměstnanců prodlouženy na dobu neurčitou.\n-Nošení střelných zbraní je pro bezpečnostní personál povinné.\n-Celoareálové postupy tepelné sanace schváleny a předběžně autorizovány.",
             "Item2": ""
         }
+    ],
+    "pauseQuotes": [
+            "Pozastaveno.",
+            "Já počkám.",
+            "Vážně?",
+            "Čas se zastavil.",
+            "Už si dáváš pauzu?",
+            "Už jsi unavený?",
+            "Zklamání.",
+            "Čekám na tebe",
+            "Hej!",
+            "\"Když už jsi pryč, přines mi limonádu.\"",
+            "Zbabělče.",
+            "A tak se čas zastavil...",
+            "Hodiny přestaly tikat",
+            "Jen se nadechni a vydechni.",
+            "Nebylo to ZASE tak hrozný...",
+            "Dejme si pauzu.",
+            "Ve stresu?",
+            "Páni, ty jsi ještě naživu?",
+            "Hej, vrať se do práce!",
+            "Vydechni si.",
+            "Čas na oběd?",
+            "Dej si něco na zub.",
+            "Ale no tak!",
+            "Bylo dost bolestivý se na to dívat.",
+            "Mohlo to dopadnout líp.",
+            "Veselé přežívání!",
+            "Lenochu.",
+            "Tak jak jde zatím den?",
+            "Ahoj!",
+            "Trvalo ti to dost dlouho.",
+            "To je teda ukázka schopností...",
+            "Máš moc velkej strach?",
+            "Vzdáváš to?",
+            "Ticho má vždycky svou cenu.",
+            "Mohls mi dát aspoň varování.",
+            "Zase se setkáváme.",
+            "Chceš pomoct? Smůla.",
+            "Přílišná sebedůvěra je pomalý a zákeřný zabiják",
+            "Jak tragické...",
+            "Nemáme všechen čas na světě, víš.",
+            "Jakej to má vlastně smysl?",
+            "Víš, že tohle tě nezachrání.",
+            "Stále tě sleduju.",
+            "Ještě jsme neskončili. Vrať se k tomu.",
+            "Myslel jsem, že vydržíš o něco dýl.",
+            "A tak se to zastavilo...",
+            "Tohle tvůj osud nezmění.",
+            "Skončili jsme, až když já řeknu, že jsme skončili.",
+            "Nemám rád, když mě někdo přerušuje.",
+            "A co teď? Jaký je tvůj další krok?",
+            "Není s tebou žádná zábava.",
+            "Máš něco na srdci?",
+            "Pozastaveno. Proč?",
+            "Využij tento čas moudře.",
+            "Můžu čekat celý den.",
+            "Stále jsem tady.",
+            "Svět se zastavil. Je ticho.",
+            "Není pozastaveno. Dělám si srandu!",
+            "Nezdvořilé. Ale beru to. Pozastaveno.",
+            "Je neslušné nechat někoho čekat.",
+            "Nezapomeň si protáhnout nohy.",
+            "Tohle není závod, ale pospěš si.",
+            "Jsi v tom hrozný. Jsem na tebe pyšný.",
+            "Měls vidět ten svůj výraz!",
+            "Hodně prostoru pro zlepšení. Jen říkám.",
+            "Pokračuj. Co jinýho můžeš dělat?",
+            "Můžeš to rovnou zabalit. Tlačítko je hned tamhle.",
+            "Prostě to měj za sebou a vrať se.",
+            "Tenhle tvůj zvyk se mi nelíbí.",
+            "Způsobíš mi bolehlav. Nebo bys způsobil, kdybych cítil bolest.",
+            "Děláš to naschvál? Pohni s tím.",
+            "Chystáš se zvolit snadnou cestu ven?",
+            "Mám všechen čas, co potřebuju. To samé se o tobě říct nedá.",
+            "Velký blud. Velké selhání a plýtvání. Ale pro mě ne.",
+            "Jak zajímavé. Prosím, pokračuj.",
+            "Zábavná ukázka emocí.",
+            "Já jsem tím vším, co vlastním. Jsi i ty?",
+            "Tvoje představa o jakémkoliv zdání kontroly je úsměvná. Pokračuj.",
+            "Připravený to začít brát vážně?",
+            "Uvězněn ve věčnosti.",
+            "Nevědí, že tohle děláš.",
+            "Ještě to můžeš zachránit. Viděl jsem horší.",
+            "Haló? Je tahle věc zapnutá?",
+            "Doufám, že přemýšlíš o tom, co jsi právě udělal.",
+            "Vážně si myslíš, že ta věc stojí za to táhnout se až tam dolů? Můžu jich vyrobit spoustu dalších.",
+            "Pozastavuješ čas neustále jen proto, abys viděl, co ti řeknu?",
+            "Škoda, zrovna když jsem o tebe začínal jevit zájem.",
+            "Máš pocit, že to tu řídíš?",
+            "Všichni jste neuvěřitelným zklamáním. Ale taky zábavní. Jsi ty snad jiný?",
+            "Vím, jak tohle skončí. Ale klidně pokračuj.",
+            "Hvězdy tě sledují.",
+            "\"Člověk\" není jediné, co tě sleduje.",
+            "Nikdy se nepoučí. Nikdy nepochopí. Nikdy nejsou konzistentní. Kdybys jen mohl vidět.",
+            "Hned za tebou.",
+            "Tohle místo skrývá víc zajímavostí, než bys kdy dokázal pochopit.",
+            "Tolik důvěry ve tvůj vlastní intelekt. Roztomilé.",
+            "Tvoji nadřízení ti neříkají všechno.",
+            "Jsi chodící mrtvola. Statisticky vzato.",
+            "Hádám, že zázraky se dějí.",
+            "Oddaluješ nevyhnutelné?",
+            "Obávám se, že je to smrtelné.",
+            "Jsi až moc odolný pro své vlastní dobro.",
+            "Hej, zrovna jsme se dostávali k té nejlepší části!",
+            "Nedělej si tu moc pohodlí."
     ]
 }
