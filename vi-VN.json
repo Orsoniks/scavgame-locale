@@ -1711,7 +1711,7 @@
         "craftitemquality": "- (<1>) yếu tố <2>",
         "craftliquidquality": "- Tổng cộng (<1>) yếu tố <2>",
         "craftcondition": "- Tình trạng ít nhất <>%",
-        "craftmL": "- Ít nhất <>mL",
+        "craftml": "- Ít nhất <>mL",
         "craftinfocondition": "Độ bền: ",
         "craftinfovolume": "Thể tích: ",
         "craftinfoamount": "Số lượng: ",
