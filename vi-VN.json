@@ -567,7 +567,7 @@
         "torch": "Đuốc",
         "torchdsc": "Nguồn sáng cực kỳ thô sơ. Dù nó thắp sáng đường đi khá tốt, nó sẽ bị dập tắt bởi chất lỏng. Bạn có thể thắp sáng lại bằng một nguồn lửa",
         "lighter": "Bật lửa",
-        "lighterdsc": "Một chiếc bật lửa zippo thông thường. Có thể sử dụng làm nguồn lửa cho nhiều công thức chế tạo. Dùng được rất, rất nhiều lần.",
+        "lighterdsc": "Một chiếc bật lửa zippo thông thường. Có thể sử dụng làm nguồn lửa cho nhiều công thức chế tạo, ví dụ như để thắp lửa trại. Dùng được rất, rất nhiều lần.",
         "present": "Hộp quà",
         "presentdsc": "Một hộp giấy được trang trí, dường như chứa đầy thứ gì đó. Sử dụng nó để mở ra.",
         "woodsandals": "Dép gỗ",
