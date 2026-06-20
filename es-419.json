@@ -1,5 +1,5 @@
 {
-    "name": "Español",
+    "name": "Español (Latinoamérica)",
     "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas.",
     "main": {
         "bandage": "Vendaje",
