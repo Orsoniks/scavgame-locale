@@ -573,7 +573,7 @@
     "woodsandals": "Drewniane sandały",
     "woodsandalsdsc": "Drewniana płytka przymocowana do twoich łap liną. Nie są wygodne, ale ochronią cię przed ostrymi odłamkami... Jeśli masz szczęście to może więcej niż raz!",
     "minibarrel": "Mini-beczka",
-    "minibarreldsc": "Mała, beczka przemysłowa służąca do przechowywania cieczy. Niesamowicie ciężka i niepraktyczna w użyciu."
+    "minibarreldsc": "Mała beczka przemysłowa służąca do przechowywania cieczy. Niesamowicie ciężka i niepraktyczna w użyciu."
   },
   "buildings": {
     "animalcorpse": "Ciało zwierzęcia",
@@ -586,7 +586,7 @@
     "bouncecapdsc": "Wiiiii!",
     "climbingropeextended": "Lina do wspinaczki",
     "climbingropeextendeddsc": "Rozwinięta lina. Przytrzymaj przycisk 'W górę' by po niej się wspinać.",
-    "glowshroom": "Świetliczak",
+    "glowshroom": "Świetlina",
     "glowshroomdsc": "Jaskrawy i lekko promieniujący.",
     "mushroomtree": "Drzewo grzybowe",
     "mushroomtreedsc": "Świeci w ciemności.",
@@ -756,7 +756,7 @@
     "sidestabber": "Gwoździarz",
     "sidestabberdsc": "Dziwna fuzja zwierzęcia i grzyba. Strzela dużymi szpikulcami do ofiary.",
     "skullcrusher": "Łamiczaszka",
-    "skullcrusherdsc": "Nabawi ci migreny.",
+    "skullcrusherdsc": "Nabawi cię migreny.",
     "gunmine": "Mina nabojowa",
     "gunminedsc": "Zwany też \"Łapkarzem\".",
     "sawblade": "Piła",
@@ -880,7 +880,7 @@
     "cold1": "Chłodno",
     "cold2": "Zimno",
     "cold3": "Wyziębienie",
-    "cold4": "Hipotermia",
+    "cold4": "Śmiertelne wyziębienie",
     "wet1": "Wilgotność",
     "wet2": "Mokrość",
     "wet3": "Przemoczenie",
