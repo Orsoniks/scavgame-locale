@@ -35,7 +35,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Polski (Polska)](/pl-PL.json) | Outdated | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
 | [Português (Brasil)](/pt-BR.json) | V7.0.1 (Incomplete) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar), [Pedro Lucas da Silva Sousa (PedSen)](https://github.com/PedSen), [David Costa (ZonaryH)](https://github.com/zonaryh) |
 | [Română (România)](/ro-RO.json) | v6.1 | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan) |
-| [Русский (Россия)](/ru-RU.json) | v7.0.1 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) [Captain_Kirk](https://github.com/Danich27rus)|
+| [Русский (Россия)](/ru-RU.json) | v7.0.1 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [TONNY618](https://github.com/TONNY618) |
 | [ไทย (ไทย)](/th-TH.json) | v6.1 | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung), [Khaomi](https://github.com/Khaomi) |
 | [Українська (Україна)](/uk-UA.json) | v7.0.1 | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati) |
 | [Tiếng Việt (Vietnam)](/vi-VN.json)| v7.0.1 | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), \_.solarzz_, Weird Cat, Just Cyrus, Daenry |
