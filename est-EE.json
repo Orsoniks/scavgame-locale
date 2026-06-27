@@ -4783,6 +4783,16 @@
         "Item1": "siin all on külm pean pidevalt päästekapslitesse pugema et sooja saada... kuigi mõnikord on siin väikesed sumisevad ahjud mille juures saan peatuda et end soojendada. pean lihtsalt olema ettevaatlik et neid liiga kaua ei puudutaks need teevad haigeks. piisavalt et soojeneda ja siis edasi liikuda. kui ma oleksin sinu asemel siis mängiksin kindla peale ja vaataksin ette kõige suhtes mis minu poole kaevab kui ma puhkan. ma kuulen kuidas asjad minu ümber tunnelit kaevavad.",
         "Item2": "",
         "Item3": "experiment"
+      },
+      {
+        "Item1": "Ma ei arvanud, et see koletis mind uuesti leiab, kuid ta leidis. Ta teadis mu nägu, mu vigu... kuid mitte mu vintpüssi. Kui see lõpuks lõhkes, nägin seda kirkat. Nägin graveeringut, mille ma sellele kraapsin — sama, mille nad mu kirkale kraapsid. Nägin sälku, mis tekkis, kui nad üritasid mulle tiitaniumi kingituseks välja kaevata. Ja siis, äkitselt, nägin seda kõike taas toimumas. Kriipiva terase lõhn. Maa värinad. Liha lõikumise heli. Higi ja vere maitse, kui üritasin joosta ja ejtasin toidu, mida kapslisse tagasi viisin-\n<>\nKas ma peaksin nüüd leevendust tundma? Või pakun lihtsalt rahu, mis puruneb, kui teine mind leiab?",
+        "Item2": "Sprites/noteDrawings/thornback",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "Tahan sellest kohast lahkuda, olen terrori küüsis, mul pole sõnu kirjeldamaks, mida ma just kogesin — see oli suur, kohutav olend sadade hammastega, valmis mind alla neelama, ta jahtis mind tundide kaupa, hävitab kõike oma teel. Ta peatus alles siis, kui olin läinud nii kaugele, et olin täiesti eksinud. See kurnas mu toidu, vee, tööriistad ja isegi mõistuse — tahan, et see lõpeks.",
+        "Item2": "Sprites/noteDrawings/thornback",
+        "Item3": "milky"
       }
     ],
     [
@@ -4798,6 +4808,23 @@
       },
       {
         "Item1": "Ma ei tea, mis mind tabas, kuid ma ei tunne enam oma jalga, näen ainult lihaste, luude ja vere sassis hunnikut.\nMu keha karjub, et see piin lõppeks.\nAinus asi, mis mul on, on see sinine seade mu rinnas. Kaupmees, kellelt selle ostsin, ütles, et seda peaks kasutama ainult hädaolukorras.\nValu pole enam talumatu, kuid tuli vilgub nüüd. Ma ei tea, kui palju aega mul on jäänud. Kas pimedus naaseb, kui see seade tühjaks saab? Ma ei taha hääbuda...",
+        "Item2": "",
+        "Item3": "milky"
+      }
+    ],
+    [
+      {
+        "Item1": "On kummaline, kuidas siin sajab. Ma pole kunagi päris vihma näinud... See on üsna ilus, isegi kui see mind läbi kastab. Mulle meeldivad tilgad — nad kõlavad kenasti.",
+        "Item2": "",
+        "Item3": "milky"
+      },
+      {
+        "Item1": "leidsin kummaliseid põrkavaid asju. nad saatsid mind lendu... kuid suutsin jalad allapoole hoida. üsna mugav tegelikult. võib-olla kasulik liikumiseks?",
+        "Item2": "",
+        "Item3": "experiment"
+      },
+      {
+        "Item1": "Ma ei tea, mis mind tabas, kuid ma ei tunne enam oma jalga, näen ainult lihaste ja luude sassis kuhja, veri on kõikjal, ma ei suuda selle peale vaadata — aitan mind keegi palun, mind ei kuule keegi.",
         "Item2": "",
         "Item3": "milky"
       }
