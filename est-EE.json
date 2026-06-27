@@ -4677,27 +4677,20 @@
         "Item1": "Pole isegi sellest kivikõnnumaa põrgust väljunud ja tunnen juba, et surm on lähedal.\nAndsid mulle ainult kolaka tõrviku, mis ei kestnud isegi tundi; isegi mitte mingit turvavarustust, mis aitaks neid kukkumisi pehmendada.\n\nKURATI KÜLL, tunnen end nagu pall nendest hasartmängumasinatest, mida inimesed kasutavad!\n\nArvan, et ma suren aeglaselt – alates viimasest kukkumisest on pea olnud raske, tunnen väsimust; aga tunnen, et kui magama jään, suren.\n\nJumal päästku mind.\nKURATI VÕTA, mees.\nMa tõesti ei taha surra, mitte nii..\nAga mis mõtet sel kõigel üldse on?\nMul pole isegi enda nime, ainult silt..\nKurat...",
         "Item2": "",
         "Item3": "milky"
-      }
-    ],
-    [
+      },
       {
         "Item1": "dune nägi suurt koletist. Motiveeritud tapma. dune ajas koletist taga tappis ja sõi ära. suurepärane toit. suurepärane elukate kütt!",
         "Item2": "",
         "Item3": "dune"
       },
       {
-        "Item1": "DUNE LEIDIS UUEND SÕBRA<>\nDUNE ON ÄREVIL KUI SÕBER  LÄHEDAL<>\nSÕBER  NAGU DUNE.<>\nSÕBER  SUUR JA TUGEV.<>\nDUNE  SUUR JA TUGEV<>\nSÕBER SAAB KAEVATA KIIRESTI.<>\nDUNE SAAB KAEVATA KIIRESTI<>\nSÕBER HAMMUSTAS DUNE'I KÄE OTSAST.<>\nDUNE HAMMUSTAS SÕBRA KÄE OTSAST<>\nSÕBER LAHKUS.<>\nDUNE OTSIB<>\nLEIAB UUESTI",
+        "Item1": "DUNE LEIDIS UUEND SÕBRA<>\nDUNE  ÄREVIL KUI SÕBER  LÄHEDAL<>\nSÕBER  NAGU DUNE.<>\nSÕBER  SUUR JA TUGEV.<>\nDUNE  SUUR JA TUGEV<>\nSÕBER SAAB KAEVATA KIIRESTI.<>\nDUNE SAAB KAEVATA KIIRESTI<>\nSÕBER HAMMUSTAS DUNE'I KÄE OTSAST.<>\nDUNE HAMMUSTAS SÕBRA KÄE OTSAST<>\nSÕBER LAHKUS.<>\nDUNE OTSIB<>\nLEIAB UUESTI",
         "Item2": "",
         "Item3": "dune"
       },
       {
         "Item1": "ma... ma tundsin, et ma suren. see oli nii äkiline, veri oli igal pool ja ma ei suutnud oma silmi lahti hoida. mul oli hirm... kuid ma ei tahtnud alla anda. leidsin siit kohast nii palju lahedaid asju ja mul on tunne, et olen selle missiooniga nii palju edasi jõudnud. ma ei kavatse siin peatuda. ma elan kogu selle kulla üle. ma näen oma sõpru uuesti.",
         "Item2": "Sprites/noteDrawings/laststand",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ma ei arvanud et see koletis mind uuesti leiab kuid ta leidis. ta teadis mu nägu mu vigu... kuid mitte mu vintpüssi. kui ta lõpuks lõhki rebenes, nägin seda kirkast. nägin graveeringut, mille ma sinna sisse kraapisin täpselt sama mis nemad minu kirkasse kraapisid. nägin täket sellest kui nad üritasid mulle titaani kinkida. ja siis järsku nägin seda uuesti juhtumas. krigiseva terase lõhn. maa värinad. puruneva liha heli. higi ja vere maitse kui üritasin põgeneda, pillates maha toidu mida tõin tagasi kapslisse-\n<>\nkas ma peaksin nüüd kergendust tundma? või kaublen lihtsalt rahu nimel mis puruneb uuesti kui keegi mind leiab?",
-        "Item2": "Sprites/noteDrawings/thornback",
         "Item3": "experiment"
       },
       {
@@ -4785,7 +4778,7 @@
         "Item3": "experiment"
       },
       {
-        "Item1": "Ma ei arvanud, et see koletis mind uuesti leiab, kuid ta leidis. Ta teadis mu nägu, mu vigu... kuid mitte mu vintpüssi. Kui see lõpuks lõhkes, nägin seda kirkat. Nägin graveeringut, mille ma sellele kraapsin — sama, mille nad mu kirkale kraapsid. Nägin sälku, mis tekkis, kui nad üritasid mulle tiitaniumi kingituseks välja kaevata. Ja siis, äkitselt, nägin seda kõike taas toimumas. Kriipiva terase lõhn. Maa värinad. Liha lõikumise heli. Higi ja vere maitse, kui üritasin joosta ja ejtasin toidu, mida kapslisse tagasi viisin-\n<>\nKas ma peaksin nüüd leevendust tundma? Või pakun lihtsalt rahu, mis puruneb, kui teine mind leiab?",
+        "Item1": "ma ei arvanud et see koletis mind uuesti leiab kuid ta leidis. ta teadis mu nägu mu vigu... kuid mitte mu vintpüssi. kui ta lõpuks lõhki rebenes, nägin seda kirkast. nägin graveeringut, mille ma sinna sisse kraapisin täpselt sama mis nemad minu kirkasse kraapisid. nägin täket sellest kui nad üritasid mulle titaani kinkida. ja siis järsku nägin seda uuesti juhtumas. krigiseva terase lõhn. maa värinad. puruneva liha heli. higi ja vere maitse kui üritasin põgeneda, pillates maha toidu mida tõin tagasi kapslisse-\n<>\nkas ma peaksin nüüd kergendust tundma? või kaublen lihtsalt rahu nimel mis puruneb uuesti kui keegi mind leiab?",
         "Item2": "Sprites/noteDrawings/thornback",
         "Item3": "experiment"
       },
