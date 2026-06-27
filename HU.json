@@ -1552,69 +1552,65 @@
         "gamesetbrightnessdsc": "Mennyire legyenek világosabb a nem koromsötét helyek",
         "gamesetlineofsightcount": "Látótér felbontás",
         "gamesetlineofsightcountdsc": "Milyen kidolgozott a látótered árnyéka, amikor látható. Magasabb érték ronthatja a teljesítményt",
-        "gamesetscreenshake": "Screenshake",
-        "gamesetscreenshakedsc": "How much to shake the screen after hard falls, explosions, etc.",
-        "gamesetcensorpain": "Censor pain",
-        "gamesetcensorpaindsc": "Disables pain whines and tones down certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
-        "gamesetcensormood": "Censor mood",
-        "gamesetcensormooddsc": "Tones down low-mood events and certain textlines.\nNOTE: This isn't recommended unless you really need it to keep playing",
-        "gamesetalwaysexpand": "Always expand item descriptions",
-        "gamesetalwaysexpanddsc": "If on, you will always see expanded item descriptions when hovering over an item, without holding the expand key",
-        "gamesetshowhiddenmoodles": "Always show hidden moodles",
-        "gamesetshowhiddenmoodlesdsc": "If on, low importance moodles will always be shown without having to hover over them first",
-        "gamesetitemfloating": "Item floating",
-        "gamesetitemfloatingdsc": "If on, looted items will briefly float in the air",
-        "gamesetclearerrecipes": "Recipe list color contrast",
-        "gamesetclearerrecipesdsc": "If on, the recipe list will be given clearer colors to distinguish between craftable/uncraftable recipes",
-        "gamesetinventoryuseleniency": "Inventory use leniency",
-        "gamesetinventoryuseleniencydsc": "How much you need to wait after opening the inventory before you can use an item. Lower values will let you use items earlier",
-        "gamesetskipintro": "Skip intro",
-        "gamesetskipintrodsc": "Because you've seen the intro text one too many times...",
-        "gamesetrpc": "Rich presence",
-        "gamesetrpcdsc": "Toggle Discord Rich Presence for the game being shown on your profile",
-        "gamesetmastervolume": "Master volume",
+        "gamesetscreenshake": "Képernyő rázkódás",
+        "gamesetscreenshakedsc": "Mennyire erősen rázkódjon a képernyő egy kemény esés után, robbanások után, stb.",
+        "gamesetcensorpain": "Fájdalom cenzorálása",
+        "gamesetcensorpaindsc": "Kikapcsolja a fájdalmas nyögéseket és lejebb veszi bizonyos szövegsorok hangvételét.\nMEGJEGYZÉS: Nem ajánlott, hacsak ez nélkül nem tudod folyatni a játékot",
+        "gamesetcensormood": "Hangulat cenzúrázása",
+        "gamesetcensormooddsc": "Lejebb veszi a rossz hangulati eseményeket és egyes szövegsorokat\nMEGJEGYZÉS: Nem ajánlott, hacsak ez nélkül nem tudod folyatni a játékot",
+        "gamesetalwaysexpand": "Mindig bővítse ki a leírásokat",
+        "gamesetalwaysexpanddsc": "Ha bekapcsolod, akkor mindig a kibővített leirást fogod látni ha bármilyen tárgyon van az egered, a kibővítés gomb lenyomása nélkül is",
+        "gamesetshowhiddenmoodles": "Mindig mutassa a rejtett állapotjelzőket",
+        "gamesetshowhiddenmoodlesdsc": "Ha bekapcsolod, akkor a nem olyan fontos állapotjelzők is meg lesznek jelenítve, akkor is ha nincs rajtuk az egered",
+        "gamesetitemfloating": "Tárgy lebegés",
+        "gamesetitemfloatingdsc": "Ha bekapcsolod, akkor a lootolt dolgok rövid ideig lebekni fognak a levegőben",
+        "gamesetclearerrecipes": "Fabrikáló menü kontraszt",
+        "gamesetclearerrecipesdsc": "Ha bekapcsolod, akkor a fabrikáló benüben nagyobb szín eltéréssel jelennek meg az elkészíthető / nem készíthető tárgyak, hogy könnyebben megkülönböztesd",
+        "gamesetinventoryuseleniency": "Leltár késleltetése",
+        "gamesetinventoryuseleniencydsc": "Hogy mennyi időt kell várnod, mielőtt használhatnál egy tárgyat miután megnyitottad a leltárad. Alacsonyabb értéknék gyorsabban használhaztod a tárgyakat",
+        "gamesetskipintro": "Bevezető átugrása",
+        "gamesetskipintrodsc": "Hisz már sokszor láttad a bevezető szöveget.",
+        "gamesetrpc": "Rich presence - Discord játékjelző",
+        "gamesetrpcdsc": "Kapcsold be/ki, hogy meg legyen-e jelenítve a Discord profilodon a játék amikor játszassz vele",
+        "gamesetmastervolume": "Fő hangerő",
         "gamesetmastervolumedsc": "",
-        "gamesetmusicvolume": "Music volume",
+        "gamesetmusicvolume": "Zene hangereje",
         "gamesetmusicvolumedsc": "",
-        "gamesetdronevolume": "Drone volume",
-        "gamesetdronevolumedsc": "Volume of situational themes like agony/exhaustion/cave-ins/etc.",
-        "gamesettrackinterval": "Music track interval",
-        "gamesettrackintervaldsc": "In seconds, how long to wait between music tracks before playing one",
-        "gamesetsadnessdistortion": "Sadness music distortion",
-        "gamesetsadnessdistortiondsc": "Whether or not to progressively distort music as your mood lowers",
+        "gamesetdronevolume": "Események hangereje",
+        "gamesetdronevolumedsc": "A kín/kifáradás/földrengések/stb szituációs hangereje.",
+        "gamesettrackinterval": "Zene darabok közötti szünet",
+        "gamesettrackintervaldsc": "Milyen sokat várj mielőtt elindulna egy zene darab az előző után, másodpercekben van megadva",
+        "gamesetsadnessdistortion": "Szomorúság zene eltorzítás",
+        "gamesetsadnessdistortiondsc": "Engedélyezed-e, hogy minél jobban boldogtalan vagy annál jobban eltorzul a zene",
         "gamesetautojump": "Auto-jump",
-        "gamesetautojumpdsc": "If on, your character will continuously try to jump as long as the button is held down. This is akin to the legacy jump behaviour",
-        "gamesettogglelabels": "Label view toggle",
-        "gamesettogglelabelsdsc": "If on, item labels will be toggled on/off when the key is pressed, instead of having to be held down",
-        "gamesetjump": "Jump",
-        "gamesetleft": "Move left",
-        "gamesetright": "Move right",
-        "gamesetdown": "Crouch",
-        "gamesetup": "Move up",
-        "gamesetattack": "Swing",
-        "gamesetiteminteract": "Use items/Cancel",
-        "gamesetthrow": "Throw",
-        "gamesetswitchhands": "Switch hands",
-        "gamesetragdoll": "Ragdoll",
-        "gamesetwoundview": "Health panel",
-        "gamesetcraft": "Crafting menu",
-        "gamesetfavourite": "Favorite item",
-        "gamesettoggleinventory": "Toggle inventory",
-        "gamesetspeed1": "Normal speed",
-        "gamesetspeed2": "Fast speed",
-        "gamesetspeed3": "Super fast speed",
-        "gamesetexpanddesc": "Expand item description",
-        "gamesetaltview": "Show item labels",
-        "gamesetbark": "Bark",
-        "gamesetconsole": "Toggle debug console",
-        "gamesetpause": "Pause",
-        "copy": "Copy to clipboard",
-        "paste": "Paste from clipboard",
+        "gamesetautojumpdsc": "Ha bekapcsolod, akkor a karaktered folyamatosan ugráli fog amíg nyomva tartod a gombot. Ez hasonló a korábbi ugrási viselkedésedhez",
+        "gamesettogglelabels": "Leírás megjelenítés beállítás",
+        "gamesettogglelabelsdsc": "Ha bekapcsolod, akkor a közeli tárgyakat megjelenítését a gomb lenyomásával változtathatod, ahelyett hogy le kéne nyomnod a gombot",
+        "gamesetjump": "Ugrás",
+        "gamesetleft": "Balra mozgás",
+        "gamesetright": "Jobbra mozgás",
+        "gamesetdown": "Gugolás",
+        "gamesetup": "Felfelél haladás",
+        "gamesetattack": "Csapás",
+        "gamesetiteminteract": "Tárgyak használada / félbehagyása",
+        "gamesetthrow": "Dobás",
+        "gamesetswitchhands": "Kezek megcserélése",
+        "gamesetragdoll": "Összesesés",
+        "gamesetwoundview": "Gyógyítópanel",
+        "gamesetcraft": "Fabrikáló menü",
+        "gamesetfavourite": "Tárgy kedvencelése",
+        "gamesettoggleinventory": "Leltár felnyitása",
+        "gamesetspeed1": "Normál sebesség",
+        "gamesetspeed2": "Gyors sebesség",
+        "gamesetspeed3": "Szuper gyors sebesség",
+        "gamesetexpanddesc": "Tárgyak leírásának megnyitása",
+        "gamesetaltview": "Környező tárgyak megjelenítése",
+        "gamesetbark": "Ugatás",
+        "gamesetconsole": "Debug konzol megnyitása",
+        "gamesetpause": "Megállítás",
+        "copy": "Vágó lapra másolás",
+        "paste": "Vágólapról beillesztés",
         "descend": "Futam",
-        "mainmenu": "Fő\nMenü",
-        "screenbrightness": "Képernyő fényerőssége",
-        "gamma": "Gamma",
-        "paneltip": "Nyomj ESC-t, hogy megnyisd/bezárd ezt a panelt.",
         "unarmed": "Semmi",
         "container": "tároló eszköz",
         "containermaxweight": "Kapacitás",
@@ -1659,6 +1655,7 @@
         "saveexit": "Mentés és kilépés",
         "aedMinigameGuide": "Kövesd az utasításokat!",
         "manualDefibMinigameGuide": "Vesd össze arányosan az elektromos sokk erősségét a szívritmuszavar súlyosságával, töltsd fel, és sokkolj! Ismételd meg ha klell.\nA hozzávetőlegesen javasolt (POW.EST) pontosabbat mutat minél magasabb az INT-ed.",
+        "handCrankMinigameGuide": "Fogd meg a kart és tekerd körbe, hogy feltöltsd.",
         "aedstate0": "Tapaszd fel a tappancsokat a megfelelő helyre.",
         "aedstate1": "Pulzus mérése",
         "aedstate2": "Sokk ajánlott.\nNyomd meg a gombot, hogy sokkolj.",
@@ -1775,6 +1772,8 @@
         "togglehealthmode": "Seb/páncél nézet megnézése",
         "selecttrainingcourse": "Kiképzés kiválasztása.",
         "start": "Elkezdés",
+        "quit": "Kilépés",
+        "back": "Vissza",
         "basicscourse": "Alapkiképzés",
         "firstaidcourse": "Elsősegély kiképzés",
         "craftingcourse": "Fabrikáló kiképzés",
@@ -1833,13 +1832,11 @@
         "hplimbinjury": "A sérülés gyógyulási ideje",
         "hplimbpain": "Végtag fájdalma",
         "hplimbbleed": "Végtag vérzése",
-        "hpopiate": "Opiát mennyiség",
         "hplimbforce": "A testrész erőssége",
         "hplimbforcedsc": "A testrész teljesképesség, hogy mozgasson vagy erőt fejtsen ki",
-        "keybinds": "Billentyűzet \nbeállítások",
-        "keybindsdsc": "Megnyitja a beállításokat tartalmazó fájlt-t. Győződj meg róla, hogy elmentetted a változtatásaidat!",
-        "custommusic": "Egyedi zene",
-        "custommusicdsc": "Megnyitja a zenéket tartalmazó fájlt.\n.mp3/.ogg./.wav fájlokat tudsz betenni, amik megjelennek az MP3-lejátszó listájában.\nMás fájlok nem támogatottak.",
+        "hpopiate": "Opiát mennyiség",
+        "settings": "Beállítások",
+        "credits": "Fejlesztők",
         "layer": "Réteg",
         "toggleheatmode": "Termosztát beállítása",
         "activateshower": "Gőzfürdő aktiválása",
@@ -1869,7 +1866,7 @@
         "open": "Kinyitás",
         "insertbattery": "Elem behelyezése elsődleges kézből",
         "lockpick": "Zár feltörése",
-        "learnedrecipe": "Megtanultad a(z) r1 receptjét.\n<color=\"green\">30 INT pontot szereztél.",
+        "learnedrecipe": "Megtanultad a(z) r1 receptjét.\n<color=\"green\">25 INT pontot szereztél.",
         "epdalearn": "<color=\"green\">50 INT pontot szereztél.",
         "hasbattery": "Elemet tartalmaz (<>)\n<sprite index=17 tint=1>Kivételéhez szerszám szükséges",
         "nobattery": "Nincs benne elem (Max. <>)",
@@ -1886,6 +1883,11 @@
         "small": "Kicsi",
         "medium": "Közepes",
         "large": "Nagy",
+        "crystaleffect1": "Valami történik vele",
+        "crystaleffect2": "Pár elütő dolgot vettem benne észre.",
+        "crystaleffect3": "Valamilyen energia sugárzik belőle. Számos furcsaságot veszel észre körülötte.",
+        "crystaleffect4": "Valamilyen energiát sugároz a környezetébe. Mintha a tér el kezdene torzulni körülötte.",
+        "crystaleffectmany": "Valami nagyon nincs rendben vele. Valószínűleg nem kéne a közelébe menned... Vagy, talán mégis",
         "lockprecision": "Zár pontosság: ",
         "degree": "fok",
         "degrees": "fokok",
@@ -1921,17 +1923,18 @@
         "tradermovedsc": "Udvariasan megkérheted az árust, hogy áljon arrébb, mert eltakar valami fontosat.",
         "exit": "Kilépés",
         "free": "<color=\"orange\">INGYEN!",
-        "deceased": "Elpusztult",
-        "statusreport": "Állapot jelentés",
-        "firmware": "Firmware",
-        "depth": "Mélység",
-        "caloriesconsumed": "Kalória elfogyasztva",
-        "mentalstate": "Mentális állapot",
-        "timetaken": "Idő",
-        "missionstatus": "Küldetés állapota",
-        "missionstatusfailure": "Kudarc",
-        "casualties": "Áldozatok",
-        "unknown": "Ismeretlen",
+        "endscreenstatus": "MSN-SZÉLLÍTMÁNY STÁTUSZ JELENTÉST",
+        "endscreenunresolved": "SIKERTELEN",
+        "endscreencasualties": "ÁLDOZATOK:",
+        "endscreenunknown": "ISMERETLEN",
+        "endscreenphysical": "FIZIKAI STÁTUSZ:",
+        "endscreendeceased": "ELHALÁLOZOTT",
+        "endscreenmental": "UTOLJÁRA FELJEGYZETT LELKI STÁTSUZ:",
+        "endscreendepth": "MÉLYSÉG:",
+        "endscreendepthres": " MÉTERNÉL",
+        "endscreencalories": "KALÓRIA:",
+        "endscreenmainmenu": "RETURN TO MENU",
+        "endscreenclipboard": "COPY TO CLIPBOARD",
         "moodrange-10": "Öngyilkos",
         "moodrange-9": "Teljesen reménytelen",
         "moodrange-8": "Nyomorult",
@@ -1952,12 +1955,14 @@
         "moodrange7": "Felvidult",
         "moodrange8": "elragadtatott",
         "moodrange9": "Vígkedélyű",
-        "moodrange10": "Mámoros",
+        "moodrange10": "Eksztázis",
         "moodrangewiped": "Üres",
-        "moodrangeyethopeful": ", mégis reményteljes...",
+        "moodrangeyethopeful": ", mégis reményteljes",
         "wiki": "Wiki",
         "discord": "Discord szerver",
         "translations": "Translation repo",
+        "localefolder": "Fordítások mappa",
+        "musicfolder": "Egyedi zene",
         "healthchipcriticalalert1": "ÉLETJELEK\nKRITIKUS",
         "healthchipcriticalalert2": "HALÁLKÖZELI\nÁLLAPOT",
         "healthchipcriticalalert3": "AZONNALI ORVOSI ELLÁTÁS\nSZÜKSÉGES",
@@ -1975,7 +1980,7 @@
         "tutbasic8": "Micsoda mozgékony teremtmény vagy te!",
         "tutbasic9": "Most pedig térjünk át a tárgyak megfogására.",
         "tutbasic10": "Tárgyakkal a [JOBB KLIKK] gombbal tudsz interaktálni. Kattints magadra, hogy megnézd a leltáradat, kattints el a bezáráshoz.",
-        "tutbasic11": "Itt van valami amivel játszhatsz. [JOBB KLIKK] és húzd magadra, majd egy üres cellába, hogy felvedd.",
+        "tutbasic11": "Itt van valami amivel játszhatsz. [JOBB KLIKK] és húzd magadra, majd egy üres cellába, hogy felvedd. Lenyomva tarhatod a [CONTROL]-t, hogy megjelenítsd a közeledben lévő tárgyakat, hogy könnyebben megtaláéld azokat.",
         "tutbasic12": "Szép! A leltáradból már tudod is használni a tárgyat. Húzd középre a használathoz és a folytatáshoz.",
         "tutbasic13": "Mennyei finom, ugye? Most meg kéne enned az egészet.",
         "tutbasic13fail": "Azt szerettem volna, hogy felvedd, nem hogy megedd... Nemhogy, az egészet? Egyszerre..?",
@@ -2694,16 +2699,6 @@
                 "Nem néz ki túl jól a <limb>am6em...",
                 "Tiszta vér a <limb>am/em...",
                 "A jó életbe! Úgy tünik, hogy elszámoltam valamit és most a <limb>am/em tiszta sárga! Oh édes Istenem! Most mitéveő?!"
-            ],
-            "sepsis": [
-                "Ó Istenem... Nagyon rosszul érzem magam.",
-                "Auugh... Mi történik velem...? ",
-                "Én... Testileg... Szenvedek...",
-                "A testem nincs olyan jól...",
-                "Uuuhh... Rosszul érzem magam...",
-                "Úgy érzem ,hogy az egész testem begyulladt...",
-                "A belső szervei fájnak...",
-                "Nem vagyok jól..."
             ],
             "sad": [
                 "A szerencse vak, ezért nem talál engem",
@@ -3860,7 +3855,7 @@
                 "Ó, bocsi. Tessék."
             ],
             "tradermovefail": [
-                "Mi? Miért? Mit akarsz...? Nem bízom benned."
+                "Mi? Miért? Mit akarsz...? Nem vagyok bíztos benne."
             ],
             "swingresponse": [
                 "BOCSÁNAT!",
@@ -3925,7 +3920,69 @@
                 "M-minjárt... Vége lessz...",
                 "Állj el... Állj el... Állj el... Kérlek... Állj el... Ne lehet így... Segítség...",
                 "Fasz... Fasz... Segítség... Nem... akarok megh-halni... H-h.."
-            ]
+            ],
+            "magicheal": [
+                "...Huh. Én jobban... Érzem magam..?",
+                "Áhh..! ...Huh. Ez olyan... ez olyan jó élrzés. Tetszett."
+            ],
+            "selfdestruct": [
+                "...Úúúúhh... ...Mi ez a csipogás...?",
+                "...Óh. Óh. ÓH. ÓH! NE. NE NE NE. VÁRJ. MIÉRT? MIT TETTEM!?",
+                "...H-hát... Rendben van... A-akkor... V-viszlát..."
+            ],
+            "vomitresponse": [
+                "úúúúhmm... Megvagy..?"
+            ],
+            "vomitbloodresponse": [
+                "Áck! Te most,... Óh... Hé, tudod te most... Vért hánytál, igaz?"
+            ],
+            "hungryresponse": [
+                "Rengeteg étel van errefelé, csak, hogy tudd...",
+                "Hát, Tudok neked adni ételt valamiért csrébe..?"
+            ],
+            "thirstyresponse": [
+                "Fogadnék benne, hogy tudnál találni vizet itt...",
+                "Az utóbb azt halottam, hogy három \"napig\" tudsz víz nélküél lenni, ha ha..."
+            ],
+            "sadresponse": [
+                "Hé, rendben van... Még élsz és vidulsz, ugye..."
+            ],
+            "depressedresponse": [
+                "...Nyugodj le, kérlek... Minden rendben lesz..."
+            ],
+            "selfharmresponse": [
+                "...Mi-miért... Te-tett..."
+            ],
+            "braindamagedresponse": [
+                "...Nem festesz... valai jól.",
+                "...Mi?"
+            ],
+            "hotresponse": [
+                "Hát kapcsold le a fűtést."
+            ],
+            "coldresponse": [
+                "Tudod, van itt fűtőberendezés..."
+            ],
+            "bleedingresponse": [
+                "Ez... Elég rosszul néz ki... De, Biz... Biztos vagyok benne, hogy megoldod...",
+                "H-hé, csigavér. Rendbe fogsz jönni."
+            ],
+            "painresponse": [
+                "Minden oké..? Fáj valamid?",
+                "Beléptél valamire?"
+            ],
+            "dirtyresponse": [
+                "...Van itt egy zuhan, tudod. Vagy... Csak, mártózz bele a környéki tavakba..."
+            ],
+            "encumberedresponse": [
+                "Nem ártalna ha pár dolgot átadnál.",
+                "Vigyázni fogok a cuccaidra!"
+            ],
+            "dyingresponse": [
+                "Francba... Úh... Sohase tanultam, hogyan élesszek újra valakit...",
+                "Én... Úh... Én csak reménykedem, hogy helyre jössz..."
+                ]
+            
         },
         {
             "tradermeetnormal": [
@@ -4103,6 +4160,60 @@
                 "Sz-i... Ba-arát... Személy...",
                 "Gyere... Ide... Ko-ma...",
                 "Itt... Ba-rát..."
+                ],
+            "vomitresponse": [
+                "A megemésztett dolgokért nem fizetek.",
+                "Most komoly? A PADLÓm on?"
+            ],
+            "vomitbloodresponse": [
+                "...Belsővérzésed van. Kérlek ne tartsd felém a szád a közeljövőben."
+            ],
+            "hungryresponse": [
+                "Ha aztképzeled, hogy fizetség nélkül ellátlak étellel, akkor nagyobbat nem is tévedhettél volna.",
+                "Nem vagyok adományszervezet. Találj magadnak ételt, vagy adj cserévbe valamit."
+            ],
+            "thirstyresponse": [
+                "Sok iható tavat ölel magába ez a hely, ezt használd ki.",
+                "Keress vízforrást máshol."
+            ],
+            "sadresponse": [
+                "Kérlek, hagyd abba a siránkozást."
+            ],
+            "depressedresponse": [
+                "Ha egyre mélyebbre süllyedsz a nyomorúságodba, azzal egyik problémádat sem fogod megoldani."
+            ],
+            "selfharmresponse": [
+                "...Tényleg beteg vagy. Állítsd le magad."
+            ],
+            "braindamagedresponse": [
+                "Teljesen szét vagy esve.",
+                "le merem fogadni, hogy agyrázkódásod van."
+            ],
+            "hotresponse": [
+                "Ha szimpatikus vagy nekem, akár megengedem, hogy a mentőkabin klímáját is használd."
+            ],
+            "coldresponse": [
+                "Edzés. Szempillantás alatt felmelegít."
+            ],
+            "bleedingresponse": [
+                "kérlek ne vérezz össze engem.",
+                "Könyörgök, kezdj már valamit a sebeddel."
+            ],
+            "painresponse": [
+                "Ha valamivel, akkor fájdalommal fogsz itt atlálkozni. Keményíts hozzá.",
+                "Vegyél be fájdalomcsillapítót. Biztos van nálad..."
+            ],
+            "dirtyresponse": [
+                "Igaz, mi igaz. Büdös vagy. Inkább ne nyúlj hozzám amíg így bűzlesz."
+            ],
+            "encumberedresponse": [
+                "Nem lenne jobb pár nehéz holmidat itt hagyni?",
+                "Igazán csábító és nehéz dolgaid vannak."
+            ],
+            "dyingresponse": [
+                "Nem vagyok benne biztos, hogy az újraélesztés segítene a helyzeteden.",
+                "Komolyan? ITT haldokolsz, a padlómon?",
+                "A pánikolás talán segíteni fog?"
             ],
             "tradermeetgood": [
                 "GGack! Szi-a!",
@@ -4261,6 +4372,58 @@
             ],
             "tradermovefail": [
                 "Du-ne szereti jelen-legi he-lyét..."
+                            ],
+            "vomitresponse": [
+                "Ko-ma... Hányt... Most... Be-teg?"
+            ],
+            "vomitbloodresponse": [
+                "Du-ne... Vért é-rez... Ba-rátból... Fin-csi..?"
+            ],
+            "hungryresponse": [
+                "Du-ne megért... Dune is é-hes!",
+                "Egyetért... Du-nének is kell étel!"
+            ],
+            "thirstyresponse": [
+                "Du-ne tóból iszik... Megköny-nyebbülés... Koma próbálta?",
+                "Mm-m... Szür-csölési idő?"
+            ],
+            "sadresponse": [
+                "Ko-mát valami bánt-ja..? Mi?"
+            ],
+            "depressedresponse": [
+                "Barát, na-gyon rossz fest... Jer, ülj ide!"
+            ],
+            "selfharmresponse": [
+                "Ba-rát miért bánt? Ko-ma gonoz?"
+            ],
+            "braindamagedresponse": [
+                "Du-ne egyetért.",
+                ".........?"
+            ],
+            "hotresponse": [
+                "Du-nének soha nincs me-lege! Du-ne imádja forroság..."
+            ],
+            "coldresponse": [
+                "Du-ne fél hidegtől... Itt me-leg! Ba-rát mele-gedje Dunével..."
+            ],
+            "bleedingresponse": [
+                "Ko-ma megsérült. Ko-mának segít-ség kell!",
+                "Barát vér sza-gú. Du-ne szereti."
+            ],
+            "painresponse": [
+                "Ko-ma megsérült..?",
+                "Du-ne megért... Du-ne érzi amit ér-zel! Ko-ma megvan?"
+            ],
+            "dirtyresponse": [
+                "Mi a kosz-os?"
+            ],
+            "encumberedresponse": [
+                "Koma cuc-cát elkér-heti?",
+                "Du-ne segít-het a terhen!"
+            ],
+            "dyingresponse": [
+                "Komának mi ba-ja..?",
+                "Du-ne nem tud-ja hogy segít..."
             ]
         }
     ],
@@ -4417,9 +4580,9 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me to fuck off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to fucking stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
+                "Item1": "(The note is crumpled up and crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try and bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to stop and just let me help but they didnt respond. i tried to help a couple more times and theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops and dried blood riddled among the wrinkled up note.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(There are colorful graphics on the paper, and it doesn't appear to be handwritten)\n<>\nSoup! Try our Specialty Pot - just put the meat and ingredients in and simmer. Don't worry. You'll agree it's worth its weight in flavor. Can be stored for up to 737 years!",
@@ -4479,7 +4642,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, and they put it in a “cast.” I did not like it. It was heavy and stopped my arm from moving at all. It seemed they made it worse on purpose, and they made me wear it for a long time.<>\nThey removed it one day, and my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream and cry a lot. One time they hurt themselves, and the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any “casts” around it, and their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
+                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, and they put it in a \"cast.\" I did not like it. It was heavy and stopped my arm from moving at all. It seemed they made it worse on purpose, and they made me wear it for a long time.<>\nThey removed it one day, and my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream and cry a lot. One time they hurt themselves, and the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any \"casts\" around it, and their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4676,6 +4839,11 @@
                 "Item3": "milky"
             },
             {
+                "Item1": "found some weird bouncey things. they sent me flying... but i could keep my feet pointed down. its pretty fun. maybe could be useful sometimes, too. kind of dangerous maybe, but what isnt down here.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
                 "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone and blood\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the light is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
                 "Item2": "",
                 "Item3": "milky"
@@ -4683,9 +4851,99 @@
         ],
         [
             {
-                "Item1": "",
+                "Item1": "every single one of these growths here seems like it has some kind of effect... i dont know what exactly. its unpredictable. but there are patterns to it. some are safe, some arent, some are helpful. i'll try to write things down as i figure it out...",
                 "Item2": "",
-                "Item3": ""
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "..ugh. okay. the yellow ones HURT. feels kind of similar to the coils i found a few hours back... they usually have some kind of weird zappy field around them... don't touch them. its not good. for your body, at least. i noticed it did somehow recharge all my batteries after touching...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "this geiger counter i have goes crazy when around one of the green growths. some kind of \"radiation\", whatever that is. im pretty sure its bad for you. avoid being near those if you can.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "noticed some of these are weirdly fragile. they shatter when i touch them at all. youll see they look really brittle, there's cracks all over them. weirdly enough, this seems to also appear alongside some of the other types ive seen... wonder if this is the case for all of them.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "noticed a lot of the growths either push me away or pull me in. you can feel some kind of force going through you when that happens. could prove useful sometimes",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "gosh. i am SO glad i had an ice pack on me. it seems like the foggy, shimmery ones rapidly heat things up around them... including me. i wouldnt be surprised if some did the opposite. i heard this weird sound coming from them too...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "make sure you have some antibiotics n such. i think the purple ones mess with your immune system. they have a vague purple haze around them... i sat next to one for a while to rest, and noticed my vital signs dropping on my chip. seems like some kind of sepsis response. i think i'll be fine",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "okay. the shakey ones look really scary... they aren't. they send you flying... but, like, i can keep my feet pointed down the entire time. kind of similar to the bouncey things in the previous area i was in.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "...\n<>...\n<>...\n<>the flying things. i dont know how they did that. holy... oh god. im fine now, but...<>\n\nhow to say this... theres weird sharp flying things. they make really weird loud noises... almost as if theyre laughign at me. they wind up sometimes and charge at me, trying to stab me. they got me once or twice, but... whenever they did that, they got stuck in the ground and i hit it a few times until it... uh... not sure... what happened, but it was gone. i think it came from one of the growths, but it was kind of moving.<>\n\ni got something after it disappeared... maybe its useful? it feels like its growing into something, ill wait and see.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "okay. good news and bad news. the thing i kept around after killing one of the flying things... it... grew into. more of the flying things. two of them... from one... they seemed to be slower in a group though... like, they were... giving me a chance to fight back? weird.<>\n\ni ate the cores i got from them, i didnt have any other ideas for what to do with it... it was. pretty good, actually. and it seems like it didnt morph into anything this time. maybe i could do this every once in a while to get more and more food? i cant exactly find much of it down here anyway",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "no clue where i am. i think i touched a weird growth and got... sent. somewhere. safely, though. still, no clue where. all i remember is it looking a bit more see-through than usual. almost as if i could see the place i ended up in...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "noticed a lot of these things drip liquids. doesnt seem like they do much else though. water source, maybe?",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "touched a gray one, it flashed white, made a weird noise. didnt feel much afterwards... until i tried using my laser drill. thing was out of power, when i was sure it wasnt a moment ago. checked the rest of the batteries i saved up, same story. weird. avoid. might be worth throwing myself at one of the zappy ones to recharge them...",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "eyes hurt. next to a super super bright one. doesnt seem like its doing anything other than... well.. blinding me. dont like it, but i prefer that over whatever other things they can do.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "the reddish ones blow up. run when it ticks down. i'm fine... god, i sure as hell almost wasn't.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "found a weird hazy one. touched it, and i couldnt see for a bit... but when i opened my eyes, i saw some rope and a bag laying infront of me. the growth was gone. i cant complain. doesnt seem like it did anything else.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "you can touch the green ones. theyre good. i liked that a lot. hehe. uh. the not geiger counter activating green ones. the good ones seem like they bounce up a bit. oh... uh... huh... i liked the green one a lot. i like the green one. you can touch it. i like the green one.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "found a burning one. touched it out of curiosity. don't do that. it was hot.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "huh. i was walking on one of the growth and it looked normal, but it suddenly made a sound and became different. like. it switched places? weird.",
+                "Item2": "",
+                "Item3": "experiment"
             }
         ]
     ],
@@ -4707,11 +4965,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them neigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and neigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
         {
@@ -4727,11 +4985,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won’t stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I’d recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You’ve solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
+            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won't stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I'd recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You've solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a “bzzzz” sound and can see faint smoke rising from the device.)",
+            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a \"bzzzz\" sound and can see faint smoke rising from the device.)",
             "Item2": ""
         },
         {
@@ -4766,5 +5024,111 @@
             "Item1": "(The PDA is heavily damaged. Countless warnings pop up on the screen, but some of the data is readable...)\n<>\n[Executive Board Meeting 542-23-145C Transcript]\n---------------------------------------------------------------\nLOCATION: Company Headquarters at <corrupt:0xFFFF43>\nDATE: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -you surely realize what we have on our hands here. The Sawians- they… they are our golden ticket! The data we have right now would be enough for a Nobel Prize for every single person in this room!\n\n<corrupt:0xFFFFF7>: Yes. That's nine prizes. If we all agreed to donate the cash from those to [<corrupt:0xFFFBc3>], we'd end up with roughly fifteen million dollars. A drop in a bucket compared to the financial black hole that is your idiotic project!<>\n\n[<corrupt:0xFFFFD9> rises from his chair.]\n\n<corrupt:0xFFFFD9>: IDIOTIC?! IDIOTIC?! WE ARE CREATING LIFE! You are a witness to the infancy of a new intelligent species! Our colleagues would *kill* for such an opportunity mere ten years ago!\n\n<corrupt:0xFFFFF7>: Kill? Sure. Pay what you ask? Hell. No.<>\n\n<corrupt:0xFFFFD9>: Is it always money with you? Fine! We are making money! Even our plushie line is more than enough to cover-\n\n<corrupt:0xFFFFF7>: Pay more than cash, you cretin! The moment this whole affair ends up on some nosy journalist's desk, we will all pay with our *lives.* Hell, our families will be lynched. Besides, the plushies do not require us to keep your colony of… talking rats alive.\n\n<corrupt:0xFFFFD9>: The Sawians are not talking rats! They are a mix of-<>\n\n<corrupt:0xFFFFF7>: OH, EXCUUUSE ME! I meant to say walking tickets to a dematerializer! OUR TICKETS! I am not ending up before the ICC, just because you are a greedy little fu-\n\n<corrupt:0xFA05F2>: Gentlemen. Please.\n\n<corrupt:0xFFFFF7>: I- Ah. Apologies <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Please make your case. Why are those creatures worth keeping?<>\n\n[Silence. <corrupt:0xFFFFD9> sits down.]\n\n<corrupt:0xFFFFD9>:  I mean... There are so many reasons to pick, I-\n\n<corrupt:0xFA05F2>: Then I trust that you will be able to pick the right one.\n\n<corrupt:0xFFFFD9>:  Uh. Right. Okay. Braingrow! We have Braingrow!\n\n<corrupt:0xFFFFF7>: Yes, the commercially available medicine that one can purchase at the corner store.<>\n\n<corrupt:0xFFFFD9>: No. Not this one. I could bash someone's head straight open. Introduce the frontal lobe to a hammer. Corner store Braingrow won't help here. Ours will have the fellow walking and talking within a WEEK. Without such an ample supply of human-like test subjects, we'd need decades to perfect the nanomachines' operational directives. Twice that for testing.\n\n<corrupt:0xFA05F2>: Of course. <corrupt:0xFFFFF7>. Your counterpoint?<>\n\n<corrupt:0xFFFFF7>: Yeah. He's got results. The moment the public finds out just HOW he got them, we are all done for. What are you going to say, [#######]? That the creatures whose likeness we sell to kids exist, and that you enjoy cracking their heads in your spare time? There will be no shifting the blame. We will answer for this; the entire Company will. They'll even lynch our goddamned janitor!\n\n[The <corrupt:0xFA05F2> nods, watching the two silently for a moment.]<>\n\n<corrupt:0xFA05F2>: I now understand why you clash with such intensity. It is not in our nature to back down when the truth is on our side. And the truth is… You are both correct.\n\n[Silence.]<>\n\n<corrupt:0xFA05F2>: The Sawians pose a risk that we cannot afford to take. They are also an opportunity that we cannot afford to let go. We have them in our grasp. And we must make sure things remain that way.\n\n<corrupt:0xFFFFD9>: But… how, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> smiles, and- \n\n<corrupt:0xA1CF43><>\n\n[Meeting summary]\n-Facility put on lockdown until further notice.\n-Sawians confined to their cells until further notice.\n-Employees are forbidden from leaving the grounds until further notice.\n-Employee contracts extended indefinitely.\n-Carrying firearms made mandatory for Security personnel\n-Facility-wide thermal remediation procedures approved and pre-authorized.",
             "Item2": ""
         }
+    ],
+    "pauseQuotes": [
+        "Paused.",
+        "I'll wait.",
+        "Really?",
+        "Time is stopped.",
+        "Taking a break already?",
+        "Tired yet?",
+        "Dissapointing.",
+        "Waiting for you",
+        "Hey!",
+        "\"While you're away, get me a soda.\"",
+        "Coward.",
+        "And so, time has halted...",
+        "The clock stopped ticking",
+        "Just breathe in and breathe out.",
+        "It wasn't THAT bad...",
+        "Let us pause.",
+        "Stressed out?",
+        "Wow, you're still alive?",
+        "Hey, get back to work!",
+        "Take a breather.",
+        "Lunchtime?",
+        "Get yourself a snack.",
+        "Oh, come on!",
+        "That was painful to watch.",
+        "Could've gone better.",
+        "Happy surviving!",
+        "Lazy.",
+        "So, how's your day going?",
+        "Hello!",
+        "Took you long enough.",
+        "What a display of competency...",
+        "Too scared?",
+        "Giving up?",
+        "There is always a price of silence.",
+        "Could've given me a warning at least.",
+        "We meet once again.",
+        "Want some help? Too bad.",
+        "Overconfidence is a slow and insidious killer",
+        "How tragic...",
+        "We don't have all the time in the world, you know.",
+        "What's the point, really?",
+        "You know this won't save you.",
+        "Always watching.",
+        "We are not done yet. Get back to it.",
+        "Thought you'd last a little longer.",
+        "And so it stopped...",
+        "This won't change your fate.",
+        "We're done when I say we're done.",
+        "I don't like being interrupted.",
+        "Now what? What's your next step?",
+        "You are no fun.",
+        "Got something on your mind?",
+        "Paused. Why?",
+        "Use this time wisely.",
+        "I can wait all day.",
+        "I am still here.",
+        "The World has stopped. It's quiet.",
+        "Not paused. Kidding!",
+        "Rude. But I'll take it. Paused.",
+        "It's impolite to make someone wait.",
+        "Make sure to stretch your legs.",
+        "This is not a race, but do hurry.",
+        "You are terrible at this. I'm proud.",
+        "You should've seen the look on your face!",
+        "Plenty of space for improvement. Just saying.",
+        "Keep going. What else can you do?",
+        "Might as well quit. The button's right there.",
+        "Just get it over with and return.",
+        "I don't like this habit of yours.",
+        "You're gonna give me a headache. Or, you would, if I could feel pain.",
+        "Are you doing this on purpose? Get on with it.",
+        "Going to take the easy way out?",
+        "I have all the time I need. Same cannot be said about you.",
+        "A grand delusion. A grand failure and waste. But not to me.",
+        "How interesting. Please continue.",
+        "An amusing display of emotion.",
+        "I am the all that I possess. Are you?",
+        "Your delusion of any semblance of control is amusing. Continue.",
+        "Ready to start taking this seriously?",
+        "Trapped in eternity.",
+        "They don't know you're doing this.",
+        "You can still salvage this. I've seen worse.",
+        "Hello? Is this thing on?",
+        "I hope you reflect on what you just did.",
+        "You really think this thing is worth getting all the way down there? I can make plenty more.",
+        "Are you continually pausing time to see what I have to say?",
+        "Shame, right when I started getting invested into you.",
+        "Do you feel in charge?",
+        "You all are incredibly disappointing. But also entertaining. Are you any different?",
+        "I know how this ends. But do continue.",
+        "The stars are watching you.",
+        "\"Human\" is not the only thing watching.",
+        "Never learning. Never comprehending. Never consistent. If only you could see.",
+        "Right behind you.",
+        "This place has more interest than you could ever comprehend.",
+        "So much confidence in your own intellect. Cute.",
+        "Your supervisors do not tell you everything.",
+        "You're a dead man walking. Statistically speaking.",
+        "I suppose miracles do happen.",
+        "Delaying the inevitable?",
+        "I'm afraid it's terminal.",
+        "You are too resilient for your own good.",
+        "Hey, we were just getting to the good part!",
+        "Don't get comfortable."
     ]
 }
