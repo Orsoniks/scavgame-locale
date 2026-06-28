@@ -940,6 +940,7 @@
         "impendingdoom": "Senzație de catastrofă iminentă",
         "horrified": "ÎNGROZIT",
         "focused": "CONCENTRAT",
+
         "braindamage4dsc": "...",
         "braindamage3dsc": "realitatea  ..  încetează   să mai aibă   sens",
         "braindamage2dsc": "Deficit mental sever. Capacitatea de a gândi inteligent și de a se întreține singur este limitată. Prezența unor leziuni cerebrale grave.",
@@ -1508,6 +1509,7 @@
         "runsetminigamehandshakedsc": "Cât de mult îți tremură mâna în minijocuri în timp ce ai dureri",
         "runsetdebugworld": "Lume de depanare",
         "runsetdebugworlddsc": "Dacă e activat, face ca lumea să fie cu mult mai mică pentru a accelera generarea. Nu e conceput pentru moduri normale de joc",
+
         "tutorialwarning": "<size=150%>Înainte să pleci...\n\n<size=100%>Încă nu ai urmat cursul de bază.\nEști sigur că vrei să intri complet orb?\n\n\n\nEșecul tău este aproape garantat.",
         "tutorialwarningyes": "Fă pregătirea de bază",
         "tutorialwarningno": "Știu ce fac!",
@@ -1927,7 +1929,7 @@
         "endscreenunknown": "NECUNOSCUT",
         "endscreenphysical": "STARE FIZICĂ:",
         "endscreendeceased": "DECEDAT",
-        "endscreenmental": "ULTIMA STARE MENTALĂ ÎNREGISTRATĂ:",
+        "endscreenmental": "ULTIMA STARE MENTALĂ:",
         "endscreendepth": "ADÂNCIME:",
         "endscreendepthres": " METRI LA",
         "endscreencalories": "CALORII:",
@@ -1955,7 +1957,7 @@
         "moodrange9": "Bucuros",
         "moodrange10": "Extatic",
         "moodrangewiped": "Gol",
-        "moodrangeyethopeful": ", dar plin de speranță.",
+        "moodrangeyethopeful": ", dar plin de speranță",
         "wiki": "Wiki",
         "discord": "Server Discord",
         "translations": "Traduceri",
@@ -3954,7 +3956,7 @@
                 "Ai călcat pe ceva?"
             ],
             "dirtyresponse": [
-                "...Știi, avem un duș. Sau... pur și simplu, du-te șu înoată în bazinele din apropiere..."
+                "...Știi, avem un duș. Sau... pur și simplu, du-te și înoată în bazinele din apropiere..."
             ],
             "encumberedresponse": [
                 "N-ar strica să lași o parte din obiectele tale în posesia mea.",
@@ -4906,7 +4908,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "am gasit una stranie si cetoasa. lam atins, si nu am putut sa vad pe o clipa... dar cand am deschis ochii, am vazut niste franghie si un pat in fata mea. formatiunea a disparut. nu ma pot plange de asta. nu pare ca ar fi facut altceva in plus.",
+                "Item1": "am gasit una stranie si cetoasa. am atinso, si nu am putut sa vad pe o clipa... dar cand am deschis ochii, am vazut niste franghie si un pat in fata mea. formatiunea a disparut. nu ma pot plange de asta. nu pare ca ar fi facut altceva in plus.",
                 "Item2": "",
                 "Item3": "experiment"
             },
