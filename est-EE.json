@@ -1866,8 +1866,8 @@
     "lockpick": "Lukuvõti",
     "learnedrecipe": "Õpitud retsept r1.\nSaadi <color=\"green\">25 INT kogemust.",
     "epdalearn": "Saadi <color=\"green\">35 INT kogemust.",
-    "hasbattery": "Has battery (<>)\n<sprite index=17 tint=1>Use tool to remove",
-    "nobattery": "No battery (Max. <>)",
+    "hasbattery": "Patarei olemas (<>)\n<sprite index=17 tint=1>Kasuta tööriista, et eemaldada",
+    "nobattery": "Patarei puudub (Max. <>)",
     "unknownobject": "Midagi...",
     "unknownmedical": "Mõni meditsiiniline asi...",
     "unknowndrug": "Mõni ravim...",
@@ -1895,8 +1895,8 @@
     "wantstradetip": "Vähem hinnad ja kõrgem reputatsioon",
     "indifferenttip": "Tavalised hinnad ja reputatsioon",
     "wantskeeptip": "Kõrged hinnad ja puudub reputatsioon",
-    "costs": "<sprite index=9>Costs ",
-    "weighs": "<sprite index=0>Weighs ",
+    "costs": "<sprite index=9>Maksab ",
+    "weighs": "<sprite index=0>Kaalub ",
     "purchase": "Osta",
     "trade": "Anna kauplejale",
     "reputationtip": "Reputatsioon",
@@ -4407,516 +4407,523 @@
       ]
     }
   ],
-  "notes": [
-    [
-      {
-        "Item1": "see on kohutav. siin on nii palju laipu... mul on hirm. miks nad saatsid nii palju meid siia? ma ei saa aru. ma tõesti ei saa aru. nad lõid mind mingi uimastusnoolega täiesti uimaseks ja sundisid kapslisse, et mind siia saata. ma vihkan seda planeeti.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Küsisin teistelt selle kohta, kuidas me suudame oma vaimusilmas oma füüsilist seisundit näha, ja selgub, et seda kogevad peaaegu kõik siin viibijad. Päris huvitav – me pole kunagi saanud midagi sellist teha oma kodus. Kas meile on midagi implanteeritud? Ühelgi meist pole näha mingeid väliseid seadmeid. Olen ka märganud, et vähesed siin ei jaga seda kogemust, neil näib puuduvat see, mis meil seda teha lubab. Kummaline.",
-        "Item2": "Sprites/noteDrawings/puppet",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "ma kaotan pidevalt kaalu. pean rohkem sööma, et end vormis hoida. kogu see ringijooksmine kulutab kaloreid väga kiiresti. eeldan, et pean sagedamini täis kõhuga olema.",
-        "Item2": "Sprites/noteDrawings/underweight",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "see on kohutav. see on kuradi kohutav. ma ei suuda enam. see on surmamissioon. hülga igasugune lootus. sellel pole mõtet.",
-        "Item2": "Sprites/noteDrawings/x",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ma ei saa aru miks me siin oleme. milleks? tean et peaksin tooma mingisugust akuelementi või midagi. eeldan et teistel on sama missioon. kas poleks tõhusamaid viise selle tegemiseks? loogiliselt võttes? miks saata meid siia. igatsen oma sõpru. ma ei taha surra.",
-        "Item2": "Sprites/noteDrawings/alone",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ma kukkusin alla. rängalt. mu jalg on puruks. see on väga paha. proovida üldse liikuda on piinav. vajan selle jaoks valuvaigisteid.",
-        "Item2": "Sprites/noteDrawings/brokenleg",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "kuulsin pealt kuidas meie vangistajad nimetasid meid muteerunud kombinatsiooniks \"inimesest, rebasest ja rotist\" mida iganes need ka ei tähendaks. kui palju infot meie eest varjatakse? see mõte hirmutab mind. ma pole kunagi mõelnud et väljaspool meie kasvatust on üldse midagi muud olemas. ja nüüd olen siin. ma ei suuda seda kõike endale selgeks teha.\n(Paberil on midagi, mis näeb välja nagu autoportree.)",
-        "Item2": "Sprites/noteDrawings/experiment",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Olen avastanud, et joonistamine on hea põgenemistee sellest olukorrast, kuhu olen sattunud. Paistab, et meil kõigil on raskusi oma vaimse seisundiga, ühel või teisel viisil. On hea saada aeg-ajalt mõtted karmilt reaalsuselt eemale.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Vangistajad saavad selle, mida nad väärivad.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "planeet on hea . sööme palju head liha . dune õnnelik\n(Võid märgata midagi, mis näeb välja nagu väga kehvasti tehtud autoportree.)",
-        "Item2": "Sprites/noteDrawings/dune",
-        "Item3": "dune"
-      },
-      {
-        "Item1": "Liikide jaotus siin tundub väga ebaproportsionaalne. Eksperimendid on kõikjal, kuid teisi liike nagu meie on palju vähem. Kummaline... Igal juhul vihkan ma ohvrite hulka siin. Rohkem meid vajab abi.",
-        "Item2": "Sprites/noteDrawings/milky",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Tegin pärast valusat vahejuhtumit enesekontrolli, kui märkasin oma nahal tumedat, sõlmelist muhku. See näis korrapäratu kujuga, oli kummaliselt mitmevärviline ja kirju. Hindasin selle läbimõõduks umbes kaheksa millimeetrit. Lähemal uurimisel leidsin neid oma kehal veel mitmes kohas. Kirjutasin sellest nooremale sõbrale ja temal ei näinud neid olevat, kuid mu vanemal sõbral oli neid palju rohkem. Kas peaksin selle võimaliku pahaloomulise kasvaja arengul silma peal hoidma?",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "ma ei tahtnud seda teha. neil oli rinnadreen. mida ma sain teha? lämbuda omaenda verre? mul oli ainult dünamiidipulk... kui saaksin vaid koju, kas või treeningraadiot kuulama annaksin kõik selle nimel. see pole minu süü. see pole minu süü.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ma armastan seda kohta! kohtan siiani uusi olendeid, nad on nii armsad! siin on nii palju lahedaid asju! ma ei lähe kunagi tagasi laborisse, elagu koobas!",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "dune armastab sõbra maitsemist . kõik sõbrad maitsevad erinevalt . tumeda karvaga sõber kange . heleda karvaga sõber närimiseks hea . mis maitse minul Dune'il ?",
-        "Item2": "",
-        "Item3": "dune"
-      },
-      {
-        "Item1": "teiste kallistamine teeb mind õnnelikumaks... kuid mõned ellujäänutest keelduvad kallistustest arvan et neid saab kuidagi meelitada. samuti on kellegi kõrval magamine palju parem kui üksi külmal põrandal.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Kõigile, kes selle leiavad: nad suudavad ja hakkavad teid kontrollima, isegi selles põrgus. Ilma igasuguse hoiatuse või häireta hakkasin kuulma enda sees valju alarmi, nägin nurka ilmumas punaselt vilkuvat teadet \"DEPTH UNSATISFACTORY\" (Sügavus mitterahuldav).\n\nAsusin jooksma, paanikas, teadmata, miks nad seda teevad. See lakkas ainult pärast seda, kui liikusin selle koobasvõrgustiku teise piirkonda. Nad teavad, kui palju aega sa siin veedad, nad teavad, et oled hirmul, ja nad tahavad, et sa sureksid. See kõik on laiaulatuslik genotsiid.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "leidsin relva. tulirelva. oh taevas... ma pole harjunud seda asja käsitsema... oleksin pidanud treeningutel tähelepanelikum olema... mul pole õrna aimugi kuidas mind üldse siia saadeti olles nii ettevalmistamata selle asemel et mind maha lasta. peaaegu tulistasin kogemata kedagi. oleksin pidanud kaitseriivi peale panema... mis mina ka tean. teised kipuvad tõsisesse paanikasse sattuma kui näevad sind relvaga. nii et ehk oleks kõige parem panna see millegi sisse et nad seda ei näeks. nad arvavad et sa tulistad neid, nad ei tea su kavatsusi. noh, ma mõtleksin sama, kui keegi sihib mind relvaga.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ma olen enda peale nii vihane et käitusin teistega seal ülal nagu idioot... nüüd ajavad kõik ellujäänud, keda kohtan, mind oma kapslitest eemale... mees, kui sa vaid teaksid, kuidas nad vurasid... nad üritasid mind kriimustada... ja ma lihtsalt ütlen endamisi: \"olgu, vabandust. jumala pärast kas sa saad aru et praegu loeb iga elu? pole ruumi üksteisele haiget tegemiseks ja tapmiseks.\". sooviksin et oleksin parem inimene... see on mu enda süü.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ära alati usalda vedelikuvaate mis maas vedelevad. sain käed külge suurele minivaadile sellest mida pidasin limonaadiks kuid üks kibe suutäis oli piisav et öelda et see polnud see. proovisin seda maha loputada teise vaadi veega kuid vesi tegi mind väga haigeks ja mu juuksed hakkasid välja langema.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "täna leidsin paar kummalist metallpurki mille silt oli maha rebitud. ma ei saanud aru mis see oli ja vedelik oli liiga paks et välja valada kuid see on üllatavalt täitev tunne on nagu oleksin just söönud ühe hea steigi... tunnen end nii unisena. hakkan jooma järgmist purki ma armastan neid purke!\n(Paberi allosa näeb välja selline, nagu sinna peale oleks jõuga välja paisatud mustade tükkidega asja.)",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "seda võib olla kummaline öelda kuid olen selle olukorraga rahu teinud olen üritanud enda eest võimalikult hästi hoolitseda ja üritanud lohutada kõiki teisi keda olen siin all kohanud. see teeb mu olemise... rahulolevaks? isegi kui olen palju haiget saanud olen suutnud sellega toime tulla ilma kurvaks muutumata.\nüritan jõuda nii kaugele kui suudan ja isegi kui ma eluga ei pääse tean et andsin endast parima ja aitasin nii paljusid teisi kui suutsin. see on kõik mida keegi meist teha saab.\nkui sa seda loed ära anna alla eks?",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "olen viimasel ajal näinud üha rohkem neid katkiseid päästekapsleid, umbes nagu neid millega nad meid siia alla saatsid ainult et need kõik plahvatasid millegipärast. <>\nrusude seast leian tavaliselt mingit tüüpi relvamoona koos rõveda lihapalliga? \n<>\nsee näeb jube välja kuid vahest on see söödav???\nsee dune isik keda ma varem kohtasin ütles mulle et seda on hea süüa.\nvõiksin proovida seda võtta.\n<>\nsõin seda ja oksendasin oma soolikaid välja kakskümmend minutit järjest mu elu halvim viga. <>\njumala nimel ära söö seda mis iganes see ka pole.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "näen pidevalt sama und. mul on hiiglaslikud tiivad ja saan lennata üha kõrgemale ja kõrgemale ja kõrgemale. miski ei suuda mind peatada. murran läbi nende koobaste lagede ja välja maailma mis on sealpool. seal on ilus, kuid jätkan lendamist. jätan kõik seljataha kuni pole midagi muud kui tohutu tühi ruum. siis saan lõpuks aru. olen kaitstud. olen vaba.\n\niga kord kui ärkan ei suuda ma nutmist lõpetada. sooviksin et saaksin igavesti und näha.\n\n(Seal on pisaratega määrdunud joonistus mõningatest väga ebatäpsetest tiibadest.)",
-        "Item2": "Sprites/noteDrawings/wings",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "kas teadlased tõesti näevad mind siin? nad tahtsid alati et ma räägiksin kõva häälega, mida ma mõtlen kuid siin räägin lihtsalt iseendaga. Arvan et mul on vabadus lõpetada kuid... see tundub terapeutiline. kui ma ei pääse siis vahest vähemalt need märkmed pääsevad.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ma ei saanud aru kui halvaks asjad olid läinud kuni proovisin uuesti kaevata ja mu küünised lihtsalt... kraapisid. neis polnud enam jõudu. olen kraapinud läbi kivi vahetpidamata ilma sellele mõtlemata. tundsin end alasti. tuleb välja et liha ei ole mõeldud tööriistade asendamiseks.\n<>\narvasin kogu aeg et vajan kõige jaoks kirkast. kuid sain aru et mu matšeete töötab kergema kraami jaoks üsna hästi. muld taimed liiv see lõikab neist kohe läbi. säästab mu käsi paljust valust.\n<>\nleidsin pudeli sildiga keratiini tugevdaja. arvata oli et nad plaanisid meie osade ülesütlemist. võtsin lonksu. mõne aja pärast hakkasid vanad kihid maha kooruma nagu karv. nende all tunduvalt teravamad. tugevamad. oli kummaliselt rahuldav vaadata kulunud osade eemaldumist. mulle meeldib kuidas mu küünised aitavad mul paremini seintest kinni hoida.\n<>\nmeenusid inimesed. neil oli küüned igal sõrmel. kõigil neil. küüniseid polnud üldse. see nägi lähedalt nii vale välja. pehme. nüri. hirmus kuidas nad üldse selliste kätega hakkama said.\n<>\nma mõtlesin varem et see tegi nad nõrgaks.\n<>\nnüüd mõtlen kas see oli asja mõte.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "See on täis igasuguseid elukaid, kes pidevalt igal pool ringi rändavad. Olen veidi patsifist, nii et üritan nende eest ära joosta, mitte nendega võidelda, sest ma ei tea, kes keda enne tapatab... Lõppude lõpuks teevad haavad, mis nad minusse jätavad, neetult haiget... Ma ei tea enam... Kas meie vangistajad üldse teavad, mida me siin all läbime?",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Kukkusin rängalt. VÄGA rängalt. Otse auku ja ei suutnud oma vigastustega välja ronida ega kaevata. Kuid sain välja nende vanametalli tükkide abil ja tahan seda ka teistele teada anda. \n\nNeed on koobaste seinad! Mitte miski, mida leidsin - isegi dünamiit - ei näi suutvat läbistada koobaste välispiire. Kuid nad on ebatasased ja kui kuhjad piisavalt vanametalli tükke üksteise peale, saad suruda need nendesse pisikestesse pragudesse ja teha terve metallist jalatugi. Kui veritsesin seal pimedas augus tühjaks, kasutasin oma kogutud prahti, et teha omamoodi trepp põgenemiseks ja hädaabi leidmiseks.\n\nLoodan, et te ei satu kunagi sellisesse olukorda. Vahest võiksite seda trikki kasutada enda kaitsmiseks vigastuste eest üldse? Kes teab, milliseid muid vastikuid asju siin meiega on. \n\nVahest jõuate mulle järele ja saame strateegiaid jagada. \nLoodan, et olen seal teiega kohtumas.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Tunnen end üksildasena... nii et otsustasin oma tähelepanu kõrvale juhtida:\nleidsin mingisuguse miniatuurse faksi, mille suutsin katki lüüa, ja tõmbasin selle paberilehed välja. Siis võtsin pulga ja pigistasin ühe neist hõõgvatest viljadest sinna peale. Tuli välja nagu pintsel ja joonistuslõuend! Kui te vaid teaksite... Hakkasin joonistama teisi reaalsusi, kus oleme vabad ja elame rahulikult koos; ilma nende teadlastest rämpsudeta... Tundsin end nii õnnelikuna ja nutsin veidi.\nKuid nüüd pean minema: tunnen nälga! Vahest kui kohtume, joonistan ka teid...? Sain selle \"pintsli\" kasutamises päris heaks. Üritan ka teisi joonistama õpetada...",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Ma pole väga tugev, nii et olen loodetud teistega meeskonda moodustada. Meil oleks palju suurem võimalus ellu jääda, kuid keegi, kellelt olen küsinud, pole huvitatud. Kõik on hirmul ja mõned meist on ohtlikud. Siin on nii palju lõkse, et suures grupis reisimine on võimatu. Tean, et suren täiesti lolli põhjuse pärast...\n\nInimesed on nii julmad. Ma ei suuda seda mõista.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "(Märge on kortsus ja katki rebitud, nagu oleks see mõeldud äraviskamiseks.)\n<>\nmu sõber nad... arvan et nad tapsid end. pärast järjekordset halba kukkumist üritasin nende jalgu korda teha kuid nad saatsid mind pidevalt p...e. nad peletasid mind eemale nagu mingit kärbest käskides mul end rahule jätta. ma ei saanud aru. lahkusin et korjata siit taimi nende sidumiseks, kuid... kui tagasi tulin oli neil uus haav. üks käel. mäletan siiani kuidas see välja nägi see oli jube praktiliselt puruks rebitud. üritasin leitud taimi kasutada uue haava raviks kuid nad lükkasid mind eemale. nende silmad olid... tundusid jube... tühjad. ütlesin neile et nad lõpetaksid ja lubaksid mul aidata kuid nad ei vastanud. üritasin veel paar korda aidata ja nad tõukasid mind eemale kuni nad lihtsalt... lakkasid. mäletan kuidas nägin nende keha lõõgastuvat arvan et siis nad lakkasid hingamast. ma ei saa seda pilti oma peast välja...\n<>\nkas... kas ma tegin midagi valesti? ma vannun et ma ei... mida ma valesti tegin? miks nad seda tegid? mina... ma ei teinud midagi. ma ei saa aru, ma ei taha surra... ma ei... ma...\n<>\n...\n<>\nhaha...\n<>\nsiin on nii üksildane.\n<>\n(Märkad kahvatuid ärakuivanud pisarate jälgi ja kuivanud verd kortsus märkme peal.)",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "(Paberil on värviline graafika ja see ei näi olevat käsitsi kirjutatud)\n<>\nSupp! Proovi meie Spetsiaalset Potti - lihtsalt pane liha ja koostisosad sisse ning lase keeda. Ära muretse. Oled nõus, et see on oma kaalu väärt maitse poolest. Saab säilitada kuni 737 aastat!",
-        "Item2": "",
-        "Item3": ""
-      }
-    ],
-    [
-      {
-        "Item1": "ugh, see koht on jube. mind hammustavad pidevalt suvalised ämblikud keda ma õigel ajal ei näe. arvan, et nad on mürgised sest nad jätavad mulle kohutavad nakatunud haavad... hõõgtaime vili küll aitab nende vastu.",
-        "Item2": "Sprites/noteDrawings/spider",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "asjad edenevad mu jaoks hästi. maitsev toit mu kõhus ja vahest uinakusaba või kaks teeb mind õnnelikuks. kaupmehed naeratavad mulle samuti vastu! vihkan ainult enda veritsemise nägemist, see hirmutab mind.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "mulle ei meeldi teadmatus, mida teha. kodus ütlesid nad mulle alati. mängi seda mängu, ole vait, kui inimene räägib, lase end torgata nendest teravatest asjadest.\nnüüd peaksin täitma selle missiooni kuid mul pole aimugi, kuidas seda teha. olen janune ja tegin oma jalale haiget kuid olen ka väga määrdunud ja külmas ning mul pole õrna aimugi kuhu minna peale allapoole suuna.\neeldan et üritan peatada selle mis mind kõige kiiremini tapatab. loodan et see töötab.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "pimedas vilkuvad punased tuled on ogalõksud. hoidu neist. palun. palun. keegi just astus ühele peale kauguses kuulsin ainult kiljatust ja pärast seda vaikust. püsi ohutus kohas.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "siin on külm. nii külm. palju külmem kui meie eelmises kodus. ausalt öeldes mulle meeldib see. basseinides suplemine tundub kena see on värskendav. mulle meeldib see puhkus.",
-        "Item2": "Sprites/noteDrawings/pool",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "kohtusin kelegagi leppisime kokku et üritame pääseda pinnale läbi ühe neist aukudest õue. mu sõber astus esimesena välja ja hakkas kohe šokist komistama. ta näis olevat suures valus. ta oksendas palju kukkus kokku ja lakkas peagi hingamast. tema nahale hakkasid tekkima ka villid eriti pea ja kaela ümber. miski takistab meil lahkumast. mul on hirm.",
-        "Item2": "Sprites/noteDrawings/radiation",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Märjaks saamine tundub olevat üsna ohtlik, kui sa pole ettevaatlik. Temperatuur siin on palju madalam kui meie kodus ja näib, et liiga kaua läbimärg olemine võib meid viia hüpotermilisse seisundisse. Proovi teha füüsilist trenni, kui sul on vaja kiiresti sooja saada, olen avastanud, et see aitab.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "ma tõesti pean lõpetama oma valgusallikate kaotamise. mis iganes sobib isegi need kummalised hõõguvad taimed. jätan need pidevalt maha ja unustan neist, siis komistan ja saan kogemata haiget. pole hea.",
-        "Item2": "Sprites/noteDrawings/glowplant",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "valgus on siin väärtuslik ressurss eriti kuna mida kaugemale läheme seda pimedamaks läheb. ei taha kogemata lõksu astuda. ämbliku rümba ja hõõgtaime tükkidega saan meisterdada pealambi et mu käed jääksid vabaks. hädaolukorras näivad kapslites olevad lambipirnid töötavat tühjal akul ja neid saab suhteliselt kergesti ära murda mis teeb kapsli omaniku väga kurjaks.",
-        "Item2": "Sprites/noteDrawings/lightbulb",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "siin on palju kapsleid, sarnaselt sellele milles mina ärkasin. sain ühte sisse läbi akna kuid astusin katkise klaasi peale. pidin väga ettevaatlik olema kuid tõmbasin selle oma käpast välja. pean veenduma et koristan killud järgmine kord ära.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Inimesed teevad kummalisi asju. Sa ei tohiks neile kunagi loota, et nad on head.\nKuid saad neile loota, et nad hoiavad sind elus.<>\nMa murdsin kunagi oma käe ja nad panid selle \"kipsi\". Mulle ei meeldinud see. See oli raske ja takistas mu käe igasugust liikumist. Tundus, et nad tegid asja meelega hullemaks ja sundisid mind seda pikka aega kandma.<>\nNad eemaldasid selle ühel päeval ja mu käsi oli korras.<>\nInimesed tegid selle hullemaks, et see saaks paremaks minna.<>\n\nArvan, et nad tegid midagi sarnast Jumperi peaga.\nJumper karjus ja nuttis varem palju. Ühel päeval nad vigastasid end ja inimesed viisid nad ära.<>\nJumper on nüüd tagasi. Nad ei nuta enam. Nad ei räägi. Nad näevad kogu aeg unised välja. Nende pea on nagu mu käsi varem oli. Ma ei näe selle ümber mingeid \"kipse\" ja nende käitumine murettekitab mind, kuid vähemalt ei tee nad endale enam haiget. Loodan, et inimesed võtavad tehtud tagasi, kui Jumperi pea on korda saanud.<>\n\nMa igatsen neid.",
-        "Item2": "",
-        "Item3": "milky"
-      }
-    ],
-    [
-      {
-        "Item1": "ilmselt saab neid kaste mille kõrval on kummalised arvutid avada kui valad neile peale veidi punast verd. see peab spetsiaalselt olema punane veri, muidu see ei tööta. selle sees on mõned kastid, saad need avada ja asjad kaasa võtta. kasulik.",
-        "Item2": "Sprites/noteDrawings/bloodbag",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Uurides erinevat värvi vere kottide keemilist koostist, mis olen siit leidnud, tundub, et nende koostis on tunduvalt erinev. Punane veri on täiesti teistsugune kui meie oma ja veri, mida siinsed olendid omavad. Tundub olevat mingil põhjusel koostiselt mõnevõrra metallik, kui kummaline. Parem mitte seda endal kasutada.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "(Paberil on kehvasti tehtud joonistus ühest su vangistajast. Nad hoiavad käes asja, mida suudad tuvastada kui elektrišokirelva. Nende nägu on läbi kriipsutatud suure X-iga. Relv toob tagasi kohutavad mälestused.)",
-        "Item2": "Sprites/noteDrawings/scientist",
-        "Item3": ""
-      },
-      {
-        "Item1": "ma peaaegu uppusin hetk tagasi. ma pole kunagi varem ujunud ja see on väga väsitav. on raske hoida end vee peal, kui olen väsinud. kujutan ette, et igavesti vajumine on päris valus... olge ettevaatlikud.",
-        "Item2": "Sprites/noteDrawings/drown",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "kuulsin veidi pealt meie vangistajatelt, ilmselt on last, mida peame tooma, mingit sorti \"arenenud energiaallikas\". midagi selle kohta et see salvestab suurt hulka energiat ja jaotab seda \"juhtmevabalt\". ma ei tea mida enamik sellest tähendab kuid vahest on seda kasulik teada. püsi ohutuses.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Leidsin hiljuti mingit sorti puuri, kuid sellel on puudu paar osa. Ma ei suuda aru saada, mida see vajab, peale kattepaneeli kõigi mehhanismide jaoks... Võib osutuda kasulikuks, kui saaksin selle töökorras olekusse.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Uudishimust proovisin edasi liikuda roomates.\n<>\nKasulikkus oli ootamatu. See mitte ainult ei võimalda loputada maha saasteaineid madalates lompides ja pigistada läbi kitsaste pragude, vaid märkimisväärselt ei toonud isegi roomamine üle laialipaisatud klaasikildude kaasa mingeid vigastusi.\n<>\nKuid enesega rahulolu on ohtlik. Hindasin valesti väikest kukkumist ja vigastasin end. \n<>\nNiimoodi ringi sahkerdades... Pidin välja nägema täpselt nagu üks neist \"ussidest\", millest olen kuulnud.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "helendav vesi maitseb halvasti.",
-        "Item2": "",
-        "Item3": "dune"
-      },
-      {
-        "Item1": "Mul on valus seda tunnistada, kuid mu liigi haprus on vaieldamatu. Õnneks olen leidnud imepärase mahuti, mis kustutab enamiku esemete kaalu täielikult, võimaldades mul kanda rohkem varusid kui tavaliselt.\nSee töötab patareidel ja see teeb mulle muret. Ma ei ole kindel, mis juhtub, kui vool otsa saab, nii et kontrollin seda kohe, et olla kindel.<>\nMa ei taha, et see hüppe keskel raskeks muutuks. Mul on peaaegu tühi patarei kaasas.\nAeg näha, kuidas kott käitub, kui selle vool otsa saab.\n\n(Ülejäänud märkus on loetamatu; allpool kirjutatud tekst on kaetud rohke kuivanud verega.)",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Pole isegi sellest kivikõnnumaa põrgust väljunud ja tunnen juba, et surm on lähedal.\nAndsid mulle ainult kolaka tõrviku, mis ei kestnud isegi tundi; isegi mitte mingit turvavarustust, mis aitaks neid kukkumisi pehmendada.\n\nKURATI KÜLL, tunnen end nagu pall nendest hasartmängumasinatest, mida inimesed kasutavad!\n\nArvan, et ma suren aeglaselt – alates viimasest kukkumisest on pea olnud raske, tunnen väsimust; aga tunnen, et kui magama jään, suren.\n\nJumal päästku mind.\nKURATI VÕTA, mees.\nMa tõesti ei taha surra, mitte nii..\nAga mis mõtet sel kõigel üldse on?\nMul pole isegi enda nime, ainult silt..\nKurat...",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "dune nägi suurt koletist. Motiveeritud tapma. dune ajas koletist taga tappis ja sõi ära. suurepärane toit. suurepärane elukate kütt!",
-        "Item2": "",
-        "Item3": "dune"
-      },
-      {
-        "Item1": "DUNE LEIDIS UUEND SÕBRA<>\nDUNE  ÄREVIL KUI SÕBER  LÄHEDAL<>\nSÕBER  NAGU DUNE.<>\nSÕBER  SUUR JA TUGEV.<>\nDUNE  SUUR JA TUGEV<>\nSÕBER SAAB KAEVATA KIIRESTI.<>\nDUNE SAAB KAEVATA KIIRESTI<>\nSÕBER HAMMUSTAS DUNE'I KÄE OTSAST.<>\nDUNE HAMMUSTAS SÕBRA KÄE OTSAST<>\nSÕBER LAHKUS.<>\nDUNE OTSIB<>\nLEIAB UUESTI",
-        "Item2": "",
-        "Item3": "dune"
-      },
-      {
-        "Item1": "ma... ma tundsin, et ma suren. see oli nii äkiline, veri oli igal pool ja ma ei suutnud oma silmi lahti hoida. mul oli hirm... kuid ma ei tahtnud alla anda. leidsin siit kohast nii palju lahedaid asju ja mul on tunne, et olen selle missiooniga nii palju edasi jõudnud. ma ei kavatse siin peatuda. ma elan kogu selle kulla üle. ma näen oma sõpru uuesti.",
-        "Item2": "Sprites/noteDrawings/laststand",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Tahan sellest kohast lahkuda, olen hirmul, mul pole sõnu kirjeldamaks, mida ma just kogesin. See oli tohutu jube olend sadade hammastega, valmis mind õgima. Ta ajas mind taga tunde, hävitades kõik oma teel. Ta peatuse tegi alles siis, kui olin läinud nii kaugele, et olin täiesti eksinud. See röövis mult toidu, vee, tööriistad ja isegi mõistuse. Tahan lihtsalt, et see lõppeks.",
-        "Item2": "Sprites/noteDrawings/thornback",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "näen kurja olendit... oranži kurja olendit... olend tahab dune'i süüa!   aga dune võitleb vastu.   dune tapab ja sööb kurja olendi!   olend on väga maitsev!",
-        "Item2": "Sprites/noteDrawings/wallbiter",
-        "Item3": "dune"
-      },
-      {
-        "Item1": "siin on igal pool palju põõsaid kuigi ei saa öelda et oleksin näinud ühtegi elavat. arvan et need on päris kasulikud köite tegemiseks ja kukkumiste pehmendamiseks kuid need kalduvad ka lõkse varjama...",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "siin all on nii palav. tunnen et torman lihtsalt ühest elukapslist teise. ma ei taha isegi langemiskapsleid avada need soojendavad mind samuti. aga mu dune sõber stimpy ei paista eriti häirituna. kas ta lihtsalt ei kaeba või jahutab kogu see nahk teda?",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "aidake mind    astusin    plahvatavale plaadile   mul on nii    valus  aidake    aidake mind  palun   ma kao   n    ä",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "kuulen tilinat.. mu pea valutab nii nii palju kuulsin tugevat piiksuva heli kui natuke alla laskusin ja siis oli see vali paugutav heli     ma ei tea, kust see tuli . ma ei näe palju kaugemale aga nendes koopastes on midagi väga ohtlikku ole ettevaatlik suurte avatud aladega",
-        "Item2": "",
-        "Item3": "experiment"
-      }
-    ],
-    [
-      {
-        "Item1": "Siin piirkonnas tundub olevat väga suur kogus radioaktiivset prahti. Kuigi see muudab navigeerimise keeruliseks, peaksime meeles pidama, et võime võtta lühiajalisi ioniseeriva kiirguse doose ilma suuremate probleemideta, kui kokkupuude ei kesta liiga kaua. Kuulsin, et oleme niigi vähki täis.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Siinses keskkonnas on midagi valesti. Tunnen seda õhus – need lagunenud kütuseelemendid panevad mu karvad püsti tõusma. Mu nahk koorub neist möödudes ja keha põleb. Isegi kui ma neid ei näe, tunnen seda ebamugavat tunnet õhus kogunemas. Pidin kasutama oma köit ja isegi siinseid kive kraapima, et leida neist möödapääse, kuid isegi siis on siin lillad kivid, millel näib olevat sama mõju, lihtsalt teistes doosides.",
-        "Item2": "Sprites/noteDrawings/wasteland",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Üks teistest, kelle leidsin, kukkus neile lilladele kividele. Suutsin ta sealt ära tõmmata, kuid meil mõlemal koorub nahk maha. Ma ei tea, mis toimub. <>\n\n\n\n\nSõin ühe neist popsivatest viljadest päästekapsli lähedal... asjad lakkasid valus olemast. Kuid kui nemad hammustasid ühte, hakkasid nad vaid minuteid hiljem verd oksendama. Nad ei hinga enam. Mis oli teisiti? Nad nägid samasugused välja. Kas mul lihtsalt vedas, et elus olen? Miks nad paremaks ei saanud?",
-        "Item2": "Sprites/noteDrawings/wasteland",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "Püstoli päästiku kõrval asuv nupp on salve vabastamine, samas kui pump-püssil on see tavaliselt kaitseriiv. Samuti igakord, kui tõmbad lukku (näiteks luku taha tõmbamisel), viskab see padrunipesas oleva padruni välja. Viimane kord kaotasin nii ühe haavli – üsna nutune.",
-        "Item2": "Sprites/noteDrawings/pistol",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "joogivesi on siin tõesti otsas ja ma ei usalda seda tõrvataolist kraami. mõned taimed siin all sisaldavad piisavalt vett et neid mahlaks pigistada kuigi maitse pole eriti meeldiv. see on siiski parem kui janus olemine.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "astusin täna jälle ühte neist neetud anduritest, see oli peidetud põõsasse. märkasin seda liiga hilja et jalga tagasi tõmmata.\n<>\nsee oli kohutav nagu oleks mind seestpoolt küpsetatud isegi pärast esialgset šokki. Külmad joogid tunduvad aitavat pidin ära jooma enamiku oma normi piimast ja veidi õunamahla pole kindel kas mu aju oleks ilma selleta ellu jäänud. Kõik tiirleb siiani vaevu suutsin oma kapslisse tagasi roomata.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "mul pole selles kõrbes oma pudelis enam vett järele jäänud. olin väga määrdunud ja janune. astusin loiku, mille leidsin, et sealt juua ja end pesta, ning siis muutis kogu mustus selle mudaseks. Ma ei saanud seda enam juua. oleksin pidanud oma pudeli sinna sisse viskama. vajan vett...",
-        "Item2": "Sprites/noteDrawings/waterbottle",
-        "Item3": "experiment"
-      }
-    ],
-    [
-      {
-        "Item1": "palju liiga külm siin all. peab andma oma parima et mitte märjaks saada muidu on suured mured kaelas. meie õnneks on siin palju neid kummalisi eostaimi mis annavad sooja koos nende imelike masinatega. Jookse nende vahel kui võimalik. Parem mitte jääda kinni pakaselisesse külma.",
-        "Item2": "Sprites/noteDrawings/xaloris",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "dune'il külm. kaevamine soojaks ei tee piisavalt soojaks. dune sööb karvast sõpra. sööb toorelt! dune'il on karv. karv soojas dune'i. dune täis ja soe. dune õnnelik pole külm.",
-        "Item2": "",
-        "Item3": "dune"
-      },
-      {
-        "Item1": "siin all on külm pean pidevalt päästekapslitesse pugema et sooja saada... kuigi mõnikord on siin väikesed sumisevad ahjud mille juures saan peatuda et end soojendada. pean lihtsalt olema ettevaatlik et neid liiga kaua ei puudutaks need teevad haigeks. piisavalt et soojeneda ja siis edasi liikuda. kui ma oleksin sinu asemel siis mängiksin kindla peale ja vaataksin ette kõige suhtes mis minu poole kaevab kui ma puhkan. ma kuulen kuidas asjad minu ümber tunnelit kaevavad.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ma ei arvanud et see koletis mind uuesti leiab kuid ta leidis. ta teadis mu nägu mu vigu... kuid mitte mu vintpüssi. kui ta lõpuks lõhki rebenes, nägin seda kirkast. nägin graveeringut, mille ma sinna sisse kraapisin täpselt sama mis nemad minu kirkasse kraapisid. nägin täket sellest kui nad üritasid mulle titaani kinkida. ja siis järsku nägin seda uuesti juhtumas. krigiseva terase lõhn. maa värinad. puruneva liha heli. higi ja vere maitse kui üritasin põgeneda, pillates maha toidu mida tõin tagasi kapslisse-\n<>\nkas ma peaksin nüüd kergendust tundma? või kaublen lihtsalt rahu nimel mis puruneb uuesti kui keegi mind leiab?",
-        "Item2": "Sprites/noteDrawings/thornback",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Tahan sellest kohast lahkuda, olen terrori küüsis, mul pole sõnu kirjeldamaks, mida ma just kogesin — see oli suur, kohutav olend sadade hammastega, valmis mind alla neelama, ta jahtis mind tundide kaupa, hävitab kõike oma teel. Ta peatus alles siis, kui olin läinud nii kaugele, et olin täiesti eksinud. See kurnas mu toidu, vee, tööriistad ja isegi mõistuse — tahan, et see lõpeks.",
-        "Item2": "Sprites/noteDrawings/thornback",
-        "Item3": "milky"
-      }
-    ],
-    [
-      {
-        "Item1": "On kummaline, kuidas siin vihma sajab. Ma pole kunagi varem päris vihma näinud... See on üsna ilus, isegi kui see on ebahügieeniline. Imestan siiani, kuidas on võimalik, et siin all on nii suur veekontsentratsioon. Vahest tilgub vesi ülalolevast jääkihist siia alla?",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "leidsin mõned kummalised põrkavad asjad. need saatsid mind lendu... kuid suutsin hoida jalad allapoole suunatud. see on üsna lõbus. vahest võiks sellest mõnikord kasu olla. võib-olla veidi ohtlik kuid mis siin all ei oleks.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Ma ei tea, mis mind tabas, kuid ma ei tunne enam oma jalga, näen ainult lihaste, luude ja vere sassis hunnikut.\nMu keha karjub, et see piin lõppeks.\nAinus asi, mis mul on, on see sinine seade mu rinnas. Kaupmees, kellelt selle ostsin, ütles, et seda peaks kasutama ainult hädaolukorras.\nValu pole enam talumatu, kuid tuli vilgub nüüd. Ma ei tea, kui palju aega mul on jäänud. Kas pimedus naaseb, kui see seade tühjaks saab? Ma ei taha hääbuda...",
-        "Item2": "",
-        "Item3": "milky"
-      }
-    ],
-    [
-      {
-        "Item1": "On kummaline, kuidas siin sajab. Ma pole kunagi päris vihma näinud... See on üsna ilus, isegi kui see mind läbi kastab. Mulle meeldivad tilgad — nad kõlavad kenasti.",
-        "Item2": "",
-        "Item3": "milky"
-      },
-      {
-        "Item1": "leidsin kummaliseid põrkavaid asju. nad saatsid mind lendu... kuid suutsin jalad allapoole hoida. üsna mugav tegelikult. võib-olla kasulik liikumiseks?",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "Ma ei tea, mis mind tabas, kuid ma ei tunne enam oma jalga, näen ainult lihaste ja luude sassis kuhja, veri on kõikjal, ma ei suuda selle peale vaadata — aitan mind keegi palun, mind ei kuule keegi.",
-        "Item2": "",
-        "Item3": "milky"
-      }
-    ],
-    [
-      {
-        "Item1": "igal viimasel kui ühel neist kasvudest siin näib olevat mingisugune efekt... ma ei tea, mis täpselt. see on ettearvamatu. kuid selles on oma mustrid. mõned on ohutud mõned mitte mõned on kasulikud. Üritan asju kirja panna kui neist aru saan...",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "..ugh. olgu. kollased teevad HAIGET. tundub mõnevõrra sarnane anduritega mis leidsin paar tundi tagasi... nende ümber on tavaliselt mingi imelik särisev väli... ära puuduta neid. see pole hea. su keha jaoks vähemalt. märkasin et see laadis pärast puudutamist millegipärast kõik mu akud täis...",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "see geigeri loendur mis mul on läheb täiesti hulluks kui olen ühe rohelise kasvu lähedal. mingit sorti \"kiirgus\" mis iganes see ka poleks. olen üsna kindel et see on halb. väldi nende lähedal olemist kui suudad.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "märkasin, et mõned neist on kummaliselt haprad. nad purunevad, kui ma neid üldse puudutan. näed, et nad näevad väga rabedad välja pragusid täis. kummalisel kombel näib see ilmuvat koos teiste tüüpidega mida olen näinud... huvitav kas see on nii kõigi puhul.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "märkasin et paljud kasvud kas lükkavad mind eemale või tõmbavad mind sisse. Tunned mingit jõudu endas kui see juhtub. võib mõnikord kasulikuks osutuda.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "oh taevas. mul on NII hea meel et mul oli jääkott kaasas. tundub et udused säravad kasvud kuumutavad kiiresti asju enda ümber... kaasa arvatud mind. ma ei oleks üllatunud kui mõned teeksid vastupidist. kuulsin neist ka seda kummalist heli tulemas...",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "veendu et sul on mõned antibiootikumid vms kaasas. arvan et lillad kasvud rikuvad su immuunsüsteemi. nende ümber on õrn lilla udu... istusin ühe kõrval mõnda aega et puhata ja märkasin oma elunäitajate langust kiibil. tundub nagu mingi sepsise reaktsioon. arvan et saan korda.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "olgu. värisevad näevad tõesti hirmutavad välja... nad pole seda. nad saadavad sind lendu... kuid ma suudan hoida jalad allapoole suunatud kogu selle aja. üsna sarnane põrkavate asjadega eelmises piirkonnas kus olin.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "...\n<>...\n<>...\n<>lendavad asjad. ma ei tea kuidas nad seda tegid. püha jumal... ma olen nüüd okei aga... <>\nkuidas seda öelda... seal on kummalised teravad lendavad asjad. nad teevad väga imelikke valjusid hääli... peaaegu nagu nad naeraksid mu üle. nad tõmbuvad mõnikord kokku ja tormavad mu poole üritades mind pussitada. nad said mind korra või kaks kätte kuid... alati kui nad seda tegid jäid nad maasse kinni ja ma lõin neid paar korda kuni see... ee... pole kindel... mis juhtus kuid see oli kadunud. arvan et see tuli ühest kasvust kuid see liikus omamoodi. <>\nsain midagi pärast selle kadumist... vahest on see kasulik? tundub nagu see kasvaks millekski ootan ja vaatan.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "olgu. head ja halvad uudised. asi mida ma hoidsin pärast ühe lendava asja tapmist... see... kasvas. rohkemaks lendavateks asjadeks. kaheks neist... ühest... nad tundusid grupis olles aga aeglasemad... nagu nad... annaksid mulle võimaluse tagasi võidelda? kummaline. <>\nsõin tuumad mis neilt sain mul polnud muid ideid mida sellega teha... see oli. päris hea tegelikult. ja tundub et see ei muteerunud sel korral millekski. vahest võiksin seda teha aeg-ajalt et saada üha rohkem toitu? ma ei leia siit all niikuinii eriti midagi muud.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "pole õrna aimugi kus ma olen. arvan et puudutasin imelikku kasvu ja mind... saadeti. kuhugi. ohutult küll. siiski pole õrna aimugi kuhu. mäletan ainult et see nägi välja veidi läbipaistvam kui tavaliselt. peaaegu nagu oleksin näinud kohta kuhu ma sattusin...",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "märkasin et paljud neist asjadest tilgutavad vedelikke. tundub et nad ei tee midagi muud. veeallikas vahest?",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "puudutasin halli kasvu, see sähvis valgelt tegi imelikku häält. Ei tundnud pärast seda suurt midagi... kuni proovisin oma laserpuuri kasutada. seade oli täiesti tühi kuigi olin kindel et see polnud nii hetk tagasi. kontrollisin ülejäänud akusid mis olin säästnud sama lugu. imelik. väldi. võib-olla tasub end visata ühe säriseva otsa et neid laadida...",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "silmad valutavad. olen ühe üli-üliheleeda kasvu kõrval. ei tundu et see teeks midagi muud peale... noh... minu pimestamise. mulle ei meeldi see kuid eelistasin seda kõigele muule, mida nad teha suudavad.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "punakad plahvatavad. jookse, kui see hakkab tiksuma. ma olen okei... jumal, ma kindlalt peaaegu ei olnud.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "leidsin imeliku udulaadse kasvu. puudutasin seda ja ma ei näinud mõnda aega midagi... kuid kui silmad avasin nägin enda ees lebamas mõnda köit ja kotti. kasv oli kadunud. ma ei saa kaevata. ei tundu et see oleks midagi muud teinud.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "võid puudutada rohelisi. need on head. mulle meeldis see väga. hehe. ee. mitte need geigeri loendurit aktiveerivad rohelised. head näivad veidi üles põrkavat. oh... ee... ah... mulle meeldis roheline väga. mulle meeldib roheline. sa võid seda puudutada. mulle meeldib roheline.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "leidsin põleva kasvu. puudutasin seda uudishimust. ära tee seda. see oli kuum.",
-        "Item2": "",
-        "Item3": "experiment"
-      },
-      {
-        "Item1": "ah. kõndisin ühel kasvul ja see nägi normaalne välja kuid äkki tegi häält ja muutus teistsuguseks. nagu. ta vahetas kohta? imelik.",
-        "Item2": "",
-        "Item3": "experiment"
+        "notes": [
+                [
+                        {
+                                "Item1": "see on kohutav. siin on nii palju korjuseid... mul on hirm. miks nad saatsid meid siia nii palju? ma ei saa aru. ma tõesti ei saa aru. nad lõid mind mingi noolega minetusse ja sundisid kapslisse, et siia saata. ma vihkan seda planeeti.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Küsisin teistelt meie kehalise seisundi mõistuses nägemise võime kohta ning selgub, et see on omane peaaegu kõigile siin. Üsna huvitav – seda polnud me kunagi kodustes tingimustes suutnud teha. Kas meisse on midagi implanteeritud? Kellelgi meie seast pole nähtavaid lisandeid. Olen ka märganud, et väga vähestel siin see kogemus puudub, nagu neil puuduks see, mis meile selle võimaldab. Kummaline.",
+                                "Item2": "Sprites/noteDrawings/puppet",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "ma jään aina kergemaks. pean rohkem sööma et vormi hoida. kogu see jooksmine kulutab kaloreid väga kiiresti. arvan et pean sagedamini kõhtu täis sööma.",
+                                "Item2": "Sprites/noteDrawings/underweight",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "see on kohutav. see on kuradi kohutav. ma ei suuda enam. see on surmamisioon. loobu kogu lootusest. sellel pole mõtet",
+                                "Item2": "Sprites/noteDrawings/x",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "ma ei saa aru miks me siin oleme. milleks? tean et pean tooma mingi aku või midagi sellist. arvan et teistel on sama missioon. kas pole loogiliselt mõeldes efektiivsemaid viise. miks saata meid siia. igatsen oma sõpru. ma ei taha surra.",
+                                "Item2": "Sprites/noteDrawings/alone",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "kukkusin alla. halvasti. mu jalg on puruks tehtud. see on tõesti halb. igasugune liikumine on valulik. vajan selleks valuvaigisteid.",
+                                "Item2": "Sprites/noteDrawings/brokenleg",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "kuulsin juhuslikult kuidas meie vangistajad nimetasid meid muteerunud \"inimese, rebase ja roti\" seguks, mida see iganes tähendab. kui palju varjatakse meie eest? info mõttes? see mõte hirmutab mind. pole kunagi mõelnud et on midagi peale selle koha kus meid kasvatati. ja nüüd olen siin. ma ei suuda seda kõike hoomata.\n(Paberil on midagi mis näeb välja nagu omatehtud portree.)",
+                                "Item2": "Sprites/noteDrawings/experiment",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Olen avastanud, et joonistamine on hea põgenemine olukorrast, millesse olen sattunud. Näib, et me kõik võitleme omal moel oma vaimse seisundiga. Mõnikord on tore saada karmist tegelikkusest tähelepanu kõrvale juhtida.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Vangistajad saavad selle, mida nad väärivad.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "planeet hea .  sööb palju head liha .  dune õnnelik\n(Suudad eristada midagi mis näeb välja nagu väga halvasti tehtud portree.)",
+                                "Item2": "Sprites/noteDrawings/dune",
+                                "Item3": "dune"
+                        },
+                        {
+                                "Item1": "Liikide jaotus siin näib väga ebaproportsionaalsena. Katsealuseid on kõikjal, kuid teisi liike, nagu meie oma, näib olevat palju vähem. Kummaline... Igal juhul ei meeldi mulle siin ohvrite hulk. Rohkemaid meie seast tuleks aidata.",
+                                "Item2": "Sprites/noteDrawings/milky",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Tegin pärast valusat juhtumit eneseuuringu, mille käigus märkasin nahal tumedat sõlmelist muhku. See oli ebakorrapärase kujuga ning kummalise mitmevärvilise ja kireva välimusega. Hindasin selle läbimõõduks ligikaudu kaheksa millimeetrit. Lähema uurimise käigus leidsin mitmeid rohkem eri kohtades oma kehal. Kirjutasin nooremale sõbrale – neil polnud ühtegi, kuid vanemale sõbrale oli palju rohkem. Kas peaksin jälgima selle potentsiaalse pahaloomu arengut?",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "ma ei tahtnud seda teha. neil oli rinnadrenaaž. mida ma oleksin saanud teha? uppuda oma verre? mul oli ainult üks pulk dünamiiti... kui ma kas või kodus kuulaksin treeningraadiot, annaksin kõik. see ei ole minu süü. see ei ole minu süü.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "ma armastan seda kohta! kohtun ikka uute olenditega, nad on nii armsad! siin on nii palju lahedaid asju! ma ei lähe kunagi laborisse tagasi, elagu koobas!",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "dune armastab sõpra maitsma .  kõik sõber maitsevad erinevalt .  tume karvane sõber on jäik .  hele karvane sõber on näritav .  milline dune maitseb ?",
+                                "Item2": "",
+                                "Item3": "dune"
+                        },
+                        {
+                                "Item1": "teiste kallistamine teeb mind õnnelikumaks... aga mõned ellujäänud keelduvad kallistustest, arvan et neid saab kuidagi rahustada. ka nende kõrval magamine on palju parem kui külmal põrandal üksi.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Igaühele, kes selle leiab: nad saavad ja hakkavad sind kontrollima, isegi selles põrgus. Ilma eelneva hoiatuseta hakkasin kuulma valjut alarmi enda sees, nägin sõnumit \"SÜGAVUS EBARAHULDAV\" punaste vilkuvate tuledega, mis ilmusid mu vaatevälja nurka.\n\nHakkasin jooksma, paanikasse sattunud, teadmata miks nad seda teeksid. Alles pärast teise koobastevõrgustiku piirkonda jõudmist see lakkas. Nad teavad, kui palju aega siin veedad, nad teavad, et hirmutad, ja nad tahavad, et sa sureksid. See on massiline genotsiid.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "leidsin relva. tulirelva. issand... ma ei ole selle asjaga harjunud... oleksin pidanud treeningatel ettevaatlikum olema... mul pole aimugi kuidas mind siia saadeti nii ettevalmistamata selle asemel et mind hävitada. lasksin peaaegu kellegi kogemata maha. oleksin pidanud relvaohutuse sisse lülitama... kust ma peaksin teadma. teised kipuvad tõesti paanitsema kui nad näevad sind relva käes hoidmas. nii et võib-olla on parim see kellegi sisse panna et nad seda ei näeks. nad arvavad et tulistaksid neid, nad ei tea su kavatsusi. no ma mõtleksin sama kui keegi mulle relva osutaks.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "olen nii vihane enda peale et käitusin seal ülal teistega nii lollilt... nüüd ajavad kõik ellujäänud keda leian mind oma kapslitest eemale... mees, kui teaksid kui kõvasti nad vandusid... nad üritasid mind kriimustada... ja ma lihtsalt ütlen endale: \"okei, vabandust. jumala pärast, kas te mõistate et praegu loeb iga elu? pole ruumi üksteise haavatamiseks ja tapmiseks.\". soovin et oleksin parem inimene... see on minu enda süü.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "ära alati usalda ringi lebavaid vedelikuvaate. sain kätte suure minivaadi millest arvasin et on limonaad, aga üks kibe lonks piisas et teada saada et see polnud. proovisin teise veevadiga alla pesta, aga vesi tegi mu väga haigeks ja mu juuksed hakkasid välja langema",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "täna leidsin mõned veidrad metallist purgid millelt sildid olid ära rebitud. ei suutnud aru saada mis see oli ja vedelik oli liiga paks välja valamiseks, aga see on üllatavalt täitev, tunnen nagu oleksin just söönud maitsva steiki... olen nii unine. olen peaaegu järgmist purki joomas, armastan neid purke!\n(Paberi allosa on kaetud millegi sellisega mis näeb välja nagu must tükike sisu on peale pritsitud.)",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "see võib olla imelik öelda aga olen selle olukorraga leppinud. olen proovinud enda eest võimalikult palju hoolitseda ja lohutada kõiki teisi keda olen siin all kohanud. see paneb mind tundma... rahulolekut? kuigi olen palju viga saanud olen suutnud sellega toime tulla ilma alla andmata.\nproovin jõuda nii kaugele kui suudan, ja kuigi tõenäoliselt ei jõua lõpuni, tean et tegin oma parima ja aitasin nii palju teisi kui suutsin. see on kõik mida ükskõik meie seast saab teha.\nkui sa seda loed, ära anna alla, okei?",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "olen viimasel ajal üha rohkem näinud neid purunenud laskumiskapsleid, midagi sarnast nendele millega nad meid siia saatsid, ainult et need kõik on kuidagi plahvatanud <>\nvrakiste sees leian tavaliselt mingit laskemoona koos vastiku lihapalliga? \n<>\nsee näeb kohutav välja aga võib olla söödav???\nsee dune isik keda varem kohtusin ütles et see on hea süüa\nvõiksin proovida veidi süüa\n<>\n\nsõin seda ja oksendasin kakskümmend minutit järjest sisikonda välja, halvim viga minu elus <>\njumala nimel, ära söö seda mis iganes see on",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "mul on ikka sama unenägu. mul on suured tiivad ja lendan üles ja üles ja üles. miski ei suuda mind peatada. purdustan end läbi nende koopte lagede välja maailma. seal on ilus aga lennandan edasi. jätan kõik maha kuni ei ole muud kui tohutu tühjus. siis saan lõpuks aru. olen turvaline. olen vaba.\n\niga kord kui ärkan, ei suuda nutmist lõpetada. soovin et saaksin igavesti unistada.\n\n(On pisaratega plekitatud joonistus väga ebatäpsetest tiibadest.)",
+                                "Item2": "Sprites/noteDrawings/wings",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "kas teadlased näevad mind siin tõesti? nad tahtsid alati et ütleksin valjusti mida mõtlen, aga siin räägin lihtsalt iseendaga. arvan et mul on vabadus lõpetada, aga... see tundub teraapiline. kui ma hakkama ei saa, äkki vähemalt need märkmed saavad.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "ma ei saanud aru kui halvaks oli läinud kuni proovisin uuesti kaevata ja mu küüned lihtsalt... kriimustasid. enam ei hakanud kinni. olen lakkamatult kivisse küüntega kaevanud isegi mõtlemata. tundsin end alasti. selgub et liha ei asenda tööriistu.\n<>\narvasin alati et vajan igaks asjaks kirvest. aga sain aru et mu mačete sobib hästi kergemate asjade jaoks. muld, taimed, liiv, see lõikab läbi. hoiab kätele palju valu ära.\n<>\nleidsin pudeli millel oli kiri keratiinitõstja. tundub et nad planeerisid meie osade lagunemist. võtsin lonksu. mõne aja pärast hakkasid vanad kihid kooruma nagu karv. all olid need teravamad. tugevamad. oli imelikult rahuldav vaadata kulunud osade koorumist. mulle meeldib kuidas mu küüned aitavad seini paremini haarduda\n<>\nmäletasin inimesi. neil olid küüned igal sõrmel. kõigil. ühtegi küürist polnud. tundus nii vale lähemalt vaadates. pehmed. tömbid. imelik kuidas nad selliste kätega hakkama said.\n<>\narvasin kunagi et see tegi nad nõrgaks.\n<>\nnüüd imestan kas see oli mõeldud nii.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "See on täis igasuguseid väikseid olevikuid, kes pidevalt kõikjal ringi hulkuvad. Olen pisut patsifist, seega proovin neist eemale joosta pigem kui nendega võidelda, kuna ei tea, kes kelle kõigepealt tapab... Lõppkokkuvõttes on haavad, mida nad mulle jätavad, kuradi valusad... Ma ei tea enam... Kas meie vangistajad üldse teavad, mida me siin all läbi elame?",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Kukkusin halvasti. TÕESTI halvasti. Otse auku ja vigastustega ei suutnud ronida ega välja kaevata. Aga pääsesin välja nende metallijäätmetükkidega ning tahan seda ka teistele teada anda.\n\nSee on koopa seinad! Midagi, mida olen leidnud – isegi dünamiit – näib suutmatu koopate välispiire läbistada. Kuid need on ebaühtlased, ja kui laduda piisavalt metallijäätmetükke üksteise otsa, saad need väikestesse pragudesse suruda ja teha täieliku jalajao. Kui ma selles pimedas augus välja veritsesin, kasutasin kogutud prügi omamoodi trepi tegemiseks, et pääseda ja leida hädavarusid.\n\nLoodan siiski, et sa kunagi sellesse olukorda ei satu. Ehk saaksid seda trikki kasutada vigastuste eest kaitsmiseks juba enne seda? Kes teab, millised muud vastikud asjad on meiega siin.\n\nEhk jõuad mulle järele ja saame jagada strateegiaid.\nLoodan, et olen seal sind kohtamas.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Tunnen end üksikuna... seega otsustasin end meelt lahutada:\nLeidsin mingi miniatuurse faksi, mida suutsin purustades avada, ja tõmbasin sealt paberilehed välja. Siis võtsin pulga ja pigistas ühe helendava vilja selle peale. See osutus justkui pintsel ja joonistuskangas! Kui vähemalt teaksite... Hakkasin joonistama alternatiivseid tegelikkusi, kus me oleme vabad ja elame rahulikult koos; ilma nende teadlastekaabakate... Tundsin end nii õnnelikuna ja nutsin veidi.\nAga nüüd pean minema: tunnen nälga! Ehk kui kohtume, joonistasin sind ka...? Sain \"pintslite\" kasutamisega tõesti heaks. Proovin ka teistele joonistamist õpetada...",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Ma pole eriti tugev, seega olen lootnud liituda teistega. Nii oleks meil palju suurem ellujäämisvõimalus, kuid keegi, keda olen küsinud, pole huvitatud. Kõik on hirmul ja mõned meie seast on ohtlikud. Seal on nii palju lõkse, et suurte rühmadega reisimine on võimatu. Tean, et suren täiesti lollakal põhjusel...\n\nInimesed on nii julmad. Ma ei suuda seda mõista.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "(Märkus on kortsu aetud ja kokku surutud, nagu oleks see pidanud ära visatama.)\n<>\nmu sõber nad... arvan et ta tappis ennast. pärast järjekordset halba kukkumist proovisin nende jalgu ravida aga nad ajasid mind aina eemale. nad ajasid mind minema nagu mingit kärbest, käskisid mind rahule jätta. ma ei saanud aru. läksin mõnda siinset taime tooma et neid siduda aga... kui tagasi tulin oli neil veel üks haav. ühel käsivarrel. mäletan ikka kuidas see välja nägi, see oli halb, praktiliselt rebitud lahti. proovisin leitud taimede abil uut haava ravida aga nad ajasid mind aina eemale. nende silmad olid... näisid lihtsalt... tühjad. käskisin neil lõpetada ja lasta mul aidata aga nad ei vastanud. proovisin paar korda veel aidata ja nad tõukasid mind eemale kuni nad lihtsalt... lakkasid. mäletan kuidas nende keha lõdvestus, arvan et siis nad lakkasid hingamast. ma ei suuda seda pilti peast saada...\n<>\nkas... kas ma tegin midagi valesti? vannun et ei teinud... mida ma valesti tegin? miks nad seda tegid? ma... ma ei teinud midagi. ma ei saa aru, ma ei taha surra... ma ei... ma...\n<>\n...\n<>\nhaha...\n<>\nsiin on nii üksik.\n<>\n(Märkad kortsus märkuse vahel õrnu kuivanud pisaratilku ja kuivanud verd.)",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "(Paberil on värvilised graafikad ning see ei näi olevat käsitsi kirjutatud)\n<>\nSupp! Proovige meie erilist potti – lihtsalt pange liha ja koostisained sisse ja laske podiseda. Ärge muretsege. Te nõustute, et see on oma maitselt väärt. Saab säilitada kuni 737 aastat!",
+                                "Item2": "",
+                                "Item3": ""
+                        }
+                ],
+                [
+                        {
+                                "Item1": "uuh, see koht on jube. mind hammustab pidevalt juhuslikke ämblikke mida ma ei jõua piisavalt kiiresti märgata. arvan et nad on mürgised, sest nad jätavad inetud nakatunud haavad... kuigi helendava taime viljad aitavad nende vastu küll",
+                                "Item2": "Sprites/noteDrawings/spider",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "asjad lähevad minu jaoks hästi. maitsev toit kõhus ja ehk üks-kaks seenisaba teeb mind õnnelikuks. ka kauplejad naeratavad mulle vastu! vihkan ainult kuidas enda veritsemist näha, see hirmutab mind",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "mulle ei meeldi mitte teada mida teha. kodus ütlesid nad mulle alati. mängi seda mängu, ole vaikne kui inimene räägib, lase nende teravaid asju sisse torgata.\nnüüd pean selle missiooniga hakkama saama aga ma ei tea kuidas. olen janune ja haiget saanud jalasse aga olen ka väga räpane ja külm ning mul pole aimugi kuhu minna peale alla.\narvan et proovin lõpetada selle mis kõige kiiremini tapab. loodan et see töötab.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "punased vilkuvad tuled pimedas on ogalõksud. jälgi neid. palun. palun. keegi astus ühele kauguses, kuulsin ainult aiget ja siis vaikust. püsi turvalisena",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "siin on külm. nii külm. palju külmem kui meie eelmine kodu. ausalt, mulle meeldib see. vannitsemine basseinides tundub tore, see on värskendav. mulle meeldib see puhkus",
+                                "Item2": "Sprites/noteDrawings/pool",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "kohtasin kellegi, leppisime kokku et proovime pinnale minna läbi ühe neist aukudest välisusse. mu sõber astus esimesena välja, ja kohe hakkasid nad rabisema šokist. nad näisid suures valu. nad oksendasid palju, siis kukkusid kokku ja lakkasid varsti hingamast. nende nahk hakkas ka villima, eriti pea ja kaela ümber. miski takistab meil lahkumast. mul on hirm.",
+                                "Item2": "Sprites/noteDrawings/radiation",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Märjaks saamine näib olevat üsna ohtlik, kui pole ettevaatlik. Temperatuur siin on palju madalam kui meil kodus, ja näib, et liiga kaua läbimärjana olemine võib meid hüpotermilisse seisundisse viia. Proovi soojaks saamiseks füüsilist harjutust teha, olen avastanud, et see aitab.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "pean tõesti lõpetama oma tulede kaotamise. mis iganes sobib, isegi need veidrad helendavad taimedukesed. jätan ja unustan need pidevalt, siis komistan ja saan kogemata viga. pole hea.",
+                                "Item2": "Sprites/noteDrawings/glowplant",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "valgus on siin väärtuslik ressurss, eriti kui läheme sügavamale ja on pimedamalt. ei taha kogemata lõksule astuda. ämbliku korjuse ja helendava taime tükkide abil saan teha pealambi et käed jääksid vabaks. hädaolukorras näivad kapslitest pärit lambid töötavat tühjal patareil ja saab suhtelise kergusega maha murda, mis küll ärritab kapsli omanikku",
+                                "Item2": "Sprites/noteDrawings/lightbulb",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "siin on palju kapsleid just nagu see milles ärkasin. ronin ühe akna kaudu sisse aga astusin katkiläinud klaasile. pidin olema väga ettevaatlik aga tõmbasin selle käpast välja. pean tagama et järgmine kord seljaklaasid ära koristand.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Inimesed teevad imelikke asju. Nende heatahtlikkust ei tohiks kunagi usaldada.\nKuid saad usaldada seda, et nad hoiavad sind elus.<>\nMurrasin kord käe ja nad panid selle \"kipsi.\" Mulle ei meeldinud see. See oli raske ja peatas käe liikumise täielikult. Näis, et nad tegid selle meelega halvemaks, ja panid mind seda kaua kandma.<>\nÜhel päeval võtsid nad selle ära ja mu käsi oli korras.<>\nInimesed tegid selle halvemaks, et see saaks paremaks.<>\n\nArvan, et nad tegid midagi sarnast Hüppaja pea jaoks.\nHüppaja karjus ja nuttis palju. Ühel korral tegid nad enda haiget ja inimesed viisid nad ära.<>\nHüppaja on nüüd tagasi. Nad ei nuta enam. Nad ei räägi. Nad näivad kogu aeg unine. Nende pea on selline nagu mu käsi kunagi oli. Ma ei näe nende ümber ühtegi \"kipsi\", ja nende käitumine teeb mulle muret, kuid vähemalt nad ei tee enda haiget enam. Loodan, et inimesed kõrvaldavad selle, mida nad tegid, kui Hüppaja pea on paranenud.<>\n\nIgatsen neid.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        }
+                ],
+                [
+                        {
+                                "Item1": "ilmselt neid kaste nende veidrate arvutitega kõrval saab avada kui valad neile veidi punast verd. see peab olema just punane veri, muidu ei tööta. sees on mõned kastid, saad neid avada ja asju kaasa võtta. kasulik.",
+                                "Item2": "Sprites/noteDrawings/bloodbag",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Uurides siin leitud erineva värvusega verekottide keemilist koostist, näivad need oma koostiselt märkimisväärselt erinevad. Punane veri on täiesti erinev meie omast ja siin elavate olendite verest. See näib olevat mingi põhjuse tõttu mõnevõrra metalliline koostiselt, kui kummaline. Parem mitte kasutada seda enda peal.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "(Seal on halvasti tehtud joonistus millest näib olevat üks teie vangistajaid. Nad hoiavad midagi mida saate aru taserina. Nende nägu on kratsitud suure X-iga. Relv toob tagasi kohutavad mälestused.)",
+                                "Item2": "Sprites/noteDrawings/scientist",
+                                "Item3": ""
+                        },
+                        {
+                                "Item1": "uppusin peaaegu just hetk tagasi. pole kunagi varem ujunud ja see on väga kurnav. on raske end pinna kohal hoida kui olen väsinud. kujutan ette et igavesti uppumine on üsna valulik... ole ettevaatlik.",
+                                "Item2": "Sprites/noteDrawings/drown",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "kuulsin juhuslikult natuke meie vangistajatelt, ilmselt on kaup mida peame hankima mingi \"edasijõudnud energiaallikas\". midagi suure koguse võimsuse salvestamise ja \"juhtmevabalt\" jagamise kohta. ma ei tea mida see enamasti tähendab aga võib-olla on kasulik teada. püsi turvalisena",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Leidsin hiljuti mingi puuriga sarnase asja, kuid sellest puuduvad mõned osad. Ma ei suuda aru saada, mida see vajab, peale katvuse paneeli kõigi mehhanismide jaoks... Võiks osutuda kasulikuks, kui suudaksin selle töökorda saada.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Uudishimulikult proovisin roomates liikuda.\n<>\nKasulikkus oli ootamatu. Mitte ainult ei võimalda see madalates lompaudes saasteaineid maha loputada ja kitsaste lünkade kaudu pressida, vaid ka laiali pillutatud klaasikildude peale roomamine ei põhjustanud vigastusi.\n<>\nSiiski on enesega rahulolu ohtlik. Hindasin kerge languse valesti ja sain viga.\n<>\nNiimoodi liikumine... Pean olema näinud täpselt selline nagu üks neist \"ussidest\", mida kuulnud olen.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "helendav vesi maitseb halvasti",
+                                "Item2": "",
+                                "Item3": "dune"
+                        },
+                        {
+                                "Item1": "Valus tunnistada, kuid minu liigi haprust ei saa eitada. Õnneks olen leidnud imepärase konteineri, mis tühistab täielikult enamiku esemete kaalu, võimaldades mul kanda rohkem tarvikuid kui tavaliselt suudaksin.\nSee töötab patareidel ja see teeb mulle muret. Ma ei tea, mis juhtub, kui vool otsa saab, seega vaatan seda nüüd, turvalisuse huvides.<>\nMa ei taha, et see hüppe keskel raskeks muutuks. Mul on peaaegu tühi patarei.\nAeg näha, kuidas kott käitub, kui selle vool otsa saab.\n\n(Ülejäänud märkus on loetamatu; alla kirjutatu on kaetud rikkalikult kuivanud verega.)",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Pole veel sellest kivises põrgust välja pääsenud, ja juba tunnen et surm on lähedal,\nKõik mida mulle anti oli sitane tõrvik mis ei kestnud isegi tundi; isegi mingeid ohutusvarustust ei antud nende kukkumiste leevendamiseks mida olen kogenud.\n\nKURAT, tunnen end nagu pall ühest neist hasartmängumasinatest, mida nägin inimesi kasutamas!\n\nArvan et suren aeglaselt, alates viimasest kukkumisest on pea tundunud üsna raske, tunnen end väsinuna; aga tunnen et kui magan, suren.\n\nJumal päästa mind.\nKURAT, mees.\nMa tõesti ei taha surra, mitte niimoodi..\nKuid mis mõte sellel kõigel üldse on?\nMul pole isegi enda jaoks nime, ainult silt..\nKurat...",
+                                "Item2": "",
+                                "Item3": "milky"
+                        }
+                ],
+                [
+                        {
+                                "Item1": "uuh. siin on nii kuum. pean tõesti oma liigutusi hajutama ja olema ettevaatlik et kuumast tuimaks ei langeks. olen avastanud et siin olevates vesilompides kastmine aitab... ehk isegi pruunides kui on meeleheitlik.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "ma ei suuda enam. miks.\nkõik on surnud\nma ei suuda.\ntahan et see lõpeks\nma ei suuda\ntahan vabadust\nmiks\nei suuda. ma ei taha enam midagi sellist näha. olen liiga palju halbu asju näinud. ma olen nii haige.\nmu jalg on läbi. lendas miiniga\nmu käsi, parem, tapab ka mind tõesti raskelt\ntahan kõigele lõpu teha\nkõik on viletsus\nma ei suuda enam\nvarsti kistan mu arteri välja ja muutun järjekordseks korjuseks mida vaadata - niikaua kui nad mind pole ära söönud kui kohale jõuad.\n\ntänan kõige eest. hüvasti",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Piirkonnas laiali olevad viinamarjaköied on üllatavalt ronitavad. Õhukesemad vähem nii, kuid suuri saad kasutada looduslike redelitena. Päästis mind kindlasti mõne murrunud jala eest.",
+                                "Item2": "Sprites/noteDrawings/sandvine",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Täna juhtus mulle ukse peale, mille avamine sõltus mingite metallijäätmete sisestamisest. Mul polnud neid kaasas; kuid õnneks oli mul laserpuur, mis tegi kiire töö ümbritsevate seintega. Seest sain elektroonilise seadme, millele oli salvestatud mõningane peen muusika. Kuulan seda aeg-ajalt.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Selle planeedi naftabasseinid on kindlasti ebaloomulikud. Püüdes mõista nende päritolu, roomasin läbi ühe tühja toru, et leida karm metallist võrk, mis peatas minu edasiliikumise.\nSelle taga oli silt, millel seisis \"Jäätmete Kõrvaldamise Allikas\". Puurisin läbi toru, et võrku minna ümber, kuid toru lõppes järsku. See peab olema ühendatud millegagi meie vanast kodust, kuid ma ei mõista kuidas.\n\nSee silt teeb mulle ikka muret. Kas inimesed tahtsid ka meid kõrvaldada?",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "näeb kurja olendit... oranž kuri olend... olend tahab dune'i süüa!   aga dune võitleb vastu.   dune tapab ja sööb kurja olendit!   olend väga maitsev!",
+                                "Item2": "Sprites/noteDrawings/wallbiter",
+                                "Item3": "dune"
+                        },
+                        {
+                                "Item1": "siin on massiliselt põõsaid, kuigi ei saa öelda et oleksin näinud ühtegi mis on elus. arvan et need on päris kasulikud köite valmistamiseks ja kukkumiste pehmendamiseks, aga need kipuvad ka lõkse peitma...",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "siin all on nii kuum. tunnen et torman lihtsalt elukapslist elukapsli. ma ei taha isegi laskumiskapsleid avada, need kuumutavad mind ka. aga mu dune sõber stimpy ei näi liiga palju hoolimata. kas nad lihtsalt ei kurda, või jahutab see kõik nahk neid?",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "aidake mind    astusin peale   plahvatusplaadile   mul on nii palju   valu  aidake    aidake mind  palun   ma lähen ä r a    o",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "kuulen helinat.. mu pea valutab nii, nii palju, kuulsin valjut piiksumiset kui langesin veidi allapoole ja siis oli see vali paugatus     ma ei tea kust see tuli . ma ei näe nii palju edasi aga nendes koopastes on midagi väga ohtlikku, ole ettevaatlik suurte avatud ruumidega",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        }
+                ],
+                [
+                        {
+                                "Item1": "Selles piirkonnas näib olevat palju radioaktiivset jäätmeid. Kuigi see muudab orienteerumise raskemaks, peaksime meeles pidama, et saame võtta lühikesi ioniseeriva kiirguse doose ilma suuremate probleemideta, niikaua kui kokkupuude ei kesta liiga kaua. Olen kuulnud, et meil on juba vähki täis.",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Siin on keskkonnaga midagi valesti. Õhus tunnetan seda – need lagunevad kütuserakud teevad mu karva püsti tõusta. Mu nahk ketendab nende läbides ja mu keha põleb. Isegi kui ma neid ei näe, tunnen seda rahutut aistingut nende ümber kogunevas õhus. Olen pidanud kasutama oma köierullikut ja isegi küüntega läbi kivide raiumist siit teede leidmiseks nende ümbert, kuid isegi siis on purpurseid kive, mis näivad sama mõju kandvat, lihtsalt erinevates annustes.",
+                                "Item2": "Sprites/noteDrawings/wasteland",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "üks neist teistest keda leidsin kukkus hunniku nende purpursete kivide peale. suutsin nad ära tõmmata aga mõlema meie karv langeb. ma ei tea mis toimub.<>\n\n\n\n\nsõin ühe neist mõrahelevast puuviljadest elukapsli juures… asjad lakkasid valutamast. aga kui nad selle sisse hammustas hakkasid nad mõne minuti pärast verd oksendama. nad ei hinga. mis oli teisiti? nad näisid ühesugused. kas olen lihtsalt vedanud et olen elus? miks nad ei paranenud.",
+                                "Item2": "Sprites/noteDrawings/wasteland",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "Päästiku kõrval olev nupp püstolil on salvelukuvabastus, samas kui kahurpüssil on see tavaliselt turvaseade. Samuti, iga kord kui tegutsed (nagu tõmbad poldikut), väljutab see kambris oleva padruniümbruse. Viimane kord kui seda tegin, kaosin haavliku – üsna õnnetu.",
+                                "Item2": "Sprites/noteDrawings/pistol",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "joogivett on siin tõesti vähe, ja ma ei arva et see tõrvataoline asi on ohutu. mõnel siin olevatest taimestikust on piisavalt veesisaldust et pigistada mahlaks, kuigi maitse pole eriti meeldiv. aga see on parem kui olla janune",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "astusin täna jälle ühte neist neetud mähistest, see oli peidus põõsas, märkasin seda liiga hilja et tagasi tõmmata.\n<>\nsee oli kohutav, nagu oleksin seest küpsetatud, isegi pärast esialgset šokki. külmad joogid aitavad aga, pidin jooma enamiku oma normeeritud piimast, ja natuke õunamahla, pole kindel kas mu aju oleks ilmata ellu jäänud. kõik keerutab ikka, suutsin vaevalt oma kapslisse tagasi jõuda.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "mul pole selles kõrbes enam pudelis vett. olin väga räpane ja janune. astusin leitud lompa et juua ja pesta, siis muutis kogu mustus selle häguseks. ma ei saanud enam juua. oleksin pidanud oma pudeli sisse loopima. vajan vett...",
+                                "Item2": "Sprites/noteDrawings/waterbottle",
+                                "Item3": "experiment"
+                        }
+                ],
+                [
+                        {
+                                "Item1": "dune näeb suurt koletist. motiveeritud tapma      dune jahtis koletist ja tapab ja sööb . suurepärane toit . suurepärane metslooma kütt !",
+                                "Item2": "",
+                                "Item3": "dune"
+                        },
+                        {
+                                "Item1": "DUNE LEIDIS UUE SÕBRA<>\nDUNE PÕNEVIL KUI SÕBER LÄHEDAL<>\nSÕBER ON NAGU DUNE.<>\nSÕBER SUUR JA TUGEV.<>\nDUNE SUUR JA TUGEV<>\nSÕBER SAAB KIIRESTI KAEVATA.<>\nDUNE SAAB KIIRESTI KAEVATA<>\nSÕBER HAMMUSTAB DUNE KÄE ÄRA.<>\nDUNE HAMMUSTAB SÕBRA KÄE ÄRA<>\nSÕBER LAHKUB.<>\nDUNE OTSIB<>\nLEIAB JÄLLE",
+                                "Item2": "",
+                                "Item3": "dune"
+                        },
+                        {
+                                "Item1": "ma... ma tundsin kuidas suren. see oli nii äkki, verd oli kõikjal ja ma ei suutnud silmi lahti hoida. mul oli hirm... aga ma ei tahtnud alla anda. olen leidnud nii palju lahedaid asju sellest kohast ja tunnen et olen selles missioonil nii palju edasi jõudnud. ma ei peatu siin. tulen kõigest sellest läbi. näen oma sõpru jälle.",
+                                "Item2": "Sprites/noteDrawings/laststand",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "ma ei arvanud et koletis leiab mind jälle, aga leidis. see teadis mu nägu, mu vigu... aga mitte mu püssi. kui see lõpuks lõhkes, nägin seda kirvest. nägin graveeringut mille olin sisse kriimustanud, sama mis graveeringut mille nad olid minu kirvesse kriimustanud. nägin tükki sellest kui nad üritasid mulle kingituseks titaani kaevata. ja siis, äkki, nägin kuidas see juhtub jälle. metallist krigisemise lõhn. maa värinad. liha lõhkumise heli. higi ja vere maitse kui üritasin joosta, ejtades toidu mida tõin kapslisse tagasi-\n<>\nkas peaksin nüüd rahulik olema? või kaubeldan lihtsalt rahu nimel, mis puruneb kui järgmine mind leiab?",
+                                "Item2": "Sprites/noteDrawings/thornback",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Tahan sellest kohast lahkuda, olen terroriseeritud, mul pole sõnu kirjeldamaks mida just kogesin, see oli suur, kohutav olend sadade hammastega, valmis mind sööma, jahtis mind tunde, hävitab kõike oma teel. See peatus alles pärast seda, kui olin nii kaugele läinud et olin täiesti ära eksinud, see kurnas mu toidu, vee, tööriistad, isegi mu enda mõistuse, ma lihtsalt tahan et see lõpeks.",
+                                "Item2": "Sprites/noteDrawings/thornback",
+                                "Item3": "milky"
+                        }
+                ],
+                [
+                        {
+                                "Item1": "siin on liiga külm. pean tegema kõik et üldse mitte märjaks saada, muidu olen suures hädas. meie õnneks on palju neid veidraid spoorivaid taimi mis kiirgavad soojust, koos nende veidrate masinatega. jookse nende vahel kui võimalik, arvan. parem mitte külmase külmaga kinni jääda.",
+                                "Item2": "Sprites/noteDrawings/xaloris",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "dune külm. kaevas sooja ei ole piisavalt soe. dune sõi karvase sõbra. sõi toorelt! dune-l on karv. karv on soe dune-le. dune täis ja soe. dune õnnelik ei külm.",
+                                "Item2": "",
+                                "Item3": "dune"
+                        },
+                        {
+                                "Item1": "siin on külm, pean ikka elupodidesse pugema et soojeneda… kuigi mõnikord on neid väikeseid undavaid ahjusid mille juures saab soojendada, pean lihtsalt olema ettevaatlik et mitte neid liiga kaua puudutada, nad teevad mulle haige tunde. just piisavalt soojeneda ja siis jätkata. kui sina oleksid mina mängiksin ohutult ja jälgiksin midagi mis kaevab minu poole kui puhkan. kuulen asju minu ümber tunneldamas.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        }
+                ],
+                [
+                        {
+                                "Item1": "On kummaline kuidas siin sajab. Pole kunagi varem päris vihma näinud... See on üsna ilus, isegi kui ebahügieeniline. Imestan ikka, kuidas on võimalik, et siin all on nii kõrge veekontsentratsioon. Ehk tilgub vesi ülemisest jäämütsist siia alla?",
+                                "Item2": "",
+                                "Item3": "milky"
+                        },
+                        {
+                                "Item1": "leidsin mõned veidrad põrkavad asjad. nad saatsid mind lendama... aga suutsin hoida jalad allapoole. see on päris lõbus. võib-olla võiks mõnikord kasulik olla ka. natuke ohtlik ehk, aga mis pole siin all.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "Ei tea mis mind tabas aga ei tunne oma jalga enam, kõik mida näen on lihas, luu ja vere segamini keerutis\nmu keha karjub agoniale lõpu\nainus mis mul on see sinine seade rinnal. Kaupleja kellelt selle ostsin ütles et seda peaks kasutama ainult hädaolukordades.\nValu pole enam talumatu, aga tuli vilgub nüüd. Ei tea kui kaua mul on. kas pimedus naaseb kui see asi tühjaks saab? Ma ei taha ära kaduda...",
+                                "Item2": "",
+                                "Item3": "milky"
+                        }
+                ],
+                [
+                        {
+                                "Item1": "igal ühel neist siin olevatest kasvudest näib olevat mingi mõju... ma ei tea täpselt mis. see on ettearvamatu. aga sellel on mustreid. mõned on ohutud, mõned ei ole, mõned on kasulikud. proovin asju kirja panna kui aru saan...",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "..uuh. okei. kollased TEEVAD HAIGET. tunneb natuke sarnaselt nende mähiste nagu mõni tund tagasi leidsin... tavaliselt on neil mingi veider elektrisev väli nende ümber... ära puutu neid. see pole hea. sinu keha jaoks, vähemalt. märkasin et see kuidagi laadis kõik mu patareid pärast puudutamist...",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "see geigermõõtur mul läheb hulluks ühe rohelise kasvu juures. mingi \"kiirgus\", mis iganes see on. olen üsna kindel et see on sinu jaoks halb. väldi nende läheduses olemist kui suudad.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "märkasin et mõned neist on imelikult haprad. nad lagunevad kui puudutan neid üldse. näed et nad näivad tõesti rabedatena, neil on praod kõikjal. imelikul kombel näib see esinevat ka kõrval mõnede teiste liikide kõrval mida olen näinud... imestan kas see kehtib kõigi puhul.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "märkasin et paljud kasvud kas tõukavad mind eemale või tõmbavad mind ligi. tunned mingi jõudu end läbimas kui see juhtub. võiks mõnikord kasulik osutuda",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "issand. olen NII rõõmus et mul oli külmakott kaasas. näib et udused sätendavad teevad asju enda ümber kiiresti soojaks... sealhulgas mind. ei ülataks mind kui mõned teeksid vastupidist. kuulsin ka neist tulevat veidrat heli...",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "veendu et sul on antibiootikumid ja sellised asjad. arvan et purpursed mõjutavad su immuunsüsteemi. neil on hämar purpurne udu nende ümber... istusin ühe kõrval mõnda aega puhkama, ja märkasin oma eluliste näitajate langust kiibil. näib mingi sepsivastus. arvan et saan korda",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "okei. värisevad näivad tõesti hirmutavad... nad pole. nad saadavad sind lendama... aga nagu, suudan hoida jalad allapoole kogu aeg. natuke sarnane põrkavatele asjadele eelmises piirkonnas kus olin.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "...\n<>...\n<>...\n<>lendavad asjad. ma ei tea kuidas nad seda tegid. püha... oh jumal. olen nüüd korras, aga...<>\n\nkuidas öelda... seal on veidrad teravad lendavad asjad. nad teevad tõesti veidraid valjuid hääli... peaaegu nagu nad naeravad minu üle. nad keeravad mõnikord üles ja tulevad minu poole, üritades mind torgata. nad tabusid mind üks või kaks korda, aga... iga kord kui nad seda tegid, jäid nad maasse kinni ja tabasin seda mitu korda kuni see... mm... pole kindel... mis juhtus, aga see oli kadunud. arvan et see tuli ühest kasvust, aga see liikus kuidagi.<>\n\nsain midagi pärast selle kadumist... ehk on see kasulik? tunneb nagu see kasvab millekski, ootan ja näen.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "okei. on häid ja halbu uudiseid. asi mida hoidsin pärast ühe lendava asja tapmist... see... kasvas sisse. rohkem lendavaid asju. kaks neist... ühest... nad näisid aga rühmas aeglasemad... nagu, nad... andsid mulle võimaluse tagasi võidelda? veider.<>\n\nsõin südamikud mida neilt sain, mul polnud muid ideid mida sellega teha... see oli. päris hea, tegelikult. ja näib et seekord see ei muundunud millekski. ehk võiksin seda teha aeg-ajalt et saada üha rohkem toitu? ma niikuinii ei suuda siit palju leida",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "pole aimugi kus olen. arvan et puudutasin veidrat kasvu ja sattusin... kuhugi. turvaliselt siiski. ikka, pole aimugi kuhu. kõik mida mäletan on et see näis natuke läbipaistvam kui tavaliselt. peaaegu nagu näeksin kohta kuhu jõudsin...",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "märkasin et paljud neist asjadest tilguvad vedelikke. ei näi et nad palju muud teeksid. veeallikas, ehk?",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "puudutas halli, see välgutas valgeks, tegi veidra heli. ei tundnud palju pärast... kuni proovisin kasutada oma laserpuuri. asi oli ilma vooluuta, kuigi olin kindel et ei olnud hetk tagasi. kontrollisin ülejäänud pataraid mida kogusin, sama lugu. veider. väldi. võib-olla väärt ennast visata ühele elektrisevatest et neid laadida...",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "silmad valutavad. ülimalt heleda kõrval. ei näi tegevat midagi muud kui... noh.. pimestama mind. ei meeldi, aga eelistan seda kõigele muule mida nad teha saavad.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "punakad plahvatavad. jookse kui see tiksumisel alla läheb. olen korras... jumal, olin küll peaaegu polnud.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "leidsin veidra hämariku. puudutas seda, ja ei näinud hetke... aga kui silmad avasin nägin mõnda köit ja kotti minu ees lebamas. kasv oli kadunud. ei saa kurta. ei näi et see tegi midagi muud.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "saad puudutada rohelisi. nad on head. mulle meeldis see väga. hehe. mm. mitte geigermõõturit aktiveerivad rohelised. head näivad veidi üles põrkuvat. oh... mm... hmm... mulle meeldis roheline väga. mulle meeldib roheline. saad seda puudutada. mulle meeldib roheline.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "leidsin põleva. puudutas seda uudishimust. ära tee seda. see oli kuum.",
+                                "Item2": "",
+                                "Item3": "experiment"
+                        },
+                        {
+                                "Item1": "hmm. kõndisin ühel kasvul ja see näis normaalne, aga tegi äkki heli ja muutus erinevaks. nagu. vahetas kohti? veider.",
+                                "Item2": "",
+                                "Item3": "experiment"
       }
     ]
   ],
