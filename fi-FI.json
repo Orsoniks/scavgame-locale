@@ -4576,7 +4576,7 @@
             {
                 "Item1": "(Muistiinpano on rypistetty ja rutussa, ikään kuin se olisi tarkoitettu heitettäväksi pois.)\n<>\nystäväni he... luulen että he tappoivat itsensä. taas yhden pahan putoamisen jälkeen yritin korjata heidän jalkojaan mutta he vain käskivät minua painumaan vittuun. he hätistelivät minua kuin jotain kärpästä, käskivät jättää heidät rauhaan. en ymmärtänyt. Lähdin hakemaan kasveja, jotta voisin yrittää sitoa ne, mutta... kun tulin takaisin heillä oli uusi haava. käsivarressaan. muistan vieläkin miltä se näytti, se oli paha, käytännössä revitty auki. yritin käyttää löytämiäni kasveja uuden haavan paikkaamiseen mutta he vain työnsivät minut pois. heidän silmänsä olivat... näyttivät vain... tyhjiltä. käskin heidän lopettaa vittuilu ja antaa minun auttaa mutta he eivät vastanneet. yritin auttaa vielä muutaman kerran ja he tönäisivät minut pois kunnes he vain... lopettivat. muistan nähneeni heidän kehonsa rentoutuvan, luulen että silloin he lakkasivat hengittämästä. en saa sitä kuvaa pois päästäni...\n<>\no... olenko minä tehnyt jotain väärin? vannon etten... mitä tein väärin? miksi he tekivät niin? en... en tehnyt mitään. en ymmärrä, en halua kuolla... en... minä...\n<>\n...\n<>\nhaha...\n<>\ntäällä on niin yksinäistä.\n<>\n(Huomaat haalistuneita, kuivuneita kyynelpisaroita ja kuivunutta verta rypistyneen muistiinpanon seassa.)",
                 "Item2": "",
-                "Item3": "milky"
+                "Item3": "experiment"
             },
             {
                 "Item1": "(Paperissa on värikkäitä grafiikoita, eikä se vaikuta käsinkirjoitetulta)\n<>\nKeittoa! Kokeile erikoispataamme - laita vain liha ja ainekset sisään ja anna hautua. Älä huoli. Olet varmasti samaa mieltä, että maku on painonsa arvoinen. Säilyy jopa 737 vuotta!",
@@ -4833,6 +4833,11 @@
                 "Item3": "milky"
             },
             {
+                "Item1": "found some weird bouncey things. they sent me flying... but i could keep my feet pointed down. its pretty fun. maybe could be useful sometimes, too. kind of dangerous maybe, but what isnt down here.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
                 "Item1": "En tiedä mikä minut iski mutta en tunne enää jalkaani, näen vain sekavan sotkun lihasta luusta ja verestä\nkehoni huutaa tuskan loppumista\nainoa mitä minulla on tämä sininen laite rinnassani. kauppias jolta sen ostin sanoi, että sitä pitäisi käyttää vain hätätilanteissa.\nKipu ei ole enää sietämätöntä, mutta valo vilkkuu nyt. En tiedä paljonko minulla on aikaa jäljellä. palaako pimeys kun tämä juttu loppuu? en halua häipyä...",
                 "Item2": "",
                 "Item3": "milky"
@@ -4840,9 +4845,9 @@
         ],
         [
             {
-                "Item1": "",
+                "Item1": "every single one of these growths here seems like it has some kind of effect... i dont know what exactly. its unpredictable. but there are patterns to it. some are safe, some arent, some are helpful. i'll try to write things down as i figure it out...",
                 "Item2": "",
-                "Item3": ""
+                "Item3": "experiment"
             },
             {
                 "Item1": "..ugh. okay. the yellow ones HURT. feels kind of similar to the coils i found a few hours back... they usually have some kind of weird zappy field around them... don't touch them. its not good. for your body, at least. i noticed it did somehow recharge all my batteries after touching...",
