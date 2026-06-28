@@ -302,9 +302,7 @@
         "mushpeardsc": "Sininen kasvinosa, tehty veden jakeluun. Tuskin syötävää, oudolla painoa absorboivalla ominaisuudella ja vastenmielisellä maulla. Vähentää kehon massaa syötäessä. Vaikuttaa sisältävän pieniä opiaattipitoisuuksia.",
         "mushtail": "Sienihäntä",
         "mushtaildsc": "Sienikasvin loppuhäntä. Sisältää kemikaalin, joka voi välittömästi tyrmätä jonkun hetkeksi, näkyvällä mielialan nousulla sen jälkeen. Outoa. Ei ravintoarvoa.",
-								 
-																																													  
-        "aquapple": "Aquapple",
+		"aquapple": "Aquapple",
         "aquappledsc": "A watery, bubble-shaped fruit. Looks and feels a little disgusting, but has high water content. Decays very fast.",
         "droppings": "Jätökset",
         "droppingsdsc": "Se on kakkaa.",
@@ -458,8 +456,6 @@
         "popfruitdsc": "An odd, rectangular shiny fruit. Tasty, refills hunger and thirst. May randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height.",
         "antisepticmush": "Antiseptinen muska",
         "antisepticmushdsc": "Yhteen murskattu sekoitus hedelmää ja lehvästöä, josta syntyy tulehdusten hoitoon tehokas seos. Riittää yhteen käyttökertaan.",
-											   
-																																									  
         "striderpelt": "Strider pelt",
         "striderpeltdsc": "Suuri pala paksua, pörröistä valkoista turkkia, joka on revitty lumikulkijasta. Tarjoaa huomattavaa eristystä säätä vastaan.",
         "funguschunk": "Fungus chunk",
@@ -749,9 +745,7 @@
         "geyserdsc": "Epävakaa geysir jolla on taipumus suihkuttaa vettä. Onneksi se on pahimmillaankin huoneenlämpöistä.",
         "oilpipe": "Jäteputki",
         "oilpipedsc": "Ruosteinen putki, josta valuu tummaa tervaa. Et halua katsoa sisään... Luultavasti tulvii alueen ajan kanssa.",
-									 
-																															 
-        "pop": "Pop",
+		"pop": "Pop",
         "popdsc": "A long, dull purple colored plant, with a large semi-transparent bulb growing on the end.",
 		"mushroomdropper": "Mushroom dropper",
         "mushroomdropperdsc": "Sieni joka vapauttaa lakkinsa levittääkseen itiöitään kaikkien epäonnisten ohikulkijoiden päälle.",
