@@ -23,10 +23,10 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [العربية (العالم العربي)](/ar-001.json) | Outdated | [Enderwolf](https://github.com/Enderw0lf) |
 | [Беларуская (Беларусь)](/be-BY.json) | Outdated | [Russian kid](https://github.com/Russiankids) |
 | [Deutsch (Deutschland)](/de-DE.json) | v7.0.1 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
-| [Español (Latinoamérica)](/es-419.json) | v7.0.1 | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG) |
+| [Español (Latinoamérica)](/es-419.json) | v7.0.1 | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar) | |
 | [Español (España)](/es-ES.json) | v7.0.1 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Eesti (Estonia)](est-EE.json) | v7.0.1 | [KevinIsGreat25](https://github.com/KevinIsGreat25) |
-| [Suomi (Suomi)](/fi-FI.json) | v6.1 | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
+| [Suomi (Suomi)](/fi-FI.json) | v7.0.1 (Incomplete) | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
 | [Français (France)](/fr-FR.json) | v5 (slightly outdated) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick) |
 | [Bahasa Indonesia (Indonesia)](/id-ID.json) | v5.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/) |
 | [Italiano (Italia)](/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
@@ -35,7 +35,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [한국어 (대한민국)](/ko-KR.json) | v7.0.1 | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), Shelt3redcat, [topicular](https://github.com/metnias) |
 | [Polski (Polska)](/pl-PL.json) | Outdated | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
 | [Português (Brasil)](/pt-BR.json) | V7.0.1 (Incomplete) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar), [Pedro Lucas da Silva Sousa (PedSen)](https://github.com/PedSen), [David Costa (ZonaryH)](https://github.com/zonaryh) |
-| [Română (România)](/ro-RO.json) | v6.1 | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan) |
+| [Română (România)](/ro-RO.json) | v7.0.1 | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan), Stefilutz |
 | [Русский (Россия)](/ru-RU.json) | v7.0.1 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) [Captain_Kirk](https://github.com/Danich27rus)|
 | [ไทย (ไทย)](/th-TH.json) | v6.1 | [Sam Su☕ (แซมซู)](https://github.com/SamsVT), [yashi](https://github.com/yashikung), [Khaomi](https://github.com/Khaomi) |
 | [Українська (Україна)](/uk-UA.json) | v7.0.1 | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati) |
