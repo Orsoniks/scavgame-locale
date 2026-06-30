@@ -7,9 +7,14 @@ This document contains extra notes about some of the texts present in the Englis
   - [Survivor notes](#survivor-notes)
 - [Notes on specific texts](#notes-on-specific-texts)
   - [Main](#main)
+  - [Buildings](#buildings)
   - [Moodles](#moodles)
   - [Other](#other)
-  - [Pause Quotes](#pause-quotes)
+  - [Character](#character)
+    - [Experiment](#experiment)
+  - [Survivor notes](#survivor-notes-1)
+  - [PDA notes](#pda-notes)
+  - [Pause quotes](#pause-quotes)
 
 ## General notes
 
@@ -119,7 +124,13 @@ Some texts might make use of the `<limb>` placeholder. This placeholder is repla
 
 Due to differences in grammar between languages, it may be hard to translate those texts correctly while accounting for changes in gender and case of the various limb translations that can be inserted.
 
-### Survivor Notes
+#### Experiment
+
+| Line | Text | Notes |
+| ---- | ---- | ----- |
+| 2202 | `seeGravel` | `My parent would be proud...` is related to the specific, genderless biology of the Sawians. They generally have one single parent as a result. |
+
+### Survivor notes
 
 Generally, survivor notes follow a specific writing pattern based on the character that wrote the note. It is strongly recommended to preserve this style in translated text:
 - Milkys use proper grammar and punctuation in writing.
@@ -127,7 +138,7 @@ Generally, survivor notes follow a specific writing pattern based on the charact
 - Dunes have bad grammar, omit capitals, and have uneven spacing in notes. They refer to themselves in third person, similar to how they do it during speech.
   - One exception is the note at line 4780, which is written with all capitals.
 
-### PDA Notes
+### PDA notes
 
 ***Note that PDA notes are likely to be rewritten entirely before the 1.0 release.***
 
