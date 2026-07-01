@@ -41,6 +41,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Tiếng Việt (Vietnam)](/vi-VN.json)| v7.0.1 | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), \_.solarzz_, Weird Cat, Just Cyrus, Daenry |
 | [简体中文 (中国)](/zh-CN.json) | v7.0.1 | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX)|
 | [繁體中文 (台灣)](/zh-TW.json) | v5.1 | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
+| https://github.com/aron42069/scavgame-locale-HU/blob/main/HU.json | v7.0.1 ; 75%-done | Adrastor, piCINKEnet, Holla_x, Totally Not Aron, Vbenc-e, That1guy, tUwUring machine, Betond, BanánBali |
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera), [Marioalexsan](https://github.com/Marioalexsan)
