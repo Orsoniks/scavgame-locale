@@ -1,6 +1,6 @@
 {
     "name": "Magyar",
-    "description": "Magyar fordítás többek között Adrastor-tól! https://www.youtube.com/@Adrastor. \npiCINKEnet: https://linktr.ee/picinkenet + többiek írjátok magatokat ide!",
+    "description": "Magyar fordítás többek között Adrastor; https://www.youtube.com/@Adrastor , Discord is. \npiCINKEnet: https://linktr.ee/picinkenet \nHolla_x, Discordord; \nTotally Not Aron, Discord; \nVbenc-e, Discord; \nThat1guy, Discord; \ntUwUring machine, Discord; \nBetond, Discord; \nBanánBali-tól, Discord;",
     "main": {
         "bandage": "Kötszer",
         "bandagedsc": "Egy tekercs kötszer. Lelassítja a vérzést, stabilizálja a töréseket és segíti a bőr gyógyulását. Nincs semmi hatása az izmok gyógyulását nézve.",
@@ -92,13 +92,13 @@
         "slingbagdsc": "Egy megerősített levéltáska. A hátadon tudod viselni.",
         "plasticbag": "Műanyag szatyor",
         "plasticbagdsc": "Egy vékony, kék, műanyag szatyor.",
-        "gravbag": "Grav-Táska",
+        "gravbag": "Grav-táska",
         "gravbagdsc": "Egy kísérleti táska, ami negatív gravitáció generálásával csökkenti akárminek a súlyát ami benne van. Közel üres akkumulátorral szeret felrobbanni.",
         "legpouch": "Combtáska",
         "legpouchdsc": "Egy bőrtáska, szíjakkal a combodhoz rögzíthető. Olyan mint egy zseb a zsebednek!",
-        "liquidpouch": "Folyadék táska",
+        "liquidpouch": "FolyadékGtáska",
         "liquidpouchdsc": "Egy rugalmas, folyadékok tárolására készített táska. Szíjakkal a hasadhoz rögzíthető. Feltöltheted üvegekkel, vagy feltöltheted vele az üvegeket.",
-        "materialpouch": "Anyag táska",
+        "materialpouch": "Anyagtáska",
         "materialpouchdsc": "Egy nagy, erős táska ami szíjakkal a combodhoz rögzíthető. Sok, apró zseb van rajta ami fabrikáláshoz tárol anyagot. Magas a terhelési csökkentése, de csak apró dolgok férnek belé.",
         "purse": "Retikül",
         "pursedsc": "Egy kézben fogható, közepes méretű táska, a személyes tárgyak tárolására. Egészen stílusos!",
@@ -106,7 +106,7 @@
         "pouchdsc": "Zöld, szintetikus anyagból szőtt, kicsi táska. Nincs fogója.",
         "brokenbag": "Tépett hátizsák",
         "brokenbagdsc": "Egy régi, eléggé megviselt iskolatáska. Viselhetetlen, mivel a pántok szét vannak tépve.",
-        "box": "Kartonpapír doboz",
+        "box": "Kartonpdoboz",
         "boxdsc": "Egy közepes méretű kartonpapír doboz.",
         "toolbox": "Szerszámos láda",
         "toolboxdsc": "Szerszámok tárolására készített, nagy és nehéz acél láda.",
@@ -4372,7 +4372,7 @@
             ],
             "tradermovefail": [
                 "Du-ne szereti jelen-legi he-lyét..."
-                            ],
+            ],
             "vomitresponse": [
                 "Ko-ma... Hányt... Most... Be-teg?"
             ],
