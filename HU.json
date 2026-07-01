@@ -4150,17 +4150,7 @@
             ],
             "tradermovefail": [
                 "Miért kéne neked ugrálnom?"
-            ]
-        },
-        {
-            "tradermeetnormal": [
-                "Mmm... Hell-ó....",
-                "Üdv-özöllek... Ko-ma...",
-                "B-barát... Sz-szia... Ülj l-le...",
-                "Sz-i... Ba-arát... Személy...",
-                "Gyere... Ide... Ko-ma...",
-                "Itt... Ba-rát..."
-                ],
+            ],
             "vomitresponse": [
                 "A megemésztett dolgokért nem fizetek.",
                 "Most komoly? A PADLÓMRA?"
@@ -4214,9 +4204,17 @@
                 "Nem vagyok benne biztos, hogy az újraélesztés segítene a helyzeteden.",
                 "Komolyan? ITT haldokolsz, a padlómon?",
                 "A pánikolás talán segíteni fog?"
-            ],
-            },
-           {
+            ]
+        },
+        {
+            "tradermeetnormal": [
+                "Mmm... Hell-ó....",
+                "Üdv-özöllek... Ko-ma...",
+                "B-barát... Sz-szia... Ülj l-le...",
+                "Sz-i... Ba-arát... Személy...",
+                "Gyere... Ide... Ko-ma...",
+                "Itt... Ba-rát..."
+                ],
             "tradermeetgood": [
                 "GGack! Szi-a!",
                 "Mmmm... Ba-rát... Üd-vöz-öllek... Bizton-ság...",
