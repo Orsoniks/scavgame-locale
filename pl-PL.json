@@ -799,7 +799,7 @@
     "hypertension1": "Umiarkowane nadciśnienie",
     "hypertension2": "Nadciśnienie",
     "hypertension3": "Poważne nadciśnienie",
-    "hypertension4": "Nadciśnienie złośliwe",
+    "hypertension4": "Przełom nadciśnieniowy",
     "venom1": "Umiarkowana toksykoza",
     "venom2": "Toksykoza",
     "venom3": "Poważna toksykoza",
@@ -1318,7 +1318,7 @@
     "streptokinase": "Streptokinaza",
     "streptokinasedsc": "Lek rozrzedzający krew. Silnie zmniejsza lepkość krwi i rozbija skrzepy.",
     "sodiumnitroprusside": "Nitroprusydek sodu",
-    "sodiumnitroprussidedsc": "Lek stosowany do obniżania ciśnienia krwi, przydatny w unikaniu nadciśnienia złośliwego. Działa tylko dożylnie. 10 ml na minutę.",
+    "sodiumnitroprussidedsc": "Lek stosowany do obniżania ciśnienia krwi, przydatny w unikaniu przełomów nadciśnieniowych. Działa tylko dożylnie. 10 ml na minutę.",
     "vasopressin": "Wazopresyna",
     "vasopressindsc": "Hormon stosowany do podnoszenia ciśnienia krwi, przydatny w zapobieganiu śmiertelnemu niedociśnieniu. Działa lepiej dożylnie. 10 ml na minutę",
     "amiodarone": "Amiodaron",
@@ -1461,7 +1461,7 @@
     "runsetattackdamage": "Obrażenia ataku",
     "runsetattackdamagedsc": "Zmienia jakie obrażenia zadajesz przy atakowaniu.",
     "runsetstrokes": "Możliwość wystąpienia udaru",
-    "runsetstrokesdsc": "Zmienia czy możesz dostać udaru podczas nadciśnienia złośliwego.",
+    "runsetstrokesdsc": "Zmienia czy możesz dostać udaru podczas przełomu nadciśnieniowego.",
     "runsetbraindamagefx": "Efekty uszkodzenia mózgu",
     "runsetbraindamagefxdsc": "Określa, czy uszkodzenie mózgu powoduje okresowe ataki",
     "runsetinfinitelaststand": "Nieskończona ilość \"Drugich oddechów\"",
@@ -2740,10 +2740,10 @@
         "Mam nadzieję, że sytuacja się poprawi. I to szybko.",
         "To się skończy fatalnie ",
         "Mam już dość.",
-        "Ugh... To jest do bani......",
+        "Ugh... To jest do bani...",
         "Nie podoba mi się to.",
         "Gorzej już być nie może.",
-        "Moja cierpliwość jest wystawiana na próbę......",
+        "Moja cierpliwość jest wystawiana na próbę...",
         "Co teraz będzie?...",
         "Nie mogę się jeszcze poddać...",
         "Nie mam ani odrobiny szczęścia.",
@@ -2806,7 +2806,7 @@
         "Chciałbym się rozpłakać...",
         "Boże...",
         "Mógłbym po prostu padnąć i umrzeć na miejscu.",
-        "Naprawdę ciężko mi....",
+        "Naprawdę ciężko mi...",
         "Tu jest... TAK samotnie...",
         "Zabiję ich... Zabiję ich wszystkich.",
         "Trzymajcie mnie bo nie wiem co zrobię.",
@@ -2989,7 +2989,7 @@
         "...",
         "...?",
         "Ale...",
-        ".....",
+        "...",
         "Meh...",
         "..."
       ],
@@ -3050,7 +3050,7 @@
         "*przerażony*",
         "Ja-ja-ja... Och... N-nie... Ja... Och, Boże...",
         "C-czy to już koniec...",
-        "Cholera... Skup się... Jeszcze dam radę się uratować......",
+        "Cholera... Skup się... Jeszcze dam radę się uratować...",
         "O Boże. Cholera. Ja... Boję się...",
         "Widzę wszystko jakby przez mgłę...",
         "Bandaż! P-Pilnie..."
@@ -3264,7 +3264,7 @@
         "Mam już dość tego upału.",
         "Przydałoby coś na ochłodę się!",
         "W tym tempie się ugotuję...",
-        "W tym upale się gotuję...... ugh.",
+        "W tym upale się gotuję... ugh.",
         "Rany, ale tu gorąco!",
         "Gorąco...",
         "Muszę się ochłodzić..."
@@ -3433,15 +3433,15 @@
         "Nie... mogę... oddychać..",
         "Pomocy... Duszę się...",
         "*kaszel kaszel* Ach!",
-        "Zemdleję....",
+        "Zemdleję...",
         "Co się dzieje... Pomocy...",
         "*kaszel* P-pomocy...",
-        "N-nie mogę.... oddychać",
+        "N-nie mogę... oddychać",
         "Duzę!- się!",
         "Ahk! *kaszel*",
         "Potrzebuję... powietrza!...",
         "O-Oj... szyja!...",
-        "Nie mogę.... *kaszel*",
+        "Nie mogę... *kaszel*",
         "Pomocy- Ack! *kaszel*",
         "P-pomocy...",
         "Moje... płuca...",
@@ -3589,7 +3589,7 @@
         "Jestem przemoczony...",
         "Jestem przemoczony!",
         "Jestem kompletnie przemoczony.",
-        "Mam wodę na futrze....",
+        "Mam wodę na futrze...",
         "Jestem mokry krytycznie...",
         "Jestem cały przemoczony!",
         "Jestem WILGOTNY.",
@@ -3616,7 +3616,7 @@
         "Powinienem się umyć.",
         "Muszę to wszystko umyć.",
         "Zdecydowanie za brudny...",
-        "Naprawdę trzeba zmyć cały ten brud....",
+        "Naprawdę trzeba zmyć cały ten brud...",
         "Nie przesadzajmy z tym brudem...",
         "Czas na kąpiel!",
         "Jestem prawie pewien, że w tych podach są prysznice... Bardzo by mi się przydał.",
@@ -3642,10 +3642,10 @@
         "Jestem przytłoczony tym wszystkim.",
         "Zluzujmy trochę.",
         "Mam za dużo sprzętu.",
-        "Niosę o wiele za dużo....",
+        "Niosę o wiele za dużo...",
         "Chciałbym nosić ze sobą mniej rzeczy.",
         "Muszę zostawić część rzeczy, mam ich za dużo.",
-        "Naprawdę powinienem zwolnić sobie rękę lub dwie. Mam tego sporo....",
+        "Naprawdę powinienem zwolnić sobie rękę lub dwie. Mam tego sporo...",
         "Uch! Mam na sobie za dużo rzeczy. Czuję się przytłoczony.",
         "Trochę za dużo zbieram... Cały ten sprzęt jest ciężki."
       ],
@@ -3655,14 +3655,14 @@
       "drillend": [
         "...To trochę trwało.",
         "Przysięgam że to coś nie miało żadnej izolacji akustycznej.",
-        "To trwało wieki....."
+        "To trwało wieki..."
       ],
       "loud": [
         "KURWA! Ale to było głośne...",
         "GACH! Cholera! Moje uszy!",
         "ACHHH! Kurwa... Dzwoni mi w uszach...",
-        "Do diabła! ... Aaauuuuć... To było strasznie głośne....",
-        "NIE!!! Kurwa mać! Achhh, to było głośne...."
+        "Do diabła! ... Aaauuuuć... To było strasznie głośne...",
+        "NIE!!! Kurwa mać! Achhh, to było głośne..."
       ],
       "murderregret": [
         "Czemu... czemu to zrobiłem...? Kurwa...",
@@ -3809,7 +3809,7 @@
         "...Naprawdę myślałeś że nie zauważę? Ty skurwysynu. Wypierdalaj!",
         "Hej! Co do kurwy! Potrzebowałem tego! Wynoś się stąd!",
         "Ach! Ty ZŁODZIEJU! Znikaj stąd!",
-        "Chuju. No dobrze... No to w takim razie.... Ja... Ehm... Proszę, zniknij."
+        "Chuju. No dobrze... No to w takim razie... Ja... Ehm... Proszę, zniknij."
       ],
       "traderwakegreet": [
         "Dzień dobry.",
@@ -3832,7 +3832,7 @@
       ],
       "traderseehurt": [
         "Jesteś ranny... Pozwolę ci wziąć bandaż za darmo, jeśli znajdziesz jakiś.",
-        "Ojej, jesteś ranny. Jeśli znajdziesz u mnie bandaż, możesz go wziąć! Nie pamiętam, czy mam jakiś....",
+        "Ojej, jesteś ranny. Jeśli znajdziesz u mnie bandaż, możesz go wziąć! Nie pamiętam, czy mam jakiś...",
         "Och, wyglądasz słabo... Wiesz co? możesz wziąć bandaż za darmo, jeśli jakiś znajdziesz."
       ],
       "tradermove": [
