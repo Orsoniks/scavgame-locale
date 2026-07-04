@@ -140,7 +140,7 @@
             "emissivecrystalsharddsc": "Phát sáng rực rỡ trong một khoảng thời gian. Hữu ích làm nguồn sáng.",
             "digestioncrystalshard": "Mảnh pha lê tiêu hóa",
             "digestioncrystalsharddsc": "Nó có cảm giác như đang lấy vật chất ra khỏi cơ thể bạn... Giảm bệnh tật khi cất giữ trên cơ thể.",
-            "geofruit": "Trái hình quả thảo",
+            "geofruit": "Trái Hình Diệp Thảo",
             "geofruitdsc": "Loại trái cây cơ bản, nhưng ngon. Ít calo, giảm khát một chút và nhanh hỏng.",
             "stonefruitclosed": "Trái thạch mộc thô",
             "stonefruitcloseddsc": "Một quả màu xanh cứng dính vào một phần màu xám cứng của cây. Bạn cần phải tách nó ra trước bằng răng.",
@@ -218,7 +218,7 @@
             "foliagemealdsc": "Một món ăn nấu chín tương đối ổn, làm từ lá giòn và nhân thô sơ. Nhanh hỏng, không có chất béo nhưng rất no.",
             "dryfoliage": "Lá khô",
             "dryfoliagedsc": "Có vẻ hấp dẫn hơn một chút để tiêu thụ khi nó còn khô. Có thể làm bạn hơi ốm.",
-            "glowplantfruit": "Trái quang thảo",
+            "glowplantfruit": "Trái Quang Thảo",
             "glowplantfruitdsc": "Phát quang sinh học và không ăn được. Có độc tố nguy hiểm vừa phải bên trong; chống nhiễm trùng. Hữu ích trong chế tạo. Dịch của nó thúc đẩy các phản ứng hóa học, hữu dụng trong việc chế tạo.",
             "flashlight": "Đèn pin",
             "flashlightdsc": "Thắp sáng một khu vực lớn phía trước, nhưng từ từ mất pin. Sử dụng để đổi chế độ.",
@@ -235,7 +235,7 @@
             "makeshiftdiggingtool": "Dụng cụ đào đất tự chế",
             "makeshiftdiggingtooldsc": "Một mảnh kim loại được buộc lại với nhau, dùng để đào qua đá. Hơi mỏng manh.",
             "makeshiftheadlamp": "Đèn đeo đầu tự chế",
-            "makeshiftheadlampdsc": "Chỉ là một quả quang thảo được buộc vào trán bạn. Không dễ chịu lắm nhưng giải phóng không gian hành trang.",
+            "makeshiftheadlampdsc": "Chỉ là một quả Quang thảo được buộc vào trán bạn. Không dễ chịu lắm nhưng giải phóng không gian hành trang.",
             "shovel": "Xẻng kim loại",
             "shoveldsc": "Một công cụ được chế tác đặc biệt để dịch chuyển đất và các vật liệu rời khác một cách hiệu quả. Dù bạn chưa bao giờ thấy thứ này, việc sử dụng nó cũng không cần động não nhiều.",
             "woodshovel": "Xẻng gỗ",
@@ -456,8 +456,8 @@
             "popfruitdsc": "Một loại trái cây kỳ lạ, hình chữ nhật sáng bóng. Ngon, làm no và giải khát. Có thể giảm hoặc tăng bệnh phóng xạ một cách bất kì. Có phản ứng tạo tiếng to khi rơi xuống nền ở tốc độ cao - phù hợp để kiểm tra độ cao cú rơi.",
             "antisepticmush": "Hỗn hợp sát trùng",
             "antisepticmushdsc": "Các mảnh trái cây và tán lá nghiền nát cùng nhau, tạo ra một hỗn hợp hiệu quả trong việc điều trị nhiễm trùng. Sử dụng được 1 lần.",
-            "striderpelt": "Da lông Băng Bộ Thú",
-            "striderpeltdsc": "Một mảnh da lông dày, trắng mịn xé từ một con Băng Bộ Thú. Cung cấp cách nhiệt đáng kể.",
+            "striderpelt": "Da lông Băng Bộ Trùng",
+            "striderpeltdsc": "Một mảnh da lông dày, trắng mịn xé từ một con Băng bộ trùng. Cung cấp cách nhiệt đáng kể.",
             "funguschunk": "Khúc nấm",
             "funguschunkdsc": "Một mảnh nấm xé ra. Dùng để ăn tương đối tốt, mặc dù bạn không chắc chắn về các tác dụng phụ.",
             "clottingmush": "Hỗn hợp đông máu",
@@ -597,7 +597,7 @@
             "drillpodbrokendsc": "Nó bị hỏng không thể sửa chữa được.",
             "frigiant": "Cây Đại Hàn",
             "frigiantdsc": "Một cái cây băng giá, bóng bẩy. Một bầu hình cầu đang treo trên đó.",
-            "snowstrider": "Băng Bộ Thú",
+            "snowstrider": "Băng Bộ Trùng",
             "snowstriderdsc": "Một sinh vật lớn, lông lá săn tìm thức ăn ở các vùng lạnh giá của hệ thống hang động này. Lớp da dày giữ ấm cho nó.",
             "spaceheater": "Máy sưởi không gian ion",
             "spaceheaterdsc": "Một thiết bị làm nóng mạnh khu vực xung quanh. Có thể gây bệnh bức xạ nhẹ nếu bạn ở quá gần trong thời gian quá lâu.",
@@ -660,7 +660,7 @@
             "EmissiveCrystaldsc": "Một ánh sáng khá rực rỡ tỏa ra từ nó.",
             "foodbox": "Hộp thực phẩm",
             "foodboxdsc": "Có các vật phẩm thực phẩm bên trong.",
-            "geotree": "Hình quả thảo",
+            "geotree": "Hình Diệp Thảo",
             "geotreedsc": "Nó xốp! Có những thứ trông như chiếc lá mang hình dạng hình học kỳ lạ trên đó.",
             "glowplant": "Quang Thảo",
             "glowplantdsc": "Một loại cây phát quang sinh học màu xanh lá cây. Nó dường như không bị ảnh hưởng bởi môi trường.",
@@ -723,7 +723,7 @@
             "icestalagmitedsc": "May mắn thay, đỉnh của nó được bo tròn.",
             "stalactite": "Nhũ đá",
             "stalactitedsc": "Nó trông như được kết nối lỏng lẻo với trần nhà.",
-            "icestalactite": "Cột băng",
+            "icestalactite": "Nhũ băng",
             "icestalactitedsc": "Nó trông như được kết nối lỏng lẻo với trần nhà.",
             "stalactitedscdropped": "Trên thực tế, nó không còn kết nối với trần nhà nữa.",
             "drybush": "Bụi cây khô",
@@ -736,7 +736,7 @@
             "radbarreldsc": "Trông có vẻ cũ kỹ.",
             "soundcannon": "Pháo âm thanh",
             "soundcannondsc": "Bạn có lẽ nên che tai lại nếu nghe thấy nó đang nạp năng lượng.",
-            "trader": "Người sống sót",
+            "trader": "Thú sống sót",
             "traderdsc": "Một nạn nhân xui xẻo khác. Ít ra thì họ vẫn còn thở.",
             "traderdscdead": "Họ không còn thở nữa. Nhờ có bạn.",
             "bananaplant": "Cây chuối",
@@ -950,7 +950,7 @@
             "thoraxdestroyeddsc": "Phổi của bạn quá tổn thương để hoạt động, do sức khỏe cơ ngực ở mức thấp nguy kịch.",
             "pulmonaryembolismdsc": "Một cục máu đông lớn đã vỡ ra và kẹt trong phổi, làm tắc nghẽn động mạch. Tổn thương phổi và ngạt thở sẽ nhanh chóng xảy ra. Hãy hạ độ nhớt của máu khẩn cấp.",
             "oxygen1dsc": "SpO2 dưới 90%. Mặc dù không nguy hiểm, nhưng nó có thể là dấu hiệu của một tình trạng bệnh lý tiềm ẩn.",
-            "oxygen2dsc": "SpO2 dưới 75%, gây ra nhịp tim nhanh và dần dần tước đi lượng oxy của não. Mặc dù không gây chết người, nhưng nó chỉ ra một bệnh lý tiềm ẩn.",
+            "oxygen2dsc": "SpO2 dưới 75%, gây ra nhịp tim nhanh và dần dần tước đi lượng oxy của não. Mặc dù không gây tử vong, nhưng nó chỉ ra một bệnh lý tiềm ẩn.",
             "oxygen3dsc": "SpO2 dưới 60%, làm các mô thiếu oxy và có khả năng gây rối loạn nhịp tim. Gây tử vong nếu để bệnh tiến triển.",
             "oxygen4dsc": "SpO2 dưới 45%. Cơ thể bạn đang gặp phải một vấn đề tồi tệ, cực kỳ tồi tệ. Gây tử vong nếu để tình trạng tiến triển.",
             "fibrillation1dsc": "Nhịp tim bất thường, có thể do cơ thể bị quá tải. Có thể tiến triển nặng hơn nếu không giải quyết nguyên nhân. Có thể dùng máy khử rung tim.",
@@ -963,7 +963,7 @@
             "hypotension1dsc": "Huyết áp giảm nhẹ. Bạn cảm thấy hơi chóng mặt.",
             "hypotension2dsc": "Huyết áp giảm vừa phải. Bạn trông nhợt nhạt và da lạnh toát. Có gì đó không ổn - hãy kiểm tra dấu hiệu sinh tồn.",
             "hypotension3dsc": "Huyết áp giảm nghiêm trọng, bạn sắp ngất xỉu. Cần điều trị ngay. Điều này có thể bắt đầu gây rung tim, kiểm tra dấu hiệu sinh tồn.",
-            "hypotension4dsc": "Huyết áp thấp gây chết người. Máu không truyền đến các cơ quan. Thiếu oxy não và cái chết là không thể tránh khỏi.",
+            "hypotension4dsc": "Huyết áp thấp gây tử vong. Máu không truyền đến các cơ quan. Thiếu oxy não và cái chết là không thể tránh khỏi.",
             "hypertension1dsc": "Huyết áp tăng nhẹ.",
             "hypertension2dsc": "Huyết áp tăng vừa phải. Bạn bị đau đầu, chóng mặt và chảy máu cam. Kiểm tra dấu hiệu sinh tồn.",
             "hypertension3dsc": "Huyết áp tăng cực cao, nguy hiểm dẫn đến các biến chứng sức khỏe nghiêm trọng. Bạn cảm thấy rất tồi tệ. Kiểm tra dấu hiệu sinh tồn.",
@@ -1073,7 +1073,7 @@
             "happy2dsc": "Mong chờ những gì đang đợi phía trước.",
             "happy3dsc": "Bạn đã tìm thấy sự bình yên ở vùng đất xa lạ này.",
             "happy4dsc": "Bạn đang ở đỉnh cao thế giới, định hình con đường phía trước theo ý muốn. Không có gì có thể ngăn cản bạn!",
-            "impairedspeechdsc": "Có gì đó khiến việc nói chuyện trở nên khó khăn... Bạn có thể gặp khó khăn khi giao tiếp với người khác.",
+            "impairedspeechdsc": "Có gì đó khiến việc nói chuyện trở nên khó khăn... Bạn có thể gặp khó khăn khi giao tiếp.",
             "deaf2dsc": "Bạn không thể nghe rõ các tần số cao như trước. Hãy để đôi tai của bạn nghỉ ngơi một lúc.",
             "deaf3dsc": "Mọi âm thanh đều rất nghẹt và vang. Bạn cảm thấy khó chịu. Việc này có thể mất một thời gian.",
             "deaf4dsc": "Bạn hầu như không nghe được gì. Bạn cảm thấy cực kỳ khó chịu. Tai của bạn sẽ cần một thời gian dài để cải thiện.",
@@ -1412,7 +1412,7 @@
             "presetparadise": "Thiên đường",
             "presetparadisedsc": "Những hang động này chắc chắn tốt hơn các phòng thí nghiệm. Sai lầm ít bị trừng phạt hơn nhiều, vật phẩm và những khuôn mặt thân thiện thì nhan nhản. Có rất ít mối nguy hiểm hay áp lực thời gian.",
             "presetdesolate": "Cô độc",
-            "presetdesolatedsc": "Một mình trong bóng tối. Rất ít đồ để nhặt và nguy hiểm luôn rình rập xung quanh. Mặc dù số người sống sót rất hiếm, nhưng những người bạn tìm thấy sẽ có nhiều điều để chia sẻ.",
+            "presetdesolatedsc": "Một mình trong bóng tối. Rất ít đồ để nhặt và nguy hiểm luôn rình rập xung quanh. Mặc dù số thú sống sót rất hiếm, nhưng những thú bạn tìm thấy sẽ có nhiều điều để chia sẻ.",
             "presetunchipped": "Không có Chip",
             "presetunchippeddsc": "Dù việc không có chip làm giảm bớt giới hạn thời gian nhân tạo so với những cá thể bị gắn chip, nó cũng khiến việc tự chẩn đoán bệnh cho bản thân trở thành một nỗ lực khó khăn. Biết đâu điều đó sẽ xứng đáng vào phút cuối?",
             "presetendless": "Vô tận",
@@ -1482,12 +1482,12 @@
             "runsetencumbrancecapdsc": "Nhân vật có thể mang bao nhiêu trước khi bị quá tải.",
             "runsetnosleeprestrictions": "Không giới hạn giấc ngủ",
             "runsetnosleeprestrictionsdsc": "Nhân vật có thể ngủ bất cứ lúc nào, ngay cả khi không mệt và khi đang bị đau/buồn nôn/v.v. không?",
-            "runsettraderchance": "Tỷ lệ người sống sót",
-            "runsettraderchancedsc": "Tần suất người sống sót xuất hiện trong các khoang cứu sinh",
-            "runsettraderitemamount": "Số lượng vật phẩm của người sống sót",
-            "runsettraderitemamountdsc": "Hệ số cho số lượng vật phẩm mà người sống sót thường mang theo",
-            "runsettraderrepoffset": "Phần bù thiện cảm của người sống sót",
-            "runsettraderrepoffsetdsc": "Lượng thiện cảm cộng thêm/trừ đi khi gặp người sống sót",
+            "runsettraderchance": "Tỷ lệ thương thú",
+            "runsettraderchancedsc": "Tần suất thương thú xuất hiện trong các khoang cứu sinh",
+            "runsettraderitemamount": "Số lượng vật phẩm của thương thú",
+            "runsettraderitemamountdsc": "Hệ số cho số lượng vật phẩm mà thương thú thường mang theo",
+            "runsettraderrepoffset": "Phần bù thiện cảm của thương thú",
+            "runsettraderrepoffsetdsc": "Lượng thiện cảm cộng thêm/trừ đi khi gặp thương thú",
             "runsetitemdecayrate": "Tốc độ hỏng của vật phẩm",
             "runsetitemdecayratedsc": "Tốc độ hỏng của những thứ như thức ăn, túi xách và nguồn sáng",
             "runsetlayermodifierchance": "Tỷ lệ xuất hiện biến đổi tầng",
@@ -1667,7 +1667,7 @@
             "savecontinuedsc": "Đi tiếp.\nBạn chỉ có thể lưu và tiếp tục phần chơi tại các điểm chuyển giao giữa các tầng. Chết hoặc thoát game giữa tầng sẽ xóa tiến trình của bạn.",
             "savecontinuemenudsc": "Tiếp tục cuộc thám hiểm đang diễn ra.\n\nLƯU Ý: Chết hoặc thoát game ở giữa tầng sẽ xóa tiến trình của bạn.",
             "carryingtip": "Độ cồng kềnh",
-            "tradergivebuttontip": "Kéo vật phẩm vào đây để đưa cho người sống sót",
+            "tradergivebuttontip": "Kéo vật phẩm vào đây để đưa cho thương thú",
             "drainliquid": "Đổ chất lỏng ra",
             "dragheretouse": "Kéo vào đây để dùng",
             "dragheretowear": "Kéo vào đây để mặc",
@@ -1902,9 +1902,9 @@
             "purchase": "Mua",
             "trade": "Đưa vật phẩm",
             "reputationtip": "Mức thiện cảm",
-            "reputationtipdsc": "Ảnh hưởng đến giá vật phẩm và thái độ của người sống sót đối với bạn. Dựa vào tình trạng chung của bạn và các tương tác với người sống sót.",
+            "reputationtipdsc": "Ảnh hưởng đến giá vật phẩm và thái độ của thương thú đối với bạn. Dựa vào tình trạng chung của bạn và các tương tác với thương thú.",
             "valuegiventip": "Giá trị đã đưa",
-            "valuegiventipdsc": "Giá trị người sống sót nợ bạn. Đây là đơn vị tiền tệ của bạn khi giao dịch các mặt hàng.\n\nBạn chỉ có thể đạt được tổng giá trị là 60 trước khi người sống sót bắt đầu từ chối lấy thêm vật phẩm.",
+            "valuegiventipdsc": "Giá trị thương thú nợ bạn. Đây là đơn vị tiền tệ của bạn khi giao dịch các mặt hàng.\n\nBạn chỉ có thể đạt được tổng giá trị là 60 trước khi thương thú bắt đầu từ chối lấy thêm vật phẩm.",
             "traderpurchase": "Mua vật phẩm",
             "tradingblocked": "Đã mua quá gần đây",
             "theirinventory": "Hành trang của họ",
@@ -1918,9 +1918,9 @@
             "threaten": "Đe dọa",
             "threatendsc": "Đe dọa họ để nhận được một hoặc hai món đồ miễn phí. Có thể phản tác dụng nghiêm trọng.",
             "rest": "Nghỉ ngơi",
-            "restdsc": "Ngủ một giấc với người sống sót để tăng thiện cảm và có một giấc ngủ thoải mái hơn. Các điều kiện ngủ thông thường vẫn áp dụng.",
+            "restdsc": "Ngủ một giấc với thương thú để tăng thiện cảm và có một giấc ngủ thoải mái hơn. Các điều kiện ngủ thông thường vẫn áp dụng.",
             "tradermove": "Di chuyển",
-            "tradermovedsc": "Lịch sự yêu cầu người giao thương tránh sang một bên, phòng trường hợp họ đang chặn thứ gì đó quan trọng.",
+            "tradermovedsc": "Lịch sự yêu cầu thương thú tránh sang một bên, phòng trường hợp họ đang chặn thứ gì đó quan trọng.",
             "exit": "Thoát",
             "free": "<color=\"orange\">MIỄN PHÍ!",
             "endscreenstatus": "BÁO CÁO TÌNH TRẠNG MSN-CARGO",
@@ -2199,7 +2199,7 @@
                     "..Hmm. Phong cảnh lạ thật...",
                     "Mong là mình nhớ khóa huấn luyện...",
                     "Chưa gì mình đã nhớ bạn bè rồi...",
-                    "người sinh ra mình chắc sẽ tự hào lắm",
+                    "tiền thân của mình chắc sẽ tự hào lắm",
                     "Wow! ...Xám thật.",
                     "Trông rất là sỏi.",
                     "Chưa thấy cánh cửa này mở lâu lắm rồi",
@@ -2587,7 +2587,7 @@
                     "Chết đói...",
                     "Mình đói quá... Mình có thể ăn một... uhh... một... uhm...?",
                     "Mình đang chết đói thèm một miếng để ăn đây.",
-                    "Mình có thể giết người để được ăn thứ gì đó.",
+                    "Mình có thể giết ai đó chỉ để được ăn.",
                     "Mình thấy yếu quá... Mình đói...",
                     "Mình QUÁ đói!",
                     "Mình thực sự sắp chết đói ở đây rồi.",
@@ -2728,7 +2728,7 @@
                     "Mình nhớ cảm giác có bạn đồng hành.",
                     "Mình ước mình có ai đó bên cạnh.",
                     "Mình cảm thấy cô đơn.",
-                    "Mình ước mình có thể tìm được một người bạn...",
+                    "Mình ước mình có thể tìm được một bạn đồng hành...",
                     "Mình ước có ai đó...",
                     "Mình bắt đầu cảm thấy sự cô lập.",
                     "Mình sợ.",
@@ -2766,7 +2766,7 @@
                     "Ở đây THỰC SỰ rất cô đơn...",
                     "Uugh... Mình thực sự cần... Bất kỳ ai, ngay lúc này.",
                     "Ở đây QUÁ cô đơn...",
-                    "Mình ước gì có một người nào đó ở cùng mình...",
+                    "Mình ước gì có ai đó ở cùng mình...",
                     "Cô đơn... Thực sự cô đơn...",
                     "Mình cần chút hỗ trợ...",
                     "Một mình.",
@@ -3084,7 +3084,7 @@
                     "Tội nghiệp bạn ấy.",
                     "Khốn kiếp...",
                     "Awww... Thật là một cảnh tượng đáng buồn.",
-                    "Mình biết là có nhiều người trong chúng ta ở đây...",
+                    "Mình biết là có nhiều thú của chúng ta ở đây...",
                     "Sẽ ổn thôi... Sẽ ổn thôi.",
                     "Ôi mẹ kiếp. Họ chết rồi...",
                     "*hổn hển*",
@@ -3093,7 +3093,7 @@
                     "Mình không nên chạm vào họ...",
                     "Trời đất ơi. Ugh. Họ chết rồi.",
                     "Mình cứ ngỡ mình đã tìm thấy ai đó khác... Khốn kiếp...",
-                    "Có bao nhiêu người trong chúng ta đã chết ở đây...? Trời ạ... Cảnh tượng không đẹp đẽ gì.",
+                    "Có bao nhiêu thú của chúng ta đã chết ở đây...? Trời ạ... Cảnh tượng không đẹp đẽ gì.",
                     "Tốt nhất là mình đừng kết thúc giống thế này.",
                     "...",
                     "...!",
@@ -3101,7 +3101,7 @@
                     "Mình ước mình có thể ôm anh bạn này một cái trước khi họ qua đời.",
                     "Chúa ơi...",
                     "Mình muốn rời khỏi nơi này... Khốn kiếp...",
-                    "Đó là một người đã chết...",
+                    "Đó là một thú đã chết...",
                     "Mình hy vọng ít nhất thì nó không đau đớn...",
                     "Awww... Tội nghiệp...",
                     "Mình sợ mình sẽ gặp số phận tương tự...",
@@ -3112,7 +3112,7 @@
                 ],
                 "seecorpsedesensitized": [
                     "Và thêm một cái nữa...",
-                    "Thực sự có rất nhiều người trong chúng ta ở dưới này.",
+                    "Thực sự có rất nhiều thú của chúng ta ở dưới này.",
                     "Mhm.",
                     "Có gì hữu ích trên người không, bạn hiền?",
                     "Nhiều quá...",
@@ -3134,11 +3134,11 @@
                     "Thật tồi tệ...",
                     "Mỗi lần nhìn thấy một trong số chúng mình thế này, một phần tâm hồn mình lại tan vỡ.",
                     "Đồ miễn phí!",
-                    "Haha... Ai nhặt được người nấy giữ...?",
+                    "Haha... Nhặt được của rơi, tạm thời đút túi...?",
                     "Mình tự hỏi liệu có ai trong số họ có thể được cứu không.",
                     "Hahaha...",
                     "Này! Cậu! ...Ừ, họ chẳng khác gì.",
-                    "Chà, những người này chắc hẳn THỰC SỰ không thích mình... Không một ai thèm nhìn mình!",
+                    "Chà, những thú này chắc hẳn THỰC SỰ không thích mình... Không một ai thèm nhìn mình hết!",
                     "Hãy cứ tiếp tục đi.",
                     "Sự sinh tồn của kẻ mạnh nhất, mình đoán vậy...",
                     "Eugh.",
@@ -3148,9 +3148,9 @@
                     "...Yep, đó lại là một cái xác khác!",
                     "Thêm nhiều xác chết...",
                     "Mình nghĩ mình có thể nhận ra cái đó trong một giây...",
-                    "Quá nhiều người chết...",
+                    "Quá nhiều xác chết...",
                     "Việc này giờ bắt đầu nhàm chán rồi.",
-                    "Mình kinh ngạc vì có bao nhiêu người trong chúng ta đã chết ở đây.",
+                    "Mình kinh ngạc vì có bao nhiêu thú của chúng ta đã chết ở đây.",
                     "....",
                     "Lại là thời điểm đó trong ngày...",
                     "Mình có linh cảm cái này đã chết.",
@@ -3158,7 +3158,7 @@
                     "Chúng ta có gì đây...",
                     "Cậu có gì nào...",
                     "Này, anh bạn nhỏ đã chết.",
-                    "Mình không nghĩ người này sẽ cần đồ đạc của họ nữa.",
+                    "Mình không nghĩ họ sẽ cần đồ đạc của họ nữa.",
                     "...Nhiều hơn cho mình! Haha.",
                     "Cái này trông buồn cười thật. Haha!",
                     "Cái này trông ngốc nghếch...",
@@ -3176,7 +3176,7 @@
                     "Mmh...",
                     "Lạiii một cái nữa...",
                     "Nhìn thấy tất cả những điều này thật đáng buồn.",
-                    "Mình định nói đùa, nhưng mình không thích thiếu tôn trọng người chết.",
+                    "Mình định nói đùa, nhưng mình không thích xúc phạm thú chết.",
                     "Ừ...",
                     "Ai đó đã rất xui xẻo."
                 ],
@@ -3213,7 +3213,7 @@
                     "Khốn kiếp. Ugh.",
                     "Kinh tởm!!! Agh...",
                     "Đừng làm thế nữa nhé...",
-                    "Máu vương đầy người mình... Eo...",
+                    "Máu dính đầy người mình... Eo...",
                     "Đó là một trong số chúng mình...",
                     "Mình CÓ PHẢI làm điều đó không..? E-eo..."
                 ],
@@ -3683,10 +3683,10 @@
                 "tradermeetnormal": [
                     "Này!",
                     "Xin chào!",
-                    "Ô! Cuối cùng cũng có người đi qua...",
+                    "Ô! Cuối cùng cũng có ai đó đi qua...",
                     "Ô! Chào.",
                     "Này! Rất vui được thấy ai đó còn sống.",
-                    "Này, người bạn.",
+                    "Này, bạn.",
                     "Chào mừng!"
                 ],
                 "tradermeetgood": [
@@ -3702,7 +3702,7 @@
                 ],
                 "traderhugsuccess": [
                     "Awww... Cảm ơn bạn.",
-                    "Ahhh... Cảm ơn nhé, người bạn.",
+                    "Ahhh... Cảm ơn bạn nhé.",
                     "Mmmh... Aww, cảm ơn!",
                     "Ah! Mmhh... Cảm ơn bạn...",
                     "Aw! Bạn thật tốt bụng!",
@@ -3963,7 +3963,7 @@
                     "Mình sẽ chăm sóc đồ đạc của bạn thật cẩn thận!"
                 ],
                 "dyingresponse": [
-                    "Khỉ thật... Uh... Mình chưa bao giờ học cách hồi sức cho người khác...",
+                    "Khỉ thật... Uh... Mình chưa bao giờ học cách hồi sức cho thú khác...",
                     "Mình... Uh... Mình hy vọng bạn sẽ không sao..."
                 ]
             },
@@ -3973,14 +3973,14 @@
                     "Xin chào.",
                     "Rất vui được gặp bạn.",
                     "Ah! Chào nhé",
-                    "Xin chào, người đồng cảnh.",
+                    "Xin chào, bạn đồng cảnh.",
                     "Chào mừng bạn.",
                     "Chào mừng.",
                     "Rất vui được gặp bạn!",
                     "Mong mọi chuyện vẫn ổn."
                 ],
                 "tradermeetgood": [
-                    "Thật là vinh dự khi được gặp một người sống sót khác.",
+                    "Thật là vinh dự khi được gặp một thú sống sót khác.",
                     "Ôi! Chào! Bạn thế nào?",
                     "Chào bạn. Bạn có ổn không?",
                     "Ah! Xin chào! Trông bạn phấn khởi phết!",
@@ -3992,7 +3992,7 @@
                     "...Bạn làm mình bối rối đấy. Xin chào.",
                     "...Xin chào.",
                     "Xin chào. Làm ơn đừng chạm vào mình.",
-                    "Xin chào, người bạn sống sót.",
+                    "Xin chào, bạn sống sót.",
                     "Xin chào. Lần sau làm ơn dùng cửa.",
                     "Chào mừng.",
                     "Xin chào."
@@ -4065,7 +4065,7 @@
                     "Việc bị thương không phải là sở thích của mình. Lấy bất cứ thứ gì rồi đi đi.",
                     "Được rồi. Hãy chọn đi và làm ơn rời khỏi khoang của mình.",
                     "Mình hy vọng điềm xui chờ đợi bạn. Được rồi. Lấy nó và rời đi.",
-                    "Bạn là một người tồi tệ, bạn biết không?",
+                    "Bạn là một thú tồi tệ, bạn biết không?",
                     "Vậy ra đây là cách bạn giải quyết vấn đề. Mhm. Được thôi.",
                     "Việc này thực sự phải đến mức này sao? Bạn hiểu chuyện mà... Ugh. Được rồi.",
                     "Một vụ cướp không phải là thứ nằm trong danh sách những việc cần làm của mình. Nhưng, được thôi. Chỉ cần đừng làm mình đau."
@@ -4094,7 +4094,7 @@
                     "Ahh... Mình sẽ... Mình sẽ cho phép việc đó.",
                     "Thật là trìu mến...",
                     "Awww. Bạn thực sự cần cái đó...",
-                    "Aww, bạn đúng là một người tốt.",
+                    "Aww, bạn đúng là một thú tốt.",
                     "Mmmhh...",
                     "Thật là một sự thể hiện tình cảm..."
                 ],
@@ -4132,7 +4132,7 @@
                     "Được thôi."
                 ],
                 "tradermovefail": [
-                    "Tại sao mình phải di chuyển vì một người như cậu chứ?"
+                    "Tại sao mình phải di chuyển vì một thú như cậu chứ?"
                 ],
                 "vomitresponse": [
                     "Có vẻ như bạn vừa trả lại toàn bộ đồ ăn trong dạ dày.",
@@ -4412,12 +4412,12 @@
         "notes": [
             [
                 {
-                    "Item1": "điều này thật kinh khủng. có quá nhiều xác chết... mình sợ. tại sao họ lại gửi quá nhiều người chúng mình đến đây? mình không hiểu. mình thực sự không hiểu. họ đã đánh gục mình bằng một loại phi tiêu nào đó và ép mình vào một cái khoang để gửi đến đây. mình ghét hành tinh này.",
+                    "Item1": "điều này thật kinh khủng. có quá nhiều xác chết... mình sợ. tại sao họ lại gửi chúng mình đến đây? mình không hiểu. mình thực sự không hiểu. họ đã đánh gục mình bằng một loại phi tiêu nào đó và ép mình vào một cái khoang để gửi đến đây. mình ghét hành tinh này.",
                     "Item2": "",
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình đã hỏi những người khác xung quanh về khả năng nhìn thấy trạng thái thể chất của chúng ta trong tâm trí, và hóa ra đây là điều mà hầu như tất cả những người khác ở đây đều làm được. Khá thú vị - đây không phải là điều chúng mình từng có thể làm được khi ở nhà. Có phải chúng mình đã bị cấy ghép thứ gì đó? Không có vật thể gắn kèm nào có thể nhìn thấy trên bất kỳ ai trong chúng mình. mình cũng nhận thấy rằng có rất ít người ở đây không chia sẻ trải nghiệm này, dường như thiếu đi bất cứ thứ gì cho phép chúng mình làm điều này. Thật kỳ lạ.",
+                    "Item1": "mình đã hỏi những thú khác xung quanh về khả năng nhìn thấy trạng thái thể chất của chúng ta trong tâm trí, và hóa ra đây là điều mà hầu như tất cả những thú khác ở đây đều làm được. Khá thú vị - đây không phải là điều chúng mình từng có thể làm được khi ở nhà. Có phải chúng mình đã bị cấy ghép thứ gì đó? Không có vật thể gắn kèm nào có thể nhìn thấy trên bất kỳ ai trong chúng mình. mình cũng nhận thấy rằng có rất ít thú ở đây không chia sẻ trải nghiệm này, dường như thiếu đi bất cứ thứ gì cho phép chúng mình làm điều này. Thật kỳ lạ.",
                     "Item2": "Sprites/noteDrawings/puppet",
                     "Item3": "milky"
                 },
@@ -4432,7 +4432,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình không hiểu tại sao chúng ta lại ở đây. để làm gì chứ? mình biết mình được cho là phải thu hồi một loại pin hay gì đó. mình cho rằng những người khác cũng có cùng nhiệm vụ. không có cách nào để làm việc này hiệu quả hơn sao? logic hơn? tại sao lại gửi mình đến đây chứ. mình nhớ bạn bè của mình. mình không muốn chết.",
+                    "Item1": "mình không hiểu tại sao chúng ta lại ở đây. để làm gì chứ? mình biết mình được cho là phải thu hồi một loại pin hay gì đó. mình cho rằng những thú khác cũng có cùng nhiệm vụ. không có cách nào để làm việc này hiệu quả hơn sao? logic hơn? tại sao lại gửi mình đến đây chứ. mình nhớ bạn bè của mình. mình không muốn chết.",
                     "Item2": "Sprites/noteDrawings/alone",
                     "Item3": "experiment"
                 },
@@ -4447,7 +4447,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình nhận thấy vẽ là một cách giải thoát khá ổn cho tình huống mà mình đang gặp phải. Có vẻ như tất cả mọi người đều đang phải vật lộn với trạng thái tinh thần của mình. Thỉnh thoảng có một thứ gì đó làm phân tâm khỏi thực tại khắc nghiệt cũng tốt.",
+                    "Item1": "mình nhận thấy vẽ là một cách giải thoát khá ổn cho tình huống mà mình đang gặp phải. Có vẻ như tất cả mọi thú đều đang phải vật lộn với trạng thái tinh thần của mình. Thỉnh thoảng có một thứ gì đó làm phân tâm khỏi thực tại khắc nghiệt cũng tốt.",
                     "Item2": "",
                     "Item3": "milky"
                 },
@@ -4462,12 +4462,12 @@
                     "Item3": "dune"
                 },
                 {
-                    "Item1": "Sự phân bố của các loài ở đây dường như rất không cân xứng. Các cá thể thí nghiệm ở khắp mọi nơi, nhưng các loài khác như của chúng mình dường như ít hơn rất nhiều. Lạ thật... Dù sao thì, mình không thích số lượng thương vong ở đây. Nhiều người trong chúng mình cần được giúp đỡ hơn.",
+                    "Item1": "Sự phân bố của các loài ở đây dường như rất không cân xứng. Các cá thể thí nghiệm ở khắp mọi nơi, nhưng các loài khác như của chúng mình dường như ít hơn rất nhiều. Lạ thật... Dù sao thì, mình không thích số lượng thương vong ở đây. Nhiều thú trong chúng mình cần được giúp đỡ hơn.",
                     "Item2": "Sprites/noteDrawings/milky",
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "mình đang tự kiểm tra bản thân sau một sự cố đau đớn thì phát hiện ra một vết sưng đen, sần sùi trên da. Nó có hình dạng không đều và có nhiều màu sắc kỳ lạ cũng như lốm đốm. mình ước tính đường kính của nó xấp xỉ tám milimet. Khi kiểm tra kỹ hơn, mình tìm thấy thêm vài vết nữa ở nhiều vị trí khác nhau trên cơ thể. mình đã liên lạc với một người bạn trẻ hơn và họ có vẻ không có vết nào, nhưng người bạn lớn tuổi hơn của mình lại có nhiều hơn. mình có nên theo dõi sự tiến triển của căn bệnh ác tính tiềm tàng này không?",
+                    "Item1": "mình đang tự kiểm tra bản thân sau một sự cố đau đớn thì phát hiện ra một vết sưng đen, sần sùi trên da. Nó có hình dạng không đều và có nhiều màu sắc kỳ lạ cũng như lốm đốm. mình ước tính đường kính của nó xấp xỉ tám milimet. Khi kiểm tra kỹ hơn, mình tìm thấy thêm vài vết nữa ở nhiều vị trí khác nhau trên cơ thể. mình đã liên lạc với một thú trẻ hơn và họ có vẻ không có vết nào, nhưng bạn thú lớn tuổi hơn của mình lại có nhiều hơn. mình có nên theo dõi sự tiến triển của căn bệnh ác tính tiềm tàng này không?",
                     "Item2": "",
                     "Item3": "milky"
                 },
@@ -4487,7 +4487,7 @@
                     "Item3": "dune"
                 },
                 {
-                    "Item1": "ôm người khác làm mình hạnh phúc hơn... nhưng một số người sống sót lại từ chối những cái ôm, mình nghĩ mình có thể xoa dịu họ bằng cách nào đó. ngoài ra ngủ cạnh họ tốt hơn nhiều so với việc nằm một mình trên sàn lạnh.",
+                    "Item1": "ôm thú khác làm mình hạnh phúc hơn... nhưng một số thú sống sót lại từ chối những cái ôm, mình nghĩ mình có thể xoa dịu họ bằng cách nào đó. ngoài ra ngủ cạnh họ tốt hơn nhiều so với việc nằm một mình trên sàn lạnh.",
                     "Item2": "",
                     "Item3": "experiment"
                 },
@@ -4497,12 +4497,12 @@
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "mình tìm thấy một vũ khí. một khẩu súng. trời ạ... mình không quen dùng thứ này... lẽ ra mình nên cẩn thận hơn trong các buổi huấn luyện... mình hoàn toàn không hiểu tại sao họ lại không giết bỏ mình mà lại gửi đến đây khi không chuẩn bị trước như thế này. mình gần như đã vô tình bắn một ai đó. lẽ ra mình nên bật chốt an toàn của súng... mình là ai mà biết được chứ. những người khác có xu hướng thực sự hoảng sợ khi họ thấy bạn cầm vũ khí trong tay. vì vậy có lẽ tốt nhất là nên giấu nó vào trong thứ gì đó, để họ không nhìn thấy. họ nghĩ bạn sẽ bắn họ, họ không biết ý định của bạn. chà, mình cũng sẽ nghĩ như vậy nếu có ai đó chĩa súng vào mình.",
+                    "Item1": "mình tìm thấy một vũ khí. một khẩu súng. trời ạ... mình không quen dùng thứ này... lẽ ra mình nên cẩn thận hơn trong các buổi huấn luyện... mình hoàn toàn không hiểu tại sao họ lại không giết bỏ mình mà lại gửi đến đây khi không chuẩn bị trước như thế này. mình gần như đã vô tình bắn một ai đó. lẽ ra mình nên bật chốt an toàn của súng... mình là ai mà biết được chứ. những thú khác có xu hướng thực sự hoảng sợ khi họ thấy bạn cầm vũ khí trong tay. vì vậy có lẽ tốt nhất là nên giấu nó vào trong thứ gì đó, để họ không nhìn thấy. họ nghĩ bạn sẽ bắn họ, họ không biết ý định của bạn. chà, mình cũng sẽ nghĩ như vậy nếu có ai đó chĩa súng vào mình.",
                     "Item2": "",
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình thật giận bản thân mình vì đã hành xử như một thằng khốn nạn với những người khác ở trên đó... bây giờ tất cả những người sống sót mà mình tìm thấy đều đuổi mình ra khỏi khoang của họ... chậc, nếu mà bạn biết họ đã chửi rủa khó nghe thế nào... họ đã cố cào mình... và mình chỉ tự nhủ với bản thân: \"được rồi, mình xin lỗi. chết tiệt thật, bạn có nhận ra rằng hiện tại mỗi mạng sống đều quan trọng không? không có chỗ cho việc làm tổn thương và giết chóc lẫn nhau đâu.\". mình ước mình là một người tốt hơn... đây đều là lỗi của chính mình.",
+                    "Item1": "mình thật giận bản thân mình vì đã hành xử như một thằng khốn nạn với những thú khác ở trên đó... bây giờ tất cả những thú sống sót mà mình tìm thấy đều đuổi mình ra khỏi khoang của họ... chậc, nếu mà bạn biết họ đã chửi rủa khó nghe thế nào... họ đã cố cào mình... và mình chỉ tự nhủ với bản thân: \"được rồi, mình xin lỗi. chết tiệt thật, bạn có nhận ra rằng hiện tại mỗi mạng sống đều quan trọng không? không có chỗ cho việc làm tổn thương và giết chóc lẫn nhau đâu.\". mình ước mình là một thú tốt hơn... đây đều là lỗi của chính mình.",
                     "Item2": "",
                     "Item3": "experiment"
                 },
@@ -4517,12 +4517,12 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "điều này nói ra có thể rất lạ nhưng mình đã bằng lòng với tình huống này. mình đã cố gắng tự chăm sóc bản thân nhiều nhất có thể và cố gắng an ủi tất cả những người khác mà mình đã gặp ở dưới này. nó làm mình cảm thấy... mãn nguyện? mặc dù mình đã bị thương rất nhiều nhưng mình đã có thể xử lý nó mà không cảm thấy chán nản.\nmình sẽ cố gắng đi xa nhất có thể, và mặc dù có lẽ mình sẽ không thành công, mình biết mình đã làm hết sức và giúp đỡ càng nhiều người khác càng tốt. đó là tất cả những gì bất cứ ai trong chúng ta có thể làm.\nnếu bạn đang đọc điều này, đừng bỏ cuộc, nhé?",
+                    "Item1": "điều này nói ra có thể rất lạ nhưng mình đã bằng lòng với tình huống này. mình đã cố gắng tự chăm sóc bản thân nhiều nhất có thể và cố gắng an ủi tất cả những người khác mà mình đã gặp ở dưới này. nó làm mình cảm thấy... mãn nguyện? mặc dù mình đã bị thương rất nhiều nhưng mình đã có thể xử lý nó mà không cảm thấy chán nản.\nmình sẽ cố gắng đi xa nhất có thể, và mặc dù có lẽ mình sẽ không thành công, mình biết mình đã làm hết sức và giúp đỡ càng nhiều thú khác càng tốt. đó là tất cả những gì bất cứ ai trong chúng ta có thể làm.\nnếu bạn đang đọc điều này, đừng bỏ cuộc, nhé?",
                     "Item2": "",
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình đã nhìn thấy ngày càng nhiều những khoang đổ nát này gần đây, hơi giống những cái mà họ đã gửi chúng mình xuống đây ngoại trừ những cái này bằng cách nào đó đã nổ tung <>\nbên trong đống đổ nát, mình thường tìm thấy một số loại đạn súng cùng với một cục thịt gớm ghiếc nào đó? \n<>\ntrông thật tồi tệ nhưng nó có thể ăn được???\ncái người gọi là dune mà mình gặp trước đó nói với mình rằng ăn nó rất tốt\nmình có thể thử ăn một chút\n<>\n\nđã ăn nó và nôn mửa liên tục trong hai mươi phút, sai lầm tồi tệ nhất trong cuộc đời mình <>\nvì chúa, đừng ăn bất cứ thứ gì đó là",
+                    "Item1": "mình đã nhìn thấy ngày càng nhiều những khoang đổ nát này gần đây, hơi giống những cái mà họ đã gửi chúng mình xuống đây ngoại trừ những cái này bằng cách nào đó đã nổ tung <>\nbên trong đống đổ nát, mình thường tìm thấy một số loại đạn súng cùng với một cục thịt gớm ghiếc nào đó? \n<>\ntrông thật tồi tệ nhưng nó có thể ăn được???\nthú mà tự gọi là dune mình gặp trước đó nói với mình rằng ăn nó rất tốt\nmình có thể thử ăn một chút\n<>\n\nđã ăn nó và nôn mửa liên tục trong hai mươi phút, sai lầm tồi tệ nhất trong cuộc đời mình <>\nvì chúa, đừng ăn bất cứ thứ gì đó là",
                     "Item2": "",
                     "Item3": "experiment"
                 },
@@ -4542,22 +4542,22 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "Cái hang chứa đầy đủ loại sinh vật liên tục đi lang thang khắp mọi nơi. mình là một người hơi theo chủ nghĩa hòa bình, vì vậy mình cố gắng chạy trốn khỏi chúng, thay vì chiến đấu với chúng, vì mình không biết ai sẽ giết ai trước... Xét cho cùng, những vết thương chúng để lại trên người mình đau đớn khủng khiếp... mình không biết nữa... Những kẻ giam giữ chúng mình có biết chúng mình đang trải qua những gì ở dưới này không?",
+                    "Item1": "Cái hang chứa đầy đủ loại sinh vật liên tục đi lang thang khắp mọi nơi. mình là một thú hơi theo chủ nghĩa hòa bình, vì vậy mình cố gắng chạy trốn khỏi chúng, thay vì chiến đấu với chúng, vì mình không biết ai sẽ giết ai trước... Xét cho cùng, những vết thương chúng để lại trên thú mình đau đớn khủng khiếp... mình không biết nữa... Những kẻ giam giữ chúng mình có biết chúng mình đang trải qua những gì ở dưới này không?",
                     "Item2": "",
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "mình đã bị một cú ngã tồi tệ. THỰC SỰ tồi tệ. Ngay vào một cái hố và không thể leo lên hay đào ra với những vết thương của mình. Nhưng mình đã thoát ra được với những mảnh kim loại vụn này, và muốn cho những người khác cũng biết điều này.\n\nĐó là các vách hang động! Không có gì mình tìm thấy - ngay cả thuốc nổ - dường như có thể xuyên thủng ranh giới bên ngoài của hang động. Nhưng chúng không bằng phẳng, và nếu bạn xếp đủ các mảnh kim loại vụn chồng lên nhau, bạn có thể nêm chúng vào những khoảng trống nhỏ này và tạo ra toàn bộ một chỗ đứng bằng kim loại vụn. Khi mình đang chảy máu cho đến chết trong cái hố tối tăm đó, mình đã sử dụng các mảnh vỡ thu thập được của mình để làm một loại cầu thang để trốn thoát và tìm vật tư khẩn cấp.\n\nTuy nhiên, mình hy vọng bạn không bao giờ rơi vào tình huống đó. Có lẽ bạn có thể sử dụng thủ thuật này để bảo vệ bản thân khỏi bị thương ngay từ đầu? Ai biết được còn có những thứ kinh tởm nào khác ở trong này cùng với chúng ta.\n\nCó lẽ bạn sẽ bắt kịp mình và chúng ta có thể chia sẻ chiến lược.\nmình hy vọng mình sẽ ở đó để gặp bạn.",
+                    "Item1": "mình đã bị một cú ngã tồi tệ. THỰC SỰ tồi tệ. Ngay vào một cái hố và không thể leo lên hay đào ra với những vết thương của mình. Nhưng mình đã thoát ra được với những mảnh kim loại vụn này, và muốn cho những thú khác cũng biết điều này.\n\nĐó là các vách hang động! Không có gì mình tìm thấy - ngay cả thuốc nổ - dường như có thể xuyên thủng ranh giới bên ngoài của hang động. Nhưng chúng không bằng phẳng, và nếu bạn xếp đủ các mảnh kim loại vụn chồng lên nhau, bạn có thể nêm chúng vào những khoảng trống nhỏ này và tạo ra toàn bộ một chỗ đứng bằng kim loại vụn. Khi mình đang chảy máu cho đến chết trong cái hố tối tăm đó, mình đã sử dụng các mảnh vỡ thu thập được của mình để làm một loại cầu thang để trốn thoát và tìm vật tư khẩn cấp.\n\nTuy nhiên, mình hy vọng bạn không bao giờ rơi vào tình huống đó. Có lẽ bạn có thể sử dụng thủ thuật này để bảo vệ bản thân khỏi bị thương ngay từ đầu? Ai biết được còn có những thứ kinh tởm nào khác ở trong này cùng với chúng ta.\n\nCó lẽ bạn sẽ bắt kịp mình và chúng ta có thể chia sẻ chiến lược.\nmình hy vọng mình sẽ ở đó để gặp bạn.",
                     "Item2": "",
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "mình cảm thấy cô đơn... vì vậy mình quyết định tự làm mình phân tâm:\nmình tìm thấy một loại máy fax thu nhỏ nào đó mà mình có thể nghiền nát để mở ra, và mình kéo những tờ giấy của nó ra. Sau đó mình lấy một cái que, và vắt một trong những trái cây phát sáng lên đó. Nó hóa ra giống như một chiếc cọ và vải vẽ! Giá như bạn biết... mình bắt đầu vẽ những thực tại thay thế nơi chúng ta được tự do và sống hòa bình cùng nhau; không có những tên cặn bã nhà khoa học đó... mình cảm thấy rất hạnh phúc, và đã khóc một chút.\nNhưng bây giờ mình phải đi: cảm thấy hơi đói! Có lẽ nếu chúng ta gặp nhau, mình cũng sẽ vẽ bạn...? mình thực sự giỏi trong việc sử dụng \"cọ\". mình cũng sẽ cố gắng dạy những người khác vẽ...",
+                    "Item1": "mình cảm thấy cô đơn... vì vậy mình quyết định tự làm mình phân tâm:\nmình tìm thấy một loại máy fax thu nhỏ nào đó mà mình có thể nghiền nát để mở ra, và mình kéo những tờ giấy của nó ra. Sau đó mình lấy một cái que, và vắt một trong những trái cây phát sáng lên đó. Nó hóa ra giống như một chiếc cọ và vải vẽ! Giá như bạn biết... mình bắt đầu vẽ những thực tại thay thế nơi chúng ta được tự do và sống hòa bình cùng nhau; không có những tên cặn bã nhà khoa học đó... mình cảm thấy rất hạnh phúc, và đã khóc một chút.\nNhưng bây giờ mình phải đi: cảm thấy hơi đói! Có lẽ nếu chúng ta gặp nhau, mình cũng sẽ vẽ bạn...? mình thực sự giỏi trong việc sử dụng \"cọ\". mình cũng sẽ cố gắng dạy những thú khác vẽ...",
                     "Item2": "",
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "mình không mạnh mẽ lắm, vì vậy mình đã hy vọng được lập nhóm với những người khác. Chúng mình sẽ có cơ hội sống sót cao hơn nhiều bằng cách đó, nhưng không ai mà mình hỏi có hứng thú. Mọi người đều sợ hãi và một số người trong chúng mình rất nguy hiểm. Có quá nhiều bẫy đến nỗi không thể di chuyển theo nhóm lớn. mình biết mình sẽ chết vì một lý do hoàn toàn ngu ngốc...\n\nCon người thật tàn nhẫn. mình không thể hiểu nổi.",
+                    "Item1": "mình không mạnh mẽ lắm, vì vậy mình đã hy vọng được lập nhóm với những thú khác. Chúng mình sẽ có cơ hội sống sót cao hơn nhiều bằng cách đó, nhưng không ai mà mình hỏi có hứng thú. Mọi thú đều sợ hãi và một số trong chúng mình rất nguy hiểm. Có quá nhiều bẫy đến nỗi không thể di chuyển theo nhóm lớn. mình biết mình sẽ chết vì một lý do hoàn toàn ngu ngốc...\n\nCon người thật tàn nhẫn. mình không thể hiểu nổi.",
                     "Item2": "",
                     "Item3": "milky"
                 },
@@ -4579,7 +4579,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mọi thứ đang diễn ra tốt đẹp với mình. thức ăn ngon trong bụng mình và có lẽ một hoặc hai cái đuôi nấm làm mình vui. các người sống sót cũng mỉm cười đáp lại mình! mình chỉ ghét nhìn thấy mình chảy máu, nó làm mình sợ",
+                    "Item1": "mọi thứ đang diễn ra tốt đẹp với mình. thức ăn ngon trong bụng mình và có lẽ một hoặc hai cái đuôi nấm làm mình vui. các thú sống sót cũng mỉm cười đáp lại mình! mình chỉ ghét nhìn thấy mình chảy máu, nó làm mình sợ",
                     "Item2": "",
                     "Item3": "experiment"
                 },
@@ -4589,7 +4589,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "những ánh đèn nhấp nháy màu đỏ trong bóng tối là bẫy gai. hãy cẩn thận với chúng. làm ơn. làm ơn. có người vừa bước vào một cái ở phía xa, mình chỉ nghe thấy một tiếng kêu ăng ẳng và sự im lặng sau đó. hãy giữ an toàn",
+                    "Item1": "những ánh đèn nhấp nháy màu đỏ trong bóng tối là bẫy gai. làm ơn, làm ơn hãy cẩn thận với chúng. có ai đó vừa bước vào một cái ở phía xa, mình chỉ nghe thấy một tiếng kêu ăng ẳng và sự im lặng sau đó. hãy giữ an toàn",
                     "Item2": "",
                     "Item3": "experiment"
                 },
@@ -4599,7 +4599,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình đã gặp một người, chúng mình đồng ý cố gắng ra ngoài bề mặt thông qua một trong những lỗ thủng dẫn ra ngoài. bạn mình bước ra trước, và ngay lập tức họ bắt đầu loạng choạng vì sốc. họ dường như đang rất đau đớn. họ nôn mửa rất nhiều, sau đó gục ngã và ngừng thở ngay sau đó. da của họ cũng bắt đầu phồng rộp, đặc biệt là quanh đầu và cổ. có thứ gì đó đang ngăn cản chúng ta rời đi. mình sợ.",
+                    "Item1": "mình đã gặp một thú, chúng mình đồng ý cố gắng ra ngoài bề mặt thông qua một trong những lỗ thủng dẫn ra ngoài. bạn mình bước ra trước, và ngay lập tức họ bắt đầu loạng choạng vì sốc. họ có vẻ như đang rất đau đớn. họ nôn mửa rất nhiều, sau đó gục ngã và ngừng thở ngay sau đó. da của họ cũng bắt đầu phồng rộp, đặc biệt là quanh đầu và cổ. có thứ gì đó đang ngăn cản chúng ta rời đi. mình sợ.",
                     "Item2": "Sprites/noteDrawings/radiation",
                     "Item3": "experiment"
                 },
@@ -4624,7 +4624,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "Con người làm những điều kỳ lạ. Bạn không bao giờ nên tin tưởng rằng họ sẽ tốt bụng.\nNhưng bạn có thể tin tưởng họ sẽ giữ cho bạn sống sót.<>\nMột lần mình bị gãy tay, và họ bó nó vào một cái \"bó bột.\" mình không thích nó. Nó nặng nề và ngăn cánh tay mình cử động hoàn toàn. Có vẻ như họ cố tình làm cho nó tệ hơn, và họ bắt mình phải đeo nó trong một thời gian dài.<>\nHọ đã tháo nó ra vào một ngày nọ, và cánh tay mình vẫn ổn.<>\nCon người đã làm nó tệ hơn, để nó có thể tốt hơn.<>\n\nmình nghĩ họ đã làm điều gì đó tương tự với đầu của Jumper.\nJumper từng hét và khóc rất nhiều. Một lần họ tự làm mình bị thương, và con người đã đưa họ đi.<>\nJumper hiện đã trở lại. Họ không khóc nữa. Họ không nói chuyện. Họ lúc nào cũng trông có vẻ buồn ngủ. Đầu của họ giống như cánh tay của mình trước đây. mình không thể nhìn thấy bất kỳ \"bó bột\" nào xung quanh nó, và hành vi của họ làm mình lo lắng, nhưng ít nhất họ không còn tự làm mình bị thương nữa. mình hy vọng con người sẽ hoàn tác bất cứ điều gì họ đã làm khi đầu của Jumper được sửa xong.<>\n\nmình nhớ họ.",
+                    "Item1": "Con người làm những điều kỳ lạ. Bạn không bao giờ nên tin tưởng rằng họ sẽ tốt bụng.\nNhưng bạn có thể tin tưởng họ để giữ cho bạn sống.<>\nMột lần mình bị gãy tay, và họ bó nó vào một cái \"bó bột.\" mình không thích nó. Nó nặng nề và ngăn cánh tay mình cử động hoàn toàn. Trông thì có vẻ như họ cố tình làm cho nó tệ hơn, và họ bắt mình phải đeo nó trong một thời gian dài.<>\nHọ đã tháo nó ra vào một ngày nọ, và cánh tay mình vẫn ổn.<>\nCon người đã làm nó tệ hơn, để nó có thể tốt hơn.<>\n\nmình nghĩ họ đã làm điều gì đó tương tự với đầu của Jumper.\nJumper từng hét và khóc rất nhiều. Một lần họ tự làm mình bị thương, và con người đã đưa họ đi.<>\nJumper hiện đã trở lại. Họ không khóc nữa. Họ không nói chuyện. Họ lúc nào cũng trông có vẻ buồn ngủ. Đầu của họ giống như cánh tay của mình trước đây. mình không thể nhìn thấy bất kỳ \"bó bột\" nào xung quanh nó, và hành vi của họ làm mình lo lắng, nhưng ít nhất họ không còn tự làm họ bị thương nữa. mình hy vọng con người sẽ sửa lại bất cứ điều gì họ đã làm khi đầu của Jumper được sửa xong.<>\n\nmình nhớ họ.",
                     "Item2": "",
                     "Item3": "milky"
                 }
@@ -4661,7 +4661,7 @@
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "Tò mò, mình đã cố gắng di chuyển ở tư thế nằm sấp.\n<>\nSự hữu ích thật bất ngờ. Nó không chỉ cho phép người ta rửa sạch các chất bẩn trong những vũng nước cạn và lách qua những khoảng trống hẹp, mà đáng chú ý là ngay cả khi bò qua các mảnh kính vỡ rải rác cũng không dẫn đến thương tích nào.\n<>\nTuy nhiên, tự mãn là nguy hiểm. mình đã đánh giá sai một cú rơi nhẹ và tự làm mình bị thương.\n<>\nChạy lăng xăng như thế... Chắc mình trông hệt như một trong những con \"giun\" mà mình từng nghe nói tới.",
+                    "Item1": "Tò mò, mình đã cố gắng di chuyển ở tư thế nằm sấp.\n<>\nSự hữu ích thật bất ngờ. Nó không chỉ cho phép ta rửa sạch các chất bẩn trong những vũng nước cạn và lách qua những khoảng trống hẹp, mà đáng chú ý là ngay cả khi bò qua các mảnh kính vỡ rải rác cũng không dẫn đến thương tích nào.\n<>\nTuy nhiên, tự mãn là nguy hiểm. mình đã đánh giá sai một cú rơi nhẹ và tự làm mình bị thương.\n<>\nChạy lăng xăng như thế... Chắc mình trông hệt như một trong những con \"giun\" mà mình từng nghe nói tới.",
                     "Item2": "",
                     "Item3": "milky"
                 },
@@ -4671,12 +4671,12 @@
                     "Item3": "dune"
                 },
                 {
-                    "Item1": "Thật đau lòng khi phải thừa nhận, nhưng sự yếu ớt của giống loài mình không thể bị phủ nhận. May mắn thay, mình đã tìm thấy một vật chứa tuyệt vời giúp vô hiệu hóa hoàn toàn trọng lượng của hầu hết các mặt hàng, cho phép mình mang theo nhiều vật tư hơn mức bình thường mình có thể mang được.\nNó chạy bằng pin, và điều đó làm mình lo lắng. mình không chắc điều gì sẽ xảy ra khi hết điện, vì vậy mình sẽ kiểm tra nó ngay bây giờ, cho an toàn.<>\nmình không muốn nó trở nên nặng nề khi đang nhảy giữa chừng. mình đang có một cục pin gần hết điện trong người.\nĐã đến lúc xem chiếc túi hoạt động như thế nào khi nó hết điện.\n\n(Phần còn lại của tờ ghi chú không thể đọc được; bất cứ văn bản nào được viết bên dưới đều bị che khuất bởi một lượng máu khô khổng lồ.)",
+                    "Item1": "Thật đau lòng khi phải thừa nhận, nhưng sự yếu ớt của giống loài mình là không thể bỏ qua được. May mắn thay, mình đã tìm thấy một vật chứa tuyệt vời giúp vô hiệu hóa hoàn toàn trọng lượng của hầu hết các mặt hàng, cho phép mình mang theo nhiều vật phẩm hơn mức bình thường.\nNó chạy bằng pin, và điều đó làm mình lo lắng. mình không chắc điều gì sẽ xảy ra khi hết điện, vì vậy mình sẽ kiểm tra nó ngay bây giờ, cho an toàn.<>\nmình không muốn nó trở nên nặng nề khi đang nhảy giữa chừng. mình đang có một cục pin gần hết điện trong người.\nĐã đến lúc xem chiếc túi hoạt động như thế nào khi nó hết điện.\n\n(Phần còn lại của tờ ghi chú không thể đọc được; bất cứ văn bản nào được viết bên dưới đều bị che khuất bởi một vết máu khô khổng lồ.)",
                     "Item2": "",
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "Thậm chí còn chưa thoát khỏi cảnh quan đầy đá địa ngục này, và mình đã cảm thấy cái chết đang kề cận,\nTất cả những gì họ đưa cho mình là một ngọn đuốc tồi tàn thậm chí không kéo dài nổi một giờ; thậm chí không có bất kỳ thiết bị an toàn nào để giúp giảm bớt những cú ngã mà mình đã phải chịu.\n\nCHẾT TIỆT THẬT, mình cảm thấy như một quả bóng từ một trong những cỗ máy đánh bạc mà mình thấy con người sử dụng!\n\nmình nghĩ mình có thể đang chết dần chết mòn, kể từ cú ngã cuối cùng, mình luôn cảm thấy khá nặng đầu, mình cảm thấy mệt mỏi; nhưng mình cảm thấy nếu mình ngủ, mình sẽ chết.\n\nChúa cứu mình.\nCHẾT TIỆT, anh bạn.\nmình thực sự không muốn chết, không phải theo cách này..\nMặc dù mục đích của tất cả chuyện này là gì?\nmình thậm chí không có một cái tên cho chính mình, chỉ là một thẻ tên..\nChết tiệt...",
+                    "Item1": "Thậm chí còn chưa thoát khỏi cảnh quan đầy đá địa ngục này, và mình đã cảm thấy cái chết đang kề cận,\nTất cả những gì họ đưa cho mình là một cái đèn pin tồi tàn thậm chí không kéo dài nổi một giờ; thậm chí không có bất kỳ thiết bị an toàn nào để giúp giảm bớt những cú ngã mà mình đã phải chịu.\n\nCHẾT TIỆT THẬT, mình cảm thấy như một quả bóng từ một trong những cỗ máy đánh bạc mà mình thấy con người sử dụng!\n\nmình nghĩ mình có thể đang chết dần chết mòn, kể từ cú ngã cuối cùng, mình luôn cảm thấy khá nặng đầu, mình cảm thấy mệt mỏi; nhưng mình cảm thấy nếu mình ngủ, mình sẽ chết.\n\nChúa cứu mình.\nCHẾT TIỆT, anh bạn.\nmình thực sự không muốn chết, không phải theo cách này..\nMặc dù mục đích của tất cả chuyện này là gì?\nmình thậm chí không có một cái tên cho chính mình, chỉ là một thẻ tên..\nChết tiệt...",
                     "Item2": "",
                     "Item3": "milky"
                 }
@@ -4688,7 +4688,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình không thể nữa. tại sao.\nmọi người đã chết\nmình không thể.\nmình muốn chuyện này dừng lại\nmình không thể\nmình muốn sự tự do\ntại sao\nmình không thể. mình không muốn nhìn thấy bất kỳ điều gì thế này nữa. mình đã thấy quá nhiều điều tồi tệ. mình quá ốm yếu.\nchân mình bị hỏng rồi. bị nổ tung bởi một quả mìn\ntay mình, tay phải, cũng đang hành hạ mình rất dữ dội\nmình muốn chấm dứt mọi thứ\nmọi thứ là một sự khốn khổ\nmình không thể chịu đựng thêm nữa\nmột lát nữa mình sẽ cào đứt động mạch của mình và biến thành một cái xác khác để bạn liếc nhìn - miễn là họ không ăn thịt mình vào lúc bạn đến đây.\n\ncảm ơn vì tất cả mọi thứ. tạm biệt",
+                    "Item1": "mình không thể nữa. tại sao.\nmọi thú khác đã chết\nmình không thể.\nmình muốn chuyện này dừng lại\nmình không thể\nmình muốn sự tự do\ntại sao\nmình không thể. mình không muốn nhìn thấy bất kỳ điều gì thế này nữa. mình đã thấy quá nhiều điều tồi tệ. mình quá ốm yếu.\nchân mình bị hỏng rồi. bị nổ tung bởi một quả mìn\ntay mình, tay phải, cũng đang hành hạ mình rất dữ dội\nmình muốn chấm dứt mọi thứ\nmọi thứ là một sự khốn khổ\nmình không thể chịu đựng thêm nữa\nmột lát nữa mình sẽ cào đứt động mạch của mình và biến thành một cái xác khác để bạn liếc nhìn - miễn là họ không ăn thịt mình vào lúc bạn đến đây.\n\ncảm ơn vì tất cả mọi thứ. tạm biệt",
                     "Item2": "",
                     "Item3": "experiment"
                 },
@@ -4698,12 +4698,12 @@
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "Hôm nay mình tình cờ bắt gặp một cánh cửa mà việc mở khóa phụ thuộc vào việc chèn một số đồ phế liệu. mình không sở hữu bất kỳ thứ nào trên người; tuy nhiên, may mắn thay, mình được trang bị một máy khoan hành động bằng laser, giúp mình nhanh chóng giải quyết các bức tường xung quanh. Bên trong, mình thu được một thiết bị điện tử lưu trữ một số bản nhạc tuyệt vời. Thỉnh thoảng mình có nghe nó.",
+                    "Item1": "Hôm nay mình tình cờ bắt gặp một cánh cửa mà việc mở khóa phụ thuộc vào việc chèn một số đồ phế liệu. mình không sở hữu bất kỳ thứ nào trên người; tuy nhiên, may mắn thay, mình được trang bị một máy khoan bằng laser, giúp mình nhanh chóng giải quyết các bức tường xung quanh. Bên trong, mình thu được một thiết bị điện tử lưu trữ một số bản nhạc tuyệt vời. Thỉnh thoảng mình có nghe nó.",
                     "Item2": "",
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "Các vũng dầu trên hành tinh này chắc chắn là không tự nhiên. Cố gắng tìm hiểu nguồn gốc của chúng, mình bò qua một trong những đường ống trống không chỉ để tìm thấy một tấm màn kim loại cứng cản bước mình tiến tới.\nCó một biển báo đằng sau nó ghi \"Nguồn Xử Lý Chất Thải\". mình đã khoan xuyên qua đường ống để đi vòng qua tấm màn, nhưng đường ống đột ngột dừng lại. Nó phải được kết nối với thứ gì đó từ ngôi nhà cũ của chúng mình, nhưng mình không hiểu bằng cách nào.\n\nBiển báo đó liên tục làm mình lo lắng. Con người có muốn vứt bỏ chúng ta nữa không?",
+                    "Item1": "Các vũng dầu trên hành tinh này chắc chắn là không tự nhiên. Mình đã cố gắng tìm hiểu nguồn gốc của chúng, mình bò qua một trong những đường ống trống chỉ để tìm thấy một tấm màn kim loại cứng cản bước mình.\nCó một biển báo đằng sau nó ghi \"Nguồn Xử Lý Chất Thải\". mình đã khoan xuyên qua đường ống để đi vòng qua tấm màn, nhưng đường ống đột ngột dừng lại. Nó phải được kết nối với thứ gì đó từ nơi ở cũ của chúng mình, nhưng mình không hiểu bằng cách nào.\n\nBiển báo đó liên tục làm mình lo lắng. Con người có cũng muốn vứt bỏ chúng mình không?",
                     "Item2": "",
                     "Item3": "milky"
                 },
@@ -4718,12 +4718,12 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "ở dưới này quá nóng. mình cảm thấy như mình chỉ đang lao từ khoang cứu sinh này sang khoang cứu sinh khác. mình thậm chí không muốn mở các viên nang thả xuống, chúng cũng làm mình nóng lên. tuy nhiên người bạn dune tên stimpy của mình dường như không bận tâm lắm. phải chăng họ chỉ không phàn nàn, hay là tất cả lớp da đó đang làm họ mát đi?",
+                    "Item1": "ở dưới này quá nóng. mình cảm thấy như mình chỉ đang lao từ khoang cứu sinh này sang khoang cứu sinh khác. mình thậm chí không muốn mở các viên nang thả xuống, chúng cũng làm mình nóng lên. tuy nhiên bạn dune tên stimpy của mình dường như không bận tâm lắm. phải chăng họ chỉ không phàn nàn, hay là tất cả lớp da đó đang làm họ mát đi?",
                     "Item2": "",
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "cứu mình    đã giẫm phải   đĩa phát nổ   mình  đang trong   rất nhiều   đau đớn  cứu    cứu mình  làm ơn   mình đang n g ấ t    đ i",
+                    "Item1": "cứu mình    đã giẫm phải   đĩa phát nổ   mình  đang trong   rất nhiều   đau đớn  cứu    cứu mình  làm ơn   mình đang n g ấ t    đ",
                     "Item2": "",
                     "Item3": "experiment"
                 },
@@ -4745,7 +4745,7 @@
                     "Item3": "milky"
                 },
                 {
-                    "Item1": "một trong những người khác mà mình tìm thấy đã rơi vào một đống đá màu tím đó. mình đã xoay xở để kéo họ ra nhưng bộ lông của cả hai chúng mình đều đang rụng. mình không biết chuyện gì đang xảy ra.<>\n\n\n\n\nmình đã ăn một trong những quả nổ lép bép bên cạnh một chiếc khoang cứu sinh... mọi thứ ngừng đau đớn. nhưng khi họ cắn vào một quả, họ bắt đầu nôn ra máu chỉ vài phút sau đó. họ không thở nữa. có gì khác biệt chứ? chúng trông giống nhau mà. phải chăng mình chỉ may mắn sống sót? tại sao họ không khá hơn.",
+                    "Item1": "một trong những thú khác mà mình tìm thấy đã rơi vào một đống đá màu tím đó. mình đã xoay xở để kéo họ ra nhưng bộ lông của cả hai chúng mình đều đang rụng. mình không biết chuyện gì đang xảy ra.<>\n\n\n\n\nmình đã ăn một trong những quả nổ lép bép bên cạnh một chiếc khoang cứu sinh... mọi thứ ngừng đau đớn. nhưng khi họ cắn vào một quả, họ bắt đầu nôn ra máu chỉ vài phút sau đó. họ không thở nữa. có gì khác biệt chứ? chúng trông giống nhau mà. phải chăng mình chỉ may mắn sống sót? tại sao họ không khá hơn.",
                     "Item2": "Sprites/noteDrawings/wasteland",
                     "Item3": "milky"
                 },
@@ -4826,7 +4826,7 @@
                     "Item3": "experiment"
                 },
                 {
-                    "Item1": "mình không biết cái gì đã đánh mình nhưng mình không còn cảm thấy chân mình nữa, tất cả những gì mình có thể thấy là một mớ hỗn độn của cơ xương và máu\ncơ thể mình đang gào thét đòi sự đau đớn kết thúc \nthứ duy nhất mình có là thiết bị màu xanh này trên ngực. mình được người người sống sót mà mình mua nó từ đó bảo rằng nó chỉ nên được sử dụng trong trường hợp khẩn cấp.\nCơn đau không còn quá sức chịu đựng nữa, nhưng bây giờ đèn đang nhấp nháy. mình không biết mình còn bao lâu nữa. bóng tối có trở lại khi thứ này hết điện không? mình không muốn tan biến...",
+                    "Item1": "mình không biết cái gì đã đánh mình nhưng mình không còn cảm thấy chân mình nữa, tất cả những gì mình có thể thấy là một mớ hỗn độn của cơ xương và máu\ncơ thể mình đang gào thét đòi sự đau đớn kết thúc \nthứ duy nhất mình có là thiết bị màu xanh này trên ngực. mình được thú sống sót mà mình mua nó từ đó bảo rằng nó chỉ nên được sử dụng trong trường hợp khẩn cấp.\nCơn đau không còn quá sức chịu đựng nữa, nhưng bây giờ đèn đang nhấp nháy. mình không biết mình còn bao lâu nữa. bóng tối có trở lại khi thứ này hết điện không? mình không muốn tan biến...",
                     "Item2": "",
                     "Item3": "milky"
                 }
@@ -4935,11 +4935,11 @@
                 "Item2": ""
             },
             {
-                "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nCHỦ ĐỀ: Thông báo về việc kết bạn với người Sawian\nTỪ: Quản lý Dự án\nĐẾN: Toàn thể Nhân viên\n<>\n[NỘI DUNG]\n\nKính gửi đội ngũ nhân viên,\n\nChúng tôi đã nhận được sự chú ý rằng một trong những nhân viên của chúng ta đã liên tục gặp gỡ một SAW-03 và tiết lộ thông tin riêng tư cho nó. Đây không chỉ là một sự vi phạm bảo mật nghiêm trọng, mà việc có những mối quan hệ như vậy với các mẫu vật là hoàn toàn không thể chấp nhận được. Nhà khoa học liên quan đã nhanh chóng bị chấm dứt hợp đồng và SAW-03 đã tự sát ngay sau đó.\n\nBẠN có người bạn Sawian nào không? Chúng tôi đang nhắm đến bạn. Giờ chưa phải quá muộn để dừng lại. Nhưng nếu chúng tôi bắt gặp bạn kết bạn với chúng, bạn sẽ gặp phải kết cục tương tự.\n\nTrân trọng,\nQuản lý Dự án\n\n[KẾT THÚC]",
+                "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nCHỦ ĐỀ: Thông báo về việc kết bạn với thú Sawian\nTỪ: Quản lý Dự án\nĐẾN: Toàn thể Nhân viên\n<>\n[NỘI DUNG]\n\nKính gửi đội ngũ nhân viên,\n\nChúng tôi đã nhận được sự chú ý rằng một trong những nhân viên của chúng ta đã liên tục gặp gỡ một SAW-03 và tiết lộ thông tin riêng tư cho nó. Đây không chỉ là một sự vi phạm bảo mật nghiêm trọng, mà việc có những mối quan hệ như vậy với các mẫu vật là hoàn toàn không thể chấp nhận được. Nhà khoa học liên quan đã nhanh chóng bị chấm dứt hợp đồng và SAW-03 đã tự sát ngay sau đó.\n\nBẠN có người bạn Sawian nào không? Chúng tôi đang nhắm đến bạn. Giờ chưa phải quá muộn để dừng lại. Nhưng nếu chúng tôi bắt gặp bạn kết bạn với chúng, bạn sẽ gặp phải kết cục tương tự.\n\nTrân trọng,\nQuản lý Dự án\n\n[KẾT THÚC]",
                 "Item2": ""
             },
             {
-                "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nCHỦ ĐỀ: Quá muộn cho những câu hỏi của bạn\nTỪ: Nhà nghiên cứu\nĐẾN: Nhà tâm lý học\n<>\n[NỘI DUNG]\n\nTôi viết thư này để cho bạn biết rằng tất cả những người Sawian đã nổi loạn vào tuần trước ĐÃ BỊ an tử, vì vậy tôi e rằng bạn sẽ không thể đưa ra các câu hỏi của mình.\n\nChúng đã được phỏng vấn kỹ lưỡng, và chúng thú nhận rằng mọi thứ chúng biết đều đến từ SAW-03 đó, vì vậy bí ẩn đã được giải quyết. Đáng lo ngại thay, một số nhà khoa học mà chúng giết lại là những người trực tiếp quản lý chúng, và chúng thừa nhận đã cố tình nhắm vào họ.\n\nTôi nghe nói an ninh sẽ được thắt chặt, vì vậy hy vọng mớ hỗn độn này sẽ không xảy ra nữa.\n\nTrân trọng,\nNhà nghiên cứu\n\n[KẾT THÚC]",
+                "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nCHỦ ĐỀ: Quá muộn cho những câu hỏi của bạn\nTỪ: Nhà nghiên cứu\nĐẾN: Nhà tâm lý học\n<>\n[NỘI DUNG]\n\nTôi viết thư này để cho bạn biết rằng tất cả những thú Sawian đã nổi loạn vào tuần trước ĐÃ BỊ an tử, vì vậy tôi e rằng bạn sẽ không thể đưa ra các câu hỏi của mình.\n\nChúng đã được phỏng vấn kỹ lưỡng, và chúng thú nhận rằng mọi thứ chúng biết đều đến từ SAW-03 đó, vì vậy bí ẩn đã được giải quyết. Đáng lo ngại thay, một số nhà khoa học mà chúng giết lại là những người trực tiếp quản lý chúng, và chúng thừa nhận đã cố tình nhắm vào họ.\n\nTôi nghe nói an ninh sẽ được thắt chặt, vì vậy hy vọng mớ hỗn độn này sẽ không xảy ra nữa.\n\nTrân trọng,\nNhà nghiên cứu\n\n[KẾT THÚC]",
                 "Item2": ""
             },
             {
@@ -4991,11 +4991,11 @@
                 "Item2": ""
             },
             {
-                "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------<>\nThì.\nĐây là \"hành trình\" của tôi vào lúc này. Rõ ràng đây là một tác phẩm viết mô tả cuộc sống và kinh nghiệm của một người.\nTôi không hoàn toàn chắc chắn tại sao những người mặc áo khoác lại bắt tôi làm điều này, nhưng điều tương tự cũng có thể nói về hầu hết những việc họ bắt chúng tôi làm.\nDù sao thì hôm nay tôi cũng may mắn. Mọi chuyện có thể tệ hơn nhiều so với một bài tập viết.\nTôi thấy thiết bị này khá thú vị, và thật đáng tiếc là tôi sẽ phải chia tay nó chỉ sau vài giờ nữa. Nhưng tôi đã được giao nhiệm vụ, và tôi sẽ hoàn thành nó.<>\n\nChúng tôi thường thức dậy bởi nhau hoặc bởi tiếng chuông báo giờ ăn đầu tiên. Hiếm khi chúng tôi bị đánh thức ngay lập tức để làm bài kiểm tra.\nTôi không chắc \"giờ\" này diễn ra lúc nào... Chết tiệt, tôi hầu như không hiểu khái niệm này. Mặc dù tôi nghe thấy những người mặc áo khoác nói về nó suốt...\n\nDù sao thì, chúng tôi thức dậy và chẳng mấy chốc đã đến giờ ăn bữa đầu tiên trong ngày.\nTuy nhiên, chủ yếu vẫn là thanh dinh dưỡng. Chúng khá nhạt nhẽo, nhưng tôi không thể phàn nàn...\n\n--------------------------------------------------<>\nBây giờ đã vài giờ trôi qua.\n\nĐây là lúc những người mặc áo khoác đi săn. Họ gọi bạn bằng số thứ tự, và bạn phải đến chỗ họ.\nHoặc họ sẽ tìm đến bạn. \nBạn không muốn điều đó đâu.\nĐôi khi, họ gọi ra nhiều số... Nhưng thường thì đó là một dấu hiệu tốt.<>\n\nNhững gì họ sẽ làm với bạn thực sự là tùy thuộc vào may rủi.\nCác bài kiểm tra có thể vô hại, có thể rất khủng khiếp, hoặc có thể có lợi.\nCần lưu ý rằng những người mặc áo khoác chỉ CỐ GẮNG làm mọi việc, và mặc dù đôi khi họ cố gắng giúp đỡ, nhưng những nỗ lực đó thường ít thành công hơn nhiều so với những nỗ lực mà họ cố gắng làm hại bạn.<>\n\nHai số được gọi, và hai người khác đứng dậy, vẻ mặt họ đầy lo lắng.\nMột trong hai khỏe mạnh. Có nhiều khả năng bị thương hơn.\n\nNgười kia có bốn cánh tay.\nMột cái bên trái, và ba cái bên phải.\nChà, nếu bạn có thể gọi những khối u kỳ lạ đó là cánh tay. Chúng trông khá giống nhau?\nBan đầu họ được sinh ra với hai cánh tay. Những người mặc áo khoác quyết định rằng như vậy là quá nhiều và trong hôm đó họ đã cắt bỏ một cánh tay.\nNgày hôm sau, người đó quay lại với MƯỜI MỘT cánh tay.\nCon người đã cắt bỏ mười trong số đó, chỉ để ban cho chúng bảy cánh tay mới.\nNgày hôm sau là năm.\nHôm nay là bốn.\n\nBọn họ sắp xong rồi.<>\n\nNgười bạn tội nghiệp này được gọi là Cánh tay. Và tôi thề, đây là tên của họ TRƯỚC khi toàn bộ chuyện này xảy ra, và người ta tin rộng rãi rằng con người đã chọn tên cho họ vì điều đó.\nCó lẽ đó chính là trò đùa của chúng?\n\n[TRANG 1 TRONG 2]",
+                "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------<>\nThì.\nBây giờ đây là \"nhật kí\" của mình. Rõ ràng đây là một tác phẩm viết mô tả cuộc sống và trải nghiệm của một ai đó.\nMình không hoàn toàn chắc chắn tại sao những người mặc áo khoác lại bắt mình làm điều này, nhưng điều tương tự cũng có thể nói về hầu hết những việc họ bắt chúng mình làm.\nDù sao thì hôm nay mình cũng may mắn. Mọi chuyện có thể tệ hơn nhiều so với một bài tập viết.\nTôi thấy thiết bị này khá thú vị, và thật đáng tiếc là tôi sẽ phải chia tay nó chỉ sau vài giờ nữa. Nhưng mình đã được giao nhiệm vụ, và mình sẽ hoàn thành nó.<>\n\nChúng mình thường gọi nhau dậy hoặc bởi tiếng chuông báo giờ ăn đầu tiên. Hiếm khi chúng mình bị đánh thức ngay lập tức để làm bài kiểm tra.\nTôi không chắc \"giờ\" này diễn ra lúc nào... Chết tiệt, mình hầu như không hiểu khái niệm này. Mặc dù mình nghe thấy những người mặc áo khoác nói về nó suốt...\n\nDù sao thì, chúng mình thức dậy và chẳng mấy chốc đã đến giờ ăn bữa đầu tiên trong ngày.\nTuy nhiên, chủ yếu vẫn là thanh dinh dưỡng. Chúng khá nhạt nhẽo, nhưng mình không thể phàn nàn...\n\n--------------------------------------------------<>\nBây giờ đã vài giờ trôi qua.\n\nĐây là lúc những người mặc áo khoác đi săn. Họ gọi bạn bằng số thứ tự, và bạn phải đến chỗ họ.\nHoặc họ sẽ tìm đến bạn. \nBạn không muốn điều đó đâu.\nĐôi khi, họ gọi ra nhiều số... Nhưng thường thì đó là một dấu hiệu tốt.<>\n\nNhững gì họ sẽ làm với bạn thực sự là tùy thuộc vào may rủi.\nCác bài kiểm tra có thể vô hại, có thể rất khủng khiếp, hoặc có thể có lợi.\nCần lưu ý rằng những người mặc áo khoác chỉ CỐ GẮNG làm mọi việc, và mặc dù đôi khi họ cố gắng giúp đỡ, nhưng những nỗ lực đó thường ít thành công hơn nhiều so với những nỗ lực mà họ cố gắng làm hại bạn.<>\n\nHai số được gọi, và hai người khác đứng dậy, vẻ mặt họ đầy lo lắng.\nMột trong hai khỏe mạnh. Có nhiều khả năng bị thương hơn.\n\nNgười kia có bốn cánh tay.\nMột cái bên trái, và ba cái bên phải.\nChà, nếu bạn có thể gọi những khối u kỳ lạ đó là cánh tay. Chúng trông khá giống nhau?\nBan đầu họ được sinh ra với hai cánh tay. Những người mặc áo khoác quyết định rằng như vậy là quá nhiều và trong hôm đó họ đã cắt bỏ một cánh tay.\nNgày hôm sau, người đó quay lại với MƯỜI MỘT cánh tay.\nCon người đã cắt bỏ mười trong số đó, chỉ để ban cho chúng bảy cánh tay mới.\nNgày hôm sau là năm.\nHôm nay là bốn.\n\nBọn họ sắp xong rồi.<>\n\nNgười bạn tội nghiệp này được gọi là Cánh tay. Và tôi thề, đây là tên của họ TRƯỚC khi toàn bộ chuyện này xảy ra, và chúng mình tin rằng con người đã chọn tên cho họ vì điều đó.\nCó lẽ đó chính là trò đùa của họ?\n\n[TRANG 1 TRONG 2]",
                 "Item2": ""
             },
             {
-                "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------\n<>\nThật yên tĩnh. Những người may mắn thường chỉ nghỉ ngơi; đôi khi họ giao lưu với nhau. Thường thì, họ chỉ lo lắng cho những người đã bị bắt đi.\nCái khái niệm \"Giờ giấc\", chu kỳ này, lịch trình này... Thật đáng sợ.\nTôi không hiểu. Tại sao mỗi chu kỳ ngủ lại được chia thành 24 (?) giờ? Điều gì chi phối những quy tắc này? Ngay cả con người cũng tuân theo nó.\nCó thứ gì đó ở trên họ đang điều khiển nó không?\n<>\n\nVài giờ sau, những người bị thử nghiệm đầu tiên bắt đầu quay trở lại.\nTrường hợp tốt nhất là họ tự đi vào. Thực ra khá phổ biến.\nĐôi khi họ được khiêng vào.\nHiếm khi, hai lính canh bước vào. Họ đi thẳng đến giường của ai đó và lấy đi đồ đạc của họ.\nNếu đó là bạn của bạn, và những người lính canh là những người hiền lành, họ sẽ cho bạn giữ lại một hoặc hai thứ.\nTôi không còn ai để chờ đợi nữa, vì vậy tôi chỉ quan sát những người đang chờ đợi. Ai cũng quen với chuyện này rồi, nhưng sự hồi hộp vẫn luôn hiện hình.\n<>\n\nGiờ ăn tối.\nMáy phân phát thức ăn thả một ít thịt chín lên đĩa ăn tôi. May mắn thật. Chắc chắn là ngon hơn bữa sáng rồi.\nMột vài người khác khẽ ngân nga tán thưởng vì họ cũng may mắn như vậy. Những người khác thì càu nhàu khi được phục vụ những thanh dinh dưỡng quen thuộc. Thật sự là họ đang cho chúng ta ăn bất cứ thứ gì họ có... Hoặc có lẽ đây cũng là một bài thử nghiệm chăng?\nThỉnh thoảng xảy ra xô xát vì thức ăn, nhưng điều đó rất hiếm. Các lính canh sẽ không vui mỗi khi chuyện này xảy ra.\n \nMọi người trò chuyện. Họ chơi đùa. Họ hát hò.\nMột số người tự băng bó vết thương hoặc giúp đỡ người khác băng bó vết thương.\nĐó là một khoảng thời gian yên tĩnh.\nNhững người mặc áo khoác đã xong việc của họ rồi.\n\nSau đó.\nKhoảng một \"giờ\" nữa, bữa ăn cuối cùng trong ngày của chúng tôi sẽ được phục vụ.\nGiờ ngủ theo ngay sau đó.\nThực ra cũng không còn gì để nói nữa.\n\nThực ra, còn một điều nữa. Rất hiếm khi, sẽ có thêm các bài kiểm tra được gọi vào khoảng thời gian này. À thì, con người gọi đó là \"Di dời\" hoặc \"Nhiệm vụ.\"\n<>\nBạn sẽ không bao giờ quay lại khi được gọi đi làm một trong những việc đó. Nhưng họ luôn cho phép bạn mang đồ đạc của mình đi. Tôi không chắc liệu họ thực sự đưa bạn đến một nơi khác hay chỉ đơn giản là muốn đẩy nhanh quá trình dọn dẹp nơi ở của bạn bằng cách để bạn tự làm.\n<>\n\nMọi người đều tự hỏi chuyện gìììììììììììììììììììììììììììììììì\nfddda\nchết tiệt\nTôi bị đơ một lúc. Tôi không thể xóa các chữ cái được. Thiết bị này không cho phép tôi. Thật là\nkhỉ thật\n<>\ntay tôi run quá, khó mà gõ chữ được\nhọ gọi kiểm tra tối nay\ntôi không biết những người được gọi sẽ đi đâu\nnhưng họ đã gọi số của tôi\ntôi sắp đoán ra được rồi\n<>\nchúc tôi may mắn\n\n[TRANG 2 TRONG 2]",
+                "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------\n<>\nThật yên tĩnh. Những người may mắn thường chỉ nghỉ ngơi; đôi khi họ giao lưu với nhau. Thường thì, họ chỉ lo lắng cho những người đã bị bắt đi.\nCái khái niệm \"Giờ giấc\", chu kỳ, lịch trình này... Thật đáng sợ.\nTôi không hiểu. Tại sao mỗi chu kỳ ngủ lại được chia thành 24 (?) giờ? Điều gì chi phối những quy tắc này? Ngay cả con người cũng tuân theo nó.\nCó thứ gì đó ở cao siêu họ đang điều khiển nó không?\n<>\n\nVài giờ sau, những người bị thử nghiệm đầu tiên bắt đầu quay trở lại.\nTrường hợp tốt nhất là họ tự đi vào. Thực ra khá phổ biến.\nĐôi khi họ được khiêng vào.\nHiếm khi, hai lính canh bước vào. Họ đi thẳng đến giường của ai đó và lấy đi đồ đạc của họ.\nNếu đó là bạn của bạn, và những người lính canh là những người hiền lành, họ sẽ cho bạn giữ lại một hoặc hai thứ.\nTôi không còn ai để chờ đợi nữa, vì vậy tôi chỉ quan sát những người đang chờ đợi. Ai cũng quen với chuyện này rồi, nhưng sự hồi hộp vẫn luôn hiện hình.\n<>\n\nGiờ ăn tối.\nMáy phân phát thức ăn thả một ít thịt chín lên đĩa ăn tôi. May mắn thật. Chắc chắn là ngon hơn bữa sáng rồi.\nMột vài người khác khẽ ngân nga tán thưởng vì họ cũng may mắn như vậy. Những người khác thì càu nhàu khi được phục vụ những thanh dinh dưỡng quen thuộc. Thật sự là họ đang cho chúng ta ăn bất cứ thứ gì họ có... Hoặc có lẽ đây cũng là một bài thử nghiệm chăng?\nThỉnh thoảng xảy ra xô xát vì thức ăn, nhưng điều đó rất hiếm. Các lính canh sẽ không vui mỗi khi chuyện này xảy ra.\n \nMọi người trò chuyện. Họ chơi đùa. Họ hát hò.\nMột số người tự băng bó vết thương hoặc giúp đỡ người khác băng bó vết thương.\nĐó là một khoảng thời gian yên tĩnh.\nNhững người mặc áo khoác đã xong việc của họ rồi.\n\nSau đó.\nKhoảng một \"giờ\" nữa, bữa ăn cuối cùng trong ngày của chúng mình sẽ được phục vụ.\nGiờ ngủ theo ngay sau đó.\nCũng không còn gì để nói nữa.\n\nThực ra, còn một điều nữa. Rất hiếm khi, sẽ có thêm các bài kiểm tra được gọi vào khoảng thời gian này. À thì, con người gọi đó là \"Di dời\" hoặc \"Nhiệm vụ.\"\n<>\nBạn sẽ không bao giờ quay lại khi được gọi đi làm một trong những việc đó. Nhưng họ luôn cho phép bạn mang đồ đạc của mình đi. Mình không chắc liệu họ thực sự đưa bạn đến một nơi khác hay chỉ đơn giản là muốn đẩy nhanh quá trình dọn dẹp nơi ở của bạn bằng cách để bạn tự làm.\n<>\n\nMọi người đều tự hỏi chuyện gì thực ssssssssssssssssssssssssssssssssssssssssssss\nfddda\nchết tiệt\nMáy bị đơ một lúc. Mình không thể xóa các chữ cái được. Thiết bị này không cho phép mình. Nó rất kà\nkhỉ thật\n<>\ntay mình run quá, khó mà gõ chữ được\nhọ gọi kiểm tra tối nay\nmình không biết những người được gọi sẽ đi đâu\nnhưng họ đã gọi số của mình\nmình sắp được biết được rồi\n<>\nhy vọng mình gặp may mắn\n\n[TRANG 2 TRONG 2]",
                 "Item2": ""
             },
             {
@@ -5024,17 +5024,17 @@
             "Cứ hít vào và thở ra.",
             "Nó không đến nỗi TỆ lắm đâu...",
             "Chúng ta hãy tạm dừng.",
-            "Đang căng thẳng sao?",
+            "Căng thẳng sao?",
             "Woah, ngươi còn sống sao?",
-            "Này, quay lại làm việc đi!",
+            "Này, tiếp tục đi chứ!",
             "Hãy hít thở.",
             "Đến giờ ăn trưa à?",
             "Lấy một chút đồ ăn vặt cho bản thân đi.",
-            "Ồ, thôi nào!",
+            "Ôi thôi nào!",
             "Thật đau lòng khi chứng kiến ​​cảnh tượng đó.",
-            "Nó đáng lẽ có thể đã tốt hơn.",
+            "Nó có thể đã tốt hơn.",
             "Sống sót vui vẻ nhé!",
-            "Lười.",
+            "Đồ lười.",
             "Vậy, ngày hôm nay của ngươi như thế nào?",
             "Chào!",
             "Đợi ngươi mất khá lâu đấy..",
@@ -5110,7 +5110,7 @@
             "Trì hoãn điều không thể tránh khỏi?",
             "Ta e rằng bệnh của ngươi không thể chữa khỏi.",
             "Bạn quá kiên cường đến mức gây hại cho chính mình.",
-            "Này, chúng ta sắp đến đoạn hay nhất rồi mà!",
+            "Này, ta sắp đến đoạn hay nhất rồi mà!",
             "Đừng tự mãn."
         ]
     }
