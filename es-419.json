@@ -4638,9 +4638,9 @@
                 "Mi <limb> está transmitiendo señales de dolor.",
                 "Dolor.",
                 "Siento molestias en mi <limb>.",
-                "Mi <limb> esta adolorido.",
+                "Me duele mi <limb>.",
                 "Esto se siente mal.",
-                "Mi <limb> esta afligido.",
+                "Mi <limb> presenta anomalías.",
                 "Se detecta actividad nociceptiva.",
                 "Caray.",
                 "Agh...",
@@ -4774,7 +4774,7 @@
                 "Hay algo malo con mi cráneo.",
                 "Hay un sabor metálico en mi boca.",
                 "Mi cabeza se siente rara.",
-                "Esoy roto.",
+                "Estoy roto.",
                 "¿Quies es Berta...?"
             ],
             "lastmoments": [
