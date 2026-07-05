@@ -21,7 +21,7 @@
         "musharm": "Liana",
         "musharmdsc": "Parte no comestible de la planta, útil como vendaje de un solo uso. También puedes usarlo como si fueran hojas para crear objetos.",
         "paincream": "Botella de crema de alivio",
-        "paincreamdsc": "Una botella de tamaño pequeño de 100 ml usado para contener crema de alivio. Usa 10 ml por dosis.",
+        "paincreamdsc": "Una botella de tamaño pequeño de 100 ml usada para contener crema de alivio. Usa 10 ml por dosis.",
         "morphine": "Jeringa de morfina",
         "morphinedsc": "Una jeringa que almacena 100 ml y se administra por vía intravenosa. En la etiqueta, se advierte: Sobredosis a 88 ml.",
         "makeshiftlrd": "D.R.L. improvisado",
@@ -53,7 +53,7 @@
         "aed": "Desfibrilador externo automático",
         "aeddsc": "Un dispositivo electrónico que diagnostica arritmias cardíacas potencialmente mortales y las trata mediante descargas eléctricas. Debe usarse en tu torso superior. En comparación con un desfibrilador manual, no necesita capacitación previa, pero tarda más en funcionar y usa más energía.",
         "manualdefibrillator": "Desfibrilador manual",
-        "manualdefibrillatordsc": "Un dispositivo electrónico usado para estabilizar ritmos cardíacos graves. Debe usarse en tu torso superior. Este modelo es manual y debe ser operado con conocimientos previos para usarlo apropiadamente. En comparación con un DEA, es más rápido y usa menos energía, pero puede no funcionar. Niveles más altos en INT facilitará su uso.",
+        "manualdefibrillatordsc": "Un dispositivo electrónico usado para estabilizar ritmos cardíacos graves. Debe usarse en tu torso superior. Este modelo es manual y debe ser operado con conocimientos previos para usarlo apropiadamente. En comparación con un DEA, es más rápido y usa menos energía, pero puede no funcionar. Niveles más altos en INT facilitarán su uso.",
         "antidepressants": "Botella de antidepresivos",
         "antidepressantsdsc": "Un frasco de pastillas para la depresión que almacena 140 ml. Usa 20 ml por dosis.",
         "antibiotics": "Botella de antibióticos",
@@ -253,7 +253,7 @@
         "titaniumpickaxe": "Pico de titanio",
         "titaniumpickaxedsc": "Una herramienta finamente elaborada hecha de titanio forjado. Muy duradero y eficiente en remover terreno, aunque no apta para el combate.",
         "titaniummultitool": "Multiherramienta de titanio",
-        "titaniummultitooldsc": "Una herramienta pequeña, pero resistente y duradera usada para crear objetos, viene integrado un martillo pesado en su punta y una hoja pequeña, pero afilada oculta en el mango. Aunque no sea útil para escavar, ni para el combate, durará casi indefinidamente para cualquier tipo de recetas para crear objetos, y es ligera.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
+        "titaniummultitooldsc": "Una herramienta pequeña, pero resistente y duradera usada para crear objetos, viene integrado un martillo pesado en su punta y una hoja pequeña, pero afilada oculta en el mango. Aunque no sea útil para excavar, ni para el combate, durará casi indefinidamente para cualquier tipo de recetas para crear objetos, y es ligera.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
         "titaniummachete": "Machete de titanio",
         "titaniummachetedsc": "Una herramienta duradera con altas capacidades en el combate, fácil y ligera de blandir, pero devastadora y afilada como una navaja. Su filo fue tratado térmicamente para evitar el desgaste de la hoja con el tiempo. Una herramienta asombrosa para defensa personal, pudiendo ser usada como herramienta de excavación como último recurso.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
         "sledgehammer": "Mazo",
@@ -353,7 +353,7 @@
         "nopopcorn": "Canasta sin palomitas",
         "nopopcorndsc": "Canasta de papel vacío. Puedes almacenar cosas ahí dentro.",
         "spacedrain": "Drenador espacial",
-        "spacedraindsc": "Gracias a su avanzada tecnología de teletransportación, puede drenar líquidos al usarlo. Nadie sabe adónde va los líquidos drenados... Aunque no es tu problema. Se recarga automáticamente.",
+        "spacedraindsc": "Gracias a su avanzada tecnología de teletransportación, puede drenar líquidos al usarlo. Nadie sabe adónde van los líquidos drenados... Aunque no es tu problema. Se recarga automáticamente.",
         "hoodie": "Sudadera",
         "hoodiedsc": "Una sudadera negra de gran tamaño que te mantiene abrigado y tiene un pequeño bolsillo.",
         "metabolismchip": "Chip metabólico",
@@ -557,7 +557,7 @@
         "firestarter": "Encendedor",
         "firestarterdsc": "Un dispositivo para generar fuego por fricción con una varilla de madera que gira rápidamente en una cavidad de madera. En pocas palabras, el palo gira y genera fuego. Puede ser usado hasta tres veces más antes de que se consuma.",
         "charcoal": "Carbón",
-        "charcoaldsc": "Un pedazo pequeño y ligero de carbón. Puede ser usado como ingrediente flamable para crear objetos.",
+        "charcoaldsc": "Un pedazo pequeño y ligero de carbón. Puede ser usado como ingrediente inflamable para crear objetos.",
         "ryebulb": "Bulbo con centeno",
         "ryebulbdsc": "Un saco delgado lleno de granos. Podrías molerlo hasta convertirlo en harina si tienes una herramienta para martillear.",
         "ryeflour": "Harina de centeno",
@@ -604,7 +604,7 @@
         "snowstrider": "Caminante helado",
         "snowstriderdsc": "Una criatura grande y esponjosa que busca alimento en las regiones frías de este sistema de cuevas. Su grueso pelaje la mantiene caliente.",
         "spaceheater": "Calentador de iones",
-        "spaceheaterdsc": "Un dispositivo que calienta intensamente el área circundante. Podría provocar una leve enfermedad por radiación si estas demasiado cerca durante mucho tiempo.",
+        "spaceheaterdsc": "Un dispositivo que calienta intensamente el área circundante. Podría provocar una leve enfermedad por radiación si estás demasiado cerca durante mucho tiempo.",
         "xaloris": "Xaloris",
         "xalorisdsc": "Un helecho esponjoso y zarzoso que calienta el aire a su alrededor para esparcir esporas. Mantiene a raya el resfriado, pero inhalar las esporas durante demasiado tiempo puede afectar tu sistema inmune.",
         "lifepodheater": "Calentador de cápsula salvavidas",
@@ -680,7 +680,7 @@
         "geotree": "Geoárbol",
         "geotreedsc": "¡Es blandito! Tiene cosas extrañamente geométricas que parecen hojas.",
         "glowplant": "Planta luminosa",
-        "glowplantdsc": "Una planta verde y bioluminiscente. Parece muy tranquilo por el medio ambiente.",
+        "glowplantdsc": "Una planta verde y bioluminiscente. Parece muy tranquila por el medio ambiente.",
         "mushlight": "Luz pastosa",
         "mushlightdsc": "Un tipo de planta bioluminiscente.",
         "jumppad": "Maquinaria vieja",
@@ -790,7 +790,7 @@
         "traderdsc": "Otra víctima desafortunada. Al menos sigue respirando.",
         "traderdscdead": "Ya no respira. Gracias a ti.",
         "bananaplant": "Planta de banano",
-        "bananaplantdsc": "Una planta baja y ancha, llamada coloquialmente \"planta de banano\" debido a su parte superior blanda y amarilla. Muy resbaladizo para pisar.",
+        "bananaplantdsc": "Una planta baja y ancha, llamada coloquialmente \"planta de banano\" debido a su parte superior blanda y amarilla. Muy resbaladiza para pisarla.",
         "geyser": "Géiser",
         "geyserdsc": "Un géiser inestable con tendencia a expulsar agua. Por suerte, en el peor de los casos, está a temperatura ambiente.",
         "lavageyser": "Géiser",
@@ -1001,7 +1001,7 @@
         "braindamage3dsc": "realidad  ..  deja   tener   sentido",
         "braindamage2dsc": "Fuerte déficit mental, apenas capaz de pensar inteligentemente y permanecer consciente. Daño cerebral grave presente.",
         "braindamage1dsc": "Discapacitado mentalmente por daño cerebral. Te sientes extrañamente confundido...",
-        "strokedsc": "Hemorragia cerebral causado posiblemente por hipertensión severa. En estadio avanzado, las probabilidades de sobrevivir son nulas a menos que poseas cerebrosalud o procoagulante.",
+        "strokedsc": "Hemorragia cerebral causada posiblemente por hipertensión severa. En estadio avanzado, las probabilidades de sobrevivir son nulas a menos que poseas cerebrosalud o procoagulante.",
         "cantbreathedsc": "¡Sofocándote! Pérdida del conocimiento y muerte inminente si no se trata.",
         "thoraxdestroyeddsc": "Tus pulmones están demasiado dañados para funcionar, debido a una salud críticamente baja de los músculos del tórax.",
         "pulmonaryembolismdsc": "Un coágulo de gran tamaño se ha desprendido y ha obstruido una de tus arterias pulmonares. Daño pulmonar acelerado y asfixia inminente. Urge reducir tu viscosidad sanguínea.",
@@ -1026,7 +1026,7 @@
         "hypertension4dsc": "Presión sanguínea a niveles críticos. Expuesto a un derrame cerebral hemorrágico. Revisa tus signos vitales urgentemente y presta atención a los síntomas del derrame.",
         "venom1dsc": "Presencia leve de hemotoxinas en el torrente sanguíneo. ¿Algo te mordió?",
         "venom2dsc": "Hemotoxinas presentes en el torrente sanguíneo, deteriorando la coagulación de la sangre y destruyendo células sanguíneas. Vigila tus signos vitales.",
-        "venom3dsc": "Alta concentración de hemotoxinas presentes en el torrente sanguíneo, proliferando la coagulación y destruyendo las células sanguíneas. Vigila tus signos vitales.",
+        "venom3dsc": "Alta concentración de hemotoxinas presentes en el torrente sanguíneo, bloqueando la circulación y destruyendo las células sanguíneas. Vigila tus signos vitales.",
         "venom4dsc": "Tu sangre se parece más a una mermelada que a algo que te mantiene con vida.",
         "pain1dsc": "Sintiendo un dolor leve.",
         "pain2dsc": "Duele considerablemente. La infelicidad aumenta lentamente.",
@@ -1160,7 +1160,7 @@
         "rippedeyedsc": "Uno de tus ojos ha sido arrancado, dividiendo a la mitad tu campo de visión. Estás un poco marcado por la experiencia. No pierdas el único que te queda.",
         "rippedeyesdsc": "Ambos ojos han sido arrancados. Solo puedes guiarte por tacto y sonido. Al menos ya no necesitarás una fuente de luz...",
         "lowimmunitydsc": "Tu sistema inmune está severamente debilitado, debido a la suciedad, al hambre, sed o más. Las infecciones son mucho más peligrosas. Cuídate mejor de ti mismo.",
-        "highimmunitydsc": "Tu sistema inmune está trabajando a su máxima capacidad, posiblemente debido a los antibióticos. Las infecciones son mucho menos peligrosas, e incluso pueden desaparecer por si solas si están cerca del 200%.",
+        "highimmunitydsc": "Tu sistema inmune está trabajando a su máxima capacidad, posiblemente debido a los antibióticos. Las infecciones son mucho menos peligrosas, e incluso pueden desaparecer por sí solas si están cerca del 200%.",
         "amputationdsc": "Una de tus extremidades ha sido desmembrada. Traumatizante. Obviamente, cualquier uso de la extremidad amputada ha desaparecido para siempre.",
         "clawdamage1dsc": "Tus garras están desgastadas por su uso continuo, por lo que el daño que infliges se reduce. Dale un descanso a tus manos o usa una herramienta.",
         "clawdamage2dsc": "Tus garras están muy dañadas por su uso excesivo. El daño que infliges se reduce aún más. Te podrías lastimar tus manos si sigues usándolas sin una herramienta.",
@@ -1187,7 +1187,7 @@
         "layertitle12": "Tierra\nA lab, somewhere...",
         "layermodifier0": "Nublado:",
         "layermodifier1": "Cálido:",
-        "layermodifier2": "Abrasivo:",
+        "layermodifier2": "Abrasador:",
         "layermodifier3": "Frío:",
         "layermodifier4": "Helado:",
         "layermodifier5": "Inundado:",
@@ -1202,7 +1202,7 @@
         "layermodifier3dsc": "El aire es más frío de lo esperado.",
         "layermodifier4dsc": "¡El aire está muy helado!",
         "layermodifier5dsc": "El suelo está inusualmente inundado.",
-        "layermodifier6dsc": "Probablemente no encontrarás piscinas expuestas aquí.",
+        "layermodifier6dsc": "Probablemente no encontrarás charcos expuestos aquí.",
         "layermodifier7dsc": "El agua gotea por todas partes...",
         "layermodifier8dsc": "Parece haber una actividad muy alta de insectos aquí.",
         "layermodifier9dsc": "Se han vertido desechos nucleares aquí.",
@@ -1411,11 +1411,11 @@
         "redsludge": "Red sludge",
         "redsludgedsc": "Absolutely disgusting. Some kind of fleshy paste. Smells abhorrent.",
         "magma": "Magma",
-        "magmadsc": "Roca fundida. Cada uno de tus sentidos te gritan que la evites. Es probable de que se enfríe lentamente con el tiempo.",
+        "magmadsc": "Roca fundida. Cada uno de tus sentidos te gritan que la evites. Es probable que se enfríe lentamente con el tiempo.",
         "oil": "Petróleo",
         "oildsc": "Un alquitrán espeso y negro. Con dificultad para moverse. Incomible.",
         "sap": "Savia",
-        "sapdsc": "Una rica y espesa savia producido por los árboles de la jungla. Muy azucarada.",
+        "sapdsc": "Una rica y espesa savia producida por los árboles de la jungla. Muy azucarada.",
         "fat": "Grasa",
         "fatdsc": "Grasa líquida animal obtenida de la carne. Se puede comer, aunque no es particularmente agradable. Se puede procesar para hacer jabón.",
         "soap": "Jabón",
@@ -1524,7 +1524,7 @@
         "runsetfracturepain": "Tasa del dolor por fracturas",
         "runsetfracturepaindsc": "Qué tanto duelen las extremidades dislocadas o fracturadas al ser usadas",
         "runsetbleedrate": "Tasa de sangrado",
-        "runsetbleedratedsc": "Qué tan rápido disimnuye tu volumen sanguíneo de las heridas abiertas",
+        "runsetbleedratedsc": "Qué tan rápido disminuye tu volumen sanguíneo de las heridas abiertas",
         "runsetinfectionspeed": "Velocidad de infección",
         "runsetinfectionspeeddsc": "Qué tan rápido progresan o retroceden las infecciones y con qué rapidez matan. También afecta la duración del efecto del antiséptico",
         "runsetinfectionchance": "Probabilidad de infección",
@@ -1616,7 +1616,7 @@
         "gamesetvsync": "V-Sync",
         "gamesetvsyncdsc": "Activa la sincronización vertical, la cual reduce el rasgado de imagen a costa de aumentar la latencia de entrada. Anula la velocidad máxima de fotogramas si está activada",
         "gamesetframerate": "Límite de fotogramas",
-        "gamesetframeratedsc": "Si estápor encima de 0, establece la velocidad máxima permitida a la que puede ejecutarse el juego. Un valor de 0 significa ilimitado. Se anula si V-Sync está activado",
+        "gamesetframeratedsc": "Si está por encima de 0, establece la velocidad máxima permitida a la que puede ejecutarse el juego. Un valor de 0 significa ilimitado. Se anula si V-Sync está activado",
         "gamesetpixelate": "Renderizado pixelado",
         "gamesetpixelatedsc": "Alterna el renderizado a escala reducida o a resolución completa. Ten en cuenta que desactivar el renderizado pixelado sacrifica el estilo artístico intencional del juego.",
         "gamesetdarkerbackground": "Fondos más oscuros",
@@ -1630,7 +1630,7 @@
         "gamesetquantizesteps": "Nivel de cuantización de color",
         "gamesetquantizestepsdsc": "Determina cuántos colores se presentan en pantalla. Valores más bajos reducirán la cantidad de colores disponibles",
         "gamesetlineofsightcount": "Resolución de la línea de visión",
-        "gamesetlineofsightcountdsc": "Qué tan detallado es la sombra de la línea de visión si aplica. Valores más altos empeoran el rendimiento",
+        "gamesetlineofsightcountdsc": "Qué tan detallada es la sombra de la línea de visión si aplica. Valores más altos empeoran el rendimiento",
         "gamesetscreenshake": "Sacudida de pantalla",
         "gamesetscreenshakedsc": "Controla cuánto se mueve la pantalla debido a caídas fuertes, explosiones, etc.",
         "gamesetcensorpain": "Censurar dolor",
@@ -1862,7 +1862,7 @@
         "tutorialspecieslock": "Solo puedes entrar con especies Experimento",
         "sandbox": "Modo Libre",
         "escapecourse": "ALERTA: INFRACCIÓN MENOR",
-        "escapecourse1": "Paree que estás intentando escapar. Por favor, permanezca en calma mientras el personal de seguridad te asiste.",
+        "escapecourse1": "Parece que estás intentando escapar. Por favor, permanezca en calma mientras el personal de seguridad te asiste.",
         "escapecourse2": "Gracias por tu cooperación.",
         "tutorial": "Tutorial",
         "mp3audio": "Archivos de audio guardados en el dispositivo",
@@ -1898,7 +1898,7 @@
         "hpenergy": "Energía",
         "hpenergydsc": "Qué tanto sueño tienes\nPuedes dormir al estar por debajo del 35% de energía",
         "hpheartrate": "Frecuencia cardiaca",
-        "hpheartratedsc": "Qué tan rápido late tu corazón. Asegúrate de que el valor no llege a 0.",
+        "hpheartratedsc": "Qué tan rápido late tu corazón. Asegúrate de que el valor no llegue a 0.",
         "hppressure": "Presión sanguínea",
         "hppressuredsc": "La presión sistólica y diastólica. Debe mantenerse alrededor de 120/80.",
         "hpecg": "ECG",
@@ -1983,7 +1983,7 @@
         "indifferenttip": "Precios y ganancia de reputación normales",
         "wantskeeptip": "Precios incrementados sin ganancia de reputación",
         "costs": "<sprite index=9>Coste ",
-        "weighs": "<sprite index=0>Valor ",
+        "weighs": "<sprite index=0>Pesa ",
         "purchase": "Comprar",
         "trade": "Dar al comerciante",
         "reputationtip": "Reputación",
@@ -2011,7 +2011,7 @@
         "endscreenstatus": "REPORTE DE ESTADO: MSN-CARGO",
         "endscreenunresolved": "SIN RESOLVER",
         "endscreenresolved": "RECUPERADO",
-        "endscreenfailure": "CATASTROPHIC FAILURE",
+        "endscreenfailure": "FALLO CATASTRÓFICO",
         "endscreencasualties": "PÉRDIDAS:",
         "endscreenunknown": "DESCONOCIDAS",
         "endscreenphysical": "ESTADO FÍSICO:",
@@ -2139,7 +2139,7 @@
         "tutaid5": "Esta es tu conciencia o qué tan consciente eres de tu entorno.",
         "tutaid6": "Este es tu dolor total. Normalmente desaparece por sí solo por un tiempo.",
         "tutaid7": "Este es tu volumen sanguíneo. Se reducirá a medida que te desangras, lo que eventualmente te llevará hasta la muerte. Considera 2.5 L el umbral letal.",
-        "tutaid8": "Este es la cantidad de sangre que pierdes por minuto por un sangrado. Afortunadamente, no estás sangrando ahora mismo, por lo que no se muestra.",
+        "tutaid8": "Esta es la cantidad de sangre que pierdes por minuto por un sangrado. Afortunadamente, no estás sangrando ahora mismo, por lo que no se muestra.",
         "tutaid9": "Esta es tu inmunidad, una variable métrica que muestra la capacidad del sistema inmune de tu cuerpo en defenderte de las infecciones.",
         "tutaid10": "Esta es tu resistencia. El ejercicio físico lo reducirá.",
         "tutaid11": "Esta es tu tasa respiratoria. Tu saturación de oxígeno se reducirá si no respiras lo suficiente.",
@@ -2155,11 +2155,11 @@
         "tutaid21": "Tu cerebro necesita oxígeno para vivir. Para ello, necesita una cantidad suficiente de sangre oxigenada en circulación.",
         "tutaid22": "Aquí tienes algo de vendaje. Ya sabes cómo usarlo y detén el sangrado.",
         "tutaid23": "Echa un vistazo a la presión sanguínea. Normalmente debería mantenerse alrededor de 120/80.",
-        "tutaid24": "La presión sanguínea está influenciado directamente por tu frecuencia cardíaca, el volumen en sangre y la constricción y dilatación de los vasos sanguíneos.",
+        "tutaid24": "La presión sanguínea está influenciada directamente por tu frecuencia cardíaca, el volumen en sangre y la constricción y dilatación de los vasos sanguíneos.",
         "tutaid25": "En situaciones de crisis, la supervivencia se resume en asegurarte de que tu presión sanguínea se mantenga a niveles estables y que tu corazón siga latiendo.",
         "tutaid26": "Ahora te estoy extrayendo tu sangre. Mira atentamente tu presión sanguínea.",
         "tutaid27": "Tu presión sanguínea ahora es muy baja, forzando tu corazón a latir más rápido.",
-        "tutaid28": "Ten en cuenta que el corazón no podrá continuar así. Latidos muy rápidos o presiones sanguíneas muy bajas provocará un trastorno del ritmo cardíaco llamado FIBRILACIÓN.",
+        "tutaid28": "Ten en cuenta que el corazón no podrá continuar así. Latidos muy rápidos o presiones sanguíneas muy bajas provocarán un trastorno del ritmo cardíaco llamado FIBRILACIÓN.",
         "tutaid29": "La fibrilación es el proceso por el que tu ritmo cardíaco se vuelve más caótico hasta que se detiene. Esto puede matarte en dos minutos aproximadamente.",
         "tutaid30": "Es posible que notes el estado de arritmia en la esquina inferior izquierda. Esta es una señal de dicha fibrilación.",
         "tutaid31": "Este es un Desfibrilador Externo Automático. Reinicia tu fibrilación a cero y te estabiliza por un tiempo.",
@@ -2170,7 +2170,7 @@
         "tutaid36": "¿Ves cómo se vuelve más ondulado en fibrilaciones avanzadas?",
         "tutaid37": "Esto es un desfibrilador manual. Es similar al DEA, pero puede fallar si lo usas incorrectamente. Úsalo en tu pecho.",
         "tutaidfail1": "Lugar incorrecto. Úsalo en tu PECHO.",
-        "tutaidfail2": "Pecho. Tu tórax. Lo usaste en el lugar equivocado... Úsalo en tu PECHO. Quieres desfibrilar tu corazón... Y eso está en tu pecho. ¿Cómo si quiera llegaste a este punto?",
+        "tutaidfail2": "Pecho. Tu tórax. Lo usaste en el lugar equivocado... Úsalo en tu PECHO. Quieres desfibrilar tu corazón... Y eso está en tu pecho. ¿Cómo siquiera llegaste a este punto?",
         "tutaid38": "Para usarlo correctamente, desbes ajustar el nivel de potencia acorde a qué tanto ha progresado la fibrilación.",
         "tutaid39": "Esto quiere decir que si la arritmia acaba de comenzar, debes ajustarlo a un nivel de potencia bajo. Si tu corazón está a segundos de detenerse, ajústalo a un nivel alto.",
         "tutaid40": "Puedes determinar esto usando el ECG y la estimación de carga visble aquí. Cuanto mejor alinees el nivel de carga, más probabilidades tendrás de que funcione.",
@@ -2188,7 +2188,7 @@
         "tutaid52": "Debes incrementar la salud del músculo de tu tórax para respirar de nuevo. Este kit para hematomas hace exactamente eso - úsalo en tu tórax.",
         "tutaid53": "De vuelta a la normalidad. Respirar insuficientemente reducirá tu SpO2, lo que provocará inconsciencia, fibrilación y muerte.",
         "tutaid54": "Una cosa más que debes tener en cuenta sobre la circulación es la presión sanguínea alta o hipertensión. Es más fácil de manejarla, pero aún puede ser peligrosa.",
-        "tutaid55": "El peligro principal es el riesgo de derrame cerebral si la hipertensión es muy alta. Intenta evitar que tu presión no supere los 180/120.",
+        "tutaid55": "El peligro principal es el riesgo de derrame cerebral si la hipertensión es muy alta. Intenta evitar que tu presión supere los 180/120.",
         "tutaid56": "Con la experiencia, irás asimilando estas cosas. Ahora se te darán algo de suministros. Ládrame con [B] cuando estés listo para proseguir.",
         "tutaid57": "A continuación, veremos otros tipos de lesiones.",
         "tutaid58": "Las dislocaciones también son lesiones comunes causadas por caídas fuertes. Las extremidades dislocadas causarán mucho dolor si las usas.",
@@ -2557,7 +2557,7 @@
                 "Mi estómago duele mucho.",
                 "Me arden las tripas.",
                 "Estoy... tan enfermo...",
-                "Soy tan nauseabundo...",
+                "Siento muchas ganas de vomitar...",
                 "No me puedo concentrar.",
                 "Me siento enfermo...",
                 "Creo que me he envenenado..",
@@ -3537,7 +3537,7 @@
                 "Ayuda- ¡Ack! ¡Uugh!",
                 "A-ayuda...",
                 "Mi... pecho...",
-                "Mi... pecho- !Cof¡ ¡Aack!",
+                "Mi... pecho- ¡Cof! ¡Aack!",
                 "Mis pulmones...",
                 "*jadeando*",
                 "Siento que me muero...",
@@ -3753,7 +3753,7 @@
             "loud": [
                 "¡CARAJO! Eso fue fuerte...",
                 "¡GAH! ¡Mierda! ¡Mis oídos!",
-                "¡AHHH! Mierda... Me zumban los oidos...",
+                "¡AHHH! Mierda... Me zumban los oídos...",
                 "¡MIERDA! ... Ouuchhh... Eso estuvo fuerte...",
                 "¡¡¡NO!!! Mierda, 'mano... Aghhh, muy fuerte..."
             ],
@@ -3932,7 +3932,7 @@
                 "Ah, perdón. Listo."
             ],
             "tradermovefail": [
-                "¿Eh? ¿Para qué? ¿Qué piensas hacer...? No confío en tí."
+                "¿Eh? ¿Para qué? ¿Qué piensas hacer...? No confío en ti."
             ],
             "swingresponse": [
                 "¡LO SIENTO!",
@@ -4852,7 +4852,7 @@
             ],
             "traderhagglesuccess": [
                 "Está bien.",
-                "Hare una excepción contigo.",
+                "Haré una excepción contigo.",
                 "Ah, pareces amable.",
                 "Tienes un buen punto.",
                 "Aceptaré tu propuesta.",
@@ -4911,7 +4911,7 @@
                 "Por favor. Vete.",
                 "Vete.",
                 "No quiero lidiar contigo ahora mismo.",
-                "Por favor deja mi cápsula en paz. Yo llegue aquí primero."
+                "Por favor deja mi cápsula en paz. Yo llegué aquí primero."
             ],
             "tradercombat": [
                 "No quería llegar a esto.",
@@ -4950,7 +4950,7 @@
             ],
             "traderseehurt": [
                 "Pareces estar lastimado y sangrando... Puedes tomar un vendaje si lo deseas.",
-                "¡Ew! Por favor deja de sangrar por todo mi suelo. Recoje un vendaje y trata tus heridas si ves alguno, la casa invita.",
+                "¡Ew! Por favor deja de sangrar por todo mi suelo. Recoge un vendaje y trata tus heridas si ves alguno, la casa invita.",
                 "Eso no se ve muy bien... Puedes tomar un vendaje gratis si encuentras alguno por aquí."
             ],
             "traderlightbreak": [
@@ -5012,7 +5012,7 @@
                 "Correcto. Estás sucio. Abstente de tocarme hasta que te limpies."
             ],
             "encumberedresponse": [
-                "¿No te importaría dejar esas pesadas pertenecias conmigo?",
+                "¿No te importaría dejar esas pesadas pertenencias conmigo?",
                 "Eres un fastidio."
             ],
             "dyingresponse": [
@@ -5264,7 +5264,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "no entiendo por qué estamos aquí. ¿si quiera para qué? ya sé que tengo que recuperar una especie de celda de batería o algo así. asumo que los demás tienen la misma misión. ¿no hay maneras más eficientes de hacer esto lógicamente? por qué nos enviaron aquí. extraño a mis amigos. no quiero morir.",
+                "Item1": "no entiendo por qué estamos aquí. ¿siquiera para qué? ya sé que tengo que recuperar una especie de celda de batería o algo así. asumo que los demás tienen la misma misión. ¿no hay maneras más eficientes de hacer esto lógicamente? por qué nos enviaron aquí. extraño a mis amigos. no quiero morir.",
                 "Item2": "Sprites/noteDrawings/alone",
                 "Item3": "experiment"
             },
@@ -5319,7 +5319,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "abrazar a otros me pone feliz... pero algunos de los sobrevivientes me los rechaza, creo que pueden ser apaciguados de alguna forma. por cierto, dormir junto a ellos es mucho mejor que en el piso frío, solito.",
+                "Item1": "abrazar a otros me pone feliz... pero algunos de los sobrevivientes me los rechazan, creo que pueden ser apaciguados de alguna forma. por cierto, dormir junto a ellos es mucho mejor que en el piso frío, solito.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5354,7 +5354,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "he comenzado a ver cada vez más y más de estas cápsulas averiadas recientemente, esas como en la que nos enviaron aquí, excepto que todas explotaron de alguna forma<>\nen los restos usualmente encuentro algo de munición junto con una ¿bola de carne asquerosa? \n<>\nse ve horrible, ¿¿¿pero si quiera es comible???\nconocí a un dune hace un rato y me dijo que estaba bueno\npodría probar un poco\n<>\n\nlo comí y sentí que vomité todas mis tripas por veinte minutos, el peor error de mi vida<>\npor el amor de dios, no te lo comas, sea lo que sea",
+                "Item1": "he comenzado a ver cada vez más y más de estas cápsulas averiadas recientemente, esas como en la que nos enviaron aquí, excepto que todas explotaron de alguna forma<>\nen los restos usualmente encuentro algo de munición junto con una ¿bola de carne asquerosa? \n<>\nse ve horrible, ¿¿¿pero siquiera es comible???\nconocí a un dune hace un rato y me dijo que estaba bueno\npodría probar un poco\n<>\n\nlo comí y sentí que vomité todas mis tripas por veinte minutos, el peor error de mi vida<>\npor el amor de dios, no te lo comas, sea lo que sea",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5369,7 +5369,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "no me di cuenta lo horrible que se habían puesto hasta que intenté cavar otra vez y mis garras simplemente... se rompieron. ya no rasgan nada. he intentado arañar las rocas sin siquiera pensar sobre eso. me sentí desnudo. parece que la carne no está hecha para reemplazar las herramientas.\n<>\nseguí asumiendo que necesitaba un pico para todo. pero descubrí que el machete funciona al menos para las cosas más ligeras. como tierra, plantas, arena, hace bien el trabajo. me ahorra mucho dolor en mis manos.\n<>\nme encontré una botella con una etiqueta que decía potenciador de queratina. ya tenían previsto de que nuestras partes se romperían. tomé un sorbo. y después de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentían más afiladas. más fuertes. era extrañamente satisfactorio ver como las partes dañadas se desprendían. me gusta como mis garras ahora permite agarrarse a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenían uñas en cada dedo. en todos. Sin garras en lo absoluto. Se veían tan mal de cerca. suaves. sin filo. era inquietante cómo manejaban todo con manos así.\n<>\nsolía pensar que eso los hacía débiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
+                "Item1": "no me di cuenta lo horrible que se habían puesto hasta que intenté cavar otra vez y mis garras simplemente... se rompieron. ya no rasgan nada. he intentado arañar las rocas sin siquiera pensar sobre eso. me sentí desnudo. parece que la carne no está hecha para reemplazar las herramientas.\n<>\nseguí asumiendo que necesitaba un pico para todo. pero descubrí que el machete funciona al menos para las cosas más ligeras. como tierra, plantas, arena, hace bien el trabajo. me ahorra mucho dolor en mis manos.\n<>\nme encontré una botella con una etiqueta que decía potenciador de queratina. ya tenían previsto de que nuestras partes se romperían. tomé un sorbo. y después de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentían más afiladas. más fuertes. era extrañamente satisfactorio ver como las partes dañadas se desprendían. me gusta como mis garras ahora me permiten agarrarme a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenían uñas en cada dedo. en todos. Sin garras en lo absoluto. Se veían tan mal de cerca. suaves. sin filo. era inquietante cómo manejaban todo con manos así.\n<>\nsolía pensar que eso los hacía débiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5508,7 +5508,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Ni siquiera he pasado de este rocoso paisaje infernal, y puedo sentir que la muerte está cerca,\nLo único que me dieron fue una linterna de mierda que no duró ni una hora; ni siquiera algo de equipo de seguridad que ayude a amortiguar las caídas que he recibido.\n\n¡MIERDA, me siento como una bola de esas máquinas de apuestas que veía usar a los humanos!\n\nPienso que me estoy muriendo lentamente, desde la caída que tuve, me he sentido bastante mareado, y cansado; pero presiento de que si duermo, moriré.\n\nQue Dios me salve.\nLA PUTA MADRE.\nEn serio, no me quiero morir, así no..\n¿Si quiera qué sentido tiene todo esto?\nNi siquiera tengo un nombre propio, sólo una etiqueta..\nMierda...",
+                "Item1": "Ni siquiera he pasado de este rocoso paisaje infernal, y puedo sentir que la muerte está cerca,\nLo único que me dieron fue una linterna de mierda que no duró ni una hora; ni siquiera algo de equipo de seguridad que ayude a amortiguar las caídas que he recibido.\n\n¡MIERDA, me siento como una bola de esas máquinas de apuestas que veía usar a los humanos!\n\nPienso que me estoy muriendo lentamente, desde la caída que tuve, me he sentido bastante mareado, y cansado; pero presiento que si duermo, moriré.\n\nQue Dios me salve.\nLA PUTA MADRE.\nEn serio, no me quiero morir, así no..\n¿Siquiera qué sentido tiene todo esto?\nNi siquiera tengo un nombre propio, sólo una etiqueta..\nMierda...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -5615,7 +5615,7 @@
             },
             {
                 "Item1": "sentí... sentí que moría. fue todo tan repentino, había sangre en todos lados y no podía mantener mis ojos abiertos. tenía miedo... pero no quería darme por vencido. encontré tantas cosas geniales en este lugar y siento que hice mucho progreso en esta misión. no me detendré aquí. voy a superar toda esta mierda. veré a mis amigos una vez más.",
-                "Item2": "Sprites/noteDrawings/lastland",
+                "Item2": "Sprites/noteDrawings/laststand",
                 "Item3": "experiment"
             },
             {
@@ -5799,7 +5799,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[CORREO - 25##-12-26-14-27-52-0189]\n<>\nASUNTO: Anuncio sobre hacer amistades con los Sawianos\nDE: Gerente del Proyecto\nPARA: Todos los empleados\n<>\n[CONTENIDOS]\n\nEstimado personal:\n\nHemos descubierto de que uno de nuestros empleados se reunía constantemente con un SAW-03 y le revelaba información privada. Esto no solo constituyó una flagrante violación de la confidencialidad, sino que tener tales relaciones con los especímenes es completamente inaceptable. El científico en cuestión fue despedido de inmediato y el SAW-03 se suicidó poco después.\n\n¿Tiene USTED algún amigo Sawiano? Lo estamos observando de cerca. Aún está a tiempo de dar marcha atrás. Pero si lo descubrimos haciéndose amigo de ellos, correrá la misma suerte.\n\nDe buena fe,\nGerente del Proyecto\n\n[FIN]",
+            "Item1": "[CORREO - 25##-12-26-14-27-52-0189]\n<>\nASUNTO: Anuncio sobre hacer amistades con los Sawianos\nDE: Gerente del Proyecto\nPARA: Todos los empleados\n<>\n[CONTENIDOS]\n\nEstimado personal:\n\nHemos descubierto que uno de nuestros empleados se reunía constantemente con un SAW-03 y le revelaba información privada. Esto no solo constituyó una flagrante violación de la confidencialidad, sino que tener tales relaciones con los especímenes es completamente inaceptable. El científico en cuestión fue despedido de inmediato y el SAW-03 se suicidó poco después.\n\n¿Tiene USTED algún amigo Sawiano? Lo estamos observando de cerca. Aún está a tiempo de dar marcha atrás. Pero si lo descubrimos haciéndose amigo de ellos, correrá la misma suerte.\n\nDe buena fe,\nGerente del Proyecto\n\n[FIN]",
             "Item2": ""
         },
         {
@@ -5819,11 +5819,11 @@
             "Item2": ""
         },
         {
-            "Item1": "(El APD tarda un momento en cargarse. Lo primero que notas es una advertencia acerca de la integridad del disco.)<>\n\n[MENSAJE INTERNO]\n[PROYECTO <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nUBICACIÓN: <corrupt:0xFBC00F> División Biométrica\nFECHA: <corrupt:0xFFFFFF>\nPROPIETARIO REGISTRADO: Ingeniero Principal <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nNOTAS DEL PROPIETARIO: \n\nHemos logrado un avance significativo en relación al chip de estado nanotecnológico. ¡AL FIN LO LOGRAMOS! Las pruebas con ratas de la división biológica mostraron que, en efecto, podían reaccionar a su estado biológico y completar tareas mientras alcanzan cierto valor biológico   <corrupt:0xFFFFFF>   <corrupt:0xFFFFFF>   prendente lo que la determinación humana puede lograr con un presupuesto casi ilimitado. Honestamente, ni me imagino la cantidad de personas a las que esta tecnología les podría ayudar a mantener un mejor autocuidado. Si nuestro nuevo programa Sawian va bien, podríamos poner a prueba el <corrupt:0xFFFD5E> en ellos.\n<>\nESPECIFICACIONES REGISTRADAS DEL CHIP: \n\nEl <corrupt:0xFFFFFF> es una placa irregular co        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   iseñado para que pueda ser insertado cerca del cerebro por detrás de la cabeza. Existen dos posibles configuraciones hasta ahora, una intracraneal y otra externa. Ambas variantes se conectan a las neuronas mediante nanovarillas conductoras elásticas.\n\n<corrput:0xFFFD5E> usa ciertas señales eléctricas del cerebro, las potencializa, analiza la información recibida y envía los datos finales a la corteza visual del cerebro, creando un bucle de retroalimentación que permite examinar las funciones corporales por el paciente. Esta información incluye latidos del corazón por minuto, irritación del músculo, irritación cutánea, niveles de oxíge   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   La fuente de energía del   <corrupt:0xFFFD5E> es una pequeña batería compacta basada en la patente corporativa <corrupt:0xFFBD5A>. Al recargarse mediante el uso de la radiación ambiental, su duración debería ser indefinida salvo en caso de daños al componente.<>\n\nEl costo de producción se estima que se   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>           cción está basada en el hecho de que la mayoría de los componentes internos y nanoprocesadores ya se encuentran en producción para otros productos no relacionados.\n\nEl <corrupt:0xFFFD5E> cuenta con ranuras modulares para la incorporación de otros chips adicionales, facilitando la capacidad de expansión en el futuro.\n<>\nPLANOS DEL CHIP ADJUN   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ACCESO ILEGAL DE LA MEMORIA><>\n\n\n(El APD se congela de repente y se apaga.)",
+            "Item1": "(El APD tarda un momento en cargarse. Lo primero que notas es una advertencia acerca de la integridad del disco.)<>\n\n[MENSAJE INTERNO]\n[PROYECTO <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nUBICACIÓN: <corrupt:0xFBC00F> División Biométrica\nFECHA: <corrupt:0xFFFFFF>\nPROPIETARIO REGISTRADO: Ingeniero Principal <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nNOTAS DEL PROPIETARIO: \n\nHemos logrado un avance significativo en relación al chip de estado nanotecnológico. ¡AL FIN LO LOGRAMOS! Las pruebas con ratas de la división biológica mostraron que, en efecto, podían reaccionar a su estado biológico y completar tareas mientras alcanzan cierto valor biológico   <corrupt:0xFFFFFF>   <corrupt:0xFFFFFF>   prendente lo que la determinación humana puede lograr con un presupuesto casi ilimitado. Honestamente, ni me imagino la cantidad de personas a las que esta tecnología les podría ayudar a mantener un mejor autocuidado. Si nuestro nuevo programa Sawian va bien, podríamos poner a prueba el <corrupt:0xFFFD5E> en ellos.\n<>\nESPECIFICACIONES REGISTRADAS DEL CHIP: \n\nEl <corrupt::0xFFFD5E> es una placa irregular co        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   iseñado para que pueda ser insertado cerca del cerebro por detrás de la cabeza. Existen dos posibles configuraciones hasta ahora, una intracraneal y otra externa. Ambas variantes se conectan a las neuronas mediante nanovarillas conductoras elásticas.\n\n<corrput:0xFFFD5E> usa ciertas señales eléctricas del cerebro, las potencializa, analiza la información recibida y envía los datos finales a la corteza visual del cerebro, creando un bucle de retroalimentación que permite examinar las funciones corporales por el paciente. Esta información incluye latidos del corazón por minuto, irritación del músculo, irritación cutánea, niveles de oxíge   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   La fuente de energía del   <corrupt:0xFFFD5E> es una pequeña batería compacta basada en la patente corporativa <corrupt:0xFFBD5A>. Al recargarse mediante el uso de la radiación ambiental, su duración debería ser indefinida salvo en caso de daños al componente.<>\n\nEl costo de producción se estima que se   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>           cción está basada en el hecho de que la mayoría de los componentes internos y nanoprocesadores ya se encuentran en producción para otros productos no relacionados.\n\nEl <corrupt:0xFFFD5E> cuenta con ranuras modulares para la incorporación de otros chips adicionales, facilitando la capacidad de expansión en el futuro.\n<>\nPLANOS DEL CHIP ADJUN   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ACCESO ILEGAL DE LA MEMORIA><>\n\n\n(El APD se congela de repente y se apaga.)",
             "Item2": ""
         },
         {
-            "Item1": "[CORREO - 25##-12-07-11-23-10-6017]\n<>\nASUNTO: ¡¡Felicidades!!\nDE: <corrupt:0xFF0BEA>\nPARA: GRUPO <corrupt:0xFC0002>\n<>\n[CONTENIDOS]\n\nQueridos científicos,\n\nLa creación de un mamífero gonosimulístico (use el término correctamente) capaz de reproducirse asexualmente es un avance espectacular para la ciencia. Jamás se había visto esto en la naturaleza. Es incierto si aún es posible llamarles mamíferos... Sirve de prueba para mí y para <corrupt:0x0001FC> que no hay absolutamente nada que este equipo no pueda hacer.\n\nDeseo agradecerles a todos los que contribuyeron en este asombroso logro. Esto reduce enormemente el costo y complejidad de su producción, ya que no es necesario crear y organizar diferentes Sawianos machos y hembras. La falta de deseo sexual también limita la sobrepoblación y evita cualquier incidente, sin impedir que puedan reproducirse.\n<>\nPronto tendrán una recompensa de parte mía.\n\nCon mis mejores intenciones,\n<corrupt:0xFF0BEA>\n<>\n[ARCHIVOS ADJUNTOS]\n\nREF: [MEMORÁNDUM INTERNO - 25##-12-07-09-12-40-0157]\n\nCLASE DE LA ENTIDAD: Biológico\nSUBCLASE DE LA ENTIDAD: Sawian\n<>\n[CONTENIDOS]\n\nEste memorando establece una póliza de terminología obligatoria para la especie Sawian y supersede toda documentación, anotaciones y usos informales anteriores.\n\nCon efecto inmediato, el término \"hermafrodita\" está **prohibido en todas la comunicaciones corporativas**, incluyendo en contextos científicos, operacionales, culturales y casuales. La única excepción es referencia histórica específica (p. ej., citas textuales, análisis de documentación antigua o la discusión de taxonomías obsoletas de la Tierra), la cual deberá ser claramente identificada como tal.\n\nEl descriptivo aprobado para la biología reproductiva del espécimen Sawian es \"gonosimulístico.\" \nDependiendo del contexto, las alternativas son: \"cosexual\" y \"monoico.\"\n\nCualquier uso del término fuera de estos delgados contextos históricos es considerado inapropiado, degradante, y pone en duda su profesionalidad. Esto introduce un riesgo interpretativo evitable y será revisado conforme al Marco de Control del Lenguaje Orientado a las Organizaciones de Interés.\n<>\nNingún ser humano posee naturalmente dos sistemas reproductivos completamente funcionales. El término médico, humano y social adecuado es \"intersexual\", no \"hermafrodita\". Este último originado de la figura mitológica Hermaphroditus y ha sido asociado durante mucho tiempo a estigma, violencia y deshumanización. Esto incluye el uso del término para referirse a animales, y esto hace que se equiparen los humanos intersexuales y los animales. Esto ha demostrado ser volátil en entornos públicos, académicos y mediáticos.\n<>\nEl uso de este término en especies no humanas se origina de este mismo marco y, por consecuente, no es ni neutral, ni aceptable, sin importar las diferencias biológicas.\n<>\nSi bien existen algunas alternativas históricas, como lo es \"eunuco\", \"bisexual\", y \"andrógeno\", estos han adoptado nuevas connotaciones y significados que tampoco son apropiados para usarse en este sentido.\n\nNo proyecten los géneros humanos o marcos sexuales sobre los Sawian. La biología reproductiva no dicta la presentación, orientación, identificación o función social del género.\n\nLa terminología reproductiva no es un vocabulario informal y no debería tratarse como tal.\n<>\nEsta póliza no constituye una posición moral, orientación médica o aprobación cultural. Su propósito es estrictamente asegurar la consistencia, reducir la ambigüedad y proteger a la organización frente a riesgos reputacionales.\n\n[FIN DE LOS ARCHIVOS ADJUNTOS]\n\n[FIN]",
+            "Item1": "[CORREO - 25##-12-07-11-23-10-6017]\n<>\nASUNTO: ¡¡Felicidades!!\nDE: <corrupt:0xFF0BEA>\nPARA: GRUPO <corrupt:0xFC0002>\n<>\n[CONTENIDOS]\n\nQueridos científicos,\n\nLa creación de un mamífero gonosimulístico (use el término correctamente) capaz de reproducirse asexualmente es un avance espectacular para la ciencia. Jamás se había visto esto en la naturaleza. Es incierto si aún es posible llamarles mamíferos... Sirve de prueba para mí y para <corrupt:0x0001FC> que no hay absolutamente nada que este equipo no pueda hacer.\n\nDeseo agradecerles a todos los que contribuyeron en este asombroso logro. Esto reduce enormemente el costo y complejidad de su producción, ya que no es necesario crear y organizar diferentes Sawianos machos y hembras. La falta de deseo sexual también limita la sobrepoblación y evita cualquier incidente, sin impedir que puedan reproducirse.\n<>\nPronto tendrán una recompensa de parte mía.\n\nCon mis mejores intenciones,\n<corrupt:0xFF0BEA>\n<>\n[ARCHIVOS ADJUNTOS]\n\nREF: [MEMORÁNDUM INTERNO - 25##-12-07-09-12-40-0157]\n\nCLASE DE LA ENTIDAD: Biológico\nSUBCLASE DE LA ENTIDAD: Sawian\n<>\n[CONTENIDOS]\n\nEste memorando establece una política de terminología obligatoria para la especie Sawian y supersede toda documentación, anotaciones y usos informales anteriores.\n\nCon efecto inmediato, el término \"hermafrodita\" está **prohibido en todas las comunicaciones corporativas**, incluyendo en contextos científicos, operacionales, culturales y casuales. La única excepción es referencia histórica específica (p. ej., citas textuales, análisis de documentación antigua o la discusión de taxonomías obsoletas de la Tierra), la cual deberá ser claramente identificada como tal.\n\nEl descriptivo aprobado para la biología reproductiva del espécimen Sawian es \"gonosimulístico.\" \nDependiendo del contexto, las alternativas son: \"cosexual\" y \"monoico.\"\n\nCualquier uso del término fuera de estos delgados contextos históricos es considerado inapropiado, degradante y pone en duda su profesionalidad. Esto introduce un riesgo interpretativo evitable y será revisado conforme al Marco de Control del Lenguaje Orientado a las Organizaciones de Interés.\n<>\nNingún ser humano posee naturalmente dos sistemas reproductivos completamente funcionales. El término médico, humano y social adecuado es \"intersexual\", no \"hermafrodita\". Este último originado de la figura mitológica Hermaphroditus y ha sido asociado durante mucho tiempo a estigma, violencia y deshumanización. Esto incluye el uso del término para referirse a animales, y esto hace que se equiparen los humanos intersexuales y los animales. Esto ha demostrado ser volátil en entornos públicos, académicos y mediáticos.\n<>\nEl uso de este término en especies no humanas se origina de este mismo marco y, por consecuente, no es ni neutral, ni aceptable, sin importar las diferencias biológicas.\n<>\nSi bien existen algunas alternativas históricas, como lo es \"eunuco\", \"bisexual\", y \"androginia\", estos han adoptado nuevas connotaciones y significados que tampoco son apropiados para usarse en este sentido.\n\nNo proyecten los géneros humanos o marcos sexuales sobre los Sawian. La biología reproductiva no dicta la presentación, orientación, identificación o función social del género.\n\nLa terminología reproductiva no es un vocabulario informal y no debería tratarse como tal.\n<>\nEsta política no constituye una posición moral, orientación médica o aprobación cultural. Su propósito es estrictamente asegurar la consistencia, reducir la ambigüedad y proteger a la organización frente a riesgos reputacionales.\n\n[FIN DE LOS ARCHIVOS ADJUNTOS]\n\n[FIN]",
             "Item2": ""
         },
         {
@@ -5855,7 +5855,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[REPORTE BIOMÉTRICO - 25##-08-04-09-05-25-1057]\n[Proyecto: \"Un día en la vida\"]\n----------------------------------------------<>\nAsí que.\nAhora este es mi \"diario\". El cual es, aparentemente, un trabajo escrito describiendo mi vida y experiencias.\nNo estoy enteramente seguro por qué los de bata quieren que haga esto, pero puedo decir lo mismo sobre la mayoría de cosas que nos mandan a hacer.\nAun así, tuve suerte. Podría haber sido mucho peor que un ejercicio de escritura.\nEste aparato me parece muy fascinante, y es una pena que tendré que irme sin esto en unas cuantas horas. Pero me dieron una labor, y procederé a completarla.<>\n\nUsualmente nos despertamos entre sí, o nos despierta la alarma de la primera comida del día. Muy rara vez nos despertamos de inmediato para hacer pruebas.\nNo estoy seguro de a qué \"hora\" esto ocurre... Es más, a duras penas entiendo este concepto. Aunque escucho a los de bata hablando de ello todo el tiempo...\n\nDe cualquier forma, nos despertamos y pronto será hora de la primera comida del día.\nLo que nos alimentan es un poco variado, lo cual no era el caso hace apenas unos años. Y pues, siguen siendo barras nutritivas principalmente. Son muy insípidas, pero no me quejo...\n\n--------------------------------------------------<>\nYa han pasado unas horas.\n\nEste es la hora en que los de bata andan cazando.\nTe llaman por el número, y tienes que acercarte.\nO vienen por ti. \nY de verdad que no quieres eso.\nAlgunas veces, llaman varios números a la vez... Pero eso es una buena señal, casi siempre.<>\n\nEn realidad, lo que te harán depende de la suerte.\nLas pruebas pueden ser inofensivas, terribles, o hasta beneficiosas.\nCabe mencionar de que los de bata simplemente TRATAN de hacer las cosas, y si bien algunas veces intentan ayudar, esos intentos usualmente son mucho menos exitosos que cuanto tratan de hacerte mierda.<>\n\nLlamaron a otros dos, y estos se levantan, con sus caras preocupadas.\nUno de ellos está saludable. Mucho más susceptible a que lo hieran.\n\nEl otro tiene cuatro brazos.\nUno en la izquierda y tres en la derecha.\nBueno, si es que puedes llamar esas protuberancias \"brazos\". Es que si se parecen, ¿más o menos?\nAunque originalmente nació con dos, los de bata un día decidieron que eran demasiados, y le quitaron uno.\nAl siguiente día, volvió con ONCE brazos.\nLos humanos le quitaron diez de esos, sólo para bendecirlo con siete más.\nAl siguiente día eran cinco.\nHoy son cuatro.\n\nYa se están acercando.<>\n\nEl pobre se llama Brazos. Y lo juro, este era su nombre ANTES de todo eso, y es ampliamente creído que los humanos le escogieron por eso.\n¿Tal vez para ellos es su manera de hacer un chiste?\n\n[PÁGINA 1 DE 2]",
+            "Item1": "[REPORTE BIOMÉTRICO - 25##-08-04-09-05-25-1057]\n[Proyecto: \"Un día en la vida\"]\n----------------------------------------------<>\nAsí que.\nAhora este es mi \"diario\". El cual es, aparentemente, un trabajo escrito describiendo mi vida y experiencias.\nNo estoy enteramente seguro por qué los de bata quieren que haga esto, pero puedo decir lo mismo sobre la mayoría de cosas que nos mandan a hacer.\nAun así, tuve suerte. Podría haber sido mucho peor que un ejercicio de escritura.\nEste aparato me parece muy fascinante, y es una pena que tendré que irme sin esto en unas cuantas horas. Pero me dieron una labor, y procederé a completarla.<>\n\nUsualmente nos despertamos entre sí, o nos despierta la alarma de la primera comida del día. Muy rara vez nos despertamos de inmediato para hacer pruebas.\nNo estoy seguro de a qué \"hora\" esto ocurre... Es más, a duras penas entiendo este concepto. Aunque escucho a los de bata hablando de ello todo el tiempo...\n\nDe cualquier forma, nos despertamos y pronto será hora de la primera comida del día.\nLo que nos alimentan es un poco variado, lo cual no era el caso hace apenas unos años. Y pues, siguen siendo barras nutritivas principalmente. Son muy insípidas, pero no me quejo...\n\n--------------------------------------------------<>\nYa han pasado unas horas.\n\nEste es la hora en que los de bata andan cazando.\nTe llaman por el número, y tienes que acercarte.\nO vienen por ti. \nY de verdad que no quieres eso.\nAlgunas veces, llaman varios números a la vez... Pero eso es una buena señal, casi siempre.<>\n\nEn realidad, lo que te harán depende de la suerte.\nLas pruebas pueden ser inofensivas, terribles, o hasta beneficiosas.\nCabe mencionar que los de bata simplemente TRATAN de hacer las cosas, y si bien algunas veces intentan ayudar, esos intentos usualmente son mucho menos exitosos que cuanto tratan de hacerte mierda.<>\n\nLlamaron a otros dos, y estos se levantan, con sus caras preocupadas.\nUno de ellos está saludable. Mucho más susceptible a que lo hieran.\n\nEl otro tiene cuatro brazos.\nUno en la izquierda y tres en la derecha.\nBueno, si es que puedes llamar esas protuberancias \"brazos\". Es que si se parecen, ¿más o menos?\nAunque originalmente nació con dos, los de bata un día decidieron que eran demasiados, y le quitaron uno.\nAl siguiente día, volvió con ONCE brazos.\nLos humanos le quitaron diez de esos, sólo para bendecirlo con siete más.\nAl siguiente día eran cinco.\nHoy son cuatro.\n\nYa se están acercando.<>\n\nEl pobre se llama Brazos. Y lo juro, este era su nombre ANTES de todo eso, y es ampliamente creído que los humanos le escogieron por eso.\n¿Tal vez para ellos es su manera de hacer un chiste?\n\n[PÁGINA 1 DE 2]",
             "Item2": ""
         },
         {
@@ -5867,7 +5867,7 @@
             "Item2": ""
         },
         {
-            "Item1": "(El APD se encuentra en un muy mal estado. Incontables alertas aparecen en la pantalla, pero algunos de los datos son legibles...)\n<>\n[Transcripción 542-23-145C Reunión de la Junta Ejecutiva]\n---------------------------------------------------------------\nUBICACIÓN: Sede Central de la Corporación en <corrupt:0XFFFF43>\nFECHA: 12-04-[obtener.año(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -seguramente notas la situación que tenemos en nuestras manos. Los Sawianos- son... ¡Son nuestro ticket de oro! ¡La información que tenemos ahora sería suficiente para que cada uno en esta sala tenga un premio Nobel!\n\n<corrupt: 0xFFFFF7>: Sí. Serían 9 premios en total. Si todos estuviéramos de acuerdo en donar un poco de ese dinero a [<corrupt:0xFFFBc3>], nos quedarían alrededor de quince millones de dólares. ¡Una miseria frente al agujero negro financiero que representa tu estúpido proyecto!<>\n\n[<corrupt:0xFFFFD9> se levanta de su silla.]\n\n<corrupt:0xFFFFD9>: ¡¿ESTÚPIDO?! ¡¡¿¿ESTÚPIDO??!! ¡ESTAMOS CREANDO VIDA! ¡Eres testigo del surgimiento de una nueva especie inteligente! ¡Nuestros compañeros *matarían* por tener esta oportunidad hace apenas diez años!\n\n<corrupt:0xFFFFF7>: ¿Matar? Claro. ¿Pagar lo que usted pide? No. De ninguna manera.<>\n\n<corrupt:0xFFFFD9>: ¿Para ti todo es siempre plata? ¡Bien! ¡Estamos haciendo dinero! Incluso nuestra línea de peluches es más que suficiente para cubrir-\n\n<corrupt:0xFFFFF7>: ¡El precio será mucho más alto que todo ese dinero, imbécil! Cuando todo este chisme llegue al escritorio de un periodista metiche, lo pagaremos con nuestras *vidas.* Y nuestras familias acabarán linchadas. Además, los peluches no nos obliga a mantener tu colonia de... ratas parlantes con vida.\n\n<corrupt:0xFFFFD9>: ¡Los Sawianos no son ratas parlantes! Son una mezcla de-<>\n\n<corrupt:0xFFFFF7>: ¡OH, DISCÚLPAME! ¡Quise decir unos boletos andantes hacia el desmaterializador! ¡NUESTROS BOLETOS! No voy a terminar en la CPI sólo porque eres un avaricioso hijo de pu-\n\n<corrupt:0xFA05F2>: Caballeros. Por favor.\n\n<corrupt:0xFFFFF7>: Eh- Ah. Disculpe <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Por favor, expónganos su punto de vista. ¿Por qué vale la pena conservar estas criaturas?<>\n\n[Silencio. <corrupt:0xFFFFD9> se sienta.]\n\n<corrupt:0xFA05F2>: Digo... Hay tantas razones qué escoger, cre-\n\n<corrupt:0xFA05F2>: Entonces confío en que serás capaz de escoger la correcta.\n\n<corrupt:0xFFFFD9>: Uh. Claro. Listo. ¡Cerebrosalud! ¡Tenemos cerebrosalud!\n\n<corrupt:0xFFFFF7>: Sí, el medicamento de venta libre que cualquiera puede comprar en la tienda de la esquina.<>\n\n<corrupt:0xFFFFD9>: No. Este no. Podría abrirle la cabeza a alguien. Aplastar su lóbulo frontal con un martillo. Y el cerebrosalud de la tienda de la esquina no sería útil. El nuestro lo tendría caminando y hablando dentro de UNA SEMANA. Si no tuviéramos el amplio suministro de especímenes de prueba humanoides, necesitaríamos décadas para perfeccionar las directrices operacionales de las nanomáquinas. Y el doble de eso para hacer las pruebas.\n\n<corrupt:0xFA05F2>:Entiendo. <corrupt:0xFFFFF7>. ¿Su contraargumento?<>\n\n<corrupt:0xFFFFF7>: Si. Obtiene resultados. Pero el momento en que el público descubra exactamente CÓMO los obtuvimos, estaremos en la mierda. ¿Qué vas a decir, [#######]? ¿Que los peluches que vendemos a los niños son criaturas reales, y que te encanta rajarles su cabeza en tu tiempo libre? No va a ver a quién culpar. Todos vamos a ser juzgados por ello; toda la compañía. ¡Incluso lincharán a nuestro puto conserje!\n\n[<corrupt:0xFA05F2> asiente la cabeza, mirando a ambos en silencio por un momento.]<>\n\n<corrupt:0xFA05F2>: Ahora comprendo por qué chocan con tanta intensidad. No está en nuestra naturaleza rendirnos cuando la verdad está de nuestro lado. Y la verdad es que... Ambos tienen razón.\n\n[Silencio.]<>\n\n<corrupt:0xFA05F2>: Los Sawianos representan un riesgo que no podemos permitirnos asumir. Pero también son una oportunidad que no podemos dejar escapar. Los tenemos bajo nuestro control. Y debemos asegurarnos de que sigan así.\n\n<corrupt:0xFFFFD9>: Pero... ¿Cómo, <corrupt: 0xFA05F2>?\n\n[<corrupt:0xFA05F2> sonríe y- \n\n<corrupt:0xA1CF43><>\n\n[Resumen de la reunión]\n-Instalaciones cerradas hasta nuevo aviso.\n-Sawianos contenidos en sus celdas hasta nuevo aviso.\n-Los empleados tienen prohibido abandonar las instalaciones hasta nuevo aviso.\n-Contratos de los empleados extendidos indefinidamente.\n-Uso obligatorio de armas de fuego para el Personal de seguridad.\n-Procedimientos de remediación térmica en las instalaciones aprobados y pre-autorizados.",
+            "Item1": "(El APD se encuentra en un muy mal estado. Incontables alertas aparecen en la pantalla, pero algunos de los datos son legibles...)\n<>\n[Transcripción 542-23-145C Reunión de la Junta Ejecutiva]\n---------------------------------------------------------------\nUBICACIÓN: Sede Central de la Corporación en <corrupt:0xFFFF43>\nFECHA: 12-04-[obtener.año(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -seguramente notas la situación que tenemos en nuestras manos. Los Sawianos- son... ¡Son nuestro ticket de oro! ¡La información que tenemos ahora sería suficiente para que cada uno en esta sala tenga un premio Nobel!\n\n<corrupt:0xFFFFF7>: Sí. Serían 9 premios en total. Si todos estuviéramos de acuerdo en donar un poco de ese dinero a [<corrupt:0xFFFBc3>], nos quedarían alrededor de quince millones de dólares. ¡Una miseria frente al agujero negro financiero que representa tu estúpido proyecto!<>\n\n[<corrupt:0xFFFFD9> se levanta de su silla.]\n\n<corrupt:0xFFFFD9>: ¡¿ESTÚPIDO?! ¡¡¿¿ESTÚPIDO??!! ¡ESTAMOS CREANDO VIDA! ¡Eres testigo del surgimiento de una nueva especie inteligente! ¡Nuestros compañeros *matarían* por tener esta oportunidad hace apenas diez años!\n\n<corrupt:0xFFFFF7>: ¿Matar? Claro. ¿Pagar lo que usted pide? No. De ninguna manera.<>\n\n<corrupt:0xFFFFD9>: ¿Para ti todo es siempre plata? ¡Bien! ¡Estamos haciendo dinero! Incluso nuestra línea de peluches es más que suficiente para cubrir-\n\n<corrupt:0xFFFFF7>: ¡El precio será mucho más alto que todo ese dinero, imbécil! Cuando todo este chisme llegue al escritorio de un periodista metiche, lo pagaremos con nuestras *vidas.* Y nuestras familias acabarán linchadas. Además, los peluches no nos obliga a mantener tu colonia de... ratas parlantes con vida.\n\n<corrupt:0xFFFFD9>: ¡Los Sawianos no son ratas parlantes! Son una mezcla de-<>\n\n<corrupt:0xFFFFF7>: ¡OH, DISCÚLPAME! ¡Quise decir unos boletos andantes hacia el desmaterializador! ¡NUESTROS BOLETOS! No voy a terminar en la CPI sólo porque eres un avaricioso hijo de pu-\n\n<corrupt:0xFA05F2>: Caballeros. Por favor.\n\n<corrupt:0xFFFFF7>: Eh- Ah. Disculpe <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Por favor, expónganos su punto de vista. ¿Por qué vale la pena conservar estas criaturas?<>\n\n[Silencio. <corrupt:0xFFFFD9> se sienta.]\n\n<corrupt:0xFA05F2>: Digo... Hay tantas razones qué escoger, cre-\n\n<corrupt:0xFA05F2>: Entonces confío en que serás capaz de escoger la correcta.\n\n<corrupt:0xFFFFD9>: Uh. Claro. Listo. ¡Cerebrosalud! ¡Tenemos cerebrosalud!\n\n<corrupt:0xFFFFF7>: Sí, el medicamento de venta libre que cualquiera puede comprar en la tienda de la esquina.<>\n\n<corrupt:0xFFFFD9>: No. Este no. Podría abrirle la cabeza a alguien. Aplastar su lóbulo frontal con un martillo. Y el cerebrosalud de la tienda de la esquina no sería útil. El nuestro lo tendría caminando y hablando dentro de UNA SEMANA. Si no tuviéramos el amplio suministro de especímenes de prueba humanoides, necesitaríamos décadas para perfeccionar las directrices operacionales de las nanomáquinas. Y el doble de eso para hacer las pruebas.\n\n<corrupt:0xFA05F2>:Entiendo. <corrupt:0xFFFFF7>. ¿Su contraargumento?<>\n\n<corrupt:0xFFFFF7>: Si. Obtiene resultados. Pero el momento en que el público descubra exactamente CÓMO los obtuvimos, estaremos en la mierda. ¿Qué vas a decir, [#######]? ¿Que los peluches que vendemos a los niños son criaturas reales, y que te encanta rajarles su cabeza en tu tiempo libre? No va a haber a quién culpar. Todos vamos a ser juzgados por ello; toda la compañía. ¡Incluso lincharán a nuestro puto conserje!\n\n[<corrupt:0xFA05F2> asiente la cabeza, mirando a ambos en silencio por un momento.]<>\n\n<corrupt:0xFA05F2>: Ahora comprendo por qué chocan con tanta intensidad. No está en nuestra naturaleza rendirnos cuando la verdad está de nuestro lado. Y la verdad es que... Ambos tienen razón.\n\n[Silencio.]<>\n\n<corrupt:0xFA05F2>: Los Sawianos representan un riesgo que no podemos permitirnos asumir. Pero también son una oportunidad que no podemos dejar escapar. Los tenemos bajo nuestro control. Y debemos asegurarnos de que sigan así.\n\n<corrupt:0xFFFFD9>: Pero... ¿Cómo, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> sonríe y- \n\n<corrupt:0xA1CF43><>\n\n[Resumen de la reunión]\n-Instalaciones cerradas hasta nuevo aviso.\n-Sawianos contenidos en sus celdas hasta nuevo aviso.\n-Los empleados tienen prohibido abandonar las instalaciones hasta nuevo aviso.\n-Contratos de los empleados extendidos indefinidamente.\n-Uso obligatorio de armas de fuego para el Personal de seguridad.\n-Procedimientos de remediación térmica en las instalaciones aprobados y pre-autorizados.",
             "Item2": ""
         }
     ],
