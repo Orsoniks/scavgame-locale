@@ -1477,11 +1477,11 @@
         "savecontinuemenu": "Reanudar expedición",
         "savecontinuemenudsc": "Reanuda una expedición guardada previamente.",
         "char0name": "[SAW-01] \"Experimento\"",
-        "char0desc": "[FAMILIA] \"Canino\"\n[CALLOUT_QUOTE] \"H-huh? ¿Yo? Is it my time to go..?\"\n[SUCCESS_PREDICTION] \"0.00374%\"\n[NOTES] \"Uninteresting\"",
-        "char0quirks": "[CANINE] - Your stomach doesn't play well with theobromine.\n[BIOLUMINESCENT_SIGHT] - In an emergency, you're your own light source.",
+        "char0desc": "[FAMILIA] \"Canino\"\n[MENSAJE_GRABADO] \"¿E-eh? ¿Yo? ¿Ya debo irme..?\"\n[PROBABILIDAD_DE_ÉXITO] \"0.00374%\"\n[NOTAS] \"Irrelevante\"",
+        "char0quirks": "[CANINO] - Tu estómago no tolera bien la teobromina.\n[VISTA_BIOLUMINISCENTE] - En caso de una emergencia, eres tu propia fuente de luz.",
         "char1name": "[SAW-03] \"Milky\"",
-        "char1desc": "[FAMILY] \"Canino\"\n[CALLOUT_QUOTE] \"I will comply.\"\n[SUCCESS_PREDICTION] \"0.0103%\"\n[NOTES] \"Bit of a snob\"",
-        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better and light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick and gives less nutrition.\n[SCRAWNY] - All STR gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need one.\n[CANINE] - Your stomach doesn't play well with theobromine.",
+        "char1desc": "[FAMILIA] \"Canino\"\n[MENSAJE_GRABADO] \"Cumpliré con la orden.\"\n[PROBABILIDAD_DE_ÉXITO] \"0.0103%\"\n[NOTAS] \"Algo presumido\"",
+        "char1quirks": "[NARCOLÉPTICO] - Tu ciclo de sueño es mucho más corto, pero no sientes los efectos negativos de dormir en superficies ásperas.\n[ESTATURA] - ¡Eres diminuto!\n[VISIÓN-ADAPTADA] - Ves con más claridad y la iluminación de las fuentes de luz se extienden.\n[SEMI-HERBÍVORO] - Consumir carne te hará enfermar ligeramente y aporta menos nutrición.\n[DELGADO] - Toda la ganancia en FUE se reduce a la mitad.\n[TIRADOR_EXPERTO] - Puedes usar atajos de teclado para manejar armas de fuego.\n[FORTALEZA_MENTAL] - Se necesitará más para quebrarte mentalmente. No eres de los que muestran afecto, a menos que realmente lo necesites.\n[CANINO] - Tu estómago no tolera bien la teobromina.",
         "presetnormal": "Normal",
         "presetnormaldsc": "La experiencia por defecto. Los errores son castigables. El conocimiento y tu percepción de tu entorno son altamente recompensados. El tiempo es esencial. Tu muerte es prácticamente garantizada.",
         "presetrelaxed": "Relajado",
@@ -1687,8 +1687,8 @@
         "gamesetbark": "Ladrar",
         "gamesetconsole": "Activar consola de depuración",
         "gamesetpause": "Pausar",
-        "gamesetmarksmanrack": "(Marksman) Rack slide",
-        "gamesetmarksmanunload": "(Marksman) Eject mag",
+        "gamesetmarksmanrack": "(Tirador experto) Deslizar corredera",
+        "gamesetmarksmanunload": "(Tirador experto) Expulsar cargador",
         "copy": "Copiar al portapapeles",
         "paste": "Pegar desde el portapapeles",
         "descend": "Descender",
@@ -1948,8 +1948,8 @@
         "open": "Abrir",
         "insertbattery": "Inserte la batería desde la mano principal",
         "lockpick": "Forzar cerradura",
-        "finaltravel": "Buckle up and travel",
-        "lookcloser": "Take a closer look",
+        "finaltravel": "Abróchate el cinturón y viaja",
+        "lookcloser": "Mirar más de cerca",
         "examine": "Examinar",
         "learnedrecipe": "Receta aprendida: r1.\nObtuviste <color=\"green\">25 exp. en INT.",
         "epdalearn": "Obtuviste <color=\"green\">35 exp. en INT.",
@@ -2016,7 +2016,7 @@
         "endscreenunknown": "DESCONOCIDAS",
         "endscreenphysical": "ESTADO FÍSICO:",
         "endscreendeceased": "FALLECIDO",
-        "endscreenexamination": "VIVO, EN EXÁMEN",
+        "endscreenexamination": "VIVO, EN EVALUACIÓN",
         "endscreenmental": "ÚLTIMO REGISTRO EMOCIONAL:",
         "endscreendepth": "PROFUNDIDAD:",
         "endscreendepthres": " METROS EN ",
@@ -5762,22 +5762,22 @@
         ],
         [
             {
-                "Item1": "there is some kind of weird machine thing... i think it disguised itself as one of the crates i keep finding around. it shot something at me... though, while it did hurt, it also cooled me down nicely... i cant wrap my mind around these things",
+                "Item1": "hay una clase de maquinaria extraña... creo que se disfraza por sí solo como una de las cajas que me encuentro por aquí. me disparó... aunque sí me dolió, también me refrescó mucho... no logro entender lo que eran esas cosas",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "cold boom thing good",
+                "Item1": "boom helado cosa buena",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "I brought over a small amount of these odd shifting cores from the previous biome I was in. It seems by letting them transform into a \"manifestation\", I am able to use them as a source of infinite nutrition and hydration, as one core turns into two upon manifesting. Quite useful.",
+                "Item1": "Recolecté una pequeña cantidad de estos núcleos extraños cambiantes del anterior bioma en el que me encontraba. Parece que, al permitirles transformarse en una \"manifestación\", soy capaz de usarlos como una fuente infinita de nutrición e hidratación, debido a que un núcleo se divide en dos al manifestarse. Bastante útil.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "found some kind of weird alien looking ball out of some kind of drone... it said something about \"cryo\" on it? i didnt have a use for it so i threw it into a pool of those melted rocks... and it solidified them..?",
+                "Item1": "encontré una especie de bola rara de aspecto alienígena que salió de un drón... tenía escrito algo sobre ¿\"crio\"? no le vi utilidad en eso, así que lo arrojé en una poza de rocas fundidas... ¿y las solidificó...?",
                 "Item2": "",
                 "Item3": "experiment"
             },
