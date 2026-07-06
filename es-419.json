@@ -214,7 +214,7 @@
         "exposedcoredsc": "Los restos durmientes de algo que alguna vez vivió. Puede que puedas comerlo para absorber su energía en forma de nutrientes y agua. <i>Parece que poco a poco se está transformando en algo...</i>",
         "foliage": "Hojas",
         "foliagedsc": "Planta alienígena genérica. Apenas comestible, con un sabor desagradable. Podría enfermarte. Se pudre rápidamente. A veces usado para crear objetos.",
-        "foliagemeal": "Plato de follaje",
+        "foliagemeal": "Plato de follajes",
         "foliagemealdsc": "Una comida decentemente preparada, hecha de hojas crujientes con relleno rudimentario. No perdurará mucho y no tiene grasas, pero es muy saciante.",
         "dryfoliage": "Hojas secas",
         "dryfoliagedsc": "Parecen algo más atractivas de consumir estando secas. Podría enfermarte un poco.",
@@ -5782,12 +5782,12 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy orange vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my eyes afterwards without cleaning my hands. ow.",
+                "Item1": "me sigo quemando mis patas con esas rocas calientes. tengo miedo de que se me infecten... aunque, una de esas enredaderas naranjas con brillo me dieron algo de alivio cuando envolví la herida de mi pata con eso. cometí el error de tocarme los ojos sin lavarme las manos. auch.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I have found an odd hole residing on the wall next to me. After peering inside, out of said hole came out an odd, dry tentacle, which proceeded to briefly attach itself to me, make some kind of sucking motion, then disappear back into its den. While I was quite afraid after that occurence, I appear to be fine.<>\nI saw no noticeable change in the \"Health Panel\", though it is entirely possible I have missed something. Whatever this creature is, it does not seem to pose any significant danger to passers by.",
+                "Item1": "Me he encontrado un hoyo extraño que está en la pared a mi lado. Cuando me asomé dentro, salió un inusual tentáculo seco, el cual se adhirió brevemente a mí, haciendo una especie de movimiento de succión y después regresó a su guarida. Aunque el incidente me asustó considerablemente, parezco estar en buenas condiciones.<>\nNo observé ningún cambio notable en el \"Panel de Salud\"; no obstante, es muy posible que algo se me haya pasado por alto. Sea lo que sea esta criatura, no parece representar un peligro significativo para cualquier transeúnte.",
                 "Item2": "",
                 "Item3": "milky"
             }
