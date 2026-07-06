@@ -4508,20 +4508,20 @@
                 "D-dummy."
             ],
             "breakcorpse": [
-                "Que acto tan terrible y asqueroso que acabo de hacer.",
+                "Qué acto tan terrible y asqueroso que acabo de hacer.",
                 "Me cuesta trabajo encontrar sentido a lo que acabo de hacer.",
-                "Ew. Ew, ew, ew ew, Ew.",
+                "Ew. Ew, ew, ew, ew, Ew.",
                 "Creo que se me ha metido un poco en el ojo.",
                 "Eso fue innecesario.",
-                "Wow. Que asqueroso de mi parte."
+                "Wow. Qué asqueroso de mi parte."
             ],
             "cold": [
-                "Frio.",
+                "Frío.",
                 "Mi temperatura corporal es menor que la media.",
-                "La temperatura ambiente esta por debajo de la media.",
+                "La temperatura ambiente está por debajo de la media.",
                 "*temblor*",
                 "Tengo frío",
-                "Si esto sigue así, prodría entrar en un estado de hipotermia.",
+                "Si esto sigue así, podría entrar en un estado de hipotermia.",
                 "No siento calor en mi cuerpo.",
                 "Debería quedarme a una temperatura agradable.",
                 "Hace un poco de frío por aquí."
@@ -4541,9 +4541,9 @@
                 "Estoy muy caliente. ...No de esa forma...",
                 "...Caliente. Muy. Caliente.",
                 "Podría sufrir insolación a este ritmo...",
-                "Estoy peligrosamente hipertermico...",
+                "Estoy peligrosamente hipértermico...",
                 "Insolación... Entrante.",
-                "Es difícil enfocarme en este calor.",
+                "Es difícil enfocarme en este calor.",  
                 "Peligrosamente caliente...",
                 "El sudor no es suficiente para corregir esto...",
                 "Calor mareante.",
@@ -4556,7 +4556,7 @@
                 "Esto es cansador.",
                 "Debería parar.",
                 "Un descanso sería preferible.",
-                "Que trabajo tan agotador.",
+                "Qué trabajo tan agotador.",
                 "Agotado.",
                 "Concéntrate."
             ],
@@ -4567,9 +4567,9 @@
                 "Estoy completamente... Agotado...",
                 "Necesito... respirar...",
                 "Agotado...",
-                "Es... dificíl... respirar...",
+                "Es... difícil... respirar...",
                 "*tos* *tos*",
-                "Mis musculos... ya no... aguantan...",
+                "Mis músculos... ya no... aguantan...",
                 "Concéntrate..."
             ],
             "freezing": [
@@ -4581,12 +4581,12 @@
                 "Necesito ponerme a calor, ya mismo.",
                 "Me estoy congelando.",
                 "Demasiado frío. Me duele.",
-                "Que frío tan paralizante...",
+                "Qué frío tan paralizante...",
                 "No puedo sentir mis extremidades."
             ],
             "emaciated": [
                 "Mi figura es peligrosamente frágil.",
-                "Estoy a riesgo de sufrír insuficiencia cardíaca. Necesito incrememtar mi masa corporal.",
+                "Estoy a riesgo de sufrir insuficiencia cardíaca. Necesito incrementar mi masa corporal.",
                 "Estoy extremadamente desnutrido.",
                 "Necesito ajustar mi dieta."
             ],
@@ -4600,10 +4600,10 @@
             "opiated": [
                 "Estoy bajo la influencia de una substancia a base de opiáceos.",
                 "Mm... Mmmm... Grogui.",
-                "Esto se sitente... Bueno. Bien.",
+                "Esto se siente... Bueno. Bien.",
                 "Suficiente...",
                 "Esa sensación de hormigueo.",
-                "Es difícil de concentrarme, pero me gusta.",
+                "Es difícil concentrarme, pero me gusta.",
                 "Esto me gusta.",
                 "Tengo sustancias sedantes en mi organismo.",
                 "Siento pesadez en mis pulmones."
@@ -4619,7 +4619,7 @@
                 "Es-estoy experimentando síntomas de a-abstinencia.",
                 "Me ti-tiemblan las ma-manos.",
                 "A-abstinencia-cia.",
-                "Re-requiero mas opioides.",
+                "Re-requiero más opioides.",
                 "Tembloroso."
             ],
             "cantBreathe": [
@@ -4645,7 +4645,7 @@
                 "Caray.",
                 "Agh...",
                 "*suspiro*",
-                "Sesación desagradable en mi <limb>."
+                "Sensación desagradable en mi <limb>."
             ],
             "hitgroundhard": [
                 "¡Auh!",
@@ -4688,7 +4688,7 @@
                 "*suspiro*",
                 "¡Hhhnn! ¡Ni se te ocurra!",
                 "¡Pedazo de...!",
-                "¡Que molesto!"
+                "¡Qué molesto!"
             ],
             "wet": [
                 "Mi pelaje tiene un alto contenido de agua.",
@@ -4700,7 +4700,7 @@
                 "He acumulado humedad en la superficie de mi cuerpo.",
                 "Estoy empapado.",
                 "Porfavor remueve este líquido de mi superficie corporal.",
-                "Estoy cubierto en liquido."
+                "Estoy cubierto en líquido."
             ],
             "dirty": [
                 "Necesito limpiarme para evitar complicaciones.",
@@ -4712,7 +4712,7 @@
                 "Me gustaría utilizar un baño.",
                 "Sería ideal que tomara un baño.",
                 "Esto no puede ser higiénico.",
-                "Mi pelaje esta cubierto de tierra."
+                "Mi pelaje está cubierto de tierra."
             ],
             "encumbered": [
                 "Mis limitadas capacidades físicas están empezando a notarse.",
@@ -4723,7 +4723,7 @@
                 "Llevo muchas cosas encima.",
                 "Qué carga tan pesada para mí.",
                 "Mi columna no aprecia esto.",
-                "Perece ser que ando un poco sobrecargado."
+                "Parece ser que ando un poco sobrecargado."
             ],
             "watchlike": [
                 "Timbra en mis oídos como los experimentos. Lo considero encantador."
@@ -4732,11 +4732,11 @@
                 "Me acerco cada vez más al objetivo.",
                 "Puede que haya sufrido una ligera pérdida auditiva a causa de eso.",
                 "Necesito tener cuidado. Esto es una zona nueva y desconocida.",
-                "Esto es un buen metodo de transporte."
+                "Esto es un buen método de transporte."
             ],
             "loud": [
                 "¡Hnnng! Hmhn... Necesito evitar exposición a sonidos tan fuertes.",
-                "¡¡¡AAHHHHH!!! ...No deberia haber gritado por tal menor ocurrencia.",
+                "¡¡¡AAHHHHH!!! ...No debería haber gritado por tal menor ocurrencia.",
                 "¡!.......",
                 "...Mis oídos."
             ],
@@ -4775,7 +4775,7 @@
                 "Hay un sabor metálico en mi boca.",
                 "Mi cabeza se siente rara.",
                 "Estoy roto.",
-                "¿Quies es Berta...?"
+                "¿Quién es Berta...?"
             ],
             "lastmoments": [
                 "Hnnh... Hmmnnhhh... Muy... Mal...",
@@ -4784,8 +4784,8 @@
                 "¡CONCENTRATE!",
                 "Nhh... Nada... ideal...",
                 "Yo no... quiero morir...",
-                "Necesito... Ayuda... Porfavor...",
-                "No... Nh... No así porfavor...",
+                "Necesito... Ayuda... Por favor...",
+                "No... Nh... No así, por favor...",
                 "Sálvame.",
                 "H-h... Nhhh... hnnh... Ghhh...",
                 "D-deseo... c-continuar... viviendo...",
