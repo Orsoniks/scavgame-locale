@@ -996,6 +996,7 @@
         "impendingdoom": "Sentimiento de un cataclismo inminente",
         "horrified": "ATERRORIZADO",
         "focused": "CONCENTRADO",
+        
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  sentido   ya   no",
         "braindamage2dsc": "Déficit mental grave. La habilidad de autosustentarse y pensar de manera inteligente se vuelve limitada. Daño cerebral importante.",
@@ -1474,6 +1475,7 @@
         "next": "Siguiente",
         "nextdsc": "Proceder a la selección de especie",
         "savecontinuemenu": "Continuar expedición",
+        "savecontinuemenudsc": "Continuar una partida guardada anteriormente.",
         "char0name": "[SAW-01] \"Experiment\"",
         "char0desc": "[FAMILIA] \"Canino\"\n[FRASE_LLAMAMIENTO] \"¿E-ehh? ¿Yo? ¿Es mi turno de ir..?\"\n[PREDICCION_EXITO] \"0.00374%\"\n[NOTAS] \"Poco interesante\"",
         "char0quirks": "[CANINO] - A tu estómago no le sienta bien la teobromina.\n[VISON_BIOLUMINESCENTE] - En una emergencia, eres tu propia fuente de luz.",
@@ -1584,6 +1586,7 @@
         "runsetminigamehandshakedsc": "Cuánto te tiembla la mano durante los minijuegos cuando estás dolorido",
         "runsetdebugworld": "Mundo de pruebas",
         "runsetdebugworlddsc": "Si está activo, hace que el mundo sea mucho más pequeño para acelerar la generación. No está pensado jugar de forma normal.",
+        
         "tutorialwarning": "<size=150%>Antes de que te vayas...\n\n<size=100%>No has pasado aún por los módulos básicos.\n¿Estás seguro que quieres bajar a ciegas?\n\n\n\nTu perdición no estará más que asegurada.",
         "tutorialwarningyes": "¡Llevame ahí!",
         "tutorialwarningno": "Se lo que hago.",
