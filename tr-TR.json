@@ -3413,17 +3413,17 @@
                 "Out of stock! Sorry! You've bought so much already..."
             ],
             "traderwarning": [
-                "Leave.",
-                "Leave. Now.",
-                "Out! Get out!",
-                "Leave this pod.",
-                "I don't like you being here. Leave.",
-                "Leave!",
-                "Out.",
-                "Get out of here!",
-                "Get lost.",
-                "Fuck off!",
-                "Fuck off."
+                "Çık.",
+                "Çık. Hemen.",
+                "Git! Defol burdan!",
+                "Kapsülümü terk et.",
+                "Senin burda olmanı istemiyorum, burayı terk et.",
+                "Defol!",
+                "Yüzüm görmesin seni.",
+                "Defol git lan burdan!",
+                "Kaybol.",
+                "Siktir ol git lan burdan!",
+                "Siktir git burdan."
             ],
             "tradercombat": [
                 "I'm done with your shit.",
