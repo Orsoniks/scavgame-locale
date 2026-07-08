@@ -4530,7 +4530,7 @@
                 "Calor.",
                 "Mi temperatura corporal es mayor que la media.",
                 "Estoy sudando.",
-                "Necesito enfriarme.",
+                "Debo refrescarme.",
                 "Una bolsa de hielo resultaría util.",
                 "Siento demasiado calor como para estar cómodo.",
                 "Tengo calor.",
@@ -4540,20 +4540,20 @@
             "hot": [
                 "Estoy muy caliente. ...No de esa forma...",
                 "...Caliente. Muy. Caliente.",
-                "Podría sufrir insolación a este ritmo...",
+                "Podría sufrir de insolación a este ritmo...",
                 "Estoy peligrosamente hipértermico...",
-                "Insolación... Entrante.",
+                "Insolación... Inminente.",
                 "Es difícil enfocarme en este calor.",  
                 "Peligrosamente caliente...",
                 "El sudor no es suficiente para corregir esto...",
                 "Calor mareante.",
-                "Estoy sudando balas."
+                "Estoy empapado en sudor."
             ],
             "exerted": [
                 "Preferiría descansar.",
                 "Un ejercicio saludable.",
-                "No estoy acondicionado para trabajo físico.",
-                "Esto es cansador.",
+                "No estoy acondicionado para el trabajo físico.",
+                "Esto es extenuante.",
                 "Debería parar.",
                 "Un descanso sería preferible.",
                 "Qué trabajo tan agotador.",
@@ -4574,11 +4574,11 @@
             ],
             "freezing": [
                 "Estoy peligrosamente hipotérmico.",
-                "Tengo que calentarme, rápido.",
-                "Mi sangre se esta congelando.",
-                "Una fuente de calor es necesaria...",
+                "Debo calentarme, rápido.",
+                "Mi sangre se está congelando.",
+                "Una fuente de calor es requerida...",
                 "Estoy temblando.",
-                "Necesito ponerme a calor, ya mismo.",
+                "Necesito entrar en calor, ahora mismo.",
                 "Me estoy congelando.",
                 "Demasiado frío. Me duele.",
                 "Qué frío tan paralizante...",
@@ -4586,7 +4586,7 @@
             ],
             "emaciated": [
                 "Mi figura es peligrosamente frágil.",
-                "Estoy a riesgo de sufrir insuficiencia cardíaca. Necesito incrementar mi masa corporal.",
+                "Estoy en riesgo de sufrir insuficiencia cardíaca. Necesito incrementar mi masa corporal.",
                 "Estoy extremadamente desnutrido.",
                 "Necesito ajustar mi dieta."
             ],
@@ -4598,13 +4598,13 @@
                 "Peso mucho."
             ],
             "opiated": [
-                "Estoy bajo la influencia de una substancia a base de opiáceos.",
-                "Mm... Mmmm... Grogui.",
+                "Estoy bajo la influencia de una sustancia a base de opiáceos.",
+                "Mm... Mmmm... Desorientado.",
                 "Esto se siente... Bueno. Bien.",
                 "Suficiente...",
                 "Esa sensación de hormigueo.",
                 "Es difícil concentrarme, pero me gusta.",
-                "Esto me gusta.",
+                "Disfruto esto.",
                 "Tengo sustancias sedantes en mi organismo.",
                 "Siento pesadez en mis pulmones."
             ],
@@ -4612,7 +4612,7 @@
                 "Una sensación agradable y fugaz.",
                 "...Finalmente puedo relajarme.",
                 "Me siento ligero...",
-                "Esto es mucho mejor."
+                "Esto está mucho mejor."
             ],
             "opiatewithdrawal": [
                 "R-requiero otra dosis de opio, urgentemente.",
@@ -4633,7 +4633,7 @@
                 "No puedo respirar."
             ],
             "pain": [
-                "Estoy dolorido.",
+                "Estoy adolorido.",
                 "Ow.",
                 "Mi <limb> está transmitiendo señales de dolor.",
                 "Dolor.",
@@ -4642,7 +4642,7 @@
                 "Esto se siente mal.",
                 "Mi <limb> presenta anomalías.",
                 "Se detecta actividad nociceptiva.",
-                "Caray.",
+                "Demonios.",
                 "Agh...",
                 "*suspiro*",
                 "Sensación desagradable en mi <limb>."
@@ -4653,16 +4653,16 @@
                 "¡Hnnnh!",
                 "¡...!",
                 "¡Gnh!",
-                "Oops."
+                "Ups."
             ],
             "bigpain": [
                 "NNNHH...",
                 ".....NGHH....",
-                "...A-Agon-nia...",
+                "...A-Agon-nía...",
                 "N...Nhhh...Ghhh...",
                 "H... Mhhh.... Haa... Ay-ayu-da...!",
                 "Grrrh...",
-                "¡¡PARA YA!!",
+                "¡¡YA PARA!!",
                 "¡BASTA!",
                 "¡¡MIERDA!!",
                 "Nhhggggghhh... Urrgghh...",
@@ -4682,7 +4682,7 @@
                 "Eso no puede ser nada bueno."
             ],
             "hitbycreature": [
-                "¡¡Maldito bicharro!!",
+                "¡¡Maldito bicho!!",
                 "¡AGH! ¡Hijo de!",
                 "¡Hngh! ¡Basta!",
                 "*suspiro*",
@@ -4699,23 +4699,23 @@
                 "Se me ha acumulado humedad.",
                 "He acumulado humedad en la superficie de mi cuerpo.",
                 "Estoy empapado.",
-                "Porfavor remueve este líquido de mi superficie corporal.",
+                "Por favor remueve este líquido de mi superficie corporal.",
                 "Estoy cubierto en líquido."
             ],
             "dirty": [
-                "Necesito limpiarme para evitar complicaciones.",
+                "Debo limpiarme para evitar complicaciones.",
                 "Estoy sucio. No me gusta verme en este estado.",
                 "Ew. Estoy sucio. No debería aparecer ante nadie así.",
                 "Debería limpiar esta tierra de mí.",
                 "Higiene subóptima.",
-                "Aparezco estar cubierto de suciedad.",
-                "Me gustaría utilizar un baño.",
+                "Parezco estar cubierto de suciedad.",
+                "Me gustaría usar una ducha.",
                 "Sería ideal que tomara un baño.",
                 "Esto no puede ser higiénico.",
                 "Mi pelaje está cubierto de tierra."
             ],
             "encumbered": [
-                "Mis limitadas capacidades físicas están empezando a notarse.",
+                "Mis limitadas capacidades físicas se están haciendo evidentes.",
                 "¿Vamos a una excursión? ¿Por qué tengo que llevar tanto?",
                 "Estoy seguro de que estos objetos serán útiles para alcanzar mi objetivo... Pero son pesados.",
                 "Esta carga es muy pesada.",
@@ -4731,7 +4731,7 @@
             "drillend": [
                 "Me acerco cada vez más al objetivo.",
                 "Puede que haya sufrido una ligera pérdida auditiva a causa de eso.",
-                "Necesito tener cuidado. Esto es una zona nueva y desconocida.",
+                "Debo tener cuidado. Esto es una zona nueva y desconocida.",
                 "Esto es un buen método de transporte."
             ],
             "loud": [
@@ -4741,7 +4741,7 @@
                 "...Mis oídos."
             ],
             "murderregret": [
-                "....H..Hah... Haha... Ha... Hahaha... Ahhahaha.... Hahhh... H-h..a...",
+                "....J..Jah... JaJa... Ja... JaJaJa... AjhaJaJa.... jahhh... j-j..a...",
                 "Soy un monstruo irremediable. Estoy avergonzado.",
                 "Lo... siento.",
                 "No fue... mi intención..."
@@ -4761,7 +4761,7 @@
                 "¡TROGLODITA!",
                 "¡DEJA DE RESISTIR!",
                 "¡SOLO YA MUERE!",
-                "¡DÉJALO YA!"
+                "¡DEJA ESO!"
             ],
             "braindamaged": [
                 "...Algo está mal.",
@@ -4781,7 +4781,7 @@
                 "Hnnh... Hmmnnhhh... Muy... Mal...",
                 "Yo... Hhhuh...",
                 "Esto... Es s-subóptimo...",
-                "¡CONCENTRATE!",
+                "¡CONCÉNTRATE!",
                 "Nhh... Nada... ideal...",
                 "Yo no... quiero morir...",
                 "Necesito... Ayuda... Por favor...",
