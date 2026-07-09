@@ -1462,7 +1462,7 @@
         "dune": "Dune",
         "dunetraderdsc": "Grande, ancho, imponente y con una mentalidad bruta. Tiene extrañas aletas esparcidas por todo su cuerpo, 6 pinchos saliendo de los laterales de su cabeza y una boca terroríficamente grande con montones de dientes afilados esparcidos. Parece tener branquias alrededor de su torso. Aunque no son directamente agresivos, en su mayoría son dirigidos por el hambre, por ende es posible que no le importe mucho lo que le des a cambio; Tendrás que pensar en una mejor manera de sacarle su lado bueno.",
         "Shelly": "Shelly",
-        "clicktocontinue": "Haz click para continuar...",
+        "clicktocontinue": "Haz click para continuar...\nESC para omitir",
         "favouriteditem": "Los objetos en favoritos serán remarcados y no se usarán en el crafteo",
         "mainhand": "Mano principal",
         "secondaryhand": "Mano secundaria",
@@ -2062,7 +2062,7 @@
         "tutbasic2": "Vamos a ver todas las cosas básicas que debes de saber para el nuevo experimento en el que participarás.",
         "tutbasic3": "Por favor, camina hacia el Dispositivo Acorazado de Entrenamiento. [A]",
         "tutbasic4": "Otra vez. [D]",
-        "tutbasic5": "Puedes caminar. ¡Impresioante!",
+        "tutbasic5": "Puedes caminar. ¡Impresionante!",
         "tutbasic6": "[ESPACIO] para saltar. Mantenlo para saltar más alto. Puedes saltar de las paredes también.",
         "tutbasic7": "Abrete paso hacia el Dispositivo Acorazado de Entrenamiento.",
         "tutbasic8": "Eres una cosita ágil, ¿No es así?",
@@ -2092,8 +2092,8 @@
         "tutbasic31": "Una herida de un tamaño decente. ¡Buenas noticias - lo vas a arreglar tú!",
         "tutbasic32": "Aquí tienes un vendaje. Míralo manteniendo [SHIFT]. Dice \"Usable en el panel de salud\".",
         "tutbasic33": "Agárralo y abre el panel de salud.",
-        "tutbasic34": "[CLIC DERECHO] arrástra el vendaje hacia el miembro dañado.",
-        "tutbasic35": "Es hora de algo de trabajo físico. ¡Mantén [CLIC DERECHO] y empieza a enrollar el vendaje alrededor! Para el propósito de la prueba, es infinito.",
+        "tutbasic34": "Arrastra con [CLIC DERECHO] el vendaje hacia el miembro dañado.",
+        "tutbasic35": "Es hora de algo de trabajo físico. ¡Mantén [CLIC IZQUIERDO] y empieza a enrollar el vendaje alrededor! Para el propósito de la prueba, es infinito.",
         "tutbasic36": "¡Estás salvado! Por ahora. Siempre deberías de tener algún vendaje contigo. Salvan vidas.",
         "tutbasic37": "Repámpanos. ¡Parece ser que se te ha infectado la herida! (Normalmente te darías cuenta de esto un rato más tarde.)",
         "tutbasic38": "¡Otro medicamento importante! Antiséptico, lee lo que dice si lo deseas. Agárralo y abre el panel de salud.",
@@ -2185,7 +2185,7 @@
         "tutaid49": "La sangre extremadamente densa puede causar una embolia pulmonar, la cual puede dañar tu tórax. Un daño severo al tórax puede dificultar y eventualmente parar tu respiración.",
         "tutaid50": "Para deshacer el coágulo, usa estreptoquinasa.",
         "tutaid51": "Muy bien, pero veamos que pasa si tu tórax hubiese fallado.",
-        "tutaid52": "Debes de aumentar la vida muscular del tórax para volver a respirar. Estue kit para heridas hace justo eso - úsalo en tu tórax.",
+        "tutaid52": "Debes de aumentar la vida muscular del tórax para volver a respirar. Este kit para hematomas hace justo eso - úsalo en tu tórax.",
         "tutaid53": "Devuelta en marcha. Una respiración lenta disminuirá tu SpO2, lo cual eventualmente causará que te desmayes, fibrilación y muerte.",
         "tutaid54": "Una cosa más que mencionar sombre la presión sanguínea con una circulación alta, o hipertensión. Normalmente es más manejable, pero puede ser igualmente muy peligrosa.",
         "tutaid55": "El principal peligro es el riesgo de un derrame si la hipertensión se vuelve muy alta. Intenta no subir tu presión sanguínea por encima de 180/120.",
@@ -4378,7 +4378,7 @@
                 "¡GHH! ...Eso se sintió... Sorprendentemente bien."
             ],
             "suicide": [
-                "No. Puedo. Mas. Corto y cierro.",
+                "No. Puedo. Mas. Cambio y corto.",
                 "¡¡¡¡¡AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! ¡¡¡¡¡¡¡AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! ¿¿¿¡¡¡PPPOOORQUUUUUUUUEEEEEEEEEEEEE!!!???",
                 "Esto es todo. He acabado.",
                 "Que le jodan a esto.",
@@ -5787,7 +5787,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "He encontrado un agujero raro en la pared que tenía cerca. Tras echarle un vistazo, salió un tentáculo seco y raro de dicho agujero, que procedió a pegarse a mí, hacer un movimiento de aspiración y luego desaparecer de vuelta a su madriguera. Aunque me asustase trase esa ocurrencia, parezco estar bien.<>\nNo he visto ningún cambio notable en el \"Panel de Salud\", aunque es totalmente posible que me haya dejado algo. Fuese lo que fuese esa criatura, no parece suponer ningún peligro significativo para los transeúntes.",
+                "Item1": "He encontrado un agujero raro en la pared que tenía cerca. Tras echarle un vistazo, salió un tentáculo seco y raro de dicho agujero, que procedió a pegarse a mí, hacer un movimiento de aspiración y luego desaparecer de vuelta a su madriguera. Aunque me asustase tras esa ocurrencia, parezco estar bien.<>\nNo he visto ningún cambio notable en el \"Panel de Salud\", aunque es totalmente posible que me haya dejado algo. Fuese lo que fuese esa criatura, no parece suponer ningún peligro significativo para los transeúntes.",
                 "Item2": "",
                 "Item3": "milky"
             }
