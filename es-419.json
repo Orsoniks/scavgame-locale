@@ -1,5 +1,5 @@
 {
-    "name": "Español",
+    "name": "Español (Latinoamérica)",
     "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas.",
     "main": {
         "bandage": "Vendaje",
@@ -245,7 +245,7 @@
         "woodpitchfork": "Horquilla de madera",
         "woodpitchforkdsc": "Herramienta agrícola que se utiliza para arrojar material suelto, como heno, paja, estiércol u hojas. Hecho de madera.",
         "minilaserdrill": "Mini taladro láser",
-        "minilaserdrilldsc": "Un pequeño taladro láser accesibles al consumidor promedio. No es el mejor para cavar, pero ahorras esfuerzo.",
+        "minilaserdrilldsc": "Un pequeño taladro láser accesible al consumidor promedio. No es lo mejor para cavar, pero no gasta tu resistencia.",
         "heavydrill": "Taladro pesado",
         "heavydrilldsc": "Un taladro de mano mecánico, grande y pesado. Muy eficiente, aunque carece de alcance.",
         "pickaxe": "Pico",
@@ -1064,7 +1064,7 @@
         "depression1dsc": "Empezando a darte cuenta de la gravedad de tu situación. Intenta distraerte.",
         "depression2dsc": "Sin motivación para seguir adelante, luchando con las emociones. Las cosas realmente no están mejorando. Encuentra una manera de distraerte.",
         "depression3dsc": "Apenas dispuesto a hacer nada. Tu mente, devastada por la desesperación. ¿Quizás todo terminará pronto?",
-        "depression4dsc": "<i>¿Qué se siente saber que no vas a volver..?",
+        "depression4dsc": "<i>¿Qué se siente saber que no vas a volver...?",
         "trauma1dsc": "Te ha pasado algo malo y tu cerebro NO quiere volver a experimentarlo. La felicidad se redujo ligeramente.",
         "trauma2dsc": "Los acontecimientos recientes te han dejado inquieto y marcado. Te sientes tembloroso. REALMENTE no quieres pasar por eso otra vez. La felicidad se reduce.",
         "trauma3dsc": "Sientes pánico y horror. Visiones de horrores pasados ​​pasan ante tus ojos. Quieres SALIR de aquí por cualquier medio que sea necesario... Esta herida tardará un buen tiempo en sanar. Felicidad muy reducida.",
@@ -1936,28 +1936,28 @@
         "endscreenmainmenu": "REGRESAR AL MENÚ",
         "endscreenclipboard": "COPIAR AL PORTAPAPELES",
         "moodrange-10": "Suicida",
-        "moodrange-9": "Desesperanzado",
-        "moodrange-8": "Muy miserable",
+        "moodrange-9": "Desolado",
+        "moodrange-8": "Miserable",
         "moodrange-7": "Horrorizado",
         "moodrange-6": "Aterrado",
         "moodrange-5": "Deprimido",
-        "moodrange-4": "Abatido",
-        "moodrange-3": "Disgustado",
+        "moodrange-4": "Decaído",
+        "moodrange-3": "Angustiado",
         "moodrange-2": "Asustado",
-        "moodrange-1": "Preocupado",
+        "moodrange-1": "Inquieto",
         "moodrange0": "Estable",
         "moodrange1": "Tranquilo",
         "moodrange2": "Contento",
         "moodrange3": "Satisfecho",
-        "moodrange4": "Optimista",
-        "moodrange5": "Emocionado",
+        "moodrange4": "Animado",
+        "moodrange5": "Entusiasmado",
         "moodrange6": "Feliz",
         "moodrange7": "Encantado",
         "moodrange8": "Jubiloso",
         "moodrange9": "Gozoso",
-        "moodrange10": "Extático",
+        "moodrange10": "Extasiado",
         "moodrangewiped": "En blanco",
-        "moodrangeyethopeful": ", y esperanzado",
+        "moodrangeyethopeful": ", pero esperanzado",
         "wiki": "Wiki",
         "discord": "Servidor de Discord",
         "translations": "Repositorio de traducciones",
@@ -1982,7 +1982,7 @@
         "tutbasic11": "Aquí tienes algo para que juegues. [CLIC DERECHO] y arrástralo hacia ti, luego, a una ranura para tomarlo. Puedes mantener presionado [CONTROL] para ver los nombres de los objetos para que te sea más fácil reconocerlos.",
         "tutbasic12": "Excelente. También puedes usar el objeto desde el inventario. Arrástralo al centro para usarlo y continuar.",
         "tutbasic13": "Sabe espectacular, ¿no? Deberías comértelo todo ahora.",
-        "tutbasic13fail": "Quería que lo tomaras, no que te lo comieras... Dios, ¿te lo comiste todo en un solo bocado..?",
+        "tutbasic13fail": "Quería que lo tomaras, no que te lo comieras... Cielos, ¿te lo comiste todo...?",
         "tutbasic14": "En serio estabas ASÍ de hambriento...",
         "tutbasic15": "Probemos otra cosa. Aquí hay algo más para practicar.",
         "tutbasic16": "Tienes seis ranuras principales para cargar cosas. Dos manos, una boca y tres ranuras en tu espalda.",
@@ -2018,7 +2018,7 @@
         "tutbasic44": "¡Bolsa de basura! Deberías estar familiarizado con esto. Hemos visto a los de tu especie durmiendo en ellas.",
         "tutbasic45": "Es un contenedor, quiere decir, extiende la cantidad de cosas que puedes llevar. Intenta arrastrar otro objeto dentro.",
         "tutbasic46": "Guau, ¡Está guardado adentro! Ahora, [CLIC DERECHO] en la bolsa y saca el objeto.",
-        "tutbasic46fail1": "¿Qu... Por qué... Por qué lo rompiste..?",
+        "tutbasic46fail1": "¿Qu... Por qué... Por qué lo rompiste...?",
         "tutbasic46fail2": "..Bueno. Está bien. Sigamos...",
         "tutbasic46fail3": "Estás jugando con mi paciencia. Deja de romper las bolsas. Vamos a saltarnos esta parte, ya que no estás cooperando.",
         "tutbasic47": "Muy bien. Los contenedores son muy útiles, mantente alerta por si ves alguno.",
@@ -2137,7 +2137,7 @@
         "tutcraft17": "Ganas INT siempre que uses un plano o realices una receta por primera vez.",
         "tutcraft18": "Puedes hacer recetas de hasta 3 niveles en INT mayor al tuyo, pero con resultados peores progresivamente.",
         "tutcraft19": "Con 1 nivel por encima en INT tienes 50% de probabilidad de dañar el objeto creado. Con 2 niveles, 50% de probabilidad de malgastar totalmente los materiales usados y con 3 niveles, además de lo anterior, recibirás daños leves.",
-        "tutcraft20": "Tienes INT suficeinte para hacer un machete. Créalo.",
+        "tutcraft20": "Tienes INT suficiente para hacer un machete. Créalo.",
         "tutcraft21": "Qué listo eres, amiguito. Puedes mejorar tus herramientas aún más usando, por ejemplo, aleaciones de titanio. Las herramientas de excavación también te podrían ayudar.",
         "tutcraft22": "Sigamos con la creación de objetos relacionadas con la comida. En su gran mayoría, necesitas hacer una fogata para crearlas.",
         "tutcraft23": "Hierve el agua subterránea para tener agua limpia. Tendrías que hacer una cantimplora para colectarlo y una fogata para hervirlo.",
@@ -3630,7 +3630,7 @@
             ],
             "encumbered": [
                 "Estoy cargando mucho.",
-                "¿En serio necesito todo esto..?",
+                "¿En serio necesito todo esto...?",
                 "Estoy un poco agobiado por este peso...",
                 "Debería dejar algunas cosas...",
                 "Debería dejar algunas de mis pertenencias, pesan mucho...",
@@ -3665,8 +3665,8 @@
                 "¡¡¡NO!!! Mierda, 'mano... Aghhh, muy fuerte..."
             ],
             "murderregret": [
-                "Por... ¿Por qué he hecho eso..? M-mierda...",
-                "Gh... Dios... ¿Por qué..?",
+                "Por... ¿Por qué he hecho eso...? M-mierda...",
+                "Gh... Dios... ¿Por qué...?",
                 "E... Eso fue horrible.. Soy un monstruo...",
                 "Nhh... ¿Por qué? ... ¿Por qué? Era uno de los nuestros..."
             ],
@@ -3695,7 +3695,7 @@
                 "¡Aah! ¡¡Hola!! ¡Holaaa!"
             ],
             "tradermeetbad": [
-                "Ummm... ¿No me gusta tu presencia..?",
+                "Ummm... ¿No me gusta tu presencia...?",
                 "H... Hola... Uhh...",
                 "...Hey.",
                 "...Hm. Hola."
@@ -3732,7 +3732,7 @@
                 "...No, gracias.",
                 "Nuh uh.",
                 "No estoy interesado.",
-                "¿Qué? ¿Por qué haría eso..?",
+                "¿Qué? ¿Por qué haría eso...?",
                 "Meeehhh... Otro día.",
                 "Meh.",
                 "...Nhh...",
@@ -3741,7 +3741,7 @@
             "traderdepressed": [
                 "...Uh... ... ¿Estás bien? Te ves un poco... ¿Infeliz...?",
                 "¿...Ni un saludo ni nada...? ¿Por... Por qué me miras de esa forma...?",
-                "¿...? ...Um...  ¿...Hola..? ¿...Estás ahí..?",
+                "¿...? ...Um...  ¿...Hola...? ¿...Estás ahí...?",
                 "...Te ves aterrado. ¿Estás bien? ¿Hola...?",
                 "¡Hey! ¿Cómo estáááááááássss......? No te ves muy bien, amigo... Uhm...",
                 "¡Hey! ... ¿Por qué la cara larga? Uhm..."
@@ -3895,18 +3895,18 @@
                 "A-ayuda... Alguien... No quiero m-morir...",
                 "Yo no... No quiero dejar este mundo atrás...",
                 "Sálvame... Sálvame... Ay-ayúdenme... Por favor...",
-                "Entonces.. así... e-es... Así es... cómo termina...",
+                "Entonces... así... e-es... Así es... cómo termina...",
                 "Todo... lo que hice... Para... terminar así... Sálvam-me...",
-                "No.. No.... N-no... Por favor... Por favor... No... N-no me quiero morir... Ayúdame...",
+                "No... No.... N-no... Por favor... Por favor... No... N-no me quiero morir... Ayúdame...",
                 "Ffhh... Gh.... Ayúdenme... Por favor... Alguien...",
                 "Nhh... A-así no... Por favor... P-por favor... Ayúdame...",
                 "Por favor... No... No quiero morir... Sálvame... Quien sea... o... lo que sea... N-no estoy l-listo...",
-                "¿S-se acabará.. p-pronto..?",
+                "¿S-se acabará... p-pronto...?",
                 "Para... Para... Para... Por favor... P-para... Así no... Sálvame...",
                 "Mierda... Mierda... Ayúdame... No... quiero m-morir... A-a.."
             ],
             "magicheal": [
-                "...Umm. Me siento... ¿Mejor..?",
+                "...Umm. Me siento... ¿Mejor...?",
                 "¡Ahh..! ...Uhh. Eso fue... Así está mejor. Me gustó eso."
             ],
             "selfdestruct": [
@@ -3915,14 +3915,14 @@
                 "...A-ah... Bueno... P-pues... A-adiós en-tonces..."
             ],
             "vomitresponse": [
-                "Uuummm... ¿Estás bien..?"
+                "Uuummm... ¿Estás bien...?"
             ],
             "vomitbloodresponse": [
                 "¡Ugh! ¿Acaso estás...? Oh... Ey, sabes que acabas de... Vomitar sangre, ¿verdad?"
             ],
             "hungryresponse": [
-                "Allá afuera hay un montón de comida, ¿sabes..?",
-                "Bueno, ¿podría darte algo de comida a cambio de algo..?"
+                "Allá afuera hay un montón de comida, ¿sabes...?",
+                "Bueno, ¿podría darte algo de comida a cambio de algo...?"
             ],
             "thirstyresponse": [
                 "Estoy muy seguro que puedes encontrar algo de agua ahí afuera...",
@@ -3952,7 +3952,7 @@
                 "O-oye, cálmate. Vas a estar bien."
             ],
             "painresponse": [
-                "¿Estás bien..? ¿Por qué te duele?",
+                "¿Estás bien...? ¿Por qué te duele?",
                 "¿Pisaste sobre algo?"
             ],
             "dirtyresponse": [
@@ -4109,10 +4109,10 @@
                 "Antes de hablar, por favor quita esa arma de ti. De todas formas...",
                 "Espero que esto no se trate de un robo. Si no lo es, aleja esa arma... En qué estaba...",
                 "Aleja esa arma de mí, esto no es un tiroteo activo. De todas formas...",
-                "¿Acaso INTENTAS parecer una amenaza para mí o solo piensas que el arma es genial..?"
+                "¿Acaso INTENTAS parecer una amenaza para mí o solo piensas que el arma es genial...?"
             ],
             "tradermeetimpairedspeech": [
-                "¿Qué dices..? No puedo entenderte.",
+                "¿Qué dices...? No puedo entenderte.",
                 "Tu habla es extremadamente inentendible. Solo te lo hago saber.",
                 "Apenas puedo entender lo que me intentas decir."
             ],
@@ -4300,9 +4300,9 @@
             ],
             "traderhugsuccess": [
                 "¿Por qué ami-go toca...?",
-                "¿Qu-é hace ami-go..?",
-                "¿Gnhghr..? ¿Por qué ami-go tocar..?",
-                "¿Por qué to-car..? Du-ne no entiende...",
+                "¿Qu-é hace ami-go...?",
+                "¿Gnhghr...? ¿Por qué ami-go tocar...?",
+                "¿Por qué to-car...? Du-ne no entiende...",
                 "Uhh... Grr... Du-ne no entiende... Dune permite...",
                 "¿Ami-go... Por qué?... Okay...",
                 "Dune no sabe... Por qué ami-go... Ami-go puede hacerlo...",
@@ -4317,7 +4317,7 @@
                 "¡Ami-go no ace-rr-carse! Grrr... Dune no le gus-ta..."
             ],
             "traderseegun": [
-                "¿Qué tiene amigo..? ¡No, pa-ra!",
+                "¿Qué tiene amigo...? ¡No, pa-ra!",
                 "Du-ne nada cómo-do con palo-boom...",
                 "N-no... Dune teme... palo ruidoso...",
                 "Ami-go... Dune t-e tem-e... Pal-o que ex-plota...",
@@ -4329,7 +4329,7 @@
             ],
             "tradermeetimpairedspeech": [
                 "¡Dune no enten-der... Bien pala-bras! Ami-go hablar mal...",
-                "¿Qué dice ami-go..? No se escuch-a voz...",
+                "¿Qué dice ami-go...? No se escuch-a voz...",
                 "Dune habla ma-l... Ami-go habla mal... ¡Mal mal!...",
                 "Du-ne habla mal... Ami-go habla... muy ma-l...",
                 "Dune n-o te enti-en... de...",
@@ -4359,7 +4359,7 @@
                 "Ami-go... Vomi... Tar... ¿Sientes enfer-mo?"
             ],
             "vomitbloodresponse": [
-                "Du-ne... Huele sang-re... De... Ami-go... ¿Sabro-so..?"
+                "Du-ne... Huele sang-re... De... Ami-go... ¿Sabro-so...?"
             ],
             "hungryresponse": [
                 "Du-ne entiende... ¡Dune con ham-bre también!",
@@ -4370,7 +4370,7 @@
                 "Mm-m... ¿A be-ber?"
             ],
             "sadresponse": [
-                "¿Ami-go siente mal..? ¿Por q-ué?"
+                "¿Ami-go siente mal...? ¿Por q-ué?"
             ],
             "depressedresponse": [
                 "Ami-go verse muy mal... ¡Sentar-te con Du-ne!"
@@ -4393,7 +4393,7 @@
                 "Ami-go oler a sangre. Du-ne gustar."
             ],
             "painresponse": [
-                "¿Ami-go herido..?",
+                "¿Ami-go herido...?",
                 "Du-ne ent-iende... ¡Du-ne sentir también do-lor! ¿Ami-go bien?"
             ],
             "dirtyresponse": [
@@ -4404,7 +4404,7 @@
                 "¡Du-ne puede aliviar carga!"
             ],
             "dyingresponse": [
-                "¿Qu-é le pasa a ami-go..?",
+                "¿Qu-é le pasa a ami-go...?",
                 "Du-ne no saber cómo ayu-dar..."
             ]
         }
