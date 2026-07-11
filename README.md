@@ -27,7 +27,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Español (España)](/es-ES.json) | v7.0.1 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/fi-FI.json) | v7.0.1 (Incomplete) | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
 | [Français (France)](/fr-FR.json) | v5 (slightly outdated) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick) |
-| [Bahasa Indonesia (Indonesia)](/id-ID.json) | v5.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/) |
+| [Bahasa Indonesia (Indonesia)](/id-ID.json) | v7.0.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/), [Jibuntaital](https://github.com/2215najib), itsholliee, [nfoxers](https://github.com/nfoxers), [Nizar](https://github.com/FoundToast62667) |
 | [Italiano (Italia)](/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
 | [日本語 (日本)](/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
 | [Қазақша (Қазақстан)](/kk-KZ.json) | Outdated | [Russiankids](https://github.com/Russiankids) |
