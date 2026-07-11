@@ -32,7 +32,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [日本語 (日本)](/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
 | [Қазақша (Қазақстан)](/kk-KZ.json) | Outdated | [Russiankids](https://github.com/Russiankids) |
 | [한국어 (대한민국)](/ko-KR.json) | v7.0.1 | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), Shelt3redcat, [topicular](https://github.com/metnias) |
-| [Polski (Polska)](/pl-PL.json) | Outdated | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
+| [Polski (Polska)](/pl-PL.json) | v7.0.1 |  [Daron](http://steamcommunity.com/profiles/76561198295172453), [KaiKon](https://github.com/Kaikon-PL), [Ksdaszek](https://www.youtube.com/@ksdaszek), (Telegram: @krychan), [Jemtamird](https://github.com/Jemtamird), [s3iana](https://steamcommunity.com/id/s3iana/), [swyl](https://github.com/the-real-swyl) |
 | [Português (Brasil)](/pt-BR.json) | V7.0.1 (Incomplete) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar), [Pedro Lucas da Silva Sousa (PedSen)](https://github.com/PedSen), [David Costa (ZonaryH)](https://github.com/zonaryh) |
 | [Română (România)](/ro-RO.json) | v7.0.1 | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan), Stefilutz |
 | [Русский (Россия)](/ru-RU.json) | v7.0.1 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) [Captain_Kirk](https://github.com/Danich27rus)|
