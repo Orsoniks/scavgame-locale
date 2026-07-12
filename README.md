@@ -27,12 +27,12 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Español (España)](/es-ES.json) | v7.0.1 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/fi-FI.json) | v7.0.1 (Incomplete) | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
 | [Français (France)](/fr-FR.json) | v5 (slightly outdated) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick) |
-| [Bahasa Indonesia (Indonesia)](/id-ID.json) | v5.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/) |
+| [Bahasa Indonesia (Indonesia)](/id-ID.json) | v7.0.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/), [Jibuntaital](https://github.com/2215najib), itsholliee, [nfoxers](https://github.com/nfoxers), [Nizar](https://github.com/FoundToast62667) |
 | [Italiano (Italia)](/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
 | [日本語 (日本)](/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
 | [Қазақша (Қазақстан)](/kk-KZ.json) | Outdated | [Russiankids](https://github.com/Russiankids) |
 | [한국어 (대한민국)](/ko-KR.json) | v7.0.1 | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), Shelt3redcat, [topicular](https://github.com/metnias) |
-| [Polski (Polska)](/pl-PL.json) | Outdated | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik) |
+| [Polski (Polska)](/pl-PL.json) | v7.0.1 (incomplete) |  [Daron](http://steamcommunity.com/profiles/76561198295172453), [KaiKon](https://github.com/Kaikon-PL), [Ksdaszek](https://www.youtube.com/@ksdaszek), (Telegram: @krychan), [Jemtamird](https://github.com/Jemtamird), [s3iana](https://steamcommunity.com/id/s3iana/), [swyl](https://github.com/the-real-swyl) |
 | [Português (Brasil)](/pt-BR.json) | V7.0.1 (Incomplete) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar), [Pedro Lucas da Silva Sousa (PedSen)](https://github.com/PedSen), [David Costa (ZonaryH)](https://github.com/zonaryh) |
 | [Română (România)](/ro-RO.json) | v7.0.1 | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan), Stefilutz |
 | [Русский (Россия)](/ru-RU.json) | v7.0.1 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry) [Captain_Kirk](https://github.com/Danich27rus)|
@@ -41,6 +41,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Tiếng Việt (Vietnam)](/vi-VN.json)| v7.0.1 (+9e0bea0) | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry) \_.solarzz_, Weird Cat, Just Cyrus|
 | [简体中文 (中国)](/zh-CN.json) | v7.0.1 | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX)|
 | [繁體中文 (台灣)](/zh-TW.json) | v5.1 | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
+| [Magyar (Magyarország)] (/hu-HU.json) | v7.0.1 (incomplete, 90%-done) | [Adrastor](https://github.com/Adrastorr), [TotallyNotAron](https://github.com/aron42069), [piCINKEnet](https://github.com/piCINKEnet), Vbenc-e, That1guy, [BanánBali](https://github.com/B2ivan), [tUwUring machine](https://github.com/Hellie-xd), [Thermacite](https://github.com/Thermacite), Holla_x, Betond |
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera), [Marioalexsan](https://github.com/Marioalexsan)
