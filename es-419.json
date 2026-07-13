@@ -602,11 +602,11 @@
         "frigiant": "Frigilanta",
         "frigiantdsc": "Una planta helada y vidriosa. De ella cuelga un bulbo esférico.",
         "snowstrider": "Caminante helado",
-        "snowstriderdsc": "Una criatura grande y esponjosa que busca alimento en las regiones frías de este sistema de cuevas. Su grueso pelaje la mantiene caliente.",
+        "snowstriderdsc": "Una criatura grande y esponjosa que busca alimento en las regiones frías de esta red de cuevas. Su grueso pelaje la mantiene caliente.",
         "spaceheater": "Calentador de iones",
         "spaceheaterdsc": "Un dispositivo que calienta intensamente el área circundante. Podría provocar una leve enfermedad por radiación si estás demasiado cerca durante mucho tiempo.",
         "xaloris": "Xaloris",
-        "xalorisdsc": "Un helecho esponjoso y zarzoso que calienta el aire a su alrededor para esparcir esporas. Mantiene a raya el resfriado, pero inhalar las esporas durante demasiado tiempo puede afectar tu sistema inmune.",
+        "xalorisdsc": "Un helecho esponjoso y zarzoso que calienta el aire a su alrededor para esparcir esporas. Te protege del frío, pero inhalar las esporas durante demasiado tiempo puede afectar tu sistema inmune.",
         "lifepodheater": "Calentador de cápsula salvavidas",
         "lifepodheaterdsc": "Mantiene el interior agradable y acogedor.",
         "tutorialcraftingbutton": "Botón de reinicio",
@@ -4731,7 +4731,7 @@
             "drillend": [
                 "Me acerco cada vez más al objetivo.",
                 "Puede que haya sufrido una ligera pérdida auditiva a causa de eso.",
-                "Debo tener cuidado. Esto es una zona nueva y desconocida.",
+                "Debo tener cuidado. Esta es una zona nueva y desconocida.",
                 "Esto es un buen método de transporte."
             ],
             "loud": [
@@ -4746,7 +4746,7 @@
                 "Lo... siento.",
                 "No fue... mi intención..."
             ],
-            "tradermeet": [
+            "tradeemeet": [
                 "Saludos.",
                 "Hola.",
                 "Boo.",
