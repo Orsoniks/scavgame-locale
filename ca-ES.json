@@ -4191,222 +4191,222 @@
         },
         {
             "tradermeetnormal": [
-        "Mmm... Ho-la....",
-        "Ben-vin-gut... Am-ic...",
-        "Am-ic... Ho-la... As-seu-te...",
-        "H-o-la... Am-ic... Per-so-na...",
-        "Vin-ga... A-quí... Am-ic...",
-        "A-quí... Am-ic..."
-    ],
-    "tradermeetgood": [
-        "GGack! H-ola!",
-        "Mmmm... Am-ic... Ben-vin-gut a... Se-gur...",
-        "Am-ic! Ho-la...! Com va...?",
-        "Terò tro-ba... Bon am-ic!...",
-        "Ho-laaa!... Am-ic... A-pro-pa't...",
-        "Nou am-ic?.. Terò con-tent..."
-    ],
-    "tradermeetbad": [
-        "Grrr... Per-so-na...",
-        "Nggghhrr... Ho-la... Per-so-na...",
-        "Grrrrr... Am-ic... No sem-bla sa-bro-s...",
-        "Grrrr... Ma-la per-so-na!.. Grrr...",
-        "Grrrpmh.. Ma-lent!... No am-ic...",
-        "A Terò no a-gra-da... A-quest am-ic!..."
-    ],
-    "tradergiveitem": [
-        "Terò ho a-ga-fa.",
-        "Ac-cep-ta co-sa..!",
-        "Terò a-ga-fa co-sa..!",
-        "Gra-ci-es... Am-ic...",
-        "Te-rò ne-ces-si-ta...",
-        "Bé... Gra-ci-es...",
-        "Am-ic do-na... Bé..."
-    ],
-    "tradergiveitemrefuse": [
-        "No a-ga-fa més!",
-        "És pro-u...",
-        "Am-ic.. No.. En-tén.. Pro-u...",
-        "Terò n-o... A-ga-fa més!",
-        "No! Terò ja té pro-u..."
-    ],
-    "traderhugsuccess": [
-        "Per què am-ic to-ca...",
-        "Què fa am-ic..?",
-        "Gnhghr..? Per què am-ic to-ca..?",
-        "Per què to-car..? Te-rò no en-tén...",
-        "Uhh... Grr... Te-rò no en-tén... Terò de-ixa...",
-        "Am-ic... Per què?... D'a-cord...",
-        "Te-rò no sap... Per què am-ic... Am-ic pot fer...",
-        "Terò i am-ic a-pro-pa-ts?... Quèè..."
-    ],
-    "traderhugfail": [
-        "GRRR! Fo-ra! Ggrrn...",
-        "Ngghrr! No! Fo-ra!",
-        "No! Terò no de-ixa...",
-        "Terò no vol am-ic a-prop...",
-        "Grrr! No! Ngghr...",
-        "Am-ic no s'a-pro-pi! Grrr... Terò no a-gra-da..."
-    ],
-    "traderbite": [
-        "Bé... Gau-deix es gust. A-gra-da am-ic més!",
-        "Sí... Gra-ci-es per... Es so-par de Te-rò...",
-        "Hmmhhm... Gra-ci-es... Bon gust... A-ga-fa qual-se-vol co-sa..!",
-        "Men-jar bo... Am-ic bo...",
-        "Terò es-ti-ma es gust d'am-ic...",
-        "Bon am-ic... Ha men-jat bé..."
-    ],
-    "traderwakegreet": [
-        "Am-ic... Des-per-ta de sa mig-di-a-da...",
-        "No més dor-mir... Ho-la..! Des-per-ta...",
-        "Des-pert... Bon di-a...",
-        "Des-per-ta... Am-ic...",
-        "Des-per-ta't.. Am-ic...",
-        "Am-ic dor-mir... Des-per-ta... Terò sa-lu-da!"
-    ],
-    "traderbuy": [
-        "Te-nir co-sa. Am-ic ho me-reix!",
-        "A-ga-fa co-sa! Com a pre-mi...",
-        "Terò tor-na re-gal! Am-ic té...",
-        "Te-rò do-na...",
-        "Terò... Pa-ga...",
-        "Am-ic do-na... Un cop... Terò do-na tam-bé...",
-        "Tu... A-ga-fa co-sa! Am-ic bo..."
-    ],
-    "traderbuyfail": [
-        "Grrrr!",
-        "No! Ggrhhr...",
-        "No! Do-na es te-u!",
-        "Grrrr... Terò tam-bé ne-ces-si-ta co-sa!",
-        "Te-rò no re-gal... Do-na a-ra!... Grrrr...",
-        "Am-ic do-na pri-mer..."
-    ],
-    "traderbuyfailmaxvalue": [
-        "Ha do-nat prou! Ves-te'n a-ra!",
-        "Terò do-na tant... Mas-sa... Am-ic a-tu-ra...",
-        "Terò no do-na... Gran...",
-        "Grrr... Te-rò es que-da gran! Grrrmph...",
-        "Terò es que-da... Terò ne-ces-si-ta... Més..."
-    ],
-    "traderwarning": [
-        "Fo-ra! O mos-se-go! A-ra!",
-        "Mnnnhh... Sa pre-da ho de-ma-na...",
-        "Gghhrr! MAR-XA... FO-RA...",
-        "Mar-xa... Fo-ra! Lluny...",
-        "Terò o-di-a am-ic!",
-        "Terò no de-ixa en-trar am-ic!... Fo-ra!...",
-        "Terò vol am-ic fo-ra!... A-ra!..."
-    ],
-    "tradercombat": [
-        "Nggrrrrr! Grrrrrrr! GAAAAHHH!",
-        "GGHHRRAHHH!",
-        "GNNGHRHHRRRRR!",
-        "AM-IC PENE-DEIX E-LEC-CI-Ó!",
-        "NGGHHRRR...",
-        "GRRRR! TERÒ O-DI-A!",
-        "NGHHRRRR... NO MÉS AM-IC!",
-        "TERÒ O-DI-A AM-IC DO-LENT! GRRRR!",
-        "TERÒ... TRO-BA... E-NE-MIC! MONS-TRE!"
-    ],
-    "traderthreatensuccess": [
-        "No cal es-forç... A-ga-fa co-sa... Do-lent...",
-        "Terò no fa com-bat... A-ga-fa co-sa i mar-xa... Ggrhhr...",
-        "Am-ic gran.. Ca-ça-dor! Terò... Te-mor... Tu a-ga-fes...",
-        "Terò més fe-ble... Terò do-na... A-munt... A-ga-fa i mar-xa...",
-        "No fe-re-ixis Terò... A-ga-fa co-sa... Mar-xa...",
-        "Terò de-ixa am-ic do-lent a-ga-far co-sa... Però Terò o-di-a am-ic..."
-    ],
-    "traderlightbreak": [
-        "NNGGHHRR! Per què am-ic ro-ba! Mar-xa! GGrhhhhhh... DO-LENT..!",
-        "GRRR! DO-LENT! FO-RA D'A-QUÍ!",
-        "DO-LENT! Grrrr... Am-ic do-lent... Do-lent! Mar-xa!",
-        "TERÒ NO VEU! AM-IC DO-LENT! MAR-XA... FO-RA!",
-        "Am-ic ro-ba! No am-ic..."
-    ],
-    "traderseegun": [
-        "Què por-ta am-ic..? A-tu-ra't!",
-        "Du-ne no cò-mode amb bas-tó-pum...",
-        "Te-rò... Terò por... ba-rra de re-nou...",
-        "Am-ic... Terò por de tu... Bas-tó de re-nou...",
-        "Per què am-ic por-ta... co-sa de do-lor?...",
-        "Terò... Por de co-sa... que fe-re-ix a-ra...",
-        "Per què am-ic por-ta... Clic-pum... Terò... No a-gra-da...",
-        "Terò por... Fi-mi-gi?... Do-lor... No en-tén...",
-        "Llui-ta-dor in-just... Terò... No a-gra-da... Ar-ma..."
-    ],
-    "tradermeetimpairedspeech": [
-        "Terò no en-tén... Pa-rau-la mi-llor! Pa-rau-la d'am-ic do-len-ta...",
-        "Què diu am-ic..? Veu a-mor-ti-gwa-da...",
-        "Pa-rau-la de Terò ma-la... Pa-rau-la d'am-ic ma-la... Ma-la ma-la!...",
-        "Te-rò xer-ra di-fí-cil... Am-ic xer-ra... ma-la-ment...",
-        "Terò no en-tén... Tu...",
-        "Te-rò pro-ble-ma es-col-tar am-ic!"
-    ],
-    "traderseehurt": [
-        "Am-ic fe-rit... Ngghhgrr... A-ga-fa co-sa-arre-glo... Gra-tu-ït...",
-        "Per què fe-rit?.. Terò pot... do-nar co-sa-vi-da... Gra-tu-ït...",
-        "Am-ic fe-rit... Terò do-na co-sa-a-ju-da... Gra-tu-ït...",
-        "A-quest cos d'am-ic ma-la-ment... Terò pot re-ga-lar arre-glo...",
-        "Am-ic sen-tir do-lor... Terò re-ga-lar a-ju-da..."
-    ],
-    "tradermove": [
-        "Te-rò... Es mou..."
-    ],
-    "tradermovefail": [
-        "A Te-rò a-gra-da lloc d'a-ra..."
-    ],
-    "vomitresponse": [
-        "Am-ic... Tre-ure... Fo-ra... Ma-lal?"
-    ],
-    "vomitbloodresponse": [
-        "Te-rò... O-lo-rar sang... D'am-ic... Sa-bro-sa..?"
-    ],
-    "hungryresponse": [
-        "Te-rò en-tén... Terò té fa-m tam-bé!",
-        "D'a-cord... Te-rò ne-ces-si-ta men-jar tam-bé!"
-    ],
-    "thirstyresponse": [
-        "Te-rò beu de toll... Sent mi-llor... Am-ic pro-ba?",
-        "Mm-m... Temps de xar-ru-par?"
-    ],
-    "sadresponse": [
-        "Am-ic sen-tir-se mal..? Per què?"
-    ],
-    "depressedresponse": [
-        "Am-ic fa molt ma-la fi-gu-ra... Vin-ga, as-seu-te amb Te-rò!"
-    ],
-    "selfharmresponse": [
-        "Per què am-ic es fa mal? Am-ic do-lent?"
-    ],
-    "braindamagedresponse": [
-        "Te-rò d'a-cord.",
-        ".........?"
-    ],
-    "hotresponse": [
-        "Te-rò mai te-nir ca-lor! Terò es-ti-mar ca-lor..."
-    ],
-    "coldresponse": [
-        "Te-rò te-nir por de sa fre-dor... Quart es-tà ca-lent! Am-ic que-da amb Te-rò..."
-    ],
-    "bleedingresponse": [
-        "Am-ic fe-rit. Am-ic ne-ces-si-ta a-ju-da!",
-        "Am-ic o-lo-rar a sang. A Te-rò a-gra-da."
-    ],
-    "painresponse": [
-        "Am-ic fe-rit..?",
-        "Te-rò en-tén... Te-rò tam-bé sen-tir do-lor! Am-ic bé?"
-    ],
-    "dirtyresponse": [
-        "Què és brut?"
-    ],
-    "encumberedresponse": [
-        "Pot a-ga-far co-ses d'am-ic?",
-        "Te-rò pot ai-xi-var càr-re-ga!"
-    ],
-    "dyingresponse": [
-        "Què pas-sa amb am-ic..?",
-        "Te-rò no sa-ber com a-ju-dar..."
-    ]
+                "Mmm... Ho-la....",
+                "Ben-vin-gut... Am-ic...",
+                "Am-ic... Ho-la... As-seu-te...",
+                "H-o-la... Am-ic... Per-so-na...",
+                "Vin-ga... A-quí... Am-ic...",
+                "A-quí... Am-ic..."
+            ],
+            "tradermeetgood": [
+                "GGack! H-ola!",
+                "Mmmm... Am-ic... Ben-vin-gut a... Se-gur...",
+                "Am-ic! Ho-la...! Com va...?",
+                "Terò tro-ba... Bon am-ic!...",
+                "Ho-laaa!... Am-ic... A-pro-pa't...",
+                "Nou am-ic?.. Terò con-tent..."
+            ],
+            "tradermeetbad": [
+                "Grrr... Per-so-na...",
+                "Nggghhrr... Ho-la... Per-so-na...",
+                "Grrrrr... Am-ic... No sem-bla sa-bro-s...",
+                "Grrrr... Ma-la per-so-na!.. Grrr...",
+                "Grrrpmh.. Ma-lent!... No am-ic...",
+                "A Terò no a-gra-da... A-quest am-ic!..."
+            ],
+            "traderwakegreet": [
+                "Am-ic... Des-per-ta de sa mig-di-a-da...",
+                "No més dor-mir... Ho-la..! Des-per-ta...",
+                "Des-pert... Bon di-a...",
+                "Des-per-ta... Am-ic...",
+                "Des-per-ta't.. Am-ic...",
+                "Am-ic dor-mir... Des-per-ta... Terò sa-lu-da!"
+            ],
+            "tradergiveitem": [
+                "Terò ho a-ga-fa.",
+                "Ac-cep-ta co-sa..!",
+                "Terò a-ga-fa co-sa..!",
+                "Gra-ci-es... Am-ic...",
+                "Te-rò ne-ces-si-ta...",
+                "Bé... Gra-ci-es...",
+                "Am-ic do-na... Bé..."
+            ],
+            "tradergiveitemrefuse": [
+                "No a-ga-fa més!",
+                "És pro-u...",
+                "Am-ic.. No.. En-tén.. Pro-u...",
+                "Terò n-o... A-ga-fa més!",
+                "No! Terò ja té pro-u..."
+            ],
+            "traderbite": [
+                "Bé... Gau-deix es gust. A-gra-da am-ic més!",
+                "Sí... Gra-ci-es per... Es so-par de Te-rò...",
+                "Hmmhhm... Gra-ci-es... Bon gust... A-ga-fa qual-se-vol co-sa..!",
+                "Men-jar bo... Am-ic bo...",
+                "Terò es-ti-ma es gust d'am-ic...",
+                "Bon am-ic... Ha men-jat bé..."
+            ],
+            "traderbuy": [
+                "Te-nir co-sa. Am-ic ho me-reix!",
+                "A-ga-fa co-sa! Com a pre-mi...",
+                "Terò tor-na re-gal! Am-ic té...",
+                "Te-rò do-na...",
+                "Terò... Pa-ga...",
+                "Am-ic do-na... Un cop... Terò do-na tam-bé...",
+                "Tu... A-ga-fa co-sa! Am-ic bo..."
+            ],
+            "traderbuyfail": [
+                "Grrrr!",
+                "No! Ggrhhr...",
+                "No! Do-na es te-u!",
+                "Grrrr... Terò tam-bé ne-ces-si-ta co-sa!",
+                "Te-rò no re-gal... Do-na a-ra!... Grrrr...",
+                "Am-ic do-na pri-mer..."
+            ],
+            "traderbuyfailmaxvalue": [
+                "Ha do-nat prou! Ves-te'n a-ra!",
+                "Terò do-na tant... Mas-sa... Am-ic a-tu-ra...",
+                "Terò no do-na... Gran...",
+                "Grrr... Te-rò es que-da gran! Grrrmph...",
+                "Terò es que-da... Terò ne-ces-si-ta... Més..."
+            ],
+            "traderthreatensuccess": [
+                "No cal es-forç... A-ga-fa co-sa... Do-lent...",
+                "Terò no fa com-bat... A-ga-fa co-sa i mar-xa... Ggrhhr...",
+                "Am-ic gran.. Ca-ça-dor! Terò... Te-mor... Tu a-ga-fes...",
+                "Terò més fe-ble... Terò do-na... A-munt... A-ga-fa i mar-xa...",
+                "No fe-re-ixis Terò... A-ga-fa co-sa... Mar-xa...",
+                "Terò de-ixa am-ic do-lent a-ga-far co-sa... Però Terò o-di-a am-ic..."
+            ],
+            "traderwarning": [
+                "Fo-ra! O mos-se-go! A-ra!",
+                "Mnnnhh... Sa pre-da ho de-ma-na...",
+                "Gghhrr! MAR-XA... FO-RA...",
+                "Mar-xa... Fo-ra! Lluny...",
+                "Terò o-di-a am-ic!",
+                "Terò no de-ixa en-trar am-ic!... Fo-ra!...",
+                "Terò vol am-ic fo-ra!... A-ra!..."
+            ],
+            "tradercombat": [
+                "Nggrrrrr! Grrrrrrr! GAAAAHHH!",
+                "GGHHRRAHHH!",
+                "GNNGHRHHRRRRR!",
+                "AM-IC PENE-DEIX E-LEC-CI-Ó!",
+                "NGGHHRRR...",
+                "GRRRR! TERÒ O-DI-A!",
+                "NGHHRRRR... NO MÉS AM-IC!",
+                "TERÒ O-DI-A AM-IC DO-LENT! GRRRR!",
+                "TERÒ... TRO-BA... E-NE-MIC! MONS-TRE!"
+            ],
+            "traderhugsuccess": [
+                "Per què am-ic to-ca...",
+                "Què fa am-ic..?",
+                "Gnhghr..? Per què am-ic to-ca..?",
+                "Per què to-car..? Te-rò no en-tén...",
+                "Uhh... Grr... Te-rò no en-tén... Terò de-ixa...",
+                "Am-ic... Per què?... D'a-cord...",
+                "Te-rò no sap... Per què am-ic... Am-ic pot fer...",
+                "Terò i am-ic a-pro-pa-ts?... Quèè..."
+            ],
+            "traderhugfail": [
+                "GRRR! Fo-ra! Ggrrn...",
+                "Ngghrr! No! Fo-ra!",
+                "No! Terò no de-ixa...",
+                "Terò no vol am-ic a-prop...",
+                "Grrr! No! Ngghr...",
+                "Am-ic no s'a-pro-pi! Grrr... Terò no a-gra-da..."
+            ],
+            "traderseegun": [
+                "Què por-ta am-ic..? A-tu-ra't!",
+                "Du-ne no cò-mode amb bas-tó-pum...",
+                "Te-rò... Terò por... ba-rra de re-nou...",
+                "Am-ic... Terò por de tu... Bas-tó de re-nou...",
+                "Per què am-ic por-ta... co-sa de do-lor?...",
+                "Terò... Por de co-sa... que fe-re-ix a-ra...",
+                "Per què am-ic por-ta... Clic-pum... Terò... No a-gra-da...",
+                "Terò por... Fi-mi-gi?... Do-lor... No en-tén...",
+                "Llui-ta-dor in-just... Terò... No a-gra-da... Ar-ma..."
+            ],
+            "tradermeetimpairedspeech": [
+                "Terò no en-tén... Pa-rau-la mi-llor! Pa-rau-la d'am-ic do-len-ta...",
+                "Què diu am-ic..? Veu a-mor-ti-gwa-da...",
+                "Pa-rau-la de Terò ma-la... Pa-rau-la d'am-ic ma-la... Ma-la ma-la!...",
+                "Te-rò xer-ra di-fí-cil... Am-ic xer-ra... ma-la-ment...",
+                "Terò no en-tén... Tu...",
+                "Te-rò pro-ble-ma es-col-tar am-ic!"
+            ],
+            "traderseehurt": [
+                "Am-ic fe-rit... Ngghhgrr... A-ga-fa co-sa-arre-glo... Gra-tu-ït...",
+                "Per què fe-rit?.. Terò pot... do-nar co-sa-vi-da... Gra-tu-ït...",
+                "Am-ic fe-rit... Terò do-na co-sa-a-ju-da... Gra-tu-ït...",
+                "A-quest cos d'am-ic ma-la-ment... Terò pot re-ga-lar arre-glo...",
+                "Am-ic sen-tir do-lor... Terò re-ga-lar a-ju-da..."
+            ],
+            "traderlightbreak": [
+                "NNGGHHRR! Per què am-ic ro-ba! Mar-xa! GGrhhhhhh... DO-LENT..!",
+                "GRRR! DO-LENT! FO-RA D'A-QUÍ!",
+                "DO-LENT! Grrrr... Am-ic do-lent... Do-lent! Mar-xa!",
+                "TERÒ NO VEU! AM-IC DO-LENT! MAR-XA... FO-RA!",
+                "Am-ic ro-ba! No am-ic..."
+            ],
+            "tradermove": [
+                "Te-rò... Es mou..."
+            ],
+            "tradermovefail": [
+                "A Te-rò a-gra-da lloc d'a-ra..."
+            ],
+            "vomitresponse": [
+                "Am-ic... Tre-ure... Fo-ra... Ma-lal?"
+            ],
+            "vomitbloodresponse": [
+                "Te-rò... O-lo-rar sang... D'am-ic... Sa-bro-sa..?"
+            ],
+            "hungryresponse": [
+                "Te-rò en-tén... Terò té fa-m tam-bé!",
+                "D'a-cord... Te-rò ne-ces-si-ta men-jar tam-bé!"
+            ],
+            "thirstyresponse": [
+                "Te-rò beu de toll... Sent mi-llor... Am-ic pro-ba?",
+                "Mm-m... Temps de xar-ru-par?"
+            ],
+            "sadresponse": [
+                "Am-ic sen-tir-se mal..? Per què?"
+            ],
+            "depressedresponse": [
+                "Am-ic fa molt ma-la fi-gu-ra... Vin-ga, as-seu-te amb Te-rò!"
+            ],
+            "selfharmresponse": [
+                "Per què am-ic es fa mal? Am-ic do-lent?"
+            ],
+            "braindamagedresponse": [
+                "Te-rò d'a-cord.",
+                ".........?"
+            ],
+            "hotresponse": [
+                "Te-rò mai te-nir ca-lor! Terò es-ti-mar ca-lor..."
+            ],
+            "coldresponse": [
+                "Te-rò te-nir por de sa fre-dor... Quart es-tà ca-lent! Am-ic que-da amb Te-rò..."
+            ],
+            "bleedingresponse": [
+                "Am-ic fe-rit. Am-ic ne-ces-si-ta a-ju-da!",
+                "Am-ic o-lo-rar a sang. A Te-rò a-gra-da."
+            ],
+            "painresponse": [
+                "Am-ic fe-rit..?",
+                "Te-rò en-tén... Te-rò tam-bé sen-tir do-lor! Am-ic bé"
+            ],
+            "dirtyresponse": [
+                "Què és brut?"
+            ],
+            "encumberedresponse": [
+                "Pot a-ga-far co-ses d'am-ic?",
+                "Te-rò pot ai-xi-var càr-re-ga!"
+            ],
+            "dyingresponse": [
+                "Què pas-sa amb am-ic..?",
+                "Te-rò no sa-ber com a-ju-dar..."
+            ]
         }
     ],
     "notes": [
