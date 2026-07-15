@@ -2,7 +2,7 @@
     "name": "Català",
     "description": "El creador oficial ha creat el joc originalment en anglès. Pots trobar les traduccions creades per la comunitat (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), encara que poden estar mal traduïdes o desactualitzades.",
     "main": {
-        "bandage": "Embenat ",
+        "bandage": "Embenat",
         "bandagedsc": "Un rotlle d'embenat amb una tireta, utilitzat per relantitzar el sagnat, estabilitzar fractures i ajudar amb la curació de la pell. No afecta la salut muscular.",
         "rippeddressing": "Embenat esquinçat",
         "rippeddressingdsc": "Un trosset de tela rompuda. Es pot utilitzar com un embenat improvisat per ferides sagnants.",
