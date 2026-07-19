@@ -42,6 +42,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Tiếng Việt (Vietnam)](/vi-VN.json)| v7.0.1 (+9e0bea0) | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry) \_.solarzz_, Weird Cat, Just Cyrus|
 | [简体中文 (中国)](/zh-CN.json) | v7.0.1 | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, AlCl3, [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX)|
 | [繁體中文 (台灣)](/zh-TW.json) | v5.1 | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
+| [Norsk Bokmål (Norwegian Bokmål)](/nb-NO.json) | v7.0.1 (unfinished) | [SpinyDan](https://github.com/SpinyDan), [TrollingGobling](https://github.com/Trollinggoblin) |
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera), [Marioalexsan](https://github.com/Marioalexsan)
