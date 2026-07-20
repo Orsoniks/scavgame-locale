@@ -1574,7 +1574,7 @@
         "runsettemperatureoffset": "Modificador de temperatura ambiental",
         "runsettemperatureoffsetdsc": "Cuánto calor o frío extra debería tener el entorno de media.",
         "runsetlockpickprecision": "Permisibilidad de forceo de cerraduras",
-        "runsetlockpickprecisiondsc": "Como de ámplio es el angulo de precisión durante los minijuegos de forceo de cerraduras",
+        "runsetlockpickprecisiondsc": "Como de amplio es el angulo de precisión durante los minijuegos de forzar cerraduras",
         "runsetambientlight": "Luz ambiental",
         "runsetambientlightdsc": "Cuanto se deberian iluminar las áreas sin luz directa",
         "runsetambientlightnone": "A oscuras",
@@ -2508,7 +2508,7 @@
                 "Ngh...",
                 "No puedo... estar alerta...",
                 "Mantente alerta...",
-                "...?"
+                "¿...?"
             ],
             "wakeup": [
                 "¿Hm, qué pasa...?",
@@ -3783,7 +3783,7 @@
                 "¡Bienvenido!"
             ],
             "tradermeetgood": [
-                "¡Ah! ¡¡Hi!!",
+                "¡Ah! ¡¡Hola!!",
                 "¡Hola! ¿Que tal?",
                 "¡Aah! ¡Heyy!! ¡Holi!"
             ],
@@ -5896,7 +5896,7 @@
         "Cogete un aperitivo.",
         "¡Oh, venga ya!",
         "Ha dolido ver eso.",
-        "Pordía haber ido mejor.",
+        "Podría haber ido mejor.",
         "¡Que tengas una buena supervivencia!",
         "Gandul.",
         "Pues, ¿qué tal el día?",
