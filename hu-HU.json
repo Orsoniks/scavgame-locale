@@ -158,7 +158,7 @@
         "bucketofchickendsc": "Csomó csirkecomb egy vödörben. Nagyon laktató. Kifejezetten sokáig eláll.",
         "bucketofnochicken": "Csirkétlen kosár",
         "bucketofnochickendsc": "Egy üres csirkekosár.",
-        "steak": "Steak",
+        "steak": "Szték",
         "steakdsc": "Egy nagy, igényesen sütött és előkészített húsdarab. Laktató, hízlaló és finom!",
         "cookies": "Sütis doboz",
         "cookiesdsc": "Egy doboz édes sütemény. Finom, de nem a legegészségesebb.",
@@ -1333,8 +1333,8 @@
         "cerealdsc": "A világ legjobb találmánya - tej és zabpehely. Nagyon finom és laktató.",
         "coffee": "Kávé",
         "coffeedsc": "Pörkölt kávébabból készített ital. Finom és élénkítő, de eléggé ártalmas a koffeintartalom miatt.",
-        "biochem": "Bio-sav folyadék",
-        "biochemdsc": "Advanced chemical compound that greatly promotes chemical reactions and is able to mend certain materials together, or even melt them. Very commonly used in crafting.",
+        "biochem": "Bio-sav",
+        "biochemdsc": "Egy összetett kémiai vegyület ami felgyorsítja a kémiai reakciókat, egyes anyagokat össze is tud ovlasztani, vagy akár teljesen megolvasztani azokat. Nagyon gyakran használatos fabrikáláésnál.",
         "groundwater": "Talajvíz",
         "groundwaterdsc": "Kissé koszos talajvíz. Nagyjából biztonságos meginni, de okozhat egy kis rosszullétet.",
         "water": "Víz",
@@ -1544,8 +1544,8 @@
         "gamesetpixelatedsc": "A teljes felbontás renderelésének leskálázásának ki-/bekapcsolása. Ha kikapcsolod a pixeles renderelést akkor a játék művészi stílusának egy része eltűnik.",
         "gamesetdarkerbackground": "A háttér elsötétítése",
         "gamesetdarkerbackgrounddsc": "elsötétíti a barlang flait, hogy kontrasztosabb legyen a kép",
-        "gamesetbloom": "Bloom",
-        "gamesetbloomdsc": "Makes bright things look nicer. Also affects lens dirt",
+        "gamesetbloom": "Bloom (fényszórás)",
+        "gamesetbloomdsc": "A fényes dolgokat szebbé teszi és a fény szórását állítja",
         "gamesetfilmgrain": "Szemcsésedés",
         "gamesetfilmgraindsc": "Mennyire akarod látni a szemcsésedés effektust",
         "gamesetbrightness": "Fényerő",
@@ -1933,8 +1933,8 @@
         "endscreendepth": "MÉLYSÉG:",
         "endscreendepthres": " MÉTERNÉL",
         "endscreencalories": "KALÓRIA:",
-        "endscreenmainmenu": "RETURN TO MENU",
-        "endscreenclipboard": "COPY TO CLIPBOARD",
+        "endscreenmainmenu": "Visszalépés a menübe",
+        "endscreenclipboard": "Vágólapra másolás",
         "moodrange-10": "Öngyilkos",
         "moodrange-9": "Teljesen reménytelen",
         "moodrange-8": "Nyomorult",
@@ -1960,8 +1960,8 @@
         "moodrangeyethopeful": ", mégis reményteljes",
         "wiki": "Wiki",
         "discord": "Discord szerver",
-        "translations": "Translation repo",
-        "localefolder": "Fordítások mappa",
+        "translations": "Fordítási repostori",
+        "localefolder": "Fordítások mappája",
         "musicfolder": "Egyedi zene",
         "healthchipcriticalalert1": "ÉLETJELEK\nKRITIKUS",
         "healthchipcriticalalert2": "HALÁLKÖZELI\nÁLLAPOT",
@@ -1969,7 +1969,6 @@
         "healthchipradalert1": "MÉLYSÉGI SZINT\nELÉGTELEN",
         "healthchipradalert2": "BÜNTETÉS\nPROTOLKOLL AKTIVÁLVA",
         "healthchipradalert3": "GYORSÍTS\nA TEMPÓN",
-        "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :) \nThe cake is a lie!",
         "tutbasic1": "Üdvözlünk az alapkiképzés utolsó, felevenítő szakaszában!",
         "tutbasic2": "Most újra átmegyünk az alapokon. A következőket majd tudnod kell a következő kísérlethez, amiben részt fogsz venni.",
         "tutbasic3": "Kérlek sétálj az Edzőkar felé. [A]",
@@ -2156,7 +2155,6 @@
     "character": [
         {
             "seeGravel": [
-                "Bátraké a szerencse",
                 "Oké itt vagyunk",
                 "Oké... Csináljuk meg ezt",
                 "Készen állok...",
@@ -2190,6 +2188,7 @@
                 "Le kell mennem... Le kell ereszkednem.",
                 "Menjünk méllyebre.",
                 "Avva...?",
+				"Bátraké a szerencse",
                 "Hmm...",
                 "Hát.. nincs más lehetőség.",
                 "És megérkeztünk!",
@@ -2421,8 +2420,6 @@
                 "...?"
             ],
             "wakeup": [
-                "Ki korán kel aranyat lel",
-                "Mi történik...?",
                 "Maradj éber ...",
                 "Jó reggelt...",
                 "Vágjunk bele...",
@@ -2434,6 +2431,7 @@
                 "Kelj fel...",
                 "Ébren és éberen...",
                 "Helló, világ...",
+				"Ki korán kel aranyat lel",
                 "Ismét..."
             ],
             "sick": [
@@ -2701,11 +2699,6 @@
                 "A jó életbe! Úgy tünik, hogy elszámoltam valamit és most a <limb>am/em tiszta sárga! Oh édes Istenem! Most mitéveő?!"
             ],
             "sad": [
-                "A szerencse vak, ezért nem talál engem",
-                "Mindenki a maga szerencséjének a kovácsa... nem...?",
-                "A szerencse nem jár örökbe, csak kölcsön. És most megfizetem az árát",
-                "Aki korpa közé keveredik, megeszik a disznók.",
-                "Aki nem próbál szerencsét, nem is talál balszerencsét.",
                 "Bal lábbal keltem fel.",
                 "Rosszabb is lehetne.",
                 "Hmm...",
@@ -2732,10 +2725,11 @@
                 "Le vagyok hangolva.",
                 "Nem tetszik ami most történik velem.",
                 "M-miért vagyok én egyáltalán itt?",
-                "Miért én?",
-                "Magányos itt lent...",
-                "Kéne valamilyen társaság.",
-                "Bárcsak itt lenne valaki mellettem.",
+                "A szerencse vak, ezért nem talál engem",
+                "Mindenki a maga szerencséjének a kovácsa... nem...?",
+                "A szerencse nem jár örökbe, csak kölcsön. És most megfizetem az árát",
+                "Aki korpa közé keveredik, megeszik a disznók.",
+                "Aki nem próbál szerencsét, nem is talál balszerencsét.",
                 "Olyan magányos vagyok.",
                 "Bárcsak találhatnék egy barátot...",
                 "Olyan jó lenne, ha itt lenne valaki...",
@@ -2744,9 +2738,7 @@
                 "Az életem hátralévő része végig ilyen lesz?"
             ],
             "gloomy": [
-                "Anyámasszony katonája",
                 "Mehetnének jobban is a dolgok.",
-                "Ez csak... borszasztó.",
                 "Remélem jobbra fordulnak a dolgok... de gyorsan.",
                 "Ez csak egyre rosszabb lesz...",
                 "Kezdek belefáradni ebbe.",
@@ -2760,6 +2752,7 @@
                 "Egyátalán nem tetszik, merre halad ez.",
                 "Utálom ezt. Ugh.",
                 "Kicsit szomorú vagyok.",
+				"Anyámasszony katonája",
                 "Nemrég történt események ténbyleg szörnyűek voltak.",
                 "Jól esne egy kis szórakozás.",
                 "El kell valamivel foglalnom magamat vagy valami... ugh...",
@@ -2786,12 +2779,8 @@
                 "Szomorú vagyok."
             ],
             "depressed": [
-                "Kurva életbe",
-                "Az isten verje meg!",
-                "Vak tyúk is talál szemet, én nem lehetek ennyire kárhoztatott",
-                "Ezt már nem bírom tovább.",
-                "...Miért gyötröm magam?",
-                "Csak... el kéne... engednem...",
+                
+                "Ezt már nem bírom tovább",
                 "Nem tudok így tovább menni...",
                 "Kell nekem egyáltalán... tovább próbálkoznom?",
                 "Ennek semmi jelentősége sincs...",
@@ -2828,6 +2817,9 @@
                 "Kedvem támadt kárt tenni magamban.",
                 "Ó... Ó ne.",
                 "...",
+				"Kurva életbe",
+                "Az isten verje meg!",
+                "Vak tyúk is talál szemet, én nem lehetek ennyire kárhoztatott",
                 "Geci... GECI!!! Miért a FASZÉRT vagyok én ITT???",
                 "Imádkozom, hogy halálom gyors legyen mikor eljön.",
                 "Én komolyan azon gondolkodok hogy öngyilkos legyek.",
@@ -2838,8 +2830,7 @@
                 "Az egész értelmetlen, ugye?",
                 "Ez kibaszottul fellázító.",
                 "Az élet utál engem.",
-                "ÁÁÁHHH!!",
-                "Hahahaha..."
+                "ÁÁÁHHH!!"
             ],
             "miserable": [
                 "Véget akarok vetni az életemnek.",
@@ -3332,7 +3323,6 @@
                 "Olyan hideg van...",
                 "Fel kell, hogy... melegedjek...",
                 "Meg fogok fagyni...",
-                "Szétfagyok...",
                 "Ez a hideg... már fáj...",
                 "Annyira vacogok...",
                 "Zsibbadok...",
@@ -3343,16 +3333,15 @@
                 "Fel kell melegedjem... de sürgősen...",
                 "Halálra fagyok...",
                 "Fázom... túlságosan is fázom...",
-                "Kihülök...",
+                "Szétfagyok...",
                 "Annyira, de annyira hideg van...",
                 "Fel kell melegednem- azonnal...",
                 "Bármi... ami felmelegítene... kérlek...",
                 "Találnom kell egy helyet ahol fel tudnok melegedni.",
-                "Hideg van...",
+                "Dermesztő hideg...",
                 "Annyira hideg van...",
                 "Megfagyom!",
-                "Megfagyom...",
-                "Dermesztő hideg..."
+                "Megfagyom..."
             ],
             "emaciated": [
                 "Olyan csontsovány vagyok... gyengének érzem magam.",
@@ -3737,9 +3726,8 @@
                 "...Oké!",
                 "Mmmmhmmm... Rendben.",
                 "Még meggondolom.",
-                "Ezt megfontolom...",
+                "Megértem",
                 "I-igen... Persze...",
-                "Érthető tűnik!",
                 "Aha",
                 "Hmm... Oké."
             ],
@@ -3909,7 +3897,7 @@
                 "Nem akarok meghalni... Kérlek... KÉRLEK...",
                 "Nem... Nem lehet így vége... Rimánkodom... Segítsen valaki...",
                 "S-seagítség... Akárki... Nem akarok m-meghalni...",
-                "I don't... I don't want to leave this world...",
+                "Én nem... nem akarom... i-i tt hagyni ezt a világot...",
                 "Mentsetek meg... Segítség... Ments-mentsetek... Kérlek...",
                 "Ennek... így... így... lessz vége...?",
                 "Minden... Mindent amit tettem... csak, hogy ... csak,hogy most ide juthassak... mentsenek m-meg...",
@@ -4006,54 +3994,54 @@
             "tradermeetbad": [
                 "...nem vagyok lenyűgözve.",
                 "Ough. Helló...",
-                "...You confound me. Greetings.",
-                "...Hello.",
-                "Greetings. Please refrain from touching me.",
-                "Hello, fellow survivor.",
-                "Greetings. Please use the door next time.",
-                "Welcome.",
-                "Greetings."
+                "...Meghökkentettél, de üdvözöllek",
+                "...Helló.",
+                "Üdvözletem. A továbbiakban légyszi majd ne érj hozzám.",
+                "Helló túlélőtárs.",
+                "Üdvözöllek, de... legközelebb inkább az ajtón gyere be.",
+                "Köszöntelek nálam.",
+                "üdvözletem."
             ],
             "traderwakegreet": [
-                "Good morning.",
-                "Hey, you're finally awake.",
-                "Greetings, you've awoken.",
-                "Guess who's awake!",
-                "Sleepyhead. Welcome back!",
-                "You were sleeping like a puppy, haha..."
+                "Jó reggelt!",
+                "Hé, már ébren is vagy?",
+                "Köszöntelek újra, újra ébren.",
+                "Na ki kelt föl?",
+                "Alvós, fenn vagy most?",
+                "Úgy aluttál mint egy kölyök kutya"
             ],
             "tradergiveitem": [
-                "Thank you.",
-                "That'll come in useful.",
-                "Thank you for the contribution.",
-                "I'm taking this.",
-                "Useful.",
-                "My pleasure.",
-                "I'll make good use of this."
+                "Kösöznöm!",
+                "Ez még jól jöhet.",
+                "Köszönöm az együtt működést",
+                "Elfogadom.",
+                "Hasznos.",
+                "Élmény veled kereskedni.",
+                "Jó kezekben lesz."
             ],
             "tradergiveitemrefuse": [
-                "This is enough for now. I have no more space for these trinkets.",
-                "You may stop gifting me things, I'd prefer not giving out everything else on me."
+                "Már elég is ennyi. Már most sem tudom, hogy hova tegyem ezeket a csecsebecséket...",
+                "Abba hagyhatod már, jobb ha másnak is marad."
             ],
             "traderhagglesuccess": [
-                "Fine.",
-                "I will make an exception for you.",
-                "Ah, you seem nice.",
-                "You make a good point.",
-                "I accept your request.",
-                "I hear you, buddy. Sure.",
-                "I have to agree.",
-                "Affirmative..."
+                "Rendben.",
+                "Jófejnek tűnsz! Legyen hát!.",
+                "Csak mert kedves vagy.",
+                "Igaz, igaz....",
+                "Jól érvelsz!",
+                "Megértem pajtárs, legyens.",
+                "Egyetértek.",
+                "Pozitív..."
             ],
             "traderhagglefail": [
-                "How about no?",
-                "I'm not a damn charity.",
-                "I only accept facts and logic, not uncoordinated pleas.",
-                "No.",
-                "That was the worst argument I've ever heard.",
-                "I have to deny your appeal.",
-                "Negative.",
-                "No exceptions, sorry."
+                "És ha nem?",
+                "Nem vagyok segélyszervezet",
+                "Csak meggyőző érveket fogadok el, nem holmi kérlelést.",
+                "Nem.",
+                "Ez volt a legbénább érv amit valaha is hallottam.",
+                "El kell, hogy utasítsam most ezt.",
+                "Negatív.",
+                "Nem kivételezek, bocs."
             ],
             "traderbuy": [
                 "Nincs visszatérítés.",
@@ -4266,9 +4254,8 @@
             "traderbuy": [
                 "Tied dolog. Barát érdemli!",
                 "Vedd dolgot! Ajándék-ként...",
-                "Jó te-tt hely-ébe jót várj!",
                 "Dune vissza ad neked ajánd-ék miatt! Komá-nak...",
-                "Du-ne ad...",
+                "Jó te-tt hely-ébe jót várj!",
                 "Dune... Vis-sza fizet...",
                 "Ba-rát ad... Aztán... Dune is ad...",
                 "Te... Megkapod dolog! Ba-rát jó..."
