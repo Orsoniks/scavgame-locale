@@ -96,7 +96,7 @@
         "gravbagdsc": "Un contenedor muy experimental que genera gravedad negativa para reducir el peso de lo que sea que tenga dentro. Tiene tendencias explosivas cuando su batería está cerca de acabarse.",
         "legpouch": "Bolsillo de pierna",
         "legpouchdsc": "Una bolsa de cuero con cintas para atarse al muslo. ¡Es como un bolsillo de bolsillo!",
-        "liquidpouch": "Bolstia para líquidos",
+        "liquidpouch": "Bolsita para líquidos",
         "liquidpouchdsc": "Una bolsita flexible creada para alacenar líquidos. Tiene una cinta para que vaya en tu barriga. Puedes llenarla con botellas o viceversa.",
         "materialpouch": "Bolsillo de materiales",
         "materialpouchdsc": "Un grande, y resistente bolso que se ata en tu muslo, con muchos bolsillitos para almacenar materiales de crafteo. Tiene una gran reducción de gravamen, pero solo para cosas pequeñas.",
@@ -247,7 +247,7 @@
         "minilaserdrill": "Mini taladro láser",
         "minilaserdrilldsc": "Un pequeño taladro láser comercializado. No es lo mejor para excavar, pero no usa estamina.",
         "heavydrill": "Taladro pesado",
-        "heavydrilldsc": "Un gran taladro pesado mecánico de mano. Muy eficiento, aunque carece de rango.",
+        "heavydrilldsc": "Un gran taladro pesado mecánico de mano. Muy eficiente, aunque carece de alcance.",
         "pickaxe": "Pico",
         "pickaxedsc": "Una herramienta creada para específicamente extraer roca. Muy eficiente para quitar terreno, aunque lento.",
         "titaniumpickaxe": "Pico de titanio",
@@ -1151,7 +1151,7 @@
         "badsleepdsc": "Tu espalda no está agradeciendo el lugar que has elegido para dormir. Intenta elegir un lugar más comodo la próxima vez. Consciencia reducida.",
         "laststanddsc": "No te vas a ir tan fácilmente. En lo más profundo de ti hay algo que te motiva a seguir.",
         "dirty1dsc": "Considera darte un baño rápido. (<>%)",
-        "dirty2dsc": "Aunque no te importe mucho la falta de higiene, a tu sistema inmune si. Báñate. (<>%)",
+        "dirty2dsc": "Aunque no te importe mucho la falta de higiene, a tu sistema inmune sí. Báñate. (<>%)",
         "adrenalinedsc": "Dolor entumecido. Estás en mucha alerta.",
         "tachycardiadsc": "Tu ritmo cardiáco se siente anormalmente alto.",
         "bradycardiadsc": "Tu ritmo cardiáco se siente anormalmente bajo.",
@@ -4290,7 +4290,7 @@
                 "Podría ser peor.",
                 "Debo seguir.",
                 "Las he pasado peores.",
-                "Hm",
+                "Hm.",
                 "Hmmm.",
                 "Mm.",
                 "Que día tan interesante.",
@@ -4378,7 +4378,7 @@
                 "¡GHH! ...Eso se sintió... Sorprendentemente bien."
             ],
             "suicide": [
-                "No. Puedo. Mas. Cambio y corto.",
+                "No. Puedo. Más. Cambio y corto.",
                 "¡¡¡¡¡AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! ¡¡¡¡¡¡¡AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! ¿¿¿¡¡¡PPPOOORQUUUUUUUUEEEEEEEEEEEEE!!!???",
                 "Esto es todo. He acabado.",
                 "Que le jodan a esto.",
@@ -4797,7 +4797,7 @@
                 "Fascinante."
             ],
             "selfdestruct": [
-                "Oh, oh, por qué, qué. ¿¡POR QUÉ!? ¡PARADLO! ¡NO ME MEREZO ESTO! ¡CABRONES ENBATADOS!",
+                "Oh, oh, por qué, qué, ¿¡POR QUÉ!? ¡PARADLO! ¡NO ME MEREZO ESTO! ¡CABRONES ENBATADOS!",
                 "Hola, pitido. ¿Qué podría significar esto?"
             ],
             "tradermeetnormal": [
@@ -4831,7 +4831,7 @@
             ],
             "traderwakegreet": [
                 "Buenos días.",
-                "Eh tu, por fin has despertado.",
+                "Eh, tú, por fin has despertado.",
                 "Buenas, has despertado.",
                 "¡Adivina quien ha despertado!",
                 "Dormilón. ¡Bienvenido de vuelta!",
@@ -4938,7 +4938,7 @@
                 "¡Ew! Quita tus manos de mí."
             ],
             "traderseegun": [
-                "Antes de hablar, por favor, retire ese arma de sus manos. De todas formas...",
+                "Antes de hablar, por favor, retira ese arma de tu manos. De todas formas...",
                 "Espero que esto no sea un atraco. Si no lo es, guarda el arma... De cualquier manera...",
                 "No me apuntes con eso, esto no es un tiroteo activo. De todos modos...",
                 "¿Estás INTENTANDO parecer una amenaza o simplemente piensas que el arma se ve guay..?"
@@ -5215,7 +5215,7 @@
                 "¿.........?"
             ],
             "hotresponse": [
-                "Du-ne nunca sentir caliente! Du-ne ama caliente..."
+                "¡Du-ne nunca sentir caliente! Du-ne ama caliente..."
             ],
             "coldresponse": [
                 "Du-ne asustado de fr-io... ¡Habit-ación ser ca-liente! Ami-go quedarse co-n dune..."
