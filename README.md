@@ -27,7 +27,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Español (Latinoamérica)](/es-419.json) | v7.0.1 (+9e0bea0) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) | |
 | [Español (España)](/es-ES.json) | v7.0.1 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/fi-FI.json) | v7.0.1 (Incomplete) | [SudenTurrki](https://github.com/TapokDroid), [Gluten](https://github.com/sweftea28-cmyk) |
-| [Français (France)](/fr-FR.json) | v5 (slightly outdated) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick) |
+| [Français (France)](/fr-FR.json) | v7.0.1 (Incomplete) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick), [LackeDragon](https://github.com/LackeDragon) |
 | [Bahasa Indonesia (Indonesia)](/id-ID.json) | v7.0.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/), [Jibuntaital](https://github.com/2215najib), itsholliee, [nfoxers](https://github.com/nfoxers), [Nizar](https://github.com/FoundToast62667) |
 | [Italiano (Italia)](/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
 | [日本語 (日本)](/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
