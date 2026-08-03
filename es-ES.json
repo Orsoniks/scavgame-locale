@@ -1,6 +1,7 @@
 {
     "name": "Español (España)",
-    "description": "El creador oficial creó el juego originalmente en Inglés. Puedes encontrar traducciones de la comunidad (Como esta :D) en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque algunas de estas traducciones no tienen una revisión de calidad (Esta si que lo es) y tal vez estén mal traducidas o no estén actualizadas.",
+    "description": "El creador oficial creó el juego originalmente en Inglés. Puedes encontrar traducciones de la comunidad (Como esta :D) en el repositorio local (En el menú de créditos), aunque algunas de estas traducciones no tienen una revisión de calidad (Esta si que lo es) y tal vez estén mal traducidas o no estén actualizadas.",
+    "version": "7.7.9",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de tela con un vendaje, usado para detener el sangrado, estabilizar fracturas y ayudar a la regeneración de la piel. No tiene efecto en la regeneración muscular.",
@@ -299,7 +300,7 @@
         "mp3player": "Reproductor MP3",
         "mp3playerdsc": "Sorprendentemente, parece aún funcionar. Tiene una pequeña unidad de almacenamiento, con un par de temas guardados. Puedes escucharlos para tu propio entretenimiento.",
         "mushpear": "Entumebaya",
-        "mushpeardsc": "Una parte azul de una hidranta, que filtra y distribuye agua. Tiene una rara propiedad de absorber peso y sabor fuera de lugar. Disminuye la masa corporal al consumirse. Parece tener trazas de concentraciones opiáceas.",
+        "mushpeardsc": "Una parte azul de una hidranta, que filtra y distribuye agua. Tiene una rara propiedad de absorber peso y sabor fuera de lugar. Disminuye la masa corporal al consumirse. Parece tener trazas de concentraciones opioides.",
         "mushtail": "Siestóla",
         "mushtaildsc": "La cola final de una hidranta. Contiene un químico que puede dejar inconsciente a cualquiera por un rato, con un aumento de felicidad notorio tras el efecto. Extraño. No tiene valor nutricional.",
         "aquapple": "Aguanzana",
@@ -334,6 +335,8 @@
         "blindfolddsc": "Un trozo de tela negra para tapar tus ojos. Ofrece una pequeña protección, pero cierra los ojos de tu personaje.",
         "balaclava": "Pasamontañas",
         "balaclavadsc": "Un trozo de tela grueso y acolchado que va alrededor de tu cabeza. Ofrece poca protección y un aislamiento decente.",
+        "earmuffs": "Orejeras",
+        "earmuffsdsc": "Un par de cojines modernos conectados por una banda metálica para la cabeza. Te protege de ruidos fuertes y da algo de aislamiento... de alguna forma. No hará mucho contra los sonidos <i>extremadamente</i> fuertes.",
         "latexgloves": "Guantes de látex",
         "latexglovesdsc": "Un simple par de guantes de látex. Ofrece un aislamiento mínimo contra los elementos.",
         "tacticalgloves": "Guantes tácticos",
@@ -358,8 +361,8 @@
         "hoodiedsc": "Una sudadera negra muy grande que te mantiene calentito y tiene un pequeño bolsillo.",
         "metabolismchip": "Chip de metabolismo",
         "metabolismchipdsc": "Un chip que aumenta ligeramente tu metabolismo, haciendo que tus miembros se regeneren mucho más rápido, pero usando más hambre en el proceso.",
-        "xalorissponge": "Esponja de xaloris",
-        "xalorisspongedsc": "Un trozo arrancado de una espora arrugada de Xaloris. Se puede usar en un miembro para combatir infecciones o puede ser comida para un valor nutricional. Tal vez sus esporas afecten a tu sistema inmune.",
+        "heatfernsponge": "Esponja de termolecho",
+        "heatfernspongedsc": "Un trozo arrancado de una espora arrugada de termolecho. Se puede usar en un miembro para combatir infecciones o puede ser comida para un valor nutricional. Tal vez sus esporas afecten a tu sistema inmune.",
         "jetpack": "Jetpack",
         "jetpackdsc": "Un dispositivo que se pone en la espalda que usa propulsores para propulsarte por el aire. Tiene un combustible limitado y puede no funcionar mientras esté mojado. Mantén W para usarlo. También tiene pequeños bolsillos para guardar cosas dentro.",
         "dynamite": "Dinamita",
@@ -605,8 +608,8 @@
         "snowstriderdsc": "Una criatura grande y peluda que caza por comida en las regiones frías de este sistema de cuevas. Su grueso pelaje lo mantiene caliente.",
         "spaceheater": "Calentador de iones espacial",
         "spaceheaterdsc": "Un dispositivo que aumenta mucho la temperatura alrededor. Podría causar algo de enfermedad por radiación si te encuentras cerca por mucho tiempo.",
-        "xaloris": "Xaloris",
-        "xalorisdsc": "Un esponjoso helecho de zarza que calienta el aire de alrededor para esparcir esporas a su alrededor. Mantiene el frío a ralla, Pero respirar las esporas por mucho tiempo puede afectar a tu sistema inmune.",
+        "heatfern": "Termolecho",
+        "heatferndsc": "Un esponjoso helecho de zarza que calienta el aire de alrededor para esparcir esporas a su alrededor. Mantiene el frío a ralla, Pero respirar las esporas por mucho tiempo puede afectar a tu sistema inmune.",
         "lifepodheater": "Climatizador de la cápsula",
         "lifepodheaterdsc": "Mantiene el interior agradable.",
         "tutorialcraftingbutton": "Botón de reseteo",
@@ -864,8 +867,8 @@
         "overdose1": "Un poco drogado",
         "overdose2": "Drogado",
         "overdose3": "Drogadísimo",
-        "overdose4": "Sobredosis de opiáceos",
-        "withdrawal1": "Antojo de opiáceos",
+        "overdose4": "Sobredosis de opioides",
+        "withdrawal1": "Antojo de opioides",
         "withdrawal2": "Con abstinencia",
         "withdrawal3": "Abstinencia severa",
         "withdrawal4": "Muriendo de abstinencia",
@@ -996,7 +999,7 @@
         "impendingdoom": "Sentimiento de un cataclismo inminente",
         "horrified": "ATERRORIZADO",
         "focused": "CONCENTRADO",
-        
+        "cargo": "<spoiler>",
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  sentido   ya   no",
         "braindamage2dsc": "Déficit mental grave. La habilidad de autosustentarse y pensar de manera inteligente se vuelve limitada. Daño cerebral importante.",
@@ -1040,9 +1043,9 @@
         "withdrawal1dsc": "Realmente quieres otra dosis.",
         "withdrawal2dsc": "Tu cuerpo está desesperado por otra dosas. Quieres vomitar... Esto se siente muy mal. Es recomendado tratarse lo antes posible.",
         "withdrawal3dsc": "Te está costando mantener la compostura, estás temblando buscando cualquier cosa para aliviarte. Te sientes horrible. Necesitas tratamiento.",
-        "withdrawal4dsc": "Tu cuerpo está fallando en mantenerse sin opiáceos de los cuales se ha vuelto tan tependiente. A tu corazón le cuesta bombear sangre por tu cuerpo. Revisa tus signos vitales y mantente al tanto de una fibrilación.",
+        "withdrawal4dsc": "Tu cuerpo está fallando en mantenerse sin opioides de los cuales se ha vuelto tan tependiente. A tu corazón le cuesta bombear sangre por tu cuerpo. Revisa tus signos vitales y mantente al tanto de una fibrilación.",
         "stimulateddsc": "Fuertes drogas estimulantes en tu sistema sanguíneo. Te sientes listo para lidiar con lo que se te ponga en frente... Por ahora.",
-        "drugoverdosedsc": "Tienes sobredosis de una droga no opiácea. Probablemente tengas complicaciones de salud.",
+        "drugoverdosedsc": "Tienes sobredosis de una droga no opioide. Probablemente tengas complicaciones de salud.",
         "bleeding1dsc": "Tienes sangre rezumando de una herida relativamente pequeña. No hay peligro inmediato.",
         "bleeding2dsc": "Tienes sangre saliendo de una herida un poco grande. Muy improbable que sea mortal si estás saludable. Tratamiento recomendado.",
         "bleeding3dsc": "Tienes una hemorragia que está saliendo de tu cuerpo. Letal si no es tratada. Tratamiento necesario.",
@@ -1167,7 +1170,8 @@
         "keratinboosterdsc": "Tus garras crecen tres veces más rápido. (<>)",
         "impendingdoomdsc": "No puedes dejar de sentir un repentino, y abrumador miedo. Tienes la piel de gallina. Es como si la naturaleza se hubiese callado abruptamente...",
         "horrifieddsc": "NO PUEDES CONCENTRARTE. NO PUEDES PENSAR. NO IMPORTA NADA. ¡CORRE POR TU VIDA O LUCHA POR ELLA!",
-        "focuseddsc": "<i>Ambos morimos hoy. Uno un poco después que el otro."
+        "focuseddsc": "<i>Ambos morimos hoy. Uno un poco después que el otro.",
+        "cargodsc": "<spoiler>"
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1324,11 +1328,11 @@
         "naloxone": "Naloxona",
         "fentanyl": "Fentanilo",
         "ceftriaxone": "Ceftriaxona",
-        "morphinedsc": "Un fuerte opiáceo para aliviar el dolor. Menor efecto al tomarse oralmente.",
-        "opiumdsc": "Un opiáceo no tan fuerte para aliviar el dolor. Menor efecto al tomarse oralmente.",
-        "heroindsc": "Un opiáceo muy fuerte para aliviar el dolor. Sabes muy poco de esta droga.",
-        "naloxonedsc": "Antagonista opiáceo, usada en tratamientos contra la sobredosis. Un tratamiento rápido puede salvarte la vida en una sobredosis accidental.",
-        "fentanyldsc": "Un opiáceo muy potente, 100 veces más que la morfina. Considera diluirlo.",
+        "morphinedsc": "Un fuerte opioide para aliviar el dolor. Menor efecto al tomarse oralmente.",
+        "opiumdsc": "Un opioide no tan fuerte para aliviar el dolor. Menor efecto al tomarse oralmente.",
+        "heroindsc": "Un opioide muy fuerte para aliviar el dolor. Sabes muy poco de esta droga.",
+        "naloxonedsc": "Antagonista opioide, usada en tratamientos contra la sobredosis. Un tratamiento rápido puede salvarte la vida en una sobredosis accidental.",
+        "fentanyldsc": "Un opioide muy potente, 100 veces más que la morfina. Considera diluirlo.",
         "ceftriaxonedsc": "Un atibiótico de cefalosporina de tercera generación usado para el tratamiento de infecciones. Aumenta la inmunidad del cuerpo por un rato, pero causa dolor.",
         "reliefcream": "Crema aliviadora",
         "reliefcreamdsc": "Una mezcla de químicos y drogas que alivian instantáneamente el dolor y desinfecta heridas.",
@@ -1343,9 +1347,9 @@
         "lowgradestimulant": "Estimulante clandestino",
         "lowgradestimulantdsc": "Droga pesada sin refinar. Poco fiable. Te da un muy buen golpe pero la sobredosis y la subsecuente resaca son extremadamente debilitantes. No hay una dosis recomendada. Usalo con extrema precaución",
         "naltrexone": "Naltrexona",
-        "naltrexonedsc": "Unas pastillas creadas para tratar dolencias generales como la enfermedad o el abuso de opiáceos. Disminuye la felicidad y puede causar vómitos.",
+        "naltrexonedsc": "Unas pastillas creadas para tratar dolencias generales como la enfermedad o el abuso de opioides. Disminuye la felicidad y puede causar vómitos.",
         "painkillers": "Analgésicos",
-        "painkillersdsc": "Pastillas opiáceas usadas para quitar el dolor. Sobredosis a los 60ml.",
+        "painkillersdsc": "Pastillas opioides usadas para quitar el dolor. Sobredosis a los 60ml.",
         "disinfectant": "Antiséptico",
         "disinfectantdsc": "Un líquido antiséptico básico. Contraresta infecciones y pincha un poquito.",
         "ringersolution": "Solución de Ringer",
@@ -1365,7 +1369,7 @@
         "antibiotics": "Antibioticos",
         "antibioticsdsc": "Pastillas que aumentan tu inmunidad por un tiempo, combatiendo todas las infecciones. Sabor desagradable.",
         "sleepingpills": "Pastillas para dormir",
-        "sleepingpillsdsc": "Unas potentes pastillas para dormir. Te dejan dormir en condiciones físicas malas. No las combines con opiáceos.",
+        "sleepingpillsdsc": "Unas potentes pastillas para dormir. Te dejan dormir en condiciones físicas malas. No las combines con opioides.",
         "procoagulant": "Procoagulante",
         "procoagulantdsc": "Un químico que promueve la coagulación de la sangre. Disminuye la pérdida de sangre general, incluyendo el sangrado interno. Causa complicaciones médicas si se utiliza en exceso.",
         "epinephrine": "Epinefrina",
@@ -1461,6 +1465,7 @@
         "milkytraderdsc": "Una criatura particularmente pequeña, peludita, con un hocico aplastado y con unos pequeños cuernos blancos saliendo de su cabeza. Probablemente acuáticos hasta cierto punto, a juzgar por su par de aletas en su espalda. Parecen ser algo inteligentes y medianamente arrogantes, es posible que tengan algún tipo de arma para compensar sus características físicas poco impresionantes. No suelen estar muy interesados en el afecto físico, tendrás que tener más confianza con ellos para que te permitan un abrazo.",
         "dune": "Dune",
         "dunetraderdsc": "Grande, ancho, imponente y con una mentalidad bruta. Tiene extrañas aletas esparcidas por todo su cuerpo, 6 pinchos saliendo de los laterales de su cabeza y una boca terroríficamente grande con montones de dientes afilados esparcidos. Parece tener branquias alrededor de su torso. Aunque no son directamente agresivos, en su mayoría son dirigidos por el hambre, por ende es posible que no le importe mucho lo que le des a cambio; Tendrás que pensar en una mejor manera de sacarle su lado bueno.",
+        "dunespecialtraderdsc": "Comida.",
         "Shelly": "Shelly",
         "clicktocontinue": "Haz click para continuar...\nESC para omitir",
         "favouriteditem": "Los objetos en favoritos serán remarcados y no se usarán en el crafteo",
@@ -1482,6 +1487,11 @@
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILIA] \"Canino\"\n[FRASE_LLAMAMIENTO] \"Cumpliré\"\n[PREDICCION_EXITO] \"0.0103%\"\n[NOTAS] \"Un poco esnob\"",
         "char1quirks": "[NARCOLEPTICO] - Tu ciclo de sueño es mucho mas corto, pero no sufres los efectos negativos de dormir en superficies duras.\n[ESTATURA] - ¡Eres pequeño!\n[OJOS_ADAPTADOS] - Ves mejor y las fuentes de luz se extienden a más lejos\n[SEMI_HERVIVORO] - La carne te da un poco de náusea y te aporta menos nutrición.\n[FLACUCHO] - Ganas la mitad de EXP de FUE.\n[TIRADOR] - Puedes usar atajos para manejar armas.\n[APARIENCIA_ROBUSTA] - Costará más romperte mentalmente. No sueles mostrar afección, a menos que realmente lo necesites.\n[CANINO] - A tu estómago no le sienta bien la teobromina.",
+        "char2name": "[SAW-12] \"Dune\"",
+        "char2desc": "[FAMILIA] \"Insectoide\"\n[FRASE_LLAMAMIENTO] \"Hrrnn... ¿Du-ne tocar ir..?\"\n[PREDICCION_EXITO] \"0.001%\"\n[NOTAS] \"¡Eww! ¡Está babeando!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[ACCESO_DENEGADO]",
+        "characterunlockdsc": "Completa una partida con el personaje anterior para desbloquear.",
         "presetnormal": "Normal",
         "presetnormaldsc": "La experiencia por defecto. Los errores se pagan. El conocimento general y situacional se recompensan. El tiempo es vital. Tu muerte está casi garantizada.",
         "presetrelaxed": "Relajado",
@@ -1493,13 +1503,15 @@
         "presetunchipped": "Sin chip",
         "presetunchippeddsc": "Aunque el no tener chip alivia el límite de tiempo articifial que limita a otros, también hace autodiagnosticarse un proceso complicado. ¿Tal vez merezca la pena al final?",
         "presetendless": "Sin fín",
-        "presetendlessdsc": "No hay escapatoria; Esta es tu sentencia de muerte. ¿Como de lejos puedes llegar, con obstaculos multiplicándose en tu camino?\n\n[NOTA: No disponible por el momento, ya que el juego ya es infinito por ahora.]",
+        "presetendlessdsc": "No hay escapatoria; Esta es tu sentencia de muerte. ¿Como de lejos puedes llegar, con obstaculos multiplicándose en tu camino?",
         "runsettings": "Opciones de partida",
         "runsettingsdsc": "Escoge un estilo de juego de entre las opciones predefinidas de abajo. Puedes personalizarlas en el panel de la derecha.",
         "customsettings": "Opciones personalizadas",
         "customsettingsdsc": "Configura opciones de partida",
         "runsetunchipped": "Sin chip",
         "runsetunchippeddsc": "Desactiva el panel de salud, obligandote a esforzarte más para saber que condiciones padeces. Activa la línea de visión.",
+        "runsetendless": "Sin fin",
+        "runsetendlessdsc": "Si se activa, las capas se repetirán en bucle tras cierto punto, haciendo que la partida no tenga fin hasta morir. No es posible completar el juego de este modo.",
         "runsetbaselootdensity": "Densidad de botín",
         "runsetbaselootdensitydsc": "Cuanto botín aparece en cada capa. Afecta a cosas como las cápsulas de artilugios y salvavidas además de las cajas",
         "runsetlootmultiplier": "Multiplicador de botín por distancia",
@@ -1515,6 +1527,8 @@
         "runsetstartingsuppliesnone": "Nada",
         "runsetstartingsupplieslight": "Linterna",
         "runsetstartingsuppliesfull": "Kit completo",
+        "runsetenemystrength": "Fuerza de enemigos",
+        "runsetenemystrengthdsc": "Multiplicador del daño que inflinge la fauna enemiga.",
         "runsetxpgain": "Ganancia de experiencia",
         "runsetxpgaindsc": "Multiplicador de experiencia de hablidad que consigues.",
         "runsetmetabolismrate": "Tasa de metabolismo",
@@ -1537,6 +1551,8 @@
         "runsetstaminaregendsc": "Como de rápido se regerena tu estamina tras usarse",
         "runsetattackdamage": "Daño de ataque",
         "runsetattackdamagedsc": "Cuanto daño inflinges con tus ataques",
+        "runsetinsulationmultiplier": "Multiplicador de aislamiento",
+        "runsetinsulationmultiplierdsc": "Cuanta protección tienes de la temperatura ambiente",
         "runsetstrokes": "Activar derrames",
         "runsetstrokesdsc": "Determina si puedes sufir un derrame por una crisis hipertensiva",
         "runsetbraindamagefx": "Efectos de daño cerebral",
@@ -1586,7 +1602,6 @@
         "runsetminigamehandshakedsc": "Cuánto te tiembla la mano durante los minijuegos cuando estás dolorido",
         "runsetdebugworld": "Mundo de pruebas",
         "runsetdebugworlddsc": "Si está activo, hace que el mundo sea mucho más pequeño para acelerar la generación. No está pensado jugar de forma normal.",
-        
         "tutorialwarning": "<size=150%>Antes de que te vayas...\n\n<size=100%>No has pasado aún por los módulos básicos.\n¿Estás seguro que quieres bajar a ciegas?\n\n\n\nTu perdición no estará más que asegurada.",
         "tutorialwarningyes": "¡Llevame ahí!",
         "tutorialwarningno": "Se lo que hago.",
@@ -1818,7 +1833,7 @@
         "cqrippable": "Rasgable",
         "cqdisinfectant": "Antiseptico",
         "cqblood": "Sangre",
-        "cqopiate": "Opiáceo",
+        "cqopiate": "Opioide",
         "cqdressing": "Tela",
         "cqproduce": "Fruta",
         "cqmeat": "Carne",
@@ -1857,8 +1872,10 @@
         "basicscourse": "Entrenamiento básico",
         "firstaidcourse": "Módulo de primeros auxilios",
         "craftingcourse": "Módulo de crafteo",
+        "movementcourse": "Módulo de movimiento",
         "firstaidcourseunlock": "Llega a la segunda capa para desbloquear",
         "craftingcourseunlock": "Llega a la tercera capa para desbloquear",
+        "movementcourseunlock": "Llega a la tercera capa para desbloquear",
         "tutorialspecieslock": "Solo puedes entrar con la especie Experiment",
         "sandbox": "Sandbox",
         "escapecourse": "ALERTA: BRECHA MENOR",
@@ -1915,7 +1932,7 @@
         "hplimbbleed": "Sangrado del miembro",
         "hplimbforce": "Fuerza del miembro",
         "hplimbforcedsc": "La habilidad total del miembro para moverse y generar fuerza",
-        "hpopiate": "Cantidad de opiáceos",
+        "hpopiate": "Cantidad de opioides",
         "hpvenom": "Cantidad de veneno",
         "settings": "Opciones",
         "credits": "Créditos",
@@ -1936,7 +1953,7 @@
         "alertalreadywearing": "¡El <1> no cabe sobre tu <2>!",
         "alertcontainerstacking": "¡Solo puedes almacenar contenedores vacíos dentro de otros!",
         "alertcontainerstackingalt": "No puedes usar este contenedor, ya que está dentro de otro",
-        "alerttoounhappy": "No puedes usar medicinas no-opiáceas cuando estás en un estado miserable",
+        "alerttoounhappy": "No puedes usar medicinas no-opioides cuando estás en un estado miserable",
         "alertlimbmissing": "Tu <1> está faltando, ¡Haciendo que tu <2> sea inútil!",
         "alertsellcontainer": "Vacía el contenedor antes de venderlo",
         "insertsample": "Insertar muestra",
@@ -2202,10 +2219,10 @@
         "tutaid66": "El dolor severo es una de las cosas más debilitantes por las que puedes pasar.",
         "tutaid67": "Te inmoviliza, te reduce rápidamente la moral y hasta puede que te desmayes por el shock.",
         "tutaid68": "Por suerte, hay una manera muy fácil de tratarlo.",
-        "tutaid69": "Los opiáceos reducen rápidamente tu dolor por todo el cuerpo al usarlos. Pinchatelo todo y mira.",
+        "tutaid69": "Los opioides reducen rápidamente tu dolor por todo el cuerpo al usarlos. Pinchatelo todo y mira.",
         "tutaid70": "¡BOO!",
         "tutaid71": "Se te ha ido ya, ¿Verdad?",
-        "tutaid72": "Se cuidadoso con los opiáceos - puedes tener una sobredosis de ellos con facilidad, o estar con abstinencia. La naloxona y naltrexona pueden ayudarte con la adicción a los opiáceos.",
+        "tutaid72": "Se cuidadoso con los opioides - puedes tener una sobredosis de ellos con facilidad, o estar con abstinencia. La naloxona y naltrexona pueden ayudarte con la adicción a los opioides.",
         "tutaid73": "Con esto concluye el módulo de primeros auxilios. Podríamos cubrir más cosas, pero creemos que podrás descubrir el resto de manera segura. Vuelve a tu habitación.",
         "tutcraft1": "Bienvenido al módulo de crafteo. Hoy, cubriremos los detalles de adquirir objetos y enseñaremos los flujos comunes de trabajo.",
         "tutcraft2": "Casi todo lo que ves tiene un uso real y no es basura.",
@@ -2239,9 +2256,11 @@
         "tutclosehealthpanel": "Cerrar el panel de salud.",
         "tutopenhealthpanel": "Abrir el panel de salud.",
         "tutnice": "Excelente.",
+        "outdatedwarning": "<size=200%>¡Hey!<size=100%>\nEste archvio de traducción está obsoleto. Puede que algunos textos se vean incorrectamente.\nIntenta cambiar al idioma inglés o busca una versión actualizada de la traducción.",
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Año 2XXX \n<>\nLa tecnología de la humanidad ha progresado significativamente. Cosas que parecían imposibles ahora son comunes.\n<>\nAl centro de todo esto estuvo una empresa. Su progreso parecía milagroso, pero protegían sus secretos con cuidado.\n<>\nHace años habían creado una nueva especie: una combinación de ADN humano y animal que llamaron simplemente \"Experiments.\"\n<>\nEstos experimentos eran los sujetos de pruebas perfectos, suficientemente parecidos a los humanos, pero suyos para hacer lo que quisiesen con ellos. Experimentaron fuertemente con estos, aberrando su biología aún más para satisfacer sus necesidades, y con el paso de los años, la población no dejó de subir.\n\nNinguno de ellos vería el exterior.\n<>\nAhora parecía que la Tierra ya no podía contener sus ambiciones. Con su tecnología de teletransportación recientemente diseñada, pusieron sus vistas en un planeta gris lleno de vida.\n<>\nPoco después, se mandaron toneladas de carga miscelánea y basura.\n<>\nDebido a dificultades de calibración, acabó de igual forma tanto en la superficie como en el sistema de cuevas del planeta, pero el proyecto progresó sin problemas. \n<>\nEso fue, hasta que un error desconocido mandó una pieza de tecnología importante a las profundidades de las cuevas.\n<>\nPoco después, los científicos habían ideado un plan. Un plan con poco riesgo para ellos.\n<>\nLas probabilidades de éxito eran bajas, pero su carne de cañón era abundante.\n<>\nEres uno de los desafortunados.\nResistirse no es una opción."
     },
     "character": [
@@ -3495,8 +3514,8 @@
             ],
             "opiatewithdrawal": [
                 "N-... Necesito drogaa...",
-                "Opiáceos... Por favor...",
-                "Re-realmente n-necesito más opiáceos...",
+                "opioides... Por favor...",
+                "Re-realmente n-necesito más opioides...",
                 "Estoy temblando...",
                 "Podría tragarme u-una bo-botella entera de analgésicos...",
                 "Creo que estoy p-pasando por u-una abstinencia...",
@@ -3505,7 +3524,7 @@
                 "Estoy... temblando mucho... Necesito más...",
                 "Me siento fatal- Necesito... Necesito más de esto...",
                 "Esto me está afectando... Estoy temblando... Joder.",
-                "Necesito... más... opiáceos.",
+                "Necesito... más... opioides.",
                 "Me s-siento... horrible... N-necesito más...",
                 "Analgésicos...",
                 "Ne... Necesito... Necesito ese subidón...",
@@ -3516,7 +3535,7 @@
                 "Estoy... empezando a temblar...",
                 "Debo de parar de tomarme esta mierda...",
                 "Solo puedo p-pensar en otra dosis más...",
-                "Opiáceos...",
+                "opioides...",
                 "Estoy tan tembloroso y débil... Qu-quiero más...",
                 "Necesito más... D-drogas..."
             ],
@@ -4006,6 +4025,21 @@
                 "...Eeehh... ¿...Qué es ese pitido...?",
                 "...Oh. Oh. OH. ¡OH! NO. NO NO NO. ESPERA. ¿POR QUÉ? ¿¡QUE HICE!?",
                 "...A-ah... Vale... B-bien... A-adiós, e-entonces..."
+            ],
+            "endlessloop0": [
+                "¿...Ohh-Eh...qué..? ¿Qué? ¿Por qué? Qué ha... ¿Por qué estoy de vuelta aquí..? Qu... Qué acaba de pasar..."
+            ],
+            "endlessloop1": [
+                "...Esto no está yendo como me esperaba...No sé que más podría hacer... Bueno. Ugh. ¿A la tercera va la vencida, no?"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ],
+            "endlessloop3": [
+                "¡Bueno! No voy a salir de aquí, no... Creo que me estoy acostumbrando."
+            ],
+            "endlessloopdefault": [
+                "Oh, vamos dando más y más vueltas..."
             ],
             "vomitresponse": [
                 "Ehhhh... ¿'Tas bien..?"
@@ -4538,7 +4572,7 @@
                 "La temperatura ambiental es alta."
             ],
             "hot": [
-                "Estoy muy caliente. ...No de esa forma...",
+                "Estoy muy caliente.",
                 "...Caliente. Muy. Caliente.",
                 "Puede que sufra un golpe de calor a este ritmo...",
                 "Estoy peligrosamente hipertérmico...",
@@ -4598,7 +4632,7 @@
                 "Soy pesado."
             ],
             "opiated": [
-                "Estoy bajo la influencia de una sustancia opiácea.",
+                "Estoy bajo la influencia de una sustancia opioide.",
                 "Mm...Mmmmmm...Mareante.",
                 "Esto se siente... Bueno. Bien.",
                 "Suficiente...",
@@ -4619,7 +4653,7 @@
                 "E-estoy experienciando s-sintomas de abstinencia.",
                 "Mis m-manos están te-temblando.",
                 "A-abstinenci-cia.",
-                "Ne-necesito mas opiáceos.",
+                "Ne-necesito mas opioides.",
                 "Temblando."
             ],
             "cantBreathe": [
@@ -4799,6 +4833,21 @@
             "selfdestruct": [
                 "Oh, oh, por qué, qué, ¿¡POR QUÉ!? ¡PARADLO! ¡NO ME MEREZO ESTO! ¡CABRONES ENBATADOS!",
                 "Hola, pitido. ¿Qué podría significar esto?"
+            ],
+            "endlessloop0": [
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... V-vale. No.. no es. Lo que. Me. E-esperaba. Debo haber hecho algo mal. V-volveré e intentaré otra vez."
+            ],
+            "endlessloop1": [
+                "Esto no va según el plan. ¡Maldición! ¿¡Que demonios querían los embatados que hiciese!? Que pérdida de tiempo y energía."
+            ],
+            "endlessloop2": [
+                "...Que resultado tan d-deprimente. Está misión está destinada al fracaso."
+            ],
+            "endlessloop3": [
+                "Esto está fuera de mi control. Que prueba de paciencia. Frustrante. Tan, tan intensamente frustrante. Siempre fuera de alcance."
+            ],
+            "endlessloopdefault": [
+                "......*suspiro*"
             ],
             "tradermeetnormal": [
                 "Saludos.",
@@ -5022,6 +5071,564 @@
             ]
         },
         {
+            "seeGravel": [
+                "Hhrnnn... A-qui...",
+                "Nnhh... G-ris...",
+                "Du-ne... Ir...",
+                "...¿Porqué pa-rar?",
+                "Nnnhh... Lug-ar comida...",
+                "Ll-e-ga.",
+                "¿Fri-o..?"
+            ],
+            "eatGood": [
+                "¡Nngghhhrr! ¡¡Ri-co!!",
+                "¡Ngghraahhh! ¡A Du-ne gu-star!",
+                "Hnnn...Hnnnrr...Bu-no...",
+                "Co-mida... Gu-star...",
+                "Sab-er... Es-pe-cial... Nhhrr...",
+                "Nhhrr... Gus-tar...",
+                "Que-er... M-as..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Co-mida...",
+                "Du-ne... Comer... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Comer... Has-ta... Nggrrhh... Lle-no...",
+                "Comi-da...",
+                "Sa-bro-so...",
+                "Du-ne... Gustar comer... Ghhr..."
+            ],
+            "eatBad": [
+                "¡Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Co-mida...",
+                "Nngrr... ¿Mas..?",
+                "Wa-n... Du-ne... Gnnhnhrr... Comi-da... Nhhrr..."
+            ],
+            "refuseEat": [
+                "¿...Woh?",
+                "Du-ne... No... Grr..",
+                "¡¡Gghhrrrr!!",
+                "¡Ngghhhrraaghh!",
+                "Malo..."
+            ],
+            "tired": [
+                "Sue-ño... Que-rer...",
+                "Du-ne... Sies-ta...",
+                "S...Ueño.",
+                "¡Eeee... Eeeeb..!",
+                "Sueeee-ñ.... Suee-ñeee....",
+                "Mnnhhrr... Tum-bar..."
+            ],
+            "verytired": [
+                "De-ber... Sies-ta...",
+                "Caaan... Saaa...",
+                "Nnnhhh......Tum-bar...",
+                "Tum... Bar-se...",
+                "Hhhrrnn... S...Sue-eeeño..."
+            ],
+            "confused": [
+                "Ca-beza...",
+                "Gghhnn... Ghhrrrr...",
+                "Q.... Q-ue....",
+                "No... Sa-berrr...",
+                "Con-fuso....",
+                "Nnhhhrrr...",
+                "No... Du-ne... Ra-ro..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... Des-pertar...",
+                "Hol-la...",
+                "¿Hhrr..?",
+                "Mnnnhhh...",
+                "Vi-vo...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Ba-ri... Luchar...",
+                "Comi-da... Defen-derse...",
+                "¡Nhhgghhrrr... Ghhraghhh!",
+                "¿Hnnnghh..? Ghhr... Q-ue...",
+                "Nhgghhrr... Du-ne...... Mal....",
+                "Ghhn... Mal... Co-mer..?"
+            ],
+            "vomitblood": [
+                "Du-ne... Sen-tir maaal....",
+                "¿Guurhhh... Gnnnhh...?",
+                "¿Nnngghhhrr....?",
+                "¡Ggyiacckk! Grhrh... Q-ue...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... po-rque...",
+                "Nggh...du-ne...no...bie-n..."
+            ],
+            "full": [
+                "Du-ne lle-no...",
+                "¡Com-er mu-cho...!",
+                "Es-per-ar comer...",
+                "Du-ne no m-as comer...",
+                "Ngghh... Lle-no...",
+                "Su-fic... Gnnh..."
+            ],
+            "hungry": [
+                "Quer-er M-as... Com-ida...",
+                "Du-ne...hambrie-nto...",
+                "¿Mordis-co?",
+                "...Nggh... Que-rer...",
+                "Ham...bre...",
+                "*babea*",
+                "Don-de... ¿Comer..?",
+                "Mor-disco...",
+                "¿Co-mer..?",
+                "¿Du-ne...co-mer..?"
+            ],
+            "starving": [
+                "*babea mucho*",
+                "Nece-si-tar.. ¡Comer!",
+                "¡Ngghhhhrrr! ¡¡¡Com-ida!!!",
+                "¡¡NGHHRRHHH!! ¿¡Don-de comer!?",
+                "¡Nhghhrrr! ¡¡Du-ne ham-bre!!",
+                "¡¡NNGRHH!! ¡¡COMI-DA!! ¡¡DU-NE!!"
+            ],
+            "thirsty": [
+                "¿Tra-go..?",
+                "A-gua...",
+                "Mmm... ¿B-eber..?",
+                "Du-ne... A-gua...",
+                "Que-rer... ¿A-gua..?",
+                "Be-ber..."
+            ],
+            "dehydrated": [
+                "¡Necesi-tar... A-gua..!",
+                "Ngghh... Se-co...",
+                "¡¡A-gua...ya!!",
+                "¡¡Gghrhhh... A-gua!!",
+                "¡Du-ne...  Re-se..!",
+                "Du-ne... A-gua... ¡YA!",
+                "¡Gghhrraaaghh! ¡Be-ber! ¡Ya..!"
+            ],
+            "limbmuscle": [
+                "<limb> no mo-ver...",
+                "¿<limb> du-ne dejar fun-cio-nar?",
+                "Du-ne nece-siitar <limb> dife-rente",
+                "<limb> no ir...nnngrrhh...",
+                "¡<limb> ser ruin..! ¡Gghhrr!",
+                "¡<limb>... du-ne do-ler..!"
+            ],
+            "limbinfected": [
+                "<limb> du-ne ca-liente...",
+                "¿Malo..?",
+                "¿Nnnrr...<limb> ver mal..?",
+                "¡<limb> du-ne bro-ta..?",
+                "Hhnnn...<limb> sen-tir inu-sual..."
+            ],
+            "limbskin": [
+                "¿<limb> amarillo..?",
+                "¡Oooouur! ¡<limb> es ma-l!",
+                "Du-ne doler...",
+                "<limb> du-ne doler...",
+                "Ghhhrr...<limb> no bie-n..."
+            ],
+            "sad": [
+                "Triste.",
+                "Du-ne triste.",
+                "No son-risa...",
+                "Du-ne no son-risa...",
+                "Du-ne sen-tir mal.",
+                "No fe-li...",
+                "Du-ne no fe-li..."
+            ],
+            "gloomy": [
+                "Com-ida hacer senti-r mejor...",
+                "Com-ida hacer du-ne senti-r mejor...",
+                "Mu-y tristee...",
+                "Mu-y tristee du-ne...",
+                "Grrr..mente mal.",
+                "Grrr..mente du-ne mal.",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "¡Du-ne no sentir bie-n!",
+                "¡No sentir bie-n!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "¡Ggghhrragghhh!",
+                "¡Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "¡Ngghhruagghhh! Gghhrr...",
+                "¡Nnhhg... Nggghhh!",
+                "¡Ngghrhhh! ¿¡Por-que!?"
+            ],
+            "miserable": [
+                "¡¡¡NNNGRHHAGGHHH!!! ¡NNGGHRHHHH!",
+                "¡NNGRHHHHHH! ¡GGRRAAGGHHH!",
+                "¡¡GGHHRAGGHHH!! ¡¡¡ODIIIIAAARRR!!!",
+                "¡¡GGHHRAGGHHH!! ¡¡¡¡DUUNNNE!!!! ¡¡¡ODIIIIAAARRR!!!",
+                "¡¡¡AAARHHGHHHHNNHH!!! ¡GGRAGGHHHHHH!",
+                "¡ENFAAADADOO! ¡GGRHHAANNGHHH!",
+                "¡NNNGRRAGHHHH! ¡¡¡DU-NE.... DES-TRUIR!!!",
+                "¡NNNGRRAGHHHH! ¡ODIIIOOO! ¡¡¡DES-TRUIR!!!",
+                "¡GGHHRAAHHHGNHH! ¡DU-NE ODIAR! ¡¡¡DES-TRUIR!!!"
+            ],
+            "angeronitem": [
+                "¡NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-truir... Ami-go..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*siseo*",
+                "No...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "San-grar...",
+                "Du-ne...san-grar...",
+                "Du-ne...fil-trar...",
+                "Fil-trar...amari-llo...",
+                "Ama-rillo...ma-lo...",
+                "M-al...san-grar...",
+                "M-al...¡du-ne daño..!",
+                "¡Ngghhhrr! ¡Du-ne daño!",
+                "¡Grrhhhh! ¡Du-ne ne-cesi-tar ayuda!",
+                "¡¡Ayu-dar!! ¡Du-ne!",
+                "¡Du-ne nece-sitar arre-glo..!",
+                "Nnnrr... Du-ne ama-rillo...",
+                "Nrr... San-gre...",
+                "NNrrhhrr... ¡¡Du-ne...san-gre...!!"
+            ],
+            "bleedingheavy": [
+                "¡¡San-grar!!",
+                "¡¡Du-ne san-grar!! ¡¡Mu-cho!!",
+                "¡¡Du-ne...filtrar!! ¡¡Ya!!",
+                "¡Flu-ir...amari-llo! ¡¡Du-ne ayu-dar!!",
+                "¡¡Ama-rillo!! ¡¡¡Mal-o!!!",
+                "M-al...san-grar...",
+                "¡Ma-l...du-ne daño..!",
+                "¡Ngghhhrrrnnghhhr!",
+                "¡Grrhhhhnnnghh!",
+                "¡¡Ayu-dar!! ¡Du-ne! ¡¡¡YA!!!",
+                "¡Du-ne nece-si-tar ARRE-GLAR..! ¡¡A-YUDA!!",
+                "¡¡NnnrrrhhNGHHH!! ¡¡DU-NE MUY AMA-RILLO!!",
+                "¡¡¡Nrrgghhh!!! ¡¡¡San-gre!!!",
+                "¡Nrrhhh..! ¡¡Du-ne san-gre!! ¡¡¡Mucha!!!"
+            ],
+            "steponglass": [
+                "Du-ne cris-tal...",
+                "¡¡Qui-tar co-sa daño du-ne!!",
+                "¡¡¡Du-ne da-ño afi-lar!!!"
+            ],
+            "seecorpse": [
+                "¡Comi-da gra-tis?",
+                "¿Hhnnn..?",
+                "Ooo...",
+                "¿Mmm... Gra-tis..?",
+                "¿Mmmmrr... Ami-go..?",
+                "¡¡Hrnn!! ¡Ami-go! Oh....",
+                "¿Mmm... Deli-cioso... Encon-trado..?",
+                "¿Du-ne... Encon-trar ami-go..?",
+                "¿Por que ami-go no mo-ver?",
+                "¡Comida!",
+                "*salivando*",
+                "¡Aaarrh! ¿Ho-la?"
+            ],
+            "seecorpsedesensitized": [
+                "¡¡Mmm!! Ma-s comi-da...",
+                "Ho-la ami-go.",
+                "Cada-ver.",
+                "¿Ami-go dañ-o?",
+                "Ma-s cada-ver.",
+                "Ma-s comida para du-ne.",
+                "¡¡Ho-la!!",
+                "Du-ne ver ma-s cada-ver.",
+                "¡Cuan-ta mori-r!",
+                "¡Much-a comi-da!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne unir ami-go...",
+                "Du-ne celo-so...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "¡Du-ne fri-o! Necesi-tar agua...",
+                "Du-ne fri-o...",
+                "Du-ne no gus-tar fri-o.",
+                "No gus-tar fri-o."
+            ],
+            "warm": [
+                "Du-ne calien-te.",
+                "¡Du-ne calien-te!",
+                "Du-ne necesi-tar enfri-ar.",
+                "Du-ne dema-siado ca-lien-te.",
+                "Calien-te.",
+                "Cal-lien-te..."
+            ],
+            "hot": [
+                "¡Du-ne quemar!",
+                "¡¡Du-ne muy cal-ien-te!!",
+                "Nece-si-tar... Fri-o...",
+                "Demasia-do cali-en-te...",
+                "Nnhggh... ¡Ma..reo!"
+            ],
+            "exerted": [
+                "Nnnghh... A-gotado...",
+                "Du-ne... Des-can-sar...",
+                "*resoplido*",
+                "Nnnrr.. ¡Tra-bajar... Mucho!"
+            ],
+            "exhausted": [
+                "Nhhgh... ¡Des-canso..!",
+                "Gghrhrhh... ¡¡¡Can...sa!!!",
+                "¡Ggrhhh...! Pa-rar...",
+                "Ngghhhhrrrrrrhh...",
+                "*jadeo*"
+            ],
+            "freezing": [
+                "Du-ne... Tan... Fr-io...",
+                "Ngghhhrr... ¡Tan f-rio..!",
+                "Nnhh... N-nnhh... F-rio...",
+                "¡T...Tan... F-rio..! Ngr...",
+                "Con-gelar...",
+                "Du-ne... Con-gelar...",
+                "Nhhhrrr... Du-ne... Dema-sia-do f-rio...",
+                "¡Ggrrrh..! Dema-sia-do f-rio..."
+            ],
+            "emaciated": [
+                "Du-ne... Dema-sia-do fino...",
+                "Fino...",
+                "De..ber. Comer m-as...",
+                "¡¡Du-ne... Fi-no!!",
+                "Dema-siad-o... Fino..."
+            ],
+            "obese": [
+                "¡Du-ne comer mu-y bie-n!",
+                "¡Nhhrr! ¡Du-ne gor-dito!",
+                "¿Du-ne... Gor-do..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "¡Du-ne......gustar..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "¡..!",
+                "¡N...Nhhrr...Du-ne..!",
+                "¡W...Whhhrrnnnnn..!",
+                "¡Mmmnnnrrr...mmmnnnnnn..!",
+                "¡Mmmrrnnnhnnn...woooo...zzz!",
+                "¡Du-ne......gustar..!",
+                "¡Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...tem-blar..",
+                "¡¡Nnhrhhggh...m-al!!",
+                "Du-ne...que-rer ma-s...cosa...",
+                "¡Nghhrr...! ¡Malo..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*hack*",
+                "*hack* *tos*",
+                "¡Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...dol-er...",
+                "Mnnhhhh...",
+                "¡Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...do-lor...<limb>...",
+                "Gggrhhnn...Du-ne...do-lor...",
+                "Gggrhhnn...Du-ne...do-lor...<limb>..."
+            ],
+            "hitgroundhard": [
+                "¡GRRHNH!",
+                "¡GGRACK!",
+                "¡¡NNHHRACK!!",
+                "¡GGHAARCK!",
+                "¡MNNGGHH!",
+                "¡RRHHGGNH!",
+                "¡AAARHCNGCK!",
+                "¡GGHNR!"
+            ],
+            "bigpain": [
+                "¡¡GGGHHRRAAAAHHHHHH!!",
+                "¡NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "¡¡HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "¡GNNGGHHHRRRR!",
+                "¡¡AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "¡NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "¡GGGHHRRRAAAANGGHHHRRR!",
+                "¡¡RRRAANNNGGHHHHHH!!",
+                "¡¡GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "¡¡PPP-AARARRR!! ¡GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "¡¡WWHHHHHEEEEEE!!",
+                "¡RRHHAAAAAAARRHH!",
+                "¡KKRRUUAAAAAAAUU!",
+                "¡RRRAAAUUU!",
+                "¡KKRRUAAEEEE!",
+                "¡GGRRAAAAAA!",
+                "¡FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "¿Oh? ¿Ami-go morder?",
+                "¡Nggrch! ¡¡Co-sa mal-vada!!",
+                "¡GGRRGHHH! ¡¡¡¡DU-NE MA-TAR!!!!",
+                "¡GRRACK! ¡DEJ-AR DU-NE!",
+                "¡GGRHR! ¡MOR-DER VUELTA!",
+                "¡RGHGN! ¡DU-NE VENGANZA!",
+                "¡GACK! ¡MAL-VADO!"
+            ],
+            "dirty": [
+                "Du-ne... ¿Su-cio..?",
+                "Du-ne necesi-tar ba-ño...",
+                "Du-ne sentir olor.",
+                "Sentir sucio.",
+                "Ol-er olor.",
+                "Apes-toso.",
+                "Olor. ¡Malo!",
+                "Dema-sia-do ol-or."
+            ],
+            "encumbered": [
+                "¡¡Du-ne fuerte!!",
+                "Du-ne llevar mu-cho.",
+                "Llevar mu-cho.",
+                "Mucha cosa.",
+                "Du-ne fuerte... ¡dune llevar!",
+                "Du-ne pesado.",
+                "Du-ne peso.",
+                "Pesa-do.",
+                "Peso...",
+                "Nrrr...lle-var mucho.",
+                "Nrrr...du-ne lle-var mucho."
+            ],
+            "watchlike": [
+                "Grrr. ¡Ami-go met-al ra-ro!"
+            ],
+            "drillend": [
+                "Du-ne miedo.",
+                "Mie-doso.",
+                "Rui-do fuer-te...",
+                "¡¡Du-ne lis-to!!"
+            ],
+            "loud": [
+                "¡GGRAAAAACKK! ¿¡QU-E!?",
+                "¡¡¡GRRRRR!!!",
+                "...hoooh.",
+                "¡GRRACK! ¡RUI-DOSO!",
+                "¡AUGRH! ¡¡¡RUI-DO!!!"
+            ],
+            "murderregret": [
+                "¡DU-NE GANAR!",
+                "¡DU-NE GANAR AMI-GO MAL-VADO!",
+                "¡GRRAAACCHH! ¡AAHHAAKAKA!! ¡¡AAAAAUURAHHACGGHRAAAA!! ¡¡DU-NE FUEEEERTEEE!!!!",
+                "¡¡¡DU-NE CAZAR AMI-GO DEBIL!!!",
+                "¡¡DU-NE CA-ZAR COMI-DA!!",
+                "¡GRRHCHH! ¡PRE-SA DEEEBIIIL!"
+            ],
+            "tradeemeet": [
+                "¡¡Du-ne encon-trar!!",
+                "¡¡Ho-la!!",
+                "¡¡Du-ne salu-dar!!",
+                "¿Ho-la?",
+                "¿Mmmrrrrn...ami-go?",
+                "¿Ami-go?",
+                "¡Oooo! ¡¡Ami-go!!",
+                "¿Comi-da?"
+            ],
+            "swingresponse": [
+                "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
+            ],
+            "braindamaged": [
+                "He...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "¿Hay alguien ahí?",
+                "",
+                "y...",
+                "w.",
+                "El.",
+                "mw...qu....e...",
+                "Re.",
+                "Du-ne.",
+                "Me-ta-l...",
+                "¡¡GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...asus-tado...",
+                "¡Du-ne...necesi-tar...ayuda!",
+                "¡Grrhhnnchh!",
+                "¡Grrhhannchh!",
+                "¡¡¡Grrrrr!!!",
+                "¡Nnhhrrhuhhh! ¡¡¡No!!!",
+                "¡¡¡Du-ne!!! ¡¡Ayu-da!!",
+                "P...por-que...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...¿Du-ne....morir...?",
+                "Lu-z....ve-nir...",
+                "Sen-tir...oscu-ro...",
+                "¿es...fin..?",
+                "es.....aca-bado...",
+                "no...lis-to...",
+                "rnhh...du-ne...a-yuda..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "¡Oooorrhhn! ¿Du-ne nuevo so-nido? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......¿de nue-vo?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne gustar desa-fio. ¡Du-ne ir otra ve-z!"
+            ],
+            "endlessloop2": [
+                "¡Oo! ¿Ot-ra vez? ¡Mas lu-gar encon-trar comi-da!"
+            ],
+            "endlessloop3": [
+                "Du-ne domi-nar cue-va."
+            ],
+            "endlessloopdefault": [
+                "¡Nrrrg! ¡Wheee! ¡Du-ne ganar!"
+            ],
             "tradermeetnormal": [
                 "Mmm... Ho-la....",
                 "Bienve-nido... Amig-o...",
