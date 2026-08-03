@@ -1,6 +1,7 @@
 {
     "name": "English",
-    "description": "The official developer-created english locale of the game. You can find community translations in the locale repository (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), though those translations are not quality-checked and might be innacurate or out of date.",
+    "description": "The official developer-created english translation of the game. You can find community translations in the locale repository (See credits menu). Community translations are not quality-checked and might be inaccurate or out of date!",
+    "version": "7.7.9",
     "main": {
         "bandage": "Dressing",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
@@ -19,7 +20,7 @@
         "adhesivebandage": "Adhesive bandages",
         "adhesivebandagedsc": "A pack of small medical dressings, made to treat small injuries. Lowers bleeding.",
         "musharm": "Wrapvine",
-        "musharmdsc": "Inedible plant part, useful as a one-time makeshift bandage. Can be used as foliage for crafing.",
+        "musharmdsc": "Inedible plant part, useful as a one-time makeshift bandage. Can be used as foliage for crafting.",
         "paincream": "Relief cream bottle",
         "paincreamdsc": "A small 100ml bottle used to hold relief cream. Dosage is 10ml.",
         "morphine": "Morphine syringe",
@@ -54,7 +55,7 @@
         "aeddsc": "An electronic device that diagnoses life-threatening cardiac arrhythmias and treats them via electric shocks. Use on the upper torso. Compared to a manual defibrillator, it does not require training, but takes longer to work and uses more power.",
         "manualdefibrillator": "Manual defibrillator",
         "manualdefibrillatordsc": "An electronic device used to stabilize dangerous heart rhythms. Use on the upper torso. This one is manual, and will require some know-how to use correctly. Compared to an AED, it's faster and uses less power, but isn't guaranteed to work. Higher INT makes operation easier.",
-        "antidepressants": "Antidepressants",
+        "antidepressants": "Antidepressant bottle",
         "antidepressantsdsc": "A 140ml pill bottle of antidepressants. Dosage is 20ml.",
         "antibiotics": "Antibiotics bottle",
         "antibioticsdsc": "A 100ml pill bottle of antibiotic pills. Dosage is 20ml.",
@@ -75,7 +76,7 @@
         "bloodsac": "Blood sac",
         "bloodsacdsc": "A small, fleshy sac with blood in it. Doesn't look too different from your blood. Can be eaten or used in crafting.",
         "venomgland": "Venom gland",
-        "venomglanddsc": "A tiny salivary gland that produces and stores hemotoxin. You could probably process it into some kind of anti-venom.",
+        "venomglanddsc": "A tiny salivary gland that produces and stores hemotoxin. You could probably process it into some kind of antivenom.",
         "saline": "IV bag",
         "salinedsc": "A 0.75L bag with a needle at the end, for injecting fluids intravenously.",
         "ringersolution": "Small IV bag",
@@ -175,7 +176,7 @@
         "hardcandy": "Candy",
         "hardcandydsc": "A pack of small, hard candy. Tasty, but not filling.",
         "fleshchunk": "Big flesh chunk",
-        "fleshchunkdsc": "A giant, very fatty chunk of flesh. Must've came from something big. Very filling and fattening.",
+        "fleshchunkdsc": "A giant, very fatty chunk of flesh. Must've come from something big. Very filling and fattening.",
         "candybar": "Candy bar",
         "candybardsc": "A nice, tasty candy bar. Lasts long, but not very filling. Might make you sick if overeaten.",
         "chocolatebar": "Chocolate bar",
@@ -299,7 +300,7 @@
         "mp3player": "MP3 player",
         "mp3playerdsc": "Surprisingly, it still seems to work. It has a small storage drive, with a few music tracks saved on it. You could play either of them for your own amusement.",
         "mushpear": "Numberry",
-        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opiate concentration.",
+        "mushpeardsc": "A part of a hydreed that filters and distributes water. Has an odd weight-absorbing property and an off-putting taste. Lowers body mass when eaten. Seems to have trace opioid concentration.",
         "mushtail": "Naptail",
         "mushtaildsc": "The tail-end of a hydreed. Contains a chemical which can instantly knock someone out for a while, with a visible mood increase afterwards. Odd. No nutritional value.",
         "aquapple": "Aquapple",
@@ -334,6 +335,8 @@
         "blindfolddsc": "A black piece of cloth to cover your eyes with. Offers slight protection, but closes your character's eyes.",
         "balaclava": "Balaclava",
         "balaclavadsc": "A thick, padded piece of cloth to go around your skull. Offers minor protection and decent insulation.",
+        "earmuffs": "Earmuffs",
+        "earmuffsdsc": "A modern pair of cushions connected by a metal head-band. Protects you from loud noises and provides some insulation...somehow. Won't do much against <i>extremely</i> loud sounds.",
         "latexgloves": "Latex gloves",
         "latexglovesdsc": "A pair of simple latex gloves. Offers minor insulation from the elements.",
         "tacticalgloves": "Tactical gloves",
@@ -358,8 +361,8 @@
         "hoodiedsc": "A black, very oversized hoodie that keeps you warm and has a small pocket.",
         "metabolismchip": "Metabolism chip",
         "metabolismchipdsc": "A chip that slightly increases your metabolism, making your limbs regenerate much faster, but using more hunger to do so.",
-        "xalorissponge": "Xaloris sponge",
-        "xalorisspongedsc": "The ripped off, shriveled up spore container of a Xaloris. Can be used on a limb to counteract infection or eaten for nutritional value. Its spores might impact your immune system.",
+        "heatfernsponge": "Heatfern sponge",
+        "heatfernspongedsc": "The ripped off, shriveled up spore container of a heatfern. Can be used on a limb to counteract infection or eaten for nutritional value. Its spores might impact your immune system.",
         "jetpack": "Jetpack",
         "jetpackdsc": "A device worn as a backpack which uses jets to propel the wearer through the air. Has limited fuel and will be impaired while wet. Hold W to use. It also has a little pocket to store things inside.",
         "dynamite": "Dynamite",
@@ -605,9 +608,9 @@
         "snowstriderdsc": "A large, fluffy creature that hunts for food in the cold regions of this cave system. Its thick pelt keeps it warm.",
         "spaceheater": "Ion space heater",
         "spaceheaterdsc": "A device that strongly heats the area around it. Might induce minor radiation sickness if you're too close for too long.",
-        "xaloris": "Xaloris",
-        "xalorisdsc": "A spongy and brambly fern that heats up the air around it to spread spores to its surroundings. Keeps the cold at bay, but breathing in the spores for too long might mess with your immune system.",
-        "lifepodheater": "Life-pod heater",
+        "heatfern": "Heatfern",
+        "heatferndsc": "A spongy and brambly fern that heats up the air around it to spread spores to its surroundings. Keeps the cold at bay, but breathing in the spores for too long might mess with your immune system.",
+        "lifepodheater": "Lifepod heater",
         "lifepodheaterdsc": "Keeps the inside nice and cozy.",
         "tutorialcraftingbutton": "Reset button",
         "tutorialcraftingbuttondsc": "Press this if you messed something up and need to start over.",
@@ -689,7 +692,7 @@
         "landminedsc": "Passively terrifying.",
         "leadbush": "Leadbush",
         "leadbushdsc": "It has pieces of heavy metal growing on it. While it looks like a plant, it's actually an animal!",
-        "lifepodchest": "Life-pod chest",
+        "lifepodchest": "Lifepod chest",
         "lifepodchestdsc": "Likely to contain basic survival gear.",
         "LifePodLight": "Light",
         "LifePodLightdsc": "Has a lightbulb in it - you could probably take it.",
@@ -996,6 +999,7 @@
         "impendingdoom": "Sense of impending doom",
         "horrified": "HORRIFIED",
         "focused": "FOCUSED",
+        "cargo": "<spoiler>",
 
         "braindamage4dsc": "...",
         "braindamage3dsc": "reality  ..  stops   making   sense",
@@ -1040,7 +1044,7 @@
         "withdrawal1dsc": "You really want another shot.",
         "withdrawal2dsc": "Your body is desperate for another hit. You want to vomit... This feels really bad. Treatment recommended.",
         "withdrawal3dsc": "You are struggling to hold yourself together, shaking, desperate for any sort of relief. It feels horrible. Treatment needed.",
-        "withdrawal4dsc": "Your body is failing to sustain itself without the opiates it became so reliant on. Your heart is struggling to pump blood around the body; Watch for fibrillation.",
+        "withdrawal4dsc": "Your body is failing to sustain itself without the opioids it became so reliant on. Your heart is struggling to pump blood around the body; Watch for fibrillation.",
         "stimulateddsc": "Hard stimulant drugs in the bloodstream. You feel ready to tackle anything thrown at you...For now, at least.",
         "drugoverdosedsc": "You have overdosed on a non-opioid drug. Health complications likely.",
         "bleeding1dsc": "Blood is oozing out of a relatively small wound. There is no immediate danger.",
@@ -1105,7 +1109,7 @@
         "cold2dsc": "Unpleasantly cold. Your body is slowing down.",
         "cold3dsc": "Dangerously low temperature, body and mind taken by the cold. Your entire body is slowly shutting down.",
         "cold4dsc": "You feel like you're burning up, but you're so tired and confused. You could go for a long nap...",
-        "wet1dsc": "Your fur feels slightly wet.",
+        "wet1dsc": "Your feel slightly wet.",
         "wet2dsc": "Considerably wet. Temperature and comfort decreased.",
         "wet3dsc": "Dripping wet. Temperature and comfort considerably decreased.",
         "wet4dsc": "Completely drenched! The water is weighing you down. Temperature and comfort highly decreased.",
@@ -1114,9 +1118,9 @@
         "underweight3dsc": "You're dangerously thin and frail. Way weaker than normal, prone to being tired and lethargic. Lowered carrying capacity.",
         "underweight4dsc": "You're excessively skinny. You can easily see and feel your bones through your fur. At high risk of heart failure. Very lowered carrying capacity.",
         "overweight1dsc": "Try to lose a few kilos.",
-        "overweight2dsc": "Unhealthily overweight, though you look about average compared to other species. Clumsier, you get tired quicker.",
+        "overweight2dsc": "Unhealthily overweight. Clumsier, you get tired quicker.",
         "overweight3dsc": "Dangerously wide and soft. Way clumsier and more prone to exhaustion.",
-        "overweight4dsc": "Life-threatenigly obese. It's like you stuffed a bag of fur with pure fat and hunger. At high risk of heart failure.",
+        "overweight4dsc": "Life-threateningly obese. It's like you stuffed a meat bag full with fat and hunger. At high risk of heart failure.",
         "depression1dsc": "Starting to realize the gravity of your situation. Try to distract yourself.",
         "depression2dsc": "Lacking the motivation to go on, struggling with emotions. Things really aren't looking up. Find a way to distract yourself.",
         "depression3dsc": "Barely willing to do anything. Your mind, ravaged by desperation. Maybe it will all be over soon?",
@@ -1156,10 +1160,10 @@
         "tachycardiadsc": "Your heart rate feels abnormally high.",
         "bradycardiadsc": "Your heart rate feels abnormally low.",
         "rnrsdsc": "Neural shock caused by a sudden and rapid regeneration of brain tissue. While you'll adjust after some time, you might not want to take another dose for now. (<>)",
-        "rippedjawdsc": "Your lower jaw has been ripped off due severe trauma to the head. Eating and talking is much harder. You are horribly scarred by the experience.",
+        "rippedjawdsc": "Your lower jaw has been ripped off due to severe trauma to the head. Eating and talking is much harder. You are horribly scarred by the experience.",
         "rippedeyedsc": "One of your eyes has been ripped out, halving your field of view. You are somewhat scarred by the experience. Don't lose the remaining one.",
         "rippedeyesdsc": "Both of your eyes have been ripped out. You can only get by using feel and sound. At least you no longer need a light source...",
-        "lowimmunitydsc": "Your immune system is severely weakened, be it due to dirtyness, hunger, thirst or more. Infections are much more dangerous. Take better care of yourself.",
+        "lowimmunitydsc": "Your immune system is severely weakened, be it due to dirtiness, hunger, thirst or more. Infections are much more dangerous. Take better care of yourself.",
         "highimmunitydsc": "Your immune system is working at high capacity, likely due to antibiotics. Infections are much less dangerous, and might even regress on their own if near 200%.",
         "amputationdsc": "One of your extremities has been dismembered. Traumatizing. Obviously, any use of the lobbed off limb is permanently gone.",
         "clawdamage1dsc": "Your claws are worn down from continuous use, reducing your damage output. Give your hands a break, or use a tool.",
@@ -1168,6 +1172,7 @@
         "impendingdoomdsc": "You can't help but feel sudden, overwhelming fear. Your skin has goosebumps all over. It's as if the nature around you abruptly fell silent...",
         "horrifieddsc": "CAN'T FOCUS. CAN'T THINK. NOTHING ELSE MATTERS. RUN FOR YOUR LIFE OR FIGHT FOR IT!",
         "focuseddsc": "<i>Both of us die today. One, just a little later than the other.",
+        "cargodsc": "<spoiler>"
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1324,10 +1329,10 @@
         "naloxone": "Naloxone",
         "fentanyl": "Fentanyl",
         "ceftriaxone": "Ceftriaxone",
-        "morphinedsc": "Strong opiate for pain relief. Lesser effect when taken orally.",
-        "opiumdsc": "Mild opiate for pain relief. Lesser effect when taken orally.",
-        "heroindsc": "Very strong opiate for pain relief. You know little about it.",
-        "naloxonedsc": "Opioid antagonist, used in treatment of opiate overdose. Quick treatment might save your life during accidental overdose.",
+        "morphinedsc": "Strong opioid for pain relief. Lesser effect when taken orally.",
+        "opiumdsc": "Mild opioid for pain relief. Lesser effect when taken orally.",
+        "heroindsc": "Very strong opioid for pain relief. You know little about it.",
+        "naloxonedsc": "Opioid antagonist, used in treatment of opioid overdose. Quick treatment might save your life during accidental overdose.",
         "fentanyldsc": "Highly potent opioid, 100 times stronger than morphine. Consider diluting it.",
         "ceftriaxonedsc": "Third-generation cephalosporin antibiotic used for the treatment of infections. Increases body immunity for some time, but causes pain.",
         "reliefcream": "Relief cream",
@@ -1343,7 +1348,7 @@
         "lowgradestimulant": "Off-brand stimulant",
         "lowgradestimulantdsc": "Unrefined stimulating hard drug. Dodgy. Gives you a pretty nice kick, but overdose and the subsequent crash is extremely debilitating. Dosage is unknown. Use with caution.",
         "naltrexone": "Naltrexone",
-        "naltrexonedsc": "Pills used to treat general ailments like sickness or opiate abuse. Lowers happiness and may cause vomiting.",
+        "naltrexonedsc": "Pills used to treat general ailments like sickness or opioid abuse. Lowers happiness and may cause vomiting.",
         "painkillers": "Painkillers",
         "painkillersdsc": "Opioid pills used to treat pain. Overdose at 60ml.",
         "disinfectant": "Antiseptic",
@@ -1461,6 +1466,7 @@
         "milkytraderdsc": "A particularly short, fluffy white creature, with a very flat snout and short, white horns protruding from their head. Likely aquatic to some extent, judging by the pair of fins on their back. They seem rather intelligent and mildly arrogant, they'll likely have some kind of weapon on them to offset their unimpressive physical characteristics. They aren't too keen on physical affection, it might take more trust to get a hug from them.",
         "dune": "Dune",
         "dunetraderdsc": "Tall, wide, imposing, with muscle-for-brains. They have odd-looking fins scattered around their body, 6 spikes protruding from the side of their head and a terrifyingly large mouth littered with many big, sharp teeth. It looks like they have gills around their torso. While they're not directly aggressive, they are mostly just driven by hunger, thus they probably won't care too much about whatever trinkets you give them; You'll need to think of a better way to get on their good side.",
+        "dunespecialtraderdsc": "Food.",
         "Shelly": "Shelly",
         "clicktocontinue": "Click to continue...\nESC to skip",
         "favouriteditem": "Favourited items won't be used in crafting",
@@ -1481,7 +1487,12 @@
         "char0quirks": "[CANINE] - Your stomach doesn't play well with theobromine.\n[BIOLUMINESCENT_SIGHT] - In an emergency, you're your own light source.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILY] \"Canine\"\n[CALLOUT_QUOTE] \"I will comply.\"\n[SUCCESS_PREDICTION] \"0.0103%\"\n[NOTES] \"Bit of a snob\"",
-        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better and light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick and gives less nutrition.\n[SCRAWNY] - All STR gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need one.\n[CANINE] - Your stomach doesn't play well with theobromine.",
+        "char1quirks": "<spoiler>",
+        "char2name": "[SAW-12] \"Dune\"",
+        "char2desc": "[FAMILY] \"Insectoid\"\n[CALLOUT_QUOTE] \"Hrrnn... Du-ne time go..?\"\n[SUCCESS_PREDICTION] \"0.001%\"\n[NOTES] \"Eww! It's drooling!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[ACCESS_DENIED]",
+        "characterunlockdsc": "Finish a run with the previous character to unlock",
         "presetnormal": "Normal",
         "presetnormaldsc": "The default experience. Mistakes are punishing. Knowledge and situational awareness are greatly rewarded. Time is of the essence. Your death is all but guaranteed.",
         "presetrelaxed": "Relaxed",
@@ -1493,13 +1504,15 @@
         "presetunchipped": "Unchipped",
         "presetunchippeddsc": "Though the lack of a chip alleviates the artificial time limit the rest are limited by, it also makes diagnosing yourself a difficult endeavor. Maybe it'll be worth it in the end?",
         "presetendless": "Endless",
-        "presetendlessdsc": "There is no escape; This is your death sentence. How far can you make it, with hazards multiplying before you?\n\n[NOTE: Unavailable at this stage, as the game is currently endless either way]",
+        "presetendlessdsc": "There is no escape; This is your death sentence. How far can you make it, with hazards multiplying before you?",
         "runsettings": "Run settings",
         "runsettingsdsc": "Choose a playstyle from the presets below. You can tweak them in the custom settings panel to the right.",
         "customsettings": "Custom settings",
         "customsettingsdsc": "Configure specific run settings",
         "runsetunchipped": "Unchipped",
         "runsetunchippeddsc": "Disables your health panel, forcing you to put more effort into figuring what specific ailments you have. Enables line of sight.",
+        "runsetendless": "Endless",
+        "runsetendlessdsc": "If on, the layers will loop after a certain point, making the run endless until death. You cannot beat the game this way.",
         "runsetbaselootdensity": "Loot density",
         "runsetbaselootdensitydsc": "How much loot appears in every layer. Affects things like drop capsules, lifepods, crates",
         "runsetlootmultiplier": "Distance loot multiplier",
@@ -1515,6 +1528,8 @@
         "runsetstartingsuppliesnone": "Nothing",
         "runsetstartingsupplieslight": "Flashlight",
         "runsetstartingsuppliesfull": "Full kit",
+        "runsetenemystrength": "Enemy strength",
+        "runsetenemystrengthdsc": "Multiplier for how much damage hostile fauna deals",
         "runsetxpgain": "Experience gain",
         "runsetxpgaindsc": "Multiplier for how much skill experience you gain",
         "runsetmetabolismrate": "Metabolism rate",
@@ -1537,6 +1552,8 @@
         "runsetstaminaregendsc": "How fast your stamina regenerates after being used",
         "runsetattackdamage": "Attack damage",
         "runsetattackdamagedsc": "How much damage you do with your swings",
+        "runsetinsulationmultiplier": "Insulation multiplier",
+        "runsetinsulationmultiplierdsc": "How protected you are from the ambient temperature",
         "runsetstrokes": "Enable strokes",
         "runsetstrokesdsc": "Determines if you can get a stroke during hypertensive crisis",
         "runsetbraindamagefx": "Brain damage effects",
@@ -1618,7 +1635,7 @@
         "gamesetframerate": "Max framerate",
         "gamesetframeratedsc": "If above 0, sets how fast the game is allowed to run. A value of 0 means unlimited. Overriden if V-Sync is on",
         "gamesetpixelate": "Pixelated rendering",
-        "gamesetpixelatedsc": "Toggle downscaled of full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
+        "gamesetpixelatedsc": "Toggle downscaled or full resolution rendering. Note that disabling pixelated rendering sacrifices some of the game's intended artstyle.",
         "gamesetdarkerbackground": "Darker backgrounds",
         "gamesetdarkerbackgrounddsc": "Makes the cave background walls darker to improve contrast",
         "gamesetbloom": "Bloom",
@@ -1687,8 +1704,8 @@
         "gamesetbark": "Bark",
         "gamesetconsole": "Toggle debug console",
         "gamesetpause": "Pause",
-        "gamesetmarksmanrack": "(Marksman) Rack slide",
-        "gamesetmarksmanunload": "(Marksman) Eject mag",
+        "gamesetmarksmanrack": "(Marksman only) Rack slide",
+        "gamesetmarksmanunload": "(Marksman only) Eject mag",
         "copy": "Copy to clipboard",
         "paste": "Paste from clipboard",
         "descend": "Descend",
@@ -1818,7 +1835,7 @@
         "cqrippable": "Rippable",
         "cqdisinfectant": "Antiseptic",
         "cqblood": "Blood",
-        "cqopiate": "Opiate",
+        "cqopiate": "Opioid",
         "cqdressing": "Dressing",
         "cqproduce": "Produce",
         "cqmeat": "Meat",
@@ -1857,8 +1874,10 @@
         "basicscourse": "Basic Training",
         "firstaidcourse": "First Aid Course",
         "craftingcourse": "Crafting Course",
+        "movementcourse": "Movement Course",
         "firstaidcourseunlock": "Reach second layer to unlock",
         "craftingcourseunlock": "Reach third layer to unlock",
+        "movementcourseunlock": "Reach third layer to unlock",
         "tutorialspecieslock": "Can only enter with Experiment species",
         "sandbox": "Sandbox",
         "escapecourse": "ALERT: MINOR BREACH",
@@ -1915,7 +1934,7 @@
         "hplimbbleed": "Limb bleeding",
         "hplimbforce": "Limb strength",
         "hplimbforcedsc": "The limb's total ability to move and exert force",
-        "hpopiate": "Opiate amount",
+        "hpopiate": "Opioid amount",
         "hpvenom": "Venom amount",
         "settings": "Settings",
         "credits": "Credits",
@@ -2073,7 +2092,7 @@
         "tutbasic13": "Tastes amazing, doesn't it? You should eat the entire thing now.",
         "tutbasic13fail": "I wanted you to pick it up, not eat it... Gosh, the entire thing? All at once..?",
         "tutbasic14": "You really WERE hungry...",
-        "tutbasic15": "Lets try something else. Here's another thing to play with.",
+        "tutbasic15": "Let's try something else. Here's another thing to play with.",
         "tutbasic16": "You have six main slots to put things in. Two hands, one mouth, three slots on your back.",
         "tutbasic17": "Put this in one of your hands.",
         "tutbasic18": "Certain tools are usable from your \"Main hand\". Put the rake there and try swinging it with [LEFT CLICK].",
@@ -2081,13 +2100,13 @@
         "tutbasic20": "You can also quickly swap whatever's in your hands by pressing [Q]. Try it!",
         "tutbasic21": "Doing things at a range is also a very useful skill. Hold [T] to throw whatever's in your main hand. Aim for the target we just made!",
         "tutbasic22": "Marvelous aim!",
-        "tutbasic23": "Lets get that rake back into your hands now.",
+        "tutbasic23": "Let's get that rake back into your hands now.",
         "tutbasic24": "You can dig through things by swinging at them. This will exhaust you fast, but is useful when done sparingly.",
         "tutbasic25": "Dig over to the other side. Hold [S] to crouch down.",
         "tutbasic26": "Some conditions like pain or exhaustion will take a while to go away. Speed up time [1-3] to make them go by faster.",
         "tutbasic27": "All rested.",
         "tutbasic28": "We will now go over the basics of first aid. Please hold still.",
-        "tutbasic29": "Ouch! Your arm's hurt and bleeding! Lets check it out. Open the health panel with [R] or the heart button.",
+        "tutbasic29": "Ouch! Your arm's hurt and bleeding! Let's check it out. Open the health panel with [R] or the heart button.",
         "tutbasic30": "Hover over the hurt limb to see more info.",
         "tutbasic31": "Decently sized puncture wound. Good news - you're going to fix it!",
         "tutbasic32": "Here's some dressing. Mouse over it while holding [SHIFT]. It says \"Usable in health panel\".",
@@ -2099,7 +2118,7 @@
         "tutbasic38": "Another important medicine! Some antiseptic, read what it does if you wish. Pick it up and open the health panel.",
         "tutbasic39": "Same story as before. Apply the antiseptic to the infected site.",
         "tutbasicfail1": "You... Used the entire thing. In the wrong spot...",
-        "tutbasicfail2": "Lets just... Imagine you did it correctly.",
+        "tutbasicfail2": "Let's just... Imagine you did it correctly.",
         "tutbasic40": "Neat! Do this every few minutes to make the infection disappear. The arrow on the icon shows if it's regressing or progressing.",
         "tutbasic41": "You really don't want to ignore infections; They are lethal if left to progress. Being well fed and in good shape will slow them down.",
         "tutbasic42": "More detailed health info is provided in the First Aid Course. You can do it later if you wish.",
@@ -2108,7 +2127,7 @@
         "tutbasic45": "It's a container, meaning it extends how many things you can have on you. Try dragging another item into it.",
         "tutbasic46": "Wow, it's stored inside! Now [RIGHT CLICK] the bag and pull the item back out.",
         "tutbasic46fail1": "Wh... Why... Why'd you rip it up..?",
-        "tutbasic46fail2": "..'kay. It's fine. Lets move on...",
+        "tutbasic46fail2": "..'kay. It's fine. Let's move on...",
         "tutbasic46fail3": "You are testing my patience. Stop ripping the bags apart. We will skip this segment as you are not cooperating.",
         "tutbasic47": "Well done. Containers are extremely useful to have, keep an eye out for any.",
         "tutbasic48": "Here's something new. See if you can figure out how to put it on.",
@@ -2121,7 +2140,7 @@
         "tutbasic55": "Nice. Halfway there. Make the canvases now.",
         "tutbasic56": "When you have both canvases and the rope on you, make the foliage bag.",
         "tutbasic57": "Well done! You can also switch between recipe categories, or use the search bar. You'll get more info in the Crafting Course.",
-        "tutbasic58": "Lets take a quick look at the health panel again.",
+        "tutbasic58": "Let's take a quick look at the health panel again.",
         "tutbasic59": "Look up in the top right. Those are your skills. In order, Strength, Resilience and Intelligence.",
         "tutbasic60": "Strength is your amount of muscle mass. It mainly improves your attacks and carrying capacity.",
         "tutbasic61": "Resilience is your physical endurance and mental fortitude. It makes you more resistant to pain and tiredness.",
@@ -2144,7 +2163,7 @@
         "tutaid10": "This is your stamina. Physical exertion will lower it.",
         "tutaid11": "This is your respiratory rate. Your oxygen will lower if you don't breathe enough.",
         "tutaid12": "This is your absorbed radiation. Don't ask what that is, just know that more than zero means trouble.",
-        "tutaid13": "This is your heartrate. You'll want to keep this above 0.",
+        "tutaid13": "This is your heart rate. You'll want to keep this above 0.",
         "tutaid14": "This is your blood pressure. Don't let it get too high or too low.",
         "tutaid15": "This is your blood oxygen, also referred to as SpO2.",
         "tutaid16": "This is an ECG. It visualizes your heart rhythm. Get used to it, as you'll stare at it often.",
@@ -2175,7 +2194,7 @@
         "tutaid39": "This means that if arrhythmia just started, you set the power level low. If your heart is seconds from stopping, you set it high.",
         "tutaid40": "You can determine this using the ECG and power estimation visible here. The better you align the power level, the higher chance of it working.",
         "tutaid41": "Try doing that. Set power, charge then shock until your arrhythmia goes away. You'll get it eventually. Try using the ECG and power estimation.",
-        "tutaid42": "Lets say something goes horribly wrong. Wear this, then open the health panel.",
+        "tutaid42": "Let's say something goes horribly wrong. Wear this, then open the health panel.",
         "tutaid43": "Your heart is no longer beating. The only thing keeping you conscious is the autopump you just put on. This is the worst case scenario.",
         "tutaid44": "Defibrillators can fix this, but it'll take a while. There's a better way.",
         "tutaid45": "Epinephrine is a special drug that can restart your heart, found in combat pens. Inject it.",
@@ -2184,7 +2203,7 @@
         "tutaid48": "Blood viscosity is simply how thick or diluted your blood is. Both extremes can cause issues, but extremely thick blood is more dangerous.",
         "tutaid49": "Extremely thick blood can cause a Pulmonary Embolism, which will damage your thorax. Severe damage to the thorax will impair and eventually stop your breathing.",
         "tutaid50": "To break the clot down, use streptokinase.",
-        "tutaid51": "Nicely done, but lets see what happens if your thorax did fail.",
+        "tutaid51": "Nicely done, but let's see what happens if your thorax did fail.",
         "tutaid52": "You must increase your thorax muscle health to breathe again. This bruise kit does just that - use it on your thorax.",
         "tutaid53": "Back in working order. Low respiration will lower your SpO2, which will eventually cause unconsciousness, fibrillation and death.",
         "tutaid54": "One more thing to note about circulation is high blood pressure, or hypertension. It's usually more manageable, but can still be very dangerous.",
@@ -2202,10 +2221,10 @@
         "tutaid66": "Severe pain is one of the most debilitating ailments you can get.",
         "tutaid67": "It immobilizes you, quickly worsens mood and can make you pass out from shock.",
         "tutaid68": "Luckily for you, there's a pretty simple way to treat it.",
-        "tutaid69": "Opiates quickly reduce pain across your entire body when used. Inject the entire thing and see.",
+        "tutaid69": "Opioids quickly reduce pain across your entire body when used. Inject the entire thing and see.",
         "tutaid70": "BOO!",
         "tutaid71": "That went away quickly, right?",
-        "tutaid72": "Be careful with opiates - you can overdose on them easily, or go into withdrawals after. Naloxone and naltrexone can help with opiate abuse.",
+        "tutaid72": "Be careful with opioids - you can overdose on them easily, or go into withdrawals after. Naloxone and naltrexone can help with opiate abuse.",
         "tutaid73": "This concludes the First Aid Course. We could cover more, but we believe you can safely figure out other afflictions. You may return to your assigned room.",
         "tutcraft1": "Welcome to the Crafting Course. Today, we will cover the details of procuring items and show certain common workflows.",
         "tutcraft2": "Almost everything you see is real matter and not trash.",
@@ -2214,10 +2233,10 @@
         "tutcraft5": "We will assume you know the bare basics of crafting. Create a foliage bag using the following materials. Use the reset button if you make a mistake.",
         "tutcraft6": "First steps. Nicely done. Getting a container should always be your first goal.",
         "tutcraft7": "An important thing to note is that you can use items near you on the ground for crafting. Bark at me with [B] once you've fully absorbed this information.",
-        "tutcraft8": "Lets try again with the same resources. Make a full dressing this time. You can drag any item onto the crafting button to see what recipes it can be used in.",
+        "tutcraft8": "Let's try again with the same resources. Make a full dressing this time. You can drag any item onto the crafting button to see what recipes it can be used in.",
         "tutcraft9": "Nicely done. Dressings are very cheap to make and are crucial for your survival. They should be your priority right after getting a container.",
         "tutcraft10": "Important note - you can pin a recipe to have it permanently highlighted in the corner, using the button in the bottom right of the crafting menu. Pin the recipe for a flimsy knife.",
-        "tutcraft11": "Lets add some scrap and wood to the mix. Create a flimsy knife using these resources. You can merge items in the inventory.",
+        "tutcraft11": "Let's add some scrap and wood to the mix. Create a flimsy knife using these resources. You can merge items in the inventory.",
         "tutcraft12": "Nicely done. Something to note is that you can favourite items to prevent them from being used in crafting recipes. You'd do this for stuff like bags, to not rip them up by accident.",
         "tutcraft13": "Press [F] on the flimsy knife you just made to favourite it.",
         "tutcraft14": "Now, try making a sterilized dressing using these items. Remember you can rip certain bags and clothing items via crafting.",
@@ -2228,7 +2247,7 @@
         "tutcraft19": "1 INT higher has a 50% chance of damaging the resulting item. 2 INT, 50% chance of fully wasting material, and at 3 INT, you also damage yourself slightly.",
         "tutcraft20": "You have enough INT to make a machete now. Do that.",
         "tutcraft21": "Clever little fella, aren't you. You can further upgrade your tools with, for example, titanium alloys. Making digging tools is useful too.",
-        "tutcraft22": "Lets move onto food-related crafts. Most of them require a campfire.",
+        "tutcraft22": "Let's move onto food-related crafts. Most of them require a campfire.",
         "tutcraft23": "Boil the groundwater into clean water. You'll need to make a canteen to collect it, and a campfire to boil it.",
         "tutcraft24": "Nicely done.",
         "tutcraft25": "Make some pemmican.",
@@ -2239,9 +2258,11 @@
         "tutclosehealthpanel": "Close the health panel.",
         "tutopenhealthpanel": "Open the health panel.",
         "tutnice": "Nice.",
+        "outdatedwarning": "<size=200%>Hey!<size=100%>\nThe selected language file is outdated. Some text may be broken.\nTry switching to english or finding a newer version.",
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Year 2XXX \n<>\nHumanity's technology has progressed significantly. Things that seemed impossible before were now commonplace.\n<>\nAt the center of it was one company. Their progress seemed miraculous, but they guarded their secrets closely.\n<>\nYears ago they had created a new species: a combination of animal and human DNA they simply called \"Experiments.\"\n<>\nThese experiments were the perfect test subjects, close enough to humans, but theirs to do with as they pleased. They toiled over them, twisting their biology even further to suit their needs, and as the years went by, the population only increased.\n\nNone would ever see the outside.\n<>\nNow it seemed that the Earth could no longer contain their ambitions. With their newly devised teleportation technology, they set their sights on a gray planet teeming with life.\n<>\nSoon enough, tons of miscellaneous cargo and trash was sent.\n<>\nDue to calibration difficulties, just as much ended up in the planet's cave system as on the surface, but the project progressed smoothly. \n<>\nThat was, until an unknown error caused an important piece of technology to be sent deep into the caves instead.\n<>\nSoon enough, the scientists had devised a plan. A plan with little risk to themselves.\n<>\nThe chances of success were low, but their living fodder was plenty.\n<>\nYou are one unfortunate specimen.\nResistance is not an option."
     },
     "character": [
@@ -2730,7 +2751,7 @@
                 "I need to find... water... fast...",
                 "I need water... Now.",
                 "I'm getting dizzy... I need water...",
-                "Im seriously dehydrated.",
+                "I'm seriously dehydrated.",
                 "I've been without water too long.",
                 "Water... fast...",
                 "Need... water...",
@@ -3413,7 +3434,7 @@
                 "I'm gonna freeze...",
                 "The cold... hurts...",
                 "I'm shivering so bad...",
-                "Im getting all numb...",
+                "I'm getting all numb...",
                 "Too... cold...",
                 "Brrr...",
                 "Brrrrrh...",
@@ -4007,6 +4028,21 @@
                 "...Oh. Oh. OH. OH! NO. NO NO NO. WAIT. WHY? WHAT DID I DO!?",
                 "...A-ah... Alright... W-well... G-goodbye, t-then..."
             ],
+            "endlessloop0": [
+                "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
+            ], 
+            "endlessloop1": [
+                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ], 
+            "endlessloop3": [
+                "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+            ],
+            "endlessloopdefault": [
+                "Oh, round and round we go..."
+            ],  
             "vomitresponse": [
                 "Uuuhmm... You good..?"
             ],
@@ -4056,7 +4092,7 @@
                 "I'll take good care of your things!"
             ],
             "dyingresponse": [
-                "Crap... Uh... I never learned how to resusciate others...",
+                "Crap... Uh... I never learned how to resuscitate others...",
                 "I... Uh... I hope you'll be alright..."
             ]
         },
@@ -4186,7 +4222,7 @@
                 "It is approaching..."
             ],
             "vomit": [
-                "Ghh... *cough* ...Lets just move on.",
+                "Ghh... *cough* ...Let's just move on.",
                 "What previously was dinner now lies on the ground beneath.",
                 "Eugh... what a waste of nourishment.",
                 "I can still... taste the vomit..",
@@ -4538,7 +4574,7 @@
                 "The ambient temperature is high."
             ],
             "hot": [
-                "I am very hot.  ...Not like that...",
+                "I am very hot.",
                 "...Hot. Very. Hot.",
                 "I might suffer heatstroke at this rate...",
                 "I am dangerously hyperthermic...",
@@ -4598,7 +4634,7 @@
                 "I am heavy."
             ],
             "opiated": [
-                "I am under the influence of an opiate-based substance.",
+                "I am under the influence of an opioid-based substance.",
                 "Mm...Mmmmmm...Woozy.",
                 "This feels... Well. Good.",
                 "Sufficient...",
@@ -4800,6 +4836,21 @@
                 "Oh, oh, why, what, WHY!? STOP THIS! I DO NOT DESERVE THIS! YOU COATED DIPSHITS!",
                 "Hello, beeping. What could this mean?"
             ],
+            "endlessloop0": [
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+            ],
+            "endlessloop1": [
+                "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+            ],
+            "endlessloop2": [
+                "...What a d-depressing outcome. This mission is doomed to fail."
+            ],
+            "endlessloop3": [
+                "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
+            ],
+            "endlessloopdefault": [
+                "......*sigh*"
+            ],
             "tradermeetnormal": [
                 "Greetings.",
                 "Hello.",
@@ -4971,7 +5022,7 @@
                 "Really? On MY floor?"
             ],
             "vomitbloodresponse": [
-                "...It appears you are bleeding internally. Please direct your mouth away from me for the forseeable future."
+                "...It appears you are bleeding internally. Please direct your mouth away from me for the foreseeable future."
             ],
             "hungryresponse": [
                 "If you imagine me to satiate your hunger without payment, you would be sorely mistaken.",
@@ -4985,7 +5036,7 @@
                 "Please, cease your wailings."
             ],
             "depressedresponse": [
-                "Spiraling into desparity will not solve any of your problems."
+                "Spiraling into despair will not solve any of your problems."
             ],
             "selfharmresponse": [
                 "...You really are ill. Stop this."
@@ -5022,6 +5073,564 @@
             ]
         },
         {
+            "seeGravel": [
+                "Hhrnnn... He-re...",
+                "Nnhh... G-ray...",
+                "Du-ne... Go...",
+                "...Why s-top..?",
+                "Nnnhh... Fo-od place...",
+                "Ar-ri-ve.",
+                "Co-ld..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! Tr-eat!!",
+                "Ngghraahhh! Du-ne li-ke..!",
+                "Hnnn...Hnnnrr...Go-od...",
+                "Fo-od... Li-ke...",
+                "Tas-te... Spe-ci-al... Nhhrr...",
+                "Nrr... Li-ke...",
+                "Wa-nt... Mo-re..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Fo-od...",
+                "Du-ne... Eat... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Eat... Un-til... Nggrrhh... Fu-ll...",
+                "Fo-od...",
+                "Tas-ty...",
+                "Du-ne... Like eat... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Fo-od...",
+                "Nngrr... Mo-re..?",
+                "Wa-n... Du-ne... Gnnhnhrr... Fo-od... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Woh?",
+                "Du-ne... Not... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Bad..."
+            ],
+            "tired": [
+                "Sle-eep... Wa-nt...",
+                "Du-ne... Nap...",
+                "S...Leep.",
+                "Eeee... Eeeeb..!",
+                "Sleeee-p.... Slee-peeee...",
+                "Mnnhhrr... Do-wn..."
+            ],
+            "verytired": [
+                "Ne-ed.... Nap...",
+                "Tiiii... Red...",
+                "Nnnhhh......Do-wn...",
+                "Lie... Do-wn...",
+                "Hhhrrnn... S...Sle-eeeep..."
+            ],
+            "confused": [
+                "He-ad...",
+                "Gghhnn... Ghhrrrr...",
+                "Ww.... Wh-at....",
+                "Not... Kno-ww....",
+                "Con-fused....",
+                "Nnhhhrrr...",
+                "No... Du-ne... Wei-rd..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... Wake...",
+                "Hell-lo...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "A-live...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Be-li... Fight...",
+                "Foo-d... Fight back...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... W-hat...",
+                "Nhgghhrr... Du-ne...... Bad....",
+                "Ghhn... Bad... Eat..?"
+            ],
+            "vomitblood": [
+                "Du-ne... Fe-el baaad....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... W-hat...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... W-hy...",
+                "Nggh...du-ne...no...goo-d..."
+            ],
+            "full": [
+                "Du-ne fu-ll...",
+                "Ea-t much...!",
+                "Wa-it eat...",
+                "Du-ne no mo-re eat...",
+                "Ngghh... Fu-ll...",
+                "E-noff... Gnnh..."
+            ],
+            "hungry": [
+                "Wan-t... Mo-re... Foo-d...",
+                "Du-ne...hungry...",
+                "Bite?",
+                "...Nggh... Wan-t...",
+                "Hun...ger...",
+                "*drooling*",
+                "Whe-re... Eat..?",
+                "Bi-te...",
+                "E-at..?",
+                "Du-ne...e-at..?"
+            ],
+            "starving": [
+                "*drooling heavily*",
+                "Ne-ed... Eat!",
+                "Ngghhhhrrr! Foo-d!!!",
+                "NGHHRRHHH!! Whe-re eat!?",
+                "Nhghhrrr! Du-ne star-ve!!",
+                "NNGRHH!! FOO-D!! DU-NE!!"
+            ],
+            "thirsty": [
+                "S-lurp..?",
+                "Wa-ter...",
+                "Mmm... D-rink..?",
+                "Du-ne... Wa-ter...",
+                "Wan-t... Wa-ter..?",
+                "D-rink..."
+            ],
+            "dehydrated": [
+                "Need... Wa-ter..!",
+                "Ngghh... D-ry...",
+                "Wa-ter...now!!",
+                "Gghrhhh... Wa-ter!!",
+                "Du-ne... P-arch..!",
+                "Du-ne... Wa-ter... NOW!",
+                "Gghhrraaaghh! D-rink! Now..!"
+            ],
+            "limbmuscle": [
+                "<Limb> no mo-ve...",
+                "Du-ne <limb> stop wo-rk..?",
+                "Du-ne nee-d new <limb>.",
+                "<limb> no work...nnngrrhh...",
+                "<limb> is me-an..! Gghhrr!",
+                "Du-ne...<limb> hur-t..!"
+            ],
+            "limbinfected": [
+                "Du-ne <limb> war-m...",
+                "Sick..?",
+                "Nnnrr...<limb> loo-k weird..?",
+                "Du-ne <limb> r-ash..?",
+                "Hhnnn...<limb> fee-l weird..."
+            ],
+            "limbskin": [
+                "<limb> yell-ow..?",
+                "Oooouur! <limb> is ba-d!",
+                "Du-ne hurt...",
+                "Du-ne <limb> hurt...",
+                "Ghhhrr...<limb> no goo-d..."
+            ],
+            "sad": [
+                "Sad.",
+                "Du-ne sad.",
+                "No s-mile...",
+                "Du-ne no s-mile...",
+                "Du-ne fee-l bad.",
+                "No ha-pi...",
+                "Du-ne not ha-pi..."
+            ],
+            "gloomy": [
+                "Foo-d make fee-l better...",
+                "Foo-d make du-ne fee-l better...",
+                "Ve-ry saaad...",
+                "Ve-ry saaad du-ne...",
+                "Grrr..mind bad.",
+                "Grrhhh...du-ne mind bad...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-ne not feel goo-d!",
+                "Not feel goo-d!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! W-hy!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! HAAATEEE!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! HAAATEEE!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "AANNNGRRYY! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... DES-TROY!!!",
+                "NNNGRRAGHHHH! HHAAATEE! DES-TROY!!!",
+                "GGHHRAAHHHGNHH! DU-NE HATE! DES-TROY!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troy... Fri-end..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*hiss*",
+                "No...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "Bl-eed...",
+                "Du-ne...bl-eed...",
+                "Du-ne...leak...",
+                "Leak...yellow...",
+                "Ye-llow...b-ad...",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrr! Du-ne hurt!",
+                "Grrhhhh! Du-ne n-eed help!",
+                "He-lp!! Du-ne!",
+                "Du-ne nee-d fix..!",
+                "Nnnrr... Du-ne ye-llow...",
+                "Nrr... B-lood...",
+                "Nrrhh... Du-ne...b-lood!!"
+            ],
+            "bleedingheavy": [
+                "Bl-eed!!",
+                "Du-ne bl-eed!! Mu-ch!!",
+                "Du-ne...leak!! No-w!!",
+                "F-low...yellow! Du-ne he-lp!!",
+                "Ye-llow!! B-ad!!!",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "He-lp!! Du-ne! N-OW!!!",
+                "Du-ne nee-d FIX..! H-ELP!!",
+                "NnnrrrhhNGHHH!! DU-NE TOO YE-LLOW!!",
+                "Nrrgghhh!!! B-lood!!!",
+                "Nrrhhh..! Du-ne b-lood!! Much!!!"
+            ],
+            "steponglass": [
+                "Du-ne gl-ass...",
+                "Cl-ear t-hing hurt du-ne!!",
+                "Du-ne hu-rt sh-arp!!!"
+            ],
+            "seecorpse": [
+                "Fr-ee foo-d?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... Fr-ee..?",
+                "Mmmmrr... Fri-end..?",
+                "Hrnn!! Fri-end! Oh....",
+                "Mmm... Tas-ty... Fo-und..?",
+                "Du-ne... Fi-nd fri-end..?",
+                "Why fri-end no mo-ve..?",
+                "Food!",
+                "*drooling*",
+                "Aaarrh! Hel-lo?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Mo-re foo-d...",
+                "Hel-lo fri-end.",
+                "Cor-pse.",
+                "Fri-end hur-t?",
+                "Mo-re cor-pse.",
+                "Mo-re food for du-ne.",
+                "Hel-lo!!",
+                "Du-ne see mo-re cor-pse.",
+                "So mu-ch die!",
+                "Lot of foo-d!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne join fri-end...",
+                "Du-ne jealous...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-ne co-ld! Nee-d water...",
+                "Du-ne chi-ll...",
+                "Du-ne no li-ke co-ld.",
+                "Not li-ke co-ld."
+            ],
+            "warm": [
+                "Du-ne wa-rm.",
+                "Du-ne hot!",
+                "Du-ne nee-d cool do-wn.",
+                "Du-ne too wa-rm...",
+                "Wa-rm.",
+                "Hot..."
+            ],
+            "hot": [
+                "Du-ne burn!",
+                "Du-ne too hot!!",
+                "Nee-d... Col-d...",
+                "Too.. Ho-t...",
+                "Nnhggh... Di..zzy!"
+            ],
+            "exerted": [
+                "Nnnghh... S-pent...",
+                "Du-ne... Rest...",
+                "*huff*",
+                "Nnnrr.. Wo-rk... Much!"
+            ],
+            "exhausted": [
+                "Nhhgh... Re-st..!",
+                "Gghrhrhh... Ti...re!!!",
+                "Ggrhhh...! S-top...",
+                "Ngghhhhrrrrrrhh...",
+                "*pant*"
+            ],
+            "freezing": [
+                "Du-ne... So... C-old...",
+                "Ngghhhrr... So c-old..!",
+                "Nnhh... N-nnhh... C-old...",
+                "S...So... C-old..! Ngr...",
+                "Fr-eeze...",
+                "Du-ne... Fr-eeze...",
+                "Nhhhrrr... Du-ne... T-oo c-old...",
+                "Ggrrrh..! T-oo c-old..."
+            ],
+            "emaciated": [
+                "Du-ne... T-oo thin...",
+                "Thin...",
+                "M...ust. Eat m-ore...",
+                "Du-ne... Th-in!!",
+                "T-oo... Thin..."
+            ],
+            "obese": [
+                "Du-ne eat ve-ry goo-d!",
+                "Nhhrr! Du-ne chub!",
+                "Du-ne... Fat..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-ne..!",
+                "W...Whhhrrnnnnn..!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...sh-ake..",
+                "Nnhrhhggh...b-ad!!",
+                "Du-ne...want mo-re...thing...",
+                "Nghhrr...! Bad..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*hack*",
+                "*hack* *cough*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...hur-t...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...pa-in...<limb>...",
+                "Gggrhhnn...Du-ne...pa-in...",
+                "Gggrhhnn...Du-ne...pa-in...<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "SSS-TTTOPPP!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Oh? Fri-end bite?",
+                "Nggrch! E-vil thi-ng!!",
+                "GGRRGHHH! DU-NE KI-LL!!!!",
+                "GRRACK! LE-AVE DU-NE!",
+                "GGRHR! BI-TE BACK!",
+                "RGHGN! DU-NE REVENGE!",
+                "GACK! E-VIL!"
+            ],
+            "dirty": [
+                "Du-ne... Dir-ty..?",
+                "Du-ne need bat-h...",
+                "Du-ne feel smell.",
+                "Feel dirt.",
+                "Sme-ll smell.",
+                "Stin-ky.",
+                "Stink. Bad!",
+                "Too stin-k."
+            ],
+            "encumbered": [
+                "Du-ne strong!!",
+                "Du-ne carry mu-ch.",
+                "Carry mu-ch.",
+                "Lot of thing.",
+                "Du-ne strong...dune carry!",
+                "Du-ne heavy.",
+                "Du-ne wei-ght.",
+                "Hea-vy.",
+                "Weight...",
+                "Nrrr...car-ry lot.",
+                "Nrrr...du-ne car-ry lot."
+            ],
+            "watchlike": [
+                "Grrr. Met-al fri-end wei-rd!"
+            ],
+            "drillend": [
+                "Du-ne scare.",
+                "Sca-ry.",
+                "Lo-ud noi-se...",
+                "Du-ne smar-t!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! WH-AT!?",
+                "GRRRRR!!!",
+                "...hoooh.",
+                "GRRACK! LO-UD!",
+                "AUGRH! NO-ISE!!!"
+            ],
+            "murderregret": [
+                "DU-NE WIN!",
+                "DU-NE BEAT EV-IL FRI-END!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE STRROOOONG!!!!",
+                "DU-NE HUNT WEAK FRI-END!!!",
+                "DU-NE HUN-T FOO-D!!",
+                "GRRHCHH! WEEEAAK PR-EY!"
+            ],
+            "tradeemeet": [
+                "Du-ne find!!",
+                "Hel-lo!!",
+                "Du-ne gree-t!!",
+                "Hel-lo?",
+                "Mmmrrrrn...fri-end?",
+                "Fri-end?",
+                "Oooo! Fri-end!!",
+                "Foo-d?"
+            ],
+            "swingresponse": [
+                "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
+            ],
+            "braindamaged": [
+                "He...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Is anyone out there?",
+                "",
+                "y...",
+                "w.",
+                "The.",
+                "mw...wa....t...",
+                "Re.",
+                "Du-ne.",
+                "Me-ta-l...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...sca-red...",
+                "Du-ne...nee-d...help!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! No!!!",
+                "Du-ne!!! Hel-p!!",
+                "W...wh-y...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-ne....die...?",
+                "Lig-ht....co-me...",
+                "Fee-l...dar-k...",
+                "is...end..?",
+                "is.....over...",
+                "no...re-ady...",
+                "rnhh...du-ne...h-elp..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-ne new sou-nd? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......a-gain?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne like chall-enge. Du-ne go aga-in!"
+            ],
+            "endlessloop2": [
+                "Oo! Aga-in? Mo-re place fin-d foo-d!"
+            ],
+            "endlessloop3": [
+                "Du-ne own ca-ve."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Wheee! Du-ne win!"
+            ],
             "tradermeetnormal": [
                 "Mmm... Hell-o....",
                 "Well-come... Fri-end...",
@@ -5339,7 +5948,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemondade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very sick and my hair started falling out",
+                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemonade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very sick and my hair started falling out",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5705,7 +6314,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "...\n<>...\n<>...\n<>the flying things. i dont know how they did that. holy... oh god. im fine now, but...<>\n\nhow to say this... theres weird sharp flying things. they make really weird loud noises... almost as if theyre laughign at me. they wind up sometimes and charge at me, trying to stab me. they got me once or twice, but... whenever they did that, they got stuck in the ground and i hit it a few times until it... uh... not sure... what happened, but it was gone. i think it came from one of the growths, but it was kind of moving.<>\n\ni got something after it disappeared... maybe its useful? it feels like its growing into something, ill wait and see.",
+                "Item1": "...\n<>...\n<>...\n<>the flying things. i dont know how they did that. holy... oh god. im fine now, but...<>\n\nhow to say this... theres weird sharp flying things. they make really weird loud noises... almost as if theyre laughing at me. they wind up sometimes and charge at me, trying to stab me. they got me once or twice, but... whenever they did that, they got stuck in the ground and i hit it a few times until it... uh... not sure... what happened, but it was gone. i think it came from one of the growths, but it was kind of moving.<>\n\ni got something after it disappeared... maybe its useful? it feels like its growing into something, ill wait and see.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5795,7 +6404,7 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-11-19-18-49-58-4587]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Experiment\n<>\n[CONTENTS]\n\nThe stable biological version of our newest project is ready.\nIt appears that, mentally, there wasn't and will be nothing left of our original human volunteer, not to mention the rest of the subjects.\nDespite that, they seem to be learning fast, and are not retaliating.\n<>\nThe DNA combination caused the Experiment to be considerably smaller in stature than a human person, and lack fat and muscle mass.\nDespite this, it's muscle and bone density is much higher. This will assumbly result in the specimen being resilient to various forms of physical trauma... And give it a hard time swimming.\nIt has three protrusions at the back of its skull, of form similar to ear cartilage. Somehow, it has an ear structure similar to that of an avian - must've been lying around somewhere in the DNA we spliced.\nIt is thinly furred, and has pink-ish yellow-ish flesh, as seen on wounds and on the inside of the mouth.\nIts hands are some kind of combination between a canine's and a homosapiens'. I know one of my co-workers is going to enjoy the paws-\nSomehow, the bioluminescent eyes from our earlier prototypes of this species have stayed. We are yet to determine the exact effects this has on their sight.\n<>\nWe will soon clone this specimen 30 times to conduct destructive testing on the clones. We will leave a few to naturally reproduce, to save on resources.\n\n[END]",
+            "Item1": "[BIOMETRIC REPORT - 25##-11-19-18-49-58-4587]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Experiment\n<>\n[CONTENTS]\n\nThe stable biological version of our newest project is ready.\nIt appears that, mentally, there wasn't and will be nothing left of our original human volunteer, not to mention the rest of the subjects.\nDespite that, they seem to be learning fast, and are not retaliating.\n<>\nThe DNA combination caused the Experiment to be considerably smaller in stature than a human person, and lack fat and muscle mass.\nDespite this, its muscle and bone density is much higher. This will assumably result in the specimen being resilient to various forms of physical trauma... And give it a hard time swimming.\nIt has three protrusions at the back of its skull, of form similar to ear cartilage. Somehow, it has an ear structure similar to that of an avian - must've been lying around somewhere in the DNA we spliced.\nIt is thinly furred, and has pink-ish yellow-ish flesh, as seen on wounds and on the inside of the mouth.\nIts hands are some kind of combination between a canine's and a homosapiens'. I know one of my co-workers is going to enjoy the paws-\nSomehow, the bioluminescent eyes from our earlier prototypes of this species have stayed. We are yet to determine the exact effects this has on their sight.\n<>\nWe will soon clone this specimen 30 times to conduct destructive testing on the clones. We will leave a few to naturally reproduce, to save on resources.\n\n[END]",
             "Item2": ""
         },
         {
@@ -5807,15 +6416,15 @@
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-01-15-29-18-1058]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Meat-Consumption Report\n<>\n[CONTENTS]\n\nReduction of Corporate Waste Objective\n<>\n32 Sawians were recruited randomly among those at our site fro<corrupt:0xFFFFFF> Baseline characteristics were: 25 SAW-01, 4 SAW-05, 3 SAW-12. The subjects were randomly assigned to 8 groups of 4 subjects each. Each group were subject to one choice in three types of conditions: consuming Sawian or Terran meat, consuming raw or as soup, and observing or being ignorant of the source of the meat.\n\nMeat was sourced from the Indicent on [25##-12-30].\n<>\nWhile the SAW-01 and SAW-05 in all groups which consumed the Sawian meat, regardless of whether they observed the source of the meat, displayed extreme negative emotion upon consumption, the SAW-12 did not display the same negative emotions. No Sawians which consumed the terran meat displayed negative emotions, presumably as they did not recognize the meat as their own, although complaints were raised about eating noncooked food. No Sawians which consumed the meat in soup form displayed negative emotions, even if they had observed the source.\n\nThe SAW-12 displayed an aberrant apathy towards consuming raw Sawian meat, as expected. We might be able to repurpose discarded specimens as food for any SAW-12s on site.\n\n[END]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-01-15-29-18-1058]\n<>\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\nENTITY NAME: Meat-Consumption Report\n<>\n[CONTENTS]\n\nReduction of Corporate Waste Objective\n<>\n32 Sawians were recruited randomly among those at our site fro<corrupt:0xFFFFFF> Baseline characteristics were: 25 SAW-01, 4 SAW-05, 3 SAW-12. The subjects were randomly assigned to 8 groups of 4 subjects each. Each group were subject to one choice in three types of conditions: consuming Sawian or Terran meat, consuming raw or as soup, and observing or being ignorant of the source of the meat.\n\nMeat was sourced from the Incident on [25##-12-30].\n<>\nWhile the SAW-01 and SAW-05 in all groups which consumed the Sawian meat, regardless of whether they observed the source of the meat, displayed extreme negative emotion upon consumption, the SAW-12 did not display the same negative emotions. No Sawians which consumed the terran meat displayed negative emotions, presumably as they did not recognize the meat as their own, although complaints were raised about eating noncooked food. No Sawians which consumed the meat in soup form displayed negative emotions, even if they had observed the source.\n\nThe SAW-12 displayed an aberrant apathy towards consuming raw Sawian meat, as expected. We might be able to repurpose discarded specimens as food for any SAW-12s on site.\n\n[END]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparitively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Stiders\".\n\n[PAGE 1 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-08-0002]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-01 \"Experiment\"\nCOUNT: [Undefined]\n- The final prototype of our first giant breakthrough in bioengineering.\nA refined DNA-Spliced combination of one of our testing rats and an employee along with their pet.\nCanine. Small and relatively frail. Cowardly and fearful. Not very useful as anything other than fodder.\n<>\nENTITY NAME: SAW-02 \"Orange\"\nCOUNT: 52082\n- A mutated version of the SAW-01. Large, brutish, dumb and with four arms. Good for dumb labor and any physically strenuous testing where death is inadvised.\n<>\nENTITY NAME: SAW-03 \"Milky\"\nCOUNT: 32184\n- Mutated SAW-01 spliced with unspecified marine DNA. Tiny, arrogant but intelligent. Excellent vision properties. Good for mental labor.\n<>\nENTITY NAME: SAW-04 \"Leapy\"\nCOUNT: 2046\n- Mutated SAW-01 spliced with moss DNA. It took a while to get this one in a somewhat functioning state. Their comparatively quick onset of cancer renders them nigh useless for labor. Also a flight risk.\n<>\nENTITY NAME: SAW-05 \"Chompy\"\nCOUNT: 6084\n- Mutated SAW-03 spliced with \"Shark\" DNA. Carnivorous and aquatic. No fur. Oddly friendly. Good for solving conflicts when violence is undesirable. Their large tail encumbers them heavily, confirming our long standing theories.\n- Sharks were a species of predatory marine fish. They are extinct, but their DNA was kept for scientific purposes.\n<>\nENTITY NAME: SAW-06 \"Roza\"\nCOUNT: 7848\n- Mutated SAW-01 spliced with \"Snow Strider\" DNA. Oddly low body temperature. Volatile and prone to irritation, but docile when not threatened. Encumbering tail. Has conventionally feminine characteristics, likely as a result of the Snow Strider mix interacting with earth DNA.\n- See <corrupt:0xFFF853> for further detail on \"Snow Striders\".\n\n[PAGE 1 OF 2]",
             "Item2": ""
         },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
+            "Item1": "[BIOMETRIC REPORT - 25##-04-08-09-06-19-3953]\n<>\nDATABASE INDEX: Sawian Project Registry\nDATABASE SUBINDEX: Species\n<>\n[CONTENTS]\n\n[FOR ALL ENTITIES IN REGISTRY]\n- ENTITY TYPE OVERRIDE: Template\n- ENTITY CLASS: Biological\n- ENTITY SUBCLASS: Sawian\n<>\nENTITY NAME: SAW-07 \"Voyager\"\nCOUNT: 3604\n- Mutated SAW-01 with spliced feline DNA. Prominent asshole. They hate other species for whatever reason, but hold us in high regard. Highly agile, but they aren't much of a flight risk. They like hiding, much to the detriment of our testing procedures.\n<>\nENTITY NAME: SAW-08 \"Baron\"\nCOUNT: 73\n- Mutated SAW-02 spliced with <corrupt:0xFFDED0> DNA. Towering. About twice the size of a human being. Extremely powerful, yet emotionally stable. While not a flight risk, keeping them under tighter protocol is recommended. Their size makes them hard to both clone and reproduce - avoid killing if possible.\n<>\nENTITY NAME: <corrupt:0xFFFFEA>\nCOUNT: 3067\n- Mutated SAW-03 spliced with insectoid DNA. Hollow bones. Oddly bright pink fur color. Has wing-like appendages and insectoid features. They tend to act like pricks, though seemingly not maliciously. Their look seems to attract the gaze of other sawians.\n<>\nENTITY NAME: SAW-10 \"Crystal\"\nCOUNT: 2360\n- Mutated SAW-06 spliced with lizard DNA. Has hard, crystal-like growths all over it. Long, extremely sticky tongue, durable enough to hold their body weight. They seem to enjoy hanging from ceilings for some reason. Mental testing is yet to be done, but they seem somewhat arrogant. Same feminine features as SAW-06.\n<>\nENTITY NAME: SAW-11 \"Velvet\"\nCOUNT: 158\n- Mutated SAW-06 spliced with arthropod DNA. Looks conventionally spider-like. Very little testing has been done on them, as they usually creep employees out, both via behaviour and physical appearance. Strict protocol is required - an unfortunate janitor is reported to have been seduced into coming in contact with a SAW-11. His half-eaten corpse was found hours later, with visible blood marks around all SAW-11's stored in the same unit.\n<>\nENTITY NAME: SAW-12 \"Dune\"\nCOUNT: 1839\n- Mutated SAW-05 spliced with arthropod DNA. STRICT PROTOCOL IS NECESSARY - Multiple employee and sawian murders have been reported. Only come in contact at a distance and with a lethal weapon. Do not let their appearance deceive you. They have cannibalistic tendencies and nigh-insatiable hunger. Their very poor intelligence only accentuates that fact. A vast majority of their population is planned to be deported to <corrupt:0xFF0011> to ensure continued safety of our employees, as eliminating all of them is not viable.\n<>\nENTITY NAME: SAW-13 \"Shelly\"\nCOUNT: 784\n- Mutated SAW-10 spliced with arthropod DNA. Do not fear their appearance - SAW-10's are generally docile. They lack a mouth and seemingly feed off of the background radiation. They are unable to speak, but seemingly have relatively high intelligence. Employees that know Universal Sign Language are recommended to conduct their testing. Their shell limits their reproduction, but cloning them is still relatively easy. Limit destructive testing if possible.\n<>\n[PAGE 2 OF 2]",
             "Item2": ""
         },
         {
