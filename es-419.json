@@ -1,6 +1,7 @@
 {
     "name": "Español (Latinoamérica)",
-    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), aunque estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas.",
+    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas!",
+    "version": "7.7.9",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de vendas con ligadura, usado para detener el sangrado, estabilizar fracturas y ayudar a sanar la piel. No ayuda a sanar el músculo.",
@@ -175,7 +176,7 @@
         "hardcandy": "Caramelos",
         "hardcandydsc": "Un paquete de caramelos pequeños y duros. Sabrosos, pero poco saciantes.",
         "fleshchunk": "Gran pedazo de carne",
-        "fleshchunkdsc": "Un trozo de carne gigante y muy graso. Debe haber venido de algo grande. Muy saciante y rico en calorías.",
+        "fleshchunkdsc": "Un trozo de carne gigante y muy graso. Debe de haber venido de algo grande. Muy saciante y rico en calorías.",
         "candybar": "Barra de dulce",
         "candybardsc": "Una barrita de dulce sabrosa. Dura bastante, pero no llena mucho. Puedes enfermarte si se come en exceso.",
         "chocolatebar": "Barra de chocolate",
@@ -334,6 +335,8 @@
         "blindfolddsc": "Un trozo de tela negro para cubrirse los ojos. Ofrece una ligera protección a la cabeza, pero cierra los ojos de tu personaje.",
         "balaclava": "Pasamontañas",
         "balaclavadsc": "Un trozo de tela grueso y acolchado que cubre el cráneo. Ofrece protección menor y aislamiento decente.",
+        "earmuffs": "Earmuffs",
+        "earmuffsdsc": "A modern pair of cushions connected by a metal head-band. Protects you from loud noises and provides some insulation...somehow. Won't do much against <i>extremely</i> loud sounds.",
         "latexgloves": "Guantes de látex",
         "latexglovesdsc": "Un par de guantes sencillos de látex. Ofrece un poco de aislamiento ante los elementos.",
         "tacticalgloves": "Guantes tácticos",
@@ -358,8 +361,8 @@
         "hoodiedsc": "Una sudadera negra de gran tamaño que te mantiene abrigado y tiene un pequeño bolsillo.",
         "metabolismchip": "Chip metabólico",
         "metabolismchipdsc": "Un chip que aumenta ligeramente tu metabolismo, haciendo que tus extremidades se regeneren mucho más rápido, pero te da más hambre al hacerlo.",
-        "xalorissponge": "Esponja Xaloris",
-        "xalorisspongedsc": "La parte arrancada de un saco de esporas marchito de un Xaloris. Puede usarse en una extremidad para contrarrestar una infección o ser comido por valor nutricional. Sus esporas pueden afectar tu sistema inmune.",
+        "heatfernsponge": "Esponja Heatfern",
+        "heatfernspongedsc": "La parte arrancada de un saco de esporas marchito de un Heatfern. Puede usarse en una extremidad para contrarrestar una infección o ser comido por valor nutricional. Sus esporas pueden afectar tu sistema inmune.",
         "jetpack": "Mochila propulsora",
         "jetpackdsc": "Un dispositivo que se lleva como mochila y que utiliza cohetes para impulsar al usuario por el aire. Tiene combustible limitado y su rendimiento se disminuye si se encuentra mojado. Mantenga presionado W para usarlo. También tiene un pequeño bolsillo para guardar cosas dentro.",
         "dynamite": "Dinamita",
@@ -605,8 +608,8 @@
         "snowstriderdsc": "Una criatura grande y esponjosa que busca alimento en las regiones frías de esta red de cuevas. Su grueso pelaje la mantiene caliente.",
         "spaceheater": "Calentador de iones",
         "spaceheaterdsc": "Un dispositivo que calienta intensamente el área circundante. Podría provocar una leve enfermedad por radiación si estás demasiado cerca durante mucho tiempo.",
-        "xaloris": "Xaloris",
-        "xalorisdsc": "Un helecho esponjoso y zarzoso que calienta el aire a su alrededor para esparcir esporas. Te protege del frío, pero inhalar las esporas durante demasiado tiempo puede afectar tu sistema inmune.",
+        "heatfern": "Heatfern",
+        "heatferndsc": "Un helecho esponjoso y zarzoso que calienta el aire a su alrededor para esparcir esporas. Te protege del frío, pero inhalar las esporas durante demasiado tiempo puede afectar tu sistema inmune.",
         "lifepodheater": "Calentador de cápsula salvavidas",
         "lifepodheaterdsc": "Mantiene el interior agradable y acogedor.",
         "tutorialcraftingbutton": "Botón de reinicio",
@@ -996,6 +999,7 @@
         "impendingdoom": "Sensación de un desastre inminente",
         "horrified": "HORRORIZADO",
         "focused": "CONCENTRADO",
+        "cargo": "<spoiler>",
 
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  deja   tener   sentido",
@@ -1105,7 +1109,7 @@
         "cold2dsc": "Desagradablemente frío. Tu cuerpo se está desacelerando.",
         "cold3dsc": "Temperatura peligrosamente baja. Cuerpo y mente invadidos por el frío. Todo tu cuerpo se está apagando lentamente.",
         "cold4dsc": "Sientes que te estás quemando, pero también muy cansado y confundido. Podrías dormir por un buen rato...",
-        "wet1dsc": "Tu pelaje se siente ligeramente húmedo.",
+        "wet1dsc": "Te sientes ligeramente húmedo.",
         "wet2dsc": "Considerablemente mojado. La temperatura y la felicidad disminuyeron.",
         "wet3dsc": "Goteando mucho. La temperatura y la felicidad disminuyeron considerablemente.",
         "wet4dsc": "¡Completamente empapado! El agua te pesa. La temperatura y la felicidad han disminuido considerablemente.",
@@ -1114,9 +1118,9 @@
         "underweight3dsc": "Eres peligrosamente delgado y frágil. Mucho más débil de lo normal, propenso a estar cansado y letárgico. Capacidad de carga reducida.",
         "underweight4dsc": "Eres excesivamente flaco. Puedes ver y sentir fácilmente tus huesos a través de tu pelaje. En alto riesgo de insuficiencia cardíaca. Capacidad de carga muy reducida.",
         "overweight1dsc": "Intenta perder algunos kilos.",
-        "overweight2dsc": "Tienes sobrepeso. No es saludable, aunque pareces normal en comparación con otras especies. Eres más torpe y te cansas más rápido.",
+        "overweight2dsc": "Tienes sobrepeso. No es saludable. Eres más torpe y te cansas más rápido.",
         "overweight3dsc": "Peligrosamente ancho y blando. Mucho más torpe y más propenso al agotamiento.",
-        "overweight4dsc": "Obesidad potencialmente mortal. Es como si llenaras una bolsa de piel con pura grasa y comida. En alto riesgo de insuficiencia cardíaca.",
+        "overweight4dsc": "Obesidad potencialmente mortal. Es como si llenaras una bolsa de carne con pura grasa y comida. En alto riesgo de insuficiencia cardíaca.",
         "depression1dsc": "Empezando a darte cuenta de la gravedad de tu situación. Intenta distraerte.",
         "depression2dsc": "Sin motivación para seguir adelante, luchando con las emociones. Las cosas realmente no están mejorando. Encuentra una manera de distraerte.",
         "depression3dsc": "Apenas dispuesto a hacer nada. Tu mente, devastada por la desesperación. ¿Quizás todo terminará pronto?",
@@ -1167,7 +1171,8 @@
         "keratinboosterdsc": "Tus garras se regeneran tres veces más rápido. (<>)",
         "impendingdoomdsc": "Sientes un miedo repentino y abrumador. Tu piel está erizada. Como si la naturaleza a tu alrededor se silenciara de repente...",
         "horrifieddsc": "NO PUEDES CONCENTRARTE. NO PUEDES PENSAR. NADA IMPORTA. ¡ES PELEAR O HUIR!",
-        "focuseddsc": "<i>Ambos moriremos. Solo que uno lo hará primero."
+        "focuseddsc": "<i>Ambos moriremos. Solo que uno lo hará primero.",
+        "cargodsc": "<spoiler>"
     },
     "other": {
         "fullmouthchars": "amaebo",
@@ -1461,6 +1466,7 @@
         "milkytraderdsc": "Una criatura blanca, esponjosa y particularmente baja, con un hocico muy plano con cuernos cortos y blancos que le salen de su cabeza. Probablemente sea acuática en cierta medida, a juzgar por el par de aletas en su espalda. Parece ser bastante inteligente y algo arrogante; probablemente lleve algún tipo de arma para compensar sus características físicas mediocres. No es muy aficionado a las muestras de afecto físico; puede que se necesite más confianza para conseguir un abrazo suyo.",
         "dune": "Dune",
         "dunetraderdsc": "Alto, ancho e imponente, tienen más músculos que cerebro. Tienen aletas de aspecto extraño esparcidas por todo el cuerpo, seis espinas que sobresalen a los lados de su cabeza y una boca terriblemente grande repleta de dientes grandes y afilados. Parece que tienen branquias alrededor del torso. Si bien no son directamente agresivos, se guían principalmente por el hambre, por lo que probablemente no les importen mucho las baratijas que les des; tendrás que pensar en una mejor manera de ganarte su favor.",
+        "dunespecialtraderdsc": "Comida.",
         "Shelly": "Shelly",
         "clicktocontinue": "Clic para continuar...\nESC para omitir",
         "favouriteditem": "Los objetos marcados como favoritos no se usarán para crear objetos",
@@ -1481,7 +1487,12 @@
         "char0quirks": "[CANINO] - Tu estómago no tolera bien la teobromina.\n[VISTA_BIOLUMINISCENTE] - En caso de una emergencia, eres tu propia fuente de luz.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILIA] \"Canino\"\n[MENSAJE_GRABADO] \"Cumpliré con la orden.\"\n[PROBABILIDAD_DE_ÉXITO] \"0.0103%\"\n[NOTAS] \"Algo presumido\"",
-        "char1quirks": "[NARCOLÉPTICO] - Tu ciclo de sueño es mucho más corto, pero no sientes los efectos negativos de dormir en superficies ásperas.\n[ESTATURA] - ¡Eres diminuto!\n[VISIÓN-ADAPTADA] - Ves con más claridad y la iluminación de las fuentes de luz se extienden.\n[SEMI-HERBÍVORO] - Consumir carne te hará enfermar ligeramente y aporta menos nutrición.\n[DELGADO] - Toda la ganancia en FUE se reduce a la mitad.\n[TIRADOR_EXPERTO] - Puedes usar atajos de teclado para manejar armas de fuego.\n[FORTALEZA_MENTAL] - Se necesitará más para quebrarte mentalmente. No eres de los que muestran afecto, a menos que realmente lo necesites.\n[CANINO] - Tu estómago no tolera bien la teobromina.",
+        "char1quirks": "<spoiler>",
+        "char2name": "[SAW-12] \"Dune\"",
+        "char2desc": "[FAMILIA] \"Insectoide\"\n[MENSAJE_GRABADO] \"¿Hrrnn... Du-ne hora de ir...?\"\n[PROBABILIDAD_DE_ÉXITO] \"0.001%\"\n[NOTAS] \"¡Eww! ¡Está babeando!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[ACCESO_DENEGADO]",
+        "characterunlockdsc": "Completa un recorrido con el personaje anterior para desbloquear",
         "presetnormal": "Normal",
         "presetnormaldsc": "La experiencia por defecto. Los errores son castigables. El conocimiento y tu percepción del entorno son altamente recompensados. El tiempo es esencial. Tu muerte es prácticamente garantizada.",
         "presetrelaxed": "Relajado",
@@ -1493,13 +1504,15 @@
         "presetunchipped": "Sin chip",
         "presetunchippeddsc": "Pese a que la falta de un chip te libera del tiempo límite artificial que restringe a los demás. Hará que autodiagnosticarte sea una tarea más complicada. ¿Puede que valga la pena al final?",
         "presetendless": "Infinito",
-        "presetendlessdsc": "No hay escapatoria; Es tu sentencia de muerte. ¿Hasta dónde podrás llegar con los peligros multiplicándose sin parar?\n\n[NOTA: No disponible en esta etapa, ya que el juego es infinito sin importar el modo]",
+        "presetendlessdsc": "No hay escapatoria; Es tu sentencia de muerte. ¿Hasta dónde podrás llegar con los peligros multiplicándose sin parar?",
         "runsettings": "Ajustes de partida",
         "runsettingsdsc": "Elige un modo de partida de los predefinidos a continuación. Puedes modificarlos en el panel de ajustes personalizados a la derecha.",
         "customsettings": "Ajustes personalizados",
         "customsettingsdsc": "Configura los ajustes de partida de manera específica",
         "runsetunchipped": "Sin chip",
         "runsetunchippeddsc": "Desactiva tu panel de salud, obligándote a hacer más esfuerzo en determinar las enfermedades que padeces. Activa la línea de visión.",
+        "runsetendless": "Infinito",
+        "runsetendlessdsc": "If on, the layers will loop after a certain point, making the run endless until death. You cannot beat the game this way.",
         "runsetbaselootdensity": "Densidad de botín",
         "runsetbaselootdensitydsc": "Qué tanto botín aparece en cada capa. Esto afecta a los contenedores como las cápsulas, cápsulas salvavidas o cajas de carga",
         "runsetlootmultiplier": "Multiplicador del botín por distancia",
@@ -1515,6 +1528,8 @@
         "runsetstartingsuppliesnone": "Nada",
         "runsetstartingsupplieslight": "Linterna",
         "runsetstartingsuppliesfull": "Kit completo",
+        "runsetenemystrength": "Fuerza del enemigo",
+        "runsetenemystrengthdsc": "Multiplier for how much damage hostile fauna deals",
         "runsetxpgain": "Ganancia de experiencia",
         "runsetxpgaindsc": "Multiplicador que determina cuánta experiencia en habilidades ganarás",
         "runsetmetabolismrate": "Tasa metabólica",
@@ -1537,6 +1552,8 @@
         "runsetstaminaregendsc": "Qué tan rápido tu resistencia se regenera después de usarla",
         "runsetattackdamage": "Daño de ataque",
         "runsetattackdamagedsc": "Cuánto daño infliges con tus ataques",
+        "runsetinsulationmultiplier": "Multiplicador de aislamiento",
+        "runsetinsulationmultiplierdsc": "How protected you are from the ambient temperature",
         "runsetstrokes": "Permitir derrames cerebrales",
         "runsetstrokesdsc": "Determina si puedes sufrir de derrames cerebrales durante crisis hipertensivas",
         "runsetbraindamagefx": "Efectos del daño cerebral",
@@ -1687,8 +1704,8 @@
         "gamesetbark": "Ladrar",
         "gamesetconsole": "Activar consola de depuración",
         "gamesetpause": "Pausar",
-        "gamesetmarksmanrack": "(Tirador experto) Deslizar corredera",
-        "gamesetmarksmanunload": "(Tirador experto) Expulsar cargador",
+        "gamesetmarksmanrack": "(Solo tirador experto) Deslizar corredera",
+        "gamesetmarksmanunload": "(Solo tirador experto) Expulsar cargador",
         "copy": "Copiar al portapapeles",
         "paste": "Pegar desde el portapapeles",
         "descend": "Descender",
@@ -1721,7 +1738,7 @@
         "itemqualities": "Tiene cualidades ",
         "you": "Tú",
         "damagereduction": "Reducción de daño: ",
-        "bodyinsulation": "Aislamiento corporal: ",
+        "body": "Aislamiento corporal: ",
         "youdescription": "<sprite index=20>Inventario",
         "wet": "Mojado:",
         "missionhurry": "APÚRATE",
@@ -1857,8 +1874,10 @@
         "basicscourse": "Curso Básico",
         "firstaidcourse": "Curso de Primeros Auxilios",
         "craftingcourse": "Curso de Creación de Objetos",
+        "movementcourse": "Curso de Movilidad",
         "firstaidcourseunlock": "Alcanza la segunda capa para desbloquear",
         "craftingcourseunlock": "Alcanza la tercera capa para desbloquear",
+        "movementcourseunlock": "Alcanza la tercera capa para desbloquear",
         "tutorialspecieslock": "Solo puedes entrar con especies Experimento",
         "sandbox": "Modo Libre",
         "escapecourse": "ALERTA: INFRACCIÓN MENOR",
@@ -2239,9 +2258,11 @@
         "tutclosehealthpanel": "Cierra el panel de salud.",
         "tutopenhealthpanel": "Abre el panel de salud.",
         "tutnice": "Bien.",
+        "outdatedwarning": "<size=200%>¡Oye!<size=100%>\nEl archivo de idioma seleccionado está desactualizado. Es posible que algunos textos estén incompletos.\nIntente cambiar el idioma a inglés o buscar una versión más reciente.",
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Año 2XXX \n<>\nLa tecnología humana ha progresado significativamente. Las cosas que antes parecían imposibles ahora se convirtieron en algo cotidiano.\n<>\nEn el centro de todo solo había una corporación. Sus avances parecían milagros, pero tenían sus secretos guardados.\n<>\nAños atrás, la corporación había creado una nueva especie: una combinación de ADN animal y humano al que simplemente llamaron \"Experimentos.\"\n<>\nEstos experimentos eran los sujetos de prueba perfectos al ser tan parecidos a los humanos, y estaban a total disposición de la corporación para hacer lo que ellos quisieran. Trabajaron arduamente en ellos, retorciendo su biología más allá para satisfacer sus necesidades, y mientras pasaban los años, la población no dejaba de crecer.\n\nNinguno ha conocido el mundo exterior.\n<>\nEn ese momento, parecía que la Tierra ya no podía contener sus ambiciones. Con su recién desarrollada tecnología de teletransportación, pusieron la mira en un planeta gris llena de vida.\n<>\nPronto, toneladas de cargamentos diversos y desechos fueron enviados.\n<>\nDebido a problemas presentados en la calibración, muchos de estos cargamentos terminaron tanto en la compleja red de cuevas del planeta, como en su superficie. Aun así, el proyecto avanzó. \n<>\nEso fue así, hasta que un error desconocido provocó que una pieza importante de tecnología fuera enviada a lo más profundo de las cuevas.\n<>\nEventualmente, los científicos habían ideado un plan. Un plan que representaba nulo riesgo para sí mismos.\n<>\nLas probabilidades de que funcionara eran bajas, pero sus recursos biológicos eran abundantes.\n<>\nEres un espécimen desafortunado.\nLa resistencia no es una opción."
     },
     "character": [
@@ -4007,6 +4028,21 @@
                 "...Oh. Oh. OH. ¡OH! NO. NO NO NO. ESPERA. ¿POR QUÉ? ¿¡QUÉ HICE!?",
                 "...A-ah... Bueno... P-pues... A-adiós en-tonces..."
             ],
+            "endlessloop0": [
+                "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
+            ], 
+            "endlessloop1": [
+                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ], 
+            "endlessloop3": [
+                "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+            ],
+            "endlessloopdefault": [
+                "Oh, round and round we go..."
+            ],
             "vomitresponse": [
                 "Uuummm... ¿Estás bien...?"
             ],
@@ -4538,7 +4574,7 @@
                 "La temperatura ambiente es alta."
             ],
             "hot": [
-                "Estoy muy caliente. ...No de esa forma...",
+                "Estoy muy caliente.",
                 "...Caliente. Muy. Caliente.",
                 "Podría sufrir de insolación a este ritmo...",
                 "Estoy peligrosamente hipértermico...",
@@ -4800,6 +4836,21 @@
                 "¡Ah, ah! ¿¡Por qué!? ¿¡Qué!? ¡¿POR QUÉ?! ¡DETENGAN ESTO! ¡NO MEREZCO ESTO! ¡MALDITOS BATAS BLANCAS!",
                 "Hola, pitido. ¿Qué querrá decir esto?"
             ],
+            "endlessloop0": [
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+            ],
+            "endlessloop1": [
+                "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+            ],
+            "endlessloop2": [
+                "...What a d-depressing outcome. This mission is doomed to fail."
+            ],
+            "endlessloop3": [
+                "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
+            ],
+            "endlessloopdefault": [
+                "......*suspiro*"
+            ],
             "tradermeetnormal": [
                 "Saludos.",
                 "Hola.",
@@ -5022,6 +5073,564 @@
             ]
         },
         {
+            "seeGravel": [
+                "Hhrnnn... He-re...",
+                "Nnhh... G-ray...",
+                "Du-ne... Go...",
+                "...Why s-top..?",
+                "Nnnhh... Fo-od place...",
+                "Ar-ri-ve.",
+                "Co-ld..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! Tr-eat!!",
+                "Ngghraahhh! Du-ne li-ke..!",
+                "Hnnn...Hnnnrr...Go-od...",
+                "Fo-od... Li-ke...",
+                "Tas-te... Spe-ci-al... Nhhrr...",
+                "Nrr... Li-ke...",
+                "Wa-nt... Mo-re..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Fo-od...",
+                "Du-ne... Eat... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Eat... Un-til... Nggrrhh... Fu-ll...",
+                "Fo-od...",
+                "Tas-ty...",
+                "Du-ne... Like eat... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Fo-od...",
+                "Nngrr... Mo-re..?",
+                "Wa-n... Du-ne... Gnnhnhrr... Fo-od... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Woh?",
+                "Du-ne... Not... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Bad..."
+            ],
+            "tired": [
+                "Sle-eep... Wa-nt...",
+                "Du-ne... Nap...",
+                "S...Leep.",
+                "Eeee... Eeeeb..!",
+                "Sleeee-p.... Slee-peeee...",
+                "Mnnhhrr... Do-wn..."
+            ],
+            "verytired": [
+                "Ne-ed.... Nap...",
+                "Tiiii... Red...",
+                "Nnnhhh......Do-wn...",
+                "Lie... Do-wn...",
+                "Hhhrrnn... S...Sle-eeeep..."
+            ],
+            "confused": [
+                "He-ad...",
+                "Gghhnn... Ghhrrrr...",
+                "Ww.... Wh-at....",
+                "Not... Kno-ww....",
+                "Con-fused....",
+                "Nnhhhrrr...",
+                "No... Du-ne... Wei-rd..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... Wake...",
+                "Hell-lo...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "A-live...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Be-li... Fight...",
+                "Foo-d... Fight back...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... W-hat...",
+                "Nhgghhrr... Du-ne...... Bad....",
+                "Ghhn... Bad... Eat..?"
+            ],
+            "vomitblood": [
+                "Du-ne... Fe-el baaad....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... W-hat...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... W-hy...",
+                "Nggh...du-ne...no...goo-d..."
+            ],
+            "full": [
+                "Du-ne fu-ll...",
+                "Ea-t much...!",
+                "Wa-it eat...",
+                "Du-ne no mo-re eat...",
+                "Ngghh... Fu-ll...",
+                "E-noff... Gnnh..."
+            ],
+            "hungry": [
+                "Wan-t... Mo-re... Foo-d...",
+                "Du-ne...hungry...",
+                "Bite?",
+                "...Nggh... Wan-t...",
+                "Hun...ger...",
+                "*drooling*",
+                "Whe-re... Eat..?",
+                "Bi-te...",
+                "E-at..?",
+                "Du-ne...e-at..?"
+            ],
+            "starving": [
+                "*drooling heavily*",
+                "Ne-ed... Eat!",
+                "Ngghhhhrrr! Foo-d!!!",
+                "NGHHRRHHH!! Whe-re eat!?",
+                "Nhghhrrr! Du-ne star-ve!!",
+                "NNGRHH!! FOO-D!! DU-NE!!"
+            ],
+            "thirsty": [
+                "S-lurp..?",
+                "Wa-ter...",
+                "Mmm... D-rink..?",
+                "Du-ne... Wa-ter...",
+                "Wan-t... Wa-ter..?",
+                "D-rink..."
+            ],
+            "dehydrated": [
+                "Need... Wa-ter..!",
+                "Ngghh... D-ry...",
+                "Wa-ter...now!!",
+                "Gghrhhh... Wa-ter!!",
+                "Du-ne... P-arch..!",
+                "Du-ne... Wa-ter... NOW!",
+                "Gghhrraaaghh! D-rink! Now..!"
+            ],
+            "limbmuscle": [
+                "<Limb> no mo-ve...",
+                "Du-ne <limb> stop wo-rk..?",
+                "Du-ne nee-d new <limb>.",
+                "<limb> no work...nnngrrhh...",
+                "<limb> is me-an..! Gghhrr!",
+                "Du-ne...<limb> hur-t..!"
+            ],
+            "limbinfected": [
+                "Du-ne <limb> war-m...",
+                "Sick..?",
+                "Nnnrr...<limb> loo-k weird..?",
+                "Du-ne <limb> r-ash..?",
+                "Hhnnn...<limb> fee-l weird..."
+            ],
+            "limbskin": [
+                "<limb> yell-ow..?",
+                "Oooouur! <limb> is ba-d!",
+                "Du-ne hurt...",
+                "Du-ne <limb> hurt...",
+                "Ghhhrr...<limb> no goo-d..."
+            ],
+            "sad": [
+                "Sad.",
+                "Du-ne sad.",
+                "No s-mile...",
+                "Du-ne no s-mile...",
+                "Du-ne fee-l bad.",
+                "No ha-pi...",
+                "Du-ne not ha-pi..."
+            ],
+            "gloomy": [
+                "Foo-d make fee-l better...",
+                "Foo-d make du-ne fee-l better...",
+                "Ve-ry saaad...",
+                "Ve-ry saaad du-ne...",
+                "Grrr..mind bad.",
+                "Grrhhh...du-ne mind bad...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-ne not feel goo-d!",
+                "Not feel goo-d!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! W-hy!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! HAAATEEE!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! HAAATEEE!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "AANNNGRRYY! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... DES-TROY!!!",
+                "NNNGRRAGHHHH! HHAAATEE! DES-TROY!!!",
+                "GGHHRAAHHHGNHH! DU-NE HATE! DES-TROY!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troy... Fri-end..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*hiss*",
+                "No...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "Bl-eed...",
+                "Du-ne...bl-eed...",
+                "Du-ne...leak...",
+                "Leak...yellow...",
+                "Ye-llow...b-ad...",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrr! Du-ne hurt!",
+                "Grrhhhh! Du-ne n-eed help!",
+                "He-lp!! Du-ne!",
+                "Du-ne nee-d fix..!",
+                "Nnnrr... Du-ne ye-llow...",
+                "Nrr... B-lood...",
+                "Nrrhh... Du-ne...b-lood!!"
+            ],
+            "bleedingheavy": [
+                "Bl-eed!!",
+                "Du-ne bl-eed!! Mu-ch!!",
+                "Du-ne...leak!! No-w!!",
+                "F-low...yellow! Du-ne he-lp!!",
+                "Ye-llow!! B-ad!!!",
+                "B-ad...bl-eed...",
+                "B-ad...du-ne hurt..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "He-lp!! Du-ne! N-OW!!!",
+                "Du-ne nee-d FIX..! H-ELP!!",
+                "NnnrrrhhNGHHH!! DU-NE TOO YE-LLOW!!",
+                "Nrrgghhh!!! B-lood!!!",
+                "Nrrhhh..! Du-ne b-lood!! Much!!!"
+            ],
+            "steponglass": [
+                "Du-ne gl-ass...",
+                "Cl-ear t-hing hurt du-ne!!",
+                "Du-ne hu-rt sh-arp!!!"
+            ],
+            "seecorpse": [
+                "Fr-ee foo-d?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... Fr-ee..?",
+                "Mmmmrr... Fri-end..?",
+                "Hrnn!! Fri-end! Oh....",
+                "Mmm... Tas-ty... Fo-und..?",
+                "Du-ne... Fi-nd fri-end..?",
+                "Why fri-end no mo-ve..?",
+                "Food!",
+                "*drooling*",
+                "Aaarrh! Hel-lo?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Mo-re foo-d...",
+                "Hel-lo fri-end.",
+                "Cor-pse.",
+                "Fri-end hur-t?",
+                "Mo-re cor-pse.",
+                "Mo-re food for du-ne.",
+                "Hel-lo!!",
+                "Du-ne see mo-re cor-pse.",
+                "So mu-ch die!",
+                "Lot of foo-d!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne join fri-end...",
+                "Du-ne jealous...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-ne co-ld! Nee-d water...",
+                "Du-ne chi-ll...",
+                "Du-ne no li-ke co-ld.",
+                "Not li-ke co-ld."
+            ],
+            "warm": [
+                "Du-ne wa-rm.",
+                "Du-ne hot!",
+                "Du-ne nee-d cool do-wn.",
+                "Du-ne too wa-rm...",
+                "Wa-rm.",
+                "Hot..."
+            ],
+            "hot": [
+                "Du-ne burn!",
+                "Du-ne too hot!!",
+                "Nee-d... Col-d...",
+                "Too.. Ho-t...",
+                "Nnhggh... Di..zzy!"
+            ],
+            "exerted": [
+                "Nnnghh... S-pent...",
+                "Du-ne... Rest...",
+                "*huff*",
+                "Nnnrr.. Wo-rk... Much!"
+            ],
+            "exhausted": [
+                "Nhhgh... Re-st..!",
+                "Gghrhrhh... Ti...re!!!",
+                "Ggrhhh...! S-top...",
+                "Ngghhhhrrrrrrhh...",
+                "*pant*"
+            ],
+            "freezing": [
+                "Du-ne... So... C-old...",
+                "Ngghhhrr... So c-old..!",
+                "Nnhh... N-nnhh... C-old...",
+                "S...So... C-old..! Ngr...",
+                "Fr-eeze...",
+                "Du-ne... Fr-eeze...",
+                "Nhhhrrr... Du-ne... T-oo c-old...",
+                "Ggrrrh..! T-oo c-old..."
+            ],
+            "emaciated": [
+                "Du-ne... T-oo thin...",
+                "Thin...",
+                "M...ust. Eat m-ore...",
+                "Du-ne... Th-in!!",
+                "T-oo... Thin..."
+            ],
+            "obese": [
+                "Du-ne eat ve-ry goo-d!",
+                "Nhhrr! Du-ne chub!",
+                "Du-ne... Fat..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-ne..!",
+                "W...Whhhrrnnnnn..!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......like..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...sh-ake..",
+                "Nnhrhhggh...b-ad!!",
+                "Du-ne...want mo-re...thing...",
+                "Nghhrr...! Bad..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*hack*",
+                "*hack* *cough*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...hur-t...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...pa-in...<limb>...",
+                "Gggrhhnn...Du-ne...pa-in...",
+                "Gggrhhnn...Du-ne...pa-in...<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "SSS-TTTOPPP!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Oh? Fri-end bite?",
+                "Nggrch! E-vil thi-ng!!",
+                "GGRRGHHH! DU-NE KI-LL!!!!",
+                "GRRACK! LE-AVE DU-NE!",
+                "GGRHR! BI-TE BACK!",
+                "RGHGN! DU-NE REVENGE!",
+                "GACK! E-VIL!"
+            ],
+            "dirty": [
+                "Du-ne... Dir-ty..?",
+                "Du-ne need bat-h...",
+                "Du-ne feel smell.",
+                "Feel dirt.",
+                "Sme-ll smell.",
+                "Stin-ky.",
+                "Stink. Bad!",
+                "Too stin-k."
+            ],
+            "encumbered": [
+                "Du-ne strong!!",
+                "Du-ne carry mu-ch.",
+                "Carry mu-ch.",
+                "Lot of thing.",
+                "Du-ne strong...dune carry!",
+                "Du-ne heavy.",
+                "Du-ne wei-ght.",
+                "Hea-vy.",
+                "Weight...",
+                "Nrrr...car-ry lot.",
+                "Nrrr...du-ne car-ry lot."
+            ],
+            "watchlike": [
+                "Grrr. Met-al fri-end wei-rd!"
+            ],
+            "drillend": [
+                "Du-ne scare.",
+                "Sca-ry.",
+                "Lo-ud noi-se...",
+                "Du-ne smar-t!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! WH-AT!?",
+                "GRRRRR!!!",
+                "...hoooh.",
+                "GRRACK! LO-UD!",
+                "AUGRH! NO-ISE!!!"
+            ],
+            "murderregret": [
+                "DU-NE WIN!",
+                "DU-NE BEAT EV-IL FRI-END!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE STRROOOONG!!!!",
+                "DU-NE HUNT WEAK FRI-END!!!",
+                "DU-NE HUN-T FOO-D!!",
+                "GRRHCHH! WEEEAAK PR-EY!"
+            ],
+            "tradeemeet": [
+                "Du-ne find!!",
+                "Hel-lo!!",
+                "Du-ne gree-t!!",
+                "Hel-lo?",
+                "Mmmrrrrn...fri-end?",
+                "Fri-end?",
+                "Oooo! Fri-end!!",
+                "Foo-d?"
+            ],
+            "swingresponse": [
+                "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
+            ],
+            "braindamaged": [
+                "He...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Is anyone out there?",
+                "",
+                "y...",
+                "w.",
+                "The.",
+                "mw...wa....t...",
+                "Re.",
+                "Du-ne.",
+                "Me-ta-l...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...sca-red...",
+                "Du-ne...nee-d...help!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! No!!!",
+                "Du-ne!!! Hel-p!!",
+                "W...wh-y...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-ne....die...?",
+                "Lig-ht....co-me...",
+                "Fee-l...dar-k...",
+                "is...end..?",
+                "is.....over...",
+                "no...re-ady...",
+                "rnhh...du-ne...h-elp..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-ne new sou-nd? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......a-gain?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne like chall-enge. Du-ne go aga-in!"
+            ],
+            "endlessloop2": [
+                "Oo! Aga-in? Mo-re place fin-d foo-d!"
+            ],
+            "endlessloop3": [
+                "Du-ne own ca-ve."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Wheee! Du-ne win!"
+            ],
             "tradermeetnormal": [
                 "Mmm... Hol-a....",
                 "Bien-venido... Ami-go...",
@@ -5339,7 +5948,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "no confíes siempre en los barriles con líquidos por aquí. tuve en mis manos un gran mini barril y pensaba que tenía limonada, pero un sorbito fue suficiente para darme cuenta de que no lo era. intente quitarme ese mal sabor con otro barril con agua, pero el agua me hizo dar mucho frío y mi pelaje empezó a caerse",
+                "Item1": "no confíes siempre en los barriles con líquidos por aquí. tuve en mis manos un gran mini barril y pensaba que tenía limonada, pero un sorbito fue suficiente para darme cuenta de que no lo era. intente quitarme ese mal sabor con otro barril con agua, pero el agua me hizo enfermar mucho y mi pelaje empezó a caerse",
                 "Item2": "",
                 "Item3": "experiment"
             },
