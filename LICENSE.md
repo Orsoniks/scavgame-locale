@@ -24,7 +24,13 @@ The Translator hereby grants the Organisation, and by extension Orsoniks as crea
 
 Exclusive, worldwide license for the full duration of copyright protection
 
-to use, reproduce, publish, distribute, adapt, and further translate the Translation into other languages, in any format and through any channel (including but not limited to the Organisation's website, GitHub repository, printed materials, and social media), without requiring the Translator's renewed consent each time.
+to use, reproduce, publish, distribute, adapt, and further translate the Translation, past and present versions, into other languages, in any format and through any channel (including but not limited to the Organisation's website, GitHub repository, printed materials, and social media), without requiring the Translator's renewed consent each time.
+
+Exceptions to the exclusive license outlined in this section are:
+
+collaborations and activities of non-commercial nature, mods, and game-related websites such as the wiki. Attribution to the Translators must be made if their work is used, modified, or adjusted in a significant manner.
+
+uploading translations to the Steam Workshop, if applicable, does not constitute a violation of this license. Attribution to the Translators must be made if their work is used, modified, or adjusted in a significant manner.
 
 ## Article 4 — Compensation
 
@@ -34,9 +40,9 @@ The Translator provides this contribution on a voluntary basis and without compe
 
 The Translator retains their moral rights under Belgian law, including the right to be identified as the author of the Translation and the right to object to distortions that would harm their honor or reputation. These rights cannot be transferred.
 
-The Translator agrees not to require or insist upon individual credit or attribution beyond what is provided below. The Organisation will display the Translator by their username in-game, provided their username is found in the language file and their contribution is judged by the Organisation, to be of meaningful value.
+The Translator agrees not to require or insist upon individual credit or attribution beyond what is provided below. The Organisation will display the Translator by their username in-game, provided their username is found in the language file. Updates to the list of usernames in-game are done within reasonable time, as to not burden the development of the game.
 
-The Translator accepts that the Organisation may make reasonable editorial changes (corrections, formatting, terminology consistency) without prior consultation.
+The Translator accepts that the Organisation may make reasonable editorial changes (corrections, formatting, terminology consistency) without prior consultation. Certain collaboration teams can have the option for a final pass after a third party check. This is done on a case by case basis to be agreed upon in writing, outside of this license.
 
 ## Article 6 — Warranty
 
