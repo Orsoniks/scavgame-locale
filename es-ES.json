@@ -1,6 +1,6 @@
 {
     "name": "Español (España)",
-    "description": "El creador oficial creó el juego originalmente en Inglés. Puedes encontrar traducciones de la comunidad (Como esta :D) en el repositorio local (En el menú de créditos), aunque algunas de estas traducciones no tienen una revisión de calidad (Esta si que lo es) y tal vez estén mal traducidas o no estén actualizadas.",
+    "description": "Traducción de la comunidad a Español de España. Puedes encontrar otras traducciones de la comunidad en el repositorio de traducciones (En el menú de créditos). Estas traducciones pueden estar desactualizadas o tener errores. Creada por Maksklv2010, mantenida por Fhursday, WereWhusky y en2que y revisada por JaGarLo",
     "version": "7.7.9",
     "main": {
         "bandage": "Vendaje",
