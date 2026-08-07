@@ -1000,7 +1000,6 @@
         "horrified": "HORRORIZADO",
         "focused": "CONCENTRADO",
         "cargo": "<spoiler>",
-
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  deja   tener   sentido",
         "braindamage2dsc": "Fuerte déficit mental, apenas capaz de pensar inteligentemente y permanecer consciente. Daño cerebral grave presente.",
@@ -1512,7 +1511,7 @@
         "runsetunchipped": "Sin chip",
         "runsetunchippeddsc": "Desactiva tu panel de salud, obligándote a hacer más esfuerzo en determinar las enfermedades que padeces. Activa la línea de visión.",
         "runsetendless": "Infinito",
-        "runsetendlessdsc": "If on, the layers will loop after a certain point, making the run endless until death. You cannot beat the game this way.",
+        "runsetendlessdsc": "Si está activado, las capas se repetirán después de cierto punto, lo que hará que la partida sea infinita hasta que mueras. No puedes completar el juego de esta forma.",
         "runsetbaselootdensity": "Densidad de botín",
         "runsetbaselootdensitydsc": "Qué tanto botín aparece en cada capa. Esto afecta a los contenedores como las cápsulas, cápsulas salvavidas o cajas de carga",
         "runsetlootmultiplier": "Multiplicador del botín por distancia",
@@ -1603,7 +1602,6 @@
         "runsetminigamehandshakedsc": "Qué tanto tiembla tu mano al sufrir dolor en los minijuegos",
         "runsetdebugworld": "Mundo de depuración",
         "runsetdebugworlddsc": "Si está activado, permite hacer el mundo mucho más pequeño para acelerar su generación. No está diseñado para jugar",
-        
         "tutorialwarning": "<size=150%>Antes de continuar...\n\n<size=100%>Aún no has completado el curso de instrucción básica.\n¿Seguro que quieres adentrarte sin preparación alguna?\n\n\n\nTu muerte es prácticamente segura.",
         "tutorialwarningyes": "Completar el curso básico",
         "tutorialwarningno": "¡Sé lo que hago!",
@@ -2436,7 +2434,7 @@
                 "Aparta eso de mí.",
                 "¿¡Por qué tocaría esto!?",
                 "¡No!",
-                "¡Por qué siquiera estoy sujetando esto?",
+                "¿Por qué siquiera estoy sujetando esto?",
                 "Ni en un millón de años.",
                 "¡Nunca! ¡NO!",
                 "¿En qué demonios estoy pensando?",
@@ -2816,7 +2814,7 @@
                 "¿Estoy haciendo las cosas bien?...",
                 "Debo seguir.",
                 "Solo necesito continuar...",
-                "Esto probablemente no sea tan malo..",
+                "Esto probablemente no sea tan malo...",
                 "¿Qué otra cosa podría salir mal?",
                 "Uhm... hmm...",
                 "Ugh. Vamos...",
@@ -3060,7 +3058,7 @@
                 "Buena pinche suerte para cualquiera que venga aquí detrás de mí. Quizás mi cadáver sea de utilidad para alguien. Me harté.",
                 "Esto nunca tuvo ningún puto sentido. Me enviaron aquí para morir.",
                 "Consiguieron lo que tanto querían.",
-                "No pensé que alguna vez iba a hacer esto ... Jaja ... Ajajajaja ... Catártico...",
+                "No pensé que alguna vez iba a hacer esto... Jaja... Ajajajaja... Catártico...",
                 "Me estoy quitando la vida. Lo siento. No puedo. Mierda, no puedo soportarlo más. Lo siento mucho.",
                 "Espero terminar en el infierno. Será mejor que este maldito lugar. No puedo. Estoy fuera. Lo siento. A la mierda todo esto.",
                 "Adiós. Estoy fuera. Los veré a todos en el otro lado, en los abismos del infierno.",
@@ -3219,7 +3217,7 @@
                 "Awww... cosita...",
                 "Tengo miedo de correr la misma suerte...",
                 "¡AH! ¡Eso es un cadáver! Mierda...",
-                "Oh mierda ... Ese es uno de los nuestros ... Ooohhh no...",
+                "Oh mierda... Ese es uno de los nuestros... Ooohhh no...",
                 "Bueno, eso es desmotivador.",
                 "Este... No está respirando..."
             ],
@@ -3304,7 +3302,7 @@
                 "Al menos lograste escapar...",
                 "Encontraste la salida.",
                 "No te culpo.",
-                "¿Hay espacio para mí?",
+                "¿Hay espacio para mí...?",
                 "Sí, a la mierda con este lugar, amigo. Estaré contigo muy pronto.",
                 "Odio este puto mundo.",
                 "Terminaré así muy pronto.",
@@ -3389,7 +3387,7 @@
                 "¿Podemos hacer una pausa...?",
                 "Necesito una pausa...",
                 "Uf... estoy agotado...",
-                "Estoy agotado.",
+                "Estoy agotado...",
                 "Necesito un descanso.",
                 "Debería parar un poco... Me siento todo débil.",
                 "Necesito tomarme un momento de descanso...",
@@ -3453,7 +3451,7 @@
                 "Me congelo..."
             ],
             "emaciated": [
-                "Soy tan delgado ... Me siento débil.",
+                "Soy tan delgado... Me siento débil.",
                 "REALMENTE necesito empacarme algunos kilos.",
                 "Estoy muy fuera de forma.",
                 "Perder peso así me podría dejar muy mal a este punto.",
@@ -3512,7 +3510,7 @@
                 "Sólo para... dejar de pensar en estas cosas...",
                 "Aclarar mi mente... aclarar mi mente...",
                 "No más... sufrimiento...",
-                "Ahhhhhh ... Qué bueno..."
+                "Ahhhhhh... Qué bueno..."
             ],
             "opiatewithdrawal": [
                 "Ne... Necesito drogarme...",
@@ -3538,7 +3536,7 @@
                 "Necesito dejar de usar esta basura...",
                 "Lo único que puedo pensar es en tomar otra dosis...",
                 "Opioides...",
-                "Estoy tan tembloroso y mareado... N-necesito más opioides ...",
+                "Estoy tan tembloroso y mareado... N-necesito más opioides...",
                 "Necesito más... D-drogas..."
             ],
             "cantBreathe": [
@@ -3782,7 +3780,7 @@
                 "Por... ¿Por qué he hecho eso...? M-mierda...",
                 "Gh... Dios... ¿Por qué...?",
                 "E... Eso fue horrible.. Soy un monstruo...",
-                "Nhh... ¿Por qué? ... ¿Por qué? Era uno de los nuestros..."
+                "Nhh... ¿Por qué?... ¿Por qué? Era uno de los nuestros..."
             ],
             "tradeemeet": [
                 "¡Ey!",
@@ -3817,7 +3815,7 @@
             "traderhugsuccess": [
                 "Awww... Gracias.",
                 "Ahhh... Gracias, amigo.",
-                "Mmmh... Aww, gracias!",
+                "Mmmh... Aww, ¡gracias!",
                 "¡Ah! Mmhh... gracias...",
                 "Aw! ¡Eres tan amable!",
                 "...Gracias, Necesitaba eso."
@@ -3853,12 +3851,12 @@
                 "...Ugh. Lo siento."
             ],
             "traderdepressed": [
-                "...Uh... ... ¿Estás bien? Te ves un poco... ¿Infeliz...?",
+                "...Uh... ...¿Estás bien? Te ves un poco... ¿Infeliz...?",
                 "¿...Ni un saludo ni nada...? ¿Por... Por qué me miras de esa forma...?",
                 "¿...? ...Um...  ¿...Hola...? ¿...Estás ahí...?",
                 "...Te ves aterrado. ¿Estás bien? ¿Hola...?",
                 "¡Hey! ¿Cómo estáááááááássss......? No te ves muy bien, amigo... Uhm...",
-                "¡Hey! ... ¿Por qué la cara larga? Uhm..."
+                "¡Hey! ...¿Por qué la cara larga? Uhm..."
             ],
             "tradergiveitem": [
                 "¡Gracias!",
@@ -3935,7 +3933,7 @@
             ],
             "traderseegun": [
                 "¡...Espera un momento! Aleja esa arma, 'mano... En todo caso.",
-                "¡Hey! ¿Qué hay del arma? Quita eso, por favor. ... Está bien.",
+                "¡Hey! ¿Qué hay del arma? Quita eso, por favor... Está bien.",
                 "Espero que no estés usando esa arma, Jaja.",
                 "Ey, no tengo un arma, así que aleja la tuya, amigo."
             ],
@@ -4030,13 +4028,13 @@
             ],
             "endlessloop0": [
                 "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
-            ], 
+            ],
             "endlessloop1": [
                 "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
             ],
             "endlessloop2": [
                 "<spoiler>"
-            ], 
+            ],
             "endlessloop3": [
                 "Well! I'm not getting out of here, am I... I think I'm getting used to this."
             ],
@@ -4534,13 +4532,13 @@
                 "*pone los ojos en blanco*"
             ],
             "seecorpsesuicidal": [
-                "No mires. No mires...", 
-                "Presentas un buen argumento.", 
-                "Ni siquiera lo pienses...", 
-                "Qué suerte...", 
-                "Te envidio.", 
-                "Hh... Jaja...", 
-                "Nhhh... Hmmhh... Amigo...", 
+                "No mires. No mires...",
+                "Presentas un buen argumento.",
+                "Ni siquiera lo pienses...",
+                "Qué suerte...",
+                "Te envidio.",
+                "Hh... Jaja...",
+                "Nhhh... Hmmhh... Amigo...",
                 "T-tonto."
             ],
             "breakcorpse": [
@@ -4579,7 +4577,7 @@
                 "Podría sufrir de insolación a este ritmo...",
                 "Estoy peligrosamente hipértermico...",
                 "Insolación... Inminente.",
-                "Es difícil enfocarme en este calor.",  
+                "Es difícil enfocarme en este calor.",
                 "Peligrosamente caliente...",
                 "El sudor no es suficiente para corregir esto...",
                 "Calor mareante.",
@@ -4645,7 +4643,7 @@
                 "Siento pesadez en mis pulmones."
             ],
             "opiatedsad": [
-                "Una sensación agradable y fugaz.",
+                "Una sensación agradable y fugaz...",
                 "...Finalmente puedo relajarme.",
                 "Me siento ligero...",
                 "Esto está mucho mejor."
@@ -4696,7 +4694,7 @@
                 ".....NGHH....",
                 "...A-Agon-nía...",
                 "N...Nhhh...Ghhh...",
-                "H... Mhhh.... Haa... Ay-ayu-da...!",
+                "H... Mhhh.... Haa... ¡Ay-ayu-da...!",
                 "Grrrh...",
                 "¡¡YA PARA!!",
                 "¡BASTA!",
@@ -4837,16 +4835,16 @@
                 "Hola, pitido. ¿Qué querrá decir esto?"
             ],
             "endlessloop0": [
-                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. No... N-no. Es lo que. Estaba e-esperando. Debí de haber hecho algo mal. Regresaré y lo i-intentaré de nuevo."
             ],
             "endlessloop1": [
-                "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+                "Esto no está saliendo según lo planeado. ¡Maldición! ¿¡Qué demonios querían los batas blancas qué hiciera!? Qué pérdida de tiempo y energía."
             ],
             "endlessloop2": [
-                "...What a d-depressing outcome. This mission is doomed to fail."
+                "...Qué resultado tan d-deprimente. Esta misión esta condenada a fracasar."
             ],
             "endlessloop3": [
-                "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
+                "Esto me supera por completo. Que ejercicio de paciencia. Frustrante. Tan, tan intensamente frustrante. Siempre justo fuera de alcance."
             ],
             "endlessloopdefault": [
                 "......*suspiro*"
@@ -5074,206 +5072,206 @@
         },
         {
             "seeGravel": [
-                "Hhrnnn... He-re...",
-                "Nnhh... G-ray...",
-                "Du-ne... Go...",
-                "...Why s-top..?",
-                "Nnnhh... Fo-od place...",
-                "Ar-ri-ve.",
-                "Co-ld..?"
+                "Hhrnnn... A-quí...",
+                "Nnhh... G-ris...",
+                "Du-ne... Va...",
+                "...¿Por q-qué p-arar...?",
+                "Nnnhh... Lu-gar co-mida...",
+                "Lle-ga-r.",
+                "¿Frí-o...?"
             ],
             "eatGood": [
-                "Nngghhhrr! Tr-eat!!",
-                "Ngghraahhh! Du-ne li-ke..!",
-                "Hnnn...Hnnnrr...Go-od...",
-                "Fo-od... Li-ke...",
-                "Tas-te... Spe-ci-al... Nhhrr...",
-                "Nrr... Li-ke...",
-                "Wa-nt... Mo-re..."
+                "¡Nngghhhrr! ¡¡Gus-to!!",
+                "¡Ngghraahhh! ¡Du-ne gus-tar...!",
+                "Hnnn... Hnnnrr... Bue-no...",
+                "Co-mi-da... gus-ta...",
+                "Sa-be... es-pe-cial... Nhhrr...",
+                "Nrr... gus-ta...",
+                "Que-rer... Má-s..."
             ],
             "eatMediocre": [
-                "Nnnhrrr... Fo-od...",
-                "Du-ne... Eat... Nrrhh...",
-                "Nhhhrr...Mmhhh...",
-                "Eat... Un-til... Nggrrhh... Fu-ll...",
-                "Fo-od...",
-                "Tas-ty...",
-                "Du-ne... Like eat... Ghhr..."
+                "Nnnhrrr... Co-mi-da...",
+                "Du-ne... Come... Nrrhh...",
+                "Nhhhrr... Mmhhh...",
+                "Comer... Has-ta... Nggrrhh... Lle-no...",
+                "Co-mi-da...",
+                "Sa-bro-so...",
+                "Du-ne... gusta comer... Ghhr..."
             ],
             "eatBad": [
-                "Nhhrr... Nhhghhh...!",
-                "Nggrhaahhh... Fo-od...",
-                "Nngrr... Mo-re..?",
-                "Wa-n... Du-ne... Gnnhnhrr... Fo-od... Nhhrr..."
+                "Nhhrr... ¡Nhhghhh...!",
+                "Nggrhaahhh... Co-mi-da...",
+                "Nngrr... ¿Má-s..?",
+                "Que-rer... Du-ne... Gnnhnhrr... Co-mi-da... Nhhrr..."
             ],
             "refuseEat": [
-                "...Woh?",
-                "Du-ne... Not... Grr..",
-                "Gghhrrrr!!",
-                "Ngghhhrraaghh!",
-                "Bad..."
+                "...¿Woh?",
+                "Du-ne... No... Grr...",
+                "¡¡Gghhrrrr!!",
+                "¡Ngghhhrraaghh!",
+                "Mal..."
             ],
             "tired": [
-                "Sle-eep... Wa-nt...",
-                "Du-ne... Nap...",
-                "S...Leep.",
-                "Eeee... Eeeeb..!",
-                "Sleeee-p.... Slee-peeee...",
-                "Mnnhhrr... Do-wn..."
+                "Doo-rmir... Qui-ero...",
+                "Du-ne... siesta...",
+                "Dor... mir.",
+                "Dooo... ¡M-mir..!",
+                "Suuuu-e... Sue-ñoooo...",
+                "Mnnhhrr... recos-tar..."
             ],
             "verytired": [
-                "Ne-ed.... Nap...",
-                "Tiiii... Red...",
-                "Nnnhhh......Do-wn...",
-                "Lie... Do-wn...",
-                "Hhhrrnn... S...Sle-eeeep..."
+                "Nece-si-tar... Siesta...",
+                "Caaaa... nsa...",
+                "Nnnhhh......recos-tar...",
+                "Acos... tar-se...",
+                "Hhhrrnn... D... ooor-miiiir..."
             ],
             "confused": [
-                "He-ad...",
+                "Ca-be-za...",
                 "Gghhnn... Ghhrrrr...",
-                "Ww.... Wh-at....",
-                "Not... Kno-ww....",
-                "Con-fused....",
+                "Qq.... Qu-ee....",
+                "No... Sa-beeer...",
+                "Con-fuso...",
                 "Nnhhhrrr...",
-                "No... Du-ne... Wei-rd..... Ghhr...",
+                "No... Du-ne... Ra-ro... Ghhr...",
                 "Nnnnhhhh..."
             ],
             "wakeup": [
-                "Du-ne... Wake...",
-                "Hell-lo...",
-                "Hhrr..?",
+                "Du-ne... Des-pierto...",
+                "Ho-la...",
+                "¿Hhrr...?",
                 "Mnnnhhh...",
-                "A-live...Ghrr...",
+                "Vi-vo... Ghrr...",
                 "Mmm..."
             ],
             "vomit": [
-                "Be-li... Fight...",
-                "Foo-d... Fight back...",
-                "Nhhgghhrrr... Ghhraghhh!",
-                "Hnnnghh..? Ghhr... W-hat...",
-                "Nhgghhrr... Du-ne...... Bad....",
-                "Ghhn... Bad... Eat..?"
+                "Pan-za... pelea...",
+                "Co-mi-da... se re-siste...",
+                "Nhhgghhrrr... ¡Ghhraghhh!",
+                "¿Hnnnghh...? Ghhr... ¿Q-qué...?",
+                "Nhgghhrr... Du-ne... Mal...",
+                "Ghhn... Mal... ¿Comer...?"
             ],
             "vomitblood": [
-                "Du-ne... Fe-el baaad....",
-                "Guurhhh... Gnnnhh...?",
-                "Nnngghhhrr....?",
-                "Ggyiacckk! Grhrh... W-hat...",
+                "Du-ne... Sen-tir maaal...",
+                "Guurhhh... ¿Gnnnhh...?",
+                "¿Nnngghhhrr....?",
+                "¡Ggyiacckk! Grhrh... ¿Q-qué...?",
                 "...Ngghrhh...",
-                "Grhrhaughh... Ghnnn... W-hy...",
-                "Nggh...du-ne...no...goo-d..."
+                "Grhrhaughh... Ghnnn... ¿Por-qué...?",
+                "Nggh... du-ne... no... bi-en..."
             ],
             "full": [
-                "Du-ne fu-ll...",
-                "Ea-t much...!",
-                "Wa-it eat...",
-                "Du-ne no mo-re eat...",
-                "Ngghh... Fu-ll...",
-                "E-noff... Gnnh..."
+                "Du-ne lle-no...",
+                "¡Co-mer mu-cho...!",
+                "Es-pe-rar comer...",
+                "Du-ne no co-mer más...",
+                "Ngghh... Lle-no...",
+                "Su-ficien... Gnnh..."
             ],
             "hungry": [
-                "Wan-t... Mo-re... Foo-d...",
-                "Du-ne...hungry...",
-                "Bite?",
-                "...Nggh... Wan-t...",
-                "Hun...ger...",
-                "*drooling*",
-                "Whe-re... Eat..?",
-                "Bi-te...",
-                "E-at..?",
-                "Du-ne...e-at..?"
+                "Que-rer... Más... Co-mi-da...",
+                "Du-ne... hambriento...",
+                "¿Boca-do?",
+                "...Nggh... Que-rer...",
+                "Ham... bre...",
+                "*salivando*",
+                "¿Dón-de... comer..?",
+                "Un bo-cado...",
+                "¿Co-mer...?",
+                "Du-ne... ¿co-mer..?"
             ],
             "starving": [
-                "*drooling heavily*",
-                "Ne-ed... Eat!",
-                "Ngghhhhrrr! Foo-d!!!",
-                "NGHHRRHHH!! Whe-re eat!?",
-                "Nhghhrrr! Du-ne star-ve!!",
-                "NNGRHH!! FOO-D!! DU-NE!!"
+                "*salivando profusamente*",
+                "¡Nece-sitar... comer!",
+                "¡Ngghhhhrrr! ¡¡¡Co-mi-da!!!",
+                "¡¡NGHHRRHHH!! ¿¡Dón-de comer!?",
+                "¡Nhghhrrr! ¡¡Du-ne mue-re de ham-bre!!",
+                "¡¡NNGRHH!! ¡¡CO-MIDA!! ¡¡DU-NE!!"
             ],
             "thirsty": [
-                "S-lurp..?",
-                "Wa-ter...",
-                "Mmm... D-rink..?",
-                "Du-ne... Wa-ter...",
-                "Wan-t... Wa-ter..?",
-                "D-rink..."
+                "¿Sorb... bo?",
+                "A-gua...",
+                "Mmm... ¿T-omar..?",
+                "Du-ne... A-gua...",
+                "Que-rer... ¿A-gua..?",
+                "T-omar..."
             ],
             "dehydrated": [
-                "Need... Wa-ter..!",
-                "Ngghh... D-ry...",
-                "Wa-ter...now!!",
-                "Gghrhhh... Wa-ter!!",
-                "Du-ne... P-arch..!",
-                "Du-ne... Wa-ter... NOW!",
-                "Gghhrraaaghh! D-rink! Now..!"
+                "¡Necesito... A-gua...!",
+                "Ngghh... Se-co...",
+                "A-gua... ¡¡Ahora!!",
+                "Gghrhhh... ¡¡A-gua!!",
+                "Du-ne... ¡re-seco...!",
+                "Du-ne... A-gua... ¡AHORA!",
+                "¡Gghhrraaaghh! ¡T-omar! ¡Ya...!"
             ],
             "limbmuscle": [
-                "<Limb> no mo-ve...",
-                "Du-ne <limb> stop wo-rk..?",
-                "Du-ne nee-d new <limb>.",
-                "<limb> no work...nnngrrhh...",
-                "<limb> is me-an..! Gghhrr!",
-                "Du-ne...<limb> hur-t..!"
+                "<limb> no mue-ve...",
+                "¿Du-ne <limb> deja fun-cio-nar...?",
+                "Du-ne nece-sita reempl-azo de <limb>.",
+                "<limb> no funcionar... nnngrrhh...",
+                "¡<limb> es ma-lo...! ¡Gghhrr!",
+                "¡Du-ne... <limb> due-le..!"
             ],
             "limbinfected": [
-                "Du-ne <limb> war-m...",
-                "Sick..?",
-                "Nnnrr...<limb> loo-k weird..?",
-                "Du-ne <limb> r-ash..?",
-                "Hhnnn...<limb> fee-l weird..."
+                "Du-ne <limb> cáli-do...",
+                "¿Enfer-mo...?",
+                "Nnnrr... ¿<limb> s-se ve raro...?",
+                "¿Du-ne sar-pu-llido en <limb>...?",
+                "Hhnnn... <limb> sien-te raro..."
             ],
             "limbskin": [
-                "<limb> yell-ow..?",
-                "Oooouur! <limb> is ba-d!",
-                "Du-ne hurt...",
-                "Du-ne <limb> hurt...",
-                "Ghhhrr...<limb> no goo-d..."
+                "¿<limb> ama-rillo...?",
+                "¡Oooouur! ¡<limb> es ma-lo!",
+                "Du-ne heri-do...",
+                "Du-ne <limb> heri-do...",
+                "Ghhhrr... <limb> no bue-no..."
             ],
             "sad": [
-                "Sad.",
-                "Du-ne sad.",
-                "No s-mile...",
-                "Du-ne no s-mile...",
-                "Du-ne fee-l bad.",
-                "No ha-pi...",
-                "Du-ne not ha-pi..."
+                "Triste.",
+                "Du-ne triste.",
+                "Sin s-son-risa...",
+                "Du-ne no s-sonríe...",
+                "Du-ne sen-tir mal.",
+                "No fe-li...",
+                "Du-ne no fe-li..."
             ],
             "gloomy": [
-                "Foo-d make fee-l better...",
-                "Foo-d make du-ne fee-l better...",
-                "Ve-ry saaad...",
-                "Ve-ry saaad du-ne...",
-                "Grrr..mind bad.",
-                "Grrhhh...du-ne mind bad...",
+                "Co-mi-da hace sen-tir mejor...",
+                "Co-mi-da hace a du-ne sen-tir mejor...",
+                "Mu-uy tristeee...",
+                "Du-ne mu-uy triste...",
+                "Grrr... mente mala.",
+                "Grrhhh... du-ne mente mala...",
                 "Nhhhhrr...",
                 "Nnnngggrhhh... Ghhr...",
                 "Gghhhrr...",
-                "Du-ne not feel goo-d!",
-                "Not feel goo-d!"
+                "¡Du-ne no sentirse bi-en!",
+                "¡No sentir bi-en!"
             ],
             "depressed": [
                 "Woo... Whhhgrr... Nggghhhrrr...",
                 "Ngrrhhhh... Ghhhrr.. Gruughh...",
-                "Ggghhrragghhh!",
-                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
-                "Ngghhruagghhh! Gghhrr...",
-                "Nnhhg... Nggghhh!",
-                "Ngghrhhh! W-hy!?"
+                "¡Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... ¡Nghhrr!",
+                "¡Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... ¡Nggghhh!",
+                "¡Ngghrhhh! ¿¡Por q-qué!?"
             ],
             "miserable": [
-                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
-                "NNGRHHHHHH! GGRRAAGGHHH!",
-                "GGHHRAGGHHH!! HAAATEEE!!!",
-                "GGHHRAGGHHH!! DUUNNNE!!!! HAAATEEE!!!",
-                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
-                "AANNNGRRYY! GGRHHAANNGHHH!",
-                "NNNGRRAGHHHH! DU-NE.... DES-TROY!!!",
-                "NNNGRRAGHHHH! HHAAATEE! DES-TROY!!!",
-                "GGHHRAAHHHGNHH! DU-NE HATE! DES-TROY!!!"
+                "¡¡¡NNNGRHHAGGHHH!!! ¡NNGGHRHHHH!",
+                "¡NNGRHHHHHH! ¡GGRRAAGGHHH!",
+                "¡¡GGHHRAGGHHH!! ¡¡¡ODIIIOOOO!!!",
+                "¡¡GGHHRAGGHHH!! ¡¡¡¡DUUNNNE!!!! ODIIIIARRR!!!",
+                "¡¡¡AAARHHGHHHHNNHH!!! ¡GGRAGGHHHHHH!",
+                "¡ENOOOJOOOO! ¡GGRHHAANNGHHH!",
+                "¡NNNGRRAGHHHH! DU-NE.... ¡¡¡DES-TROZA!!!",
+                "¡NNNGRRAGHHHH! ¡OOODIIOO! ¡¡¡DES-TROZA!!!",
+                "¡GGHHRAAHHHGNHH! ¡DU-NE ODIA! ¡¡¡DES-TROZAR!!!"
             ],
             "angeronitem": [
-                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troy... Fri-end..."
+                "¡NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troza... Ami-go..."
             ],
             "refuse": [
                 "...",
@@ -5289,7 +5287,7 @@
                 "Ngrrhhh",
                 "Grrr...",
                 "Mnnhh...",
-                "*hiss*",
+                "*siseo*",
                 "No...",
                 "Du-ne...",
                 "Nnnnrrr...",
