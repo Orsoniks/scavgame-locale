@@ -1000,6 +1000,7 @@
         "horrified": "HORRORIZADO",
         "focused": "CONCENTRADO",
         "cargo": "<spoiler>",
+        
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  deja   tener   sentido",
         "braindamage2dsc": "Fuerte déficit mental, apenas capaz de pensar inteligentemente y permanecer consciente. Daño cerebral grave presente.",
@@ -1602,6 +1603,7 @@
         "runsetminigamehandshakedsc": "Qué tanto tiembla tu mano al sufrir dolor en los minijuegos",
         "runsetdebugworld": "Mundo de depuración",
         "runsetdebugworlddsc": "Si está activado, permite hacer el mundo mucho más pequeño para acelerar su generación. No está diseñado para jugar",
+        
         "tutorialwarning": "<size=150%>Antes de continuar...\n\n<size=100%>Aún no has completado el curso de instrucción básica.\n¿Seguro que quieres adentrarte sin preparación alguna?\n\n\n\nTu muerte es prácticamente segura.",
         "tutorialwarningyes": "Completar el curso básico",
         "tutorialwarningno": "¡Sé lo que hago!",
@@ -4844,7 +4846,7 @@
                 "...Qué resultado tan d-deprimente. Esta misión esta condenada a fracasar."
             ],
             "endlessloop3": [
-                "Esto me supera por completo. Que ejercicio de paciencia. Frustrante. Tan, tan intensamente frustrante. Siempre justo fuera de alcance."
+                "Esto me supera por completo. Qué ejercicio de paciencia. Frustrante. Tan, tan intensamente frustrante. Siempre por fuera del alcance."
             ],
             "endlessloopdefault": [
                 "......*suspiro*"
