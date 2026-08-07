@@ -335,8 +335,8 @@
         "blindfolddsc": "Un trozo de tela negro para cubrirse los ojos. Ofrece una ligera protección a la cabeza, pero cierra los ojos de tu personaje.",
         "balaclava": "Pasamontañas",
         "balaclavadsc": "Un trozo de tela grueso y acolchado que cubre el cráneo. Ofrece protección menor y aislamiento decente.",
-        "earmuffs": "Earmuffs",
-        "earmuffsdsc": "A modern pair of cushions connected by a metal head-band. Protects you from loud noises and provides some insulation...somehow. Won't do much against <i>extremely</i> loud sounds.",
+        "earmuffs": "Orejeras",
+        "earmuffsdsc": "Un par de cojines modernos conectados por una diadema metálica. Te protege de los ruidos fuertes y ofrece algo de aislamiento...por algún motivo. No tendrá la misma efectividad contra sonidos <i>extremadamente</i> fuertes.",
         "latexgloves": "Guantes de látex",
         "latexglovesdsc": "Un par de guantes sencillos de látex. Ofrece un poco de aislamiento ante los elementos.",
         "tacticalgloves": "Guantes tácticos",
@@ -361,8 +361,8 @@
         "hoodiedsc": "Una sudadera negra de gran tamaño que te mantiene abrigado y tiene un pequeño bolsillo.",
         "metabolismchip": "Chip metabólico",
         "metabolismchipdsc": "Un chip que aumenta ligeramente tu metabolismo, haciendo que tus extremidades se regeneren mucho más rápido, pero te da más hambre al hacerlo.",
-        "heatfernsponge": "Esponja Heatfern",
-        "heatfernspongedsc": "La parte arrancada de un saco de esporas marchito de un Heatfern. Puede usarse en una extremidad para contrarrestar una infección o ser comido por valor nutricional. Sus esporas pueden afectar tu sistema inmune.",
+        "heatfernsponge": "Esponja de calilecho",
+        "heatfernspongedsc": "La parte arrancada de un saco de esporas marchito de un Calilecho. Puede usarse en una extremidad para contrarrestar una infección o ser comido por valor nutricional. Sus esporas pueden afectar tu sistema inmune.",
         "jetpack": "Mochila propulsora",
         "jetpackdsc": "Un dispositivo que se lleva como mochila y que utiliza cohetes para impulsar al usuario por el aire. Tiene combustible limitado y su rendimiento se disminuye si se encuentra mojado. Mantenga presionado W para usarlo. También tiene un pequeño bolsillo para guardar cosas dentro.",
         "dynamite": "Dinamita",
@@ -608,7 +608,7 @@
         "snowstriderdsc": "Una criatura grande y esponjosa que busca alimento en las regiones frías de esta red de cuevas. Su grueso pelaje la mantiene caliente.",
         "spaceheater": "Calentador de iones",
         "spaceheaterdsc": "Un dispositivo que calienta intensamente el área circundante. Podría provocar una leve enfermedad por radiación si estás demasiado cerca durante mucho tiempo.",
-        "heatfern": "Heatfern",
+        "heatfern": "Calilecho",
         "heatferndsc": "Un helecho esponjoso y zarzoso que calienta el aire a su alrededor para esparcir esporas. Te protege del frío, pero inhalar las esporas durante demasiado tiempo puede afectar tu sistema inmune.",
         "lifepodheater": "Calentador de cápsula salvavidas",
         "lifepodheaterdsc": "Mantiene el interior agradable y acogedor.",
@@ -1529,11 +1529,11 @@
         "runsetstartingsupplieslight": "Linterna",
         "runsetstartingsuppliesfull": "Kit completo",
         "runsetenemystrength": "Fuerza del enemigo",
-        "runsetenemystrengthdsc": "Multiplier for how much damage hostile fauna deals",
+        "runsetenemystrengthdsc": "Multiplicador de la cantidad de daño que inflige la fauna hostil",
         "runsetxpgain": "Ganancia de experiencia",
         "runsetxpgaindsc": "Multiplicador que determina cuánta experiencia en habilidades ganarás",
         "runsetmetabolismrate": "Tasa metabólica",
-        "runsetmetabolismratedsc": "Qué tan rápido se drena tu medidor de hambre/sed/náuseas/peso.",
+        "runsetmetabolismratedsc": "Qué tan rápido se drena tu medidor de hambre/sed/náuseas/peso",
         "runsethealingrate": "Tasa de curación",
         "runsethealingratedsc": "Qué tan rápido sanan tus heridas. Afecta la regeneración del músculo y cutáneo, coagulación sanguínea, regeneración sanguínea, fracturas, dislocaciones y daño cerebral",
         "runsetfracturepain": "Tasa del dolor por fracturas",
@@ -1553,7 +1553,7 @@
         "runsetattackdamage": "Daño de ataque",
         "runsetattackdamagedsc": "Cuánto daño infliges con tus ataques",
         "runsetinsulationmultiplier": "Multiplicador de aislamiento",
-        "runsetinsulationmultiplierdsc": "How protected you are from the ambient temperature",
+        "runsetinsulationmultiplierdsc": "Qué tan protegido estás de la temperatura ambiental",
         "runsetstrokes": "Permitir derrames cerebrales",
         "runsetstrokesdsc": "Determina si puedes sufrir de derrames cerebrales durante crisis hipertensivas",
         "runsetbraindamagefx": "Efectos del daño cerebral",
@@ -4029,19 +4029,19 @@
                 "...A-ah... Bueno... P-pues... A-adiós en-tonces..."
             ],
             "endlessloop0": [
-                "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
+                "¿...Quu-ué...qué...? ¿Qué? ¿Por qué? ¿Qué pasó...? ¿Por qué estoy otra vez aquí..? Hnn... ¿Qué acaba de pasar...?"
             ],
             "endlessloop1": [
-                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+                "...Esto no está yendo como esperaba...No sé qué más podría hacer... Pues. Ugh. Me imagino que a la tercera es la vencida..."
             ],
             "endlessloop2": [
                 "<spoiler>"
             ],
             "endlessloop3": [
-                "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+                "¡Bueno! No voy a poder salir de aquí, ¿verdad?... Creo que ya me estoy acostumbrando."
             ],
             "endlessloopdefault": [
-                "Oh, round and round we go..."
+                "Oh, solo damos vueltas y vueltas..."
             ],
             "vomitresponse": [
                 "Uuummm... ¿Estás bien...?"
