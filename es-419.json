@@ -3221,7 +3221,7 @@
                 "¡AH! ¡Eso es un cadáver! Mierda...",
                 "Oh mierda ... Ese es uno de los nuestros ... Ooohhh no...",
                 "Bueno, eso es desmotivador.",
-                "Éste... No está respirando..."
+                "Este... No está respirando..."
             ],
             "seecorpsedesensitized": [
                 "Y otro más...",
@@ -5296,199 +5296,199 @@
                 "Nnhghh..."
             ],
             "bleeding": [
-                "Bl-eed...",
-                "Du-ne...bl-eed...",
-                "Du-ne...leak...",
-                "Leak...yellow...",
-                "Ye-llow...b-ad...",
-                "B-ad...bl-eed...",
-                "B-ad...du-ne hurt..!",
-                "Ngghhhrr! Du-ne hurt!",
-                "Grrhhhh! Du-ne n-eed help!",
-                "He-lp!! Du-ne!",
-                "Du-ne nee-d fix..!",
-                "Nnnrr... Du-ne ye-llow...",
-                "Nrr... B-lood...",
-                "Nrrhh... Du-ne...b-lood!!"
+                "Saan-gre...",
+                "Du-ne...san-gra...",
+                "Du-ne...gotea...",
+                "Gotas...amarillas...",
+                "Am-aari-llo...m-alo...",
+                "M-alo...Saan-gre...",
+                "¡M-alo...le du-eele a du-ne...!",
+                "¡Ngghhhrr! ¡Du-ne herido!",
+                "¡Grrhhhh! ¡Du-ne n-eec-esi-ta ayuda!",
+                "¡¡Ayu-da!! ¡a du-ne!",
+                "¡Du-ne deb-e arreglar...!",
+                "Nnnrr... Du-ne am-aari-llou...",
+                "Nrr... S-aangre...",
+                "Nrrhh... ¡¡S-aangre de du-ne...!!"
             ],
             "bleedingheavy": [
-                "Bl-eed!!",
-                "Du-ne bl-eed!! Mu-ch!!",
-                "Du-ne...leak!! No-w!!",
-                "F-low...yellow! Du-ne he-lp!!",
-                "Ye-llow!! B-ad!!!",
-                "B-ad...bl-eed...",
-                "B-ad...du-ne hurt..!",
-                "Ngghhhrrrnnghhhr!",
-                "Grrhhhhnnnghh!",
-                "He-lp!! Du-ne! N-OW!!!",
-                "Du-ne nee-d FIX..! H-ELP!!",
-                "NnnrrrhhNGHHH!! DU-NE TOO YE-LLOW!!",
-                "Nrrgghhh!!! B-lood!!!",
-                "Nrrhhh..! Du-ne b-lood!! Much!!!"
+                "¡¡Saan-gre!!",
+                "¡¡Du-ne saan-gra!! ¡¡Mu-cho!!",
+                "¡¡Du-ne...gotea!! ¡¡Ah-oora!!",
+                "¡Ch-orroo...a-mar-iillo! ¡¡Du-ne ay-uda!!",
+                "¡¡Am-arii-llo!! ¡¡¡M-alo!!!",
+                "M-alo...saan-gre...",
+                "¡M-alo...du-ne heri-do...!",
+                "¡Ngghhhrrrnnghhhr!",
+                "¡Grrhhhhnnnghh!",
+                "¡¡Ayu-da!! ¡Du-ne! ¡¡¡YA-A!!!",
+                "¡Du-ne necesii-tar arreglo...! ¡¡A-YU-DA!!",
+                "¡¡NnnrrrhhNGHHH!! ¡¡DU-NE MUY AM-ARILL-O!!",
+                "¡¡¡Nrrgghhh!!! ¡¡¡S-aangre!!!",
+                "¡Nrrhhh...! ¡¡Sa-nn-gre de Du-ne!! ¡¡¡Mucho!!!"
             ],
             "steponglass": [
-                "Du-ne gl-ass...",
-                "Cl-ear t-hing hurt du-ne!!",
-                "Du-ne hu-rt sh-arp!!!"
+                "Du-ne vid-rio...",
+                "¡¡C-osa tra-ns-parent-e lastima a du-ne!!",
+                "¡¡¡Lo pun-tia-gudo le du-ele a du-ne!!!"
             ],
             "seecorpse": [
-                "Fr-ee foo-d?",
-                "Hhnnn..?",
+                "¿Comid-a gr-atis?",
+                "¿Hhnnn...?",
                 "Ooo...",
-                "Mmm... Fr-ee..?",
-                "Mmmmrr... Fri-end..?",
-                "Hrnn!! Fri-end! Oh....",
-                "Mmm... Tas-ty... Fo-und..?",
-                "Du-ne... Fi-nd fri-end..?",
-                "Why fri-end no mo-ve..?",
-                "Food!",
-                "*drooling*",
-                "Aaarrh! Hel-lo?"
+                "Mmm... ¿Gr-aatis...?",
+                "Mmmmrr... ¿Ami-go...?",
+                "¡¡Hrii!! ¡Ami-go! Oh....",
+                "Mmm... Sab-roso... ¿En-contré...?",
+                "Du-ne... ¿Encu-entr-a ami-go...?",
+                "¿Por qué ami-go no mue-ve...?",
+                "¡Comida!",
+                "*salivando*",
+                "¡Aaarrh! ¿Hol-aa?"
             ],
             "seecorpsedesensitized": [
-                "Mmm!! Mo-re foo-d...",
-                "Hel-lo fri-end.",
-                "Cor-pse.",
-                "Fri-end hur-t?",
-                "Mo-re cor-pse.",
-                "Mo-re food for du-ne.",
-                "Hel-lo!!",
-                "Du-ne see mo-re cor-pse.",
-                "So mu-ch die!",
-                "Lot of foo-d!"
+                "¡¡Mmm!! Má-s comida...",
+                "Hol-aa ami-go.",
+                "Cad-áver.",
+                "¿Ami-go heri-do?",
+                "Má-ss cad-áveres.",
+                "M-áás comida para du-ne.",
+                "¡¡Hol-aa!!",
+                "Du-ne ve má-s cad-áveres.",
+                "¡Muu-cho muert-o!",
+                "¡Much-a comid-a!"
             ],
             "seecorpsesuicidal": [
-                "Du-ne join fri-end...",
-                "Du-ne jealous...",
+                "Du-ne unirse con ami-go...",
+                "Du-ne celoso...",
                 "Gghrr..."
             ],
             "cold": [
-                "Du-ne co-ld! Nee-d water...",
-                "Du-ne chi-ll...",
-                "Du-ne no li-ke co-ld.",
-                "Not li-ke co-ld."
+                "¡Du-ne he-lad-o! Agua necesi-tar...",
+                "Du-ne co-n fr-ío...",
+                "Du-ne no qui-ere fr-ío.",
+                "No gus-ta fr-ío."
             ],
             "warm": [
-                "Du-ne wa-rm.",
-                "Du-ne hot!",
-                "Du-ne nee-d cool do-wn.",
-                "Du-ne too wa-rm...",
-                "Wa-rm.",
-                "Hot..."
+                "Du-ne con cal-or.",
+                "¡Du-ne calur-oso!",
+                "Du-ne nec-esi-ta enfr-iarss-e.",
+                "Du-ne muy cál-ido...",
+                "Ca-lor.",
+                "Caliente..."
             ],
             "hot": [
-                "Du-ne burn!",
-                "Du-ne too hot!!",
-                "Nee-d... Col-d...",
-                "Too.. Ho-t...",
-                "Nnhggh... Di..zzy!"
+                "¡Du-ne se que-ma!",
+                "¡¡Du-ne muy calur-oso!!",
+                "Necess-itar... Fr-ío...",
+                "Mucho... Cal-or...",
+                "Nnhggh... ¡Ma...reo!"
             ],
             "exerted": [
-                "Nnnghh... S-pent...",
-                "Du-ne... Rest...",
-                "*huff*",
-                "Nnnrr.. Wo-rk... Much!"
+                "Nnnghh... C-consumido...",
+                "Du-ne... Descansar...",
+                "*puff*",
+                "Nnnrr... ¡Tra-bajar... Mucho!"
             ],
             "exhausted": [
-                "Nhhgh... Re-st..!",
-                "Gghrhrhh... Ti...re!!!",
-                "Ggrhhh...! S-top...",
+                "Nhhgh... ¡Descan-sso...!",
+                "Gghrhrhh... ¡¡¡Caan...sao!!!",
+                "¡Ggrhhh...! P-arar...",
                 "Ngghhhhrrrrrrhh...",
-                "*pant*"
+                "*jadeo*"
             ],
             "freezing": [
-                "Du-ne... So... C-old...",
-                "Ngghhhrr... So c-old..!",
-                "Nnhh... N-nnhh... C-old...",
-                "S...So... C-old..! Ngr...",
-                "Fr-eeze...",
-                "Du-ne... Fr-eeze...",
-                "Nhhhrrr... Du-ne... T-oo c-old...",
-                "Ggrrrh..! T-oo c-old..."
+                "Du-ne... Mucho... Fr-ío...",
+                "Ngghhhrr... ¡Tan fr-ío...!",
+                "Nnhh... N-nnhh... Fr-ío...",
+                "M...Much-o... ¡Fr-ío..! Ngr...",
+                "Hel-ado...",
+                "Du-ne... Hel-ado...",
+                "Nhhhrrr... Du-ne... M-uy fr-ío...",
+                "¡Ggrrrh...! T-aan fr-ío..."
             ],
             "emaciated": [
-                "Du-ne... T-oo thin...",
-                "Thin...",
-                "M...ust. Eat m-ore...",
-                "Du-ne... Th-in!!",
-                "T-oo... Thin..."
+                "Du-ne... M-uy delgao...",
+                "Delgado...",
+                "D...ebo. Comer m-ás...",
+                "Du-ne... ¡¡Del-gado!!",
+                "M-uy... Delgado..."
             ],
             "obese": [
-                "Du-ne eat ve-ry goo-d!",
-                "Nhhrr! Du-ne chub!",
-                "Du-ne... Fat..? Nrrr..."
+                "¡Du-ne come m-uy bie-n!",
+                "¡Nhhrr! ¡Du-ne gordito!",
+                "¿Du-ne... Gordo..? Nrrr..."
             ],
             "opiated": [
                 "...",
                 "N...Nhhrr...Du-ne....",
                 "W...Whhhrrnnnnn...",
                 "Mmmnnnrrr...mmmnnnnnn...",
-                "Mmmrrnnnhnnn...woooo...zzz!",
-                "Du-ne......like..!",
+                "¡Mmmrrnnnhnnn...hooooooo...rrrr!",
+                "¡Du-ne......gusta...!",
                 "Mmmmrrrhhhrrn..."
             ],
             "opiatedsad": [
-                "..!",
-                "N...Nhhrr...Du-ne..!",
-                "W...Whhhrrnnnnn..!",
-                "Mmmnnnrrr...mmmnnnnnn..!",
-                "Mmmrrnnnhnnn...woooo...zzz!",
-                "Du-ne......like..!",
-                "Mmmmrrrhhhrrn..!"
+                "¡...!",
+                "¡N...Nhhrr...Du-ne...!",
+                "¡W...Whhhrrnnnnn...!",
+                "¡Mmmnnnrrr...mmmnnnnnn...!",
+                "¡Mmmrrnnnhnnn...hooooooo...rrrr!",
+                "¡Du-ne......gusta...!",
+                "¡Mmmmrrrhhhrrn..!"
             ],
             "opiatewithdrawal": [
-                "Du-ne...sh-ake..",
-                "Nnhrhhggh...b-ad!!",
-                "Du-ne...want mo-re...thing...",
-                "Nghhrr...! Bad..!",
-                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+                "Du-ne...tiem-bla...",
+                "¡¡Nnhrhhggh...m-al!!",
+                "Du-ne...quiere m-áss...coso...",
+                "¡Nghhrr...! ¡Mal...!",
+                "¡S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
             ],
             "cantBreathe": [
-                "Nhhrr...nngghh...*hack*",
-                "*hack* *cough*",
-                "Nhhgg-rhhnngh!"
+                "Nhhrr...nngghh...*carraspeo*",
+                "*carraspeo* *tos*",
+                "¡Nhhgg-rhhnngh!"
             ],
             "pain": [
-                "Nnhrrhhh...<limb>...hur-t...",
+                "Nnhrrhhh...<limb>...duel-e...",
                 "Mnnhhhh...",
-                "Ghhhrrnnnhh!",
+                "¡Ghhhrrnnngh!",
                 "Nhnngghhrr...",
                 "Gghhrahhnnh...<limb>...",
-                "Grrrhhgnn...pa-in...<limb>...",
-                "Gggrhhnn...Du-ne...pa-in...",
-                "Gggrhhnn...Du-ne...pa-in...<limb>..."
+                "Grrrhhgnn...due-le...<limb>...",
+                "Gggrhhnn...Du-ne...le due-le...",
+                "Gggrhhnn...Du-ne...le duel-e...<limb>..."
             ],
             "hitgroundhard": [
-                "GRRHNH!",
-                "GGRACK!",
-                "NNHHRACK!!",
-                "GGHAARCK!",
-                "MNNGGHH!",
-                "RRHHGGNH!",
-                "AAARHCNGCK!",
-                "GGHNR!"
+                "¡GRRHNH!",
+                "¡GGRACGH!",
+                "¡NNHHRAGH!!",
+                "¡GGHAARCK!",
+                "¡MNNGGHH!",
+                "¡RRHHGGNH!",
+                "¡AAARHCNGCK!",
+                "¡GGHNR!"
             ],
             "bigpain": [
-                "GGGHHRRAAAAHHHHHH!!",
-                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
-                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
-                "GNNGGHHHRRRR!",
-                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
-                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
-                "GGGHHRRRAAAANGGHHHRRR!",
-                "RRRAANNNGGHHHHHH!!",
-                "GGNNHRRHHNNNNGGRRAAGHGH!!",
-                "SSS-TTTOPPP!! GGRRNNHGHGH!"
+                "¡¡GGGHHRRAAAAHHHHHH!!",
+                "¡NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "¡¡HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "¡GNNGGHHHRRRR!",
+                "¡¡AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "¡NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "¡GGGHHRRRAAAANGGHHHRRR!",
+                "¡¡RRRAANNNGGHHHHHH!!",
+                "¡¡GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "¡¡PPAA-RRRRAAAA!! ¡GGRRNNHGHGH!"
             ],
             "fallscream": [
-                "WWHHHHHEEEEEE!!",
-                "RRHHAAAAAAARRHH!",
-                "KKRRUUAAAAAAAUU!",
-                "RRRAAAUUU!",
-                "KKRRUAAEEEE!",
-                "GGRRAAAAAA!",
-                "FFRAAAAA!"
+                "¡¡WWHHHHHIIIII!!",
+                "¡RRHHAAAAAAARRHH!",
+                "¡KKRRUUAAAAAAAUU!",
+                "¡RRRAAAUUU!",
+                "¡KKRRUAAEEEE!",
+                "¡GGRRAAAAAA!",
+                "¡FFRAAAAA!"
             ],
             "hitbycreature": [
                 "Oh? Fri-end bite?",
