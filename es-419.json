@@ -1511,7 +1511,7 @@
         "runsetunchipped": "Sin chip",
         "runsetunchippeddsc": "Desactiva tu panel de salud, obligándote a hacer más esfuerzo en determinar las enfermedades que padeces. Activa la línea de visión.",
         "runsetendless": "Infinito",
-        "runsetendlessdsc": "Si está activado, las capas se repetirán a cierto punto, lo que hará que la partida sea infinta hasta que mueras. No puedes ganar el juego de esta forma.",
+        "runsetendlessdsc": "Si está activado, las capas se repetirán después de cierto punto, lo que hará que la partida sea infinita hasta que mueras. No puedes completar el juego de esta forma.",
         "runsetbaselootdensity": "Densidad de botín",
         "runsetbaselootdensitydsc": "Qué tanto botín aparece en cada capa. Esto afecta a los contenedores como las cápsulas, cápsulas salvavidas o cajas de carga",
         "runsetlootmultiplier": "Multiplicador del botín por distancia",
@@ -4835,10 +4835,10 @@
                 "Hola, pitido. ¿Qué querrá decir esto?"
             ],
             "endlessloop0": [
-                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. No... N-no. Es lo que. Estaba e-esperando. Debi de haber echo algo mal. Regresaré e i-intentare de nuevo."
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. No... N-no. Es lo que. Estaba e-esperando. Debí de haber hecho algo mal. Regresaré y lo i-intentaré de nuevo."
             ],
             "endlessloop1": [
-                "Esto no está saliendo según lo planeado. ¡Maldición! ¿¡Qué demonios querían los bata blancas qué hiciera!? Qué pérdida de tiempo y energia."
+                "Esto no está saliendo según lo planeado. ¡Maldición! ¿¡Qué demonios querían los batas blancas qué hiciera!? Qué pérdida de tiempo y energía."
             ],
             "endlessloop2": [
                 "...Qué resultado tan d-deprimente. Esta misión esta condenada a fracasar."
@@ -5238,8 +5238,8 @@
                 "Du-ne no fe-li..."
             ],
             "gloomy": [
-                "Co-mi-da hacer sen-tir mejor...",
-                "Co-mi-da hacer du-ne sen-tir mejor...",
+                "Co-mi-da hace sen-tir mejor...",
+                "Co-mi-da hace a du-ne sen-tir mejor...",
                 "Mu-uy tristeee...",
                 "Du-ne mu-uy triste...",
                 "Grrr... mente mala.",
@@ -5257,7 +5257,7 @@
                 "Ngghhhnn... Nghhggghhh.... ¡Nghhrr!",
                 "¡Ngghhruagghhh! Gghhrr...",
                 "Nnhhg... ¡Nggghhh!",
-                "¡Ngghrhhh! ¿¡Por q-que!?"
+                "¡Ngghrhhh! ¿¡Por q-qué!?"
             ],
             "miserable": [
                 "¡¡¡NNNGRHHAGGHHH!!! ¡NNGGHRHHHH!",
@@ -5267,7 +5267,7 @@
                 "¡¡¡AAARHHGHHHHNNHH!!! ¡GGRAGGHHHHHH!",
                 "¡ENOOOJOOOO! ¡GGRHHAANNGHHH!",
                 "¡NNNGRRAGHHHH! DU-NE.... ¡¡¡DES-TROZA!!!",
-                "¡NNNGRRAGHHHH! HHAAATEE! ¡¡¡DES-TROZA!!!",
+                "¡NNNGRRAGHHHH! ¡OOODIIOO! ¡¡¡DES-TROZA!!!",
                 "¡GGHHRAAHHHGNHH! ¡DU-NE ODIA! ¡¡¡DES-TROZAR!!!"
             ],
             "angeronitem": [
@@ -5287,7 +5287,7 @@
                 "Ngrrhhh",
                 "Grrr...",
                 "Mnnhh...",
-                "*hiss*",
+                "*siseo*",
                 "No...",
                 "Du-ne...",
                 "Nnnnrrr...",
