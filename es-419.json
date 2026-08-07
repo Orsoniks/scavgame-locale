@@ -5083,7 +5083,7 @@
             "eatGood": [
                 "¡Nngghhhrr! ¡¡Gus-to!!",
                 "¡Ngghraahhh! ¡Du-ne gus-tar...!",
-                "Hnnn... Hnnnrr... Bi-en...",
+                "Hnnn... Hnnnrr... Bue-no...",
                 "Co-mi-da... gus-ta...",
                 "Sa-be... es-pe-cial... Nhhrr...",
                 "Nrr... gus-ta...",
@@ -5112,17 +5112,17 @@
                 "Mal..."
             ],
             "tired": [
-                "Doo-rmir... Que-rer...",
+                "Doo-rmir... Qui-ero...",
                 "Du-ne... siesta...",
                 "Dor... mir.",
                 "Dooo... ¡M-mir..!",
-                "Dooooo-r... Dooooorm-ir...",
-                "Mnnhhrr... Acos-tar..."
+                "Suuuu-e... Sue-ñoooo...",
+                "Mnnhhrr... recos-tar..."
             ],
             "verytired": [
                 "Nece-si-tar... Siesta...",
                 "Caaaa... nsa...",
-                "Nnnhhh... ...Acos-tar...",
+                "Nnnhhh......recos-tar...",
                 "Acos... tar-se...",
                 "Hhhrrnn... D... ooor-miiiir..."
             ],
@@ -5146,9 +5146,9 @@
             ],
             "vomit": [
                 "Pan-za... pelea...",
-                "Co-mi-da... pelea devuelta...",
+                "Co-mi-da... se re-siste...",
                 "Nhhgghhrrr... ¡Ghhraghhh!",
-                "¿Hnnnghh...? Ghhr... Q-que...",
+                "¿Hnnnghh...? Ghhr... ¿Q-qué...?",
                 "Nhgghhrr... Du-ne... Mal...",
                 "Ghhn... Mal... ¿Comer...?"
             ],
@@ -5156,28 +5156,28 @@
                 "Du-ne... Sen-tir maaal...",
                 "Guurhhh... ¿Gnnnhh...?",
                 "¿Nnngghhhrr....?",
-                "¡Ggyiacckk! Grhrh... Q-que...",
+                "¡Ggyiacckk! Grhrh... ¿Q-qué...?",
                 "...Ngghrhh...",
-                "Grhrhaughh... Ghnnn... Por-qué...",
+                "Grhrhaughh... Ghnnn... ¿Por-qué...?",
                 "Nggh... du-ne... no... bi-en..."
             ],
             "full": [
                 "Du-ne lle-no...",
                 "¡Co-mer mu-cho...!",
                 "Es-pe-rar comer...",
-                "Du-ne no co-mer mas...",
+                "Du-ne no co-mer más...",
                 "Ngghh... Lle-no...",
                 "Su-ficien... Gnnh..."
             ],
             "hungry": [
-                "Qu-rer... Más... Co-mi-da...",
+                "Que-rer... Más... Co-mi-da...",
                 "Du-ne... hambriento...",
                 "¿Boca-do?",
                 "...Nggh... Que-rer...",
                 "Ham... bre...",
                 "*salivando*",
-                "¿Don-de... comer..?",
-                "Bo-cado...",
+                "¿Dón-de... comer..?",
+                "Un bo-cado...",
                 "¿Co-mer...?",
                 "Du-ne... ¿co-mer..?"
             ],
@@ -5185,8 +5185,8 @@
                 "*salivando profusamente*",
                 "¡Nece-sitar... comer!",
                 "¡Ngghhhhrrr! ¡¡¡Co-mi-da!!!",
-                "¡¡NGHHRRHHH!! ¿¡Don-de comer!?",
-                "¡Nhghhrrr! ¡¡Du-ne mo-rir de ham-bre!!",
+                "¡¡NGHHRRHHH!! ¿¡Dón-de comer!?",
+                "¡Nhghhrrr! ¡¡Du-ne mue-re de ham-bre!!",
                 "¡¡NNGRHH!! ¡¡CO-MIDA!! ¡¡DU-NE!!"
             ],
             "thirsty": [
@@ -5204,12 +5204,12 @@
                 "Gghrhhh... ¡¡A-gua!!",
                 "Du-ne... ¡re-seco...!",
                 "Du-ne... A-gua... ¡AHORA!",
-                "¡Gghhrraaaghh! ¡T-omar! ¡Ahora...!"
+                "¡Gghhrraaaghh! ¡T-omar! ¡Ya...!"
             ],
             "limbmuscle": [
-                "<Limb> no mo-ver...",
+                "<limb> no mue-ve...",
                 "¿Du-ne <limb> deja fun-cio-nar...?",
-                "Du-ne nece-sita nuevo <limb>.",
+                "Du-ne nece-sita reempl-azo de <limb>.",
                 "<limb> no funcionar... nnngrrhh...",
                 "¡<limb> es ma-lo...! ¡Gghhrr!",
                 "¡Du-ne... <limb> due-le..!"
@@ -5218,8 +5218,8 @@
                 "Du-ne <limb> cáli-do...",
                 "¿Enfer-mo...?",
                 "Nnnrr... ¿<limb> s-se ve raro...?",
-                "¿Du-ne <limb> sar-pu-llido..?",
-                "Hhnnn... <limb> sen-tir raro..."
+                "¿Du-ne sar-pu-llido en <limb>...?",
+                "Hhnnn... <limb> sien-te raro..."
             ],
             "limbskin": [
                 "¿<limb> ama-rillo...?",
@@ -5231,8 +5231,8 @@
             "sad": [
                 "Triste.",
                 "Du-ne triste.",
-                "No s-son-risa...",
-                "Du-ne no s-sonreír...",
+                "Sin s-son-risa...",
+                "Du-ne no s-sonríe...",
                 "Du-ne sen-tir mal.",
                 "No fe-li...",
                 "Du-ne no fe-li..."
