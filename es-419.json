@@ -2525,7 +2525,7 @@
                 "No puedo centrarme...",
                 "Me siento mareado...",
                 "Me siento confundido...",
-                "ehh... ¿Yo...?",
+                "Ehh... ¿Yo...?",
                 "Ngh...",
                 "No puedo... Mantenerme alerta...",
                 "Mantente alerta...",
@@ -5491,70 +5491,70 @@
                 "¡FFRAAAAA!"
             ],
             "hitbycreature": [
-                "Oh? Fri-end bite?",
-                "Nggrch! E-vil thi-ng!!",
-                "GGRRGHHH! DU-NE KI-LL!!!!",
-                "GRRACK! LE-AVE DU-NE!",
-                "GGRHR! BI-TE BACK!",
-                "RGHGN! DU-NE REVENGE!",
-                "GACK! E-VIL!"
+                "¿Oh? ¿Ami-goo muer-de?",
+                "¡Nggrch! ¡¡Coo-sa maa-la!!",
+                "¡GGRRGHHH! ¡¡DU-NE MAA-TAR!!",
+                "¡GRRACK! ¡DE-JA A DU-NE!",
+                "¡GGRHR! ¡MUER-DE OTRA VEZ!",
+                "¡RGHGN! ¡DU-NE VEN-GANZA!",
+                "¡GACK! ¡MA-LOO!"
             ],
             "dirty": [
-                "Du-ne... Dir-ty..?",
-                "Du-ne need bat-h...",
-                "Du-ne feel smell.",
-                "Feel dirt.",
-                "Sme-ll smell.",
-                "Stin-ky.",
-                "Stink. Bad!",
-                "Too stin-k."
+                "¿Du-ne... su-cio..?",
+                "Du-ne necesita baa-ño...",
+                "Du-ne siente oloo-r.",
+                "Siente mugre.",
+                "Hue-le oloor",
+                "Apes-toso.",
+                "Apesta. ¡Mal!",
+                "Apes-ta mucho"
             ],
             "encumbered": [
-                "Du-ne strong!!",
-                "Du-ne carry mu-ch.",
-                "Carry mu-ch.",
-                "Lot of thing.",
-                "Du-ne strong...dune carry!",
-                "Du-ne heavy.",
-                "Du-ne wei-ght.",
-                "Hea-vy.",
-                "Weight...",
-                "Nrrr...car-ry lot.",
-                "Nrrr...du-ne car-ry lot."
+                "¡¡Du-ne fuerte!!",
+                "Du-ne carga muu-cho.",
+                "Carga muu-cho.",
+                "Mucho cosa.",
+                "Du-ne fuer-te... ¡dune carga!",
+                "Du-ne pesado.",
+                "Du-ne pe-soo.",
+                "Pee-sado.",
+                "Peso...",
+                "Nrrr... car-ga mucho.",
+                "Nrrr... du-ne car-ga mucho."
             ],
             "watchlike": [
-                "Grrr. Met-al fri-end wei-rd!"
+                "Grrr. ¡Ami-go de me-tal raa-ro!"
             ],
             "drillend": [
-                "Du-ne scare.",
-                "Sca-ry.",
-                "Lo-ud noi-se...",
-                "Du-ne smar-t!!"
+                "Du-ne asus-ta.",
+                "A-suus-ta.",
+                "Rui-do fuer-te...",
+                "¡¡Du-ne ge-nio!!"
             ],
             "loud": [
-                "GGRAAAAACKK! WH-AT!?",
-                "GRRRRR!!!",
+                "¡GGRAAAAACKK! ¿¡QU-É!?",
+                "¡¡¡GRRRRR!!!",
                 "...hoooh.",
-                "GRRACK! LO-UD!",
-                "AUGRH! NO-ISE!!!"
+                "¡GRRACK! ¡FUER-TE!",
+                "¡AUGRH! ¡¡RUI-DO!!"
             ],
             "murderregret": [
-                "DU-NE WIN!",
-                "DU-NE BEAT EV-IL FRI-END!",
-                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE STRROOOONG!!!!",
-                "DU-NE HUNT WEAK FRI-END!!!",
-                "DU-NE HUN-T FOO-D!!",
-                "GRRHCHH! WEEEAAK PR-EY!"
+                "¡DU-NE GA-NA!",
+                "¡DU-NE VEN-CE AMI-GO MAA-LO!",
+                "¡GRRAAACCHH! ¡¡AAHHAAKAKA!! ¡¡AAAAAUURAHHACGGHRAAAA!! ¡¡¡¡DU-NE FUER-TEE!!!!",
+                "¡¡¡DU-NE CA-ZA AMI-GO DÉ-BIL!!!",
+                "¡¡DU-NE CA-ZA CO-MII-DA!!",
+                "¡GRRHCHH! ¡PREE-SA DÉ-BIL!"
             ],
             "tradeemeet": [
-                "Du-ne find!!",
-                "Hel-lo!!",
-                "Du-ne gree-t!!",
-                "Hel-lo?",
-                "Mmmrrrrn...fri-end?",
-                "Fri-end?",
-                "Oooo! Fri-end!!",
-                "Foo-d?"
+                "¡¡Du-ne en-cuen-tra!!",
+                "¡¡Ho-la!!",
+                "¡¡Du-ne sa-luu-da!!",
+                "¿Ho-la?",
+                "Mmmrrrrn... ¿ami-go?",
+                "¿Ami-go?",
+                "¡Oooo! ¡¡Ami-go!!",
+                "¿Co-mii-da?"
             ],
             "swingresponse": [
                 "QUIT. IT!",
@@ -5581,55 +5581,55 @@
                 "re",
                 ".",
                 "###",
-                "Is anyone out there?",
+                "¿Hay alguien ahí afuera?",
                 "",
                 "y...",
                 "w.",
-                "The.",
+                "El.",
                 "mw...wa....t...",
                 "Re.",
                 "Du-ne.",
                 "Me-ta-l...",
-                "GRAAAARCH!!"
+                "¡¡GRAAAARCH!!"
             ],
             "lastmoments": [
-                "Du-ne...sca-red...",
-                "Du-ne...nee-d...help!",
-                "Grrhhnnchh!",
-                "Grrhhannchh!",
-                "Grrrrr!!!",
-                "Nnhhrrhuhhh! No!!!",
-                "Du-ne!!! Hel-p!!",
-                "W...wh-y...",
+                "Du-ne... a-suus-ta-do...",
+                "¡Du-ne... ne-ce-si-ta... a-yuu-da!",
+                "¡Grrhhnnchh!",
+                "¡Grrhhannchh!",
+                "¡¡¡Grrrrr!!!",
+                "¡Nnhhrrhuhhh! ¡¡¡No!!!",
+                "¡Du-ne! ¡¡A-yuu-da!!",
+                "P...por-qué...",
                 "D...dnnrhh...Nhhhh...",
-                "Rrrnn...Hhhh...Du-ne....die...?",
-                "Lig-ht....co-me...",
-                "Fee-l...dar-k...",
-                "is...end..?",
-                "is.....over...",
-                "no...re-ady...",
-                "rnhh...du-ne...h-elp..."
+                "Rrrnn...Hhhh...¿Du-ne.... mue-re...?",
+                "Lu-z.... vie-ne...",
+                "Sien-te... os-cuu-ro...",
+                "¿Es... fi-nal...?",
+                "Se... a-cabó...",
+                "No... lis-to...",
+                "rnhh... du-ne... a-yuu-da..."
             ],
             "magicheal": [
                 "woh..."
             ],
             "selfdestruct": [
-                "Oooorrhhn! Du-ne new sou-nd? Hooohh..."
+                "¡Oooorrhhn! ¿Du-ne nuevo ruii-do? Hooohh..."
             ],
             "endlessloop0": [
-                "...Mmmrrnnngghh... Ngghh......a-gain?"
+                "...Mmmrrnnngghh... Ngghh......¿O-tra vez?"
             ],
             "endlessloop1": [
-                "Ngghhr. Du-ne like chall-enge. Du-ne go aga-in!"
+                "Ngghhr. Du-ne gus-ta re-to. ¡Du-ne va o-tra vez!"
             ],
             "endlessloop2": [
-                "Oo! Aga-in? Mo-re place fin-d foo-d!"
+                "¡Oo! ¿Otra vez? ¡Más lu-gar buscar co-mii-da!"
             ],
             "endlessloop3": [
-                "Du-ne own ca-ve."
+                "Du-ne dueño cuee-va."
             ],
             "endlessloopdefault": [
-                "Nrrrg! Wheee! Du-ne win!"
+                "¡Nrrrg! ¡Whiii! ¡Du-ne ga-na!"
             ],
             "tradermeetnormal": [
                 "Mmm... Hol-a....",
