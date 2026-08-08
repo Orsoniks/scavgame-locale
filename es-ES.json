@@ -480,12 +480,12 @@
         "pistol": "Pistola",
         "pistoldsc": "Un arma básica semiautomática. Usa cargadores pequeños con balas de 9mm. Puede encasquillarse cuando tiene una condición baja o mojada. Mantenla en tu mano principal para ver los controles.",
         "rifle": "Rifle",
-        "rifledsc": "Un rifle sin culata completamente automático. Usa cargadores de rifle con balas de 5.56. Puede encasquillarse cuando tiene una condición baja o mojada. Mantenla en tu mano principal para ver los controles.",
+        "rifledsc": "Un rifle sin culata completamente automático. Usa cargadores de rifle con balas de 5,56mm. Puede encasquillarse cuando tiene una condición baja o mojada. Mantenla en tu mano principal para ver los controles.",
         "shotgun": "Escopeta corredera",
         "shotgundsc": "Una escopeta de corredera sin culata con un cargador interno. Usa cartuchos de calibre-12 cargándolos directamente al arma. Puede encasquillarse cuando tiene una condición baja o mojada. Mantenla en tu mano principal para ver los controles.",
         "9mmround": "Bala de 9mm",
         "9mmrounddsc": "Una pequeña bala de pistola. Puede cargarse en un cargador pequeño, o directamente a la recámara del arma si está abierta.",
-        "556round": "Bala de 5.56",
+        "556round": "Bala de 5,56mm",
         "556rounddsc": "Una bala de rifle. Puede cargarse en un cargador pequeño, o directamente a la recámara del arma si está abierta.",
         "12gauge": "Cartucho de calibre-12",
         "12gaugedsc": "Un cartucho de calibre 12 de escopeta. Puede cargarse en un cargador pequeño, o directamente a la recámara del arma si está abierta.",
@@ -494,7 +494,7 @@
         "smallmagazine": "Cargador pequeño",
         "smallmagazinedsc": "Un cargador de pistola universal que acepta balas de 9mm.",
         "riflemagazine": "Cargador de rifle",
-        "riflemagazinedsc": "Un cargador de rifle universal que acepta balas de 5.56.",
+        "riflemagazinedsc": "Un cargador de rifle universal que acepta balas de 5,56mm.",
         "magazinebase": "Molde de cargador",
         "magazinebasedsc": "Un contenedor con una forma especial con un muelle. Usado en la creacion de cargadores y armas.",
         "makeshiftrifle": "Rifle improvisado",
@@ -672,7 +672,7 @@
         "coldpuffdsc2": "Definitivamente tiene un mecanismo muy extraño para propagar sus esporas.",
         "spicevine": "Picaliana",
         "spicevinedsc": "Una planta corta y robusta. Se siente extremadamente seca. Podrías treparla para ablandar caídas.",
-        "lifepodbuttonheat": "Botón de la cápsula",
+        "lifepodbuttonheat": "Botón de climatización",
         "lifepodbuttonheatdsc": "Un boton rojo barato. Este cambia el aire acondicionado. Ahora mismo está en <>.",
         "lifepodbuttonshower": "Botón de la ducha",
         "lifepodbuttonshowerdsc": "Un boton rojo barato. Este activa la ducha desinfectante de gas de la cápsula.",
@@ -742,7 +742,7 @@
         "sandrose": "Rosa de arena",
         "sandrosedsc": "Una planta extrañamente bonita, con formas oblongas creciendo en ella.",
         "scrapeater": "Come-chatarra",
-        "scrapeaterdsc": "Tiene una etiqueta en la que pone\"Inserte chatarra para abrir\", cin un pequeño monitor al lado mostrando <color=#ffffff>\"<>%\".",
+        "scrapeaterdsc": "Tiene una etiqueta en la que pone\"Inserte chatarra para abrir\", con un pequeño monitor al lado mostrando <color=#ffffff>\"<>%\".",
         "shuttledoor": "Puerta de lanzadera",
         "shuttledoordsc": "Una gran puerta de metal para mantener las cosas de fuera afuera y lo de dentro, adentro.",
         "shuttleelevator": "Ascensor de lanzadera",
@@ -825,7 +825,7 @@
         "grabbershroom": "Champiñón agarrador",
         "grabbershroomdsc": "Te cuesta entender como puede hacer esto un hongo.",
         "terminal": "Terminal",
-        "terminaldsc": "Una vieja terminal de ordenador"
+        "terminaldsc": "Una vieja terminal de ordenador."
     },
     "moodles": {
         "braindamage4": "Comatoso",
@@ -1603,8 +1603,8 @@
         "runsetdebugworld": "Mundo de pruebas",
         "runsetdebugworlddsc": "Si está activo, hace que el mundo sea mucho más pequeño para acelerar la generación. No está pensado jugar de forma normal.",
         "tutorialwarning": "<size=150%>Antes de que te vayas...\n\n<size=100%>No has pasado aún por los módulos básicos.\n¿Estás seguro que quieres bajar a ciegas?\n\n\n\nTu perdición no estará más que asegurada.",
-        "tutorialwarningyes": "¡Llevame ahí!",
-        "tutorialwarningno": "Se lo que hago.",
+        "tutorialwarningyes": "¡Llévame ahí!",
+        "tutorialwarningno": "Sé lo que hago.",
         "pausereturn": "Volver",
         "pausegiveup": "Rendirse",
         "pausegiveup2": "¿Estás seguro?",
@@ -1879,7 +1879,7 @@
         "tutorialspecieslock": "Solo puedes entrar con la especie Experiment",
         "sandbox": "Sandbox",
         "escapecourse": "ALERTA: BRECHA MENOR",
-        "escapecourse1": "Parece ser que estás intentando escaparte. Por favor, manten la calma mientras viene seguridad a asistirte.",
+        "escapecourse1": "Parece ser que estás intentando escaparte. Por favor, mantén la calma mientras viene seguridad a asistirte.",
         "escapecourse2": "Gracias por tu cooperación.",
         "tutorial": "Tutorial",
         "mp3audio": "Archivos de audio guardados en el dispositivo",
@@ -2096,7 +2096,7 @@
         "tutbasic18": "Ciertas herramientas son usables desde tu \"Mano principal\". Ponte el rastrillo allí e intenta pegar con él [CLIC IZQUIERDO].",
         "tutbasic19": "Realmente estás peleandote contra los fantasmas... ¡Bien hecho!",
         "tutbasic20": "También puedes intercambiar rápidamente lo que tengas en las manos dándloe a la [Q]. ¡Inténtalo!",
-        "tutbasic21": "Haciendo estas cosas en un rango es una habilidad muy útil. Mantén [T] para lanzar lo que tengas en tu mano principal. ¡Apunta hacia el objetivo que acabamos de hacer!",
+        "tutbasic21": "Hacer cosas a distancia es una habilidad muy útil. Mantén [T] para lanzar lo que tengas en tu mano principal. ¡Apunta hacia el objetivo que acabamos de hacer!",
         "tutbasic22": "¡Una puntería maravillosa!",
         "tutbasic23": "Vamos a darte el rastrillo de vuelta.",
         "tutbasic24": "Puedes cavar a través de cosas pegándoles. Esto te cansará rápidamente, pero es útil si no lo haces a menudo.",
@@ -2126,7 +2126,7 @@
         "tutbasic46": "Wow, ¡Lo has guardado dentro! Ahora pulsa [CLIC DERECHO] en la bolsa y arrastra el objeto hacia afuera.",
         "tutbasic46fail1": "P... Por qué... ¿Por qué la has arrancado..?",
         "tutbasic46fail2": "..Vale. Está bien. Continuemos...",
-        "tutbasic46fail3": "Estás poniendo a prueba mi paciencia. Deja de arrancar las bolsas. Vamos a omitir este segmento como no estás cooperando.",
+        "tutbasic46fail3": "Estás poniendo a prueba mi paciencia. Deja de arrancar las bolsas. Vamos a omitir este segmento viendo que no estás cooperando.",
         "tutbasic47": "Bien hecho. Tener un contenedor es extremadamente útil, mantente atento para encontrarlos.",
         "tutbasic48": "Aquí tienes algo nuevo. Veamos si puedes averiguar como ponértelo.",
         "tutbasic49": "¡Genial! Los equipables funcionan fuera de los espacios de inventario normales. ¡En este incluso puedes guardar cosas!",
@@ -5931,9 +5931,19 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "A quien sea que encuentre esto, ellos pueden controlarte, y lo harán, incluso en este infierno. Repentinamente, sin previo aviso, empecé a escuchar una fuerte alarma dentro de mí; podía ver un mensaje que decía \"NIVEL DE PROFUNDIDAD INSATISFACTORIO\" con luces rojas intermitentes en mi visión periférica.\n\nComencé a correr, en pánico, sin saber por qué harían esto. Sólo se detuvo cuando fuí a otra región de estas cuevas. Saben exactamente cuánto tiempo pasas aquí, saben que tendrás miedo, y quieren presenciar tu muerte. Esto no es más que un genocidio en masa.",
+                "Item1": "A quien sea que encuentre esto, pueden controlarte, y lo harán, incluso en este infierno. Repentinamente, sin previo aviso, empecé a escuchar una fuerte alarma dentro de mí; podía ver un mensaje que decía \"NIVEL DE PROFUNDIDAD INSATISFACTORIO\" con luces rojas intermitentes en mi visión periférica.\n\nComencé a correr, en pánico, sin saber por qué harían esto. Sólo se detuvo cuando fuí a otra región de estas cuevas. Saben exactamente cuánto tiempo pasas aquí, saben que tendrás miedo, y quieren presenciar tu muerte. Esto no es más que un genocidio en masa.",
                 "Item2": "",
                 "Item3": "milky"
+            },
+            {
+                "Item1": "encontre un arma. un arma de fuego. dios... no estoy preparado para usar esta cosa... debi prestar mas atencion durante el entrenamiento... no tengo ni idea de como me mandaron aqui, estando asi de desprevenido, en lugar de ser sacrificado. casi le disparo a alguien por accidente. deberia haber activado el seguro... quien soy yo para saber eso. los otros tienden a entrar en panico cuando te ven sosteniendo un arma. asi que lo mejor tal vez sea conservarla dentro de algo, para que no la vean. piensan que les vas a disparar, no saben tus intenciones. bueno, siendo sincero tambien pensaria lo mismo si alguien apuntara un arma hacia mi.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "me odio tanto por actuar como un completo imbecil con los otros alla arriba... ahora cualquier sobreviviente que me encuentro me sacan de su capsula... creeme, si supieras los insultos que estaban diciendo... trataron de aruñarme... y tan solo me digo a mi mismo: \"okay ya, lo siento. la puta madre, ¿se dan cuenta de que en este momento toda vida cuenta? no hay tiempo para herirnos y matarnos el uno al otro\". deseo haber sido una mejor persona... todo es culpa mia.",
+                "Item2": "",
+                "Item3": "experiment"
             },
             {
                 "Item1": "no confies siempre en los barriles con líquidos por aqui. tuve en mis manos un gran mini barril y pensaba que tenia limonada, pero un sorbito fue suficiente para darme cuenta de que no lo era. intente quitarme ese mal sabor con otro barril con agua, pero el agua me hizo dar mucho frio y mi pelaje empezo a caerse",
@@ -5969,6 +5979,11 @@
                 "Item1": "no me di cuenta lo horrible que se habian puesto hasta que intente cavar otra vez y mis garras simplemente... se rompieron. ya no rasgan nada. he intentado arañar las rocas sin siquiera pensar sobre eso. me senti desnudo. parece que la carne no esta hecha para reemplazar las herramientas.\n<>\nsegui asumiendo que necesitaba un pico para todo. pero descubri que el machete funciona al menos para las cosas mas ligeras. como tierra, plantas, arena, hace bien el trabajo. me ahorra mucho dolor en mis manos.\n<>\nme encontre una botella con una etiqueta que decia potenciador de queratina. ya tenian previsto de que nuestras partes se romperian. tome un sorbo. y despues de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentian más afiladas. mas fuertes. era extrañamente satisfactorio ver como las partes dañadas se desprendian. me gusta como mis garras ahora permite agarrarse a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenian uñas en cada dedo. en todos. sin garras en lo absoluto. se veian tan mal de cerca. suaves. sin filo. era inquietante como manejaban todo con manos asi.\n<>\nsolia pensar que eso los hacia debiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
                 "Item2": "",
                 "Item3": "experiment"
+            },
+            {
+                "Item1": "Todo está repleto de incontables tipos de bichos que caminan por doquier. Me considero algo pacifista, así que intento alejarme lo más que puedo, en vez de pelear con esas cosas, ya que no sé quién terminará matando primero al otro... Al fin y al cabo, las heridas que me dejan duelen como el mismísimo infierno... Ya ni sé... ¿Nuestros captores siquiera son conscientes de lo que tenemos que pasar aquí abajo?",
+                "Item2": "",
+                "Item3": "milky"
             },
             {
                 "Item1": "Tuve una pésima caída. MUY pésima. Justo dentro de un hoyo que no podía ni escalar, ni excavar debido a mis heridas. Pero logré salir con pequeños pedazos de chatarra, y quiero hacerle saber a los otros sobre esto también.\n\n¡Son las paredes de la caverna! Nada de lo que he encontrado- ni siquiera dinamita -parece ser capaz de penetrar los límites exteriores de las cavernas. Pero son irregulares, y si apilas suficientes pedazos de chatarra uno encima del otro, puedes hacer pequeños puntos para que apoyes tus patas. Cuando me estaba desangrando en ese hoyo oscuro, usé esos escombros para improvisarme algo así como una escalera para escapar y encontrar suministros de emergencia.\n\nEspero que nunca tengas que pasar por esa situación. ¿Tal vez puedas usar este truco para evitar quedar lastimado en primer lugar? Quién sabe qué otras cosas desagradables habrán aquí con nosotros.\n\nTal vez me alcances y podamos compartir estrategias.\nEspero estar allí para conocerte.",
