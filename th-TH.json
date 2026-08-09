@@ -5555,13 +5555,13 @@
                 "อา-หาร?"
             ],
             "swingresponse": [
-                "หยุด เดี๋ยวนี้!",
-                "หยุด!",
-                "ไอ้โง่!",
-                "มนุษย์ถ้ำ!",
-                "หยุดขัดขืน!",
-                "ตาย ๆ ไปเสียที!",
-                "ยอมแพ้ซะ!"
+                "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
             ],
             "braindamaged": [
                 "เขา...",
