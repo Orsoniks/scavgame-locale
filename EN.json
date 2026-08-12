@@ -5938,12 +5938,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "i found a weapon. a firearm. gosh... im not used to operating this thing... i shouldve been more careful during the training sessions... i have zero idea of how ive even been sent here, being this unprepared, instead of getting culled. i almost shot someone by accident. i shouldve turned on the gun safety... who am i to know. the others tend to really panic when they see you holding a weapon in hand. so maybe it would be best to put it inside of something, so that they dont see it. they think youd shoot them, they dont know your intentions. well, id think the same if someone were to point a gun at me.",
+                "Item1": "i found some kind of... shooty device. scared the hell out of myself with it... and destroyed whatever that trap was infront of me. not used to operating this thing.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "im so mad at myself for acting like a dumbass with the others up there... now all of the survivors i find chase me away from their pods... man, if you knew how hard they were swearing... they tried to scratch me... and im just saying to myself: \"okay, im sorry. for fucks sake, do you realize that currently every life matters? theres no room for hurting and killing each other.\". i wish i was a better person... its my own fault.",
+                "Item1": "everyone keeps shooing me from their pods. they remember me... from up there. i shouldn't have acted like that. this is terrible.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5983,17 +5983,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "It's full of all kinds of critters that constantly roam around everywhere. I'm a bit of a pacifist, so I try running away from them, rather than fighting them, as I don't know who's gonna kill whom first... After all, the wounds they leave in me hurt like hell... I don't know anymore... Do our captors even know what we're going through down here?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "I took a bad fall. REAL bad. Right into a hole and couldn't climb or dig out of with my injuries. But I made it out with these bits of scrap metal, and want to let others know this, too. \n\nIts the cavern walls! Nothing I've found- even dynamite -seems to be able to penetrate the outer boundaries of the caverns. But they are uneven, and if you stack enough bits of scrap metal on top of each other, you can wedge them in these tiny gaps and make an entire scrap foothold. When I was bleeding out in that dark hole, I used my collected debris to make a sort of staircase to escape and find emergency supplies.\n\nI hope you never wind up in that situation, though. Maybe you could use this trick to protect you from injury in the first place? Who knows what other nasty things are in here with us. \n\nMaybe you'll catch up to me and we can share strategies. \nI hope I'll be there to meet you.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "I'm feeling lonely... so I decided to distract myself:\nI found some kind of miniature fax that I was able to crush open, and I pulled its paper sheets out. Then I took a stick, and squeezed one of the glowy fruits onto it. It turned out like a brush and drawing canvas! If only you know... I started drawing alternate realities where we're free and live peacefully together; without those scientist scumbags... I felt so happy, and cried for a bit.\nBut now I have to go: feeling peckish! Maybe if we meet each other, I'll draw you, too...? I got really good at using the \"brush\". I'll try teaching the others to draw, too...",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6129,7 +6119,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i cant anymore. why.\neveryone is dead\ni cant.\ni want this to stop\ni cant\ni want freedom\nwhy\ncant i. i dont want to see any more of this. i've seen too many bad things. im so sick.\nmy leg is fucked. blown up by a mine\nmy hand, the right one, is also killing me really hard\ni want to put everything to an end\neverything is misery\ni cannot anymore\nin a bit ill claw my artery out and turn into another corpse for you to have a glance at - as long as they hadnt eaten me by the time you get here.\n\nthank you for everything. goodbye",
+                "Item1": "its over. goodbye. sorry.",
                 "Item2": "",
                 "Item3": "experiment"
             },
