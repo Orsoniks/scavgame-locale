@@ -940,6 +940,7 @@
         "impendingdoom": "A közelgő végzet érzése",
         "horrified": "RÉMÜLT",
         "focused": "ÖSSZPONTOSÍTOTT",
+
         "braindamage4dsc": "...",
         "braindamage3dsc": "valóság  ..  ér..  tel..  metlen",
         "braindamage2dsc": "Súlyos szellemi fogyatékosság. Az értelmes gondolkodás és az önellátás korlátozott. Komoly agykárosodás áll fenn.",
@@ -1508,6 +1509,7 @@
         "runsetminigamehandshakedsc": "Fájdalom esetén mennyire remegjen a kezed",
         "runsetdebugworld": "Debug futam",
         "runsetdebugworlddsc": "Sokkal kisebb réteget csinál, hogy gyorsabb legyen a gengerálás. Csak fejlesztői használatra",
+
         "tutorialwarning": "<size=150%>Mielőtt mennél...\n\n<size=100%>Még else végezte az alap kiképzést.\nBiztosan teljesen vakon akarsz belecsapni?\n\n\n\nSzinte biztosan elbuksz.",
         "tutorialwarningyes": "Alapkiképzés elkezdése",
         "tutorialwarningno": "Tudom mit csinálok!",
