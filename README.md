@@ -29,7 +29,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Suomi (Suomi)](/fi-FI.json) | v7.0.1 (incomplete, translation abandoned) | - |
 | [Français (France)](/fr-FR.json) | v7.0.1 (incomplete) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick), [LackeDragon](https://github.com/LackeDragon) |
 | [Magyar (Magyarország)](/hu-HU.json) | v7.0.1 (incomplete, 90%-done) | [Adrastor](https://github.com/Adrastorr), [TotallyNotAron](https://github.com/aron42069), [piCINKEnet](https://github.com/piCINKEnet), Vbenc-e, That1guy, [BanánBali](https://github.com/B2ivan), [tUwUring machine](https://github.com/Hellie-xd), [Thermacite](https://github.com/Thermacite), Holla_x, Betond, Fulibagi |
-| [Bahasa Indonesia (Indonesia)](/id-ID.json) | v7.0.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/), [Jibuntaital](https://github.com/2215najib), itsholliee, [nfoxers](https://github.com/nfoxers), [Nizar](https://github.com/FoundToast62667) |
+| [Bahasa Indonesia (Indonesia)](/id-ID.json) | v7.0.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/), [Jibuntaital](https://github.com/2215najib), itsholliee, [nfoxers](https://github.com/nfoxers), [FoundToast62667](https://github.com/FoundToast62667) |
 | [Italiano (Italia)](/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
 | [日本語 (日本)](/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
 | [Қазақша (Қазақстан)](/kk-KZ.json) | Outdated | [Russiankids](https://github.com/Russiankids) |
