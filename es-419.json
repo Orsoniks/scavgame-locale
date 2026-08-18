@@ -5938,12 +5938,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "encontré un arma. un arma de fuego. dios... no estoy preparado para usar esta cosa... debí prestar más atención durante el entrenamiento... no tengo ni idea de cómo me mandaron aquí, estando así de desprevenido, en lugar de ser sacrificado. casi le disparo a alguien por accidente. debería haber activado el seguro... quién soy yo para saber eso. los otros tienden a entrar en pánico cuando te ven sosteniendo un arma. así que lo mejor tal vez sea conservarla dentro de algo, para que no la vean. piensan que les vas a disparar, no saben tus intenciones. bueno, siendo sincero también pensaría lo mismo si alguien apuntara un arma hacia mí.",
+                "Item1": "encontré una especie de... dispositivo de disparo. me asusté horrible con esa cosa... y lo destruí, lo que sea que era esa clase de trampa. no estoy acostumbrado a hacer que eso funcione.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "me odio tanto por actuar como un completo imbécil con los otros allá arriba... ahora cualquier sobreviviente que me encuentro me sacan de su cápsula... créeme, si supieras los insultos que estaban diciendo... trataron de aruñarme... y tan sólo me digo a mí mismo: \"okay ya, lo siento. la puta madre, ¿se dan cuenta de que en este momento toda vida cuenta? no hay tiempo para herirnos y matarnos el uno al otro\". deseo haber sido una mejor persona... todo es culpa mía.",
+                "Item1": "ahora todos me sacan de sus cápsulas. se acuerdan de mí... de allá arriba. no debería haber actuado así. esto es terrible. ",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5983,17 +5983,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Todo está repleto de incontables tipos de bichos que caminan por doquier. Me considero algo pacifista, así que intento alejarme lo más que puedo, en vez de pelear con esas cosas, ya que no sé quién terminará matando primero al otro... Al fin y al cabo, las heridas que me dejan duelen como el mismísimo infierno... Ya ni sé... ¿Nuestros captores siquiera son conscientes de lo que tenemos que pasar aquí abajo?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "Tuve una pésima caída. MUY pésima. Justo dentro de un hoyo que no podía ni escalar, ni excavar debido a mis heridas. Pero logré salir con pequeños pedazos de chatarra, y quiero hacerle saber a los otros sobre esto también.\n\n¡Son las paredes de la caverna! Nada de lo que he encontrado- ni siquiera dinamita -parece ser capaz de penetrar los límites exteriores de las cavernas. Pero son irregulares, y si apilas suficientes pedazos de chatarra uno encima del otro, puedes hacer pequeños puntos para que apoyes tus patas. Cuando me estaba desangrando en ese hoyo oscuro, usé esos escombros para improvisarme algo así como una escalera para escapar y encontrar suministros de emergencia.\n\nEspero que nunca tengas que pasar por esa situación. ¿Tal vez puedas usar este truco para evitar quedar lastimado en primer lugar? Quién sabe qué otras cosas desagradables habrán aquí con nosotros.\n\nTal vez me alcances y podamos compartir estrategias.\nEspero estar allí para conocerte.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "Me siento solo... así que decidí distraerme:\nEncontré una especie de fax en miniatura que logré abrir a la fuerza y saqué sus hojas de papel. Agarré un palo y exprimí una de las frutas luminosas sobre eso. ¡Resultó ser como pincel y lienzo! Si tan sólo supieras... Empecé a dibujar realidades alternas en donde somos libres y vivimos juntos en harmonía; sin esos malditos científicos... Me sentí tan feliz, incluso lloré un poco.\nPero ahora tengo que irme: ¡estoy hambriento! ¿Y si nos encontramos, también te dibujaré...? Me volví muy bueno usando el \"pincel\". Trataré de enseñarles a los demás para que también dibujen...",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6129,7 +6119,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "ya no puedo más. ¿por qué\ntodos están muertos?\nno puedo\nquiero que esto acabe\nno puedo\nquiero libertad\n¿por qué\nno puedo? no quiero seguir viendo esto. he visto demasiadas cosas terribles. estoy enfermo de esto.\nmi pierna está en la mierda. volada en pedazos por una puta mina\nmi mano, mi derecha, me está matando del dolor muy feo\nquiero darle fin a todo\ntodo es miseria\nya no puedo\ndentro de poco, me enterraré la arteria y me convertiré en otro cadáver más para que le eches un ojo - suponiendo que no me hayan devorado antes de que llegues.\n\ngracias por todo. adiós",
+                "Item1": "se acabó todo. adiós. perdónenme.",
                 "Item2": "",
                 "Item3": "experiment"
             },
