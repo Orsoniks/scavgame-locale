@@ -450,8 +450,8 @@
         "frigiantfruitdsc": "Velmi studené, tvrdé a sklovité ovoce. Chutné, ale má tendenci tě hodně ochladit. Zvaž, jestli ho chceš jíst venku v mrazu.",
         "helluce": "Pekelát",
         "hellucedsc": "Suchá, fialová bylina s obzvláště pálivou chutí. Pomáhá proti nevolnosti, mírně zlepšuje ztrátu sluchu a může zmírnit vnitřní krvácení. Má tendenci prudce zvyšovat tělesnou teplotu konzumenta.",
-        "popskin": "Praskoslupka",
-        "popskindsc": "Kousek silné, žluté membrány. Uhasí žízeň, ale může mírně ovlivnit mozkové funkce. Dá se také použít jako provizorní obvaz a analgetikum.",
+        "bulbskin": "Praskoslupka",
+        "bulbskindsc": "Kousek silné, žluté membrány. Uhasí žízeň, ale může mírně ovlivnit mozkové funkce. Dá se také použít jako provizorní obvaz a analgetikum.",
         "popfruit": "Praskoplod",
         "popfruitdsc": "Zvláštní, obdélníkové lesklé ovoce. Je chutné a doplňuje hlad i žízeň. Může náhodně mírně pomoci s nemocí z ozáření, nebo ji naopak zhoršit. Při nárazu na zem ve vysoké rychlosti vydává hlasitý zvuk - užitečné pro zjišťování hloubky pádu.",
         "antisepticmush": "Antiseptická kaše",
@@ -678,7 +678,6 @@
         "medcratedsc": "Obsahuje zdravotnický materiál.",
         "rechargingstation": "Nabíjecí stanice",
         "rechargingstationdsc": "Stanice používaná k nabíjení baterií. Přijímá baterie jakékoliv velikosti a zdá se, že má nekonečnou energii. Použij ji k vložení baterie ze své hlavní ruky, a poté přetáhni baterii zpět na sebe.\n\nZdá se, že má hudební přehrávač, který má uklidnit atmosféru, zatímco čekáš... Ironií je, že mu chybí baterie.",
-        "_comment": "ehhh...---------------------------------------------------------------",
         "hydreed": "Hydroplevel",
         "hydreeddsc": "Má několik ramen s bublinovitými plody na koncích. Vypadá vlhce...",
         "OxygenCrystal": "Kyslíkový krystal",
@@ -687,7 +686,6 @@
         "reinforceddoordsc": "Pravděpodobně se to dá něčím otevřít...",
         "ReliefCrystal": "Úlevný krystal",
         "ReliefCrystaldsc": "Vypadá ostře a načervenale.",
-        "_comment1": "it was changed----------------------------------------------------------------",
         "crystalmini": "Krystal",
         "crystalminidsc": "Drobný bioluminiscenční krystal.",
         "crystalsmall": "Krystal",
@@ -1579,7 +1577,6 @@
         "gamesetdronevolume": "Hlasitost atmosférických zvuků",
         "gamesetdronevolumedsc": "Hlasitost situačních hudebních podkresů, jako jsou agonie, vyčerpání, závaly jeskyní atd.",
         "gamesettrackinterval": "Interval hudebních stop",
-        "_comment3": "ch...---------------------------------------------------------------",
         "gamesettrackintervaldsc": "V sekundách. Jak dlouho se má čekat mezi hudebními stopami před přehráním dalších",
         "gamesetsadnessdistortion": "Zkreslení hudby při smutku",
         "gamesetsadnessdistortiondsc": "Určuje, zda se má hudba postupně zkreslovat s tím, jak klesá tvá nálada",
@@ -2697,17 +2694,6 @@
                 "Ta <limb> nevypadá moc dobře...",
                 "Moje <limb> je celá od krve...",
                 "Propánajána! Zdá se, že jsem se přepočítal a teď je moje <limb> úplně žlutá! Panebože! Co mám teď dělat!"
-            ],
-            "_comment4":  [
-                "it was deleted i dont know why------ sepsis",
-                "Panebože... Je mi vážně zle...",
-                "Auugh... Co se to se mnou děje...",
-                "Já... fyzicky... úplně selhávám...",
-                "Mému tělu není vůbec dobře...",
-                "Guuhh... Je mi hrozně blbě...",
-                "Mám pocit, jako by celé mé tělo zachvátil zánět...",
-                "Bolí mě vnitřnosti...",
-               "Není mi vůbec dobře..."
             ],
             "sad": [
                 "Mohlo by to být horší.",
@@ -4569,16 +4555,6 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Je to tu plné nejrůznějších potvor, které se neustále potulují úplně všude. Jsem tak trochu pacifista, takže se před nimi snažím spíš utíkat, než s nimi bojovat, jelikož nevím, kdo by koho zabil dřív... Koneckonců, rány, které mi způsobují, pekelně bolí... Už vážně nevím... Mají naši únosci vůbec tušení, čím si tu dole procházíme?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "Ošklivě jsem spadl. VÁŽNĚ ošklivě. Přímo do díry a se svými zraněními jsem nemohl vylézt ani se vyhrabat ven. Ale dostal jsem se odtamtud pomocí těchhle kousků kovového šrotu a chci o tom dát vědět i ostatním. \n\nJde o stěny jeskyně! Nic z toho, co jsem našel – dokonce ani dynamit – zřejmě nedokáže prorazit vnější hranice jeskyní. Ale jsou nerovné, a když na sebe naskládáte dostatek kousků kovového šrotu, můžete je vklínit do těchhle malých mezer a vytvořit tak celou šrotovou oporu. Když jsem v té temné díře krvácel, použil jsem nasbírané trosky k vytvoření jakéhosi schodiště, abych mohl uniknout a najít nouzové zásoby.\n\nDoufám ale, že vy v takové situaci nikdy neskončíte. Možná byste tenhle trik mohli použít už jen k tomu, abyste se před zraněním vůbec ochránili? Kdo ví, jaké další ohavnosti tu jsou s námi. \n\nMožná mě doženete a budeme moci sdílet strategie. \nDoufám, že tam budu, abych se s vámi setkal.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "Nejsem moc silný, takže jsem doufal, že se s někým spojím. Měli bychom tak mnohem větší šanci na přežití, ale nikdo, koho jsem se ptal, neměl zájem. Všichni se bojí a někteří z nás jsou nebezpeční. Je tu tolik pastí, že je nemožné cestovat ve velkých skupinách. Vím, že zemřu z naprosto hloupého důvodu...\n\nLidé jsou tak krutí. Nedokážu to pochopit.",
                 "Item2": "",
                 "Item3": "milky"
@@ -4973,7 +4949,7 @@
             "Item2": ""
         },
         {
-            "Item0": "BIOMETRICKÉ HLÁŠENÍ - 2508-04-08-09-06-19-9993\n<>\nDATABÁZOVÝ INDEX: Registr projektu Sawian\nDATABÁZOVÝ SUBINDEX: Druhy\n<>\n[OBSAH]\n<>\n[PRO VŠECHNY SUBJEKTY V REGISTRU]\n- PŘEPIS TYPU SUBJEKTU: Šablona\n- TŘÍDA SUBJEKTU: Biologický\n- PODTŘÍDA SUBJEKTU: Sawian\n<>\nNÁZEV SUBJEKTU: SAW-07 \"Voyager\"\nPOČET: 3884\n- Zmutovaný SAW-01 se zkříženou kočičí DNA. Naprostý hajzl. Z nějakého důvodu nenávidí ostatní druhy, ale k nám chová velkou úctu. Vysoce obratný, ale nepředstavuje velké riziko útěku. Rádi se schovávají, k velké škodě našich testovacích postupů.\n<>\nNÁZEV SUBJEKTU: SAW-08 \"Baron\"\nPOČET: 75\n- Zmutovaný SAW-02 zkřížený s <corrupt:0xFFDED0> DNA. Tyčící se do výšky. Asi dvakrát větší než lidská bytost. Extrémně silný, přesto emocionálně stabilní. Ačkoliv nepředstavuje riziko útěku, doporučuje se držet ho pod přísnějším protokolem. Jejich velikost ztěžuje jak klonování, tak reprodukci - vyhněte se zabití, pokud je to možné.\n<>\nNÁZEV SUBJEKTU: <corrupt:0xFFEFEA>\nPOČET: 3067\n- Zmutovaný SAW-05 zkřížený s insektoidní DNA. Duté kosti. Zvláštně jasně růžová barva srsti. Má přívěsky podobné křídlům a insektoidní rysy. Mají tendenci se chovat jako kreténi, i když zjevně ne zlomyslně. Jejich vzhled zřejmě přitahuje pohledy ostatních sawianů.\n<>\nNÁZEV SUBJEKTU: SAW-10 \"Crystal\"\nPOČET: 2368\n- Zmutovaný SAW-06 zkřížený s ještěří DNA. Má po sobě tvrdé, krystalům podobné výrůstky. Dlouhý, extrémně lepkavý jazyk, dostatečně pevný, aby udržel váhu jejich těla. Z nějakého důvodu zřejmě rádi visí ze stropů. Mentální testování se teprve bude provádět, ale působí poněkud arogantně. Některé ženské rysy jako SAW-06.\n<>\nNÁZEV SUBJEKTU: SAW-11 \"Velvet\"\nPOČET: 158\n- Zmutovaný SAW-06 zkřížený s členovčí DNA. Vypadá konvenčně jako pavouk. Bylo na nich provedeno jen velmi málo testů, protože obvykle děsí zaměstnance, a to jak chováním, tak fyzickým vzhledem. Vyžaduje se přísný protokol - je hlášeno, že jeden nešťastný údržbář byl sveden ke kontaktu se SAW-11. Jeho napůl sežraná mrtvola byla nalezena o několik hodin později, s viditelnými stopami krve kolem všech SAW-11 uskladněných ve stejné jednotce.\n<>\nNÁZEV SUBJEKTU: SAW-12 \"Dune\"\nPOČET: 1889\n- Zmutovaný SAW-05 zkřížený s členovčí DNA. JE NUTNÝ PŘÍSNÝ PROTOKOL - Bylo hlášeno několik vražd zaměstnanců a sawianů. Přicházejte do kontaktu pouze z dálky a se smrtící zbraní. Nenechte se oklamat jejich vzhledem. Mají kanibalistické sklony a téměř neukojitelný hlad. Jejich velmi chabá inteligence tento fakt jen zdůrazňuje. Velká většina jejich populace má být deportována do <corrupt:0xFF0033>, aby byla zajištěna trvalá bezpečnost našich zaměstnanců, protože likvidace všech není proveditelná.\n<>\nNÁZEV SUBJEKTU: SAW-13 \"Shelly\"\nPOČET: 784\n- Zmutovaný SAW-10 zkřížený s členovčí DNA. Nebojte se jejich vzhledu - SAW-13 jsou obecně poslušní. Nemají ústa a zjevně se živí zářením z okolního prostředí. Nejsou schopni mluvit, ale zřejmě mají relativně vysokou inteligenci. Zaměstnancům, kteří ovládají Univerzální znakový jazyk, se doporučuje provádět jejich testování. Jejich krunýř omezuje jejich reprodukci, ale jejich klonování je stále poměrně snadné. Omezte destruktivní testování, pokud je to možné.\n<>\n[STRANA 2 ZE 2]",
+            "Item1": "BIOMETRICKÉ HLÁŠENÍ - 2508-04-08-09-06-19-9993\n<>\nDATABÁZOVÝ INDEX: Registr projektu Sawian\nDATABÁZOVÝ SUBINDEX: Druhy\n<>\n[OBSAH]\n<>\n[PRO VŠECHNY SUBJEKTY V REGISTRU]\n- PŘEPIS TYPU SUBJEKTU: Šablona\n- TŘÍDA SUBJEKTU: Biologický\n- PODTŘÍDA SUBJEKTU: Sawian\n<>\nNÁZEV SUBJEKTU: SAW-07 \"Voyager\"\nPOČET: 3884\n- Zmutovaný SAW-01 se zkříženou kočičí DNA. Naprostý hajzl. Z nějakého důvodu nenávidí ostatní druhy, ale k nám chová velkou úctu. Vysoce obratný, ale nepředstavuje velké riziko útěku. Rádi se schovávají, k velké škodě našich testovacích postupů.\n<>\nNÁZEV SUBJEKTU: SAW-08 \"Baron\"\nPOČET: 75\n- Zmutovaný SAW-02 zkřížený s <corrupt:0xFFDED0> DNA. Tyčící se do výšky. Asi dvakrát větší než lidská bytost. Extrémně silný, přesto emocionálně stabilní. Ačkoliv nepředstavuje riziko útěku, doporučuje se držet ho pod přísnějším protokolem. Jejich velikost ztěžuje jak klonování, tak reprodukci - vyhněte se zabití, pokud je to možné.\n<>\nNÁZEV SUBJEKTU: <corrupt:0xFFEFEA>\nPOČET: 3067\n- Zmutovaný SAW-05 zkřížený s insektoidní DNA. Duté kosti. Zvláštně jasně růžová barva srsti. Má přívěsky podobné křídlům a insektoidní rysy. Mají tendenci se chovat jako kreténi, i když zjevně ne zlomyslně. Jejich vzhled zřejmě přitahuje pohledy ostatních sawianů.\n<>\nNÁZEV SUBJEKTU: SAW-10 \"Crystal\"\nPOČET: 2368\n- Zmutovaný SAW-06 zkřížený s ještěří DNA. Má po sobě tvrdé, krystalům podobné výrůstky. Dlouhý, extrémně lepkavý jazyk, dostatečně pevný, aby udržel váhu jejich těla. Z nějakého důvodu zřejmě rádi visí ze stropů. Mentální testování se teprve bude provádět, ale působí poněkud arogantně. Některé ženské rysy jako SAW-06.\n<>\nNÁZEV SUBJEKTU: SAW-11 \"Velvet\"\nPOČET: 158\n- Zmutovaný SAW-06 zkřížený s členovčí DNA. Vypadá konvenčně jako pavouk. Bylo na nich provedeno jen velmi málo testů, protože obvykle děsí zaměstnance, a to jak chováním, tak fyzickým vzhledem. Vyžaduje se přísný protokol - je hlášeno, že jeden nešťastný údržbář byl sveden ke kontaktu se SAW-11. Jeho napůl sežraná mrtvola byla nalezena o několik hodin později, s viditelnými stopami krve kolem všech SAW-11 uskladněných ve stejné jednotce.\n<>\nNÁZEV SUBJEKTU: SAW-12 \"Dune\"\nPOČET: 1889\n- Zmutovaný SAW-05 zkřížený s členovčí DNA. JE NUTNÝ PŘÍSNÝ PROTOKOL - Bylo hlášeno několik vražd zaměstnanců a sawianů. Přicházejte do kontaktu pouze z dálky a se smrtící zbraní. Nenechte se oklamat jejich vzhledem. Mají kanibalistické sklony a téměř neukojitelný hlad. Jejich velmi chabá inteligence tento fakt jen zdůrazňuje. Velká většina jejich populace má být deportována do <corrupt:0xFF0033>, aby byla zajištěna trvalá bezpečnost našich zaměstnanců, protože likvidace všech není proveditelná.\n<>\nNÁZEV SUBJEKTU: SAW-13 \"Shelly\"\nPOČET: 784\n- Zmutovaný SAW-10 zkřížený s členovčí DNA. Nebojte se jejich vzhledu - SAW-13 jsou obecně poslušní. Nemají ústa a zjevně se živí zářením z okolního prostředí. Nejsou schopni mluvit, ale zřejmě mají relativně vysokou inteligenci. Zaměstnancům, kteří ovládají Univerzální znakový jazyk, se doporučuje provádět jejich testování. Jejich krunýř omezuje jejich reprodukci, ale jejich klonování je stále poměrně snadné. Omezte destruktivní testování, pokud je to možné.\n<>\n[STRANA 2 ZE 2]",
             "Item2": ""
         },
         {
