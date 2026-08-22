@@ -24,7 +24,7 @@ Please describe what this pull request includes:
 ### General Requirements
 
 - [ ] I’ve read and followed the contribution guide's recommendations.
-- [ ] No keys are missing or extra compared to `en.json`.
+- [ ] No keys are missing or extra compared to `EN.json`.
 - [ ] Untranslated lines remain in **English**.
 - [ ] I updated the `README.md`
 
