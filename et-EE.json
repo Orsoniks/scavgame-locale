@@ -1,6 +1,7 @@
 {
     "name": "Eesti (Estonian)",
     "description": "Keele faili tõlkis Kevin Sõrmus (või GitHubi kasutajanimi KevinIsGreat25).",
+    "version": "7.7.9",
     "main": {
         "bandage": "Side",
         "bandagedsc": "Rull sidemega sidumisvahendit, mida kasutatakse verejooksu aeglustamiseks, luumurdude stabiliseerimiseks ja naha paranemise toetamiseks. Ei avalda mõju lihaste tervisele.",
@@ -54,7 +55,7 @@
         "aeddsc": "Elektrooniline seade, mis diagnoosib eluohtlikke südame rütmihäireid ja ravitseb neid elektrišokkide abil. Kasuta rinnaku ülaosal. Erinevalt manuaalsest defibrillaatorist ei nõua see väljaõpet, kuid selle tööle hakkamine võtab kauem aega ja see tarbib rohkem energiat.",
         "manualdefibrillator": "Manuaalne defibrillaator",
         "manualdefibrillatordsc": "Elektrooniline seade, mida kasutatakse ohtlike südamerütmide stabiliseerimiseks. Kasuta rinnaku ülaosal. See seade on manuaalne ja nõuab õigeks kasutamiseks teadmisi. Võrreldes AED-ga on see kiirem ja tarbib vähem energiat, kuid selle toimimine pole garanteeritud. Kõrgem INT muudab kasutamise lihtsamaks.",
-        "antidepressants": "Antidepressandid",
+        "antidepressants": "Antidepressandi pudel",
         "antidepressantsdsc": "140 ml pudel antidepressantidega. Annus on 20 ml.",
         "antibiotics": "Antibiootikumide pudel",
         "antibioticsdsc": "100 ml tabletipudel antibiootikumidega. Annus on 20 ml.",
@@ -334,6 +335,8 @@
         "blindfolddsc": "Must riidest side silmade katmiseks. Pakub kerget kaitset, kuid sulgeb sinu tegelase silmad.",
         "balaclava": "Näomask",
         "balaclavadsc": "Paks pehmendusega riie kolju ümber. Pakub vähest kaitset ja head isolatsiooni.",
+        "earmuffs": "Kõrvaklapid",
+        "earmuffsdsc": "Moodne paar patju, mis on ühendatud metallist peavõruga. Kaitseb valjude helide eest ja pakub teatavat isolatsiooni... kuidagi. <i>Äärmiselt</i> valjude helide vastu need eriti ei toimi.",
         "latexgloves": "Latekskindad",
         "latexglovesdsc": "Lihtsad latekskindad. Pakuvad vähest isolatsiooni elementide eest.",
         "tacticalgloves": "Taktikalised kindad",
@@ -358,9 +361,9 @@
         "hoodiedsc": "Must, väga ülesuuruses pusa, mis hoiab sind soojas ja millel on väike tasku.",
         "metabolismchip": "Ainevahetuskiip",
         "metabolismchipdsc": "Kiip, mis suurendab veidi sinu ainevahetust, muutes su jäsemete regeneratsiooni palju kiiremaks, kuid kulutades selleks rohkem näljatunnet.",
-        "xalorissponge": "Xalorise käsn",
-        "xalorisspongedsc": "Xalorise küljest rebitud kortsus eostemahuti. Saab kasutada jäsemel infektsiooni tõrjumiseks või süüa toiteväärtuse saamiseks. Selle eosed võivad mõjutada su immuunsüsteemi.",
-        "jetpack": "Rakettmootor seljakott",
+        "heatfernsponge": "Heatferni käsn",
+        "heatfernspongedsc": "Soojasõnajala rebenenud ja kokkutõmbunud eoseanum. Seda saab kasutada jäsemel infektsiooni vastu võitlemiseks või süüa toiteväärtuse tõttu. Selle eosed võivad mõjutada teie immuunsüsteemi.",
+        "jetpack": "Rakettmootoriga seljakott",
         "jetpackdsc": "Seljas kantav seade, mis kasutab jugasid kandja õhku lennutamiseks. Piiratud kütusega ja märgudes selle töö halveneb. Kasutamiseks hoia all W klahvi. Sellel on ka väike tasku asjade hoiustamiseks.",
         "dynamite": "Dünamiit",
         "dynamitedsc": "Nitroglütseriinist, sorbentidest ja stabilisaatoritest koosnev lõhkeaine. Hea maastikusse aukude tegemiseks. Mitte just parim sinu kõrvadele.",
@@ -605,8 +608,10 @@
         "snowstriderdsc": "Suur kohev olend, kes jahib toitu selle koobastiku külmades piirkondades. Tema paks karv hoiab teda soojas.",
         "spaceheater": "Ioon-ruumisoojendi",
         "spaceheaterdsc": "Seade, mis soojendab tugevalt ümbritsevat ala. Võib põhjustada kerget kiiritushaigust, kui oled liiga kaua liiga lähedal.",
-        "xaloris": "Xaloris",
-        "xalorisdsc": "Käsnaline ja okkaline sõnajalg, mis soojendab ümbritsevat õhku eoste levitamiseks. Hoiab külma eemal, kuid eoste sissehingamine liiga kaua võib su immuunsüsteemi kahjustada.",
+        
+        "heatfern": "Heatfern",
+        "heatferndsc": "A spongy and brambly fern that heats up the air around it to spread spores to its surroundings. Keeps the cold at bay, but breathing in the spores for too long might mess with your immune system.",
+        
         "lifepodheater": "Päästekapsli soojendi",
         "lifepodheaterdsc": "Hoiab sisemuse kena ja soojana.",
         "tutorialcraftingbutton": "Lähtestamise nupp",
@@ -996,6 +1001,7 @@
         "impendingdoom": "Saabuva hukatuse tunne",
         "horrified": "TERRORISEERITUD",
         "focused": "FOOKUSES",
+        "cargo": "<spoiler>",
         "braindamage4dsc": "...",
         "braindamage3dsc": "reaalsus.. lakkab.. olemast.. mõistetav",
         "braindamage2dsc": "Tugev vaimne puudujääk. Võime ratsionaalselt mõelda ja ise toime tulla on piiratud. Esineb tõsine ajukahjustus.",
@@ -1104,7 +1110,7 @@
         "cold2dsc": "Ebameeldivalt külm. Sinu keha aeglustub.",
         "cold3dsc": "Ohtlikult madal temperatuur, keha ja mõistus on külma kütkes. Kogu su keha lülitub aeglaselt välja.",
         "cold4dsc": "Sulle tundub, et põled, kuid oled nii väsinud ja segaduses. Võiksid teha ühe pika uunaku...",
-        "wet1dsc": "Sinu karv tundub veidi niiske.",
+        "wet1dsc": "Tunned end kergelt märjana.",
         "wet2dsc": "Märgatavalt märg. Temperatuur ja mugavustunne vähenenud.",
         "wet3dsc": "Täiesti märg. Temperatuur ja mugavustunne oluliselt vähenenud.",
         "wet4dsc": "Täiesti vettinud! Vesi rõhub sind alla. Temperatuur ja mugavustunne tugevalt vähenenud.",
@@ -1113,9 +1119,9 @@
         "underweight3dsc": "Oled ohtlikult kõhn ja õrn. Palju nõrgem kui vaat, altid väsimusele ja loidusele. Väiksem kandevõime.",
         "underweight4dsc": "Oled ülemäära kõhn. Näed ja tunned oma luid kergesti läbi karva. Kõrge südamepuudulikkuse oht. Väga väike kandevõime.",
         "overweight1dsc": "Püüa kaotada paar kilo.",
-        "overweight2dsc": "Ebatervislikult ülekaaluline, kuigi näed teiste liikidega võrreldes üsna keskmine välja. Kömpsem, väsid kiiremini.",
+        "overweight2dsc": "Ebatervislikult ülekaaluline, Kohmakam, väsid kiiremini.",
         "overweight3dsc": "Ohtlikult lai ja pehme. Palju kuumpsem ja altim kurnatusele.",
-        "overweight4dsc": "Eluohtlikult rasvunud. Tundub, nagu oleksid karvakoti puhta rasva ja näljaga täitnud. Kõrge südamepuudulikkuse oht.",
+        "overweight4dsc": "Eluohtlikult rasvunud. See on nagu oleksid lihakoti rasva ja nälga täis toppinud. Kõrge südamepuudulikkuse oht.",
         "depression1dsc": "Hakkad mõistma oma olukorra tõsidust. Püüa oma tähelepanu kõrvale juhtida.",
         "depression2dsc": "Puudub motivatsioon edasi minna, võideldes emotsioonidega. Asjad ei näi paranevat. Leia viis tähelepanu kõrvalejuhtimiseks.",
         "depression3dsc": "Vaevu nõus midagi tegema. Sinu mõistus on meeleheitest räsitud. Ehk saab see kõik varsti läbi?",
@@ -1167,6 +1173,7 @@
         "impendingdoomdsc": "Sa ei suuda midagi parata ootamatule, valdava hirmu tundele. Sinu nahk on üleni kananahas. Tundub, nagu oleks loodus su ümber järsku vaikinud...",
         "horrifieddsc": "EI SUUDA KESKENDUDA. EI SUUDA MÕELDA. MISKI MUU EI LOE. JOOKSE OMA ELU EEST VÕI VÕITLE SELLE EEST!",
         "focuseddsc": "<i>Me mõlemad sureme täna. Üks lihtsalt veidi hiljem kui teine.</i>",
+        "cargodsc": "<spoiler>"
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1460,6 +1467,7 @@
         "milkytraderdsc": "Erakordselt lühike ja kohev valge olend, kellel on väga lame koon ja lühikesed valged sarved peast välja ulatumas. Tõenäoliselt mingil määral veelise eluviisiga, otsustades nende seljal oleva uimede paari järgi. Nad tunduvad üsna intelligentsed ja kergelt ülbed, tõenäoliselt on neil mingi relv oma muljetavaldamatute füüsiliste omaduste kompenseerimiseks. Nad ei ole eriti altid füüsilisele kiindumusele, neilt kallistuse saamine võib nõuda suuremat usaldust.",
         "dune": "Dune",
         "dunetraderdsc": "Pikk, lai, imposantne, lihaseline ajust. Nende kehal on laiali kummalise välimusega uimed, pea küljelt ulatuvad välja 6 oga ja hirmutavalt suur suu, mis on täis suuri ja teravaid hambaid. Tundub, et neil on torso ümber lõpused. Kuigi nad ei ole otseselt agressiivsed, juhib neid peamiselt nälg, seega tõenäoliselt ei hooli nad liiga palju neist nipsasjadest, mida sa neile annad; pead mõtlema paremale viisile, kuidas nende poolehoidu võita.",
+        "dunespecialtraderdsc": "Toit.",
         "Shelly": "Shelly",
         "clicktocontinue": "Klõpsa jätkamiseks...\nESC, et vahele jätta",
         "favouriteditem": "Lemmikuks märgitud esemeid ei kasutata meisterdamisel",
@@ -1481,6 +1489,11 @@
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[PERE] \"Koerlane\"\n[TSITAAT] \"Ma järgin seda.\"\n[EDUKAS_ETTE_ENNUSTAMINE] \"0.0103%\"\n[MÄRKUSED] \"Natuke snoob\"",
         "char1quirks": "[NARKOLEPTIK] - Sinu unetsükkel on palju lühem, aga sa ei tunne karedal pinnal magamise negatiivseid mõjusid.\n[KASV] - Sa oled pisike!\n[KOHANDATUD_SILMAD] - Näed paremini ja valgusallikad ulatuvad kaugemale.\n[POOL_TAIMTOIDULINE] - Liha teeb sind natuke haigeks ja annab vähem toitaineid.\n[KONDINE] - Kogu STR-i võimendus poole võrra väheneb.\n[TÄPSUSLASKUR] - Tulirelvade käsitsemiseks võite kasutada kiirklahve.\n[TUGEV_FASSAAD] - Sinu vaimseks murdmiseks on vaja enamat. Sa ei ole selline, kes hell on, kui sa seda tõesti ei vaja.\n[KOERLANE] - Su kõht ei mängi hästi teobromiinile.",
+        "char2name": "[SAW-12] \"Dune\"",
+        "char2desc": "[PERE] \"Putukakujuline\"\n[TSITAAT] \"Hrrnn... Du-neil aeg minna..?\"\n[EDUKAS_ETTE_ENNUSTAMINE] \"0.001%\"\n[MÄRKUSED] \"Euu! Sellel on ila tilkumas!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[LIGIPÄÄS_KEELATUD]",
+        "characterunlockdsc": "Lõpeta eelmise tegelasega jooks, et avada",
         "presetnormal": "Tavaline",
         "presetnormaldsc": "Vaikimisi kogemus. Vead on karistatavad. Teadmised ja olukorrateadlikkus on suurelt tasustatud. Aeg on ülioluline. Sinu surm on peaaegu garanteeritud.",
         "presetrelaxed": "Lõdvestunud",
@@ -1492,13 +1505,15 @@
         "presetunchipped": "Ilma kiibita",
         "presetunchippeddsc": "Kuigi kiibi puudumine leevendab tehislikku ajapiirangut, millega teised on piiratud, muudab see ka enda diagnoosimise keeruliseks ettevõtmiseks. Võib-olla tasub see end lõpuks ära?",
         "presetendless": "Lõputu",
-        "presetendlessdsc": "Siit pole pääsu; see on sinu surmaotsus. Kui kaugele suudad jõuda, kui ohud sinu ees mitmekordistuvad?\n\n[MÄRKUS: Selles etapis pole saadaval, kuna mäng on hetkel niikuinii lõputu]",
+        "presetendlessdsc": "Siit pole pääsu; see on sinu surmaotsus. Kui kaugele suudad jõuda, kui ohud sinu ees mitmekordistuvad?",
         "runsettings": "Jooksu seaded",
         "runsettingsdsc": "Vali allolevatest eelseadetest mängustiil. Saad neid parempoolsel kohandatud seadete paneelil muuta.",
         "customsettings": "Kohandatud seaded",
         "customsettingsdsc": "Seadista spetsiifilisi jooksu seadeid",
         "runsetunchipped": "Ilma kiibita",
         "runsetunchippeddsc": "Keelab sinu tervisepaneeli, sundides sind pingutama, et välja selgitada, millised konkreetsed vaevused sul on. Lubab vaatevälja.",
+        "runsetendless": "Lõputu",
+        "runsetendlessdsc": "Kui see on sisse lülitatud, siis kihid tsüklivad teatud punktist alates, muutes jooksu lõputuks kuni surmani. Mängu sel viisil võita ei saa.",
         "runsetbaselootdensity": "Saagi tihedus",
         "runsetbaselootdensitydsc": "Kui palju saaki igal tasemel ilmub. Mõjutab kukkumiskapsleid, päästekapsleid ja kaste",
         "runsetlootmultiplier": "Kauguse saagi kordaja",
@@ -1514,6 +1529,8 @@
         "runsetstartingsuppliesnone": "Mitte midagi",
         "runsetstartingsupplieslight": "Taskulamp",
         "runsetstartingsuppliesfull": "Täiskomplekt",
+        "runsetenemystrength": "Vaenlase tugevus",
+        "runsetenemystrengthdsc": "Vaenuliku loomastiku tekitatud kahju kordaja",
         "runsetxpgain": "Kogemuste saamine",
         "runsetxpgaindsc": "Kordaja selle kohta, kui palju oskuste kogemust sa saad",
         "runsetmetabolismrate": "Ainevahetuse kiirus",
@@ -1536,6 +1553,8 @@
         "runsetstaminaregendsc": "Kui kiiresti sinu vastupidavus taastub peale kasutamist",
         "runsetattackdamage": "Rünnaku kahju",
         "runsetattackdamagedsc": "Kui palju kahju sa oma löökidega teed",
+        "runsetinsulationmultiplier": "Soojustuse kordajat",
+        "runsetinsulationmultiplierdsc": "Kui kaitstud olete ümbritseva õhu temperatuuri eest",
         "runsetstrokes": "Luba insuldid",
         "runsetstrokesdsc": "Määrab, kas hüpertensiivse kriisi ajal on võimalik insulti saada",
         "runsetbraindamagefx": "Ajukahjustuse mõjud",
@@ -1685,8 +1704,8 @@
         "gamesetbark": "Haigu",
         "gamesetconsole": "Lülita silumis konsool",
         "gamesetpause": "Peata",
-        "gamesetmarksmanrack": "(Täpsuslaskja) Liiguta slaidi",
-        "gamesetmarksmanunload": "(Täpsuslaskja) Väljuta salv",
+        "gamesetmarksmanrack": "(Ainult Täpsuslaskja) Liiguta slaidi",
+        "gamesetmarksmanunload": "(Ainult Täpsuslaskja) Väljuta salv",
         "copy": "Kopeeri lõikelauale",
         "paste": "Kleebi lõikelaualt",
         "descend": "Lange",
@@ -2237,9 +2256,11 @@
         "tutclosehealthpanel": "Sule tervisepaneel.",
         "tutopenhealthpanel": "Ava tervisepaneel.",
         "tutnice": "Kenasti.",
+        "outdatedwarning": "<size=200%>Hei!<size=100%>\nValitud keelefail on aegunud. Osa tekstist võib olla katki.\nProovi inglise keelele üle minna või leia uuem versioon.",
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Aasta 2XXX \n<>\nInimkonna tehnoloogia on märkimisväärselt edenenud. Asjad, mis varem tundusid võimatud, on nüüd tavalised.\n<>\nSelle keskmes oli üks ettevõte. Nende edusammud tundusid imetlusväärsed, kuid nad kaitsesid oma saladusi tihedalt.\n<>\nAastaid tagasi olid nad loonud uue liigi: loomade ja inimeste DNA kombinatsiooni, mida nad lihtsalt kutsusid \"Eksperimentideks\".\n<>\nNeed eksperimentid olid täiuslikud katseobjektid, piisavalt inimeste lähedal, kuid nende endi kontrolli all. Nad töötasid nende kallal, muutes nende bioloogiat veelgi enam oma vajadustele vastavaks, ja aastaid kasvas populatsioon.\n\nÜkski ei näe kunagi välist.\n<>\nNüüd näis, et Maa ei suuda enam nende ambitsioone mahutada. Oma äsja väljamõeldud teleportimistehnoloogiaga suunasid nad silmad hallile planeedile, mis on elurikkalik.\n<>\nVarsti saadeti tonnade kaupa erinevat kaupa ja prügi.\n<>\nKalibreerimisraskuste tõttu jäi umbes sama palju planeedi koobasüsteemi kui pinnale, kuid projekt edenes sujuvalt. \n<>\nSeni, kuni teadmata viga põhjustas, et oluline tehnoloogiline komponent saadeti hoopis sügavale koobastesse.\n<>\nVarsti leidsid teadlased plaani. Plaan, mis oli neile vähe riskantne.\n<>\nEdu tõenäosus oli madal, aga nende elavat loomasööta oli külluses.\n<>\nSa oled üks õnnetu isend.\nVastupanu pole valik."
     },
     "character": [
@@ -3984,6 +4005,21 @@
               "...Oh. Oh. OH. OH! EI. EI EI EI. OOTA. MIKS? MIDA MA TEGIN!?",
               "...A-ah... Olgu... N-noh... H-hüvasti, s-siis..."
             ],
+             "endlessloop0": [
+                "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
+            ], 
+            "endlessloop1": [
+                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ], 
+            "endlessloop3": [
+                "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+            ],
+            "endlessloopdefault": [
+                "Oh, round and round we go..."
+            ],  
             "vomitresponse": [
                 "Uuuhmm... Sinuga kombes..?"
             ],
@@ -4515,7 +4551,7 @@
                 "Ümbritseva keskkonna temperatuur on kõrge."
             ],
             "hot": [
-                "Mul on väga kuum.  ...Mitte sel viisil...",
+                "Mul on väga kuum.",
                 "...Kuum. Väga. Kuum.",
                 "Sellise tempoga võin ma kuumaranduse saada...",
                 "Ma olen eluohtlikult üle kuumenenud...",
@@ -4776,6 +4812,21 @@
             "selfdestruct": [
                 "Oh, oh, miks, mida, MIKS!? LÕPETAGE SEE! MA EI OLE SEDA ÄRA TEENINUD! TE LABORIMANTLIS PASAPEAD!",
                 "Tere, piiksumine. Mida see võiks tähendada??"
+            ],
+            "endlessloop0": [
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+            ],
+            "endlessloop1": [
+                "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+            ],
+            "endlessloop2": [
+                "...What a d-depressing outcome. This mission is doomed to fail."
+            ],
+            "endlessloop3": [
+                "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
+            ],
+            "endlessloopdefault": [
+                "......*sigh*"
             ],
             "traderwarning": [
               "Lahku.",
@@ -5239,6 +5290,566 @@
                 "M-ida valesti sõ-braga..?",
                 "Du-ne ei tea kuidas a-bi..."
             ]
+        },
+        {
+            "seeGravel": [
+                "Hhrnnn... Si-in...",
+                "Nnhh... H-all...",
+                "Du-ne... Mine...",
+                "...Miks l-õpp..?",
+                "Nnnhh... Toi-du koht...",
+                "Saa-bu-mine.",
+                "Kü-lm..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! Mai-us!!",
+                "Ngghraahhh! Du-neile meel-dib..!",
+                "Hnnn...Hnnnrr...He-a...",
+                "To-it... Meel-dib...",
+                "Mait-seb... Eri-li-selt... Nhhrr...",
+                "Nrr... Meel-dib...",
+                "Tah-an... Ve-el..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... To-it...",
+                "Du-ne... Süüa... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Süüa... Ku-ni... Nggrrhh... Tä-is...",
+                "Sü-üa...",
+                "Mait-sev...",
+                "Du-ne... Meeldib süüa... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Süü-a...",
+                "Nngrr... Ve-el..?",
+                "Ta-h... Du-ne... Gnnhnhrr... Sü-üa... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Woh?",
+                "Du-ne... Ei... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Halb..."
+            ],
+            "tired": [
+                "Ma-agada... Tah-an...",
+                "Du-ne... Pikutada...",
+                "M...Agada.",
+                "Aaaa... Gaada..!",
+                "Magaaa-da.... Maga-daaaa...",
+                "Mnnhhrr... Ma-ha..."
+            ],
+            "verytired": [
+                "Va-jan.... Pikutada...",
+                "Vääää... Sind...",
+                "Nnnhhh......Ma-ha...",
+                "Pikali... Heit-ma...",
+                "Hhhrrnn... M...Maa-gaada..."
+            ],
+            "confused": [
+                "Pe-a...",
+                "Gghhnn... Ghhrrrr...",
+                "Mm.... Mi-da....",
+                "Ei... Te-aa....",
+                "Seg-aduses....",
+                "Nnhhhrrr...",
+                "Ei... Du-ne... Ime-lik..... Ghhr...",
+                "Eeeehhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... Ärkab...",
+                "Te-ere...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "E-lus...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Us-ku... Võitlema...",
+                "Toi-t... Tagasi lööma...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... M-ida...",
+                "Nhgghhrr... Du-ne...... Halb....",
+                "Ghhn... Halb... Süüa..?"
+            ],
+            "vomitblood": [
+                "Du-ne... Tun-neb haaalvasti....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... M-ida...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... M-ida...",
+                "Nggh...du-ne...pole...hee-a..."
+            ],
+            "full": [
+                "Du-ne tä-is...",
+                "Sõ-õn palju...!",
+                "Oo-ta sõõn...",
+                "Du-ne ei en-am sõõ...",
+                "Ngghh... Tä-is...",
+                "A-itabb... Gnnh..."
+            ],
+            "hungry": [
+                "Tah-an... Ve-el... Toi-tu...",
+                "Du-ne...näljane...",
+                "Hammustada?",
+                "...Nggh... Tah-an...",
+                "Näl...g...",
+                "*illastamine*",
+                "Ku-s... Süüa..?",
+                "Ham-mustada...",
+                "S-üüa..?",
+                "Du-ne...s-üüa..?"
+            ],
+            "starving": [
+                "*tugevalt illastamine*",
+                "Va-ja... Süüa!",
+                "Ngghhhhrrr! Toi-t!!!",
+                "NGHHRRHHH!! Ku-s sõõk!?",
+                "Nhghhrrr! Du-ne näl-gib!!",
+                "NNGRHH!! TOI-T!! DU-NE!!"
+            ],
+            "thirsty": [
+                "L-õristama..?",
+                "Ve-tt...",
+                "Mmm... J-uua..?",
+                "Du-ne... Ve-tt...",
+                "Wan-t... Ve-tt..?",
+                "J-uua..."
+            ],
+            "dehydrated": [
+                "Vajan... Ve-tt..!",
+                "Ngghh... K-uiv...",
+                "Ve-tt...nüüd!!",
+                "Gghrhhh... Ve-tt!!",
+                "Du-ne... J-anu..!",
+                "Du-ne... Ve-tt... NÜÜD!",
+                "Gghhrraaaghh! J-uua! Nüüd..!"
+            ],
+            "limbmuscle": [
+                "<Limb> ei lii-gu...",
+                "Du-ne <limb> lõpeta töö-tama..?",
+                "Du-ne vaj-ab uut <limb>.",
+                "<limb> ei tööta...nnngrrhh...",
+                "<limb> on õe-l..! Gghhrr!",
+                "Du-ne...<limb> viga-ne..!"
+            ],
+            "limbinfected": [
+                "Du-ne <limb> so-e...",
+                "Haige..?",
+                "Nnnrr...<limb> näe-b imelik..?",
+                "Du-ne <limb> löö-ve..?",
+                "Hhnnn...<limb> tun-dub imelik..."
+            ],
+            "limbskin": [
+                "<limb> koll-ane..?",
+                "Oooouur! <limb> on ha-lb!",
+                "Du-ne haiget saanud...",
+                "Du-ne <limb> haiget saanud...",
+                "Ghhhrr...<limb> pole he-a..."
+            ],
+            "sad": [
+                "Kurb.",
+                "Du-ne kurb.",
+                "Ei n-aeratus...",
+                "Du-ne ei n-aerata...",
+                "Du-ne tun-neb halvasti.",
+                "Ei õnn-elik...",
+                "Du-ne pole õnne-lik..."
+            ],
+            "gloomy": [
+                "Toi-t teeb tun-de paremaks...",
+                "Toit paneb du-neil tundma paremini...",
+                "Vä-ga kuurb...",
+                "Vä-ga kuurb du-ne...",
+                "Grrr..mõistus halb.",
+                "Grrhhh...du-ne mõistus halb...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-ne ei tunne häs-ti!",
+                "Ei tunne häs-ti!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! M-iks!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! VIIHKAAN!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! VIIHKAAN!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "AANNNGRRYY! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... HÄV-ITA!!!",
+                "NNNGRRAGHHHH! VVIIHKAAN! HÄV-ITA!!!",
+                "GGHHRAAHHHGNHH! DU-NE VIHKAN! HÄV-ITA!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne hävi-tab... Sõb-ra..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*sisin*",
+                "Ei...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "Ve-ritseb...",
+                "Du-ne...veri-tseb...",
+                "Du-ne...leke...",
+                "Lekkib...kollane...",
+                "Ko-llane...h-alb...",
+                "H-alb...veri-tseb...",
+                "H-alb...du-ne vigane..!",
+                "Ngghhhrr! Du-ne vigane!",
+                "Grrhhhh! Du-ne v-aja abi!",
+                "Ap-pi!! Du-ne!",
+                "Du-ne va-ja parandada..!",
+                "Nnnrr... Du-ne koll-llane...",
+                "Nrr... V-eri...",
+                "Nrrhh... Du-ne...v-eri!!"
+            ],
+            "bleedingheavy": [
+                "Ver-itseb!!",
+                "Du-ne ver-itseb!! Pa-lju!!",
+                "Du-ne...leke!! Nü-üd!!",
+                "V-ool...kollane! Du-ne ab-i!!",
+                "Ko-llane!! H-alb!!!",
+                "H-alb...ver-itsemine...",
+                "H-alb...du-ne vigane..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "Ap-pi!! Du-ne! K-OHE!!!",
+                "Du-ne vaj-ab PARANDUST..! A-PPI!!",
+                "NnnrrrhhNGHHH!! DU-NE LIIGA KOLL-ANE!!",
+                "Nrrgghhh!!! V-eri!!!",
+                "Nrrhhh..! Du-ne v-eri!! Palju!!!"
+            ],
+            "steponglass": [
+                "Du-ne kl-aas...",
+                "Se-lge a-si haiget du-neile!!",
+                "Du-ne va-lu te-rav!!!"
+            ],
+            "seecorpse": [
+                "Tas-uta toi-t?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... Tas-.uta.?",
+                "Mmmmrr... Sõb-er..?",
+                "Hrnn!! Sõ-ber! Oh....",
+                "Mmm... Mait-sev... Lei-dis..?",
+                "Du-ne... Lei-ab sõb-ra..?",
+                "Miks sõb-er ei lii-gu..?",
+                "Toit!",
+                "*illastamine*",
+                "Aaarrh! Te-re?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Ve-el toi-tu...",
+                "Te-re sõ-ber.",
+                "Lai-p.",
+                "Sõ-ber va-lus?",
+                "Ve-el lai-pe.",
+                "Roh-kem toitu du-neile.",
+                "Ter-e!!",
+                "Du-ne näe roh-kem lai-pe.",
+                "Nii pal-ju sure!",
+                "Palju süü-a!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne liitub sõb-raga...",
+                "Du-ne kade...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-ne kü-m! Vaj-an vett...",
+                "Du-ne kül-m...",
+                "Du-ne ei mee-ldi kü-lm.",
+                "Ei mee-ldi kü-lm."
+            ],
+            "warm": [
+                "Du-ne so-e.",
+                "Du-ne kuum!",
+                "Du-ne va-ja maha jahu-tada.",
+                "Du-ne liiga so-e...",
+                "So-e.",
+                "Kuum..."
+            ],
+            "hot": [
+                "Du-ne põleb!",
+                "Du-ne liiga kuuma!!",
+                "Va-ja... Kül-ma...",
+                "Liiga.. Ku-um...",
+                "Nnhggh... Pea..pööritus!"
+            ],
+            "exerted": [
+                "Nnnghh... R-aisatud...",
+                "Du-ne... Puhata...",
+                "*ohe*",
+                "Nnnrr.. Töö-tama... Palju!"
+            ],
+            "exhausted": [
+                "Nhhgh... Pu-hata..!",
+                "Gghrhrhh... Vä...si!!!",
+                "Ggrhhh...! L-õpeta...",
+                "Ngghhhhrrrrrrhh...",
+                "*ähkimine*"
+            ],
+            "freezing": [
+                "Du-ne... Nii... K-ülm...",
+                "Ngghhhrr... Nii k-ülm..!",
+                "Nnhh... N-nnhh... K-ülm...",
+                "N...Nii... K-ülm..! Ngr...",
+                "Kü-lmetab...",
+                "Du-ne... Kül-metab...",
+                "Nhhhrrr... Du-ne... L-iiga k-ülm...",
+                "Ggrrrh..! L-iiga k-ülm..."
+            ],
+            "emaciated": [
+                "Du-ne... L-iiga õhuke...",
+                "Õhuke...",
+                "P...ean. Sõõma r-ohkem...",
+                "Du-ne... Th-in!!",
+                "L-iiga... Õhuke..."
+            ],
+            "obese": [
+                "Du-ne sõõb vä-ga häs-ti!",
+                "Nhhrr! Du-ne paksu!",
+                "Du-ne... Paks..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......meeldib..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-ne..!",
+                "W...Whhhrrnnnnn..!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......meeldib..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...rapu-ta..",
+                "Nnhrhhggh...ha-lb!!",
+                "Du-ne...tahab ve-el...asja...",
+                "Nghhrr...! Halb..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*hack*",
+                "*hack* *köha*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...val-us...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...va-lu...<limb>...",
+                "Gggrhhnn...Du-ne...va-lu...",
+                "Gggrhhnn...Du-ne...va-lu...<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "LLL-ÕÕÕPETA!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Ah? Sõb-er hammustab?",
+                "Nggrch! K-uri as-i!!",
+                "GGRRGHHH! DU-NE TA-PA!!!!",
+                "GRRACK! LAH-KU DU-NE!",
+                "GGRHR! HAM-MUSTAN TAGASI!",
+                "RGHGN! DU-NE KÄTTEMAKS!",
+                "GACK! K-URI!"
+            ],
+            "dirty": [
+                "Du-ne... Räp-ane..?",
+                "Du-ne vajab vann-i...",
+                "Du-ne tunneb lõhna.",
+                "Tunne mulda.",
+                "Lõ-hn lõhn.",
+                "Hai-sev.",
+                "Hais. Halb!",
+                "Liiga hai-sev."
+            ],
+            "encumbered": [
+                "Du-ne tugev!!",
+                "Du-ne kannab pal-ju.",
+                "Kannan pal-ju.",
+                "Palju asju.",
+                "Du-ne tugev...dune kannab!",
+                "Du-ne raske.",
+                "Du-ne ka-al.",
+                "Ras-ke.",
+                "Kaal...",
+                "Nrrr...kann-ab palju.",
+                "Nrrr...du-ne kann-ab palju."
+            ],
+            "watchlike": [
+                "Grrr. Met-all sõb-er im-elik!"
+            ],
+            "drillend": [
+                "Du-ne kardab.",
+                "Hir-mus.",
+                "Va-li mü-ra...",
+                "Du-ne tar-k!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! MI-DA!?",
+                "GRRRRR!!!",
+                "...hoooh.",
+                "GRRACK! VA-LI!",
+                "AUGRH! MÜ-RA!!!"
+            ],
+            "murderregret": [
+                "DU-NE VÕITIS!",
+                "DU-NE PEKSA KU-JA SÕP-RA!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE TUUGEEV!!!!",
+                "DU-NE KÜTTIB NÕRKA SÕP-RA!!!",
+                "DU-NE KÜTT-IMA TOI-TU!!",
+                "GRRHCHH! NÕRRK SA-AK!"
+            ],
+            "tradeemeet": [
+                "Du-ne leidis!!",
+                "Te-re!!",
+                "Du-ne tervi-tab!!",
+                "Te-re?",
+                "Mmmrrrrn...sõb-er?",
+                "Sõ-ber?",
+                "Oooo! Sõ-ber!!",
+                "Toi-t?"
+            ],
+            "swingresponse": [
+                "LÕPETA. SEE!",
+                "LÕPETA!",
+                "JOBU!",
+                "KOOPAELANIK!",
+                "LÕPETA VASTU HAKKAMINE!",
+                "LITSALT SURE JUBA!",
+                "ANNA ALLA!"
+            ],
+            "braindamaged": [
+                "Ta...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Kas keegi on seal?",
+                "",
+                "m...",
+                "m.",
+                "See.",
+                "mw...mid....a...",
+                "Re.",
+                "Du-ne.",
+                "Me-ta-ll...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...kar-dab...",
+                "Du-ne...vaj-ab...abi!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! Ei!!!",
+                "Du-ne!!! Ap-pi!!",
+                "W...wh-y...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-ne....suri...?",
+                "Lig-ht....co-me...",
+                "Tunn-e...pi-me...",
+                "on...lõpp..?",
+                "on.....läbi...",
+                "ei...va-lmis...",
+                "rnhh...du-ne...a-bi..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-ne uus hel-i? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......j-älle?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne meeldib välja-kutse. Du-ne läheb jäll-e!"
+            ],
+            "endlessloop2": [
+                "Oo! Uu-esti? Ve-el kohti lei-da toi-tu!"
+            ],
+            "endlessloop3": [
+                "Du-ne oma koo-bas."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Whiii! Du-ne võitis!"
+            ]
         }
     ],
     "notes": [
@@ -5329,12 +5940,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "leidsin relva. tulirelva. issand... ma ei ole selle asjaga harjunud... oleksin pidanud treeningatel ettevaatlikum olema... mul pole aimugi kuidas mind siia saadeti nii ettevalmistamata selle asemel et mind hävitada. lasksin peaaegu kellegi kogemata maha. oleksin pidanud relvaohutuse sisse lülitama... kust ma peaksin teadma. teised kipuvad tõesti paanitsema kui nad näevad sind relva käes hoidmas. nii et võib-olla on parim see kellegi sisse panna et nad seda ei näeks. nad arvavad et tulistaksid neid, nad ei tea su kavatsusi. no ma mõtleksin sama kui keegi mulle relva osutaks.",
+                "Item1": "ma leidsin mingisuguse... tulistava seadme. Ehmatasin end sellega hulluks... ja hävitasin selle lõksu, mis iganes mu ees oli. pole selle asjaga harjunud.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "olen nii vihane enda peale et käitusin seal ülal teistega nii lollilt... nüüd ajavad kõik ellujäänud keda leian mind oma kapslitest eemale... mees, kui teaksid kui kõvasti nad vandusid... nad üritasid mind kriimustada... ja ma lihtsalt ütlen endale: \"okei, vabandust. jumala pärast, kas te mõistate et praegu loeb iga elu? pole ruumi üksteise haavatamiseks ja tapmiseks.\". soovin et oleksin parem inimene... see on minu enda süü.",
+                "Item1": "everyone keeps shooing me from their pods. they remember me... from up there. i shouldn't have acted like that. this is terrible.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5374,17 +5985,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "See on täis igasuguseid väikseid olevikuid, kes pidevalt kõikjal ringi hulkuvad. Olen pisut patsifist, seega proovin neist eemale joosta pigem kui nendega võidelda, kuna ei tea, kes kelle kõigepealt tapab... Lõppkokkuvõttes on haavad, mida nad mulle jätavad, kuradi valusad... Ma ei tea enam... Kas meie vangistajad üldse teavad, mida me siin all läbi elame?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "Kukkusin halvasti. TÕESTI halvasti. Otse auku ja vigastustega ei suutnud ronida ega välja kaevata. Aga pääsesin välja nende metallijäätmetükkidega ning tahan seda ka teistele teada anda.\n\nSee on koopa seinad! Midagi, mida olen leidnud – isegi dünamiit – näib suutmatu koopate välispiire läbistada. Kuid need on ebaühtlased, ja kui laduda piisavalt metallijäätmetükke üksteise otsa, saad need väikestesse pragudesse suruda ja teha täieliku jalajao. Kui ma selles pimedas augus välja veritsesin, kasutasin kogutud prügi omamoodi trepi tegemiseks, et pääseda ja leida hädavarusid.\n\nLoodan siiski, et sa kunagi sellesse olukorda ei satu. Ehk saaksid seda trikki kasutada vigastuste eest kaitsmiseks juba enne seda? Kes teab, millised muud vastikud asjad on meiega siin.\n\nEhk jõuad mulle järele ja saame jagada strateegiaid.\nLoodan, et olen seal sind kohtamas.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "Tunnen end üksikuna... seega otsustasin end meelt lahutada:\nLeidsin mingi miniatuurse faksi, mida suutsin purustades avada, ja tõmbasin sealt paberilehed välja. Siis võtsin pulga ja pigistas ühe helendava vilja selle peale. See osutus justkui pintsel ja joonistuskangas! Kui vähemalt teaksite... Hakkasin joonistama alternatiivseid tegelikkusi, kus me oleme vabad ja elame rahulikult koos; ilma nende teadlastekaabakate... Tundsin end nii õnnelikuna ja nutsin veidi.\nAga nüüd pean minema: tunnen nälga! Ehk kui kohtume, joonistasin sind ka...? Sain \"pintslite\" kasutamisega tõesti heaks. Proovin ka teistele joonistamist õpetada...",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -5520,7 +6121,7 @@
                   "Item3": "experiment"
             },
             {
-                  "Item1": "ma ei suuda enam. miks.\nkõik on surnud\nma ei suuda.\ntahan et see lõpeks\nma ei suuda\ntahan vabadust\nmiks\nei suuda. ma ei taha enam midagi sellist näha. olen liiga palju halbu asju näinud. ma olen nii haige.\nmu jalg on läbi. lendas miiniga\nmu käsi, parem, tapab ka mind tõesti raskelt\ntahan kõigele lõpu teha\nkõik on viletsus\nma ei suuda enam\nvarsti kistan mu arteri välja ja muutun järjekordseks korjuseks mida vaadata - niikaua kui nad mind pole ära söönud kui kohale jõuad.\n\ntänan kõige eest. hüvasti",
+                  "Item1": "see on läbi. hüvasti. vabandust".
                   "Item2": "",
                   "Item3": "experiment"
             },
