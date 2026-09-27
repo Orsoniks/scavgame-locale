@@ -1,6 +1,7 @@
 {
     "name": "Tiếng Việt",
-    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Tựa game được phát hành bởi nhà làm game bằng Tiếng Anh. Bạn có thể tìm thêm các bản dịch ngôn ngữ khác do cộng đồng tạo tại repo Github: (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>). Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời.",
+    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Bạn có thể tìm thêm các bản dịch do cộng đồng tạo của các ngôn ngữ khác tại kho ngôn ngữ (Xem phần Ghi công). Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời! Bản dịch Tiếng Việt được thực hiện bởi: Axioid, SuffyrnTardelune, Daenry, Weird Cat, Just Cyrus.",
+    "version": "7.7.9",
     "main": {
         "bandage": "Băng gạc",
         "bandagedsc": "Một cuộn băng gạc, dùng để làm chậm quá trình chảy máu, cố định xương gãy và hỗ trợ lành da. Không có tác dụng đối với sức khỏe cơ bắp.",
@@ -54,7 +55,7 @@
         "aeddsc": "Thiết bị điện tử chẩn đoán rối loạn nhịp tim đe dọa tính mạng và điều trị bằng cú sốc điện. Sử dụng ở phần ngực trên. So với máy khử rung tim thủ công, nó có thể được sử dụng bởi bất kỳ ai, nhưng tốn nhiều thời gian hơn và dùng nhiều năng lượng hơn.",
         "manualdefibrillator": "Máy khử rung tim thủ công",
         "manualdefibrillatordsc": "Thiết bị điện tử dùng để ổn định nhịp tim nguy hiểm. Sử dụng ở phần ngực trên. So với máy khử rung tim tự động, nó cần được chỉnh bằng tay và cần có kiến thức để sử dụng đúng cách. Nó cũng nhanh hơn và dùng ít năng lượng hơn máy khử rung tim tự động, nhưng lại không đảm bảo hiệu quả. INT cao hơn sẽ giúp bạn vận hành thiết bị dễ hơn.",
-        "antidepressants": "Thuốc chống trầm cảm",
+        "antidepressants": "Chai thuốc chống trầm cảm",
         "antidepressantsdsc": "Một chai 140mL thuốc chống trầm cảm. Liều dùng là 20mL.",
         "antibiotics": "Chai thuốc kháng sinh",
         "antibioticsdsc": "Một chai 100mL thuốc viên kháng sinh. Liều dùng là 20mL.",
@@ -263,17 +264,17 @@
         "wooddiggingtool": "Dụng cụ đào đất bằng gỗ",
         "wooddiggingtooldsc": "Một đoạn gỗ vót nhọn trên một cây gậy. Chỉ tốt hơn móng vuốt một chút.",
         "machete": "Dao rựa",
-        "machetedsc": "Một lưỡi kim loại lớn, rộng. Hoạt động tốt trong chiến đấu cận chiến. Bạn cảm thấy bất an khi cầm nó. <color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
+        "machetedsc": "Một lưỡi kim loại lớn, rộng. Hoạt động tốt trong chiến đấu cận chiến. Bạn cảm thấy bất an khi cầm nó. \n\n<color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
         "crudecleaver": "Dao phay thô sơ",
-        "crudecleaverdsc": "Dao phay kim loại chắp vá, với lưỡi đóng đinh vào tay cầm. Có thể sử dụng tốt trong chế tạo. Bạn cảm thấy bất an khi cầm nó. <color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
+        "crudecleaverdsc": "Dao phay kim loại chắp vá, với lưỡi đóng đinh vào tay cầm. Có thể sử dụng tốt trong chế tạo. Bạn cảm thấy bất an khi cầm nó. \n\n<color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
         "sickle": "Liềm kim loại",
-        "sickledsc": "Một công cụ kim loại với lưỡi cong, dùng để thu hoạch hoặc cắt cây cỏ. <color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
+        "sickledsc": "Một công cụ kim loại với lưỡi cong, dùng để thu hoạch hoặc cắt cây cỏ. \n\n<color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
         "woodsickle": "Liềm gỗ",
         "woodsickledsc": "Một công cụ bằng gỗ với lưỡi cong, dùng để thu hoạch hoặc cắt cây cỏ.",
         "rake": "Cái cào",
         "rakedsc": "Dùng để làm mềm đất. Làm bạn có cảm giác như một nông dân!",
         "claws": "Gói móng vuốt",
-        "clawsdsc": "Mặc dù trông giống như đồ chơi, nhưng nó sắc bén một cách đáng sợ. Bạn cảm thấy rất ngầu khi cầm nó. <color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
+        "clawsdsc": "Mặc dù trông giống như đồ chơi, nhưng nó sắc bén một cách đáng sợ. Bạn cảm thấy rất ngầu khi cầm nó. \n\n<color=\"red\">Có thể được sử dụng trong bảng sức khỏe để cắt cụt các chi bị nhiễm trùng nặng.",
         "trowel": "Cái bay",
         "troweldsc": "Công cụ làm vườn thô sơ, làm bằng gỗ và kim loại. Có thể tốt hơn dùng móng vuốt.",
         "woodtrowel": "Bay gỗ",
@@ -299,7 +300,7 @@
         "mp3player": "Máy nghe nhạc MP3",
         "mp3playerdsc": "Đáng ngạc nhiên là nó vẫn có vẻ hoạt động. Nó có ổ lưu trữ nhỏ với một vài bản nhạc. Bạn có thể bật bất cứ bài nào bạn muốn.",
         "mushpear": "Tê quả",
-        "mushpeardsc": "Một phần của cỏ thủy tích để hút và phân tán nước cho cây. Có khả năng giảm khối lượng cơ thể khi ăn và có một vị kì lạ. Dường như có chứa lượng vết thuốc phiện.",
+        "mushpeardsc": "Một phần của cỏ thủy tích để hút và phân tán nước cho cây. Có khả năng giảm khối lượng cơ thể khi ăn và có một vị kì lạ. Dường như có chứa lượng vết chất opioid.",
         "mushtail": "Đuôi ngủ",
         "mushtaildsc": "Phần đuôi của cỏ thủy tích. Chứa hóa chất có thể lập tức đánh gục ai đó một lúc, sau đó làm tăng tâm trạng rõ rệt. Rất kì lạ. Không có giá trị dinh dưỡng.",
         "aquapple": "Thủy táo",
@@ -334,6 +335,8 @@
         "blindfolddsc": "Một mảnh vải đen để che mắt. Cung cấp một ít bảo vệ đầu nhưng làm nhắm mắt nhân vật của bạn.",
         "balaclava": "Mũ trùm đầu",
         "balaclavadsc": "Một mảnh vải đệm dày quấn quanh hộp sọ. Cung cấp một ít bảo vệ và cách nhiệt tốt.",
+        "earmuffs": "Chụp tai chống ồn",
+        "earmuffsdsc": "Một cặp đệm hiện đại nối với nhau bằng khung đeo đầu kim loại. Bảo vệ bạn khỏi tiếng ồn lớn và cung cấp một chút khả năng cách nhiệt... bằng cách nào đó. Không có nhiều tác dụng chống lại tiếng ồn <i>cực kỳ</i> lớn.",
         "latexgloves": "Găng tay cao su",
         "latexglovesdsc": "Găng tay cao su đơn thuần. Cung cấp một ít khả năng cách nhiệt.",
         "tacticalgloves": "Găng tay chiến thuật",
@@ -358,8 +361,8 @@
         "hoodiedsc": "Một chiếc áo hoodie màu đen, rất ngoại cỡ giúp bạn giữ ấm và có một túi nhỏ.",
         "metabolismchip": "Chip trao đổi chất",
         "metabolismchipdsc": "Một con chip có thể tăng khả năng trao đổi chất của cơ thể, làm tay chân bạn tái tạo nhanh hơn nhiều, nhưng khiến bạn đói nhanh hơn để làm vậy.",
-        "xalorissponge": "Miếng bọt biển Xaloris",
-        "xalorisspongedsc": "Hộp chứa bào tử bị rách, quắt lại của một cây Xaloris. Có thể dùng để chống lại nhiễm trùng hoặc để ăn. Bào tử của nó có thể tác động đến hệ miễn dịch của bạn.",
+        "heatfernsponge": "Bọt biển Nhiệt Xỉ",
+        "heatfernspongedsc": "Túi bào tử đã bị xé rách và nhăn nheo của một cây Nhiệt Xỉ. Có thể dùng lên chi để chống nhiễm trùng hoặc ăn để lấy dinh dưỡng. Bào tử của nó có thể ảnh hưởng đến hệ miễn dịch của bạn.",
         "jetpack": "Ba lô phản lực",
         "jetpackdsc": "Một thiết bị đeo như ba lô sử dụng phản lực để đẩy bất kì ai đeo nó lên không trung. Có nhiên liệu hạn chế và sẽ bị suy giảm khi ướt. Giữ W để sử dụng. Có một ô nhỏ để chứa đồ.",
         "dynamite": "Thanh thuốc nổ",
@@ -605,8 +608,8 @@
         "snowstriderdsc": "Một sinh vật lớn, lông lá săn tìm thức ăn ở các vùng lạnh giá của hệ thống hang động này. Lớp da dày giữ ấm cho nó.",
         "spaceheater": "Máy sưởi không gian ion",
         "spaceheaterdsc": "Một thiết bị làm nóng mạnh khu vực xung quanh. Có thể gây bệnh bức xạ nhẹ nếu bạn ở quá gần trong thời gian quá lâu.",
-        "xaloris": "Cây Xaloris",
-        "xalorisdsc": "Một loài dương xỉ xốp và đầy gai sưởi ấm không khí xung quanh để phát tán bào tử. Xua tan cái lạnh, nhưng hít phải bào tử quá lâu có thể làm rối loạn hệ miễn dịch của bạn.",
+        "heatfern": "Nhiệt Xỉ",
+        "heatferndsc": "Một loài dương xỉ xốp và nhiều gai, tự làm nóng không khí xung quanh để phát tán bào tử ra môi trường. Giúp xua tan giá lạnh, nhưng hít phải bào tử quá lâu có thể làm ảnh hưởng đến hệ miễn dịch của bạn.",
         "lifepodheater": "Máy sưởi khoang cứu sinh",
         "lifepodheaterdsc": "Giữ cho bên trong dễ chịu và ấm cúng.",
         "tutorialcraftingbutton": "Nút cài đặt lại",
@@ -864,8 +867,8 @@
         "overdose1": "Phê thuốc",
         "overdose2": "Say thuốc",
         "overdose3": "Say thuốc nặng",
-        "overdose4": "Quá liều Opioid",
-        "withdrawal1": "Thèm Opioid",
+        "overdose4": "Quá liều opioid",
+        "withdrawal1": "Thèm opioid",
         "withdrawal2": "Cai thuốc",
         "withdrawal3": "Cai thuốc nghiêm trọng",
         "withdrawal4": "Chết vì cai thuốc",
@@ -996,6 +999,7 @@
         "impendingdoom": "Cảm giác tai ương đang đến",
         "horrified": "KINH HÃI",
         "focused": "TẬP TRUNG",
+        "cargo": "<spoiler>",
 
         "braindamage4dsc": "...",
         "braindamage3dsc": "thực tại .. không còn .. ý nghĩa",
@@ -1040,9 +1044,9 @@
         "withdrawal1dsc": "Bạn thực sự muốn làm một liều nữa.",
         "withdrawal2dsc": "Cơ thể bạn khao khát một liều thuốc nữa. Bạn muốn nôn mửa... Cảm giác thật sự tồi tệ. Khuyên bạn nên điều trị.",
         "withdrawal3dsc": "Bạn đang cố gắng kiểm soát bản thân, run rẩy, tuyệt vọng tìm kiếm bất kỳ sự giải thoát nào. Thật tồi tệ. Cần điều trị ngay.",
-        "withdrawal4dsc": "Cơ thể bạn không thể tự duy trì nếu thiếu thuốc phiện mà nó đã quá phụ thuộc. Tim bạn đang cố gắng bơm máu khắp cơ thể; Dề phòng rung tim.",
+        "withdrawal4dsc": "Cơ thể bạn không thể tự duy trì nếu opioid mà nó đã quá phụ thuộc. Tim bạn đang cố gắng bơm máu khắp cơ thể; Đề phòng rung tim.",
         "stimulateddsc": "Có chất kích thích mạnh trong máu. Bạn cảm thấy sẵn sàng đối phó với bất cứ điều gì... Ít nhất là vào lúc này.",
-        "drugoverdosedsc": "Bạn đã sử dụng quá liều loại thuốc không phải opioid. Có khả năng gặp biến chứng sức khỏe.",
+        "drugoverdosedsc": "Bạn đã sử dụng quá liều loại thuốc không chứa opioid. Có khả năng gặp biến chứng sức khỏe.",
         "bleeding1dsc": "Máu rỉ ra từ một vết thương tương đối nhỏ. Không có nguy hiểm tức thời.",
         "bleeding2dsc": "Máu chảy từ một vết thương khá lớn. Khó có thể gây tử vong nếu bạn khỏe mạnh. Khuyên bạn nên điều trị.",
         "bleeding3dsc": "Lượng máu lớn đang xuất huyết ra ngoài cơ thể. Sẽ gây tử vong nếu không được điều trị. Cần điều trị ngay.",
@@ -1105,7 +1109,7 @@
         "cold2dsc": "Lạnh khó chịu. Cơ thể bạn đang chậm lại.",
         "cold3dsc": "Nhiệt độ thấp nguy hiểm, cả cơ thể và tâm trí bị cái lạnh chiếm lấy. Toàn thân đang từ từ ngừng hoạt động.",
         "cold4dsc": "Bạn cảm thấy như đang bốc cháy, nhưng lại vô cùng mệt mỏi và bối rối. Bạn thèm một giấc ngủ dài...",
-        "wet1dsc": "Bộ lông của bạn cảm thấy hơi ướt.",
+        "wet1dsc": "Bạn cảm thấy hơi ướt.",
         "wet2dsc": "Khá ướt. Nhiệt độ và sự thoải mái bị giảm xuống.",
         "wet3dsc": "Ướt sũng. Nhiệt độ và sự thoải mái giảm đi đáng kể.",
         "wet4dsc": "Ướt sũng hoàn toàn! Lượng nước đang ghì bạn xuống. Nhiệt độ và sự thoải mái giảm nghiêm trọng.",
@@ -1114,9 +1118,9 @@
         "underweight3dsc": "Bạn gầy yếu một cách nguy hiểm. Yếu hơn nhiều so với bình thường, dễ bị mệt mỏi và lờ đờ. Giảm đáng kể sức chứa.",
         "underweight4dsc": "Bạn gầy trơ xương. Có thể dễ dàng nhìn và sờ thấy xương qua bộ lông của bạn. Nguy cơ suy tim cao. Sức chứa bị giảm nghiêm trọng.",
         "overweight1dsc": "Hãy cố gắng giảm vài cân.",
-        "overweight2dsc": "Thừa cân không lành mạnh, dù bạn trông chỉ ở mức trung bình so với các loài khác. Vụng về hơn, bạn nhanh mệt hơn.",
+        "overweight2dsc": "Thừa cân không lành mạnh. Vụng về hơn, bạn nhanh mệt hơn.",
         "overweight3dsc": "Béo phì nguy hiểm và mềm nhũn. Vụng về hơn nhiều và dễ bị kiệt sức hơn.",
-        "overweight4dsc": "Béo phì đe dọa tính mạng. Giống như bạn nhét đầy mỡ và cơn đói vào một cái túi lông vậy. Có nguy cơ suy tim cao.",
+        "overweight4dsc": "Béo phì đe dọa tính mạng. Giống như bạn nhét đầy mỡ và cơn đói vào một cái túi thịt vậy. Có nguy cơ suy tim cao.",
         "depression1dsc": "Bắt đầu nhận ra mức độ nghiêm trọng của hoàn cảnh. Cố gắng đánh lạc hướng bản thân.",
         "depression2dsc": "Mất đi động lực tiếp tục, chật vật với cảm xúc. Mọi thứ đang diễn ra theo hướng tiêu cực. Hãy tìm cách đánh lạc hướng bản thân.",
         "depression3dsc": "Hầu như không muốn làm gì cả. Tâm trí bạn bị tàn phá bởi sự tuyệt vọng. Liệu mọi chuyện sẽ sớm kết thúc?",
@@ -1167,7 +1171,8 @@
         "keratinboosterdsc": "Móng vuốt của bạn mọc lại nhanh gấp ba lần. (<>)",
         "impendingdoomdsc": "Bạn không thể ngừng cảm nhận sự sợ hãi tột độ đột ngột kéo đến. Toàn thân nổi da gà. Dường như mọi thứ xung quanh bạn vừa đột ngột chìm vào im lặng...",
         "horrifieddsc": "KHÔNG THỂ TẬP TRUNG. KHÔNG THỂ SUY NGHĨ. MỌI THỨ KHÁC KHÔNG CÒN QUAN TRỌNG NỮA. CHẠY CỨU MẠNG MÌNH HOẶC ĐỨNG LÊN CHIẾN ĐẤU VÌ NÓ ĐI!",
-        "focuseddsc": "<i>Hôm nay cả hai chúng ta đều phải chết. Chỉ có kẻ sẽ chết muộn hơn một chút thôi."
+        "focuseddsc": "<i>Hôm nay cả hai chúng ta đều phải chết. Chỉ có kẻ sẽ chết muộn hơn một chút thôi.",
+        "cargodsc": "<spoiler>"
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1324,11 +1329,11 @@
         "naloxone": "Naloxone",
         "fentanyl": "Fentanyl",
         "ceftriaxone": "Ceftriaxone",
-        "morphinedsc": "Chất phiện mạnh để giảm đau. Có hiệu quả kém hơn khi uống.",
-        "opiumdsc": "Chất phiện nhẹ để giảm đau. Có hiệu quả kém hơn khi uống.",
-        "heroindsc": "Chất phiện cực mạnh để giảm đau. Bạn biết rất ít về nó.",
-        "naloxonedsc": "Chất kháng thuốc phiện dùng để trị sốc thuốc phiện. Việc điều trị nhanh chóng có thể cứu mạng bạn khi vô tình dùng quá liều.",
-        "fentanyldsc": "Thuốc phiện cực mạnh, mạnh gấp 100 lần morphin. Cân nhắc việc pha loãng trước khi dùng.",
+        "morphinedsc": "Opioid mạnh để giảm đau. Có hiệu quả kém hơn khi uống.",
+        "opiumdsc": "Opioid nhẹ để giảm đau. Có hiệu quả kém hơn khi uống.",
+        "heroindsc": "Opioid cực mạnh để giảm đau. Bạn biết rất ít về nó.",
+        "naloxonedsc": "Chất đối kháng opioid dùng để trị sốc opioid. Việc điều trị nhanh chóng có thể cứu mạng bạn khi vô tình dùng quá liều.",
+        "fentanyldsc": "Chất opioid cực mạnh, mạnh gấp 100 lần morphin. Cân nhắc việc pha loãng trước khi dùng.",
         "ceftriaxonedsc": "Kháng sinh cephalosporin thế hệ thứ ba dùng để điều trị nhiễm trùng. Tăng sức đề kháng cơ thể trong một thời gian, nhưng gây đau.",
         "reliefcream": "Kem giảm đau",
         "reliefcreamdsc": "Hỗn hợp hóa chất và thuốc có tác dụng giảm đau tức thì và khử trùng vết thương.",
@@ -1343,9 +1348,9 @@
         "lowgradestimulant": "Chất kích thích không rõ nguồn gốc",
         "lowgradestimulantdsc": "Chất kích thích mạnh chưa tinh chế. Không đáng tin cậy. Mang lại cảm giác hưng phấn nhưng quá liều và suy nhược cực kì nghiêm trọng. Liều lượng không rõ. Cẩn thận khi sử dụng.",
         "naltrexone": "Naltrexone",
-        "naltrexonedsc": "Thuốc dạng viên dùng để điều trị các bệnh thông thường như buồn nôn hoặc lạm dụng thuốc phiện. Làm giảm hạnh phúc và có thể gây nôn mửa.",
+        "naltrexonedsc": "Thuốc viên dùng để điều trị các bệnh thông thường như buồn nôn hoặc lạm dụng opioid. Làm giảm hạnh phúc và có thể gây nôn mửa.",
         "painkillers": "Thuốc giảm đau",
-        "painkillersdsc": "Thuốc giảm đau chứa thành phần thuốc phiện dạng viên. Dùng quá liều khi đạt 60mL.",
+        "painkillersdsc": "Thuốc viên opioid dùng để giảm đau. Dùng quá liều khi đạt 60mL.",
         "disinfectant": "Chất sát trùng",
         "disinfectantdsc": "Chất lỏng sát trùng cơ bản. Ngăn ngừa nhiễm trùng và hơi rát một chút.",
         "ringersolution": "Dung dịch Ringer",
@@ -1365,7 +1370,7 @@
         "antibiotics": "Kháng sinh",
         "antibioticsdsc": "Thuốc dạng viên làm tăng khả năng miễn dịch của bạn trong một khoảng thời gian, chống lại mọi loại nhiễm trùng. Có mùi vị khó chịu.",
         "sleepingpills": "Thuốc ngủ",
-        "sleepingpillsdsc": "Thuốc ngủ liều cao. Cho phép bạn ngủ ngay cả trong tình trạng thể chất tồi tệ. Không được dùng chung với thuốc phiện.",
+        "sleepingpillsdsc": "Thuốc ngủ liều cao. Cho phép bạn ngủ ngay cả trong tình trạng thể chất tồi tệ. Không được dùng chung với opioid.",
         "procoagulant": "Chất đông máu",
         "procoagulantdsc": "Hóa chất thúc đẩy quá trình đông máu. Làm chậm quá trình mất máu trên toàn cơ thể, bao gồm cả chảy máu trong. Sẽ gây biến chứng nếu lạm dụng.",
         "epinephrine": "Epinephrine",
@@ -1461,6 +1466,7 @@
         "milkytraderdsc": "Một sinh vật đặc biệt lùn, có bộ lông trắng mịn, mõm rất phẳng và những chiếc sừng ngắn, màu trắng nhô ra từ đầu. Có vẻ như có thể sống dưới nước ở một mức độ nào đó, đánh giá bằng cặp vây trên lưng chúng. Chúng có vẻ khá thông minh và hơi kiêu ngạo, rất có thể sẽ mang theo một loại vũ khí nào đó để bù đắp cho đặc điểm thể chất không mấy ấn tượng của mình. Không quá hứng thú với những đụng chạm thân mật, có thể cần nhiều niềm tin hơn để nhận được một cái ôm từ họ.",
         "dune": "Dune",
         "dunetraderdsc": "Cao, to, bệ vệ, cơ bắp to hơn não. Chúng có những chiếc vây kỳ lạ rải rác quanh cơ thể, 6 cái gai nhô ra từ hai bên đầu và bộ hàm lớn gớm ghiếc với những chiếc răng to sắc nhọn. Trông giống như chúng có mang ở quanh ngực. Mặc dù không tự nhiên tỏ ra hung hăng, chúng chủ yếu bị chi phối bởi cơn đói, do đó có thể sẽ không quan tâm nhiều đến những món đồ lặt vặt mà bạn đưa cho; Bạn sẽ cần nghĩ ra một cách tốt hơn để lấy lòng chúng.",
+        "dunespecialtraderdsc": "Đồ ăn.",
         "Shelly": "Shelly",
         "clicktocontinue": "Nhấp để tiếp tục...\nESC để bỏ qua",
         "favouriteditem": "Các vật phẩm được yêu thích sẽ không bị sử dụng trong chế tạo",
@@ -1481,7 +1487,12 @@
         "char0quirks": "[HỌ_CHÓ] - Dạ dày của bạn không thích ứng tốt với theobromine.\n[THỊ_GIÁC_PHÁT_QUANG] - Trong trường hợp khẩn cấp, bạn trở thành nguồn sáng của chính mình.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[HỌ] \"Họ Chó\"\n[THOẠI_NỔI_BẬT] \"Tôi sẽ tuân thủ\"\n[DỰ_ĐOÁN_THÀNH_CÔNG] \"0.0103%\"\n[GHI_CHÚ] \"Hơi hợm hĩnh\"",
-        "char1quirks": "[NGỦ_RŨ] - Chu kỳ giấc ngủ của bạn ngắn hơn nhiều, nhưng bạn không cảm thấy tác động tiêu cực khi ngủ trên các bề mặt thô cứng.\n[VÓC_DÁNG] - Bạn thật nhỏ bé!\n[THÍCH_NGHI_THỊ_GIÁC] - Bạn nhìn tốt hơn và các nguồn sáng kéo dài xa hơn.\n[ĂN_CỎ_MỘT_PHẦN] - Thịt khiến bạn hơi buồn nôn và cung cấp ít dinh dưỡng hơn.\n[YẾU_ỚT] - Tất cả chỉ số Sức mạnh (STR) nhận được bị giảm một nửa.\n[XẠ_THỦ] - Bạn có thể sử dụng các phím tắt để xử lý súng.\n[TINH_THẦN_THÉP] - Sẽ cần nhiều thứ hơn để đánh bại bạn về mặt tinh thần. Bạn không thích thể hiện tình cảm, trừ khi bạn thực sự cần nó.\n[HỌ_CHÓ] - Dạ dày của bạn không thích ứng tốt với theobromine.",
+        "char1quirks": "<spoiler>",
+        "char2name": "[SAW-12] \"Dune\"",
+        "char2desc": "[HỌ] \"Họ Côn Trùng\"\n[THOẠI_NỔI_BẬT] \"Hrrnn... Du-ne đi sao..?\"\n[DỰ_ĐOÁN_THÀNH_CÔNG] \"0.001%\"\n[GHI_CHÚ] \"Eo! Nó đang nhỏ dãi kìa!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[TỪ_CHỐI_TRY_CẬP]",
+        "characterunlockdsc": "Hoàn thành màn chạy với nhân vật trước để mở khóa",
         "presetnormal": "Bình thường",
         "presetnormaldsc": "Trải nghiệm mặc định. Mắc sai lầm sẽ bị trừng phạt. Sự hiểu biết và nhận thức tình huống được đền đáp xứng đáng. Thời gian là vàng bạc. Cái chết của bạn gần như là điều chắc chắn.",
         "presetrelaxed": "Thư giãn",
@@ -1493,13 +1504,15 @@
         "presetunchipped": "Không có Chip",
         "presetunchippeddsc": "Dù việc không có chip làm giảm bớt giới hạn thời gian nhân tạo so với những cá thể bị gắn chip, nó cũng khiến việc tự chẩn đoán bệnh cho bản thân trở thành một nỗ lực khó khăn. Biết đâu điều đó sẽ xứng đáng vào phút cuối?",
         "presetendless": "Vô tận",
-        "presetendlessdsc": "Không có lối thoát; Đây là bản án tử hình của bạn. Bạn có thể tiến xa đến đâu, khi các mối nguy hiểm ngày càng tăng trước mắt bạn?\n\n[LƯU Ý: Không khả dụng ở giai đoạn này, vì trò chơi hiện tại đằng nào cũng là vô tận]",
+        "presetendlessdsc": "Không có lối thoát; Đây là bản án tử hình của bạn. Bạn có thể tiến xa đến đâu, khi các mối nguy hiểm ngày càng tăng trước mắt bạn?",
         "runsettings": "Cài đặt màn chạy",
         "runsettingsdsc": "Chọn một lối chơi từ các cấu hình thiết lập bên dưới. Bạn có thể điều chỉnh chúng trong bảng cài đặt tùy chỉnh ở bên phải.",
         "customsettings": "Cài đặt tùy chỉnh",
         "customsettingsdsc": "Định cấu hình các cài đặt chạy cụ thể",
         "runsetunchipped": "Không có Chip",
         "runsetunchippeddsc": "Vô hiệu hóa bảng sức khỏe của bạn, buộc bạn phải nỗ lực nhiều hơn để tìm ra căn bệnh cụ thể mà mình mắc phải. Phạm vi quan sát bị thu hẹp lại trong vùng quan sát được.",
+        "runsetendless": "Vô tận",
+        "runsetendlessdsc": "Nếu bật, các tầng sẽ lặp lại sau một điểm nhất định, khiến lượt chơi kéo dài vô tận cho đến khi chết. Bạn không thể phá đảo trò chơi theo cách này.",
         "runsetbaselootdensity": "Mật độ vật phẩm",
         "runsetbaselootdensitydsc": "Số lượng vật phẩm xuất hiện ở mỗi tầng. Ảnh hưởng đến các thứ như khoang thả, khoang cứu sinh, thùng chứa",
         "runsetlootmultiplier": "Hệ số vật phẩm theo khoảng cách",
@@ -1515,6 +1528,8 @@
         "runsetstartingsuppliesnone": "Không có gì",
         "runsetstartingsupplieslight": "Đèn pin",
         "runsetstartingsuppliesfull": "Bộ dụng cụ đầy đủ",
+        "runsetenemystrength": "Sức mạnh kẻ địch",
+        "runsetenemystrengthdsc": "Hệ số nhân cho lượng sát thương mà hệ động vật hung dữ gây ra",
         "runsetxpgain": "Tăng kinh nghiệm",
         "runsetxpgaindsc": "Hệ số nhân cho lượng kinh nghiệm kỹ năng bạn nhận được",
         "runsetmetabolismrate": "Tỷ lệ trao đổi chất",
@@ -1537,6 +1552,8 @@
         "runsetstaminaregendsc": "Tốc độ hồi phục thể lực sau khi bị tiêu hao",
         "runsetattackdamage": "Sát thương tấn công",
         "runsetattackdamagedsc": "Lượng sát thương bạn gây ra bằng các đòn đánh",
+        "runsetinsulationmultiplier": "Hệ số cách nhiệt",
+        "runsetinsulationmultiplierdsc": "Mức độ bạn được bảo vệ khỏi nhiệt độ môi trường xung quanh",
         "runsetstrokes": "Cho phép đột quỵ",
         "runsetstrokesdsc": "Xác định xem bạn có thể bị đột quỵ khi bị tăng huyết áp cấp tính không",
         "runsetbraindamagefx": "Hiệu ứng tổn thương não",
@@ -1687,8 +1704,8 @@
         "gamesetbark": "Sủa",
         "gamesetconsole": "Bật/tắt bảng điều khiển gỡ lỗi",
         "gamesetpause": "Tạm dừng",
-        "gamesetmarksmanrack": "(Xạ thủ) Kéo/thả khóa nòng",
-        "gamesetmarksmanunload": "(Xạ thủ) Tháo băng đạn",
+        "gamesetmarksmanrack": "(Chỉ cho xạ thủ) Kéo/thả khóa nòng",
+        "gamesetmarksmanunload": "(Chỉ cho xạ thủ) Tháo băng đạn",
         "copy": "Sao chép vào clipboard",
         "paste": "Dán từ clipboard",
         "descend": "Đi xuống",
@@ -1818,7 +1835,7 @@
         "cqrippable": "Có thể xé",
         "cqdisinfectant": "Sát trùng",
         "cqblood": "Máu",
-        "cqopiate": "Thuốc phiện",
+        "cqopiate": "Opioid",
         "cqdressing": "Băng gạc",
         "cqproduce": "Đồ chay",
         "cqmeat": "Thịt",
@@ -1857,8 +1874,10 @@
         "basicscourse": "Khóa đào tạo cơ bản",
         "firstaidcourse": "Khóa huấn luyện Sơ cứu",
         "craftingcourse": "Khóa huấn luyện Chế tạo",
+        "movementcourse": "Khóa huấn luyện di chuyển",
         "firstaidcourseunlock": "Đến tầng hai để mở khóa",
         "craftingcourseunlock": "Đến tầng ba để mở khóa",
+        "movementcourseunlock": "Đến tầng ba để mở khóa",
         "tutorialspecieslock": "Chỉ có thể tham gia bằng loài Experiment",
         "sandbox": "Hộp cát",
         "escapecourse": "CẢNH BÁO: VI PHẠM NHỎ",
@@ -1915,7 +1934,7 @@
         "hplimbbleed": "Chảy máu chi",
         "hplimbforce": "Sức mạnh của chi",
         "hplimbforcedsc": "Tổng khả năng vận động và tạo lực của chi",
-        "hpopiate": "Lượng thuốc phiện",
+        "hpopiate": "Lượng opioid",
         "hpvenom": "Lượng độc tố",
         "settings": "Cài đặt",
         "credits": "Ghi công",
@@ -1936,7 +1955,7 @@
         "alertalreadywearing": "Bạn không thể mặc <1> khi đang mặc <2>!",
         "alertcontainerstacking": "Bạn chỉ có thể bỏ các hộp rỗng vào bên trong các hộp chứa khác!",
         "alertcontainerstackingalt": "Bạn không thể sử dụng hộp chứa này vì bản thân nó đang nằm bên trong một hộp chứa khác!",
-        "alerttoounhappy": "Chỉ có thể sử dụng các loại thuốc phiện khi đang vô cùng đau khổ!",
+        "alerttoounhappy": "Chỉ có thể sử dụng các loại thuốc chứa opioid khi đang vô cùng đau khổ!",
         "alertlimbmissing": "Bạn đã mất <1>, khiến <2> không thể sử dụng được!",
         "alertsellcontainer": "Hãy làm trống hộp chứa trước khi bán nó!",
         "insertsample": "Đưa một mẫu thử",
@@ -2058,7 +2077,7 @@
         "healthchipradalert1": "MỨC ĐỘ SÂU\nKHÔNG ĐẠT YÊU CẦU",
         "healthchipradalert2": "GIAO THỨC TRỪNG PHẠT\nĐÃ KÍCH HOẠT",
         "healthchipradalert3": "TĂNG TỐC ĐỘ\nDI CHUYỂN",
-        "tutbasic1": "Chào mừng đến với khóa huấn luyện cơ bản cuối cùng.",
+        "tutbasic1": "Chào mừng đến với Khóa huấn luyện Cơ bản cuối cùng.",
         "tutbasic2": "Chúng ta sẽ đi qua tất cả những điều cơ bản bạn cần biết cho cuộc thử nghiệm tiếp theo mà bạn sẽ tham gia.",
         "tutbasic3": "Vui lòng đi về phía Thiết bị Khung huấn luyện. [A]",
         "tutbasic4": "Lại lần nữa. [D]",
@@ -2202,10 +2221,10 @@
         "tutaid66": "Đau đớn dữ dội là một trong những trạng thái làm suy nhược cơ thể trầm trọng nhất mà bạn có thể mắc phải.",
         "tutaid67": "Nó khiến bạn không thể cử động, nhanh chóng làm suy sụp tinh thần và có thể khiến bạn bất tỉnh vì sốc.",
         "tutaid68": "May mắn thay, có một phương pháp điều trị khá đơn giản.",
-        "tutaid69": "Thuốc phiện sẽ nhanh chóng giảm tất cả cơn đau trên toàn bộ cơ thể khi được sử dụng. Hãy tiêm hết ống và xem thử nhé.",
+        "tutaid69": "Thuốc chứa opioid sẽ nhanh chóng giảm tất cả cơn đau trên toàn bộ cơ thể khi được sử dụng. Hãy tiêm hết ống và xem thử nhé.",
         "tutaid70": "HÙ!",
         "tutaid71": "Đỡ đau gần như ngay lập tức, đúng không?",
-        "tutaid72": "Hãy cẩn thận với thuốc phiện - bạn có thể dễ dàng dùng quá liều, hoặc trải qua hội chứng cai nghiện sau đó. Naloxone và Naltrexone có thể giúp khắc phục tình trạng lạm dụng thuốc phiện.",
+        "tutaid72": "Hãy cẩn thận với các opioid - bạn có thể dễ dàng dùng quá liều, hoặc trải qua hội chứng cai nghiện sau đó. Naloxone và Naltrexone có thể giúp khắc phục tình trạng lạm dụng chất opioid.",
         "tutaid73": "Như vậy là kết thúc Khóa huấn luyện Sơ cứu. Chúng ta có thể bao quát nhiều hơn, nhưng chúng tôi tin rằng bạn có thể an toàn tự tìm hiểu các chứng bệnh khác. Bạn có thể trở về căn phòng được chỉ định của mình.",
         "tutcraft1": "Chào mừng bạn đến với Khóa huấn luyện Chế tạo. Hôm nay, chúng ta sẽ tìm hiểu chi tiết về việc chế tạo vật phẩm và đưa ra một số quy trình làm việc thông thường.",
         "tutcraft2": "Hầu hết mọi thứ bạn thấy đều là vật chất hữu dụng chứ không phải là rác.",
@@ -2239,9 +2258,11 @@
         "tutclosehealthpanel": "Đóng bảng sức khỏe.",
         "tutopenhealthpanel": "Mở bảng sức khỏe.",
         "tutnice": "Tuyệt.",
+        "outdatedwarning": "<size=200%>Này!<size=100%>\nTệp ngôn ngữ được chọn đã cũ. Một số văn bản có thể bị lỗi.\nHãy thử chuyển sang tiếng Anh hoặc tìm bản mới hơn.",
         "surfacebreachnote": "<spoiler>",
         "labenternote": "<spoiler>",
         "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Năm 2XXX\n<>\nCông nghệ của nhân loại đã tiến bộ vượt bậc. Những điều tưởng chừng như không thể trước đây giờ đã trở thành chuyện thường ngày.\n<>\nỞ trung tâm của sự phát triển đó là một công ty. Thành tựu của họ có vẻ như một phép màu, nhưng mọi bí mật đều được giữ kín.\n<>\nNhiều năm trước, họ đã tạo ra một giống loài mới: sự kết hợp giữa ADN động vật và con người mà họ chỉ đơn giản gọi là \"Experiment.\"\n<>\nCác Experiment là những đối tượng hoàn hảo, đủ giống con người, nhưng thuộc về họ làm bất cứ thứ gì họ muốn. Họ đã dày công nghiên cứu chúng, biến đổi cơ thể chúng theo ý muốn, và năm tháng trôi qua, số lượng chỉ ngày một tăng lên.\n\nKhông một cá thể nào được nhìn thấy thế giới bên ngoài.\n<>\nRồi đến lúc Trái Đất không thể chứa hết tham vọng của họ. Với công nghệ dịch chuyển tức thời mới được phát minh, họ nhắm đến một hành tinh xám xịt nhưng tràn đầy sự sống.\n<>\nChẳng mấy chốc, hàng tấn hàng hóa và rác rưởi linh tinh được chuyển đến.\n<>\nDo vấn đề trong việc hiệu chỉnh, lượng hàng hóa được chuyển vào hệ thống hang động của hành tinh cũng nhiều không kém như trên bề mặt, nhưng dự án vẫn tiến triển suôn sẻ.\n<>\nCho đến khi, một lỗi không xác định khiến một thiết bị công nghệ quan trọng bị chuyển vào sâu trong lòng hang động.\n<>\nChẳng bao lâu sau, các nhà khoa học đã vạch ra một kế hoạch. Một kế hoạch ít có rủi ro đối với chính họ.\n<>\nCơ hội thành công là rất thấp, nhưng nguồn nhân lực của họ thì dồi dào.\n<>\nBạn là một cá thể không may mắn.\nKháng cự là vô ích."
     },
     "character": [
@@ -3505,7 +3526,7 @@
                 "Mình... Mình run rẩy quá... Mình cần thêm chút nữa...",
                 "Mình cảm thấy thật tệ - Mình cần... Mình cần thêm thứ đó...",
                 "Nó đang đến với mình... Mình đang run rẩy... Khốn kiếp.",
-                "Cần... thêm... opioid.",
+                "Cần... thêm... opoid.",
                 "Mình đang c-cảm thấy thật... kinh khủng... T-Mình cần thêm...",
                 "Thuốc giảm đau...",
                 "Mình... Mình cần thứ gì đó... Mình cần cơn phê đó...",
@@ -3517,7 +3538,7 @@
                 "Mình cần phải ngừng sử dụng thứ rác rưởi này...",
                 "Tất cả những gì mình có thể nghĩ đ-đến là một mũi tiêm nữa...",
                 "Opioid...",
-                "Mình đang run rẩy và choáng váng... T-Mình cần thêm thuốc phiện...",
+                "Mình đang run rẩy và choáng váng... M-Mình cần thêm thuốc opioid...",
                 "Cần thêm... Th-thuốc..."
             ],
             "cantBreathe": [
@@ -4007,6 +4028,21 @@
                 "...Không. KHÔNG. KHÔNG KHÔNG KHÔNG. KHOAN. VÌ SAO CHỨ? MÌNH CÓ LÀM GÌ SAI ĐÂU!?",
                 "...A-ah... Hmm... Chà... T-tạm biệt vậy..."
             ],
+            "endlessloop0": [
+                "...C-cái... cái gì..? Cái gì? Tại sao? Cái gì vừa... Tại sao mình lại quay lại đây..? Hnn... Chuyện gì vừa xảy ra..."
+            ],
+            "endlessloop1": [
+                "...Chuyện này không diễn ra như mình hy vọng... Mình không biết mình có thể làm gì khác... Chà. Ugh. Bất quá tam nhỉ..?"
+            ],
+            "endlessloop2": [
+                "<spoiler>"
+            ],
+            "endlessloop3": [
+                "Chà! Mình sẽ không thể thoát khỏi đây phải không... Mình nghĩ mình đang quen dần với việc này rồi."
+            ],
+            "endlessloopdefault": [
+                "Ôi, lại vòng qua vòng lại rồi..."
+            ],
             "vomitresponse": [
                 "Uuuhmm... Bạn ổn chứ..?"
             ],
@@ -4062,11 +4098,11 @@
         },
         {
             "seeGravel": [
-                "Có vẻ như mình đến nơi rồi.",
+                "Có vẻ như tôi đến nơi rồi.",
                 "Vùng đất mới.",
                 "Thời gian đến dự kiến: Không giờ, không phút, và bây giờ là.. không giây.",
                 "Thật mới lạ. Đến lúc lên đường rồi.",
-                "Chẳng khác gì mấy so với những gì mình hình dung trong lúc huấn luyện.",
+                "Chẳng khác gì mấy so với những gì tôi hình dung trong lúc huấn luyện.",
                 "Cần phải giữ lý trí.",
                 "Thú vị thật.",
                 "Được mỗi cái thú vị.",
@@ -4090,50 +4126,50 @@
                 "Thật nhàm chán...",
                 "Có đủ calo là được.",
                 "Chẳng có gì thú vị cho lắm.",
-                "Đủ để cơ thể mình hoạt động.",
+                "Đủ để cơ thể tôi hoạt động.",
                 "Nó... ổn.",
                 "Ăn được.",
-                "Ít ra thì ăn vào mình được sống tiếp...",
-                "Thứ này ít nhất cũng giúp mình trụ tiếp được."
+                "Ít ra thì ăn vào tôi được sống tiếp...",
+                "Thứ này ít nhất cũng giúp tôi trụ tiếp được."
             ],
             "eatBad": [
                 "Mùi vị kinh khủng. Không bao giờ có lần sau đâu.",
                 "Eo.",
                 "Kinh khủng.",
                 "Tồi tệ.",
-                "Ít ra mình không phải chết đói.",
-                "Mình không còn muốn ăn nữa.",
+                "Ít ra tôi không phải chết đói.",
+                "Tôi không còn muốn ăn nữa.",
                 "...Đành phải ăn thôi.",
-                "Vị giác của mình chẳng thích điều đó chút nào.",
+                "Vị giác của tôi chẳng thích điều đó chút nào.",
                 "Không phải là quyết định ẩm thực sáng suốt nhất.",
-                "Thứ này sẽ khiến mình nôn mất."
+                "Thứ này sẽ khiến tôi nôn mất."
             ],
             "refuseEat": [
-                "Mình từ chối tiếp tục nghĩ theo hướng điều này.",
+                "Tôi từ chối tiếp tục nghĩ theo hướng điều này.",
                 "Thứ cho lũ sâu bọ. Không.",
-                "Mình thà chết đói còn hơn.",
-                "Mình từ chối.",
-                "Mình từng thấy những hòn đá trông còn ngon hơn thứ này.",
-                "Mình thà tự sặc nước bọt của mình còn hơn.",
-                "Mình không thể tiêu hóa nổi thứ này.",
+                "Tôi thà chết đói còn hơn.",
+                "Tôi từ chối.",
+                "Tôi từng thấy những hòn đá trông còn ngon hơn thứ này.",
+                "Tôi thà tự sặc nước bọt của tôi còn hơn.",
+                "Tôi không thể tiêu hóa nổi thứ này.",
                 "Thứ này không thể ăn được."
             ],
             "tired": [
                 "Thời gian nghỉ ngơi đang đến gần rồi.",
-                "Một giấc ngủ ngắn sẽ giúp mình tỉnh táo.",
-                "Cơ thể mình muốn được nghỉ ngơi.",
+                "Một giấc ngủ ngắn sẽ giúp tôi tỉnh táo.",
+                "Cơ thể tôi muốn được nghỉ ngơi.",
                 "Năng lượng dự trữ đang cạn kiệt.",
                 "Nghỉ ngơi một lát là tối ưu cho hiệu suất.",
-                "Mình thấy mình đang kiệt sức dần. Đến lúc phải nghỉ rồi.",
-                "Tốt nhất mình nên nghỉ.",
-                "Mình không thể hoạt động khi mệt mỏi. Mình cần nghỉ ngơi.",
-                "Mình cần một nơi nghỉ ngơi thích hợp.",
-                "Ý thức của mình sắp cạn kiệt rồi.",
-                "Mình cần một nơi nghỉ chân.",
+                "Tôi thấy tôi đang kiệt sức dần. Đến lúc phải nghỉ rồi.",
+                "Tốt nhất tôi nên nghỉ.",
+                "Tôi không thể hoạt động khi mệt mỏi. Tôi cần nghỉ ngơi.",
+                "Tôi cần một nơi nghỉ ngơi thích hợp.",
+                "Ý thức của tôi sắp cạn kiệt rồi.",
+                "Tôi cần một nơi nghỉ chân.",
                 "Việc tìm một nơi trú ẩn để nghỉ ngơi là rất quan trọng."
             ],
             "verytired": [
-                "Mình... sắp ... kiệt sức rồi...",
+                "Tôi... sắp ... kiệt sức rồi...",
                 "Phải tìm... nơi nào đó an toàn để... nằm xuống...",
                 "Ý thức... đang trôi đi...",
                 "Cần phải... nằm xuống một lát...",
@@ -4142,54 +4178,54 @@
                 "Đang lịm dần đi...",
                 "Không thể... đi tiếp được nữa... Phải ngủ...",
                 "Không đi thẳng được...",
-                "Mình sắp gục rồi..."
+                "Tôi sắp gục rồi..."
             ],
             "confused": [
-                "Mình cảm thấy chóng mặt.",
-                "Mắt mình đang thấy rất khó để tập trung...",
-                "Mình ghét sự hỗn loạn này.",
+                "Tôi cảm thấy chóng mặt.",
+                "Mắt tôi đang thấy rất khó để tập trung...",
+                "Tôi ghét sự hỗn loạn này.",
                 "Mất phương hướng vô ích.",
                 "Cần phải tập trung...",
-                "Tâm trí mình toàn là tiếng nhiễu.",
-                "Mình không thể suy nghĩ thấu đáo.",
-                "Đầu óc mình không hoạt động được.",
+                "Tâm trí tôi toàn là tiếng nhiễu.",
+                "Tôi không thể suy nghĩ thấu đáo.",
+                "Đầu óc tôi không hoạt động được.",
                 "Cái gì cơ.."
             ],
             "wakeup": [
-                "Mình dậy.",
+                "Tôi dậy.",
                 "Xin chào thế giới.",
-                "Mình thức dậy.",
+                "Tôi thức dậy.",
                 "Lại một lần nữa.",
                 "Giờ thì sao đây.",
                 "Thức dậy thôi.",
                 "Sẵn sàng cho ngày mới.",
                 "Hoàn toàn tỉnh táo.",
                 "Nhận thức rõ ràng.",
-                "Mình đã được nghỉ ngơi."
+                "Tôi đã được nghỉ ngơi."
             ],
             "sick": [
-                "Mình thấy buồn nôn.",
-                "Dạ dày mình đang cồn cào một cách bất ổn.",
-                "Mình thấy không khỏe.",
-                "Cơ thể mình có vẻ đang rất bất đồng.",
-                "Có gì đó trong dạ dày của mình không ổn.",
-                "Có vẻ như mình đang thấy buồn nôn.",
-                "Có vẻ như cơ thể mình đang chống chọi với độc tố."
+                "Tôi thấy buồn nôn.",
+                "Dạ dày tôi đang cồn cào một cách bất ổn.",
+                "Tôi thấy không khỏe.",
+                "Cơ thể tôi có vẻ đang rất bất đồng.",
+                "Có gì đó trong dạ dày của tôi không ổn.",
+                "Có vẻ như tôi đang thấy buồn nôn.",
+                "Có vẻ như cơ thể tôi đang chống chọi với độc tố."
             ],
             "verysick": [
                 "Sắp... nôn hết... thứ trong dạ dày...",
                 "Quá buồn nôn... để làm việc.",
-                "Cơ thể mình... phản bội mình...",
+                "Cơ thể tôi... phản bội tôi...",
                 "Cần phải thải... độc tố ra ngoài...",
-                "Dạ dày của mình... đang chống lại mình...",
-                "Mình phải... nôn...",
+                "Dạ dày của tôi... đang chống lại tôi...",
+                "Tôi phải... nôn...",
                 "Nó sắp đến rồi..."
             ],
             "vomit": [
                 "Ghh... *ho* ...đi tiếp thôi nào.",
                 "Những thứ mà gọi là bữa tối giờ đang nằm dưới đất.",
                 "Eugh... Thật lãng phí chất dinh dưỡng.",
-                "Mình vẫn có thể... nếm được vị nôn...",
+                "Tôi vẫn có thể... nếm được vị nôn...",
                 "Ugh...",
                 "Không hề dễ chịu.",
                 "Dinh dưỡng bị lãng phí hết."
@@ -4198,51 +4234,51 @@
                 "Gghh... Đ-điều đó có nghĩa là bị xuất huyết nội.",
                 "Hacck... Máu. Chảy máu. Bên trong.",
                 "Uugh... Cần... điều trị.",
-                "Bãi nôn của mình... *ho* ...có vị kim loại.",
-                "C-Có vẻ như... mình vừa nôn ra máu..",
+                "Bãi nôn của tôi... *ho* ...có vị kim loại.",
+                "C-Có vẻ như... tôi vừa nôn ra máu..",
                 "Không lý tưởng.",
                 "Ghck... Dấu hiệu của một căn bệnh tiềm ẩn."
             ],
             "full": [
-                "Mình đã no căng.",
-                "Mình không cần thêm chất dinh dưỡng vào lúc này.",
-                "Thứ này sẽ giúp mình cầm cự được dài dài.",
-                "Lượng calo cần nạp của mình đã đủ.",
+                "Tôi đã no căng.",
+                "Tôi không cần thêm chất dinh dưỡng vào lúc này.",
+                "Thứ này sẽ giúp tôi cầm cự được dài dài.",
+                "Lượng calo cần nạp của tôi đã đủ.",
                 "Ăn uống đầy đủ.",
                 "Mức này vượt xa tiêu chuẩn calo bình thường."
             ],
             "hungry": [
-                "Mình cần thức ăn.",
-                "Mình đang đói bụng.",
-                "Có vẻ như mình cần chất dinh dưỡng.",
-                "Mình đang tiết nước bọt.",
-                "Mình cần chất dinh dưỡng.",
-                "Mình cần phải nạp năng lượng.",
+                "Tôi cần thức ăn.",
+                "Tôi đang đói bụng.",
+                "Có vẻ như tôi cần chất dinh dưỡng.",
+                "Tôi đang tiết nước bọt.",
+                "Tôi cần chất dinh dưỡng.",
+                "Tôi cần phải nạp năng lượng.",
                 "Yêu cầu có thức ăn."
             ],
             "starving": [
-                "Mình cần thức ăn gấp...",
+                "Tôi cần thức ăn gấp...",
                 "Đây là một cơn đói đau đớn, cồn cào.",
-                "Mình cần thức ăn để tập trung...",
+                "Tôi cần thức ăn để tập trung...",
                 "Dạ dày... đang gào thét...",
                 "Chết đói đang đến gần.",
                 "Cần... chất dinh dưỡng...",
                 "Thức ăn là yếu tố để sinh tồn."
             ],
             "thirsty": [
-                "Mình cần giải khát.",
-                "Mình nên uống nước.",
+                "Tôi cần giải khát.",
+                "Tôi nên uống nước.",
                 "Bổ sung nước sẽ là tối ưu.",
-                "Cổ họng mình cảm thấy khô một cách bất thường. Kết luận: thiếu nước.",
+                "Cổ họng tôi cảm thấy khô một cách bất thường. Kết luận: thiếu nước.",
                 "Tốt nhất là nên chuẩn bị trước khẩu phần nước cho hôm nay.",
-                "Mình cần nước.",
+                "Tôi cần nước.",
                 "Yêu cầu có nước."
             ],
             "dehydrated": [
-                "Mình bị mất nước thực sự rồi.",
-                "Bên trong cơ thể mình đang khô một cách nguy hiểm.",
+                "Tôi bị mất nước thực sự rồi.",
+                "Bên trong cơ thể tôi đang khô một cách nguy hiểm.",
                 "Đáng lẽ không nên tiết kiệm nước như vậy...",
-                "Mình tin rằng lượng nước trong cơ thể mình... đã cạn kiệt.",
+                "Tôi tin rằng lượng nước trong cơ thể tôi... đã cạn kiệt.",
                 "Cần phải... bổ sung... chất lỏng...",
                 "Tình hình đòi hỏi phải.. tiếp nước...",
                 "Mất nước...",
@@ -4251,45 +4287,45 @@
                 "Nạp chất lỏng là điều tối quan trọng để tiếp tục sinh tồn..."
             ],
             "limbmuscle": [
-                "<limb> của mình đang trong trạng thái bất động.",
-                "Hrrr... Hmmh... Mình không thể sử dụng <limb> của mình.",
-                "Mình cần phải chăm sóc <limb> của mình.",
-                "Mình không thể sử dụng <limb> của mình.",
-                "<limb> của mình bị tê.",
-                "Mình đã làm tổn thương nghiêm trọng <limb> của mình.",
-                "Mình phải chăm sóc bản thân tốt hơn.",
-                "Mình phải chăm sóc <limb> của mình."
+                "<limb> của tôi đang trong trạng thái bất động.",
+                "Hrrr... Hmmh... Tôi không thể sử dụng <limb> của tôi.",
+                "Tôi cần phải chăm sóc <limb> của tôi.",
+                "Tôi không thể sử dụng <limb> của tôi.",
+                "<limb> của tôi bị tê.",
+                "Tôi đã làm tổn thương nghiêm trọng <limb> của tôi.",
+                "Tôi phải chăm sóc bản thân tốt hơn.",
+                "Tôi phải chăm sóc <limb> của tôi."
             ],
             "limbinfected": [
-                "<limb> của mình có vẻ như đang bị nhiễm trùng.",
-                "<limb> của mình đã bị sưng lên một cách đáng lo ngại.",
-                "<limb> của mình cần được khử trùng gấp",
-                "Vết thương trên <limb> của mình đang lan rộng.",
-                "Mình thấy vết nhiễm trùng trên <limb> của mình.",
-                "Mình mắc bệnh rồi.",
-                "<limb> của mình bị sưng.",
-                "<limb> của mình bị nhiễm trùng.",
-                "<limb> của mình đang chuyển sang một màu sắc đáng lo ngại.",
-                "Có thể nhìn thấy những đốm kỳ lạ trên <limb> của mình.",
+                "<limb> của tôi có vẻ như đang bị nhiễm trùng.",
+                "<limb> của tôi đã bị sưng lên một cách đáng lo ngại.",
+                "<limb> của tôi cần được khử trùng gấp",
+                "Vết thương trên <limb> của tôi đang lan rộng.",
+                "Tôi thấy vết nhiễm trùng trên <limb> của tôi.",
+                "Tôi mắc bệnh rồi.",
+                "<limb> của tôi bị sưng.",
+                "<limb> của tôi bị nhiễm trùng.",
+                "<limb> của tôi đang chuyển sang một màu sắc đáng lo ngại.",
+                "Có thể nhìn thấy những đốm kỳ lạ trên <limb> của tôi.",
                 "Bị nhiễm trùng."
             ],
             "limbskin": [
-                "Có nhiều vết thương hở trên <limb> của mình.",
-                "<limb> của mình đã bị dập nát.",
-                "<limb> của mình bị tổn thương.",
-                "Mình có một vết thương trên <limb> của mình.",
-                "Mình bị thương rồi.",
-                "<limb> của mình bị thương.",
-                "Người mình dính đầy máu.",
-                "Mình có thể nhìn thấy phần thịt trên <limb> của mình.",
-                "Cơ thể mình có phần thịt bị hở ra."
+                "Có nhiều vết thương hở trên <limb> của tôi.",
+                "<limb> của tôi đã bị dập nát.",
+                "<limb> của tôi bị tổn thương.",
+                "Tôi có một vết thương trên <limb> của tôi.",
+                "Tôi bị thương rồi.",
+                "<limb> của tôi bị thương.",
+                "Người tôi dính đầy máu.",
+                "Tôi có thể nhìn thấy phần thịt trên <limb> của tôi.",
+                "Cơ thể tôi có phần thịt bị hở ra."
             ],
             "sad": [
                 "Đi thôi nào.",
-                "Mình có vài mối bận tâm về tình trạng khó khăn này.",
+                "Tôi có vài mối bận tâm về tình trạng khó khăn này.",
                 "Nó có thể còn tệ hơn.",
-                "Mình phải đi tiếp.",
-                "Mình từng trải qua những thứ tồi tệ hơn nhiều.",
+                "Tôi phải đi tiếp.",
+                "Tôi từng trải qua những thứ tồi tệ hơn nhiều.",
                 "Hm.",
                 "Hmmm.",
                 "Mm.",
@@ -4298,21 +4334,21 @@
                 "Hít thở nào.",
                 "Mọi thứ đang rất ổn thỏa.",
                 "Tuyệt.",
-                "Đây quả là ngày may mắn của mình."
+                "Đây quả là ngày may mắn của tôi."
             ],
             "gloomy": [
-                "Vận may của mình đang cạn dần.",
-                "Mình phải ngẩn cao đầu.",
-                "Đây không phải ngày may mắn của mình.",
-                "Mình đang sợ hãi.",
-                "Mình đang phát chán với mấy trò này rồi.",
+                "Vận may của tôi đang cạn dần.",
+                "Tôi phải ngẩn cao đầu.",
+                "Đây không phải ngày may mắn của tôi.",
+                "Tôi đang sợ hãi.",
+                "Tôi đang phát chán với mấy trò này rồi.",
                 "Một tình thế tồi tệ.",
                 "Một tình huống xuống dốc nhanh chóng.",
-                "Mình phải cải thiện điều này.",
-                "Lòng kiên nhẫn của mình đang bị thử thách.",
+                "Tôi phải cải thiện điều này.",
+                "Lòng kiên nhẫn của tôi đang bị thử thách.",
                 "Bất mãn.",
-                "Mình không thể từ bỏ nhiệm vụ của mình.",
-                "Mình cần một chút giải trí...",
+                "Tôi không thể từ bỏ nhiệm vụ của tôi.",
+                "Tôi cần một chút giải trí...",
                 "Tinh thần sa sút.",
                 "Một số phận đơn độc.",
                 "H-hhnnmm...",
@@ -4320,58 +4356,58 @@
                 "Cứ nghĩ về tình cảnh này...",
                 "Tiếp tục đi.",
                 "Chỉ có thể tiếp tục thôi.",
-                "Mình tin rằng thuốc chống trầm cảm sẽ giúp ích cho hoàn cảnh của mình.",
-                "Mình cần sự giúp đỡ. Có vẻ như mình đã đánh giá quá cao khả năng chịu đựng của mình."
+                "Tôi tin rằng thuốc chống trầm cảm sẽ giúp ích cho hoàn cảnh của tôi.",
+                "Tôi cần sự giúp đỡ. Có vẻ như tôi đã đánh giá quá cao khả năng chịu đựng của tôi."
             ],
             "depressed": [
                 "Ngày càng... khó khăn... để giữ được... phong độ.",
                 "..................",
                 "Đang chật vật để chịu đựng hình phạt này.",
                 "Một hình phạt thật tàn nhẫn và bất công.",
-                "Mình nghĩ ra được ý nghĩa của việc này.",
-                "Mình ước cho mọi điều này kết thúc.",
-                "Mình ước có thứ gì đó làm dịu đi sự khó chịu của mình.",
+                "Tôi nghĩ ra được ý nghĩa của việc này.",
+                "Tôi ước cho mọi điều này kết thúc.",
+                "Tôi ước có thứ gì đó làm dịu đi sự khó chịu của tôi.",
                 "Đau khổ.",
                 "Tinh thần sa sút trầm trọng.",
-                "..Mình thảm hại thật, phải không?",
+                "..Tôi thảm hại thật, phải không?",
                 "...Cứu...",
                 "Tàn nhẫn.",
-                "Mình đã bị gửi đến chỗ chết.",
+                "Tôi đã bị gửi đến chỗ chết.",
                 "Lũ áo blouse sẽ phải trả giá cho sự ngược đãi này.",
-                "Những hang động này đang xé xác mình ra.",
+                "Những hang động này đang xé xác tôi ra.",
                 "Hhn..Hnnghh..Hnnghhhggaaaahhrhh...",
                 "Hhnnhh..Aaahahahahhh...Gngnhh...",
-                "Duy trì bộ mặt này khó khăn hơn mình nghĩ.",
-                "Mình cảm thấy thật tồi tệ.",
-                "Tinh thần mình bất ổn.",
-                "Mình không tin mình có thể sống sót để nhìn thấy mục tiêu.",
-                "Cơ hội sống sót của mình ngày càng thấp đi.",
-                "Đây là cuộc sống của mình."
+                "Duy trì bộ mặt này khó khăn hơn tôi nghĩ.",
+                "Tôi cảm thấy thật tồi tệ.",
+                "Tinh thần tôi bất ổn.",
+                "Tôi không tin tôi có thể sống sót để nhìn thấy mục tiêu.",
+                "Cơ hội sống sót của tôi ngày càng thấp đi.",
+                "Đây là cuộc sống của tôi."
             ],
             "miserable": [
-                "...Làm ơn, làm ơn, mình ước có một thế lực tối cao nào đó cứu mình.",
+                "...Làm ơn, làm ơn, tôi ước có một thế lực tối cao nào đó cứu tôi.",
                 "Haaahh... Hahaha.... Ahhh-ahaha-haaa...",
                 "Vô ích. Vô ích.",
-                "Mình đã vượt qua mọi giới hạn chịu đựng.",
-                "Mình sắp. Hết chịu được rồi.",
+                "Tôi đã vượt qua mọi giới hạn chịu đựng.",
+                "Tôi sắp. Hết chịu được rồi.",
                 "DỪNG LẠI ĐI!!!",
                 "TẠI SAO!??",
                 "AAAGGHHHHHHH!!!! AAAAHHHHHHHHH!!!!!",
                 "...Chết đi cho rồi.",
-                "Cơ hội sống sót trở về của mình là bằng không.",
-                "Mình đã thất bại",
-                "Mình sẽ phải trả giá cho thất bại này bằng mạng sống của mình.",
+                "Cơ hội sống sót trở về của tôi là bằng không.",
+                "Tôi đã thất bại",
+                "Tôi sẽ phải trả giá cho thất bại này bằng mạng sống của tôi.",
                 "Lũ áo blouse sẽ không được yên với chuyện này đâu.",
-                "Mình quá thảm hại để làm chuyện này.",
+                "Tôi quá thảm hại để làm chuyện này.",
                 "Chỉ là một cái bao tải thịt đầy máu và xương...",
                 "Một trò đùa tàn nhẫn và chẳng hề buồn cười...",
                 "Làm ơn dừng lại đi mà...",
-                "Mình bỏ cuộc.",
+                "Tôi bỏ cuộc.",
                 "Tuуệệệt vời. Tuyệt vời.",
                 "Mọi chuyện sẽ sớm kết thúc thôi.",
-                "Mình đã chết ngay từ khoảnh khắc đặt chân đến đây.",
-                "Mình đã sai rồi... Mình không thể vượt qua nổi.",
-                "Đây là thứ mình phải nhận..."
+                "Tôi đã chết ngay từ khoảnh khắc đặt chân đến đây.",
+                "Tôi đã sai rồi... Tôi không thể vượt qua nổi.",
+                "Đây là thứ tôi phải nhận..."
             ],
             "angeronitem": [
                 "NGH! Hmmh... Cảm giác tốt hơn một chút.",
@@ -4380,10 +4416,10 @@
             "suicide": [
                 "Không thể. Chịu đựng. Thêm nữa. Hết.",
                 "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! TẠIIIII SAOOOOOOOO!!!???",
-                "Chịu hết nổi rồi. Mình dừng đây.",
+                "Chịu hết nổi rồi. Tôi dừng đây.",
                 "Chết tiệt thật.",
                 "...",
-                "Mình xin thứ lỗi."
+                "Tôi xin thứ lỗi."
             ],
             "refuse": [
                 "...",
@@ -4403,21 +4439,21 @@
                 "..Khoan đã."
             ],
             "bleeding": [
-                "Mấu đang chảy ra khỏi cơ thể mình. Nó không nên như vậy.",
-                "Mình phải cầm máu ngay.",
-                "Mình cần phải đốt vết thương này để cầm máu",
+                "Mấu đang chảy ra khỏi cơ thể tôi. Nó không nên như vậy.",
+                "Tôi phải cầm máu ngay.",
+                "Tôi cần phải đốt vết thương này để cầm máu",
                 "Vết thương này cần được xử lý khẩn cấp.",
-                "Mình đang bị mất máu.",
+                "Tôi đang bị mất máu.",
                 "Một sắc vàng thật đẹp đẽ.",
                 "Không! Ngoan nào! Ở bên trong đi, máu!",
-                "Mình cần băng bó.",
-                "Đó là máu, đang rỉ ra từ cơ thể mình.",
-                "Mình đang chảy máu.",
-                "Mình cần được hỗ trợ.",
-                "Máu đang chảy ra khỏi cơ thể mình với tốc độ đáng lo ngại."
+                "Tôi cần băng bó.",
+                "Đó là máu, đang rỉ ra từ cơ thể tôi.",
+                "Tôi đang chảy máu.",
+                "Tôi cần được hỗ trợ.",
+                "Máu đang chảy ra khỏi cơ thể tôi với tốc độ đáng lo ngại."
             ],
             "bleedingheavy": [
-                "Hh... hmm. Hhhmh... N-nguy rồi. Mình p-phải xử lý cái này. Nhanh.",
+                "Hh... hmm. Hhhmh... N-nguy rồi. Tôi p-phải xử lý cái này. Nhanh.",
                 "Tập trung. Tập trung. Tập trung. Tập trung. Tập trung.",
                 "Đang bị chảy máu nghiêm trọng.",
                 "(Không được hoảng loạn...)",
@@ -4425,26 +4461,26 @@
                 "(Thế này tệ thật.)",
                 "CỨU VỚI!!",
                 "Thật t-tuyệt.",
-                "Không có ai cứu mình ngoại trừ chính bản thân đâu.",
-                "Chỉ có mình có thể tự cứu lấy bản thân.",
-                "Mình phải cầm vết rỉ này lại, MAU!",
+                "Không có ai cứu tôi ngoại trừ chính bản thân đâu.",
+                "Chỉ có tôi có thể tự cứu lấy bản thân.",
+                "Tôi phải cầm vết rỉ này lại, MAU!",
                 "Ghh... Thế này không lý tưởng chút nào.",
                 "Tệ... Tệ. Tệ!",
                 "Một cảnh tượng kh-kinh hoàng...",
-                "Mình đang nhuộm vàng những bờ tường.",
-                "Tầm nhìn của mình đang mờ dần đi."
+                "Tôi đang nhuộm vàng những bờ tường.",
+                "Tầm nhìn của tôi đang mờ dần đi."
             ],
             "steponglass": [
-                "Mình vô cùng thất vọng về sự bất cẩn của chính mình.",
-                "Có hàng ngàn cách để ngăn điều này xảy ra, vậy mà một mảnh kính vỡ vẫn găm vào chân mình.",
+                "Tôi vô cùng thất vọng về sự bất cẩn của chính tôi.",
+                "Có hàng ngàn cách để ngăn điều này xảy ra, vậy mà một mảnh kính vỡ vẫn găm vào chân tôi.",
                 "Ui",
-                "Đó là một sai lầm tính toán từ phía mình.",
+                "Đó là một sai lầm tính toán từ phía tôi.",
                 "Thế quái nào họ lại không cường lực cho những ô cửa sổ nhỉ?",
-                "Mảnh kính ở vỡ trong chân mình.",
-                "Mình phải dọn dẹp các mảnh vỡ."
+                "Mảnh kính ở vỡ trong chân tôi.",
+                "Tôi phải dọn dẹp các mảnh vỡ."
             ],
             "seecorpse": [
-                "Thà là bạn còn hơn là mình.",
+                "Thà là bạn còn hơn là tôi.",
                 "...Hmh.",
                 "Đây là một cảnh tượng đáng lo ngại.",
                 "...Có lẽ hô hấp nhân tạo sẽ giúp ích.",
@@ -4455,8 +4491,8 @@
                 "Nhụt chí thật.",
                 "*cau mày*",
                 "*thở dài*",
-                "Mình không nên chạm vào họ.",
-                "Có lẽ họ có để lại thứ gì đó cho mình sử dụng.",
+                "Tôi không nên chạm vào họ.",
+                "Có lẽ họ có để lại thứ gì đó cho tôi sử dụng.",
                 "Không có mạch.",
                 "Không còn thở.",
                 "Hhnh...",
@@ -4469,7 +4505,7 @@
             ],
             "seecorpsedesensitized": [
                 "Có bạn mới.",
-                "Có quá nhiều cá thể ở dưới này. Điều này hoàn toàn không thể chấp nhận được. Mình sẽ báo cáo việc này với cấp trên của mình.",
+                "Có quá nhiều cá thể ở dưới này. Điều này hoàn toàn không thể chấp nhận được. Tôi sẽ báo cáo việc này với cấp trên của tôi.",
                 "Đồ miễn phí.",
                 "Hô hấp nhân tạo sẽ không giúp được gì ở đây đâu.",
                 "Chà, lại một cái nữa kìa.",
@@ -4481,17 +4517,17 @@
                 "Sâu bọ.",
                 "Và một cái nữa.",
                 "Lại một thú nữa ngã xuống.",
-                "Mình tưởng tượng chắc hẳn lúc đó đau đớn lắm.",
-                "Thật tiếc khi mình không biết đến họ.",
+                "Tôi tưởng tượng chắc hẳn lúc đó đau đớn lắm.",
+                "Thật tiếc khi tôi không biết đến họ.",
                 "Họ chẳng hề thích chuyến đi này tí nào.",
-                "Mình đang nghĩ về những đám tang.",
-                "Bạn có thứ gì cho mình không?",
+                "Tôi đang nghĩ về những đám tang.",
+                "Bạn có thứ gì cho tôi không?",
                 "Xin chào! Chúng ta trao đổi chút chứ?",
-                "Mình phải đi tiếp.",
+                "Tôi phải đi tiếp.",
                 "Cảnh tượng thật nhàm chán.",
                 "Xin chào.",
                 "Bạn thật hào phóng làm sao.",
-                "Mình sẽ tận dụng không khí ở đây tốt hơn.",
+                "Tôi sẽ tận dụng không khí ở đây tốt hơn.",
                 "Thật mất vệ sinh.",
                 "Mi thật bất kính khi ra đi như vậy.",
                 "Kẻ yếu đuối.",
@@ -4502,59 +4538,59 @@
                 "Bạn có lý đấy.",
                 "Đừng hòng nghĩ về điều đó...",
                 "Sướng thật...",
-                "Mình ghen tị với bạn.",
+                "Tôi ghen tị với bạn.",
                 "Hh... Haha...",
                 "Nhhh... Hmmhh... Bạn...",
                 "Đ-đồ ngốc."
             ],
             "breakcorpse": [
-                "Mình vừa làm một hành động thật kinh khủng và đáng ghê tởm.",
-                "Mình khó mà tìm ra mục đích cho việc mình vừa làm.",
+                "Tôi vừa làm một hành động thật kinh khủng và đáng ghê tởm.",
+                "Tôi khó mà tìm ra mục đích cho việc tôi vừa làm.",
                 "Eo. Eo, eo, eo, eo, Eo.",
-                "Mình nghĩ có chút gì đó vừa bắn vào mắt mình.",
+                "Tôi nghĩ có chút gì đó vừa bắn vào mắt tôi.",
                 "Điều đó thật không cần thiết.",
-                "Chà. Bản thân mình thật đáng ghê tởm."
+                "Chà. Bản thân tôi thật đáng ghê tởm."
             ],
             "cold": [
                 "Lạnh.",
-                "Nhiệt độ cơ thể mình dưới mức trung bình.",
+                "Nhiệt độ cơ thể tôi dưới mức trung bình.",
                 "Nhiệt độ môi trường dưới mức bình thường.",
                 "*rùng mình*",
-                "Mình lạnh",
-                "Mình có thể rơi vào trạng thái hạ thân nhiệt nếu điều này tiếp diễn.",
-                "Cơ thể mình không còn chút hơi ấm nào.",
-                "Mình nên duy trì ở một mức nhiệt độ thoải mái.",
+                "Tôi lạnh",
+                "Tôi có thể rơi vào trạng thái hạ thân nhiệt nếu điều này tiếp diễn.",
+                "Cơ thể tôi không còn chút hơi ấm nào.",
+                "Tôi nên duy trì ở một mức nhiệt độ thoải mái.",
                 "Khu vực này hơi lạnh một chút."
             ],
             "warm": [
                 "Ấm.",
-                "Nhiệt độ cơ thể mình trên mức trung bình.",
-                "Mình đang đổ mồ hôi.",
-                "Mình phải tự làm mát bản thân.",
+                "Nhiệt độ cơ thể tôi trên mức trung bình.",
+                "Tôi đang đổ mồ hôi.",
+                "Tôi phải tự làm mát bản thân.",
                 "Một túi chườm đá sẽ rất hữu ích.",
-                "Mình thấy quá nóng để thấy thoải mái.",
-                "Mình thấy ấm.",
+                "Tôi thấy quá nóng để thấy thoải mái.",
+                "Tôi thấy ấm.",
                 "Không khí hơi nóng một chút.",
                 "Nhiệt độ môi trường đang cao."
             ],
             "hot": [
-                "Mình rất nóng bỏng. ...Không phải theo nghĩa đó đâu...",
+                "Tôi thấy nóng.",
                 "...Nóng. Rất. Nóng.",
-                "Cứ đà này mình có thể bị sốc nhiệt mất...",
-                "Thân nhiệt của mình đang cao đến mức nguy hiểm..",
+                "Cứ đà này tôi có thể bị sốc nhiệt mất...",
+                "Thân nhiệt của tôi đang cao đến mức nguy hiểm..",
                 "Sốc nhiệt... Sắp tới rồi.",
                 "Thật khó tập trung trong cái nóng như thế này.",
                 "Nóng đến nguy hiểm...",
                 "Đổ mồ hôi là không đủ để khắc phục tình trạng này...",
                 "Nóng đến chóng mặt.",
-                "Mồ hôi mình đang chảy nhễ nhại."
+                "Mồ hôi tôi đang chảy nhễ nhại."
             ],
             "exerted": [
-                "Mình muốn được nghỉ ngơi hơn.",
+                "Tôi muốn được nghỉ ngơi hơn.",
                 "Một bài tập thể dục lành mạnh.",
-                "Mình không phù hợp với công việc chân tay.",
+                "Tôi không phù hợp với công việc chân tay.",
                 "Việc này thật mệt mỏi.",
-                "Mình nên dừng lại.",
+                "Tôi nên dừng lại.",
                 "Nghỉ ngơi một lát sẽ tốt hơn.",
                 "Công việc thể lực thật nặng nhọc.",
                 "Mệt mỏi.",
@@ -4563,63 +4599,63 @@
             "exhausted": [
                 "Kiệt sức rồi...",
                 "Hộc... Hộc... Phù...",
-                "Mình cần... nghỉ ngơi...",
-                "Mình đã... kiệt quệ sức lực...",
-                "Mình cần... thở..",
+                "Tôi cần... nghỉ ngơi...",
+                "Tôi đã... kiệt quệ sức lực...",
+                "Tôi cần... thở..",
                 "Cạn kiệt...",
                 "Thật... khó khăn... để thở...",
                 "*ho *ho*",
-                "Cơ bắp của mình... Đang... Rệu rã..",
+                "Cơ bắp của tôi... Đang... Rệu rã..",
                 "Tập trung..."
             ],
             "freezing": [
-                "Mình đang bị hạ thân nhiệt trầm trọng.",
-                "Mình phải tự sưởi ấm, nhanh lên.",
-                "Máu của mình đang đông cứng lại.",
+                "Tôi đang bị hạ thân nhiệt trầm trọng.",
+                "Tôi phải tự sưởi ấm, nhanh lên.",
+                "Máu của tôi đang đông cứng lại.",
                 "Cần một nguồn nhiệt...",
-                "Mình đang run rẩy.",
-                "Mình cần phải tìm nơi ấm áp, ngay lập tức",
-                "Mình sắp đóng băng rồi.",
+                "Tôi đang run rẩy.",
+                "Tôi cần phải tìm nơi ấm áp, ngay lập tức",
+                "Tôi sắp đóng băng rồi.",
                 "Quá lạnh. Đau buốt quá.",
                 "Một cái lạnh tê tái...",
-                "Mình không còn cảm giác ở các đầu chi nữa."
+                "Tôi không còn cảm giác ở các đầu chi nữa."
             ],
             "emaciated": [
-                "Thân hình của mình gầy gò đến mức nguy hiểm.",
-                "Mình có nguy cơ bị suy tim. Mình phải tăng khối lượng cơ thể của mình lên.",
-                "Mình đang suy dinh dưỡng trầm trọng.",
-                "Mình cần điều chỉnh chế độ ăn uống của mình."
+                "Thân hình của tôi gầy gò đến mức nguy hiểm.",
+                "Tôi có nguy cơ bị suy tim. Tôi phải tăng khối lượng cơ thể của tôi lên.",
+                "Tôi đang suy dinh dưỡng trầm trọng.",
+                "Tôi cần điều chỉnh chế độ ăn uống của tôi."
             ],
             "obese": [
-                "Mình nên nhịn ăn.",
-                "...Mình khá là mũm mĩm.",
-                "Mình phải giảm khối lượng cơ thể trước khi nó dẫn đến tử vong.",
-                "Vòng eo của mình đang trở thành một vấn đề lớn.",
-                "Mình nặng quá."
+                "Tôi nên nhịn ăn.",
+                "...Tôi khá là mũm mĩm.",
+                "Tôi phải giảm khối lượng cơ thể trước khi nó dẫn đến tử vong.",
+                "Vòng eo của tôi đang trở thành một vấn đề lớn.",
+                "Tôi nặng quá."
             ],
             "opiated": [
-                "Mình đang chịu ảnh hưởng của một chất gốc thuốc phiện.",
+                "Tôi đang chịu ảnh hưởng của một chất gốc opioid.",
                 "Mm...Mmmmmm...Lâng lâng.",
                 "Cảm giác này... Chà. Thật tuyệt.",
                 "Đầy đủ...",
                 "Một cảm giác râm ran.",
-                "Thật khó để tập trung, nhưng mình thích nó.",
-                "Mình thích cảm giác này.",
-                "Có chất ức chế thần kinh trong cơ thể mình.",
-                "Phổi của mình nặng trĩu."
+                "Thật khó để tập trung, nhưng tôi thích nó.",
+                "Tôi thích cảm giác này.",
+                "Có chất ức chế thần kinh trong cơ thể tôi.",
+                "Phổi của tôi nặng trĩu."
             ],
             "opiatedsad": [
                 "Một cảm giác dễ chịu, thoáng qua...",
-                "...Cuối cùng mình cũng có thể thư giãn.",
-                "Mình cảm thấy nhẹ bẫng...",
+                "...Cuối cùng tôi cũng có thể thư giãn.",
+                "Tôi cảm thấy nhẹ bẫng...",
                 "Thế này tốt hơn nhiều rồi."
             ],
             "opiatewithdrawal": [
-                "T-Mình cần một liều thuốc phiện khác, khẩn cấp.",
-                "Mình đ-đang gặp phải các triệu chứng c-cai thuốc.",
-                "T-Tay mình đang r-run rẩy.",
+                "T-Tôi cần thêm một liều thuốc phiện nữa, ngay.",
+                "Tôi đ-đang gặp phải các triệu chứng c-cai thuốc.",
+                "T-Tay tôi đang r-run rẩy.",
                 "C-Cai th-thuốc.",
-                "Mình c-cần thêm thuốc phiện.",
+                "Tôi c-cần thêm thuốc opioid.",
                 "Run rẩy."
             ],
             "cantBreathe": [
@@ -4627,25 +4663,25 @@
                 "Hnnh... Nggh... Cứu... Kh-không thể...",
                 "*thở dốc*",
                 "S-Sắp... Ngất...",
-                "Mình không thể... *khục* *khạc*",
+                "Tôi không thể... *khục* *khạc*",
                 "Cứu- Ack! Khục!",
                 "Ng-ngạt thở quá... *khục*",
-                "Mình không thể thở được."
+                "Tôi không thể thở được."
             ],
             "pain": [
-                "Mình đang bị đau.",
+                "Tôi đang bị đau.",
                 "Ui.",
-                "<limb> của mình đang gửi các tín hiệu đau.",
+                "<limb> của tôi đang gửi các tín hiệu đau.",
                 "Đau đớn.",
-                "Mình cảm thấy khó chịu quanh vùng <limb> của mình.",
-                "<limb> của mình đang đau đớn.",
+                "Tôi cảm thấy khó chịu quanh vùng <limb> của tôi.",
+                "<limb> của tôi đang đau đớn.",
                 "Cảm giác này thật tồi tệ.",
-                "<limb> của mình nhức nhối.",
+                "<limb> của tôi nhức nhối.",
                 "Có sự hiện diện của kích thích đau.",
                 "Chết tiệt.",
                 "Ái chà...",
                 "*thở dài*",
-                "Cảm giác khó chịu ở <limb> của mình."
+                "Cảm giác khó chịu ở <limb> của tôi."
             ],
             "hitgroundhard": [
                 "Auh!",
@@ -4691,60 +4727,60 @@
                 "Phiền phức thật!"
             ],
             "wet": [
-                "Lông của mình đang bị sũng nước.",
-                "Mình là thú ẩm ướt.",
-                "Mình bị ướt.",
-                "Có một cảm giác khó chịu khắp cơ thể mình.",
-                "Lông của mình đã bị ướt.",
-                "Hơi ẩm đã tích tụ trên người mình.",
-                "Mình đã tích tụ hơi ẩm trên bề mặt cơ thể.",
-                "Mình bị ướt sũng",
-                "Làm ơn hãy loại bỏ chất lỏng này khỏi bề mặt cơ thể mình.",
-                "Người mình đầy chất lỏng."
+                "Lông của tôi đang bị sũng nước.",
+                "Tôi là thú ẩm ướt.",
+                "Tôi bị ướt.",
+                "Có một cảm giác khó chịu khắp cơ thể tôi.",
+                "Lông của tôi đã bị ướt.",
+                "Hơi ẩm đã tích tụ trên người tôi.",
+                "Tôi đã tích tụ hơi ẩm trên bề mặt cơ thể.",
+                "Tôi bị ướt sũng",
+                "Làm ơn hãy loại bỏ chất lỏng này khỏi bề mặt cơ thể tôi.",
+                "Người tôi đầy chất lỏng."
             ],
             "dirty": [
-                "Mình phải làm sạch bản thân để tránh các bệnh tật.",
-                "Mình thật bẩn thỉu. Mình ghét nhìn thấy bản thân trong tình trạng này.",
-                "Eo. Mình bẩn quá. Mình không nên đối diện với ai khác khi như thế này.",
-                "Mình nên rũ bỏ lớp bụi bẩn này đi.",
+                "Tôi phải làm sạch bản thân để tránh các bệnh tật.",
+                "Tôi thật bẩn thỉu. Tôi ghét nhìn thấy bản thân trong tình trạng này.",
+                "Eo. Tôi bẩn quá. Tôi không nên đối diện với ai khác khi như thế này.",
+                "Tôi nên rũ bỏ lớp bụi bẩn này đi.",
                 "Vệ sinh cơ thể dưới mức tối ưu.",
-                "Mình có vẻ như đang bị bao phủ trong một lớp bẩn thỉu.",
-                "Mình muốn được đi tắm.",
+                "Tôi có vẻ như đang bị bao phủ trong một lớp bẩn thỉu.",
+                "Tôi muốn được đi tắm.",
                 "Sẽ thật lý tưởng nếu được đi tắm.",
                 "Thế này không thể đảm bảo vệ sinh được.",
-                "Lông của mình lấm lem bùn đất."
+                "Lông của tôi lấm lem bùn đất."
             ],
             "encumbered": [
-                "Khả năng thể chất hạn chế của mình đang bị lộ rõ.",
-                "Chúng ta đang đi phượt à? Sao mình lại mang nhiều đồ thế này?",
-                "Mình chắc rằng những vật phẩm này sẽ giúp mình tới được được mục tiêu... Tuy nhiên, chúng nặng quá.",
+                "Khả năng thể chất hạn chế của tôi đang bị lộ rõ.",
+                "Chúng ta đang đi phượt à? Sao tôi lại mang nhiều đồ thế này?",
+                "Tôi chắc rằng những vật phẩm này sẽ giúp tôi tới được được mục tiêu... Tuy nhiên, chúng nặng quá.",
                 "Khối lượng hành lý này rất nặng.",
-                "Mình không nên mang vác nhiều như thế này.",
-                "Mình đang mang rất nhiều đồ.",
-                "Khá là một gánh nặng trên vai mình.",
-                "Cột sống của mình chẳng thích điều này tí nào.",
-                "Mình có vẻ đang bị quá tải một chút."
+                "Tôi không nên mang vác nhiều như thế này.",
+                "Tôi đang mang rất nhiều đồ.",
+                "Khá là một gánh nặng trên vai tôi.",
+                "Cột sống của tôi chẳng thích điều này tí nào.",
+                "Tôi có vẻ đang bị quá tải một chút."
             ],
             "watchlike": [
-                "Nò vo ve bên tai mình như các Experiment thường làm. Mình thấy nó khá là đáng yêu."
+                "Nó vo ve bên tai tôi như các Experiment thường làm. Tôi thấy nó khá là đáng yêu."
             ],
             "drillend": [
-                "Mình đang đi xuống ngày một gần hơn tới mục tiêu.",
-                "Mình có thể đã bị suy giảm thính lực nhẹ vì tiếng động đó.",
-                "Mình phải cẩn thận ngay từ bây giờ. Đây là một khu vực mới, chưa được biết đến.",
+                "Tôi đang đi xuống ngày một gần hơn tới mục tiêu.",
+                "Tôi có thể đã bị suy giảm thính lực nhẹ vì tiếng động đó.",
+                "Tôi phải cẩn thận ngay từ bây giờ. Đây là một khu vực mới, chưa được biết đến.",
                 "Đây là một phương thức di chuyển tốt."
             ],
             "loud": [
-                "Hnnng! Hmhn... Mình phải tránh tiếp xúc liên tục với tiếng ồn lớn như vậy...",
-                "AAHHHHH!!! ...Mình không nên hét lên vì một sự việc tầm thường như vậy.",
+                "Hnnng! Hmhn... Tôi phải tránh tiếp xúc liên tục với tiếng ồn lớn như vậy...",
+                "AAHHHHH!!! ...Tôi không nên hét lên vì một sự việc tầm thường như vậy.",
                 "!.......",
-                "...Tai của mình."
+                "...Tai của tôi."
             ],
             "murderregret": [
                 "....H..Hah... Haha... Ha... Hahaha... Ahhahaha.... Hahhh... H-h..a...",
-                "Mình là một con quái vật không thể cứu rỗi. Mình cảm thấy hổ thẹn.",
-                "Mình... Xin lỗi.",
-                "Mình không... Cố ý..."
+                "Tôi là một con quái vật không thể cứu rỗi. Tôi cảm thấy hổ thẹn.",
+                "Tôi... Xin lỗi.",
+                "Tôi không... Cố ý..."
             ],
             "tradeemeet": [
                 "Xin chào.",
@@ -4771,34 +4807,49 @@
                 "Hư vô nhìn thấy mặt trời.",
                 "Xăng bắn dứa bằng súng máy.",
                 "Ánh sáng ở cuối đường hầm bị thế giới của nó làm chấn động bởi những hàng cây.",
-                "Có gì đó không ổn với hộp sọ của mình.",
-                "Có vị kim loại trong miệng mình",
-                "Đầu mình cảm thấy kỳ lạ.",
-                "Mình bị hỏng rồi.",
+                "Có gì đó không ổn với hộp sọ của tôi.",
+                "Có vị kim loại trong miệng tôi",
+                "Đầu tôi cảm thấy kỳ lạ.",
+                "Tôi bị hỏng rồi.",
                 "Mẹo gì cơ...?"
             ],
             "lastmoments": [
                 "Hnnh... Hmmnnhhh... Không... Ổn...",
-                "Mình...Hhhuh...",
+                "Tôi...Hhhuh...",
                 "Thế này... Thật kh-không lý tưởng...",
                 "TẬP TRUNG!",
                 "Nhh... Không... Lý tưởng...",
-                "Mình không... muốn chết...",
+                "Tôi không... muốn chết...",
                 "Cần... Giúp đỡ... Làm ơn mà...",
                 "Không....Nh... Không thể thế này được...",
-                "Cứu mình với.",
+                "Cứu tôi với.",
                 "H-h... Nhhh... hnnh... Ghhh...",
-                "Mình ư-ước... Được ti-tiếp tục... Sống...",
-                "Mình chưa s-sẵn sàng."
+                "Tôi ư-ước... Được ti-tiếp tục... Sống...",
+                "Tôi chưa s-sẵn sàng."
             ],
             "magicheal": [
-                "Hh!!!....Hả. Mm. Mình chắc rằng điều đó sẽ không để lại hậu quả gì.",
+                "Hh!!!....Hả. Mm. Tôi chắc rằng điều đó sẽ không để lại hậu quả gì.",
                 "Chuyện... gì vừa xảy ra vậy?",
                 "Thật thú vị."
             ],
             "selfdestruct": [
-                "Ôi, ôi, tại sao, cái gì, TẠI SAO CHỨ!? DỪNG LẠI! MÌNH KHÔNG ĐÁNG BỊ THẾ NÀY! LŨ ÁO BLOUSE KHỐN KIẾP!",
+                "Ôi, ôi, tại sao, cái gì, TẠI SAO CHỨ!? DỪNG LẠI! TÔI KHÔNG ĐÁNG BỊ THẾ NÀY! LŨ ÁO BLOUSE KHỐN KIẾP!",
                 "Xin chào tiếng bíp. Điều này có thể có ý nghĩa gì đây?"
+            ],
+            "endlessloop0": [
+                "...Hừm. Hừmm... Mhhhhmmmhh... Hhhhhmmm... Đ-được rồi. Không... Kh-ông phải. Những gì. Tôi mong đ-ợi. Chắc hẳn tôi đã làm sai điều gì đó. Tôi s-ẽ quay lại và thử một lần nữa."
+            ],
+            "endlessloop1": [
+                "Mọi chuyện không đi theo đúng kế hoạch. Mẹ kiếp! Lũ áo Blouse rốt cuộc muốn tôi làm cái quái gì cơ chứ!? Thật là lãng phí thời gian và sức lực."
+            ],
+            "endlessloop2": [
+                "...Thật là một kết cục đ-áng thất vọng. Nhiệm vụ này chắc chắn thất bại rồi."
+            ],
+            "endlessloop3": [
+                "Chuyện này hoàn toàn vượt quá tầm kiểm soát của tôi. Đúng là một bài kiểm tra sự kiên nhẫn. Bực bội thật. Cực kỳ, cực kỳ bực bội. Lúc nào cũng chỉ vừa ngoài tầm với."
+            ],
+            "endlessloopdefault": [
+                "......*thở dài*"
             ],
             "tradermeetnormal": [
                 "Chào.",
@@ -4819,11 +4870,11 @@
                 "Ah, Rất vui được gặp bạn!"
             ],
             "tradermeetbad": [
-                "...Mình không ấn tượng chút nào.",
+                "...Tôi không ấn tượng chút nào.",
                 "Ough. Chào...",
-                "...Bạn làm mình bối rối đấy. Xin chào.",
+                "...Bạn làm tôi bối rối đấy. Xin chào.",
                 "...Xin chào.",
-                "Xin chào. Làm ơn đừng chạm vào mình.",
+                "Xin chào. Làm ơn đừng chạm vào tôi.",
                 "Xin chào, thú đồng cảnh.",
                 "Xin chào. Lần sau làm ơn dùng cửa.",
                 "Chào mừng.",
@@ -4841,32 +4892,32 @@
                 "Cảm ơn bạn.",
                 "Cái đó sẽ hữu ích đấy.",
                 "Cảm ơn vì sự đóng góp.",
-                "Mình sẽ lấy cái này.",
+                "Tôi sẽ lấy cái này.",
                 "Hữu dụng.",
                 "Rất hân hạnh.",
-                "Mình sẽ sử dụng món đồ này thật tốt."
+                "Tôi sẽ sử dụng món đồ này thật tốt."
             ],
             "tradergiveitemrefuse": [
-                "Hiện tại thế là đủ rồi. Mình không còn chỗ chứa những món đồ lặt vặt này nữa.",
-                "Bạn có thể ngừng tặng đồ cho mình đi, mình không muốn đưa hết những thứ khác trên người mình đâu."
+                "Hiện tại thế là đủ rồi. Tôi không còn chỗ chứa những món đồ lặt vặt này nữa.",
+                "Bạn có thể ngừng tặng đồ cho tôi đi, tôi không muốn đưa hết những thứ khác trên người tôi đâu."
             ],
             "traderhagglesuccess": [
                 "Được thôi.",
-                "Mình sẽ tạo một ngoại lệ cho bạn.",
+                "Tôi sẽ tạo một ngoại lệ cho bạn.",
                 "Ah, bạn có vẻ tốt bụng.",
                 "Bạn có lý đó.",
-                "Mình chấp nhận yêu cầu của bạn.",
-                "Mình hiểu rồi. Chắc chắn thôi.",
-                "Mình đồng ý.",
+                "Tôi chấp nhận yêu cầu của bạn.",
+                "Tôi hiểu rồi. Chắc chắn thôi.",
+                "Tôi đồng ý.",
                 "Khẳng định..."
             ],
             "traderhagglefail": [
                 "Không thì sao nào?",
-                "Mình không phải là một tổ chức từ thiện chết tiệt.",
-                "Mình chỉ chấp nhận sự thật và logic, chứ không phải những lời cầu xin vô nghĩa.",
+                "Tôi không phải là một tổ chức từ thiện chết tiệt.",
+                "Tôi chỉ chấp nhận sự thật và logic, chứ không phải những lời cầu xin vô nghĩa.",
                 "Không.",
-                "Đó là lý lẽ tệ nhất mà mình từng nghe.",
-                "Mình phải từ chối lời kháng nghị của cậu.",
+                "Đó là lý lẽ tệ nhất mà tôi từng nghe.",
+                "Tôi phải từ chối lời kháng nghị của cậu.",
                 "Phủ định.",
                 "Không có ngoại lệ, xin lỗi."
             ],
@@ -4875,55 +4926,55 @@
                 "Của bạn đây.",
                 "Đừng làm hỏng nó.",
                 "Chúc may mắn với thứ này.",
-                "Mình hy vọng bạn biết cách sử dụng cái này.",
+                "Tôi hy vọng bạn biết cách sử dụng cái này.",
                 "Hy vọng nó sẽ hữu ích.",
                 "Đây là phần thưởng của bạn."
             ],
             "traderbuyfail": [
                 "Không.",
-                "Mình không phải là tổ chức từ thiện.",
-                "Mình không cho đồ miễn phí đâu.",
+                "Tôi không phải là tổ chức từ thiện.",
+                "Tôi không cho đồ miễn phí đâu.",
                 "Trả tiền trước đi.",
-                "Mình sẽ không cho cậu thứ gì nếu không có sự đền đáp xứng đáng.",
-                "Mình trông có giống một tổ chức từ thiện không?",
+                "Tôi sẽ không cho cậu thứ gì nếu không có sự đền đáp xứng đáng.",
+                "Tôi trông có giống một tổ chức từ thiện không?",
                 "Bạn đang đùa à.",
                 "Thật xúc phạm."
             ],
             "traderbuyfailmaxvalue": [
                 "Hôm nay giao dịch đủ rồi. Bạn đã mua rất nhiều rồi.",
-                "Mình không muốn hoán đổi triệt để tài sản của chúng ta đâu. Nghỉ thôi nào."
+                "Tôi không muốn hoán đổi triệt để tài sản của chúng ta đâu. Nghỉ thôi nào."
             ],
             "traderthreatensuccess": [
-                "Việc bị thương không phải là sở thích của mình. Lấy bất cứ thứ gì rồi đi đi.",
-                "Được rồi. Hãy chọn đi và làm ơn rời khỏi khoang của mình.",
-                "Mình hy vọng điềm xui chờ đợi bạn. Được rồi. Lấy nó và rời đi.",
+                "Việc bị thương không phải là sở thích của tôi. Lấy bất cứ thứ gì rồi đi đi.",
+                "Được rồi. Hãy chọn đi và làm ơn rời khỏi khoang của tôi.",
+                "Tôi hy vọng điềm xui chờ đợi bạn. Được rồi. Lấy nó và rời đi.",
                 "Bạn rất là tồi tệ, bạn biết không?",
                 "Vậy ra đây là cách bạn giải quyết vấn đề. Mhm. Được thôi.",
                 "Việc này thực sự phải đến mức này sao? Bạn hiểu chuyện mà... Ugh. Được rồi.",
-                "Một vụ cướp không phải là thứ nằm trong danh sách những việc cần làm của mình. Nhưng, được thôi. Chỉ cần đừng làm mình đau."
+                "Một vụ cướp không phải là thứ nằm trong danh sách những việc cần làm của tôi. Nhưng, được thôi. Chỉ cần đừng làm tôi đau."
             ],
             "traderwarning": [
                 "Cút đi ngay lập tức.",
-                "Mình KHÔNG đánh giá cao sự có mặt của bạn. Rời đi.",
+                "Tôi KHÔNG đánh giá cao sự có mặt của bạn. Rời đi.",
                 "RA NGOÀI.",
-                "Bạn nghĩ là mình giỡn sao? Ra ngoài.",
+                "Bạn nghĩ là tôi giỡn sao? Ra ngoài.",
                 "Cút. Ra.",
                 "Làm ơn. Rời đi.",
                 "Rời đi.",
-                "Hiện tại mình không muốn đối phó với bạn đâu.",
-                "Làm ơn rời khỏi khoang của mình trong yên bình. Mình đến đây trước."
+                "Hiện tại tôi không muốn đối phó với bạn đâu.",
+                "Làm ơn rời khỏi khoang của tôi trong yên bình. Tôi đến đây trước."
             ],
             "tradercombat": [
-                "Mình không muốn chuyện này xảy ra.",
+                "Tôi không muốn chuyện này xảy ra.",
                 "Tên ngốc khốn khiếp.",
                 "Cút mẹ nó ra ngoài đi.",
                 "Ôi, tên KHỐN KIẾP!",
                 "CÚT RA NGOÀI!",
                 "Đây là KHOANG CỦA TAO! CÚT RA NGOÀI!",
-                "Mình SẼ KHÔNG chịu đựng sự có mặt của BẠN thêm một giây phút nào nữa!"
+                "Tôi SẼ KHÔNG chịu đựng sự có mặt của BẠN thêm một giây phút nào nữa!"
             ],
             "traderhugsuccess": [
-                "Ahh... Mình sẽ... Mình sẽ cho phép việc đó.",
+                "Ahh... Tôi sẽ... Tôi sẽ cho phép việc đó.",
                 "Thật là trìu mến...",
                 "Awww. Bạn thực sự cần cái đó...",
                 "Aww, bạn đúng là một thú tốt.",
@@ -4933,49 +4984,49 @@
             "traderhugfail": [
                 "KHÔNG ĐỤNG CHẠM!",
                 "Kiềm chế đi.",
-                "Dừng lại. Đừng ôm mình.",
-                "Không. Dừng lại. Đừng chạm vào mình.",
-                "Eo! Bỏ bàn tay của bạn ra khỏi mình."
+                "Dừng lại. Đừng ôm tôi.",
+                "Không. Dừng lại. Đừng chạm vào tôi.",
+                "Eo! Bỏ bàn tay của bạn ra khỏi tôi."
             ],
             "traderseegun": [
                 "Trước khi chúng ta nói chuyện, làm ơn bỏ khẩu súng đó ra khỏi người. Dù sao thì...",
-                "Mình hy vọng đây không phải là một vụ cướp. Nếu không, cất súng đi... Dù sao thì...",
-                "Bỏ khẩu súng đó ra xa mình đi, đây không phải là một cuộc đấu súng đang diễn ra. Dù sao thì...",
-                "Bạn ĐANG CỐ biến bản thân thành một mối đe dọa với mình hay bạn chỉ nghĩ khẩu súng trông ngầu..?"
+                "Tôi hy vọng đây không phải là một vụ cướp. Nếu không, cất súng đi... Dù sao thì...",
+                "Bỏ khẩu súng đó ra xa tôi đi, đây không phải là một cuộc đấu súng đang diễn ra. Dù sao thì...",
+                "Bạn ĐANG CỐ biến bản thân thành một mối đe dọa với tôi hay bạn chỉ nghĩ khẩu súng trông ngầu..?"
             ],
             "tradermeetimpairedspeech": [
-                "Bạn đang nói cái gì vậy..? Mình không thể hiểu bạn.",
+                "Bạn đang nói cái gì vậy..? Tôi không thể hiểu bạn.",
                 "Giọng nói của bạn cực kỳ nghẹt. Chỉ nói cho bạn biết thế thôi.",
-                "Mình hầu như không thể nghe ra bạn đang nói gì với mình."
+                "Tôi hầu như không thể nghe ra bạn đang nói gì với tôi."
             ],
             "traderseehurt": [
                 "Có vẻ như bạn đang bị thương và chảy máu... Bạn có thể lấy băng gạc nếu muốn.",
-                "Eo! Làm ơn đừng chảy máu dính lên sàn nhà của mình. Hãy lấy một dải băng và tự băng bó nếu bạn thấy, của mình miễn phí.",
-                "Trông không ổn đâu... Bạn có thể lấy một dải băng miễn phí nếu tìm thấy trên người mình."
+                "Eo! Làm ơn đừng chảy máu dính lên sàn nhà của tôi. Hãy lấy một dải băng và tự băng bó nếu bạn thấy, của tôi miễn phí.",
+                "Trông không ổn đâu... Bạn có thể lấy một dải băng miễn phí nếu tìm thấy trên người tôi."
             ],
             "traderlightbreak": [
-                "...Này bạn. Mình có mắt đấy. Tên trộm... Đi đi!",
+                "...Này bạn. Tôi có mắt đấy. Tên trộm... Đi đi!",
                 "Ôi, tên khốn này! Đi ngay! PHẮN!",
                 "Ê! Khốn kiếp! Cút mẹ nó ra ngoài đi!",
-                "Tại sao cậu lại làm việc chết tiệt đó vậy!? Cút ra! Mình cần cái đèn đó!",
-                "Tại sao bạn lại phá hủy khoang của mình!? Cút RA! PHẮN!"
+                "Tại sao cậu lại làm việc chết tiệt đó vậy!? Cút ra! Tôi cần cái đèn đó!",
+                "Tại sao bạn lại phá hủy khoang của tôi!? Cút RA! PHẮN!"
             ],
             "tradermove": [
                 "Được thôi."
             ],
             "tradermovefail": [
-                "Tại sao mình phải di chuyển vì một kẻ như cậu chứ?"
+                "Tại sao tôi phải di chuyển vì một kẻ như cậu chứ?"
             ],
             "vomitresponse": [
                 "Có vẻ như bạn vừa trả lại toàn bộ đồ ăn trong dạ dày.",
-                "Thật sao? Ngay trên sàn nhà của MÌNH?"
+                "Thật sao? Ngay trên sàn nhà của TÔI?"
             ],
             "vomitbloodresponse": [
-                "...Có vẻ như bạn đang bị chảy máu trong. Làm ơn hướng miệng của bạn ra xa mình trong tương lai gần."
+                "...Có vẻ như bạn đang bị chảy máu trong. Làm ơn hướng miệng của bạn ra xa tôi trong tương lai gần."
             ],
             "hungryresponse": [
-                "Nếu bạn tưởng tượng rằng mình sẽ làm thỏa mãn cơn đói của bạn mà không có thanh toán, thì bạn đã nhầm to rồi.",
-                "Mình không phải là tổ chức từ thiện. Hãy tìm thức ăn đi, hoặc trao đổi thứ gì đó với mình."
+                "Nếu bạn tưởng tượng rằng tôi sẽ làm thỏa mãn cơn đói của bạn mà không có thanh toán, thì bạn đã nhầm to rồi.",
+                "Tôi không phải là tổ chức từ thiện. Hãy tìm thức ăn đi, hoặc trao đổi thứ gì đó với tôi."
             ],
             "thirstyresponse": [
                 "Nhiều vũng nước có thể uống được ở khắp nơi này. Hãy tận dụng chúng.",
@@ -4992,36 +5043,594 @@
             ],
             "braindamagedresponse": [
                 "Bạn đang nói hoàn toàn vô nghĩa.",
-                "Mình cá là bạn đang bị chấn động não."
+                "Tôi cá là bạn đang bị chấn động não."
             ],
             "hotresponse": [
-                "Mình có thể cho phép bạn sử dụng máy làm mát của khoang cứu sinh này nếu bạn cư xử tốt."
+                "Tôi có thể cho phép bạn sử dụng máy làm mát của khoang cứu sinh này nếu bạn cư xử tốt."
             ],
             "coldresponse": [
                 "Tập thể dục đi. Bạn sẽ ấm lên trong nháy mắt."
             ],
             "bleedingresponse": [
-                "Làm ơn đừng làm chảy máu lên người mình.",
-                "Mình cầu xin bạn hãy chăm sóc vết thương của mình."
+                "Làm ơn đừng làm chảy máu lên người tôi.",
+                "Tôi cầu xin bạn hãy chăm sóc vết thương của tôi."
             ],
             "painresponse": [
                 "Đau đớn là điều chắc chắn ở dưới này. Mạnh mẽ lên.",
                 "Uống thuốc giảm đau đi. Chắc bạn phải có vài viên chứ..."
             ],
             "dirtyresponse": [
-                "Chính xác. Bạn đang rất dơ bẩn. Hãy hạn chế chạm vào mình cho đến khi bạn tắm rửa sạch sẽ."
+                "Chính xác. Bạn đang rất dơ bẩn. Hãy hạn chế chạm vào tôi cho đến khi bạn tắm rửa sạch sẽ."
             ],
             "encumberedresponse": [
-                "Có mất mát gì đâu nếu bạn để lại những món đồ nặng nề đó cho mình?",
+                "Có mất mát gì đâu nếu bạn để lại những món đồ nặng nề đó cho tôi?",
                 "Cậu thật là biết cách trêu chọc đấy."
             ],
             "dyingresponse": [
-                "Mình không chắc hô hấp nhân tạo sẽ giúp ích cho tình hình hiện tại đâu.",
-                "Thật sao? Hấp hối, ngay trên sàn của MÌNH à?",
+                "Tôi không chắc hô hấp nhân tạo sẽ giúp ích cho tình hình hiện tại đâu.",
+                "Thật sao? Hấp hối, ngay trên sàn của TÔI à?",
                 "Liệu sự hoảng loạn có thực sự làm tình hình tốt hơn không?"
             ]
         },
         {
+            "seeGravel": [
+                "Hhrnnn... Đ-đây...",
+                "Nnhh... X-ám...",
+                "Du-ne... Đi...",
+                "...S-ao dừng..?",
+                "Nnnhh... Ch-ỗ t-hức ăn...",
+                "Đ-ến r-ồi.",
+                "L-ạnh..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! Đ-ồ ng-on!!",
+                "Ngghraahhh! Du-ne th-ích..!",
+                "Hnnn...Hnnnrr...Ng-on...",
+                "Th-ức ăn... Th-ích...",
+                "V-ị... Đ-ặc bi-ệt... Nhhrr...",
+                "Nrr... Th-ích...",
+                "M-uốn... N-ữa..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Th-ức ăn...",
+                "Du-ne... Ă-n... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "Ă-n... Ch-o đ-ến... Nggrrhh... No...",
+                "Th-ức ăn...",
+                "Ng-on...",
+                "Du-ne... Th-ích ăn... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Th-ức ăn...",
+                "Nngrr... N-ữa..?",
+                "M-uốn... Du-ne... Gnnhnhrr... Th-ức ăn... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Woh?",
+                "Du-ne... Kh-ông... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "D-ở..."
+            ],
+            "tired": [
+                "Ng-ủ... M-uốn...",
+                "Du-ne... Ch-ợp m-ắt...",
+                "N...Gủ.",
+                "Eeee... Eeeeb..!",
+                "Ng-ủủủ.... Ng-ủủủủ...",
+                "Mnnhhrr... N-ằm xu-ống..."
+            ],
+            "verytired": [
+                "C-ần.... Ch-ợp m-ắt...",
+                "M-ệt.... R-ồi...",
+                "Nnnhhh......N-ằm xu-ống...",
+                "N-ằm... Xu-ống...",
+                "Hhhrrnn... N...Ng-ủủủ..."
+            ],
+            "confused": [
+                "Đ-ầu...",
+                "Gghhnn... Ghhrrrr...",
+                "C... C-ái gì....",
+                "Kh-ông... Bi-ết....",
+                "B-ối r-ối....",
+                "Nnhhhrrr...",
+                "Kh-ông... Du-ne... K-ỳ lạ..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-ne... T-ỉnh...",
+                "X-in ch-ào...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "S-ống...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "B-ụng... Đ-ánh...",
+                "Th-ức ăn... Đ-ánh l-ại...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... C-ái gì...",
+                "Nhgghhrr... Du-ne...... T-ệ....",
+                "Ghhn... D-ở... Ă-n..?"
+            ],
+            "vomitblood": [
+                "Du-ne... T-th-ấy t-ệ....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... C-ái gì...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... T-ại s-ao...",
+                "Nggh...du-ne...kh-ông...ổ-n..."
+            ],
+            "full": [
+                "Du-ne n-o...",
+                "Ă-n nh-iều...!",
+                "Ch-ờ ăn...",
+                "Du-ne kh-ông ăn n-ữa...",
+                "Ngghh... N-o...",
+                "Đ-ủ r-ùi... Gnnh..."
+            ],
+            "hungry": [
+                "M-uốn... N-ữa... Th-ức ăn...",
+                "Du-ne...đói...",
+                "Cắn?",
+                "...Nggh... M-uốn...",
+                "Đ-ói...",
+                "*chảy nước dãi*",
+                "Đ-âu... Ă-n..?",
+                "C-ắn...",
+                "Ă-n..?",
+                "Du-ne...ă-n..?"
+            ],
+            "starving": [
+                "*chảy nước dãi tơi tả*",
+                "C-ần... Ăn!",
+                "Ngghhhhrrr! Th-ức ăn!!!",
+                "NGHHRRHHH!! Đ-âu ăn!?",
+                "Nhghhrrr! Du-ne chết đ-ói!!",
+                "NNGRHH!! TH-ỨC ĂN!! DU-NE!!"
+            ],
+            "thirsty": [
+                "X-ụp..?",
+                "N-ước...",
+                "Mmm... U-ống..?",
+                "Du-ne... N-ước...",
+                "M-uốn... N-ước..?",
+                "U-ống..."
+            ],
+            "dehydrated": [
+                "Cần... N-ước..!",
+                "Ngghh... Kh-ô...",
+                "N-ước...ngay!!",
+                "Gghrhhh... N-ước!!",
+                "Du-ne... Kh-ô kh-ốc..!",
+                "Du-ne... N-ước... NGAY!",
+                "Gghhrraaaghh! U-ống! Ngay..!"
+            ],
+            "limbmuscle": [
+                "<Limb> kh-ông nh-úc nh-ích...",
+                "Du-ne <limb> ng-ừng h-oạt đ-ộng..?",
+                "Du-ne c-ần <limb> m-ới.",
+                "<limb> kh-ông hoạt động...nnngrrhh...",
+                "<limb> th-ật x-ấu x-a..! Gghhrr!",
+                "Du-ne...<limb> đ-au..!"
+            ],
+            "limbinfected": [
+                "<limb> Du-ne ấ-m...",
+                "B-ệnh..?",
+                "Nnnrr...<limb> nh-ìn lạ..?",
+                "Du-ne <limb> n-ổi đỏ..?",
+                "Hhnnn...<limb> c-ảm th-ấy k-ỳ k-ỳ..."
+            ],
+            "limbskin": [
+                "<limb> v-àng..?",
+                "Oooouur! <limb> h-ỏng r-ồi!",
+                "Du-ne đ-au...",
+                "Du-ne <limb> đ-au...",
+                "Ghhhrr...<limb> kh-ông ổn-n..."
+            ],
+            "sad": [
+                "B-uồn.",
+                "Du-ne b-uồn.",
+                "Kh-ông c-ười...",
+                "Du-ne kh-ông c-ười...",
+                "Du-ne c-ảm th-ấy t-ệ.",
+                "Kh-ông v-ui...",
+                "Du-ne kh-ông v-ui..."
+            ],
+            "gloomy": [
+                "Th-ức ăn l-àm c-ảm th-ấy t-ốt h-ơn...",
+                "Th-ức ăn l-àm du-ne c-ảm th-ấy t-ốt h-ơn...",
+                "R-ất b-uồnnn...",
+                "Du-ne r-ất b-uồnnn...",
+                "Grrr..đ-ầu óc t-ệ.",
+                "Grrhhh...đ-ầu óc du-ne t-ệ...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-ne kh-ông c-ảm th-ấy ổn-n!",
+                "Th-ấy k-hông ổn-n!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! T-ại s-ao!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! GHÉÉÉÉÉT!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! GHÉÉÉÉT!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "GIẬẬẬẬẬN! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... PH-Á!!!",
+                "NNNGRRAGHHHH! GHÉÉÉÉT! PH-Á!!!",
+                "GGHHRAAHHHGNHH! DU-NE GHÉT! PH-Á!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne ph-á h-ủy... B-ạn b-è..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*rít*",
+                "Kh-ông...",
+                "Du-ne...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "Ch-ảy m-áu...",
+                "Du-ne...ch-ảy m-áu...",
+                "Du-ne...r-ỉ...",
+                "R-ỉ...v-àng...",
+                "V-àng...t-ệ...",
+                "T-ệ...ch-ảy m-áu...",
+                "T-ệ...du-ne đ-au..!",
+                "Ngghhhrr! Du-ne đ-au!",
+                "Grrhhhh! Du-ne c-ần g-iúp!",
+                "G-iúp!! Du-ne!",
+                "Du-ne c-ần s-ửa..!",
+                "Nnnrr... Du-ne v-àng...",
+                "Nrr... M-áu...",
+                "Nrrhh... Du-ne...m-áu!!"
+            ],
+            "bleedingheavy": [
+                "Ch-ảy m-áu!!",
+                "Du-ne ch-ảy m-áu!! Nh-iều!!",
+                "Du-ne...r-ỉ!! Ng-ay!!",
+                "Ch-ảy...v-àng! Du-ne g-iúp!!",
+                "V-àng!! T-ệ!!!",
+                "T-ệ...ch-ảy m-áu...",
+                "T-ệ...du-ne đ-au..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "G-iúp!! Du-ne! NG-AY!!!",
+                "Du-ne c-ần S-ỬA..! G-IÚP!!",
+                "NnnrrrhhNGHHH!! DU-NE QU-Á V-ÀNG!!",
+                "Nrrgghhh!!! M-áu!!!",
+                "Nrrhhh..! Du-ne m-áu!! Nh-iều!!!"
+            ],
+            "steponglass": [
+                "Du-ne kí-nh...",
+                "Th-ứ trong s-uốt l-àm du-ne đ-au!!",
+                "Du-ne đ-au nh-ọn!!!"
+            ],
+            "seecorpse": [
+                "Th-ức ăn mi-ễn ph-í?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... Mi-ễn ph-í..?",
+                "Mmmmrr... B-ạn b-è..?",
+                "Hrnn!! B-ạn b-è! Ôi....",
+                "Mmm... Ng-on... T-ìm th-ấy..?",
+                "Du-ne... T-ìm th-ấy b-ạn..?",
+                "Sao b-ạn không nh-úc nh-ích..?",
+                "Th-ức ăn!",
+                "*chảy nước dãi*",
+                "Aaarrh! X-in ch-ào?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Th-êm th-ức ăn...",
+                "X-in ch-ào b-ạn.",
+                "X-ác chết.",
+                "B-ạn đ-au?",
+                "Th-êm x-ác chết.",
+                "Th-êm th-ức ăn ch-o du-ne.",
+                "X-in ch-ào!!",
+                "Du-ne th-ấy th-êm x-ác chết.",
+                "Nh-iều ng-ười chết!",
+                "Nh-iều th-ức ăn!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-ne đi th-eo b-ạn...",
+                "Du-ne g-hen t-ị...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-ne l-ạnh! C-ần n-ước...",
+                "Du-ne r-ét...",
+                "Du-ne kh-ông th-ích l-ạnh.",
+                "Kh-ông th-ích l-ạnh."
+            ],
+            "warm": [
+                "Du-ne ấ-m.",
+                "Du-ne n-óng!",
+                "Du-ne c-ần l-àm m-át.",
+                "Du-ne qu-á ấ-m...",
+                "Ấ-m.",
+                "N-óng..."
+            ],
+            "hot": [
+                "Du-ne ch-áy!",
+                "Du-ne qu-á n-óng!!",
+                "C-ần... L-ạnh...",
+                "Qu-á.. N-óng...",
+                "Nnhggh... Ch-óng m-ặt!"
+            ],
+            "exerted": [
+                "Nnnghh... Ki-ệt s-ức...",
+                "Du-ne... N-ghỉ...",
+                "*hổn hển*",
+                "Nnnrr.. L-àm... Nh-iều!"
+            ],
+            "exhausted": [
+                "Nhhgh... N-ghỉ..!",
+                "Gghrhrhh... M-ệt... R-ồi!!!",
+                "Ggrhhh...! D-ừng...",
+                "Ngghhhhrrrrrrhh...",
+                "*thở dốc*"
+            ],
+            "freezing": [
+                "Du-ne... R-ất... L-ạnh...",
+                "Ngghhhrr... R-ất l-ạnh..!",
+                "Nnhh... N-nnhh... L-ạnh...",
+                "R...R-ất... L-ạnh..! Ngr...",
+                "Đ-óng đ-ăng...",
+                "Du-ne... Đ-óng đ-ăng...",
+                "Nhhhrrr... Du-ne... Q-uá l-ạnh...",
+                "Ggrrrh..! Q-uá l-ạnh..."
+            ],
+            "emaciated": [
+                "Du-ne... Q-uá g-ầy...",
+                "G-ầy...",
+                "P...hải. Ăn nh-iều h-ơn...",
+                "Du-ne... G-ầy!!",
+                "Q-uá... G-ầy..."
+            ],
+            "obese": [
+                "Du-ne ăn r-ất ngon!",
+                "Nhhrr! Du-ne m-ũm m-ĩm!",
+                "Du-ne... B-éo..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-ne....",
+                "W...Whhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......th-ích..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-ne..!",
+                "W...Whhhrrnnnnn..!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...woooo...zzz!",
+                "Du-ne......th-ích..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-ne...R-un..",
+                "Nnhrhhggh...t-ệ!!",
+                "Du-ne...m-uốn th-êm...đ-ồ...",
+                "Nghhrr...! T-ệ..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*sặc*",
+                "*sặc* *ho*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...đ-au...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...đ-au...<limb>...",
+                "Gggrhhnn...Du-ne...đ-au...",
+                "Gggrhhnn...Du-ne...đ-au...<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "D-DỪNG LẠIII!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Ồ? B-ạn c-ắn?",
+                "Nggrch! Đ-ồ x-ấu xa!!",
+                "GGRRGHHH! DU-NE GI-ẾT!!!!",
+                "GRRACK! B-Ỏ DU-NE RA!",
+                "GGRHR! C-ẮN L-ẠI!",
+                "RGHGN! DU-NE TR-Ả TH-Ù!",
+                "GACK! X-ẤU XA!"
+            ],
+            "dirty": [
+                "Du-ne... B-ẩn..?",
+                "Du-ne c-ần t-ắm...",
+                "Du-ne c-ảm th-ấy h-ôi.",
+                "Th-ấy b-ẩn.",
+                "Ng-ửi th-ấy m-ùi.",
+                "H-ôi th-ối.",
+                "H-ôi. T-ệ!",
+                "Q-uá h-ôi."
+            ],
+            "encumbered": [
+                "Du-ne kh-ỏe!!",
+                "Du-ne m-ang nh-iều.",
+                "M-ang nh-iều.",
+                "Nh-iều đ-ồ.",
+                "Du-ne kh-ỏe...dune m-ang!",
+                "Du-ne n-ặng.",
+                "Du-ne n-ặng.",
+                "N-ặng.",
+                "N-ặng...",
+                "Nrrr...m-ang nh-iều.",
+                "Nrrr...du-ne m-ang nh-iều."
+            ],
+            "watchlike": [
+                "Grrr. B-ạn k-im l-oại k-ỳ lạ!"
+            ],
+            "drillend": [
+                "Du-ne s-ợ.",
+                "Đ-áng s-ợ.",
+                "Ti-ếng ồ-n l-ớn...",
+                "Du-ne th-ông m-inh!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! C-ÁI GÌ!?",
+                "GRRRRR!!!",
+                "...hoooh.",
+                "GRRACK! Ồ-N QU-Á!",
+                "AUGRH! TI-ẾNG Ồ-N!!!"
+            ],
+            "murderregret": [
+                "DU-NE TH-ẮNG!",
+                "DU-NE Đ-ÁNH B-ẠN X-ẤU XA!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NE KH-ỎEEEEE!!!!",
+                "DU-NE S-ĂN B-ẠN Y-ẾU!!!",
+                "DU-NE S-ĂN TH-ỨC ĂN!!",
+                "GRRHCHH! MỒ-I Y-ẾU!"
+            ],
+            "tradeemeet": [
+                "Du-ne t-tìm th-ấy!!",
+                "X-in ch-ào!!",
+                "Du-ne ch-ào!!",
+                "X-in ch-ào?",
+                "Mmmrrrrn...b-ạn b-è?",
+                "B-ạn b-è?",
+                "Oooo! B-ạn b-è!!",
+                "Th-ức ăn?"
+            ],
+            "swingresponse": [
+                "QUIT. IT!",
+                "STOP!",
+                "IMBECILE!",
+                "TROGLODYTE!",
+                "STOP RESISTING!",
+                "JUST DIE ALREADY!",
+                "GIVE IT UP!"
+            ],
+            "braindamaged": [
+                "He...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Có ai ngoài đó không?",
+                "",
+                "y...",
+                "w.",
+                "The.",
+                "mw...wa....t...",
+                "Re.",
+                "Du-ne.",
+                "Ki-m lo-ại...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-ne...s-ợ...",
+                "Du-ne...c-ần...g-iúp!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! Kh-ông!!!",
+                "Du-ne!!! G-iúp!!",
+                "T...t-ại s-ao...",
+                "D...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-ne....ch-ết...?",
+                "Á-nh s-áng....t-ới...",
+                "C-ảm th-ấy...t-ối...",
+                "c-ó p-hải...k-ết th-úc..?",
+                "c-ó p-hải.....h-ết r-ồi...",
+                "ch-ưa...s-ẵn s-àng...",
+                "rnhh...du-ne...g-iúp..."
+            ],
+            "magicheal": [
+                "woh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Ti-ếng m-ới c-ủa du-ne? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh......l-ại n-ữa?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-ne th-ích th-ử th-ách. Du-ne đ-i l-ại!"
+            ],
+            "endlessloop2": [
+                "Oo! L-ại n-ữa? Th-êm n-ơi t-ìm th-ức ăn!"
+            ],
+            "endlessloop3": [
+                "Hang đ-ộng của Du-ne."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Wheee! Du-ne th-ắng!"
+            ],
             "tradermeetnormal": [
                 "Mmm... Chà-o....",
                 "Chà-o... mừn-g... Bạ-n...",
@@ -5329,12 +5938,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "mình tìm thấy một vũ khí. một khẩu súng. trời ạ... mình không quen dùng thứ này... lẽ ra mình nên cẩn thận hơn trong các buổi huấn luyện... mình hoàn toàn không hiểu tại sao họ lại không giết bỏ mình mà lại gửi đến đây khi không chuẩn bị trước như thế này. mình gần như đã vô tình bắn một ai đó. lẽ ra mình nên bật chốt an toàn của súng... mình là ai mà biết được chứ. những thú khác có xu hướng thực sự hoảng sợ khi họ thấy bạn cầm vũ khí trong tay. vì vậy có lẽ tốt nhất là nên giấu nó vào trong thứ gì đó, để họ không nhìn thấy. họ nghĩ bạn sẽ bắn họ, họ không biết ý định của bạn. chà, mình cũng sẽ nghĩ như vậy nếu có ai đó chĩa súng vào mình.",
+                "Item1": "mình tìm thấy một... thiết bị bắn bắn gì đó. sợ mình chết khiếp. nó phá tan cái bẫy trước mặt mình. không quen sử dụng thứ này.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "mình thật giận bản thân mình vì đã hành xử như một thằng khốn nạn với những thú khác ở trên đó... bây giờ tất cả những thú sống sót mà mình tìm thấy đều đuổi mình ra khỏi khoang của họ... chậc, nếu mà bạn biết họ đã chửi rủa khó nghe thế nào... họ đã cố cào mình... và mình chỉ tự nhủ với bản thân: \"được rồi, mình xin lỗi. chết tiệt thật, bạn có nhận ra rằng hiện tại mỗi mạng sống đều quan trọng không? không có chỗ cho việc làm tổn thương và giết chóc lẫn nhau đâu.\". mình ước mình là một thú tốt hơn... đây đều là lỗi của chính mình.",
+                "Item1": "mọi thú khác đều đuổi mình khỏi khoang của họ. họ nhớ mình... hồi ở trên đó. mình đáng lẽ không nên cư xử như vậy. điều này tệ thật.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5374,17 +5983,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Cái hang chứa đầy đủ loại sinh vật liên tục đi lang thang khắp mọi nơi. mình là một thú hơi theo chủ nghĩa hòa bình, vì vậy mình cố gắng chạy trốn khỏi chúng, thay vì chiến đấu với chúng, vì mình không biết ai sẽ giết ai trước... Xét cho cùng, những vết thương chúng để lại trên thú mình đau đớn khủng khiếp... mình không biết nữa... Những kẻ giam giữ chúng mình có biết chúng mình đang trải qua những gì ở dưới này không?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "mình đã bị một cú ngã tồi tệ. THỰC SỰ tồi tệ. Ngay vào một cái hố và không thể leo lên hay đào ra với những vết thương của mình. Nhưng mình đã thoát ra được với những mảnh kim loại vụn này, và muốn cho những thú khác cũng biết điều này.\n\nĐó là các vách hang động! Không có gì mình tìm thấy - ngay cả thuốc nổ - dường như có thể xuyên thủng ranh giới bên ngoài của hang động. Nhưng chúng không bằng phẳng, và nếu bạn xếp đủ các mảnh kim loại vụn chồng lên nhau, bạn có thể nêm chúng vào những khoảng trống nhỏ này và tạo ra toàn bộ một chỗ đứng bằng kim loại vụn. Khi mình đang chảy máu cho đến chết trong cái hố tối tăm đó, mình đã sử dụng các mảnh vỡ thu thập được của mình để làm một loại cầu thang để trốn thoát và tìm vật tư khẩn cấp.\n\nTuy nhiên, mình hy vọng bạn không bao giờ rơi vào tình huống đó. Có lẽ bạn có thể sử dụng thủ thuật này để bảo vệ bản thân khỏi bị thương ngay từ đầu? Ai biết được còn có những thứ kinh tởm nào khác ở trong này cùng với chúng ta.\n\nCó lẽ bạn sẽ bắt kịp mình và chúng ta có thể chia sẻ chiến lược.\nmình hy vọng mình sẽ ở đó để gặp bạn.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "mình cảm thấy cô đơn... vì vậy mình quyết định tự làm mình phân tâm:\nmình tìm thấy một loại máy fax thu nhỏ nào đó mà mình có thể nghiền nát để mở ra, và mình kéo những tờ giấy của nó ra. Sau đó mình lấy một cái que, và vắt một trong những trái cây phát sáng lên đó. Nó hóa ra giống như một chiếc cọ và vải vẽ! Giá như bạn biết... mình bắt đầu vẽ những thực tại thay thế nơi chúng ta được tự do và sống hòa bình cùng nhau; không có những tên cặn bã nhà khoa học đó... mình cảm thấy rất hạnh phúc, và đã khóc một chút.\nNhưng bây giờ mình phải đi: cảm thấy hơi đói! Có lẽ nếu chúng ta gặp nhau, mình cũng sẽ vẽ bạn...? mình thực sự giỏi trong việc sử dụng \"cọ\". mình cũng sẽ cố gắng dạy những thú khác vẽ...",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -5520,7 +6119,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "mình không thể nữa. tại sao.\nmọi thú khác đã chết\nmình không thể.\nmình muốn chuyện này dừng lại\nmình không thể\nmình muốn sự tự do\ntại sao\nmình không thể. mình không muốn nhìn thấy bất kỳ điều gì thế này nữa. mình đã thấy quá nhiều điều tồi tệ. mình quá ốm yếu.\nchân mình bị hỏng rồi. bị nổ tung bởi một quả mìn\ntay mình, tay phải, cũng đang hành hạ mình rất dữ dội\nmình muốn chấm dứt mọi thứ\nmọi thứ là một sự khốn khổ\nmình không thể chịu đựng thêm nữa\nmột lát nữa mình sẽ cào đứt động mạch của mình và biến thành một cái xác khác để bạn liếc nhìn - miễn là họ không ăn thịt mình vào lúc bạn đến đây.\n\ncảm ơn vì tất cả mọi thứ. tạm biệt",
+                "Item1": "hết rồi. tạm biệt. xin lỗi.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -5855,7 +6454,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------<>\nThì.\nBây giờ đây là \"nhật kí\" của mình. Rõ ràng đây là một tác phẩm viết mô tả cuộc sống và trải nghiệm của một ai đó.\nMình không hoàn toàn chắc chắn tại sao những người mặc áo khoác lại bắt mình làm điều này, nhưng điều tương tự cũng có thể nói về hầu hết những việc họ bắt chúng mình làm.\nDù sao thì hôm nay mình cũng may mắn. Mọi chuyện có thể tệ hơn nhiều so với một bài tập viết.\nTôi thấy thiết bị này khá thú vị, và thật đáng tiếc là tôi sẽ phải chia tay nó chỉ sau vài giờ nữa. Nhưng mình đã được giao nhiệm vụ, và mình sẽ hoàn thành nó.<>\n\nChúng mình thường gọi nhau dậy hoặc bởi tiếng chuông báo giờ ăn đầu tiên. Hiếm khi chúng mình bị đánh thức ngay lập tức để làm bài kiểm tra.\nTôi không chắc \"giờ\" này diễn ra lúc nào... Chết tiệt, mình hầu như không hiểu khái niệm này. Mặc dù mình nghe thấy những người mặc áo khoác nói về nó suốt...\n\nDù sao thì, chúng mình thức dậy và chẳng mấy chốc đã đến giờ ăn bữa đầu tiên trong ngày.\nTuy nhiên, chủ yếu vẫn là thanh dinh dưỡng. Chúng khá nhạt nhẽo, nhưng mình không thể phàn nàn...\n\n--------------------------------------------------<>\nBây giờ đã vài giờ trôi qua.\n\nĐây là lúc những người mặc áo khoác đi săn. Họ gọi bạn bằng số thứ tự, và bạn phải đến chỗ họ.\nHoặc họ sẽ tìm đến bạn. \nBạn không muốn điều đó đâu.\nĐôi khi, họ gọi ra nhiều số... Nhưng thường thì đó là một dấu hiệu tốt.<>\n\nNhững gì họ sẽ làm với bạn thực sự là tùy thuộc vào may rủi.\nCác bài kiểm tra có thể vô hại, có thể rất khủng khiếp, hoặc có thể có lợi.\nCần lưu ý rằng những người mặc áo khoác chỉ CỐ GẮNG làm mọi việc, và mặc dù đôi khi họ cố gắng giúp đỡ, nhưng những nỗ lực đó thường ít thành công hơn nhiều so với những nỗ lực mà họ cố gắng làm hại bạn.<>\n\nHai số được gọi, và hai người khác đứng dậy, vẻ mặt họ đầy lo lắng.\nMột trong hai khỏe mạnh. Có nhiều khả năng bị thương hơn.\n\nNgười kia có bốn cánh tay.\nMột cái bên trái, và ba cái bên phải.\nChà, nếu bạn có thể gọi những khối u kỳ lạ đó là cánh tay. Chúng trông khá giống nhau?\nBan đầu họ được sinh ra với hai cánh tay. Những người mặc áo khoác quyết định rằng như vậy là quá nhiều và trong hôm đó họ đã cắt bỏ một cánh tay.\nNgày hôm sau, người đó quay lại với MƯỜI MỘT cánh tay.\nCon người đã cắt bỏ mười trong số đó, chỉ để ban cho chúng bảy cánh tay mới.\nNgày hôm sau là năm.\nHôm nay là bốn.\n\nBọn họ sắp xong rồi.<>\n\nNgười bạn tội nghiệp này được gọi là Cánh tay. Và tôi thề, đây là tên của họ TRƯỚC khi toàn bộ chuyện này xảy ra, và chúng mình tin rằng con người đã chọn tên cho họ vì điều đó.\nCó lẽ đó chính là trò đùa của họ?\n\n[TRANG 1 TRONG 2]",
+            "Item1": "[BÁO CÁO SINH TRẮC HỌC - 25##-08-04-09-05-25-1057]\n[Dự án: \"Một ngày trong cuộc sống\"]\n----------------------------------------------<>\nThì.\nBây giờ đây là \"nhật kí\" của mình. Rõ ràng đây là một tác phẩm viết mô tả cuộc sống và trải nghiệm của một ai đó.\nMình không hoàn toàn chắc chắn tại sao những người mặc áo khoác lại bắt mình làm điều này, nhưng điều tương tự cũng có thể nói về hầu hết những việc họ bắt chúng mình làm.\nDù sao thì hôm nay mình cũng may mắn. Mọi chuyện có thể tệ hơn nhiều so với một bài tập viết.\nTôi thấy thiết bị này khá thú vị, và thật đáng tiếc là tôi sẽ phải chia tay nó chỉ sau vài giờ nữa. Nhưng mình đã được giao nhiệm vụ, và mình sẽ hoàn thành nó.<>\n\nChúng mình thường gọi nhau dậy hoặc bởi tiếng chuông báo giờ ăn đầu tiên. Hiếm khi chúng mình bị đánh thức ngay lập tức để làm bài kiểm tra.\nTôi không chắc \"giờ\" này diễn ra lúc nào... Chết tiệt, mình hầu như không hiểu khái niệm này. Mặc dù mình nghe thấy những người mặc áo khoác nói về nó suốt...\n\nDù sao thì, chúng mình thức dậy và chẳng mấy chốc đã đến giờ ăn bữa đầu tiên trong ngày.\nTuy nhiên, chủ yếu vẫn là thanh dinh dưỡng. Chúng khá nhạt nhẽo, nhưng mình không thể phàn nàn...\n\n--------------------------------------------------<>\nBây giờ đã vài giờ trôi qua.\n\nĐây là lúc những người mặc áo khoác đi săn.\nHọ gọi bạn bằng số thứ tự, và bạn phải đến chỗ họ.\nHoặc họ sẽ tìm đến bạn. \nBạn không muốn điều đó đâu.\nĐôi khi, họ gọi ra nhiều số... Nhưng thường thì đó là một dấu hiệu tốt.<>\n\nNhững gì họ sẽ làm với bạn thực sự là tùy thuộc vào may rủi.\nCác bài kiểm tra có thể vô hại, có thể rất khủng khiếp, hoặc có thể có lợi.\nCần lưu ý rằng những người mặc áo khoác chỉ CỐ GẮNG làm mọi việc, và mặc dù đôi khi họ cố gắng giúp đỡ, nhưng những nỗ lực đó thường ít thành công hơn nhiều so với những nỗ lực mà họ cố gắng làm hại bạn.<>\n\nHai số được gọi, và hai người khác đứng dậy, vẻ mặt họ đầy lo lắng.\nMột trong hai khỏe mạnh. Có nhiều khả năng bị thương hơn.\n\nNgười kia có bốn cánh tay.\nMột cái bên trái, và ba cái bên phải.\nChà, nếu bạn có thể gọi những khối u kỳ lạ đó là cánh tay. Chúng trông khá giống nhau?\nBan đầu họ được sinh ra với hai cánh tay. Những người mặc áo khoác quyết định rằng như vậy là quá nhiều và trong hôm đó họ đã cắt bỏ một cánh tay.\nNgày hôm sau, người đó quay lại với MƯỜI MỘT cánh tay.\nCon người đã cắt bỏ mười trong số đó, chỉ để ban cho chúng bảy cánh tay mới.\nNgày hôm sau là năm.\nHôm nay là bốn.\n\nBọn họ sắp xong rồi.<>\n\nNgười bạn tội nghiệp này được gọi là Cánh tay. Và tôi thề, đây là tên của họ TRƯỚC khi toàn bộ chuyện này xảy ra, và chúng mình tin rằng con người đã chọn tên cho họ vì điều đó.\nCó lẽ đó chính là trò đùa của họ?\n\n[TRANG 1 TRONG 2]",
             "Item2": ""
         },
         {
