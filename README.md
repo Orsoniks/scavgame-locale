@@ -28,6 +28,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | [Español (España)](/es-ES.json) | v7.7.9 (+f7b5136) | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/fi-FI.json) | v7.0.1 (incomplete, translation abandoned) | - |
 | [Français (France)](/fr-FR.json) | v7.0.1 (incomplete) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick), [LackeDragon](https://github.com/LackeDragon) |
+| [Ελληνικά (Ελλάδα)](/fr-FR.json) | v7.7.9 (incomplete) | [Asynt](https://github.com/vesillia), [Gio](https://github.com/gio-exe) |
 | [Magyar (Magyarország)](/hu-HU.json) | v7.0.1 (incomplete, 90%-done) | [Adrastor](https://github.com/Adrastorr), [TotallyNotAron](https://github.com/aron42069), [piCINKEnet](https://github.com/piCINKEnet), Vbenc-e, That1guy, [BanánBali](https://github.com/B2ivan), [tUwUring machine](https://github.com/Hellie-xd), [Thermacite](https://github.com/Thermacite), Holla_x, Betond, Fulibagi |
 | [Bahasa Indonesia (Indonesia)](/id-ID.json) | v7.0.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/), [Jibuntaital](https://github.com/2215najib), itsholliee, [nfoxers](https://github.com/nfoxers), [FoundToast62667](https://github.com/FoundToast62667) |
 | [Italiano (Italia)](/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
