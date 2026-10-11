@@ -31,6 +31,7 @@ The first column links to the locale file that you need to download.
 | [Magyar (Magyarország)](/demo/hu-HU.json) | v7.0.1 (incomplete, 90%-done) | [Adrastor](https://github.com/Adrastorr), [TotallyNotAron](https://github.com/aron42069), [piCINKEnet](https://github.com/piCINKEnet), Vbenc-e, That1guy, [BanánBali](https://github.com/B2ivan), [tUwUring machine](https://github.com/Hellie-xd), [Thermacite](https://github.com/Thermacite), Holla_x, Betond, Fulibagi |
 | [Bahasa Indonesia (Indonesia)](/demo/id-ID.json) | v7.0.1 (incomplete) | [Yunasha Hotora](https://github.com/Yunasha/), [Yansen](https://github.com/yansenqt), [MeFinity](https://github.com/mefinity/), [Jibuntaital](https://github.com/2215najib), itsholliee, [nfoxers](https://github.com/nfoxers), [FoundToast62667](https://github.com/FoundToast62667) |
 | [Italiano (Italia)](/demo/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
+| [Türkçe (Türkiye)](/demo/tr-TR.json) | v7.7.9 (incomplete) | [dosulu](https://github.com/basdoas) |
 | [日本語 (日本)](/demo/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
 | [Қазақша (Қазақстан)](/demo/kk-KZ.json) | Outdated | [Russiankids](https://github.com/Russiankids) |
 | [한국어 (대한민국)](/demo/ko-KR.json) | v7.0.1 | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), Shelt3redcat, [topicular](https://github.com/metnias) |
