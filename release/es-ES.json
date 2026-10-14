@@ -218,7 +218,7 @@
         "foliage": "Follaje",
         "foliagedsc": "Flora alienígena genérica. Apenas comestible, con un sabor desagradable. Podría sentarte mal. Se pudre rápido. Se usa a menudo en la fabricación.",
         "redfoliage": "Follaje rojo",
-        "redfoliagedsc": "Tienes cosas más importantes en las que pensar. Dicho eso, ¡Se ve bastante bien!",
+        "redfoliagedsc": "Tienes cosas más importantes en las que pensar. Dicho eso, ¡es bastante bonito!",
         "foliagemeal": "Comida de follaje",
         "foliagemealdsc": "Una comida bastante bien preparada, hecha de follaje crujiente y un relleno rudimentario. No se conservará durante mucho tiempo y no contiene grasa, pero es muy saciante.",
         "dryfoliage": "Follaje seco",
@@ -258,11 +258,11 @@
         "titaniumpickaxe": "Pico de titanio",
         "titaniumpickaxedsc": "Una herramienta cuidadosamente fabricada con titanio forjado. Muy duradera y eficiente para retirar terreno, aunque no muy apta para el combate.",
         "titaniummultitool": "Multiherramienta de titanio",
-        "titaniummultitooldsc": "Una herramienta pequeña pero muy firme y duradera usada para fabricar objetos, con una pesada cabeza de martillo y una hoja diminuta pero extremadamente afilada oculta en el mango. Aunque no resulta útil para excavar ni para el combate, durará casi indefinidamente aunque se use en toda clase de recetas de fabricación y, además, es ligera.\n\n<color=\"red\">Puede usarse en el panel de salud para amputar extremidades.",
+        "titaniummultitooldsc": "Una pequeña, pero muy firme y duradera herramienta utilizada para fabricar objetos, con una pesada cabeza de martillo y una hoja diminuta pero extremadamente afilada oculta en el mango. Aunque no resulta útil para excavar ni para el combate, durará casi indefinidamente para toda clase de recetas de fabricación y, además, es ligera.\n\n<color=\"red\">Puede usarse en el panel de salud para amputar extremidades.",
         "titaniummachete": "Machete de titanio",
-        "titaniummachetedsc": "Una herramienta de combate muy eficaz y duradera, fácil y ligera de blandir, pero afilada como una navaja y devastadora. Su filo está tratado térmicamente para mantenerlo afilado durante mucho tiempo. Una herramienta excepcional para la defensa propia que también puede usarse para excavar como último recurso.\n\n<color=\"red\">Puede usarse en el panel de salud para amputar extremidades.",
+        "titaniummachetedsc": "Una herramienta de combate muy eficaz y duradera, fácil y ligera de blandir, pero afilada como una navaja y devastadora. Su filo está tratado térmicamente para mantenerlo afilado durante mucho tiempo. Una herramienta excepcional para la defensa propia, que también puede usarse para excavar como último recurso.\n\n<color=\"red\">Puede usarse en el panel de salud para amputar extremidades.",
         "sledgehammer": "Almádena",
-        "sledgehammerdsc": "Una herramienta con una cabeza de metal grande y plana, unida a un mango largo. Has escuchado que se suelen tirar a ríos.",
+        "sledgehammerdsc": "Una herramienta con una cabeza de metal grande y plana, unida a un mango largo. Has oído que se suelen tirar a ríos.",
         "woodpickaxe": "Pico de madera",
         "woodpickaxedsc": "Un pico hecho de un material particularmente decepcionante. Eficiente para retirar terreno, pero lento y frágil.",
         "wooddiggingtool": "Herramienta de excavación de madera",
@@ -393,8 +393,8 @@
         "carcasssplintdsc": "Un tubo duro y largo hecho de varios caparazones unidos. Funciona razonablemente bien como férula improvisada para tratar fracturas.",
         "terrainscanner": "Escáner de terreno",
         "terrainscannerdsc": "Te muestra un mapa de baja calidad del terreno que hay debajo de ti. El terreno se resalta en verde y los edificios sólidos, en rojo. Puede ser ligeramente impreciso. Alcanza una profundidad de 24 metros.",
-        "nanotechscanner": "Escaner de nanotecnología",
-        "nanotechscannerdsc": "Un dispositivo que detecta las firmas tecnológicas específicas de diversos chips corporales, mostrando su ubicación general. Solo funciona en el inventario principal. Hay algo de información sobre los chips escrita al lado, úsalo para leerla.",
+        "nanotechscanner": "Escáner de nanotecnología",
+        "nanotechscannerdsc": "Un dispositivo que detecta las señales tecnológicas específicas de diversos chips corporales, mostrando su ubicación general. Solo funciona en el inventario principal. Hay algo de información sobre los chips escrita al lado, úsalo para leerla.",
         "geigercounter": "Contador Geiger",
         "geigercounterdsc": "Un instrumento electrónico para detectar y medir radiación ionizante mediante un tubo Geiger–Müller. Úsalo para activarlo o desactivarlo.",
         "handcrank": "Cargador con manivela",
@@ -416,7 +416,7 @@
         "tweezers": "Pinzas",
         "tweezersdsc": "Unas sencillas pinzas de metal. Pueden extraer de forma limpia e indolora la metralla de las extremidades.",
         "lockpickingkit": "Kit de ganzúas",
-        "lockpickingkitdsc": "Un pequeño conjunto de herramientas utilizado para abrir con eficacia todo tipo de cerraduras. Para usarlo, tenlo en cualquier lugar del inventario  mientras fuerzas una cerradura. Requiere 10 de INT y su eficacia aumenta cuanto mayor sea tu INT.",
+        "lockpickingkitdsc": "Un pequeño conjunto de herramientas utilizado para abrir con eficacia todo tipo de cerraduras. Para usarlo, tenlo en cualquier lugar del inventario mientras fuerzas una cerradura. Requiere 10 de INT, y su eficacia aumenta cuanto mayor sea tu INT.",
         "icepack": "Bolsa de hielo",
         "icepackdsc": "Una bolsa fría rellena de gel refrigerante que se enfría solo. Acelera la curación muscular, reduce el dolor y te enfría ligeramente. Se enfría automáticamente con el tiempo.",
         "cryogeniccore": "Núcleo criogénico",
@@ -711,7 +711,7 @@
         "medcrate": "Caja médica",
         "medcratedsc": "Contiene material médico.",
         "techball": "Tecnobola",
-        "techballdsc": "¿Parece estar defectuosa..? Podrías abrirla.",
+        "techballdsc": "¿Parece estar defectuosa...? Podrías abrirla.",
         "rechargingstation": "Estación de recarga",
         "rechargingstationdsc": "Una estación para recargar baterías. Acepta baterías de cualquier tamaño y parece tener energía infinita. Úsala para introducir la batería que tengas en la mano principal y, después, arrástrala de vuelta hacia ti.\n\nParece tener un reproductor de música para relajar el ambiente mientras esperas... Irónicamente, le falta una batería.",
         "hydreed": "Hidranta",
@@ -844,7 +844,7 @@
         "terminal": "Terminal",
         "terminaldsc": "Un antiguo terminal de ordenador.",
         "macrofleshrebuilder": "Macroreconstructor de carne",
-        "macrofleshrebuilderdsc": "Una especia de dispositivo quirúrgico sofisticado. Probablemente puedas averiguar como usarlo."
+        "macrofleshrebuilderdsc": "Una especie de dispositivo quirúrgico sofisticado. Probablemente puedas averiguar cómo usarlo."
     },
     "moodles": {
         "braindamage4": "Comatoso",
@@ -1014,21 +1014,21 @@
         "impendingdoom": "Sensación de fatalidad inminente",
         "horrified": "HORRORIZADO",
         "focused": "CONCENTRADO",
-        "prosthesis": "Mienbro prostético",
+        "prosthesis": "Miembro prostético",
         "loosescrews": "Tornillos sueltos",
         "bentprosthesis": "Prótesis doblada",
-        "materialloss": "Pérdida de material crítica",
+        "materialloss": "Pérdida crítica de material",
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  sentido   ya   no",
         "braindamage2dsc": "Tu capacidad para pensar con claridad y valerte por ti mismo es limitada. Presentas daño cerebral grave.",
-        "braindamage1dsc": "Discapacidad mental debido a daño en el cerebro. Hay cosas que no te cuadran...",
+        "braindamage1dsc": "Discapacidad mental debido a daño en el cerebro. Las cosas no te cuadran...",
         "strokedsc": "Sangrado en el cerebro, posiblemente debido a una severa hipertensión. Ya en estado avanzado, las probabilidades de supervivencia son nulas a menos de que tengas Crecerebro o un procoagulante.",
         "cantbreathedsc": "¡Te asfixias! Pérdida de consciencia y muerte inminente.",
         "thoraxdestroyeddsc": "Tus pulmones están demasiado dañados para funcionar, debido a una salud muscular críticamente baja en el tórax.",
         "pulmonaryembolismdsc": "Un gran coágulo sanguíneo se ha desprendido y se ha alojado en los pulmones, bloqueando una arteria, causando daño al tórax rápidamente. Reduce la viscosidad de tu sangre.",
-        "oxygen1dsc": "SpO2 por debajo del 90%. Aunque no es peligroso, podría ser señal de una condición subyacente.",
-        "oxygen2dsc": "SpO2 por debajo del 75%, causando taquicardia y una lenta deprivación de oxígeno al cerebro. Señal de una condición subyacente.",
-        "oxygen3dsc": "SpO2 por debajo del 60%, privando de oxígeno a la mayoría tejidos, con riesgo de causar arritmia cardiaca. Posiblemente letal.",
+        "oxygen1dsc": "SpO2 por debajo del 90%. Podría ser señal de una condición subyacente.",
+        "oxygen2dsc": "SpO2 por debajo del 75%, causando una lenta deprivación de oxígeno al cerebro. Es señal de una condición subyacente.",
+        "oxygen3dsc": "SpO2 por debajo del 60%, privando de oxígeno a la mayoría de tejidos, con riesgo de causar arritmia cardiaca. Posiblemente letal.",
         "oxygen4dsc": "SpO2 por debajo del 45%. Algo en tu cuerpo está muy, pero que muy mal.",
         "fibrillation1dsc": "Ritmo cardíaco anormal, probablemente causado por un sobreesfuerzo grave del cuerpo. Puede empeorar si no se trata la causa. Puede ser desfibrilado.",
         "fibrillation2dsc": "Ritmo cardiaco severamente irregular, impidiendo un eficaz bombeo de la sangre. Progresará a una FV letal si no se trata. Puede ser desfibrilado.",
@@ -1037,9 +1037,9 @@
         "cardiacarrestdsc": "Asistolia. Hay una pequeña posibilidad de tratarla mediante desfibrilación o epinefrina. Hipoxia cerebral y muerte inminentes.",
         "hypoventilation1dsc": "Ritmo respiratorio disminuido.",
         "hypoventilation2dsc": "Ritmo respiratorio considerablemente disminuido, reduciendo lentamente la concentración de oxígeno en tu sangre.",
-        "hypotension1dsc": "Tensión arterial ligeramente baja. Te sientes un poco mareado.",
+        "hypotension1dsc": "Tensión arterial ligeramente baja.",
         "hypotension2dsc": "Tensión arterial moderadamente baja. Te ves pálido, y tienes la piel fría y húmeda. Revisa tus signos vitales.",
-        "hypotension3dsc": "Tensión arterial severamente baja. Estás al borde del colapso. Puede comenzar la fibrilación. Revisa tus signos vitales.",
+        "hypotension3dsc": "Tensión arterial severamente baja. Estás al borde del colapso. Puede comenzar la fibrilación; revisa tus signos vitales.",
         "hypotension4dsc": "Tensión arterial letalmente baja. La sangre no llega a tus órganos. Hipoxia cerebral y muerte inminentes.",
         "hypertension1dsc": "Tensión arterial ligeramente alta.",
         "hypertension2dsc": "Tensión arterial moderadamente alta. Te duele la cabeza y estás mareado. Revisa tus signos vitales.",
@@ -1068,23 +1068,23 @@
         "bleeding2dsc": "Tienes sangre saliendo de una herida de un tamaño considerable. No debería ser letal si estás saludable, pero sigue siendo peligrosa.",
         "bleeding3dsc": "Estás perdiendo mucha sangre. Letal si no es tratada.",
         "bleeding4dsc": "<i>A medida que tu vida se derrama a tu alrededor, recuerdas tu mortalidad.",
-        "internalBleeddsc": "La sangre se está metiendo en huecos en los que no debería estar. Encuentra procoagulante o un D.R.L.",
+        "internalBleeddsc": "La sangre se está acumulando en cavidades en los que no debería estar. Encuentra procoagulante o un D.R.L.",
         "exertion1dsc": "Cansancio físico. (<>%)",
         "exertion2dsc": "Elevado cansancio físico. Te cuesta moverte o hacer cualquier cosa. (<>%)",
         "exertion3dsc": "Apenas puedes moverte. Cansancio físico muy elevado. (<>%)",
         "exertion4dsc": "Apenas eres capaz de respirar. (<>%)",
         "brokenbonedsc": "Te has roto algo. Intenta no usar la extremidad afectada y descansa todo lo posible. Usa vendajes o una férula.",
-        "dislocationdsc": "Te has dislocado algo. Intenta no usar el miembro afectado, e intenta encontrar una forma para arreglarlo. Puede arreglarse a mano.",
+        "dislocationdsc": "Te has dislocado algo. Intenta no usar el miembro afectado. Puede arreglarse a mano.",
         "brokenneckdsc": "Tu cuello está roto. Tu médula espinal no está dañada, pero moverte es agonizante. Más débil físicamente del cuello para abajo. Es doloroso comer.",
         "brokenribsdsc": "Tus costillas están rotas, lo que hace que respirar sea mucho más difícil. Fuerza en los brazos reducida.",
-        "dislocatedjawdsc": "Tu mandíbula está dislocada. Te cuesta hablar, y comer te es extremadamente doloroso.",
+        "dislocatedjawdsc": "Tu mandíbula está dislocada. Te cuesta hablar, y comer resulta extremadamente doloroso.",
         "dislocatedspinedsc": "Tu columna está dislocada. Tu espina dorsal no está dañada, pero mover tu cuerpo es muy doloroso. Más débil físicamente de la cintura para abajo.",
         "infected1dsc": "La infección está hinchada y caliente. Encuentra algo que elimine agentes infecciosos.",
-        "infected2dsc": "La infección está rezumando pus negro, e hinchándose más. Encuentra antiseptico.",
-        "infected3dsc": "La infección está propagándose rápida y dolorosamente a través de tu miembro. Existe riesgo de sepsis. Encuentra antiseptico urgentemente.",
+        "infected2dsc": "La infección está rezumando pus negro, e hinchándose más. Encuentra antiséptico.",
+        "infected3dsc": "La infección está propagándose rápida y dolorosamente a través de tu miembro. Existe riesgo de sepsis. Encuentra antiséptico urgentemente.",
         "infected4dsc": "La infección está propagándose a otros miembros, y el miembro infectado está en proceso de necrosis. La sepsis se está asentando. Amputa el miembro.",
-        "sepsis1dsc": "Una infección generalizada está causando que tu sistema inmune entre en pánico. Te sientes confundido, con una tensión arterial reducida y con fiebre. Trata los miembro afectados.",
-        "sepsis2dsc": "Disminución de la presión arterial, aturdimiento y fiebre alta. Hay indicios de disfunción orgánica. Es probable que pronto entres en shock séptico.",
+        "sepsis1dsc": "Una infección generalizada está causando que tu sistema inmune entre en pánico. Te sientes confundido, con una tensión arterial reducida y con fiebre. Trata los miembros infectados.",
+        "sepsis2dsc": "Disminución de la tensión arterial, aturdimiento y fiebre alta. Hay indicios de disfunción orgánica. Es probable que pronto entres en shock séptico.",
         "sepsis3dsc": "<i>Como no pudiste detenerte ante la Muerte, la Muerte tuvo la amabilidad de detenerse para recogerte.</i> Colapso circulatorio inminente.",
         "concussiondsc": "Has quedado inconsciente por la baja vitalidad de la cabeza. Despertarás cuando se cure.",
         "unconsciousdsc": "No puedes responder a ningún estímulo externo. Estás noqueado.",
@@ -1185,11 +1185,11 @@
         "impendingdoomdsc": "Sientes un repentino y abrumador miedo. Tienes la piel de gallina. Es como si la naturaleza se hubiese callado abruptamente...",
         "horrifieddsc": "NO PUEDES CONCENTRARTE. NO PUEDES PENSAR. NO IMPORTA NADA. ¡CORRE POR TU VIDA O LUCHA POR ELLA!",
         "focuseddsc": "<i>Ambos morimos hoy. Uno un poco después que el otro.",
-        "focuseddscalt": "<i>Es hora de tomar tu libertad.",
-        "prosthesisdsc": "Tienes una prótesis acoplada. Los miembros prostéticos no pueden sangrar o sentir dolor, pero deber reconstruirse con su material de reparación si se dañan.",
+        "focuseddscalt": "<i>Es hora de reclamar tu libertad.",
+        "prosthesisdsc": "Tienes una prótesis acoplada. Los miembros prostéticos no pueden sangrar o sentir dolor, pero deben reconstruirse con su material de reparación si se dañan.",
         "loosescrewsdsc": "Una de tus prótesis se está soltando, causando daño material al moverte. Causado por metralla o una pérdida de material crítica.",
-        "bentprosthesisdsc": "Una de tus prótesis está gravemente doblada, impidiendo su uso y reparación normal. Arréglalo usando cualquier llave inglesa.",
-        "materiallossdsc": "Una de tus prótesis tiene una enorme grieta que va hasta el centro, impidiendo su uso y haciendola propensa a romperse. Arréglalo usando su material de reparación."
+        "bentprosthesisdsc": "Una de tus prótesis está gravemente doblada, impidiendo su uso y su reparación de forma habitual. Arréglalo usando cualquier llave inglesa.",
+        "materiallossdsc": "Una de tus prótesis tiene una enorme grieta que va desde su centro, impidiendo su uso y haciéndola propensa a romperse. Arréglalo usando su material de reparación."
     },
     "other": {
         "fullmouthchars": "mnoae",
@@ -1622,15 +1622,15 @@
         "runsetminigamehandshake": "Temblor de mano en minijuegos",
         "runsetminigamehandshakedsc": "Cuánto te tiembla la mano durante los minijuegos cuando estás dolorido",
         "runsetpermanentaddiction": "Adicción permanente",
-        "runsetpermanentaddictiondsc": "De un modo u otro, has cogido una adicción a los opioides ahí en los laboratorios. No importa cuánto intentas mantenerte limpio, no se va. Deberás buscar opioides constatemente, o morir.",
+        "runsetpermanentaddictiondsc": "De un modo u otro, has cogido una adicción a los opioides en los laboratorios. No importa lo mucho que intentes mantenerte limpio, no se va. Deberás buscar opioides constantemente, o morir.",
         "runsetmindwiped": "Mente borrada",
         "runsetmindwipeddsc": "...",
         "runsetzeroskills": "Sin habilidades",
-        "runsetzeroskillsdsc": "No has hecho <i>absolutamente</i> nada en tu vida, salvo sentarte en una esquina y comerte tus raciones. Empiezas con de 0 FUE/RES/INT.",
+        "runsetzeroskillsdsc": "No has hecho <i>absolutamente</i> nada en tu vida, salvo sentarte en una esquina y comerte tus raciones. Empiezas con 0 de FUE/RES/INT.",
         "runsetblind": "Ciego",
-        "runsetblinddsc": "Un expereimento horrible te ha dejado ciego permanentemente. No incluye bastón.",
+        "runsetblinddsc": "Un experimento horrible te ha dejado ciego permanentemente. No incluye bastón.",
         "runsetamputee": "Amputado cuádruple",
-        "runsetamputeedsc": "Un expereimento horrible te ha dejado sin extremidades. ¡Al menos tienes brazos y piernas de madera bastante molonas!",
+        "runsetamputeedsc": "Un experimento horrible te ha dejado sin extremidades. ¡Al menos tienes brazos y piernas de madera bastante molonas!",
         "runsetimmortalsnail": "Caracol inmortal",
         "runsetimmortalsnaildsc": "Una fuerza incomprensible ha cogido un interés especial en ti, yendo lentamente hacia ti mientras estés despierto. No dejes que te toque.",
         "rundivrunwide": "Opciones de progresión",
@@ -1674,7 +1674,7 @@
         "gamesetdarkerbackground": "Fondos más oscuros",
         "gamesetdarkerbackgrounddsc": "Hace las paredes de fondo más oscuras para mejorar el contraste",
         "gamesetfastcamera": "Cámara simple",
-        "gamesetfastcameradsc": "Fija la cámara al jugador en todo momento.",
+        "gamesetfastcameradsc": "Fija la cámara en el jugador en todo momento.",
         "gamesetbloom": "Brillo",
         "gamesetbloomdsc": "Hace que las cosas más brillantes se vean mejor. También afecta a la suciedad de lente",
         "gamesetfilmgrain": "Filtro de grano de película",
@@ -1777,7 +1777,7 @@
         "youdescription": "<sprite index=20>Inventario",
         "wet": "(Mojado)",
         "missionhurry": "DATE PRISA",
-        "bandageMinigameGuide": "Haz clic y arrastra el vendaje alrededor del miembro para vendarlo.\nNo tienes que usar todo el vendaje.",
+        "bandageMinigameGuide": "Haz clic y arrastra el vendaje alrededor del miembro para vendarlo.",
         "syringeMinigameGuide": "Empuja la jeringa hacia abajo para inyectar. Asegúrate de comprobar la dosis.",
         "lockpickMinigameGuide": "Haz clic en cualquier punto del arco para intentar forzar la cerradura.\nCuanto más cerca estés del punto, más girará.\nCuidado con no romperte las garras.",
         "lifepodMinigameGuide": "Haz coincidir el código para abrir.",
@@ -1995,15 +1995,15 @@
         "alerttoounhappy": "¡No puedes usar medicinas no-opioides cuando estás en un estado miserable!",
         "alertlimbmissing": "¡Te falta <1>, por lo que <2> no se puede utilizar!",
         "alertsellcontainer": "¡Vacía el contenedor antes de venderlo!",
-        "alertprosthesisbody": "Use the prosthesis on the thorax/abdomen to replace a missing arm/leg.",
+        "alertprosthesisbody": "Utiliza la prótesis en el tórax/abdomen para reemplazar un brazo/pierna faltante.",
         "alertprosthesisarm": "¡Ninguno de tus brazos está completamente desmembrado! Intenta eliminar cualquier muñón.",
         "alertprosthesisleg": "¡Ninguna de tus piernas está completamente desmembrada! Intenta eliminar cualquier muñón.",
-        "alertprosthesisfail": "No has podido acoplar la prótesis (El acomplamiento con menos de <> de INT puede fallar).",
+        "alertprosthesisfail": "No has podido acoplar la prótesis (El acoplamiento con menos de <> de INT puede fallar).",
         "alertnanotechsuccess": "<spoiler>",
         "alertnanotechfail": "<spoiler>",
         "alertnanotechrepeat": "<spoiler>",
-        "nanotechdepth": "¡Firma de nanotecnología detectada en esta profundidad!",
-        "nanotechdepthinitial": "Firma de nanotecnología detectada en este área...",
+        "nanotechdepth": "¡Señal de nanotecnología detectada a esta profundidad!",
+        "nanotechdepthinitial": "Señal de nanotecnología detectada en esta área...",
         "insertsample": "Insertar muestra",
         "tradeinteract": "Intercambiar",
         "read": "Leer",
@@ -2013,7 +2013,7 @@
         "open": "Abrir",
         "insertbattery": "Insertar batería desde la mano principal",
         "lockpick": "Forzar cerradura",
-        "dosurgery": "Hacerte cirugía",
+        "dosurgery": "Hacer autocirugía",
         "finaltravel": "Abrocharte y viajar",
         "lookcloser": "Mirar más de cerca",
         "examine": "Examinar",
@@ -2304,20 +2304,20 @@
         "tutcraft29": "Con esto concluye el módulo de fabricación. Con suerte podrás usar esta práctica y conocimientos que has adquirido. Vuelve a tu habitación.",
         "tutmove1": "Bienvenido al Módulo de Movimiento Avanzado. Por favor, sube por este hueco. Usa las paredes para subir.",
         "tutmove2": "Puedes subir por huecos estrechos de la misma forma.",
-        "tutmove3": "Puedes usar paredes para realentizar tu caida. Por favor deslizate por la pared al fondo a la izquierda.",
+        "tutmove3": "Puedes usar paredes para ralentizar tu caída. Por favor, deslízate por la pared de la izquierda.",
         "tutmove4": "Mantén [X] y muévete para arrastrarte. Puedes destruir bloques mientras estás boca abajo.",
-        "tutmove5": "Arrástrate por estos túneles estrechos. Mover la cabeza mirando alrededor puede ayudarte a posicionarte mejor.",
+        "tutmove5": "Arrástrate por estos túneles estrechos. Mover la cabeza mirando a tu alrededor puede ayudarte a posicionarte mejor.",
         "tutmove6": "Puedes agacharte en el aire para meterte en agujeros de una altura de 3 bloques.",
         "tutmove7": "También puedes saltar desde las paredes mientras te agachas.",
         "tutmove8": "Atacar y lanzar cosas te empuja al lado opuesto. Coge este minibarril.",
-        "tutmove9": "¿Cómo has llegado ahí arriba..? Que raro. Sea como sea, coge el siguiente barril, por favor.",
-        "tutmove10": "Carga un lanzamiento, salta y luego lanza el barril hacia abajo. Sube por la pared propulsandote con el lanzamiento.",
-        "tutmove11": "Bien hecho. Cuanto mas pese el objeto, te lanzarás mas lejor. Coge el siguiente barril.",
-        "tutmove12": "Salta por este hueco, y luego reduce la velocidad lanzando el barril hacia abajo antes del impacto con el suelo. No toques la pared.",
+        "tutmove9": "¿Cómo has llegado ahí arriba…? Qué raro. Sea como sea, coge el siguiente barril, por favor.",
+        "tutmove10": "Prepara un lanzamiento, salta y luego lanza el barril hacia abajo. Sube por la pared propulsándote con el lanzamiento.",
+        "tutmove11": "Bien hecho. Cuanto más pese el objeto, más lejos te lanzarás. Coge el siguiente barril.",
+        "tutmove12": "Salta por este hueco, y luego reduce la velocidad lanzando el barril hacia abajo antes del impacto con el suelo. No toques las paredes.",
         "tutmove13": "Lo has hecho bien.",
-        "tutmove14": "Golpear y blandir cosas te empuja hacia atrás de forma similar. Intenta subir a la pared de la derecha del todo mientras intentas golpear hacia abajo.",
-        "tutmove15": "Coge esta almádena y vuelve a propulsarte mientras la usas. Conseguirás mas altura debido al retroceso de la almádena.",
-        "tutmove16": "Ahora, salta y justo después, golpea el suelo que tienes abajo tuyo con la almádena. Conseguirás más altura. Sube por el hueco.",
+        "tutmove14": "Golpear y blandir cosas te empuja hacia atrás de forma similar. Intenta llegar a la pared de la derecha del todo mientras golpeas en su dirección hacia abajo.",
+        "tutmove15": "Coge esta almádena y vuelve a propulsarte mientras la usas. Conseguirás más altura debido al retroceso de la almádena.",
+        "tutmove16": "Ahora, salta, y justo después, golpea el suelo que tienes debajo con la almádena. Conseguirás más altura. Sube por el hueco.",
         "tutmove17": "¡Bien hecho! Combinar estas habilidades es clave para maniobrarse por el entorno con eficacia. Puedes volver a tu habitación asignada.",
         "tutclosehealthpanel": "Cerrar el panel de salud.",
         "tutopenhealthpanel": "Abrir el panel de salud.",
@@ -4089,9 +4089,9 @@
                 "...A-ah... Vale... B-bien... A-adiós, e-entonces..."
             ],
             "wwmr": [
-                "Vale... Estoy aquí... Por fín estoy aquí abajo. Hagámoslo. El objetivo debería estar aquí en algún sitio.",
-                "El... Objetivo... Debería estar el algún sito aquí... Nada más de tonterías. Vamos.",
-                "Lo he hecho... ¿Lo he hecho..? Hmmh... Debería estar por aquí... Vamos a acabar con esto."
+                "Vale... Estoy aquí... Por fin he llegado aquí abajo. Vamos a ello. El objetivo debería estar en algún sitio por aquí.",
+                "El... Objetivo... Debería estar en algún sitio por aquí... No más tonterías. Vamos.",
+                "Lo he conseguido... ¿Lo he conseguido…? Umm... Debería estar por aquí... Acabemos con esto."
             ],
             "endlessloop0": [
                 "¿...Ohh-Eh...qué..? ¿Qué? ¿Por qué? Qué ha... ¿Por qué estoy de vuelta aquí..? Qu... Qué acaba de pasar..."
@@ -5622,9 +5622,9 @@
                 "¿Comi-da?"
             ],
             "swingresponse": [
-                "NNGRRHHH!!",
-                "GRRRAAAGHHHH!",
-                "NNRRAAGHHHH!!"
+                "¡¡NNGRRHHH!!",
+                "¡¡GRRRAAAGHHHH!",
+                "¡¡NNRRAAGHHHH!!"
             ],
             "braindamaged": [
                 "He...",
@@ -6455,91 +6455,91 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[NOTA DE INVESTIGACIÓN, 29-1-24XX]<>\nApenas puedo creer lo que estoy viendo. El sujeto del tamaño de mi puño, de color amarillo, y de textura viscosa. Según los indicios parece ser un puñado de carne. No sabemos de qué o dónde es, pero nuestros instrumentos confirman que es de origen biológico, y es completamente alienígena a la nuestra. Se recuperó de los escombros del ██████ ███████, unido a la placa receptora. Esto representa un salto enorme en nuestra investigación, pero es una pequeña consolación por la pérdida total del dispositivo. No lo entiendo. Más de una década de investigación sin frutos teletransportando poco más que partículas sueltas, y ¿ahora viene esta cosa?<>\nDe todo el universo, las posibilidades de que nuestro experimento se cruce aleatoriamente con una criatura de un planeta alienigena desconocido deben ser al menos de cincuenta ordenes de maginitud. Debería ser imposible, pero aquí está. Necesitaremos darle la vuelta a esto. No podemos arriesgarnos a perder los fondos de los inversores o asustar al público. Todavía no. Al menos esto le dará al equipo de biología algo que investigar mientras reconstruimos el proyecto de cero.",
+            "Item1": "[NOTA DE INVESTIGACIÓN, 29-1-24XX]<>\nApenas puedo creer lo que estoy viendo. El sujeto es del tamaño de mi puño, de color amarillo, y de textura viscosa. Según los indicios parece ser un puñado de carne. No sabemos de qué o dónde es, pero nuestros instrumentos confirman que es de origen biológico, y es completamente alienígena a la nuestra. Se recuperó de los escombros del ██████ ███████, unido a la placa receptora. Esto representa un salto enorme en nuestra investigación, pero es una pequeña consolación por la pérdida total del dispositivo. No lo entiendo. Más de una década de investigación sin frutos teletransportando poco más que partículas sueltas, ¿y ahora viene esta cosa?<>\nDe todo el universo, las probabilidades de que nuestro experimento se cruce aleatoriamente con una criatura de un planeta alienígena desconocido deben ser al menos de cincuenta ordenes de magnitud. Debería ser imposible, pero aquí está. Necesitaremos darle a esto una imagen favorable. No podemos arriesgarnos a perder los fondos de los inversores o asustar al público. Todavía no. Al menos esto le dará al equipo de biología algo que investigar mientras reconstruimos el proyecto de cero.",
             "Item2": ""
         },
         {
-            "Item1": "[NOTA DE INVESTIGACIÓN 3-11-24XX]<>\nLa 'sangre amarilla' del incidente de █████████ es muy notable. Su adaptabilidad no es como nada visto en la Tierra. Incluso bajo radiación intensa logra repararse casi al momento. Es un nivel de recombinación solo visto en nuestros glóbulos blancos, y aun así cubre todo su genoma. Cuando intentamos sobreescribirla con nuestros vectores virales, los integró de alguna forma a su propio código genético sin que sufirese ninguna pérdida.<>\nInyectamos los genes alienigenas a células de rata y los resultados hicieron que Dr. █████ se cayera de su asiento. Se puso en una sobremarcha de expresión, cogiendo ADN de cualquier fuente que pudiese encontrar e integrandola al ADN del anfitrión sin problema. Hizo los últimos 100 años de investigación biológica parecer una broma. El anfitrión murio al poco. Actua como un andamio, permitiendo que las secuencias de ADN salten y se recombinen se volverse inmediatamente similares a un cáncer. Hemos repetido este experimento con varios genomas e incluso se integrarion secuencias de especias diferentes. Aún así, los verdaderos resultados son muy impredecibles. Parece mas el brebaje de una bruja que biología de verdad, pero quién sabe el potencial que esto tiene.",
+            "Item1": "[NOTA DE INVESTIGACIÓN 3-11-24XX]<>\nLa 'sangre amarilla' del incidente de █████████ es muy notable. Su adaptabilidad no es como nada visto en la Tierra. Incluso bajo radiación intensa logra repararse casi al momento. Es un nivel de recombinación solo visto en nuestros glóbulos blancos, y aun así cubre todo su genoma. Cuando intentamos sobrescribirla con nuestros vectores virales, los integró de alguna forma a su propio código genético sin que sufriese ninguna pérdida.<>\nInyectamos los genes alienígenas a células de rata y los resultados hicieron que el Dr. █████ se cayera de su asiento. Se puso en una sobremarcha de expresión, cogiendo ADN de cualquier fuente que pudiese encontrar e integrándola al ADN del anfitrión sin problema. Hizo que los últimos 100 años de investigación biológica parezcan una broma. El anfitrión murió poco después. Actúa como un andamio, permitiendo que las secuencias de ADN salten y se recombinen sin volverse inmediatamente similares a un cáncer. Hemos repetido este experimento con varios genomas e incluso se integraron secuencias de especies diferentes. Aun así, los resultados son muy impredecibles. Parece más el brebaje de una bruja que biología de verdad, pero quién sabe el potencial que esto tiene.",
             "Item2": ""
         },
         {
-            "Item1": "[NOTA DE INVESTIGACIÓN 7-29-24XX]<>\n¡Mis esfuerzos por fin han resultado en un espécimen viable! Ahora está sedado, pero respira por su cuenta fuera del tubo. No muestra signos de las mutaciones embrionarias letales que tiraron nuestros intentos anteriores, ni es otra masa grotesca de masa sin regulación. Es la primera sapiencia verdaderamente articifial. No se me ha escapado que he dado a luz a una nueva especie.<>\nComo las otras pruebas, la sangre amarilla se introdujo a la última mezcla estable y inyectada a un embrión humano. Como queriamos, el espécimen toma prestado principalmente del genoma humano, pero es algo completamente distinto. Sus garras son casi felinas, sus orejas aviares o tal vez hasta reptilianas. Puede detectar trazas de genes caninos, vulpinos and de roedor en su cráneo, pero el patrimonio genético podría contener mil donantes potenciales. Sus ojos son hasta ligeramente bioluminescentes.\nMore importantly, su capacidad intelectual parece ser de un nivel casi humano, just como queremos. ¡Las puertas que esto abre son infinitas! Seré gentil con este, pero ya he empezado a clonarlo para realizar tests mas destructivos.\nDesignaré a mi creación, SAW-01.",
+            "Item1": "[NOTA DE INVESTIGACIÓN 7-29-24XX]<>\n¡Mis esfuerzos por fin han resultado en un espécimen viable! Ahora está sedado, pero respira por su cuenta fuera del tubo. No muestra signos de las mutaciones embrionarias letales que tiraron nuestros intentos anteriores, ni es otra masa grotesca de masa sin regulación. Es la primera sapiencia verdaderamente artificial. No se me ha escapado que he dado a luz a una nueva especie.<>\nComo en las otras pruebas, la sangre amarilla se introdujo a la última mezcla estable, y fue inyectada a un embrión humano. Como queríamos, el espécimen toma prestado principalmente del genoma humano, pero es algo completamente distinto. Sus garras son casi felinas, sus orejas aviares o tal vez hasta reptilianas. Pude detectar trazas de genes caninos, vulpinos y de roedor en su cráneo, pero el patrimonio genético podría contener mil donantes potenciales. Sus ojos son hasta ligeramente bioluminiscentes.\nY lo más importante: su capacidad intelectual parece ser de un nivel casi humano, tal y como queremos. ¡Las puertas que esto abre son infinitas! Seré gentil con este, pero ya he empezado a clonarlo para realizar tests más destructivos.\nDesignaré a mi creación, SAW-01.",
             "Item2": ""
         },
         {
-            "Item1": "[NOTA DE INVESTIGACIÓN 24-12-24XX]<>\nTras peticiones reiteradas, voy a alterar el genoma del SAW-01. Su utilidad a la investigación de esta companía ha sido mucho mas de lo que me anticipaba. Originalmente pensaba que la falta de reproducción era prueba de su perfección, pero están bajo tal demanda que nuestras máquinas de clonación no dan a basto. Ahora entiendo los beneficios de la vieja usanza.\n En cuanto dejé de suprimir la expresión sexual, los genes aceptaron fácilmente el cambio. Son hermafroditas simultáneos; los primeros mamíferos en poseer ambos organos sexuales. Ahora que lo pienso, si no tienen glándulas mamarias, ¿Son de verdad mamíferos? No sé si esto es de la Tierra, o de la sangre amarilla, pero es algo mas allá de nuestra terminología.<>\nParece que no tienen atracción hacia otros de la misma especie, pero están cómodos y son capaces de autorreproducirse. Ahora serán capaces de básicamente clonarse con un coste mucho inferior.",
+            "Item1": "[NOTA DE INVESTIGACIÓN 24-12-24XX]<>\nTras peticiones reiteradas, voy a alterar el genoma del SAW-01. Su utilidad a la investigación de esta compañía ha sido mucho más de lo que me anticipaba. Originalmente pensaba que la falta de reproducción era prueba de su perfección, pero están bajo tal demanda que nuestras máquinas de clonación no dan abasto. Ahora entiendo los beneficios de la vieja usanza.\n En cuanto dejé de suprimir la expresión sexual, los genes aceptaron fácilmente el cambio. Son hermafroditas simultáneos; los primeros mamíferos en poseer ambos órganos sexuales. Ahora que lo pienso, si no tienen glándulas mamarias, ¿son de verdad mamíferos? No sé si esto es de la Tierra, o de la sangre amarilla, pero es algo más allá de nuestra terminología.<>\nParece que no tienen atracción hacia otros de la misma especie, pero están satisfechos y son capaces de autorreproducirse. Ahora serán capaces de básicamente clonarse con un coste mucho inferior.",
             "Item2": ""
         },
         {
-            "Item1": "[NOTA PERSONAL]\n[DR. ██████████, 6-05-24XX]<>\nNo lo entiendo. Trabajé en el ██████ ███████ antes del incidente. Hemos agotado todas las posibilidades, buscado en todos los rincones, y ahora tras ██ años estamos repitiendo los mismos experimentos que desestimamos y teniendo resultados muy exitosos. Es como si algo cambió desde entonces, alguna variable oculta del universo.\nEstas cosas no deberían funcionar así.<>\nPor primera vez parece que la teletransportación a punto verdadera podría esta a nuestro alcance, pero entendemos  menos que entonces. Temo que estemos trasteando con algo mas allá de nuestra comprensión. Y si en vez de un trozo pequeño de carne, hubiesemos recogido un trozo de una estrella de neutrones?\nClaro que una gravedad tan alta repele el apuntado, ¿pero que mas que 'sabemos' ha cambiado con un simple interruptor galático? Dale a un cavernícola el ordenador mas avanzado que tenemos y lo usará de estufa. ¿Estamos operando a tal nivel de ignorancia...? Podríamos ser solamente crios jugando con la pistola de papá.",
+            "Item1": "[NOTA PERSONAL]\n[DR. ██████████, 6-05-24XX]<>\nNo lo entiendo. Trabajé en el ██████ ███████ antes del incidente. Hemos agotado todas las posibilidades, buscado en todos los rincones, y ahora ██ años después estamos repitiendo los mismos experimentos que desestimamos y teniendo resultados muy exitosos. Es como si algo cambió desde entonces, alguna variable oculta del universo.\nEstas cosas no deberían funcionar así.<>\nPor primera vez parece que la teletransportación a punto verdadera podría estar a nuestro alcance, pero entendemos menos que antes. Temo que estemos trasteando con algo más allá de nuestra comprensión. ¿Y si en vez de un trozo pequeño de carne, hubiésemos recogido un trozo de una estrella de neutrones?\nClaro que una gravedad tan alta repele el apuntado, ¿pero que más que 'sabemos' ha cambiado con un simple interruptor galáctico? Dale a un cavernícola el ordenador más avanzado que tenemos y lo usará de estufa. ¿Estamos operando a tal nivel de ignorancia...? Podríamos ser solamente críos jugando con la pistola de papá.",
             "Item2": ""
         },
         {
-            "Item1": "Ey, jefe.\nActualizacion en ████ █████. Gran progreso. Han alimentado casi toda la maldita estación con eso y la cosa casi no se ha quejado. Es la forma mas densa de energía que hemos visto. Imagínalo, teletransporadores enteros alimentados por una cosa que puedes mantener en tus manos. Aun así, que raro que tenga forma de █████. Tal vez alguna pieza de un Experiment se quedó pillada ahí, quién sabe. Pero con esto, tal vez no necesitemos expandir nuestro Enjambre Dyson al fin y al cabo.\nEl problema, no podemos recrearlo.<>\nLos chicos dicen que han reproducido el experimento de forma exacta. Estaban intentando sacar el conducto espaciotemporal en vez de trasversarlo, ¿pero esta vez? Nada. Habrá roto la máquina como antes, pero nada de ████ █████. Es como el incidente de ██████████, pero esa sangre amarilla no llevó a los espécimenes SAW. Esto podría ser un descubrimiento mas grande.\nMandaré esta cosa a la sede central por el teletransportador. Espero que podais encontrarle sentido. Oh... mientras estamos en el tema, mandadnos algunos experimentos SAW mas. Es dificil mantener una buena cantidad aquí en órbita.\n- Director de Estación ███████████",
+            "Item1": "Ey, jefe.\nActualización en ████ █████. Gran progreso. Han alimentado casi toda la maldita estación con eso y la cosa casi no se ha quejado. Es la forma más densa de energía que hemos visto. Imagínalo, teletransportadores enteros alimentados por una cosa que puedes mantener en tus manos. Aun así, que raro que tenga forma de █████. Tal vez alguna pieza de un Experiment que se quedó pillado ahí, quién sabe. Pero con esto, tal vez no necesitemos expandir nuestro Enjambre Dyson, al fin y al cabo.\nEl problema es no podemos recrearlo.<>\nLos chicos dicen que han reproducido el experimento de forma exacta. Estaban intentando sacar el conducto espaciotemporal en vez de atravesarlo, ¿pero esta vez? Nada. Habrá roto la máquina como antes, pero nada de ████ █████. Es como el incidente de ██████████, pero esa sangre amarilla no llevó a los especímenes SAW. Esto podría ser un descubrimiento más grande.\nMandaré esta cosa a la sede central por el teletransportador. Espero que podáis encontrarle sentido. Oh... mientras estamos en el tema, mandadnos algunos experimentos SAW más. Es difícil mantener una buena cantidad aquí en órbita.\n- Director de Estación ███████████",
             "Item2": ""
         },
         {
-            "Item1": "[REPORTE DE INCIDENTE]\n[TRANSCIPCIÓN DE AUDIO RECUPERADA B7-187545]\n[BAHÍA DE TELETRANSPORTACIÓN: OSPREY]<>\n\"He visto las características, pero... esa cosa si que es grande.\"\n\"Por supuesto. Al fin y al cabo está diseñada para transportar edificios enteros.\"\n\"¿Y llegan de una pieza?\"\n\"Aún estamos haciendo ajustes, pero es por que nos aseguramos de que las cargas puedan soportar algunos golpes. Unos golpes di de... la atmósfera.\"\n<AUDIO DE PDA> \"¡Si, ahí, dejalo ahí en el centro!\"\n\"¿Qué es lo que están moviendo?\"\n\"Tío, estás verde. Es esa nueva gestión de energía que están alabando.\"\n\"Oh... ¿Es seguro que estén aquí abajo en el depósito de desplazamiento, señor?\"\n\"Por supuesto, siempre y cuándo no lo enciendas. Aunque, cuando todavía estaba en desarrollo algunos de los sujetos de prueba se cortaron por la mitad. Parece que some capacitancia parásita del\nciclo del carrete era suficiente para activar el proyector de campo, pero es por lo que no mantenemos estas cosas. La otra mitad acabó en el baño de empleados en la sede.\"\n\"Seguro que eso le dió al conserje algo .\"\n\"Esa sangre amarilla ensucia de verdad. Todavía puedo ver algo aquí abajo.\"<>\n<THUCNK>\n<RUGIDO MECÁNICO>\n\"¡Qué es eso!\"",
+            "Item1": "[REPORTE DE INCIDENTE]\n[TRANSCIPCIÓN DE AUDIO RECUPERADA B7-187545]\n[BAHÍA DE TELETRANSPORTACIÓN: OSPREY]<>\n\"He visto las características, pero... Joder, esa cosa sí que es grande.\"\n\"Por supuesto. Al fin y al cabo, está diseñada para transportar edificios enteros.\"\n\"¿Y llegan de una pieza?\"\n\"Aún estamos haciendo ajustes, pero ese es el motivo por el que nos aseguramos de que las cargas puedan soportar algunos golpes. Unos golpes de... Digamos, la atmósfera.\"\n<FEEDBACK DE PDA> \"¡Si, ahí, déjalo ahí en el centro!\"\n\"¿Qué es lo que están moviendo?\"\n\"Chaval, sí que estás verde. Es esa nueva batería de energía de la que la administración tanto habla.\"\n\"Oh... ¿Es seguro que estén aquí abajo en el depósito de desplazamiento, señor?\"\n\"Por supuesto, siempre y cuando no lo enciendas. Aunque cuando todavía estaba en desarrollo, algunos de los sujetos de prueba fueron cortados por la mitad. Parece que una capacitancia parásita del\nciclo de aceleración era suficiente para activar el proyector de campo, pero es por eso por lo que nosotros mismos no mantenemos estas cosas. La otra mitad acabó en el baño de empleados en la sede.\"\n\"Seguro que eso le dio al conserje algo de que hablar.\"\n\"Esa sangre amarilla ensucia de verdad. Todavía puedo ver algo de ella aquí abajo.\"<>\n<THUCNK>\n<RUGIDO MECÁNICO>\n\"¡Qué es eso!\"\n\"¡Eso es el desplazador de metamasa activándose! El director no para de darme por culo por el consumo de energía, ¡así que hagamos esto rápido! ¿Destino?!\"\n\"¡Ehh...! ¡Designado, señor!\"\n\"¿¡Depósito!?\"\n\"¡Despejado, señor!\"\n\"¿Indicadores?!\"\n\"¡Todos en verde, señor! \"\n\"¡Actívalo!\"\n<RUIDO DE ALARMA> \"¡Qu-!\"\n\"¿¡Qué has hecho!?\"\n\"¡No he hecho nada!\"\n\"¡El estabilizador s--e dis--uel--ve! ¡Ap--ága-lo!\"\n\"¡No---pu-edo, e-stá!\"\n<RUIDOS DE ALARMA SOLAPÁNDOSE>\n\"¿¡P-or q-ué n---o!?\"\n\"In--ten-ta---<>\n[FIN DE TRANSCRIPCIÓN]",
             "Item2": ""
         },
         {
-            "Item1": "[TRANSCRIPCIÓN DE REUINIÓN AA-226213]\n[OFICINA DE ██████ █████]\n[DATE: 6-06-25XX]<>\n?Reducción de tamaño...? ¡Qué dices!\nJusto como suena, Dr. █████. Vamos a recortar en el proyecto SAW.\nPerdón, pero ese proyecto es lo que ha hecho esta compania lo que es hoy. Los especímenes SAW son cruciales para toda nuestra investigación. No puedes cancelarlo.\n¿Tienes idea de lo que me cuesta seguir limpiándote el culo?  La mitad de nuestro presupuesto se va en seguridad. ¡Si alguien se da cuenta de lo que estamos haciendo, nos lincharán a todos! Tendriamos suerte si solo nos hacen una décima parte de lo que has hecho.<>\nLo entiendo, señor, pero nuestros resultados---<>\nSe han estancado durante años. Has resuelto los problemas fáciles. Ahora solo estás jugando con ellos, y soy yo el que corre con los gastos.\nEstamos teniendo un buen progreso en cánceres, deriva epigenética, agotamiento de células madre... ¡inmortalidad de verdad! ¿No merece la pena el riesgo?\n¡No tiene sentido si no estaré vivo para verlo! Dejaremos algunos, pero la teletransportación...hay una tecnología para el público. Ha sido nuestra meta desde el principio. Imaginalo, Dr. █████, cientos de mundos humanos, todos conectados con NUESTRAS máquina. Sería como controlar la gasolina, los coches y la carretera. Nos volveriamos intocables.\nSuena maravilloso, señor... pero hay tantos, algunos con los que invertido décadas. ¿Cómo se supone que simplemente  haga una \"reducción de tamaño\"?\nHe oido que ya se te da bien matarlos. Se creativo.",
+            "Item1": "[TRANSCRIPCIÓN DE REUINIÓN AA-226213]\n[OFICINA DE ██████ █████]\n[FECHA: 6-06-25XX]<>\n¿Reducción de tamaño...? ¡Qué dices!\nJusto como suena, Dr. █████. Vamos a hacer recortes en el proyecto SAW.\nDiscúlpame, pero ese proyecto es lo que ha hecho esta compañía lo que es hoy. Los especímenes SAW son cruciales para toda nuestra investigación. No puedes cancelarlo.\n¿Tienes idea de lo que me cuesta seguir limpiándote el culo?  La mitad de nuestro presupuesto se va exclusivamente en seguridad. ¡Si alguien se da cuenta de lo que estamos haciendo, nos lincharán a todos! Tendríamos suerte si solo nos hacen una décima parte de lo que has hecho.<>\nLo entiendo, señor, pero nuestros resultados---<>\nSe han estancado durante años. Has resuelto los problemas fáciles. Ahora solo estás jugando con ellos, y soy yo el que corre con los gastos.\nEstamos teniendo un buen progreso en cánceres, deriva epigenética, agotamiento de células madre... ¡inmortalidad de verdad! ¿No merece la pena el riesgo?\n¡No tiene sentido si no estaré vivo para verlo! Dejaremos algunos, pero la teletransportación... Esa es una tecnología para el público. Ha sido nuestra meta desde el principio. Imagínalo, Dr. █████, cientos de mundos humanos, todos conectados con NUESTRAS máquinas. Sería como controlar la gasolina, los coches y la carretera. Nos volveríamos intocables.\nSuena maravilloso, señor... pero hay tantos, algunos con los que invertido décadas. ¿Cómo se supone que simplemente haga una \"reducción de tamaño\"?\nHe oído que ya se te da bien matarlos. Se creativo.",
             "Item2": ""
         },
         {
-            "Item1": "[CHAT DE GRUPO - DEP. MENTICIDIO]\n      - New Message -<>\n\n¿Alguien ha visto mi taza de café? Es la que dice, \"Estoy aquí solo por los radicales libres.\" Si la encontraís, por favor llevadmela a mi oficina. Gracias.",
+            "Item1": "[CHAT DE GRUPO - DEP. MENTICIDIO]\n      - Nuevo Mensaje -<>\n\n¿Alguien ha visto mi taza de café? Es la que dice, \"Estoy aquí solo por los radicales libres.\" Si la encontráis, por favor llevádmela a mi oficina. Gracias.",
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: Sobre Tu Úlitmo Mensaje\nA: Dr. ██████████\nDe: Recursos Humanos<>\n\nQueremos informarte de que su último mensaje,\n\n    \"¡¿Quién ha sido el CABRÓN que a teletransportado medio Experiment al MALDITO BAÑO?! Estoy aquí ocupandome de mis PUTOS asuntos y SE ME CAE UN TORSO SANGRANDO Y MUTILADO EN MI CABEZA. ¡Todavía estaba moviendose y llenando TODO de su sangre horrible! ¡Estoy EMPAPADO DE SANGRE, joder! ¡¡¡QUE ASCO!!! ¡Cuándo encuentre al responsable le voy a lanzar la otra mitad a su OFICINA!\"\n\nse ha considerado como inapropiado e inconsistente con nuestros estándares de comunicación profesional. Esperamos que todos los empleados se comuniquen entre ellos con respeto y profesionalidad.\n\nPor favor asegurese de que cualquier comunicación futura sea consistente con estas expectativas.",
+            "Item1": "ASUNTO: Sobre Su Úlitmo Mensaje\nA: Dr. ██████████\nDe: Recursos Humanos<>\n\nLe informarnos de que su último mensaje,\n\n    \"¡¿Quién ha sido el CABRÓN que ha teletransportado medio Experiment al MALDITO BAÑO?! Estoy aquí ocupándome de mis PUTOS asuntos y SE ME CAE UN TORSO SANGRANDO Y MUTILADO EN MI CABEZA. ¡Todavía estaba agitándose y llenando TODO de su horrible sangre! ¡Estoy EMPAPADO DE SANGRE, joder! ¡¡¡QUE ASCO!!! ¡Cuándo encuentre al responsable, le voy a lanzar la otra mitad a su OFICINA!\"\n\nse ha considerado como inapropiado e inconsistente con nuestros estándares de comunicación profesional. Esperamos que todos los empleados se comuniquen entre ellos con respeto y profesionalidad.\n\nPor favor, asegúrese de que cualquier comunicación futura sea consistente con estas expectativas.",
             "Item2": ""
         },
         {
-            "Item1": "[NOTA PERSONAL]\n[DR. █████, 2-11-25XX]<>\n\nReducir el tamaño... ¡Dice de reducir el tamaño!\n¿No lo entiende? ¿No aprecia lo que el programa SAW ha hecho por esta companía? ¿Lo que HE hecho por ella? Nuestra investigación no está estancada. Estaba a punto de acabar el SAW-13. El espécimen justo para hacernos remontar.\n\nNo los exterminaré, pero puede acontentarle.<>\nEl planeta del que viene su sangre. Es su casa tanto como la Tierra. En cierto modo, siempre ha sido su hogar. Lo llamaré un experimento prolongado, una observación de cómo se comportan lejos de sus maestros. No nos cuesta nada, es libre de ojos indiscretos, y si necesitamos mas, los recuperamos. Todo es perfecto.\n\nAdelante entonces. Multiplicaros. Aggarad vuestras manos, o cubridlas con la sangre de vuestros vecinos. \nRepetid nuestros errors. Sed libres. Pero recordad, sois mis hijos, nunca sereís libres de mi.",
+            "Item1": "[NOTA PERSONAL]\n[DR. █████, 2-11-25XX]<>\n\nReducir el tamaño... ¡Reducir el tamaño, dice!\n¿Acaso no lo entiende? ¿No aprecia lo que el programa SAW ha hecho por esta compañía? ¿Lo que YO he hecho por ella? Nuestra investigación no está estancada. Estaba a punto de acabar el SAW-13. El espécimen que justo nos haría remontar.\n\nNo los exterminaré, pero puedo acontentarle.<>\nEl planeta del que viene su sangre. Es su casa tanto como la Tierra. En cierto modo, siempre ha sido su hogar. Lo llamaré un experimento prolongado, una observación de cómo se comportan lejos de sus maestros. No nos cuesta nada, es libre de ojos indiscretos, y si necesitamos más, los recuperamos. Todo es perfecto.\n\nAdelante, entonces. Multiplicaros. Tomaos de vuestras manos, o cubridlas con la sangre de vuestros vecinos. \nRepetid nuestros errores. Sed libres. Pero recordad, sois mis hijos, y nunca seréis libres de mí.",
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: ¡Es cuestión de seguridad!\nDE: Inspección de Operaciones\nA: All Personnel<>\n\nPor favor dejad de guardar copias locales de correos internos en vuestros dispositivos personales. Entiendo que el portal de correro de empleado es molesto de usar, ¡pero esto es un riesgo de seguridad serio! Hemos localizado algunos dispositivos perdidos y casi todos tenían algún tipo de información restringidad. ¿Qué hariais si uno acabase en las manos equivocadas? \n\n¡Tened mas cuidado en el futuro!\nInspección de Operaciones",
+            "Item1": "ASUNTO: ¡Es cuestión de seguridad!\nDE: Inspección de Operaciones\nA: Todo el Personal<>\n\nPor favor, dejad de guardar copias locales de correos internos en vuestros dispositivos personales. Entiendo que el portal de correo de empleado es molesto de usar, ¡pero esto es un riesgo de seguridad serio! Hemos localizado algunos dispositivos perdidos y casi todos tenían algún tipo de información restringida. ¿Qué haríais si uno acabase en las manos equivocadas? \n\n¡Tened más cuidado en el futuro!\nInspección de Operaciones",
             "Item2": ""
         },
         {
-            "Item1": "[División de Hardware Neurológico]\n[FECHA: 11-10-25XX]\n[INGENIERO JEFE ████████]<>\n\nHemos completado el último prototipo del Dispositivo Digital de Introcepción (o \"HUD de Salud\" como algunos compañeros lo han empezado a llamar) Tras colaborar con los compañeros de Proyecto SAW, hemos hecho muchos avances significativos. Hemos eliminado casi por completo el problema de la 'deslaminación espinal' ¡me atrevería a decir que estamos listos para instalarlo en humanos!<>\n\nEl dispositivo propiamente dicho es un chip que se implante just debajo del cerebelo y fijado a la médula oblonga mediante nanofilamentos conductivos. Funciona interceptando las señales visceroreceptivas y somatosensoriales usadas subconscientemente para la regulación del cuerpo y amplificandolas al córtex visual mediante una interfaz de usuario conveniente.\n\nEl implante no necesita batería, en su lugar recoge energía de los metabolitos circulantes, así que debería funcionar indefinidamente a menos que se dañe de alguna forma. Con esto, cualquier usuario puede comprobar su frecuencia cardíaca, respiración y temperatura interna con la precisón de una máquina, además de cosas como inflamación e irritación tanto muscular como de la piel. ¡Las posibilidades son infinitas!",
+            "Item1": "[División de Hardware Neurológico]\n[FECHA: 11-10-25XX]\n[INGENIERO JEFE ████████]<>\n\nHemos completado el último prototipo del Dispositivo Digital de Introspección (o \"HUD de Salud\" como algunos compañeros lo han empezado a llamar). Tras colaborar con los compañeros del Proyecto SAW, hemos hecho muchos avances significativos. Hemos eliminado casi por completo el problema de la 'deslaminación espinal', ¡y me atrevería a decir que estamos listos para instalarlo en humanos!<>\n\nEl dispositivo propiamente dicho es un chip que se implanta justo debajo del cerebelo y fijado a la médula oblonga mediante nanofilamentos conductivos. Funciona interceptando las señales visceroreceptivas y somatosensoriales usadas subconscientemente para la regulación del cuerpo y amplificándolas al córtex visual mediante una conveniente interfaz de usuario.\n\nEl implante no necesita batería; en su lugar, recoge energía de los metabolitos circulantes, así que debería funcionar indefinidamente a menos que se dañe de alguna forma. Con esto, cualquier usuario puede comprobar su frecuencia cardíaca exacta, hematosis y temperatura interna con la precisión de una máquina, además de cosas como inflamación e irritación tanto muscular como de la piel. ¡Las posibilidades son infinitas!",
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: RE: ¿Preguntas?\nDE: ████████████\nA: Dr. █████<>\n\nTe escribo para informarte que todos los sujetos SAW responsables del motín de la semana pasada ya han sido terminados, así que me temo que no podrás hacer tus preguntas.\n\nVi que fueron entrevistados a fondo, y confesaron que todo lo que sabian venía de ese SAW-03, así que el misterio está resuelto. La mayoría de científicos que mataron eran sus cuidadores, y admitieron que fueron a por ellos a propósito. No necesito un grado de psicología para adivinar el porqué, así que dudo que consiguieras mucho, aunque eres libre para recoger sus cerebros.<>\n\nSe endurecerá la seguridad para que este lio no pase de nuevo..\n\nAtentamente,\nJefe de Seguridad ████████████",
+            "Item1": "ASUNTO: RE: ¿Preguntas?\nDE: ████████████\nA: Dr. █████<>\n\nTe escribo para informarte que todos los sujetos SAW responsables del motín de la semana pasada ya han sido terminados, así que me temo que no podrás hacer tus preguntas.\n\nVi que fueron entrevistados a fondo, y confesaron que todo lo que sabían venía de ese SAW-03, así que el misterio está resuelto. La mayoría de científicos que mataron eran sus cuidadores, y admitieron que fueron a por ellos a propósito. No necesito un grado de psicología para adivinar el porqué, así que dudo que consiguieras mucho, aunque eres libre para recoger sus cerebros.<>\n\nSe endurecerá la seguridad para que este lio no pase de nuevo.\n\nAtentamente,\nJefe de Seguridad ████████████",
             "Item2": ""
         },
         {
-            "Item1": "[ANUNCIO A TODO EL PERSONAL]<>\n\nUna revisión interna ha identificado una instancia de comunicación sostenida entre un empleado y un recurso de investigación. El empleado fue visto falsificando códigos de acceso para encontrase con un sujeto SAW-03 fuera del registro oficial.\n\nEstas visitas no autorizadas incluyeron el intercambio de infomación no autorizada a ser compartida con los sujetos SAW y affeción inapropiada. Esta actividad introdujo variables de comportamiento no controladas a un experimento en curso. El empleado ha sido reasignado forzosamente. El sujeto mostró comportamientos autodestructivos como consecuencia y ya no es viable para su estudio.<>\n\nSe recuerda a todo el persona que cualquier iteracción no autorizada con los sujetos SAW tienen un impacto material en la integridad experimental. Si no teneís claro si una interacción sigue el protocolo, consultad con vuestro supervisor antes de proceder.\n\nGracias por vuestra atención,\nOficina de Gestión de Proyectos",
+            "Item1": "[ANUNCIO A TODO EL PERSONAL]<>\n\nUna revisión interna ha identificado una instancia de comunicación sostenida entre un empleado y un recurso designado para investigación. Se confirmó que el empleado falsificó códigos de acceso para encontrase con un sujeto SAW-03 fuera del registro oficial.\n\nEstas visitas no autorizadas incluyeron el intercambio de información no autorizada a ser compartida con los sujetos SAW, así como afección inapropiada. Esta actividad introdujo variables de comportamiento no controladas a un experimento en curso. El empleado ha sido reasignado forzosamente. El sujeto mostró comportamientos autodestructivos como consecuencia y ya no es viable para su estudio.<>\n\nSe recuerda a todo el personal que cualquier interacción no autorizada con los sujetos SAW tienen un impacto material en la integridad experimental. Si no tenéis claro si una interacción sigue el protocolo, consultad con vuestro supervisor antes de proceder.\n\nGracias por vuestra atención,\nOficina de Gestión de Proyectos",
             "Item2": ""
         },
         {
-            "Item1": "[CHAT ARCHIVADO, ID:LUXRJGY4]\n[DR. ██████, ING. ████████]<>\n\n> Ya te digo, quien haya empezado esa línea de peluches tiene un gran sentido del humor. Mi hija está obsesionada con ellos. Aunque son mas adorables que las cosas de verdad. ¡Jajaja! Si la mierda que hacemos se filtra alguna vez, la gente se pondrá como '¿Qué, como los peluches?' ¿Crees que se lo creerian? \n\n> Si, imaginate como se vería un SAW relleno de verdad, LMAO. No creo que tu hija estuviese contenta con ese.\n\n> ¡Nunca podrías saberlo! ¡Jajaja!",
+            "Item1": "[CHAT ARCHIVADO, ID:LUXRJGY4]\n[DR. ██████, ING. ████████]<>\n\n> Ya te digo, quien haya empezado esa línea de peluches tiene un gran sentido del humor. Mi hija está obsesionada con ellos. Aunque son más adorables que las cosas de verdad. ¡Jajaja! Si la mierda que hacemos se filtra alguna vez, la gente se pondrá como '¿Qué, como los peluches?' ¡Jajaja! ¿Crees que se lo creerían? \n\n> Si, imagínate como se vería un SAW relleno de verdad, LMAO. No creo que tu hija estuviese contenta con ese.\n\n> ¡Nunca se sabe! ¡Jajaja!",
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: Mi Nueva Invención Asombrosa\nDE: Ingeniero Jefe ████████\nA: Dr. ████<>\n\nSe llama: ¡el EXCRUCIADOR!\n\nHe cogido la tecnología de implante cerebral del proyecto en el que estaís trabajando, pero en vez de leer impulsos nerviosos, los envío en su lugar. Tras unos ajustes, es capaz de hacerte sentir literalmente el mayor dolor físicamente posible. ¡Me esperaba que los sujetos de prueba se insensibilizaran a cierto nivel, pero núnca lo hicieron!\n\nEsto podría ser increible para el sistema de justicia criminal. Siempre ha sido un problema saber si alguien ha sufrido la suficiente. ¡Pues ahora podeís! He hecho muchas pruebas en los SAWs, y solo ver el EXCRUCIADOR ser aplicado ha sido suficiente para disuadir desobediencia en todo el grupo. \n\n¿Podemos poner esto en producción lo más pronto posible?",
+            "Item1": "ASUNTO: Mi Nueva Invención Asombrosa\nDE: Ingeniero Jefe ████████\nA: Dr. ████<>\n\nSe llama: ¡el EXCRUCIADOR!\n\nHe cogido la tecnología de implante cerebral del proyecto en el que habéis estado trabajando, pero en vez de leer impulsos nerviosos, los envío en su lugar. Tras unos ajustes, es capaz de hacerte sentir literalmente el mayor dolor físicamente posible. Me esperaba que los sujetos de prueba se acabarían insensibilizando, ¡pero nunca lo hicieron!\n\nEsto podría ser increíble para el sistema de justicia criminal. Siempre ha sido un problema saber si alguien ha sufrido la suficiente. ¡Pues ahora podéis! He hecho muchas pruebas en los SAWs, y solo ver el EXCRUCIADOR en acción ha sido suficiente para disuadir la desobediencia en todo el grupo. \n\n¿Podemos poner esto en producción lo más pronto posible?",
             "Item2": ""
         },
         {
-            "Item1": "[ACTUALIZACIÓN DE PROYECTO]<>\n\nMalas noticias chicos...\nEl EXCRUCIADOR está cancelado. El jefe de departamente dijo que era \"impráctico\" y \"completamente loco\" y que sería una \"maldita pesadilla para Relaciones Públicas.\" ¿¿¿Qué pinta tan mal en resolver la justicia criminal??? \n\nBueno, al menos tenemos el visto bueno para usarlo internamente.",
+            "Item1": "[ACTUALIZACIÓN DE PROYECTO]<>\n\nMalas noticias chicos...\nEl EXCRUCIADOR está cancelado. El jefe del departamento dijo que era \"impráctico\" y \"completamente loco\" y que sería una \"maldita pesadilla para Relaciones Públicas.\" ¿¿¿Qué pinta tan mal en resolver la justicia criminal??? \n\nBueno, al menos tenemos el visto bueno para usarlo internamente.",
             "Item2": ""
         },
         {
-            "Item1": "[INSPECCIÓN DE OPERACIONES]\n[REPORTE DE INCIDENTE, ID DE CASO:YVLVH4EB]\n[OBJETO DE PRUEBAS #54]\n<>\nNo puedo hacerlo mas.\nLo que estamos haciendo está mal. Es malvado.\n\nHe estado aquí antes del incidente de █████████. No era como esto. Ahora solo contratan a psicópatas, pero yo no era nada mejor. Usé los espécimenes SAW como los demás. El progreso que hicimos era tan fácil que era intoxicante. Me dije que era por el bien de la humanidad, que no eran como nosotros.<>\n\nMe asignaron un SAW-01 para pruebas en implantes a largo plazo. Era frío al principio, pero para él era el la mejor parte de su día. Nunca se quejó. Debe haber pasado un año. Poco a poco se volvió normal que hablasemos durante las comprobaciones. Me inventé razones para prorrogar las pruebas. Ni sabía que los Experiments podían sonreir ese momento. No era muy inteligente, pero empezó a ayudarme en la oficina.<>\n\nEstuve trabajando con él durante catorce años. Después, me lo quitaron. Ya extendí la investigación todo lo que podía. Lo intenté, lo intenté de verdad. Me senté en mi oficina, refrescando el inventario de SAWs una y otra vez hasta que pasó. El estado de su ID pasó a fallecido. Toda la humanidad que suprimí me arrancó como un espiritu con venganza y me destruyó.<>\n\nEn este ADP-E encontrareís todas las pruebas necesarias para tirar la companía abajo.  \nEspero que esto funcione y caiga en manos de la prensa.\n\nLo siento, Mason.\nLo siento muchísimo...\n<>\n> ACTUALIZAR ESTADO DEL CASO: <>RESUELTO",
+            "Item1": "[INSPECCIÓN DE OPERACIONES]\n[REPORTE DE INCIDENTE, ID DE CASO:YVLVH4EB]\n[OBJETO DE PRUEBAS #54]\n<>\nNo puedo seguir con esto.\nLo que estamos haciendo está mal. Es malvado.\n\nHe estado aquí antes del incidente de █████████. No era como esto. Ahora solo contratan a psicópatas, pero yo no era nada mejor. Usé los especímenes SAW como los demás. El progreso que hicimos era tan fácil que era intoxicante. Me dije que era por el bien de la humanidad, que no eran como nosotros.<>\n\nMe asignaron un SAW-01 para pruebas en implantes a largo plazo. Yo era distante al principio, pero para él era la mejor parte de su día. Nunca se quejó. Debió de pasar un año. Poco a poco se volvió normal que hablásemos durante las comprobaciones. Me inventé razones para prorrogar las pruebas. Ni sabía que los Experiments podían sonreír hasta entonces. No era muy inteligente, pero empezó a ayudarme en la oficina.<>\n\nEstuve trabajando con él durante catorce años. Después, me lo quitaron. Ya había extendido la investigación todo lo que podía. Lo intenté, lo intenté de verdad. Me senté en mi oficina, refrescando el inventario de SAWs una y otra vez hasta que pasó. El estado de su ID pasó a fallecido. Toda la humanidad que suprimí me atravesó como un espíritu vengativo y me destruyó.<>\n\nEn este ADP-E encontraréis todas las pruebas necesarias para hacer caer la compañía.  \nEspero que esto funcione y caiga en manos de la prensa.\n\nLo siento, Mason.\nLo siento muchísimo...\n<>\n> ACTUALIZACIÓN DE ESTADO DEL CASO: <>RESUELTO",
             "Item2": ""
         },
         {
-            "Item1": "[NOTA DEL PROYECTO SAW]\n[DR. █████, 1-11,25XX]<>\n\nLos beneficios de los Experiments no se puede subestimar, pero hay un aspecto en el que se quedan cortos. Su inteligencia permanentemente pubescente hace difícil las pruebas psicológicas mas avanzadas<>\n\nEspecialicandose para esto, creo que este SAW-03 rendirá de forma mas admirable. Su pelo es blanco como la leche y suave. Tal vez una influencia cetácea es responsable de su inteligencia, porque le salen aletas por la espalda. Es mucho mas frágil que el resto, pero no debería ser un problema para su uso intencionado.",
+            "Item1": "[NOTA DEL PROYECTO SAW]\n[DR. █████, 1-11,25XX]<>\n\nLos beneficios de los Experiments no se pueden subestimar, pero hay un aspecto importante en el que se quedan cortos. Su inteligencia permanentemente pubescente hace difícil las pruebas psicológicas más avanzadas.<>\n\nCreo que este SAW-03 rendirá de forma más admirable al estar más especializado. Su pelo es blanco como la leche y suave. Tal vez una influencia cetácea es responsable de su inteligencia, porque le salen aletas por la espalda. Es mucho más frágil que el resto, pero no debería ser un problema para su uso intencionado.",
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: Estos nuevos SAWs\nDE: Dr. ██████\nA: Head of Applied Ballistics, Dr. █████████<>\n\nJuro que el equipo de Dr. █████ está intentando fastidiarme. ¡Saben cuánto odio los bicho! Tiene que ser a propósito. Pedí un espécimen mas resitente para nuestras pruebas, y me hacen estos SAW-12. Vale que son resistentes. También son imposibles de controlar y realmente estúpidos. Se que es imposible influenciar los detalles específcos de estas cosas pero segura que podian hacer algo mejor que esto.<>\n\nAun así tienen un uso. Son buenos para deshacernos de las partes de cuerpo de nuestra prueba con munición",
+            "Item1": "ASUNTO: Estos nuevos SAWs\nDE: Dr. ██████\nA: Jefe de Balística Aplicada, Dr. █████████<>\n\nJuro que el equipo de Dr. █████ está intentando fastidiarme. ¡Saben cuánto odio los bichos! Tiene que ser a propósito. Pedí un espécimen más resistente para nuestras pruebas, y me hacen estos SAW-12. Vale que son resistentes. También son imposibles de controlar y realmente estúpidos. Sé que es imposible influenciar los detalles específicos de estas cosas pero seguro que podrían hacer algo mejor que esto.<>\n\nAun así, tienen un uso. Son buenos para deshacernos de las partes de cuerpo de nuestra prueba con munición",
             "Item2": ""
         },
         {
-            "Item1": "SUBJECT: ¡Méritos Para Vosotros!\nTO: Ing. ████████\nFROM: Jefe of Teletransportación, ████████<>\n\n¡Gran idea lo de usar el desperdicio público para las prueba de calibración! Nos estamos ganando mucho crédito con el Tío Sam con esa acrobacia. No solo eso, es una forma increible de deshacernos de nuestro... objetos sensible. Estamos matando dos pájaros con una piedra. O dos Experiments con una jeringa, ¿Eh?\n\nSobre el problema del apuntado. ¿A quién le importa si está atraido extrañamente a ese planeta? Si es dónde quiere ir, ¿porqué vamos a discutirlo? No es como si hubiese locos medioambientales para pillarnos ahí.<>\n\nHablando de eso, echad un ojo a los desperdicios. Investigación de Operaciones pilló una tecnología espia dentro de una varillas de combustible agotado, de todas las cosas.",
+            "Item1": " ASUNTO: ¡Méritos Para Vosotros!\nDE: Ing. ████████\nA: Jefe of Teletransportación, ████████<>\n\n¡Gran idea lo de usar el desperdicio público para las pruebas de calibración! Nos estamos ganando mucho crédito con el Tío Sam con esto. No solo eso, es una forma increíble de deshacernos de nuestros... Objetos de mayor sensibilidad. Estamos matando dos pájaros de un tiro. O dos Experiments con una jeringa, ¿eh?\n\nSobre el problema del apuntado. ¿A quién le importa si está extrañamente atraído a ese planeta? Si es ahí a dónde quiere ir, ¿por qué vamos a discutirlo? No es como si hubiese chiflados medioambientales para pillarnos ahí.<>\n\nHablando de eso, echad un ojo a los desperdicios. Investigación de Operaciones pilló una tecnología espía dentro de una varilla de combustible agotada, de todas las cosas. Probablemente sea un competidor intentando adquirir información sobre nuestra tecnología de teletransporte; aun así, no podemos dejar que nuestros intereses se filtren.",
             "Item2": ""
         }
     ],
@@ -6547,10 +6547,10 @@
         "normal": [
             "Pausado.",
             "¿Ya te estás tomando un descanso?",
-            "¿Estás cansado?",
+            "¿Ya te has cansado?",
             "El tiempo se ha parado.",
             "Esperaré.",
-            "Te espero",
+            "Te espero.",
             "¡Hey!",
             "\"Ya que te vas, ¿por qué no me pillas un refresco?\"",
             "Y así, el tiempo se ha parado...",
@@ -6564,12 +6564,12 @@
             "¡Hola!",
             "El silencio siempre tiene un precio.",
             "Nos vemos una vez más.",
-            "Sabes que no tenemos todo el tiempo en el mundo...",
+            "No tenemos todo el tiempo en el mundo, ¿sabes? ",
             "Siempre viendo.",
             "Entonces se paró...",
             "¿Tienes algo en mente?",
             "Puedo esperar todo el día.",
-            "El Mundo se ha parado. Está en silencio.",
+            "El mundo se ha parado. Está en silencio.",
             "Asegúrate de estirar tus piernas.",
             "Tengo todo el tiempo que necesite. No se puede decir lo mismo sobre ti.",
             "Atrapado en la eternidad.",
@@ -6586,7 +6586,7 @@
             "Cobarde.",
             "Que desilusión.",
             "¿De verdad?",
-            "Simplemente aspira y espira.",
+            "Tan solo aspira y espira.",
             "No fue TAN malo...",
             "Guau, ¿sigues con vida?",
             "Coge aliento.",
@@ -6605,24 +6605,24 @@
             "Espero que reflexiones sobre lo que has hecho.",
             "Que pena, justo cuando empezabas a interesarme.",
             "Eres muy decepcionante. Pero también entretienes.",
-            "Estadísticamente, eres un muerto caminante.",
+            "Estadísticamente, eres un muerto andante.",
             "¿Demorando lo inevitable?",
             "Siento decirte que es terminal."
         ],
         "happy": [
             "No te acomodes.",
-            "¡Que tengas una buena supervivencia!",
+            "¡Que tengas una feliz supervivencia!",
             "El exceso de confianza es un asesino lento e insidioso.",
             "Una gran farsa. Un fracaso y desperdicio enormes. Pero no para mí.",
             "¿De verdad tienes el control?",
             "Me encanta que pienses que tienes el más mínimo control. Continúa.",
             "¿Crees que merece la pena ir ahí abajo del todo para esa cosa? Puedo hacer muchas más.",
             "¿Te sientes al cargo?",
-            "Nunca podrías comprender la escala de esto",
+            "Nunca podrías comprender la escala de esto.",
             "Tanta confianza en tu propio intelecto. Adorable."
         ],
         "depressed": [
-            "Venga, bañate en tu miseria.",
+            "Venga, báñate en tu miseria.",
             "Coge la vía fácil.",
             "¿Estresado?",
             "¿Demasiado asustado?",
@@ -6631,7 +6631,7 @@
             "¿Y ahora qué? ¿Cuál es tu siguiente paso?",
             "Podrías abandonar ya de paso. Tienes el botón ahí mismo.",
             "Eres demasiado resiliente para tu propio bien.",
-            "Oh, que cosita tan pobre."
+            "Oh, pobre cosita."
         ],
         "<spoiler>": [
             "<spoiler>"
@@ -6640,21 +6640,21 @@
             "<spoiler>"
         ],
         "combat": [
-            "Parece que te estás divertiendo.",
+            "Parece que te estás divirtiendo.",
             "¡Oh, venga ya!",
             "¡Hey, lo estaba viendo!",
             "Me podrías haber avisado al menos.",
-            "Aún no hemos acabado. Vuelve.",
+            "Aún no hemos acabado. Vuelve a ello.",
             "Habremos acabado cuando diga que hemos acabado.",
             "No me gusta que me interrumpan.",
-            "No tienes nada de gracia.",
+            "Que aburrido eres.",
             "Pausado. ¿Por qué?",
             "Grosero. Pero lo acepto. Pausado.",
             "No es de buena educación hacer a alguien esperar.",
             "No pausado. ¡Es broma!",
             "No me gusta este hábito tuyo.",
             "Me vas a dar una jaqueca...",
-            "¿Lo estás haciendo aposta? Sigue con la misión.",
+            "¿Lo estás haciendo aposta? Sigue con ello.",
             "¡Hey, que ahora venía la parte buena!",
             "¡Si no vas a jugar, pasa el mando!"
         ],
@@ -6662,7 +6662,7 @@
             "Eso no puede ser bueno.",
             "¡Corre!",
             "Parece urgente.",
-            "Concentrate.",
+            "Concéntrate.",
             "Usa bien este tiempo.",
             "¡Deberías haberte visto la cara!",
             "¡Parece que has hecho un amigo nuevo!",
