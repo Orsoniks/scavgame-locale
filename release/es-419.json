@@ -2937,7 +2937,7 @@
                 "¡Ugh!",
                 "Estoy muy bajo en ánimos.",
                 "Realmente estoy triste.",
-                "'Mano...",
+                "Viejo...",
                 "REALMENTE está desolado aquí...",
                 "Uugh... Realmente quisiera a... Alguien, ahora mismo.",
                 "Esto está TAN solo...",
@@ -2946,7 +2946,7 @@
                 "Necesito algo de apoyo...",
                 "Solo.",
                 "Estoy muy asustado...",
-                "A la mierda esto, 'mano... Uf...",
+                "A la mierda esto, viejo... Uf...",
                 "Realmente quiero salir de aquí.",
                 "Estoy infeliz."
             ],
@@ -3247,11 +3247,11 @@
                 "Mejor tú que yo, amigo...",
                 "Esto no es muy consolante.",
                 "¡Ey! ¿Estás...? O-oh...",
-                "Mierda, 'mano... Eso es un mal indicio.",
+                "Mierda, viejo... Eso es un mal indicio.",
                 "No no no no. Oh dios...",
                 "Me da pesar por ellos...",
                 "Espero no terminar así.",
-                "Vaya... Ew... 'mano.",
+                "Vaya... Ew... viejo.",
                 "No creo que esté respirando...",
                 "Sip, eso es un cadáver, está bien...",
                 "No puedo evitar mirarlo...",
@@ -3838,7 +3838,7 @@
                 "¡GAH! ¡Mierda! ¡Mis oídos!",
                 "¡AHHH! Mierda... Me zumban los oídos...",
                 "¡MIERDA! ... Ouuchhh... Eso estuvo fuerte...",
-                "¡¡¡NO!!! Mierda, 'mano... Aghhh, muy fuerte..."
+                "¡¡¡NO!!! Mierda, viejo... Aghhh, muy fuerte..."
             ],
             "murderregret": [
                 "Por... ¿Por qué he hecho eso...? M-mierda...",
@@ -3981,7 +3981,7 @@
                 "...Como quieras. Llévatelo y no vuelvas. Ahórrate las amenazas."
             ],
             "traderlightbreak": [
-                "'Mano, ¿qué onda? ¿Por qué harías eso? Vete de aquí.",
+                "Viejo, ¿qué onda? ¿Por qué harías eso? Vete de aquí.",
                 "¿...De verdad creíste que no vería eso?. Hijueputa. ¡Vete de aquí!",
                 "¡Ey! ¡¿Qué te pasa?! ¡Lo necesitaba! ¡Vete de aquí, maldito!",
                 "¡Ahh! ¡LADRÓN! ¡Largo, YA!",
@@ -3996,7 +3996,7 @@
                 "¡Wenas Wenas!"
             ],
             "traderseegun": [
-                "¡...Espera un momento! Aleja esa arma, 'mano... En todo caso.",
+                "¡...Espera un momento! Aleja esa arma, viejo... En todo caso.",
                 "¡Hey! ¿Qué hay del arma? Quita eso, por favor... Está bien.",
                 "Espero que no estés usando esa arma, Jaja.",
                 "Ey, no tengo un arma, así que aleja la tuya, amigo."
