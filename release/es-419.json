@@ -2979,7 +2979,7 @@
                 "Me siento realmente horrible.",
                 "¡MALDITA SEA!",
                 "Quiero llorar...",
-                "'Maaaaaannnnnno...",
+                "Viiiiiieeeeeejo...",
                 "Podría simplemente acostarme y morir en el acto.",
                 "Estoy luchando tanto...",
                 "Está... MUY solo por aquí...",
@@ -6493,7 +6493,7 @@
             "Item2": ""
         },
         {
-            "Item1": "Asunto: En Relación Con Su Último Mensaje\nPara: Dr. ██████████\nDe: Recursos Humanos<>\n\nLe informamos que su último mensaje\n\n    \"¿¡Quién fue el puto IMBÉCIL que teletransportó la mitad de un Experimento al MALDITO BAÑO?! Estaba sentado aquí ocupado de mis PUTOS asuntos y ME CAE UN MALDITO TORSO SECCIONADO EN MI CABEZA. ¡Todavía se estaba moviendo y regando su asquerosa sangre por TODAS PARTES! ¡Estoy BAÑADO EN ESO! ¡¡¡QUÉ PUTO ASCO!!! ¡Cuando sepa quién fue el responsable, le voy a arrojar la otra mitad a su OFICINA!\"\n\nha sido detectado como inapropiado e inconsistente con nuestros estándares de comunicación profesional. Esperamos que todos los empleados se comuniquen con sus compañeros de trabajo de forma respetuosa y profesional.\n\nLe agradeceríamos que se asegure de que sus futuras conversaciones se ajusten a estas expectativas.",
+            "Item1": "[ASUNTO] En Relación Con Su Último Mensaje\n[DE] Recursos Humanos\n[PARA] Dr. ██████████<>\n\nLe informamos que su último mensaje\n\n    \"¿¡Quién fue el puto IMBÉCIL que teletransportó la mitad de un Experimento al MALDITO BAÑO?! Estaba sentado aquí ocupado de mis PUTOS asuntos y ME CAE UN MALDITO TORSO SECCIONADO EN MI CABEZA. ¡Todavía se estaba moviendo y regando su asquerosa sangre por TODAS PARTES! ¡Estoy BAÑADO EN ESO! ¡¡¡QUÉ PUTO ASCO!!! ¡Cuando sepa quién fue el responsable, le voy a arrojar la otra mitad a su OFICINA!\"\n\nha sido detectado como inapropiado e inconsistente con nuestros estándares de comunicación profesional. Esperamos que todos los empleados se comuniquen con sus compañeros de trabajo de forma respetuosa y profesional.\n\nLe agradeceríamos que se asegure de que sus futuras conversaciones se ajusten a estas expectativas.",
             "Item2": ""
         },
         {
@@ -6501,7 +6501,7 @@
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: ¡Es un asunto de seguridad!\nDE: Supervisión de Operaciones\nPARA: Todo el Personal<>\n\nPor favor, dejen de guardar copias locales de correos internos en sus dispositivos personales. Entiendo que el portal de correo de empleados es fastidioso de usar, ¡pero esto supone un riesgo serio a su seguridad! Hemos localizado varios dispositivos perdidos y casi todos contenían algún tipo de información clasificada. ¿Usted qué haría si uno de estos terminara en las manos equivocadas? \n\n¡Por favor, tenga más cuidado en el futuro!\nSupervisión de Operaciones",
+            "Item1": "[ASUNTO] ¡Es un tema de seguridad!\n[DE] Supervisión de Operaciones\n[PARA] Todo el Personal<>\n\nPor favor, dejen de guardar copias locales de correos internos en sus dispositivos personales. Entiendo que el portal de correo de empleados es fastidioso de usar, ¡pero esto supone un riesgo serio a su seguridad! Hemos localizado varios dispositivos perdidos y casi todos contenían algún tipo de información clasificada. ¿Usted qué haría si uno de estos terminara en las manos equivocadas? \n\n¡Por favor, tenga más cuidado en el futuro!\nSupervisión de Operaciones",
             "Item2": ""
         },
         {
@@ -6509,7 +6509,7 @@
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: RE: ¿Preguntas?\nDE: ████████████\nPARA: Dr. █████<>\n\nEscribo esta carta con el motivo de informar que todos los sujetos SAW responsables del disturbio de la semana pasada han sido terminados, por lo tanto, me temo que no podrá hacer sus preguntas.\n\nMe aseguré de que fueran interrogados a profundidad y confesaron que todo lo que sabían provenía de ese SAW-03, así que el misterio está resuelto. La mayoría de los científicos que mataron eran sus propios cuidadores y admitieron haberlos atacado deliberadamente. No necesito un título en psicología para saber el por qué, y dudo que logre gran cosa, pero es libre de extraer sus cerebros.<>\n\nSe reforzarán las medidas de seguridad para que, esperadamente, este desastre no vuelva a ocurrir.\n\nAtentamente,\nJefe de Seguridad ████████████",
+            "Item1": "[ASUNTO] RE: ¿Preguntas?\n[DE] ████████████\n[PARA] Dr. █████<>\n\nEscribo esta carta con el motivo de informar que todos los sujetos SAW responsables del disturbio de la semana pasada han sido terminados, por lo tanto, me temo que no podrá hacer sus preguntas.\n\nMe aseguré de que fueran interrogados a profundidad y confesaron que todo lo que sabían provenía de ese SAW-03, así que el misterio está resuelto. La mayoría de los científicos que mataron eran sus propios cuidadores y admitieron haberlos atacado deliberadamente. No necesito un título en psicología para saber el por qué, y dudo que logre gran cosa, pero es libre de extraer sus cerebros.<>\n\nSe reforzarán las medidas de seguridad para que, esperadamente, este desastre no vuelva a ocurrir.\n\nAtentamente,\nJefe de Seguridad ████████████",
             "Item2": ""
         },
         {
