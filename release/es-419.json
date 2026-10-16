@@ -6545,7 +6545,7 @@
             "Item2": ""
         }
     ],
-    "pauseQuotes": [
+    "pauseQuotes": {
        "normal": [
             "Pausado.",
             "Taking a break already?",
