@@ -53,6 +53,7 @@ This is a list of all of the locales available for the [release version](https:/
 | File | Locale State | Contributors |
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
+| [한국어 (대한민국)](/release/ko-KR.json) | *To be filled by maintainers* | [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
 
 ## Contributing
 
