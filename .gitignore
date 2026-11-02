@@ -1,3 +1,2 @@
 # Do not commit the following files
-format.sh
 .vscode/settings.json
