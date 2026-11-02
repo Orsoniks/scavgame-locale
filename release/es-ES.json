@@ -5142,19 +5142,19 @@
                 "Hhrnnn... A-quí...",
                 "Nnhh... G-ris...",
                 "Du-ne... Ir...",
-                "...¿Porqué pa-rar?",
-                "Nnnhh... Lug-ar comida...",
-                "Ll-e-ga.",
+                "...¿Por qué pa-rar?",
+                "Nnnhh... Lug-ar comi-da...",
+                "Ll-e-gar.",
                 "¿Frí-o..?"
             ],
             "eatGood": [
-                "¡Nngghhhrr! ¡¡Ri-co!!",
-                "¡Ngghraahhh! ¡A Du-ne gu-star!",
-                "Hnnn...Hnnnrr...Bu-no...",
+                "¡Nngghhhrr! ¡¡De-li-cia!!",
+                "¡Ngghraahhh! ¡Du-ne gu-star!",
+                "Hnnn...Hnnnrr...Bu-eno...",
                 "Co-mida... Gu-star...",
-                "Sab-er... Es-pe-cial... Nhhrr...",
+                "Sa-bor... Es-pe-cial... Nhhrr...",
                 "Nhhrr... Gus-tar...",
-                "Que-er... M-ás..."
+                "Que-rer... M-ás..."
             ],
             "eatMediocre": [
                 "Nnnhrrr... Co-mida...",
@@ -5169,7 +5169,7 @@
                 "¡Nhhrr... Nhhghhh...!",
                 "Nggrhaahhh... Co-mida...",
                 "Nngrr... ¿Más..?",
-                "Du-ne... Que-rer... Gnnhnhrr... Comi-da... Nhhrr..."
+                "Que-rer... Du-ne... Gnnhnhrr... Comi-da... Nhhrr..."
             ],
             "refuseEat": [
                 "¿...Woh?",
@@ -5179,16 +5179,16 @@
                 "Malo..."
             ],
             "tired": [
-                "Sue-ño... Que-rer...",
+                "Dor-mir... Que-rer...",
                 "Du-ne... Sies-ta...",
                 "S...Ueño.",
                 "¡Eeee... Eeeeb..!",
-                "Sueeee-ñ.... Suee-ñeee....",
+                "Sueeee-ño.... Suee-ñeee....",
                 "Mnnhhrr... Tum-bar..."
             ],
             "verytired": [
-                "De-ber... Sies-ta...",
-                "Caaan... Saaa...",
+                "Nece-si-tar... Sies-ta...",
+                "Caaan... Sa-do...",
                 "Nnnhhh......Tum-bar...",
                 "Tum... Bar-se...",
                 "Hhhrrnn... S...Sue-eeeño..."
@@ -5196,7 +5196,7 @@
             "confused": [
                 "Ca-beza...",
                 "Gghhnn... Ghhrrrr...",
-                "Q.... Q-ue....",
+                "Q.... Q-ué....",
                 "No... Sa-berrr...",
                 "Con-fuso....",
                 "Nnhhhrrr...",
@@ -5215,7 +5215,7 @@
                 "Ba-rriga... Luchar...",
                 "Comi-da... Defen-derse...",
                 "¡Nhhgghhrrr... Ghhraghhh!",
-                "¿Hnnnghh..? Ghhr... Q-ue...",
+                "¿Hnnnghh..? Ghhr... Q-ué...",
                 "Nhgghhrr... Du-ne...... Mal....",
                 "Ghhn... Mal... ¿Co-mer..?"
             ],
@@ -5225,35 +5225,35 @@
                 "¿Nnngghhhrr....?",
                 "¡Ggyiacckk! Grhrh... Q-ué...",
                 "...Ngghrhh...",
-                "Grhrhaughh... Ghnnn... po-rqué...",
+                "Grhrhaughh... Ghnnn... por q-ué...",
                 "Nggh...du-ne...no...bie-n..."
             ],
             "full": [
                 "Du-ne lle-no...",
                 "¡Com-er mu-cho...!",
-                "Es-per-ar comer...",
+                "Es-per-ar... co-mer...",
                 "Du-ne no m-ás comer...",
                 "Ngghh... Lle-no...",
                 "Su-fic... Gnnh..."
             ],
             "hungry": [
-                "Quer-er M-ás... Com-ida...",
+                "Quer-er... M-ás... Com-ida...",
                 "Du-ne...hambrie-nto...",
-                "¿Mordis-co?",
+                "¿Bo-cado?",
                 "...Nggh... Que-rer...",
                 "Ham...bre...",
-                "*babea*",
-                "Don-de... ¿Comer..?",
-                "Mor-disco...",
+                "*babeo*",
+                "¿Dón-de... Comer..?",
+                "Bo-cado...",
                 "¿Co-mer..?",
                 "¿Du-ne...co-mer..?"
             ],
             "starving": [
-                "*babea mucho*",
+                "*babeo intenso*",
                 "Nece-si-tar.. ¡Comer!",
                 "¡Ngghhhhrrr! ¡¡¡Com-ida!!!",
-                "¡¡NGHHRRHHH!! ¿¡Don-de comer!?",
-                "¡Nhghhrrr! ¡¡Du-ne ham-bre!!",
+                "¡¡NGHHRRHHH!! ¿¡Dón-de comer!?",
+                "¡Nhghhrrr! ¡¡Du-ne mo-rir de ham-bre!!",
                 "¡¡NNGRHH!! ¡¡COMI-DA!! ¡¡DU-NE!!"
             ],
             "thirsty": [
@@ -5275,24 +5275,24 @@
             ],
             "limbmuscle": [
                 "<limb> no mo-ver...",
-                "¿<limb> du-ne dejar fun-cio-nar?",
-                "Du-ne nece-siitar <limb> dife-rente",
+                "¿<limb> de Du-ne dejar de fun-cio-nar?",
+                "Du-ne nece-si-tar <limb> de re-cambio.",
                 "<limb> no ir...nnngrrhh...",
                 "¡<limb> ser ruin..! ¡Gghhrr!",
-                "¡<limb>... du-ne do-ler..!"
+                "¡<limb>... De Du-ne do-ler..!"
             ],
             "limbinfected": [
                 "<limb> du-ne ca-liente...",
                 "¿Malo..?",
-                "¿Nnnrr...<limb> ver mal..?",
-                "¡<limb> du-ne bro-ta..?",
-                "Hhnnn...<limb> sen-tir inu-sual..."
+                "¿Nnnrr...<limb> as-pecto ra-ro..?",
+                "¿<limb> de Du-ne... Sar-pu-llido..?",
+                "Hhnnn...<limb> sen-sación ra-ra..."
             ],
             "limbskin": [
-                "¿<limb> amarillo..?",
-                "¡Oooouur! ¡<limb> es ma-l!",
+                "¿<limb> color ama-rillo..?",
+                "¡Oooouur! ¡<limb> estar ma-l!",
                 "Du-ne doler...",
-                "<limb> du-ne doler...",
+                "<limb> de Du-ne doler...",
                 "Ghhhrr...<limb> no bie-n..."
             ],
             "sad": [
@@ -5305,12 +5305,12 @@
                 "Du-ne no fe-li..."
             ],
             "gloomy": [
-                "Com-ida hacer senti-r mejor...",
-                "Com-ida hacer du-ne senti-r mejor...",
-                "Mu-y tristee...",
-                "Mu-y tristee du-ne...",
+                "Com-ida hacer sen-tir mejor...",
+                "Com-ida hacer Du-ne sen-tir mejor...",
+                "Mu-y tristeee...",
+                "Dune mu-y tristee...",
                 "Grrr..mente mal.",
-                "Grrr..mente du-ne mal.",
+                "Grrhhh...mente de Du-ne mal...",
                 "Nhhhhrr...",
                 "Nnnngggrhhh... Ghhr...",
                 "Gghhhrr...",
@@ -5324,7 +5324,7 @@
                 "¡Ngghhhnn... Nghhggghhh.... Nghhrr!",
                 "¡Ngghhruagghhh! Gghhrr...",
                 "¡Nnhhg... Nggghhh!",
-                "¡Ngghrhhh! ¿¡Por-qué!?"
+                "¡Ngghrhhh! ¿¡Por qu-é!?"
             ],
             "miserable": [
                 "¡¡¡NNNGRHHAGGHHH!!! ¡NNGGHRHHHH!",
@@ -5332,7 +5332,7 @@
                 "¡¡GGHHRAGGHHH!! ¡¡¡ODIIIIAAARRR!!!",
                 "¡¡GGHHRAGGHHH!! ¡¡¡¡DUUNNNE!!!! ¡¡¡ODIIIIAAARRR!!!",
                 "¡¡¡AAARHHGHHHHNNHH!!! ¡GGRAGGHHHHHH!",
-                "¡ENFAAADADOO! ¡GGRHHAANNGHHH!",
+                "¡ENFAAA-DADOO! ¡GGRHHAANNGHHH!",
                 "¡NNNGRRAGHHHH! ¡¡¡DU-NE.... DES-TRUIR!!!",
                 "¡NNNGRRAGHHHH! ¡ODIIIOOO! ¡¡¡DES-TRUIR!!!",
                 "¡GGHHRAAHHHGNHH! ¡DU-NE ODIAR! ¡¡¡DES-TRUIR!!!"
@@ -5363,51 +5363,51 @@
             "bleeding": [
                 "San-grar...",
                 "Du-ne...san-grar...",
-                "Du-ne...fil-trar...",
-                "Fil-trar...amari-llo...",
+                "Du-ne...re-zuma...",
+                "Sa-le...amari-llo...",
                 "Ama-rillo...ma-lo...",
                 "M-al...san-grar...",
-                "M-al...¡du-ne daño..!",
-                "¡Ngghhhrr! ¡Du-ne daño!",
-                "¡Grrhhhh! ¡Du-ne ne-cesi-tar ayuda!",
-                "¡¡Ayu-dar!! ¡Du-ne!",
+                "M-al...¡Du-ne doler..!",
+                "¡Ngghhhrr! ¡Du-ne doler!",
+                "¡Grrhhhh! ¡Du-ne ne-cesi-tar ayu-da!",
+                "¡¡Ayu-da!! ¡Du-ne!",
                 "¡Du-ne nece-sitar arre-glo..!",
                 "Nnnrr... Du-ne ama-rillo...",
                 "Nrr... San-gre...",
-                "NNrrhhrr... ¡¡Du-ne...san-gre...!!"
+                "Nrrhh... ¡¡Du-ne...san-gre!!"
             ],
             "bleedingheavy": [
                 "¡¡San-grar!!",
                 "¡¡Du-ne san-grar!! ¡¡Mu-cho!!",
-                "¡¡Du-ne...filtrar!! ¡¡Ya!!",
-                "¡Flu-ir...amari-llo! ¡¡Du-ne ayu-dar!!",
+                "¡¡Du-ne...rezu-ma!! ¡¡Ya!!",
+                "¡Flu-ir...amari-llo! ¡¡Du-ne ayu-da!!",
                 "¡¡Ama-rillo!! ¡¡¡Mal-o!!!",
                 "M-al...san-grar...",
-                "¡Ma-l...du-ne daño..!",
+                "Ma-l...¡Du-ne doler..!",
                 "¡Ngghhhrrrnnghhhr!",
                 "¡Grrhhhhnnnghh!",
-                "¡¡Ayu-dar!! ¡Du-ne! ¡¡¡YA!!!",
-                "¡Du-ne nece-si-tar ARRE-GLAR..! ¡¡A-YUDA!!",
-                "¡¡NnnrrrhhNGHHH!! ¡¡DU-NE MUY AMA-RILLO!!",
+                "¡¡Ayu-da!! ¡Du-ne! ¡¡¡YA!!!",
+                "¡Du-ne nece-si-tar ARRE-GLO..! ¡¡A-YUDA!!",
+                "¡¡NnnrrrhhNGHHH!! ¡¡DU-NE DEMA-SIADO AMA-RILLO!!",
                 "¡¡¡Nrrgghhh!!! ¡¡¡San-gre!!!",
                 "¡Nrrhhh..! ¡¡Du-ne san-gre!! ¡¡¡Mucha!!!"
             ],
             "steponglass": [
                 "Du-ne cris-tal...",
-                "¡¡Qui-tar co-sa daño du-ne!!",
-                "¡¡¡Du-ne da-ño afi-lar!!!"
+                "¡¡Co-sa trans-pa-rente dañar a Du-ne!!",
+                "¡¡¡Du-ne do-lor pun-zante!!!"
             ],
             "seecorpse": [
                 "¿Comi-da gra-tis?",
                 "¿Hhnnn..?",
                 "Ooo...",
-                "¿Mmm... Gra-tis..?",
-                "¿Mmmmrr... Ami-go..?",
+                "Mmm... ¿Gra-tis..?",
+                "Mmmmrr... ¿Ami-go..?",
                 "¡¡Hrnn!! ¡Ami-go! Oh....",
-                "¿Mmm... Deli-cioso... Encon-trado..?",
-                "¿Du-ne... Encon-trar ami-go..?",
+                "Mmm... Sa-broso... ¿Encon-trado..?",
+                "Du-ne... ¿Encon-trar ami-go..?",
                 "¿Por qué ami-go no mo-ver?",
-                "¡Comida!",
+                "¡Comi-da!",
                 "*salivando*",
                 "¡Aaarrh! ¿Ho-la?"
             ],
@@ -5415,17 +5415,17 @@
                 "¡¡Mmm!! Má-s comi-da...",
                 "Ho-la ami-go.",
                 "Cadá-ver.",
-                "¿Ami-go dañ-o?",
+                "¿Ami-go he-rido?",
                 "Má-s cadá-ver.",
-                "Má-s comida para du-ne.",
+                "Má-s comi-da para Du-ne.",
                 "¡¡Ho-la!!",
                 "Du-ne ver má-s cadá-ver.",
-                "¡Cuán-ta mori-r!",
+                "¡Tan-to mori-r!",
                 "¡Much-a comi-da!"
             ],
             "seecorpsesuicidal": [
-                "Du-ne unir ami-go...",
-                "Du-ne celo-so...",
+                "Du-ne unir-se a ami-go...",
+                "Du-ne envi-dioso...",
                 "Gghrr..."
             ],
             "cold": [
@@ -5437,23 +5437,23 @@
             "warm": [
                 "Du-ne calien-te.",
                 "¡Du-ne calien-te!",
-                "Du-ne necesi-tar enfri-ar.",
+                "Du-ne necesi-tar enfri-ar-se.",
                 "Du-ne dema-siado ca-lien-te.",
                 "Calien-te.",
                 "Cal-lien-te..."
             ],
             "hot": [
-                "¡Du-ne quemar!",
-                "¡¡Du-ne muy cal-ien-te!!",
-                "Nece-si-tar... Fri-o...",
-                "Demasia-do cali-en-te...",
+                "¡Du-ne quemar-se!",
+                "¡¡Du-ne dema-siado cal-ien-te!!",
+                "Nece-si-tar... Frí-o...",
+                "Dema-siado... Ca-lor...",
                 "Nnhggh... ¡Ma..reo!"
             ],
             "exerted": [
                 "Nnnghh... A-gotado...",
                 "Du-ne... Des-can-sar...",
                 "*resoplido*",
-                "Nnnrr.. ¡Tra-bajar... Mucho!"
+                "Nnnrr.. Tra-bajar... ¡Mucho!"
             ],
             "exhausted": [
                 "Nhhgh... ¡Des-canso..!",
@@ -5467,17 +5467,17 @@
                 "Ngghhhrr... ¡Tan f-río..!",
                 "Nnhh... N-nnhh... F-río...",
                 "¡T...Tan... F-río..! Ngr...",
-                "Con-gelar...",
-                "Du-ne... Con-gelar...",
+                "Con-gelar-se...",
+                "Du-ne... Con-gelar-se...",
                 "Nhhhrrr... Du-ne... Dema-sia-do f-río...",
                 "¡Ggrrrh..! Dema-sia-do f-río..."
             ],
             "emaciated": [
-                "Du-ne... Dema-sia-do fino...",
-                "Fino...",
-                "De..ber. Comer m-as...",
-                "¡¡Du-ne... Fi-no!!",
-                "Dema-siad-o... Fino..."
+                "Du-ne... Dema-sia-do del-gado...",
+                "Del-gado...",
+                "De..ber. Comer m-ás...",
+                "¡¡Du-ne... del-gado!!",
+                "Dema-siad-o... del-gado..."
             ],
             "obese": [
                 "¡Du-ne comer mu-y bie-n!",
@@ -5510,8 +5510,8 @@
                 "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
             ],
             "cantBreathe": [
-                "Nhhrr...nngghh...*hack*",
-                "*hack* *tos*",
+                "Nhhrr...nngghh...*tos áspera*",
+                "*tos áspera* *tos*",
                 "¡Nhhgg-rhhnngh!"
             ],
             "pain": [
@@ -5559,45 +5559,45 @@
                 "¿Oh? ¿Ami-go morder?",
                 "¡Nggrch! ¡¡Co-sa mal-vada!!",
                 "¡GGRRGHHH! ¡¡¡¡DU-NE MA-TAR!!!!",
-                "¡GRRACK! ¡DEJ-AR DU-NE!",
-                "¡GGRHR! ¡MOR-DER VUELTA!",
-                "¡RGHGN! ¡DU-NE VENGANZA!",
+                "¡GRRACK! ¡DEJ-AR A DU-NE!",
+                "¡GGRHR! ¡DE-VOLVER MOR-DISCO!",
+                "¡RGHGN! ¡DU-NE VEN-GANZA!",
                 "¡GACK! ¡MAL-VADO!"
             ],
             "dirty": [
                 "Du-ne... ¿Su-cio..?",
                 "Du-ne necesi-tar ba-ño...",
                 "Du-ne sentir olor.",
-                "Sentir sucio.",
+                "No-tar sucie-dad.",
                 "Ol-er olor.",
                 "Apes-toso.",
                 "Olor. ¡Malo!",
-                "Dema-sia-do ol-or."
+                "Dema-sia-do apes-toso."
             ],
             "encumbered": [
                 "¡¡Du-ne fuerte!!",
                 "Du-ne llevar mu-cho.",
                 "Llevar mu-cho.",
                 "Mucha cosa.",
-                "Du-ne fuerte... ¡dune llevar!",
-                "Du-ne pesado.",
-                "Du-ne peso.",
+                "Du-ne fuerte... ¡Dune llevar!",
+                "Du-ne pesa-do.",
+                "Du-ne pe-so.",
                 "Pesa-do.",
                 "Peso...",
                 "Nrrr...lle-var mucho.",
-                "Nrrr...du-ne lle-var mucho."
+                "Nrrr...Du-ne lle-var mucho."
             ],
             "watchlike": [
                 "Grrr. ¡Ami-go met-al ra-ro!"
             ],
             "drillend": [
                 "Du-ne miedo.",
-                "Mie-doso.",
+                "Mie-do.",
                 "Rui-do fuer-te...",
                 "¡¡Du-ne lis-to!!"
             ],
             "loud": [
-                "¡GGRAAAAACKK! ¿¡QU-É!?",
+                "¡GGRAAAAACKK! ¿¡Q-UÉ!?",
                 "¡¡¡GRRRRR!!!",
                 "...hoooh.",
                 "¡GRRACK! ¡RUI-DOSO!",
@@ -5605,8 +5605,8 @@
             ],
             "murderregret": [
                 "¡DU-NE GANAR!",
-                "¡DU-NE GANAR AMI-GO MAL-VADO!",
-                "¡GRRAAACCHH! ¡AAHHAAKAKA!! ¡¡AAAAAUURAHHACGGHRAAAA!! ¡¡¡¡DU-NE FUEEEERTEEE!!!!",
+                "¡DU-NE VEN-CER AMI-GO MAL-VADO!",
+                "¡GRRAAACCHH! ¡¡AAHHAAKAKA!! ¡¡AAAAAUURAHHACGGHRAAAA!! ¡¡¡¡DU-NE FUEEEERTEEE!!!!",
                 "¡¡¡DU-NE CAZAR AMI-GO DÉBIL!!!",
                 "¡¡DU-NE CA-ZAR COMI-DA!!",
                 "¡GRRHCHH! ¡PRE-SA DÉÉÉBIIIL!"
@@ -5623,14 +5623,14 @@
             ],
             "swingresponse": [
                 "¡¡NNGRRHHH!!",
-                "¡¡GRRRAAAGHHHH!",
+                "¡GRRRAAAGHHHH!",
                 "¡¡NNRRAAGHHHH!!"
             ],
             "braindamaged": [
                 "He...",
                 "...",
-                "...?",
-                "...!",
+                "¿...?",
+                "¡...!",
                 "......",
                 "...~",
                 "...@@",
@@ -5655,30 +5655,30 @@
             ],
             "lastmoments": [
                 "Du-ne...asus-tado...",
-                "¡Du-ne...necesi-tar...ayuda!",
+                "¡Du-ne...necesi-tar...ayu-da!",
                 "¡Grrhhnnchh!",
                 "¡Grrhhannchh!",
                 "¡¡¡Grrrrr!!!",
                 "¡Nnhhrrhuhhh! ¡¡¡No!!!",
                 "¡¡¡Du-ne!!! ¡¡Ayu-da!!",
-                "P...por-qué...",
+                "P...por qu-é...",
                 "D...dnnrhh...Nhhhh...",
                 "Rrrnn...Hhhh...¿Du-ne....morir...?",
                 "Lu-z....ve-nir...",
                 "Sen-tir...oscu-ro...",
                 "¿es...fin..?",
-                "es.....aca-bado...",
+                "se.....aca-bó...",
                 "no...lis-to...",
-                "rnhh...du-ne...a-yuda..."
+                "rnhh...Du-ne...a-yuda..."
             ],
             "magicheal": [
                 "woh..."
             ],
             "selfdestruct": [
-                "¡Oooorrhhn! ¿Du-ne nuevo so-nido? Hooohh..."
+                "¡Oooorrhhn! ¿Du-ne nuevo so-nido? Ooohh..."
             ],
             "endlessloop0": [
-                "...Mmmrrnnngghh... Ngghh......¿de nue-vo?"
+                "...Mmmrrnnngghh... Ngghh......¿De nue-vo?"
             ],
             "endlessloop1": [
                 "Ngghhr. Du-ne gustar desa-fío. ¡Du-ne ir otra ve-z!"
@@ -5687,7 +5687,7 @@
                 "¡Oo! ¿Ot-ra vez? ¡Más lu-gar encon-trar comi-da!"
             ],
             "endlessloop3": [
-                "Du-ne domi-nar cue-va."
+                "Du-ne due-ño de cue-va."
             ],
             "endlessloopdefault": [
                 "¡Nrrrg! ¡Wheee! ¡Du-ne ganar!"
@@ -5698,117 +5698,117 @@
                 "A-migo... Ho-la... Sién-ta-te...",
                 "Ho-l-a-a... A-migo... Per-so-na...",
                 "Ven... a-quí... A-migo...",
-                "Ho-la... Am-igo..."
+                "Aquí... Am-igo..."
             ],
             "tradermeetgood": [
-                "¡GGack! ¡He-y!",
-                "Mmmm... Ami-go... Bi-en-ven-ido a-quí... Tú se-guro...",
-                "¡A-migo! ¡Ho-la...! Co-mo es-tas...",
+                "¡GGack! ¡Ho-la!",
+                "Mmmm... Ami-go... Bi-en-ven-ido a... Se-guro...",
+                "¡A-migo! ¡Ho-la...! ¿Có-mo es-tá...?",
                 "Dune en-con-trar... ¡Bu-en a-migo!...",
-                "¡Ho-laa-a!... Amig-o... Acer-car...",
+                "¡Ho-laa-a!... Amig-o... Acer-car-se...",
                 "¿Nue-vo am-igo?.. Dune fe-liz..."
             ],
             "tradermeetbad": [
                 "Grrr... Per-son-a...",
                 "Nggghhrr... Ho-la... Pe-r-son-a...",
-                "Grrrrr... A-migo... No ver a-pe-tecible...",
+                "Grrrrr... A-migo... No pa-recer a-pe-tecible...",
                 "Grrrr... ¡Per-sona ma-la!.. Grrr...",
                 "Grrrpmh.. ¡Ma-lo!... No a-mi-go...",
                 "Dune no gus-ta... ¡Es-te am-igo!..."
             ],
             "traderwakegreet": [
-                "Am-i-go... Des-per-tar...",
+                "Am-i-go... Des-per-tar de sies-ta...",
                 "No más do-r-mir... ¡Ho-la..! Des-pi-erta...",
-                "Des-pertar... Bu-enos Dí-as...",
+                "Des-pierto... Bu-enos dí-as...",
                 "Des-pier-ta... A-migo...",
-                "Le-van-ta.. A-migo...",
+                "Des-pier-ta.. A-migo...",
                 "A-migo dor-mir... Des-per-tar... ¡Dune sa-lu-dar!"
             ],
             "tradergiveitem": [
-                "Dune lo to-ma.",
+                "Dune lo to-ma-rá.",
                 "¡A-cep-tar co-sa..!",
-                "Dune pi-lla la co-sa..!",
+                "¡Dune co-ge co-sa..!",
                 "Gr-acias... Am-i-go...",
                 "Du-ne ne-ce-sitar...",
-                "Bue-n... Gra-cia...",
+                "Bie-n... Gra-cia...",
                 "A-mi-go dar... B-ien..."
             ],
             "tradergiveitemrefuse": [
-                "¡No más co-sas!",
+                "¡No más co-ger!",
                 "Es su-fi-ciente...",
                 "A-mi-go.. No.. En-ti-ende.. Su-fi-ciente...",
-                "Dune no... ¡No más cos-as!",
+                "¡Dune no... Co-ger má-s!",
                 "¡No! Dune ti-ene su-fi-cien-te..."
             ],
             "traderbite": [
-                "Buen... Sa-bor. ¡Que-rer más a-mi-go!",
+                "Bien... Disfru-tar sa-bor. ¡A-mi-go gus-tar más!",
                 "Sí... Gr-acias po-r... ce-na par-a Du-ne...",
                 "Hmmhhm... Gra-ci-as... Bu-en sa-bor... ¡To-ma lo que qui-e-ras..!",
-                "Bu-ena co-mi-da... a-migo bu-en-o...",
-                "Dune a-ma el sa-bor de a-mi-go...",
-                "Bu-en ami-go... Com-er bi-en..."
+                "Comer bien... a-migo bu-en-o...",
+                "Dune a-ma sa-bor de a-mi-go...",
+                "Bu-en ami-go... Com-ido bi-en..."
             ],
             "traderbuy": [
                 "Toma cosa. ¡Ami-go me-recer!",
-                "¡Toma e-sto! Re-com-pensa...",
-                "¡Dune dar re-galo! A-mi-go ti-ene...",
+                "¡Toma co-sa! Re-com-pensa...",
+                "¡Dune dar re-galo a cam-bio! A-mi-go ti-ene...",
                 "Du-ne dar...",
-                "Dune... Da de-vuel-ta...",
+                "Dune... Da de vuel-ta...",
                 "A-migo dar... Una vez... Dune da tam-bién...",
-                "Tu... ¡Toma co-sa! Am-igo bu-eno..."
+                "Tú... ¡Toma co-sa! Am-igo bu-eno..."
             ],
             "traderbuyfail": [
                 "¡Grrrr!",
                 "¡No! Ggrhhr...",
-                "¡No! ¡Tu dar!",
-                "Grrrr... ¡Dune nece-sita co-sa!",
+                "¡No! ¡Tú dar lo tu-yo!",
+                "Grrrr... ¡Dune tam-bién nece-sita co-sa!",
                 "Du-ne no re-ga-lar... ¡Da-me a-hora!... Grrrr...",
                 "A-migo dar pri-mero..."
             ],
             "traderbuyfailmaxvalue": [
-                "¡Su-fi-ciente! ¡Ve-te a-hora!",
-                "Dune dar de-ma-siado... de-masia-do... Am-igo par-ar...",
+                "¡Da-do su-fi-ciente! ¡Ve-te a-hora!",
+                "Dune dar mu-cho... De-masia-do... Am-igo par-ar...",
                 "Dune no dar... Gran-de...",
-                "Grrr... ¡Du-ne que-dar co-sa gr-an-de! Grrrmph...",
-                "Dune que-dar... Dune ne-ce-sita... Más..."
+                "Grrr... ¡Du-ne guar-dar lo gr-an-de! Grrrmph...",
+                "Dune guar-dar... Dune ne-ce-sita... Más..."
             ],
             "traderthreatensuccess": [
-                "No ne-ce-sa-rio... Tom-a co-sa... Ma-lo...",
+                "No ne-ce-sa-rio es-fuerzo... Tom-a co-sa... Ma-lo...",
                 "Dune no com-batir... Tom-ar cos-a y ve-te... Ggrhhr...",
-                "A-migo gr-an.. ¡Ca-za-dor! Dune... Te-me... Tu to-mar...",
-                "Dune dé-bil... Dune ren... dir-se... To-ma y ve-te...",
+                "A-migo gr-an.. ¡Ca-za-dor! Dune... Te-me... Tú to-mar...",
+                "Dune más dé-bil... Dune ren... dir-se... To-ma y ve-te...",
                 "No da-ñes a Dune... To-mar co-sa... Ve-te...",
-                "Dune de-jar a-migo mal-o tom-ar cos-a... Pe-ro Dune o-diar a-mi-go..."
+                "Dune de-jar a-migo mal-vado tom-ar cos-a... Pe-ro Dune o-diar a-mi-go..."
             ],
             "traderwarning": [
                 "¡Ve-te! ¡O mor-der! ¡A-ho-ra!",
-                "Mnnnhh... La pr-esa lo pi-de...",
-                "¡Gghhrr! FU-ERA... DE A-QUI...",
-                "¡Ve-te... De aquí! Le-jos...",
+                "Mnnnhh... Pr-esa se lo bus-ca...",
+                "¡Gghhrr! FU-ERA... DE A-QUÍ...",
+                "¡Ve-te...! ¡De aquí! Le-jos...",
                 "¡Dune o-dia a-migo!",
-                "¡Dune no de-jar a-migo den-tro!... ¡Fu-era!...",
-                "¡Dune qu-ere a-migo fu-era!... ¡A-hora!..."
+                "¡Dune no de-jar a-migo en-trar!... ¡Fu-era!...",
+                "¡Dune que-rer a-migo fu-era!... ¡A-hora!..."
             ],
             "tradercombat": [
                 "¡Nggrrrrr! ¡Grrrrrrr! ¡GAAAAHHH!",
                 "¡GGHHRRAHHH!",
                 "¡GNNGHRHHRRRRR!",
-                "¡AM-IGO ARRE-PEN-TIR!",
+                "¡AM-IGO ARRE-PEN-TIR-SE DE ELEC-CIÓN!",
                 "NGGHHRRR...",
-                "¡GRRRR! DUNE ODIA!",
-                "¡NGHHRRRR... NO MAS AMI-GO!",
-                "¡DUNE O-DIA MAL AM-IGO! ¡GRRRR!",
+                "¡GRRRR! ¡DUNE ODIA!",
+                "¡NGHHRRRR... NO M-ÁS AMI-GO!",
+                "¡DUNE O-DIA AM-IGO MAL-VADO! ¡GRRRR!",
                 "¡DUNE... EN-CONTRAR... E-NE-MIGO! ¡MON-STRUO!"
             ],
             "traderhugsuccess": [
-                "Por qué a-migo to-car...",
+                "¿Por qué a-migo to-car...?",
                 "¿Qué hacer ami-go..?",
                 "¿Gnhghr..? ¿Por qué am-igo to-ca..?",
-                "¿To-car-me..? Du-ne no en-tien-de...",
+                "¿Por qué To-car..? Du-ne no en-tien-de...",
                 "Uhh... Grr... Du-ne no en-ten-der... Dune per-mitir...",
                 "A-mi-go... ¿Por qué?... Va-le...",
-                "Dune no sa-ber... Por qué am-igo... Am-igo ha-cer...",
-                "¿Dune y a-mi-go cer-ca?... Qu-e..."
+                "Dune no sa-ber... Por qué am-igo... Am-igo pu-ede ha-cer...",
+                "¿Dune y a-mi-go cer-ca?... Qu-é..."
             ],
             "traderhugfail": [
                 "¡GRRR! ¡Fuera! Ggrrn...",
@@ -5816,98 +5816,98 @@
                 "¡No! Dune no de-jar...",
                 "Dune no gus-ta a-migo cer-ca...",
                 "¡Grrr! ¡No! Ngghr...",
-                "¡Am-igo no acer-car! Grrr... Dune no gus-ta..."
+                "¡Am-igo no acer-car-se! Grrr... Dune no gus-ta..."
             ],
             "traderseegun": [
-                "¿Que te-ner a-migo..? ¡Pa-ra!",
-                "Du-ne no es-tar có-mo-do...",
-                "N-no... Dune te-me... pa-lo rui-do...",
-                "Ami-go... Dune te-mer-te... Pal-o rui-do...",
-                "¿Por qué a-migo... cosa de do-lor?...",
-                "Dune... Tem-er... cos-a de dol-or...",
-                "Por qué am-igo... Clic-boom... Dune... No gus-ta...",
-                "Dune asu-star... Efe-eme-jo?... Do-lor... No en-tend-er...",
-                "Lu-cha in-justa... Dune... No gus-ta... Ar-ma..."
+                "¿Qué te-ner a-migo..? ¡Pa-ra!",
+                "Du-ne no es-tar có-mo-do con palo-bum...",
+                "N-no... Dune te-me... pa-lo rui-doso...",
+                "Ami-go... Dune te-mer-te... Pal-o rui-doso...",
+                "¿Por qué a-migo tie-ne... cosa de do-lor?...",
+                "Dune... Tem-er... cos-a de dol-or ins-tantáneo...",
+                "Por qué am-igo tie-ne... Clic-boom... Dune... No gus-ta...",
+                "Dune te-mer... ¿Efe-eme-jota?... Do-lor... No en-tend-er...",
+                "Lu-cha-dor in-justo... Dune... No gus-ta... Ar-ma..."
             ],
             "tradermeetimpairedspeech": [
-                "Dune no enten-der... ¡Ha-blar me-jor! Am-igo no en-ten-der...",
-                "¿Que de-cir a-migo..? Voz no en-ten-der...",
-                "Dune ha-bla mal... Amig-o mal... ¡Mal mal!...",
-                "Du-ne oir ha-bla... Am-igo hab-la... mal...",
+                "Dune no enten-der... ¡Ha-blar me-jor! Am-igo no ha-blar bi-en...",
+                "¿Qué de-cir a-migo..? Voz amor-ti-gua-da...",
+                "Dune ha-blar mal... Amig-o ha-blar mal... ¡Mal mal!...",
+                "Du-ne cos-tar ha-blar... Am-igo hab-lar... mal...",
                 "Dune no ent-en-der... Te...",
-                "¡Du-ne oir con pro-blema a-migo!"
+                "¡Du-ne oír con pro-blema a-migo!"
             ],
             "traderseehurt": [
-                "Am-igo he-rido... Ngghhgrr... To-mar co-sa... Gra-tis...",
-                "¿Por qué he-rido?.. Dune dar... co-sa de vi-da... Gra-tis...",
+                "Am-igo he-rido... Ngghhgrr... To-mar co-sa pa-ra arre-glar... Gra-tis...",
+                "¿Por qué he-rido?.. Dune pu-ede... dar co-sa de vi-da... Gra-tis...",
                 "Am-igo her-ido... Dune dar co-sa a-yuda... Gra-tis...",
-                "Cuer-po de a-mi-go mal... Dune pu-ede a-yu-dar...",
+                "Cuer-po de a-mi-go mal... Dune pu-ede rega-lar a-rreglo...",
                 "Am-igo sien-te do-lor... Dune re-gala a-yuda..."
             ],
             "traderlightbreak": [
                 "¡NNGGHHRR! ¡Por qué a-migo ro-bar! ¡Ve-te! GGrrhhhhhh... ¡MALO..!",
-                "¡RRR! ¡MA-LO! ¡VE-TE FUE-RA!",
+                "¡GRRR! ¡MAL-VADO! ¡VE-TE FUE-RA!",
                 "¡MALO! Grrrr... ¡Am-igo ma-lo... Mal-o! ¡Fue-ra!",
-                "¡Dune NO VER! ¡MAL AM-IGO! VETE...FU-ERA!",
+                "¡Dune NO VER! ¡MAL AM-IGO! ¡VETE... FU-ERA!",
                 "¡A-mi-go rob-a! No a-mi-go..."
             ],
             "tradermove": [
-                "Du-ne... Mo-ver..."
+                "Du-ne... Mo-ver-se..."
             ],
             "tradermovefail": [
-                "Du-ne gus-tar si-tio..."
+                "Du-ne gus-tar es-te si-tio..."
             ],
             "vomitresponse": [
-                "Ami-go... Vomitar... ¿Sentir ma-l?"
+                "Ami-go... Vomi... tar... ¿Sentir ma-l?"
             ],
             "vomitbloodresponse": [
                 "Du-ne... Oler san-gre... De... Ami-go... ¿Ric-a..?"
             ],
             "hungryresponse": [
                 "Du-ne enten-der... ¡Dune ham-brien-to también!",
-                "Asien-te... ¡Du-ne necesitar comi-da también!"
+                "De a-cuerdo... ¡Du-ne nece-sitar comi-da también!"
             ],
             "thirstyresponse": [
-                "Du-ne beber charco... Sentir mej-or... ¿Amigo probar?",
+                "Du-ne beber charco... Sentir mej-or... ¿Ami-go probar?",
                 "Mm-m... ¿Hora de sor-bo?"
             ],
             "sadresponse": [
-                "¿Ami-go sentirse mal..? ¿Por qué?"
+                "¿Ami-go sentir-se mal..? ¿Por qué?"
             ],
             "depressedresponse": [
-                "Ami-go verse muy mal... ¡Sien-tate con du-ne!"
+                "Ami-go verse muy mal... ¡Ven a sen-tar-te con Du-ne!"
             ],
             "selfharmresponse": [
-                "¿Porque ami-go se daña? ¿Ami-go malvado?"
+                "¿Por qué ami-go he-rido? ¿Ami-go mal-vado?"
             ],
             "braindamagedresponse": [
-                "Du-ne ve igual.",
+                "Du-ne está de a-cuerdo.",
                 "¿.........?"
             ],
             "hotresponse": [
-                "¡Du-ne nunca sentir caliente! Du-ne ama caliente..."
+                "¡Du-ne nunca tener ca-lor! Du-ne ama ca-lor..."
             ],
             "coldresponse": [
-                "Du-ne asustado de fr-io... ¡Habit-ación ser ca-liente! Ami-go quedarse co-n dune..."
+                "Du-ne asus-tado de fr-ío... ¡Habit-ación ser cá-li-da! Ami-go quedar-se co-n Dune..."
             ],
             "bleedingresponse": [
-                "Ami-go estar herido. ¡Ami-go necesitar ayuda!",
-                "Ami-go oler como sangre. A du-ne gustar."
+                "Ami-go estar he-rido. ¡Ami-go nece-sitar ayu-da!",
+                "Ami-go oler a sangre. A Du-ne gustar."
             ],
             "painresponse": [
-                "¿Ami-go daño...?",
-                "Du-ne enten-der... ¡Du-ne tam-bién sentir dolor! ¿Ami-go bien?"
+                "¿Ami-go do-ler...?",
+                "Du-ne enten-der... ¡Du-ne tam-bién sentir do-lor! ¿Ami-go bien?"
             ],
             "dirtyresponse": [
-                "¿Que ser su-cio?"
+                "¿Qué ser su-cio?"
             ],
             "encumberedresponse": [
-                "¿Puede coger co-sas ami-go?",
-                "¡Du-ne poder ayudar car-ga!"
+                "¿Poder coger co-sas de ami-go?",
+                "¡Du-ne poder ali-viar car-ga!"
             ],
             "dyingresponse": [
-                "¿Qué mal con ami-go?",
-                "Du-ne no sa-ber como a-yudar..."
+                "¿Qué pa-sar a ami-go..?",
+                "Du-ne no sa-ber cómo a-yudar..."
             ]
         }
     ],
