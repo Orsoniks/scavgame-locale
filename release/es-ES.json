@@ -4164,15 +4164,15 @@
         {
             "seeGravel": [
                 "Parece que he llegado.",
-                "Nuevo suelo.",
-                "Tiempo estimado: Cero horas, cero minutos, y ahora... cero segundos.",
-                "Que novedad. Hora de irse, entonces.",
-                "No es como me lo imaginaba durante el entrenamiento.",
-                "Debo permanecer racional.",
+                "Terreno nuevo.",
+                "Tiempo estimado de llegada: Cero horas, cero minutos, y ahora... cero segundos.",
+                "Qué novedad. Hora de ponerse en marcha, entonces.",
+                "No es muy distinto de lo que imaginaba durante el entrenamiento.",
+                "Debo seguir siendo racional.",
                 "Peculiar.",
                 "Fascinante, como poco.",
                 "Un cambio de ritmo.",
-                "Parece que está oscuro aquí",
+                "Parece que está oscuro aquí.",
                 "Nuevo entorno. Curioso."
             ],
             "eatGood": [
@@ -4180,197 +4180,197 @@
                 "Esto es adecuado.",
                 "Bien.",
                 "Los perfiles de sabor son suficientemente atractivos.",
-                "No hace daño encapricharse.",
-                "Un limpiador del paladar preferible.",
-                "Esto debería bastar."
+                "No está de más darse un capricho.",
+                "Una opción preferible para limpiar el paladar.",
+                "Con esto bastará."
             ],
             "eatMediocre": [
                 "Insatisfactorio.",
                 "¿Es esto de verdad la mejor opción?",
                 "Tan entretenido como ver cómo se seca la pintura.",
                 "Qué aburrido...",
-                "Es aceptable para obtener calorías.",
+                "En cuanto a calorías, es suficiente.",
                 "No es muy inspirador.",
                 "Necesario para mis funciones corporales.",
                 "Está... bien.",
                 "Comestible.",
-                "Si sustiene mi cuerpo...",
-                "Debería mantenerme al menos."
+                "Si esto permite a mi cuerpo subsistir...",
+                "Esto al menos debería mantenerme en pie."
             ],
             "eatBad": [
                 "Qué sabor horrible. Nunca más.",
-                "Ew.",
+                "Puaj.",
                 "Repulsivo.",
                 "Terrible.",
-                "Solo un poco más preferible que el hambre.",
-                "Mi apetito está arruinado.",
-                "... si debo.",
-                "No le ha gustado a mis papilas gustativas.",
+                "Solo ligeramente preferible a la inanición.",
+                "Se me ha quitado el apetito.",
+                "... si no me queda más remedio.",
+                "No les ha gustado a mis papilas gustativas.",
                 "No es la mejor decisión culinaria.",
                 "Esto me va a hacer enfermar."
             ],
             "refuseEat": [
-                "Me niego a tener ese pensamiento.",
-                "Cosas de alimañas. No.",
-                "Preferiría pasar hambre.",
+                "Me niego a seguir esta línea de pensamiento.",
+                "Comida para alimañas. No.",
+                "Preferiría sufrir inanición.",
                 "Me niego.",
                 "He visto rocas más apetecibles que esto.",
-                "Preferiría ahogarme en mi propia saliva.",
+                "Preferiría ahogarme con mi propia saliva.",
                 "No puedo ni procesar esto.",
                 "Esto es incomestible."
             ],
             "tired": [
-                "La hora de descansar viene rápido.",
+                "La hora de descansar se acerca rápidamente.",
                 "Una siesta me mantendrá alerta.",
                 "Mi cuerpo requiere descanso.",
                 "Las reservas de energía se están agotando.",
-                "Un descanso rápido es óptimo para el rendimiento.",
+                "Un breve descanso es óptimo para el rendimiento.",
                 "Noto que me estoy cansando. Hora de un descanso.",
-                "Decansar me iría bien.",
+                "Descansar me vendrá bien.",
                 "No puedo rendir mientras estoy cansado. Necesito un descanso.",
-                "Necesito de una ubicación para descansar adecuada.",
-                "Se me va a agotar pronto la consciencia.",
+                "Preciso de una ubicación adecuada para descansar.",
+                "Pronto se me agotará la consciencia.",
                 "Requiero un lugar de descanso.",
-                "Es importante buscar un refugio en el que descansar."
+                "Es importante encontrar un refugio en el que descansar."
             ],
             "verytired": [
-                "Voy a... Colapsarme pronto... De la fátiga...",
-                "Encontrar... Lugar seguro para... colapsarme..",
-                "La consciencia... se está yendo..",
+                "Estoy... A punto de desplomarme... De fatiga...",
+                "Encontrar... Un lugar seguro para... desplomarme...",
+                "Perdiendo... la consciencia...",
                 "Necesito... acostarme un momento...",
                 "Dormir... Ahora...",
-                "Reservas de energía... bajas..",
-                "Me estoy yendo...",
-                "No puedo... Seguir... Sueño...",
-                "Perdiendo equilibrio...",
-                "Voy a colapsarme...."
+                "Reservas de energía... bajas...",
+                "Me estoy desvaneciendo...",
+                "No puedo... Seguir adelante... Dormir...",
+                "Perdiendo el equilibrio...",
+                "Voy a desplomarme..."
             ],
             "confused": [
                 "Me noto mareado.",
-                "Mis ojos tienen dificultades para concentrarse...",
-                "Odio esta confusión.",
+                "Mis ojos tienen dificultades para enfocar...",
+                "Detesto esta confusión.",
                 "Desorientación innecesaria.",
                 "Necesito concentrarme...",
-                "Mi mente está llena de estática.",
+                "Mi mente está llena de interferencias.",
                 "No puedo pensar claramente.",
                 "Mi mente no está rindiendo.",
-                "¿Qué..?"
+                "¿Qué...?"
             ],
             "wakeup": [
                 "Me despierto.",
                 "Hola, mundo.",
                 "Me levanto.",
                 "Otra vez.",
-                "Ahora qué.",
-                "Arriba y a ello",
+                "¿Ahora qué?",
+                "Arriba y a ello.",
                 "En marcha.",
                 "Completamente despierto.",
-                "La neblina mental amaina.",
+                "La niebla mental se disipa.",
                 "He descansado."
             ],
             "sick": [
-                "Estoy nauseabundo.",
+                "Tengo náuseas.",
                 "Mi estómago está en un estado de agitación.",
-                "No estoy bien.",
-                "Mi cuerpo parece estar repelido.",
+                "No me encuentro bien.",
+                "Mi cuerpo parece sentir repulsión.",
                 "Algo en mi estómago ha ido mal.",
-                "Parece que tengo náusea.",
+                "Parece que tengo náuseas.",
                 "Parece que mi cuerpo está combatiendo toxinas."
             ],
             "verysick": [
-                "Voy a... Soltar... Contenidos estomacales...",
-                "Demasiado nauseabundo... Para funcionar.",
+                "Voy a... Expulsar... El contenido estomacal...",
+                "Tengo demasiadas náuseas... Para funcionar.",
                 "Mi cuerpo... me traiciona...",
-                "Debo soltar... toxinas...",
+                "Necesito expulsar... toxinas...",
                 "Mi estómago... está luchando contra mí...",
                 "Debo... Regurgitar...",
                 "Ya llega..."
             ],
             "vomit": [
-                "Ghh... *tos* ...Vamos a seguir.",
-                "Lo que anteriormente era cena ahora yace en el suelo de aquí debajo",
-                "Agh... que desperdicio de alimentación.",
-                "Todavía puedo... saborear el vómito..",
+                "Ghh... *tos* ...Sigamos.",
+                "Lo que antes era la cena ahora yace en el suelo, aquí debajo.",
+                "Agh... qué desperdicio de sustento.",
+                "Todavía puedo... notar el sabor del vómito...",
                 "Ugh...",
                 "No es satisfactorio.",
                 "Nutrientes desperdiciados."
             ],
             "vomitblood": [
                 "Gghh... E-Eso significa un sangrado interno.",
-                "Aghhh... Sangre. Sangro. Por dentro.",
-                "Uugh... Necesito.. tratamiento.",
+                "Aghhh... Sangre. Sangrando. Por dentro.",
+                "Uugh... Necesito... tratamiento.",
                 "Mi vómito... *tos* ...sabe a metal.",
-                "P-Parece... que he regurgitado sangre..",
+                "P-Parece... que he regurgitado sangre...",
                 "No es ideal.",
-                "Ghck... Un signo de una condición subyacente."
+                "Ghck... Un signo de una afección subyacente."
             ],
             "full": [
                 "Estoy completamente saciado.",
-                "No requiero de más sustento en estos momentos.",
-                "Esto me mantendrá durante un rato.",
+                "No requiero más sustento por ahora.",
+                "Con esto aguantaré un tiempo.",
                 "Mi ingesta calórica es suficiente.",
                 "Adecuadamente alimentado.",
-                "Esto está por encima de la recomendación calórica."
+                "Esto supera con creces la ingesta calórica normal."
             ],
             "hungry": [
                 "Requiero sustento.",
                 "Estoy hambriento.",
-                "Parece que requiero alimentación.",
+                "Parece que requiero alimento.",
                 "Estoy salivando.",
                 "Requiero nutrientes.",
-                "Necesito tener ingesta energética.",
+                "Necesito una ingesta energética.",
                 "Comida requerida."
             ],
             "starving": [
-                "Requiero de sustento urgentemente...",
-                "Esto es un hambre doloroso y ardiente.",
+                "Requiero sustento urgentemente...",
+                "Es un hambre dolorosa y ardiente.",
                 "Necesito comida para concentrarme...",
-                "Estómago... Llorando...",
+                "Estómago... Quejándose...",
                 "Inanición inminente.",
-                "Sustento...Necesario...",
-                "La comida es crítica para la supervivencia."
+                "Sustento... Necesario...",
+                "La comida es crucial para la supervivencia."
             ],
             "thirsty": [
-                "Requiero de hidratación.",
+                "Requiero hidratación.",
                 "Debería consumir agua.",
-                "La hidratación sería óptima.",
-                "Mi garganta se nota inusualmente seca. Veredicto: Hidratación pobre.",
-                "Sería una buena idea preparar la ración de agua diaria antes de tiempo.",
+                "Hidratarme sería lo óptimo.",
+                "Noto la garganta inusualmente seca. Veredicto: Hidratación insuficiente.",
+                "Sería prudente preparar con antelación la ración de agua del día.",
                 "Requiero agua.",
                 "Agua requerida."
             ],
             "dehydrated": [
-                "Estoy totalmente deshidratado.",
-                "Me estoy volviendo peligrosamente seco por dentro.",
+                "Estoy bastante deshidratado.",
+                "Me estoy secando peligrosamente por dentro.",
                 "No debería estar racionando agua...",
                 "Creo que el contenido de agua de mi cuerpo... está agotado.",
                 "Necesito... reponer... líquidos...",
-                "La situación necesita... hidratación...",
+                "La situación exige... hidratación...",
                 "Deshidratación...",
                 "Urgentemente... Agua.",
                 "La desecación es... una forma patética... de morir...",
-                "La ingesta de fluidos es crítica para la supervivencia continua..."
+                "La ingesta de líquidos es crucial para seguir con vida..."
             ],
             "limbmuscle": [
-                "Mi <limb> está en un estado inmóvil.",
+                "Mi <limb> está en un estado de inmovilidad.",
                 "Hrrr... Hmmh... No soy capaz de usar mi <limb>.",
-                "Debería cuidar de mi <limb>.",
+                "Debo cuidar de mi <limb>.",
                 "No puedo utilizar mi <limb>.",
-                "Mi <limb> tiene una sensación de hormigueo.",
-                "Me he dañado mi <limb> bastante mal.",
-                "Debería cuidar mejor de mí mismo.",
-                "Debería aliviar mi <limb>."
+                "Noto hormigueo en mi <limb>.",
+                "He sufrido una lesión grave en mi <limb>.",
+                "Debo cuidarme mejor.",
+                "Debo atender mi <limb>."
             ],
             "limbinfected": [
                 "Mi <limb> parece alojar una infección.",
                 "Mi <limb> se ha hinchado de forma preocupante.",
-                "Mi <limb> requiere de desinfección urgente.",
+                "Mi <limb> requiere desinfección urgente.",
                 "La lesión en mi <limb> crece.",
-                "Veo infección en mi <limb>.",
-                "He cogido una enfermedad.",
-                "Mi <limb> tiene hinchazón.",
-                "Mi <limb> tiene infección.",
-                "Mi <limb> se está volviendo de un color preocupante.",
+                "Veo una infección en mi <limb>.",
+                "He contraído una enfermedad.",
+                "Mi <limb> presenta hinchazón.",
+                "Mi <limb> tiene una infección.",
+                "Mi <limb> está adquiriendo un color preocupante.",
                 "Se ven manchas raras en mi <limb>.",
                 "Infectado."
             ],
@@ -4381,110 +4381,110 @@
                 "Tengo una herida en mi <limb>.",
                 "Estoy herido.",
                 "Mi <limb> tiene una herida.",
-                "Estoy cubierto en sangre.",
+                "Estoy cubierto de sangre.",
                 "Puedo ver la carne en mi <limb>.",
                 "Hay carne expuesta en mi cuerpo."
             ],
             "sad": [
-                "Vamos a irnos ya.",
-                "Tengo algunas preocupaciones sobre este predicamento.",
+                "Vamos de una vez.",
+                "Tengo algunas inquietudes sobre esta difícil situación.",
                 "Podría ser peor.",
                 "Debo seguir.",
-                "Las he pasado peores.",
+                "He pasado por situaciones mucho peores.",
                 "Hm.",
                 "Hmmm.",
                 "Mm.",
-                "Que día tan interesante.",
-                "Este entorno promociona el aislamiento social.",
+                "Qué día tan interesante.",
+                "Este entorno favorece el aislamiento social.",
                 "Respira.",
                 "Todo está yendo bien.",
-                "Que estupendo.",
+                "Qué estupendo.",
                 "Es mi día de suerte."
             ],
             "gloomy": [
                 "Se me está acabando la suerte.",
-                "Debo mantener mi barbilla alta.",
+                "No debo desanimarme.",
                 "No es mi día de suerte.",
                 "Tengo miedo.",
                 "Me estoy cansando de estos juegos.",
-                "Un mal predicamiento.",
+                "Una situación difícil.",
                 "Una situación que empeora rápidamente.",
-                "Debo mejorarlo.",
+                "Debo mejorar esto.",
                 "Mi paciencia se está poniendo a prueba.",
                 "Descontento.",
-                "No puedo abandonar mi objetivo",
+                "No puedo abandonar mi objetivo.",
                 "Necesito entretenimiento...",
-                "Baja moral.",
+                "Moral baja.",
                 "Qué destino tan solitario.",
                 "H-hhnnmm...",
                 "Eh.",
-                "Pensando sobre este predicamento...",
+                "Pensando en esta difícil situación...",
                 "Sigue.",
-                "Simplemente sigue.",
+                "Tan solo sigue.",
                 "Creo que unos antidepresivos mejorarían mi situación.",
                 "Necesito ayuda. Parece que he sobreestimado mi resiliencia."
             ],
             "depressed": [
-                "Se... vuelve... Más difícil... Mantener la compostura.",
+                "Se está... Volviendo... Cada vez más difícil... Mantener la compostura.",
                 "..................",
-                "Cuesta soportar todo este abuso.",
+                "Me cuesta soportar este castigo.",
                 "Qué castigo tan cruel e injusto.",
-                "Me cuesta ver el sentido.",
-                "Deseo que todo esto parase.",
+                "Me cuesta verle sentido a esto.",
+                "Deseo que todo esto pare.",
                 "Deseo algo que alivie mi malestar.",
                 "Sufriendo.",
                 "Moral peligrosamente baja.",
                 "...Soy patético, ¿no?",
                 "...Ayuda...",
                 "Cruel.",
-                "He sido enviado a mi muerte.",
-                "Los enbatados pagarán por este mal trato.",
+                "Me han enviado a morir.",
+                "Los de las batas pagarán por este maltrato.",
                 "Estas cuevas me están destrozando.",
                 "Hhn..Hnnghh..Hnnghhhggaaaahhrhh...",
                 "Hhnnhh..Aaahahahahhh...Gngnhh...",
-                "Está poniendose difícil mantener las apariencias.",
-                "Me siento terrible.",
-                "No estoy bien mentalmente.",
+                "Está resultando difícil mantener las apariencias.",
+                "Me siento fatal.",
+                "No me encuentro mentalmente bien.",
                 "No creo que sobreviva para ver el objetivo.",
                 "Mis posibilidades de supervivencia están menguando.",
                 "Esta es mi vida ahora."
             ],
             "miserable": [
                 "...Por favor, por favor, deseo que un poder superior me salve.",
-                "Haaahh... Hahaha.... Ahhh-ahaha-haaa...",
+                "Haaahh... Jajaja.... Ahhh-jajaja-jaaa...",
                 "No tiene sentido. No tiene sentido.",
-                "Estoy por encima de todos los límites razonables.",
+                "He sobrepasado todos los límites razonables.",
                 "Estoy. A nada.",
                 "¡¡¡PARA!!!",
                 "¿¿¡POR QUÉ!??",
                 "¡¡¡¡AAAGGHHHHHHH!!!! ¡¡¡¡¡AAAAHHHHHHHHH!!!!!",
                 "...Matadme.",
-                "Las posibilidades de que salga vivo son nulas.",
+                "Las posibilidades de que salga vivo de aquí son nulas.",
                 "He fallado.",
                 "Pagaré con mi vida por este fracaso.",
-                "Los enbatados no se saldrán con esto.",
-                "Soy demasiado patético como para tener éxito.",
+                "Los de las batas no se saldrán con la suya.",
+                "Soy demasiado patético para tener éxito.",
                 "Sólo un saco de carne con sangre y huesos...",
                 "Qué broma tan cruel y falta de gracia...",
                 "Haced que pare...",
                 "Me rindo.",
-                "Heeermooooso. Hermoso.",
+                "Maraaavilloooso. Maravilloso.",
                 "Se acabará todo pronto.",
                 "Perecí en el momento en el que llegué.",
-                "Me equivoqué. No puedo cumplir.",
-                "Esto es lo que consigo..."
+                "Me equivoqué... No puedo lograrlo.",
+                "Esto es lo que me toca..."
             ],
             "angeronitem": [
-                "¡NGH!  Hmmh... Eso se siente un poco mejor.",
-                "¡GHH! ...Eso se sintió... Sorprendentemente bien."
+                "¡ARGH!  Hmmh... Eso sí me hace sentir un poco mejor.",
+                "¡GHH! ...Eso me ha sentado... Sorprendentemente bien."
             ],
             "suicide": [
-                "No. Puedo. Más. Cambio.",
+                "No puedo. Soportar esto. Más. Se acabó.",
                 "¡¡¡¡¡AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! ¡¡¡¡¡¡¡AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! ¿¿¿¡¡¡PPPOOOR QUUUUUUUUÉÉÉÉÉÉÉÉÉÉÉÉÉ!!!???",
-                "Esto es todo. He acabado.",
-                "Que le jodan a esto.",
+                "Se acabó. No puedo más.",
+                "A la mierda con esto.",
                 "...",
-                "Lo siento."
+                "Mis disculpas."
             ],
             "refuse": [
                 "...",
@@ -4499,166 +4499,166 @@
                 "...",
                 "...",
                 "...",
-                "Es bastante...",
+                "Desde luego...",
                 "Hmm...",
                 "...Espera."
             ],
             "bleeding": [
-                "La sangre está dejando mi cuerpo. No debería estar haciendo eso.",
+                "La sangre está abandonando mi cuerpo. No debería estar haciendo eso.",
                 "Debo contener este sangrado.",
                 "Debo cauterizar esta herida.",
                 "Esta herida requiere atención urgente.",
                 "Estoy perdiendo sangre.",
-                "Qué bonito matiz amarillo.",
+                "Qué bonito tono de amarillo.",
                 "¡No! ¡Mala! ¡Quédate dentro, sangre!",
-                "Requiero vendaje.",
-                "Eso es sangre, saliendo de mi cuerpo.",
+                "Requiero un vendaje.",
+                "Eso es sangre que se escapa de mi cuerpo.",
                 "Estoy sangrando.",
                 "Requiero asistencia.",
-                "La sangre está saliendo de mi cuerpo a una tasa preocupante."
+                "La sangre está saliendo de mi cuerpo a un ritmo preocupante."
             ],
             "bleedingheavy": [
                 "Hh... hmm. Hhhmh... E-esto es malo. De-debo arreglarlo. Rápido.",
-                "Concentración. Concentración. Concentración. Concentración. Concentración.",
+                "Concéntrate. Concéntrate. Concéntrate. Concéntrate. Concéntrate.",
                 "Sangrado catastrófico presente.",
-                "(Nada de pánico...)",
+                "(Que no cunda el pánico...)",
                 "Hnnhhh... Hhnm...",
-                "(Esto es malo.)",
+                "(Esto tiene mala pinta.)",
                 "¡¡AYUDA!!",
                 "Qué a-asombroso.",
                 "No hay nadie para arreglar esto salvo yo mismo.",
                 "Soy el único que puede salvarme.",
-                "Debo contener esta herida, ¡RÁPIDO!",
+                "Debo contener esta fuga, ¡RÁPIDO!",
                 "Ghh... Esto no es ideal.",
                 "Malo... Malo. ¡Malo!",
-                "Menuda vista tan h-horroizante...",
+                "Qué visión tan a-aterradora...",
                 "Estoy pintando las paredes de amarillo.",
-                "Mi visión se devanece lentamente."
+                "Mi visión se desvanece lentamente."
             ],
             "steponglass": [
                 "Estoy terriblemente decepcionado con mi falta de cuidado.",
-                "Había mil maneras de evitar que esto pasase, pero aún así un trozo de cristal ha logrado encontrarse con mi pata.",
+                "Había mil maneras de evitar que esto pasase, pero aun así un fragmento de cristal ha logrado incrustarse en mi pata.",
                 "Au.",
-                "Eso ha sido un mal cálculo por mi parte.",
-                "¿Por qué demonios no templarían las ventanas?",
-                "Trozos de cristal en mis pies.",
-                "Debo limpiar los trozos."
+                "Eso ha sido un error de cálculo por mi parte.",
+                "¿Por qué demonios no templaron las ventanas?",
+                "Fragmentos de cristal en mis patas.",
+                "Debo retirar los fragmentos."
             ],
             "seecorpse": [
                 "Mejor tú que yo.",
                 "...Hmh.",
                 "Esto es una escena preocupante.",
                 "...Tal vez la RCP pudiese ayudar.",
-                "Este es... Ah.",
-                "Qué desafortunado.",
-                "No es la mejor escena.",
+                "Este está... Ah.",
+                "Qué mala suerte.",
+                "No es muy agradable de ver.",
                 "Qué escena tan triste.",
                 "Desmotivador.",
-                "*fruñido*",
+                "*frunce el ceño*",
                 "*suspiro*",
                 "No debería tocarlo.",
-                "Tal vez dejó algo para que lo use.",
+                "Tal vez haya dejado algo que pueda utilizar.",
                 "No hay pulso.",
                 "No respira.",
                 "Hhnh...",
                 "Perturbador.",
                 "Maldita sea.",
-                "¡Argh, idiota estúpido! ¿¡Cómo pudieste morir!? ¿Por qué?",
+                "¡Argh, estúpido idiota! ¿¡Cómo has podido morir!? ¿Por qué?",
                 "Esto es un cadáver.",
                 "...",
                 "No tiene gracia."
             ],
             "seecorpsedesensitized": [
                 "Un nuevo amigo.",
-                "Hay tantos aquí abajo. Esto es completamente inaceptable. Lo voy a comentar a mis superiores.",
+                "Hay tantos aquí abajo. Esto es completamente inaceptable. Se lo comentaré a mis superiores.",
                 "Botín.",
-                "La RCP no ayudará aquí.",
+                "La RCP no ayudará en este caso.",
                 "Guau, mira, otro.",
                 "Qué espécimen tan desafortunado.",
-                "Menuda novedad...Otro.",
-                "Pobre cosa.",
-                "No vas a necesitar eso más.",
+                "Menuda novedad... Otro.",
+                "Pobre criatura.",
+                "No vas a necesitar eso. Ya no.",
                 "El que se lo encuentra se lo queda.",
                 "Gusano.",
                 "Y otro.",
                 "Otro más que muerde el polvo.",
-                "Me imagino que deberá haber dolido.",
-                "Que mala suerte que no los estuviese contando.",
-                "No disfrutaron de su estancia.",
-                "Estoy pensando sobre funerales.",
+                "Imagino que eso debe de haber dolido.",
+                "Es una lástima que no los haya contado.",
+                "No disfrutó de su estancia.",
+                "Estoy pensando en funerales.",
                 "¿Tienes algo?",
-                "¡Hola! ¿Podemos intercambiar?",
+                "¡Hola! ¿Podemos intercambiar cosas?",
                 "Debo seguir.",
                 "La escena aburre.",
                 "Saludos.",
-                "Qué generosidad que tienes.",
-                "Puedo usar este aire mejor.",
-                "Qué insanitario.",
-                "Qué irrespetuoso de tu parte al perecer.",
-                "Debilucho.",
-                "*ojos en blanco*"
+                "Cuánta generosidad de tu parte. ",
+                "Puedo aprovechar mejor este aire.",
+                "Qué antihigiénico.",
+                "Qué falta de respeto por tu parte haber perecido.",
+                "Enclenque.",
+                "*pone los ojos en blanco*"
             ],
             "seecorpsesuicidal": [
                 "No mires. No mires...",
-                "Tienes un buen argumento.",
-                "Ni pienses sobre ello...",
+                "Presentas un buen argumento.",
+                "Ni siquiera lo pienses...",
                 "Qué suerte...",
                 "Te envidio.",
-                "Hh... Haha...",
+                "Eh... Jaja...",
                 "Nhhh... Hmmhh... Amigo...",
                 "T-tonto."
             ],
             "breakcorpse": [
-                "Qué acto tan terrible y disgustante que acabo de hacer.",
+                "Qué acto tan terrible y repugnante acabo de cometer.",
                 "Me cuesta encontrar sentido a lo que acabo de hacer.",
-                "Ew. Ew, ew, ew ew, Ew.",
-                "Creo que se me ha quedado algo de ese en mi ojo.",
+                "Puaj. Puaj, puaj, puaj puaj, Puaj.",
+                "Creo que me acaba de entrar algo de eso en el ojo.",
                 "Eso fue innecesario.",
-                "Guag. Qué disgustante por mi parte."
+                "Guau. Qué asqueroso he sido."
             ],
             "cold": [
                 "Frío.",
                 "Mi temperatura corporal está por debajo de la media.",
                 "La temperatura ambiental está por debajo de lo normal.",
                 "*temblor*",
-                "Estoy frío.",
+                "Tengo frío.",
                 "Puede que entre en un estado hipotérmico si esto continúa.",
                 "No tengo calor en mi cuerpo.",
-                "Debería mantenerme a una temperatura adecuada.",
-                "Se está un poco fría en este área."
+                "Debería mantenerme a una temperatura agradable.",
+                "Hace un poco de frío en esta zona."
             ],
             "warm": [
-                "Caliente.",
+                "Calor.",
                 "Mi temperatura corporal está por encima de la media.",
                 "Estoy sudando.",
-                "Debo enfriarme.",
-                "Un paquete de hielo sería de ayuda.",
-                "Estoy demasiado acalorado para mi comodidad.",
-                "Estoy caliente.",
-                "Se está un poco caliente.",
+                "Debo refrescarme.",
+                "Una bolsa de hielo resultaría útil.",
+                "Tengo demasiado calor para estar cómodo.",
+                "Tengo calor.",
+                "Hace un poco de calor.",
                 "La temperatura ambiental es alta."
             ],
             "hot": [
-                "Estoy muy caliente.",
-                "...Caliente. Muy. Caliente.",
+                "Tengo mucho calor.",
+                "...Calor. Mucho. Calor.",
                 "Puede que sufra un golpe de calor a este ritmo...",
                 "Estoy peligrosamente hipertérmico...",
-                "Se viene... Golpe de calor.",
+                "Se aproxima... Un golpe de calor.",
                 "Es difícil concentrarse con este calor.",
-                "Peligrosamente caliente...",
+                "Temperatura peligrosamente alta...",
                 "Sudar no basta para corregir esto...",
                 "Calor mareante.",
-                "Estoy sudando balas."
+                "Estoy sudando a chorros."
             ],
             "exerted": [
                 "Preferiría descansar.",
                 "Un ejercicio saludable.",
-                "No estoy apto para el ejercicio físico.",
-                "Esto es agotador.",
+                "No soy apto para el trabajo físico.",
+                "Esto cansa.",
                 "Debería parar.",
                 "Un descanso sería preferible.",
                 "Menudo trabajo físico.",
-                "Agotado.",
+                "Fatigado.",
                 "Concéntrate."
             ],
             "exhausted": [
@@ -4669,25 +4669,25 @@
                 "Necesito... Respirar...",
                 "Agotado...",
                 "Es... Difícil... respirar...",
-                "*tose* *tose*",
-                "Mis músculoss... Se están... Rindiendo...",
-                "Concentración..."
+                "*tos* *tos*",
+                "Mis músculos... Están... Fallando...",
+                "Concéntrate..."
             ],
             "freezing": [
-                "Estoy peligrosamante hipotérmico.",
+                "Estoy peligrosamente hipotérmico.",
                 "Debo calentarme, rápido.",
                 "Mi sangre se está congelando.",
                 "Se necesita una fuente de calor...",
                 "Estoy temblando.",
-                "Necesito ir a por calor, ahora.",
+                "Necesito llegar a un lugar cálido, ahora.",
                 "Me estoy congelando.",
                 "Demasiado frío. Duele.",
-                "Que frío tan entumecedor...",
+                "Me estoy entumeciendo de tanto frío...",
                 "No puedo sentir mis extremidades."
             ],
             "emaciated": [
-                "Mi figura es peligrosamente frágil.",
-                "Estoy bajo riesgo de un fallo cardíaco. Debo incrementar mi masa corporal.",
+                "Mi cuerpo está peligrosamente frágil.",
+                "Corro el riesgo de sufrir insuficiencia cardíaca. Debo incrementar mi masa corporal.",
                 "Estoy extremadamente malnutrido.",
                 "Debo ajustar mi dieta."
             ],
@@ -4695,19 +4695,19 @@
                 "Debería ayunar.",
                 "...Estoy hinchado.",
                 "Debo bajar mi masa corporal antes de que se vuelva letal.",
-                "Mi contorno está demostrando ser un problema.",
-                "Soy pesado."
+                "Mi perímetro corporal está resultando un problema.",
+                "Peso mucho."
             ],
             "opiated": [
-                "Estoy bajo la influencia de una sustancia opioide.",
-                "Mm...Mmmmmm...Mareante.",
-                "Esto se siente... Bueno. Bien.",
+                "Estoy bajo la influencia de una sustancia a base de opioides.",
+                "Mm...Mmmmmm...Mareado.",
+                "Esto me sienta... Bueno. Bien.",
                 "Suficiente...",
                 "Qué sensación tan cosquilleante.",
                 "Es difícil concentrarse, pero lo disfruto.",
                 "Disfruto de esto.",
-                "Hay deprimentes en mi sistema.",
-                "Mis pulmones pesan."
+                "Hay sustancias depresoras en mi organismo.",
+                "Me pesan los pulmones."
             ],
             "opiatedsad": [
                 "Una sensación agradable y efímera...",
@@ -4717,33 +4717,33 @@
             ],
             "opiatewithdrawal": [
                 "N-Necesito otra dosis de opio, urgentemente.",
-                "E-estoy experienciando s-síntomas de abstinencia.",
+                "E-estoy experimentando síntomas de a-abstinencia.",
                 "Mis m-manos están te-temblando.",
                 "A-abstinenci-cia.",
                 "Ne-necesito más opioides.",
                 "Temblando."
             ],
             "cantBreathe": [
-                "*tose* *ack*",
+                "*tos* *ack*",
                 "Hnnh... Nggh... A-ayuda... N-No puedo...",
-                "*suspiro*",
-                "V-voy a... Colapsarme...",
-                "No puedo... *tose* *hack*",
-                "Ayuda ¡Ack! ¡Egh!",
-                "S-sofocándome... *tose*",
+                "*jadeo*",
+                "V-voy... A... Desmayarme...",
+                "No puedo... *tos* *tos áspera*",
+                "Ayuda- ¡Ack! *¡Tos!*",
+                "M-me asfixio... *tos*",
                 "Soy incapaz de respirar."
             ],
             "pain": [
-                "Estoy bajo dolor.",
+                "Siento dolor.",
                 "Au.",
                 "Mi <limb> está enviando estímulos de dolor.",
                 "Dolor.",
-                "Siento malestar alrededor de mi <limb>.",
-                "Mi <limb> está bajo dolor.",
-                "Esto se siente mal.",
-                "Mi <limb> pica.",
+                "Siento molestias por la zona de mi <limb>.",
+                "Mi <limb> me duele.",
+                "Es una sensación desagradable.",
+                "Noto dolor en mi <limb>.",
                 "Hay estímulos de dolor presentes.",
-                "Malidción.",
+                "Maldición.",
                 "Au...",
                 "*suspiro*",
                 "Sensación desagradable en mi <limb>."
@@ -4752,19 +4752,19 @@
                 "¡Augh!",
                 "¡Argh!",
                 "¡Hnnnh!",
-                "¡Hnnnh!",
+                "¡...!",
                 "¡Gnh!",
                 "Ups."
             ],
             "bigpain": [
                 "NNNHH...",
                 ".....NGHH....",
-                "...A-Agon-nía",
+                "...A-Agon-nía...",
                 "N...Nhhh...Ghhh...",
                 "H..Mhhh...Hhh..¡A-ayu-da..!",
                 "Grrrh...",
-                "¡¡PARADLO!!",
-                "¡CESAD!",
+                "¡¡PARA!!",
+                "¡CESA!",
                 "¡¡JODER!!",
                 "Nhhggggghhh... Urrgghh...",
                 "Hgnnhh.... Ggrrrhh...",
@@ -4778,71 +4778,71 @@
                 "¡..!",
                 "¡Hhhh!",
                 "¡Ahh!",
-                "Guau.",
+                "Vaya.",
                 "Oh.",
                 "Esto no puede ser bueno."
             ],
             "hitbycreature": [
-                "¡¡Maldita criatura!!",
+                "¡¡Maldito bicho!!",
                 "¡AGH! ¡Tú!",
-                "¡Hngh! ¡Para!",
-                "*suspiro*",
-                "¡Hhhnn! ¡No, no lo vas a hacer!",
+                "¡Hngh! ¡Cesa!",
+                "*jadeo*",
+                "¡Hhhnn! ¡No, ni hablar!",
                 "¡Pedazo de...!",
-                "¡Molesto!"
+                "¡Qué fastidio!"
             ],
             "wet": [
-                "Mi pelaje tiene alto contenido de agua.",
-                "Soy el húmedo.",
+                "Mi pelaje tiene un alto contenido de agua.",
+                "Soy el que está húmedo.",
                 "Estoy mojado.",
-                "Hay una sensación incómoda alrededor de mi cuerpo.",
-                "Mi pelaje se ha vuelo mojado.",
-                "Se ha acumulado humedad en mí.",
-                "He recogido humedad en mi superficie corporal.",
+                "Noto una sensación incómoda por el cuerpo.",
+                "Mi pelaje se ha mojado.",
+                "Se me ha acumulado humedad.",
+                "He acumulado humedad en mi superficie corporal.",
                 "Estoy empapado.",
-                "Por favor eliminad este fluido de la superficie de mi cuerpo.",
-                "Estoy cubierto en líquido."
+                "Por favor, elimina este fluido de la superficie de mi cuerpo.",
+                "Estoy cubierto de líquido."
             ],
             "dirty": [
                 "Debo limpiarme para evitar complicaciones.",
-                "Estoy sucio. No me gusta verme en este estado.",
-                "Ew. Estoy sucio. No debería presentarme al resto así.",
-                "Debería quitarme esta suciedad de mí.",
+                "Estoy mugriento. No me gusta verme en este estado.",
+                "Puaj. Estoy sucio. No debería presentarme así ante los demás.",
+                "Debería quitarme esta suciedad.",
                 "Higiene subóptima.",
-                "Parece que estoy cubierto en suciedad.",
+                "Parece que estoy cubierto de mugre.",
                 "Me gustaría usar una ducha.",
-                "Sería ideal tomarse un baño.",
+                "Sería ideal darme un baño.",
                 "Esto no puede ser higiénico.",
-                "Mi pelaje está cubierto en barro."
+                "Mi pelaje está cubierto de suciedad."
             ],
             "encumbered": [
-                "Mis capacidades físicas limitadas se están notando.",
-                "¿Vamos de escalada? ¿Por qué llevo tanto?",
-                "Estoy seguro de que estos objetos serán útiles para llegar a mi objetivo... Pero son pesados.",
+                "Mis limitadas capacidades físicas se están notando.",
+                "¿Acaso vamos de excursión? ¿Por qué llevo tanto?",
+                "Estoy seguro de que estos objetos serán útiles para alcanzar mi objetivo... Pero son pesados.",
                 "Esta carga es muy pesada.",
                 "No debería llevar tanto.",
-                "Estoy llevando muchísimo.",
-                "Menuda carga pesada que llevo.",
-                "A mi columna vertebral no le gusta esto.",
-                "Parece que estoy un poco sobrecargado."
+                "Llevo mucho encima.",
+                "Menuda carga tan pesada llevo.",
+                "A mi columna vertebral no le está gustando esto.",
+                "Parece que voy un poco sobrecargado."
             ],
             "watchlike": [
-                "Está dando pitidos a mi oido como hacen los Experiments. Lo considero cautivador."
+                "Me zumba en el oído, como hacen los Experiment. Lo considero encantador."
             ],
             "drillend": [
-                "Desciendo más cerca del objetivo.",
-                "Puede que haya sufrido pérdida auditiva leve por eso.",
-                "Debo tener cuidado ahora. Este es un área nueva y desconocida.",
+                "Desciendo cada vez más cerca del objetivo.",
+                "Puede que haya sufrido una leve pérdida auditiva por eso.",
+                "Debo tener cuidado a partir de ahora. Esta es un área nueva y desconocida.",
                 "Esto es un buen método de transporte."
             ],
             "loud": [
                 "¡Hnnng! Hmhn... Debo evitar una exposición repetida a ruidos tan fuertes...",
-                "¡¡¡AAHHHHH!!! ...No debería haber gritado por una ocurrencia tan común.",
+                "¡¡¡AAHHHHH!!! ...No debería haber gritado por un suceso tan trivial.",
                 "¡!.......",
                 "...Mis oídos."
             ],
             "murderregret": [
-                "....H..Hah... Haha... Ha... Hahaha... Ahhahaha.... Hahhh... H-h..a...",
+                "....J..Ja... Jaja... Ja... Jajaja... Ajajaja.... Jahhh... J-j..a...",
                 "Soy un monstruo irredimible. Estoy avergonzado.",
                 "Lo... Siento.",
                 "No era... Mi intención... "
@@ -4850,31 +4850,31 @@
             "tradeemeet": [
                 "Saludos.",
                 "Hola.",
-                "Boo.",
+                "Bu.",
                 "Un placer conocerte.",
                 "Buenas.",
-                "Saludos a ti."
+                "Saludos."
             ],
             "swingresponse": [
-                "¡DÉJALO!",
+                "DEJA. ¡ESO!",
                 "¡PARA!",
                 "¡IMBÉCIL!",
                 "¡TROGLODITA!",
                 "¡DEJA DE RESISTIRTE!",
                 "¡MUÉRETE YA!",
-                "¡DEJALO!"
+                "¡RÍNDETE!"
             ],
             "braindamaged": [
                 "...Algo está mal.",
                 "Sabor... Metálico. Implica... Hmh...",
                 "Axun si mi vi zi othokent xiekiv si hefoc kemic.",
-                "La vidriera tenía tiras de amarillo, naranja y rojo.",
+                "La vidriera tenía finas tiras de amarillo, naranja y rojo.",
                 "La nada ve el sol.",
                 "La gasolina dispara piñas con una ametralladora.",
                 "La luz al final del túnel ve su mundo sacudido por árboles.",
                 "Algo va mal con mi cráneo.",
                 "Hay un sabor metálico en mi boca.",
-                "Mi cabeza se nota rara.",
+                "Noto la cabeza rara.",
                 "Estoy roto.",
                 "¿Quién es Joe...?"
             ],
@@ -4882,36 +4882,36 @@
                 "Hnnh... Hmmnnhhh... No pinta... Bien...",
                 "Yo...Hhhuh...",
                 "Esto... Es s-subóptimo...",
-                "¡CONCENTRACIÓN!",
-                "Nhh... No es... Ideal..",
+                "¡CONCÉNTRATE!",
+                "Nhh... No es... Ideal...",
                 "No quiero... morir...",
                 "Necesito... Ayuda... Por favor...",
-                "Así... Nh... Así no...",
+                "No... Nh... Así no...",
                 "Salvadme.",
                 "H-h... Nhhh... hnnh... Ghhh...",
                 "De-deseo... Se-seguir... Viviendo...",
                 "No estoy l-listo."
             ],
             "magicheal": [
-                "¡¡¡Hh!!!....Eh. Mm. Creo que eso no hizo daño.",
-                "¿Qué... Fue eso?",
+                "¡¡¡Hh!!!....Eh. Mm. Creo que eso no me hizo daño.",
+                "¿Qué... fue eso?",
                 "Fascinante."
             ],
             "selfdestruct": [
-                "Oh, oh, por qué, qué, ¿¡POR QUÉ!? ¡PARADLO! ¡NO ME MEREZCO ESTO! ¡CABRONES ENBATADOS!",
+                "Oh, oh, por qué, qué, ¿¡POR QUÉ!? ¡PARADLO! ¡NO ME MEREZCO ESTO! ¡GILIPOLLAS CON BATA!",
                 "Hola, pitido. ¿Qué podría significar esto?"
             ],
             "endlessloop0": [
-                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... V-vale. No.. no es. Lo que. Me. E-esperaba. Debo haber hecho algo mal. V-volveré e intentaré otra vez."
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... V-vale. No... N-no es. Lo que. Me e-esperaba. Debo haber hecho algo mal. V-volveré y lo intentaré otra vez."
             ],
             "endlessloop1": [
-                "Esto no va según el plan. ¡Maldición! ¿¡Qué demonios querían los embatados que hiciese!? Qué pérdida de tiempo y energía."
+                "Esto no va según el plan. ¡Maldición! ¿¡Qué demonios querían los de las batas que hiciese!? Qué pérdida de tiempo y energía."
             ],
             "endlessloop2": [
-                "...Qué resultado tan d-deprimente. Está misión está destinada al fracaso."
+                "...Qué resultado tan d-deprimente. Esta misión está destinada al fracaso."
             ],
             "endlessloop3": [
-                "Esto está fuera de mi control. Qué prueba de paciencia. Frustrante. Tan, tan intensamente frustrante. Siempre fuera de alcance."
+                "Esto me supera por completo. Qué prueba de paciencia. Frustrante. Tan, tan intensamente frustrante. Siempre justo fuera de mi alcance."
             ],
             "endlessloopdefault": [
                 "......*suspiro*"
@@ -4920,28 +4920,28 @@
                 "Saludos.",
                 "Hola.",
                 "Un placer conocerte.",
-                "¡Ah! ¡Hola! ¿Qué tal?",
-                "Buenas, aventurero.",
-                "Buenasss.",
+                "¡Ah! ¡Hola!",
+                "Bienvenido, compañero viajero.",
+                "Saludos.",
                 "Bienvenido.",
                 "¡Encantado de conocerte!",
-                "Espero que estés bien."
+                "Espero que todo esté bien."
             ],
             "tradermeetgood": [
-                "Me siento honrado de ver a otro superviviente.",
+                "Me siento honrado de encontrarme con otro superviviente.",
                 "¡Oh! ¡Hola! ¿Qué tal estás, amigo?",
-                "Saludos, estimado. ¿Que tal estás?",
-                "¡Ah! Saludos. ¡Te ves muy alegre!",
-                "¡Ah, estoy muy feliz de ver a alguien como tu!"
+                "Saludos, querido. ¿Qué tal estás?",
+                "¡Ah! Saludos. ¡Te veo muy alegre!",
+                "¡Ah, cuánto me alegra ver a alguien como tú!"
             ],
             "tradermeetbad": [
                 "...No estoy impresionado.",
                 "Ough. Hola...",
-                "...Me confundes. Buenas.",
+                "...Me desconciertas. Saludos.",
                 "...Hola.",
-                "Buenas. Por favor, evita tocarme.",
-                "Hola, superviviente.",
-                "Buenas. Por favor, usa la puerta la próxima vez.",
+                "Saludos. Por favor, abstente de tocarme.",
+                "Hola, compañero superviviente.",
+                "Saludos. Por favor, usa la puerta la próxima vez.",
                 "Bienvenido.",
                 "Saludos."
             ],
@@ -4951,38 +4951,38 @@
                 "Buenas, has despertado.",
                 "¡Adivina quién ha despertado!",
                 "Dormilón. ¡Bienvenido de vuelta!",
-                "Dormistes como un cachorro, haha..."
+                "Dormías como un cachorro, jaja..."
             ],
             "tradergiveitem": [
                 "Gracias.",
                 "Eso me será útil.",
                 "Gracias por la contribución.",
-                "Me llevaré esto.",
-                "Util.",
-                "El placer es mio.",
+                "Me quedo con esto.",
+                "Útil.",
+                "El placer es mío.",
                 "Haré buen uso de esto."
             ],
             "tradergiveitemrefuse": [
-                "Esto es suficiente por hoy. No tengo más espacio para estas baratijas.",
-                "Ya puedes parar de darme cosas, preferiría no darte nada más de lo que tengo."
+                "Esto es suficiente por ahora. No tengo más espacio para estas baratijas.",
+                "Puedes dejar de regalarme cosas. Preferiría no entregar todo lo demás que llevo encima."
             ],
             "traderhagglesuccess": [
                 "Está bien.",
                 "Haré una excepción para ti.",
                 "Ah, pareces amable.",
-                "Tienes un buen punto.",
-                "Acepto tu pedido.",
-                "Te escucho, tío. Claro.",
+                "Es un buen argumento.",
+                "Acepto tu petición.",
+                "Te entiendo, compañero. Claro.",
                 "Tengo que estar de acuerdo.",
                 "Afirmativo..."
             ],
             "traderhagglefail": [
-                "¿Que te parece un no?",
-                "No soy una maldita caridad.",
-                "Solo acepto hechos y lógica, no plegarias sin control.",
+                "¿Qué te parece un no?",
+                "No soy una maldita organización benéfica.",
+                "Solo acepto hechos y lógica, no súplicas desordenadas.",
                 "No.",
                 "Es el peor argumento que jamás he escuchado.",
-                "Tendré que denegar tu petición.",
+                "Tengo que denegar tu petición.",
                 "Negativo.",
                 "Sin excepciones, perdón."
             ],
@@ -4990,115 +4990,115 @@
                 "Sin reembolsos.",
                 "Aquí tienes.",
                 "No lo rompas.",
-                "Buena suerte.",
+                "Buena suerte con esto.",
                 "Espero que sepas usar esto.",
                 "Espero que te sea de ayuda.",
                 "Aquí está tu recompensa."
             ],
             "traderbuyfail": [
                 "No.",
-                "No soy una caridad.",
+                "No soy una organización benéfica.",
                 "No doy cosas gratis.",
                 "Primero a pagar.",
                 "No te voy a dar nada sin algo apropiado a cambio.",
-                "¿A caso me ves como una caridad?",
-                "Estás bromeando.",
+                "¿Acaso te parezco una organización benéfica?",
+                "Estarás de broma.",
                 "Qué insultante."
             ],
             "traderbuyfailmaxvalue": [
-                "Suficientes intercambios por hoy. Ya has comprado suficiente.",
-                "No deseo intercambiar minuciosamente nuestras posesiones. Vamos a llamarlo un día."
+                "Basta de intercambios por hoy. Ya has comprado mucho.",
+                "No deseo intercambiar por completo nuestras posesiones. Dejémoslo por hoy."
             ],
             "traderthreatensuccess": [
-                "No esta en mis intereses ser herido. Toma lo que quieras y vete.",
-                "Está bien. Pilla algo y vete de mi cápsula.",
-                "Espero que te pasen cosas horribles. Vale. Ahora coge algo y vete.",
-                "Eres una persona horrible, ¿Lo sabes no?",
-                "Asi que así es como solucionas tus problemas. Mhm. Okey.",
-                "¿Realmente tenemos que llegar a esto? No tienes por... Ugh. Vale.",
-                "No tenía planeado un robo. Bueno, está bien. Solo no me hagas daño."
+                "No me conviene resultar herido. Toma lo que quieras y vete.",
+                "Está bien. Elige lo que quieras y, por favor, sal de mi cápsula.",
+                "Espero que te pase una desgracia. Vale. Cógelo y vete.",
+                "Eres una persona horrible. Lo sabes, ¿verdad?",
+                "Así que así es como solucionas tus problemas. Mhm. Pues vale.",
+                "¿Realmente teníamos que llegar a esto? Sabes que esto no está bien... Ugh. Vale.",
+                "Sufrir un atraco no estaba en mi lista de cosas que hacer antes de morir. Bueno, está bien. Tan solo no me hagas daño."
             ],
             "traderwarning": [
                 "Vete de una vez.",
-                "NO aprecio tu presencia. Vete.",
+                "NO me agrada tu presencia. Márchate.",
                 "FUERA.",
                 "¿Crees que no voy en serio? Fuera.",
                 "Sal. De. Aquí.",
                 "Por favor. Vete.",
                 "Vete.",
                 "No voy a lidiar contigo ahora.",
-                "Por favor vete de mi cápsula de manera pacífica. Yo la encontré primero."
+                "Por favor, deja mi cápsula en paz. Yo llegué aquí primero."
             ],
             "tradercombat": [
                 "No quería llegar a esto.",
-                "Puto retrasado.",
-                "Vete a la mierda.",
-                "Oh, ¡Que te JODAN!",
+                "Puto imbécil.",
+                "Vete de una puta vez.",
+                "Oh, ¡que te JODAN!",
                 "¡VETE DE AQUÍ!",
                 "¡Esta es MI CÁPSULA! ¡FUERA!",
-                "¡No voy a tolerar NI UN solo momento más de tu PRESENCIA!"
+                "¡NO voy a tolerar ni un solo momento más de TU presencia!"
             ],
             "traderhugsuccess": [
                 "Ahh... Lo... Lo permitiré.",
                 "Qué cariñoso...",
                 "Awww. Realmente lo necesitabas...",
-                "Aww, qué amable que eres.",
+                "Aww, qué amable eres.",
                 "Mmmhh...",
                 "Vaya muestra de afecto..."
             ],
             "traderhugfail": [
-                "¡NO ME TOQUES!",
-                "Me abstengo.",
-                "Césame. No me abarques.",
+                "¡NO SE TOCA!",
+                "Abstente.",
+                "Cesa. No me abraces.",
                 "No. Para. No me toques.",
-                "¡Ew! Quita tus manos de mí."
+                "¡Puaj! Quítame las manos de encima."
             ],
             "traderseegun": [
-                "Antes de hablar, por favor, retira ese arma de tu mano. De todas formas...",
-                "Espero que esto no sea un atraco. Si no lo es, guarda el arma... De cualquier manera...",
-                "No me apuntes con eso, esto no es un tiroteo activo. De todos modos...",
-                "¿Estás INTENTANDO parecer una amenaza o simplemente piensas que el arma se ve guay..?"
+                "Antes de hablar, por favor, deja esa arma a un lado. En fin...",
+                "Espero que esto no sea un atraco. Si no lo es, guarda el arma... En fin...",
+                "Aleja esa arma de mí, que esto no es un tiroteo. De todos modos...",
+                "¿Estás INTENTANDO convertirte en una amenaza para mí o simplemente piensas que el arma se ve guay...?"
             ],
             "tradermeetimpairedspeech": [
-                "¿Qué dices..? No te entiendo.",
-                "Tu habla está extremadamente taponada. Solo para que lo sepas.",
-                "A penas entiendo lo que me estás intentando decir."
+                "¿Qué dices...? No te entiendo.",
+                "Tu voz suena extremadamente amortiguada. Solo para que lo sepas.",
+                "Apenas entiendo lo que me estás diciendo."
             ],
             "traderseehurt": [
-                "Pareces estar sangrando o herido... Puedes agarrar un vendaje si lo deseas.",
-                "¡Ew! Por favor, no sangres por todo el suelo. Coge un vendaje y trátate las heridas si ves uno, te lo doy gratis.",
-                "Eso no se ve bien... Puedes agarrar un vendaje y tomarlo de gratis si encuentras uno a la venta."
+                "Pareces estar herido y sangrando... Puedes llevarte un vendaje si lo deseas.",
+                "¡Puaj! Por favor, no sangres por todo mi suelo. Si ves un vendaje, cógelo y cúrate; los míos son gratis.",
+                "Eso no tiene buena pinta... Puedes llevarte un vendaje gratis si encuentras alguno entre lo que llevo encima."
             ],
             "traderlightbreak": [
-                "...Tío. Tengo ojos. ¡Ladrón... Largo!",
-                "¡Oh, subnormal! ¡Vete, ahora! ¡FUERA!",
-                "¡EY! ¡Cabrón! ¡Vete de aquí joder!",
-                "¿¡Por qué cojones harías eso!? ¡Sal de aquí! ¡Necesitaba esa bombilla!",
-                "¿¡Por qué destruyes mi cápsula!? ¡Fuera de AQUI! ¡FUERA!"
+                "...Tío. Tengo ojos. Ladrón... ¡Largo!",
+                "¡Oh, serás idiota! ¡Vete, ahora! ¡FUERA!",
+                "¡EY! ¡Que te jodan! ¡Vete de aquí, joder!",
+                "¿¡Por qué cojones has hecho eso!? ¡Fuera de aquí! ¡Necesitaba esa luz!",
+                "¿¡Por qué destruyes mi cápsula!? ¡FUERA! ¡VETE!"
             ],
             "tradermove": [
-                "Okay."
+                "Vale."
             ],
             "tradermovefail": [
-                "¿Por qué me movería para alguien como TÚ?"
+                "¿Por qué iba a moverme por alguien como tú?"
             ],
             "vomitresponse": [
-                "Parece que has devuelto tus contenidos estomacales.",
+                "Parece que has devuelto el contenido estomacal.",
                 "¿En serio? ¿En MI suelo?"
             ],
             "vomitbloodresponse": [
-                "...Parece que estás sangrando internamente. Por favor dirige tu boca fuera de mi por este futuro cercano."
+                "...Parece que estás sangrando internamente. Por favor, a partir de ahora, no me apuntes con la boca."
             ],
             "hungryresponse": [
-                "Si crees que te voy a saciar el hambre sin pagar, estarías completamante equivocado.",
-                "No soy una caridad. Encuentra algo de comida, o cambiame algo."
+                "Si crees que voy a saciar tu hambre gratis, estás completamente equivocado.",
+                "No soy una organización benéfica. Encuentra algo de comida o intercambia algo conmigo."
             ],
             "thirstyresponse": [
-                "Muchas fuentes de agua potable permean este lugar. Dales uso.",
-                "Encuentre su fuente de agua en otro lugar."
+                "Hay muchas pozas de agua potable repartidas por este lugar. Aprovéchalas.",
+                "Que vuestra merced encuentre su fuente de agua en otro lugar."
             ],
             "sadresponse": [
-                "Por favor, cesa tus lloriqueos."
+                "Por favor, cesa en tus lamentos."
             ],
             "depressedresponse": [
                 "Caer en una espiral de desesperación no solucionará ninguno de tus problemas."
@@ -5108,33 +5108,33 @@
             ],
             "braindamagedresponse": [
                 "Eres completamente incoherente.",
-                "Apostaría a que sufres una concusión."
+                "Apostaría a que tienes una conmoción cerebral."
             ],
             "hotresponse": [
-                "Tal vez te deje usar la refrigeración de la cápsula si te comportas."
+                "Puede que te permita usar el aire acondicionado de esta cápsula salvavidas si te comportas."
             ],
             "coldresponse": [
-                "Ejercita. Entrarás en calor en nada de tiempo."
+                "Haz ejercicio. Entrarás en calor en un abrir y cerrar de ojos."
             ],
             "bleedingresponse": [
-                "Por favor no sangres sobre mí.",
-                "Te imploro a que trates tus heridas."
+                "Por favor, no me empapes de tu sangre.",
+                "Te imploro que cuides tus heridas."
             ],
             "painresponse": [
-                "El dolor está garantizado aquí abajo. Fortalecete.",
-                "Tómate un analgésico. Seguro que debes tener algunos."
+                "El dolor está garantizado aquí abajo. Endurécete.",
+                "Tómate un analgésico. Seguro que tienes alguno..."
             ],
             "dirtyresponse": [
-                "Correcto. Estás sucio. Abstente de tocarme hasta que te limpies"
+                "Correcto. Estás mugriento. Abstente de tocarme hasta que te limpies."
             ],
             "encumberedresponse": [
-                "¿Haría daño dejar esas pertenencias pesadas conmigo?",
-                "Menudo fastidio que eres."
+                "¿Te supondría algún problema dejar esas pesadas pertenencias conmigo?",
+                "Cómo me tientas."
             ],
             "dyingresponse": [
-                "No creo que la RCP pudiese ayudar en esta situación.",
+                "No estoy seguro de que la RCP ayude en esta situación.",
                 "¿En serio? ¿Muriéndote, en MI suelo?",
-                "¿De verdad entrar en pánico va a mejorar la situación?"
+                "¿De verdad va a mejorar la situación entrar en pánico?"
             ]
         },
         {
