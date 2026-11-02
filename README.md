@@ -54,6 +54,8 @@ This is a list of all of the locales available for the [release version](https:/
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
 | [Русский (Россия)](/demo/ru-RU.json) | v1.0-Pre3 (bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
+| [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0-Pre3| [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry), Weird Cat, Just Cyrus, Vee|
+
 
 ## Contributing
 
