@@ -2362,7 +2362,7 @@
                 "Vamos a las profundidades.",
                 "¿Awwa...?",
                 "Hmm...",
-                "Bueno. Supongo que eso es todo.",
+                "Bueno. Supongo que ya está.",
                 "¡Yyyyy hemos llegado!",
                 "Espero poder ver a mis amigos de nuevo.",
                 "¿¡HOLA!? ¿¡HAY ALGUIEN AQUÍ!?",
@@ -2375,7 +2375,7 @@
                 "Mi progenitor estaría orgulloso de mí...",
                 "¡Guau! ...Gris.",
                 "Parece que hay mucha grava.",
-                "Hacía tiempo que no las veía abiertas.",
+                "Hacía tiempo que no las veía abrirse.",
                 "Dios. Esto va a ser jodidamente horrible.",
                 "Esto va a ser divertido.",
                 "Bajar... Coger la cosa si la encuentro... Vale..."
@@ -2456,7 +2456,7 @@
                 "¡Puaj!",
                 "¡Puaj! ¡¿Qué es esto?!",
                 "¡Asqueroso!",
-                "Creo que voy a vomitar...",
+                "Creo que voy a devolver...",
                 "¿¡Por qué estoy comiendo esto!?",
                 "Prefiero morir de hambre.",
                 "De verdad que preferiría morirme de hambre.",
@@ -2496,7 +2496,7 @@
                 "Aparta eso de mí.",
                 "¿¡Por qué iba a tocar esto!?",
                 "¡No!",
-                "¿Qué hago yo sujetando esto?",
+                "¿Y qué hago yo sujetando esto?",
                 "Ni en un millón de años.",
                 "¡Jamás! ¡NO!",
                 "¿En qué coño estoy pensando?",
@@ -3251,7 +3251,7 @@
                 "Espero no terminar así.",
                 "Ay... Puaj... Tío.",
                 "No creo que esté respirando...",
-                "Sip, eso sí que es un cadáver...",
+                "Sip, es un cadáver, sí...",
                 "No puedo evitar quedarme mirando...",
                 "A la mierda con eso... Ough... Qué putada.",
                 "Pobrecillo.",
@@ -3281,7 +3281,7 @@
                 "¡AHH! ¡Es un cadáver! Mierda...",
                 "Oh, joder... Es uno de los nuestros... Ooohhh no...",
                 "Vaya, eso es desmotivador.",
-                "Está... No está respirando..."
+                "No... No está respirando..."
             ],
             "seecorpsedesensitized": [
                 "Y otro más...",
@@ -3310,7 +3310,7 @@
                 "Jaja... ¿El que lo encuentra se lo queda...?",
                 "Me pregunto si se puede salvar a alguno.",
                 "Jajaja...",
-                "¡Hey! ¡Tú! ...Sí, igual que los demás.",
+                "¡Ey! ¡Tú! ...Sí, igual que los demás.",
                 "Tío, debo de caerles MUY mal a estos tipos... ¡Ni uno solo me ha mirado siquiera!",
                 "Sigamos.",
                 "La supervivencia del más apto, supongo...",
@@ -3729,7 +3729,7 @@
                 "¡OHHHHMMIEHH!",
                 "¿¡JODEHH!?",
                 "¡¿QUÉÉÉÉ?!",
-                "¡HEEEEEY!",
+                "¡EEEEEY!",
                 "¡AAHHHHJG!",
                 "¡AAAAACK!",
                 "¡AAH!",
@@ -3810,7 +3810,7 @@
                 "Ough, llevo demasiado peso.",
                 "Llevo demasiadas cosas...",
                 "Estoy acumulando demasiadas cosas...",
-                "Aunque crea que todas estas cosas me serán útiles, llevo mucho peso encima...",
+                "Por mucho que crea que todas estas cosas me serán útiles, llevo mucho peso encima...",
                 "Llevo un poco más de carga de la cuenta...",
                 "Todo lo que llevo me ralentiza.",
                 "Vamos a aligerar un poco la carga.",
@@ -3845,7 +3845,7 @@
                 "Nhh... ¿Por qué...? ¿Por qué? Era uno de los nuestros..."
             ],
             "tradeemeet": [
-                "¡Hey!",
+                "¡Ey!",
                 "¿Hola?",
                 "¡Oh! ¡Hola!",
                 "¿Hm?",
@@ -3855,12 +3855,12 @@
                 "¡Hola!"
             ],
             "tradermeetnormal": [
-                "¡Hey!",
+                "¡Ey!",
                 "¡Hola!",
                 "¡Oh! Al fin ha venido alguien...",
                 "¡Oh! Buenas.",
-                "¡Hey! Me alegra ver a alguien vivo.",
-                "Hey, colega.",
+                "¡Ey! Me alegra ver a alguien vivo.",
+                "Ey, colega.",
                 "¡Bienvenido!"
             ],
             "tradermeetgood": [
@@ -3869,9 +3869,9 @@
                 "¡Aah! ¡¡Hola!! ¡Hola!"
             ],
             "tradermeetbad": [
-                "Hheeyy... ¿Me desagrada tu presencia...?",
+                "Eeyy... ¿Me desagrada tu presencia...?",
                 "H... Hola... Uhh...",
-                "...Hey.",
+                "...Ey.",
                 "...Hm. Hola."
             ],
             "traderhugsuccess": [
@@ -3884,12 +3884,12 @@
             ],
             "traderhugfail": [
                 "¡AHHH! No me toques así de repente...",
-                "¡Hey! Sin tocar.",
+                "¡Ey! Sin tocar.",
                 "¡Aghh! ¡Oye! ¡No toques!",
                 "Mejor paso...",
                 "No, gracias.",
-                "¡Qu- Hey! Aparta tus patas de mí.",
-                "¡Hey! ¡No me toques! No confío en ti."
+                "¡Qu- Ey! Aparta tus patas de mí.",
+                "¡Ey! ¡No me toques! No confío en ti."
             ],
             "traderhagglesuccess": [
                 "¡...Vale!",
@@ -3917,8 +3917,8 @@
                 "...¿No saludas ni nada...? Por... ¿Por qué me estás mirando así...?",
                 "¿...? ...Um...  ¿...Hola...? ¿...Estás ahí...?",
                 "...Te veo aterrorizado. ¿Estás bien? ¿Hola...?",
-                "¡Hey! ¿Qué tal estáááás......? No te veo muy bien, colega... Uhm...",
-                "¡Hey! ¿...A qué viene esa mirada penetrante? Uhm..."
+                "¡Ey! ¿Qué tal estáááás......? No te veo muy bien, colega... Uhm...",
+                "¡Ey! ¿...A qué viene esa mirada penetrante? Uhm..."
             ],
             "tradergiveitem": [
                 "¡Gracias!",
@@ -3930,7 +3930,7 @@
             ],
             "tradergiveitemrefuse": [
                 "Está bien... Suficiente por hoy, mi bolsa está llena.",
-                "¡Hey, ya está bien con los regalos! No quiero darte toda mi mercancía."
+                "¡Ey, ya está bien con los regalos! No quiero darte toda mi mercancía."
             ],
             "traderbuy": [
                 "Aquí tienes. ¡Gracias!",
@@ -3981,7 +3981,7 @@
             "traderlightbreak": [
                 "Tío, ¿qué cojones? ¿Por qué has hecho eso? Vete a la mierda.",
                 "¿...En serio pensabas que no vería eso? Serás cabrón. ¡Fuera!",
-                "¡Hey! ¿¡Qué coño!? ¡Necesitaba eso! ¡Vete a la puta mierda!",
+                "¡Ey! ¿¡Qué coño!? ¡Necesitaba eso! ¡Vete a la puta mierda!",
                 "¡Ahh! ¡LADRÓN! ¡Fuera de aquí!",
                 "Tío. Vale... Pues vale. Vale... Yo... Uh... Vete, por favor."
             ],
@@ -4112,7 +4112,7 @@
                 "Ehhhh... ¿'Tas bien..?"
             ],
             "vomitbloodresponse": [
-                "¡Ack! ¿Acabas de...? Oh... Hey, sabes que acabas de... Vomitar sangre, ¿verdad?"
+                "¡Ack! ¿Acabas de...? Oh... Ey, sabes que acabas de... Vomitar sangre, ¿verdad?"
             ],
             "hungryresponse": [
                 "Sabes que hay bastante comida ahí fuera, ¿no?...",
@@ -4123,7 +4123,7 @@
                 "Tengo entendido que solo puedes estar tres \"días\" sin agua, jaja..."
             ],
             "sadresponse": [
-                "Hey, está bien... Todavía estás vivo y coleando, ¿verdad...?"
+                "Ey, está bien... Todavía estás vivo y coleando, ¿verdad...?"
             ],
             "depressedresponse": [
                 "...Cálmate, por favor... Todo saldrá bien..."
@@ -4143,7 +4143,7 @@
             ],
             "bleedingresponse": [
                 "Eso... Sí que tiene mala pinta... Pero yo... Estoy seguro de que puedes arreglarlo...",
-                "H-hey, cálmate. Te pondrás bien."
+                "E-ey, cálmate. Te pondrás bien."
             ],
             "painresponse": [
                 "¿Estás bien? ¿Por qué te duele?",
