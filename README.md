@@ -54,6 +54,7 @@ This is a list of all of the locales available for the [release version](https:/
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
 | [한국어 (대한민국)](/release/ko-KR.json) | *To be filled by maintainers* | [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
+| [Русский (Россия)](/demo/ru-RU.json) | v1.0-Pre3 (bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
 
 ## Contributing
 
