@@ -24,7 +24,7 @@ The first column links to the locale file that you need to download.
 | [Беларуская (Беларусь)](/demo/be-BY.json) | Outdated | [Russian kid](https://github.com/Russiankids) |
 | [Deutsch (Deutschland)](/demo/de-DE.json) | v7.0.1 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
 | [Català (Espanya)](/demo/ca-ES.json) | v7.0.1 | [ICraveWaffles](https://github.com/ICraveWaffles) |
-| [Español (Latinoamérica)](/demo/es-419.json) | v7.7.9 (+f7b5136) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) | |
+| [Español (Latinoamérica)](/demo/es-419.json) | v7.7.9 (+f7b5136) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 | [Español (España)](/demo/es-ES.json) | v7.7.9 (+f7b5136) | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/demo/fi-FI.json) | v7.0.1 (incomplete, translation abandoned) | - |
 | [Français (France)](/demo/fr-FR.json) | v7.0.1 (incomplete) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick), [LackeDragon](https://github.com/LackeDragon) |
@@ -50,11 +50,12 @@ The first column links to the locale file that you need to download.
 
 This is a list of all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
 
-| File | Locale State | Contributors |
-|------|--------------|--------------|
+| File | Last Update | Locale State | Contributors |
+|------|-------------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
 | [Русский (Россия)](/release/ru-RU.json) | v1.0-Pre3 (+bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
 | [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
+| [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 
 ## Contributing
 
