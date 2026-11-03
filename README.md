@@ -50,8 +50,8 @@ The first column links to the locale file that you need to download.
 
 This is a list of all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
 
-| File | Last Update | Locale State | Contributors |
-|------|-------------|--------------|--------------|
+| File | Locale State | Contributors |
+|------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
 | [Русский (Россия)](/release/ru-RU.json) | v1.0-Pre3 (+bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
 | [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
