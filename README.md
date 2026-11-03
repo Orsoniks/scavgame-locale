@@ -53,9 +53,9 @@ This is a list of all of the locales available for the [release version](https:/
 | File | Locale State | Contributors |
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
+| [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 | [Русский (Россия)](/release/ru-RU.json) | v1.0-Pre3 (+bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
 | [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
-| [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 
 ## Contributing
 
