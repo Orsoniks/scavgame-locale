@@ -258,7 +258,7 @@
         "titaniumpickaxe": "Pico de titanio",
         "titaniumpickaxedsc": "Una herramienta finamente elaborada hecha de titanio forjado. Muy duradero y eficiente en remover terreno, aunque no apta para el combate.",
         "titaniummultitool": "Multiherramienta de titanio",
-        "titaniummultitooldsc": "Una herramienta pequeña, pero resistente y duradera usada para crear objetos, viene integrado un martillo pesado en su punta y una hoja pequeña, pero afilada oculta en el mango. Aunque no sea útil para excavar, ni para el combate, durará casi indefinidamente para cualquier tipo de recetas para crear objetos, y es ligera.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades severamente infectadas.",
+        "titaniummultitooldsc": "Una herramienta pequeña, pero resistente y duradera usada para crear objetos, viene integrado un martillo pesado en su punta y una hoja pequeña, pero afilada oculta en el mango. Aunque no sea útil para excavar, ni para el combate, durará casi indefinidamente para cualquier tipo de recetas para crear objetos, y es ligera.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades.",
         "titaniummachete": "Machete de titanio",
         "titaniummachetedsc": "Una herramienta duradera con altas capacidades en el combate, fácil y ligera de blandir, pero devastadora y afilada como una navaja. Su filo fue tratado térmicamente para evitar el desgaste de la hoja con el tiempo. Una herramienta asombrosa para defensa personal, pudiendo ser usada como herramienta de excavación como último recurso.\n\n<color=\"red\">Se puede usar en el panel de salud para amputar extremidades.",
         "sledgehammer": "Mazo",
@@ -1077,7 +1077,7 @@
         "brokenbonedsc": "Te rompiste algo. Intenta no utilizar la extremidad afectada y descansa lo máximo posible. Véndala o coloca una férula.",
         "dislocationdsc": "Te dislocaste algo. Trate de no utilizar la extremidad afectada. Puede reacomodarla con la mano.",
         "brokenneckdsc": "Tienes el cuello roto. Tu médula espinal no está dañada, pero cualquier movimiento que hagas será agonizante. Físicamente más débil del cuello para abajo. Comer es doloroso.",
-        "brokenribsdsc": "Tus costillas están rotas, lo que hace que respirar sea doloroso y mucho más difícil. Fuerza en los brazos debilitada.",
+        "brokenribsdsc": "Tus costillas están rotas, lo que hace que respirar sea mucho más difícil. Fuerza en los brazos debilitada.",
         "dislocatedjawdsc": "Tu mandíbula está dislocada, lo que afecta tu habla y hace que comer sea extremadamente doloroso.",
         "dislocatedspinedsc": "Tu columna está dislocada. Tu médula espinal no está dañada, pero moverte es realmente doloroso. Físicamente más débil de la cintura para abajo.",
         "infected1dsc": "El sitio de la infección está hinchado y caliente. Encuentra algo que pueda matar los cuerpos extraños.",
@@ -1846,7 +1846,7 @@
         "craftanyliquid": "Cualquier líquido con",
         "craftitemquality": "- (<1>) cualidad de <2>",
         "craftliquidquality": "- (<1>) calidad de <2>",
-        "craftcondition": "- <>% de condición",
+        "craftcondition": "- ><>% de condición",
         "craftml": "- <> ml",
         "craftinfocondition": "Condición: ",
         "craftinfovolume": "Volumen: ",
@@ -6521,7 +6521,7 @@
             "Item2": ""
         },
         {
-            "Item1": "ASUNTO: Mi Asombroso Nuevo Invento\nPARA: Jefe Ingeniero ████████\nPARA: Dr. ████<>\n\nSe llama: ¡el EXCRUCIADOR!\n\nTomé la tecnología de implantes cerebrales del proyecto en el que has estado trabajando, pero en lugar de leer los impulsos nerviosos, los envío yo. Después de algunos ajustes, ¡es capaz de hacerte sentir el dolor físico más insoportable posible! De hecho, esperaba que los sujetos de prueba se volvieran desensibilizados a cierto punto, ¡pero eso nunca pasó!\n\nEsto podría ser increíble para el sistema de justicia penal. Siempre ha sido un problema en saber si han sufrido lo suficiente. Bueno, ¡ahora ya puedes! Lo he probado decenas de pruebas con los SAWs, y el simple hecho de ver cómo se aplicaba el EXCRUCIADOR era suficiente para disuadir desobediencias en todo el grupo. \n\n¿Podemos poner esto en producción tan pronto como sea posible?",
+            "Item1": "[ASUNTO] Mi Asombroso Nuevo Invento\n[DE] Dr. ████\n[PARA] Jefe Ingeniero ████████<>\n\nSe llama: ¡el EXCRUCIADOR!\n\nTomé la tecnología de implantes cerebrales del proyecto en el que has estado trabajando, pero en lugar de leer los impulsos nerviosos, los envío yo. Después de algunos ajustes, ¡es capaz de hacerte sentir el dolor físico más insoportable posible! De hecho, esperaba que los sujetos de prueba se volvieran desensibilizados a cierto punto, ¡pero eso nunca pasó!\n\nEsto podría ser increíble para el sistema de justicia penal. Siempre ha sido un problema en saber si han sufrido lo suficiente. Bueno, ¡ahora ya puedes! Lo he probado decenas de pruebas con los SAWs, y el simple hecho de ver cómo se aplicaba el EXCRUCIADOR era suficiente para disuadir desobediencias en todo el grupo. \n\n¿Podemos poner esto en producción tan pronto como sea posible?",
             "Item2": ""
         },
         {
