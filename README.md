@@ -1,15 +1,20 @@
 Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https://github.com/Orsoniks).
 
-## Installing
+## Installing new locales
 
-To install a locale:
-1. Go to the folder with the game version for which you want to download translations.
-1. Find and download the JSON file for your locale from the version's folder.
-2. Go to *Casualties: Unknown*'s install path.
+1. Go to the [release](/release) folder in GitHub (or the [demo](/demo) folder if you want to download locales for the demo).
+   * You can also look at the list of available [release](#release-locales) and [demo](#demo-locales) locales below.
+2. Find and download the JSON file for your locale from the version's folder.
+   <img src="docs/Install_GitDownload.png" height="300" />
+3. Go to *Casualties: Unknown*'s install path.
    - For Steam: Library -> Right click on *Casualties: Unknown* -> Manage -> Browse local files
-3. Place the JSON file under the `CasualtiesUnknown_Data/Lang` folder, next to `EN.json`.
-
-If done correctly, your new locale should appear as an option on the main menu, in the top right corner.
+     <img src="docs/Install_SteamLibrary.png" height="300" />
+4. Place the JSON file under the `CasualtiesUnknown_Data/Lang` folder, next to `EN.json`.
+   <img src="docs/Install_LangFolder.png" height="200" />
+5. Launch the game, and click on the **Drop capsule** on the left side of the screen to open the settings menu.
+6. Select your added locale from the list in the "Language" tab.
+   
+   <img src="docs/Install_LangSelect.png" height="300" />
 
 ## Demo locales
 
