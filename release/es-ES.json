@@ -4127,10 +4127,10 @@
                 "Lo primero... El c-cargo..."
             ],
             "ascententer": [
-                "Parece que no va a llegar más lejos... Solo puedo ir hacia arriba. En marcha."
+                "Parece que hasta aquí ha llegado... El único camino es hacia arriba. En marcha."
             ],
             "labenter": [
-                "(Obedeceré por ahora... Moriré si intento oponerme a ellos. Quizás encuentre una oportunidad...)"
+                "(Obedeceré por ahora... Solo conseguiré que me maten si intento oponerme a ellos. Quizás encuentre una oportunidad...)"
             ],
             "labresponse": [
                 "(...Ni de coña que voy a hablar con ellos. No después de... Eso.)"
@@ -4139,7 +4139,7 @@
                 "(Este es el momento... Si... Si tuviera una pistola, o algo...)"
             ],
             "labthink2": [
-                "(Le... Podría matar. Disparar a esa cosa en el techo. Ir a través de la rejilla. ¿Escapar...?)"
+                "(Le... Podría matar. Disparar a esa cosa en el techo. Ir a través de esa rejilla. ¿Escapar...?)"
             ],
             "labthink2chip": [
                 "(Podría... No. No puedo. Me matarán con el chip. Maldita sea.)"
@@ -5006,7 +5006,7 @@
                 "La cápsula ha dejado de funcionar. Es hora de ascender a pie. Queda poca distancia."
             ],
             "labenter": [
-                "(Siento un fuerte resentimiento hacia las batas... Pero no puedo actuar ahora. Debo continuar con la cabeza fría.)"
+                "(Siento un fuerte resentimiento hacia los de las batas... Pero no puedo actuar ahora. Debo continuar con la cabeza fría.)"
             ],
             "labresponse": [
                 "(...Huh. ¿Esto NO formaba parte de su plan?)"
@@ -5859,7 +5859,7 @@
                 "(Du-ne ver co-mida. Du-ne coger. Du-ne ir-se.)"
             ],
             "labthink2chip": [
-                "(Du-ne no coger co-mida. Du-ne triste.)"
+                "(Du-ne no obte-ner co-mida. Du-ne triste.)"
             ],
             "labshoot": [
                 "¡¡¡¡¡NNNGGGRRRAAUUUGHHH!!!!! ¡¡¡NGGRRRAAHHHGHHH!!! ¡¡¡GRRRRAAAAAAAAAAHHHHHH!!!"
