@@ -1066,8 +1066,8 @@
         "stimulateddsc": "Có chất kích thích mạnh trong máu. Bạn cảm thấy sẵn sàng đối mặt với bất cứ điều gì.",
         "drugoverdosedsc": "Bạn đã sử dụng quá liều loại thuốc không chứa opioid. Có khả năng gặp biến chứng sức khỏe.",
         "bleeding1dsc": "Máu rỉ ra từ một vết thương tương đối nhỏ. Không có nguy hiểm tức thời.",
-        "bleeding2dsc": "Máu chảy từ một vết thương khá lớn. Khó có thể gây tử vong nếu bạn khỏe mạnh. Khuyên bạn nên điều trị.",
-        "bleeding3dsc": "Lượng máu lớn đang xuất huyết ra ngoài cơ thể. Sẽ gây tử vong nếu không được điều trị. Cần điều trị ngay.",
+        "bleeding2dsc": "Máu chảy từ một vết thương khá lớn. Khó có thể gây tử vong nếu bạn khỏe mạnh, nhưng vẫn nguy hiểm.",
+        "bleeding3dsc": "Lượng máu lớn đang xuất huyết ra ngoài cơ thể. Sẽ gây tử vong nếu không được điều trị.",
         "bleeding4dsc": "<i>Khi sinh mệnh tuôn trào phía sau lưng, bạn chợt nhớ ra rằng mình cũng là một kẻ phàm trần.",
         "internalBleeddsc": "Máu đang tích tụ ở các khoang cơ thể không nên có máu. Tìm chất đông máu hoặc thiết bị HSCB.",
         "exertion1dsc": "Kiệt sức nhẹ. (<>%)",
@@ -1139,7 +1139,7 @@
         "depression2dsc": "Mất đi động lực tiếp tục, chật vật với cảm xúc. Mọi thứ đang diễn ra theo hướng tiêu cực. Hãy tìm cách đánh lạc hướng bản thân.",
         "depression3dsc": "Hầu như không muốn làm gì cả. Tâm trí bạn bị tàn phá bởi sự tuyệt vọng. Liệu mọi chuyện sẽ sớm kết thúc?",
         "depression4dsc": "<i>Cảm giác thế nào khi biết mình không bao giờ có thể lên lại mặt đất..?",
-        "trauma1dsc": "Điều gì đó tồi tệ đã xảy ra, và bộ não của bạn không hề muốn trải qua chuyện đó một lần nữa. Mức độ hạnh phúc giảm nhẹ.",
+        "trauma1dsc": "Điều gì đó tồi tệ đã xảy ra, và bạn không hề muốn trải qua chuyện đó một lần nữa. Mức độ hạnh phúc giảm nhẹ.",
         "trauma2dsc": "Những sự kiện gần đây khiến bạn cảm thấy bất an và để lại vết sẹo tinh thần. Bạn cảm thấy run rẩy. Bạn THỰC SỰ không muốn vượt qua điều đó một lần nữa. Mức độ hạnh phúc suy giảm.",
         "trauma3dsc": "Bạn cảm thấy hoảng loạn và kinh hãi. Viễn cảnh về những nỗi kinh hoàng trong quá khứ lóe lên trước mắt bạn. Bạn muốn THOÁT RA khỏi đây bằng mọi giá... vết thương này sẽ cần thời gian dài để chữa lành. Hạnh phúc bị suy giảm nghiêm trọng.",
         "trauma4dsc": "Kinh hoàng. Bất lực. Tuyệt vọng. Bạn không thể thốt nên lời. Hạnh phúc bị suy giảm trầm trọng.",
@@ -1846,7 +1846,7 @@
         "craftanyliquid": "Bất kỳ chất lỏng nào có",
         "craftitemquality": "- (<1>) yếu tố <2>",
         "craftliquidquality": "- (<1>) yếu tố <2>",
-        "craftcondition": "- ><>%",
+        "craftcondition": "- Tình trạng ><>%",
         "craftml": "- <>mL",
         "craftinfocondition": "Chất lượng đầu ra: ",
         "craftinfovolume": "Dung tích tạo ra: ",
@@ -6489,7 +6489,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[TIN NHẮN NHÓM - KHOA TẨY NÃO.]\n      - New Message -<>\n\nCó ai thấy cái ly cà phê của tôi không? Nó là cái có ghi \"Tôi định kể một câu đùa hóa học, nhưng sợ chẳng ai phản ứng gì.\" Nếu tìm được, làm ơn mang nó đến văn phòng của tôi. Cảm ơn.",
+            "Item1": "[TIN NHẮN NHÓM - KHOA TẨY NÃO.]\n      - Tin nhắn Mới -<>\n\nCó ai thấy cái ly cà phê của tôi không? Nó là cái có ghi \"Tôi định kể một câu đùa hóa học, nhưng sợ chẳng ai phản ứng gì.\" Nếu tìm được, làm ơn mang nó đến văn phòng của tôi. Cảm ơn.",
             "Item2": ""
         },
         {
@@ -6521,11 +6521,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[CHỦ ĐỀ]: Phát minh tuyệt vời mới của tôi\n[TỪ] TS. ████\n[ĐẾN] Kĩ sư trưởng ████████<>\n\nNó gọi là: Kẻ Tra Tấn!\n\nTôi mượn công nghệ cấy não từ dự án mà anh đang làm, nhưng thay vì đọc các phản ứng thần kinh, tôi gửi chúng. Sau vài lần chỉnh sửa, nó có khả năng khiến người mang cảm nhận được nỗi đau thể xác tột cùng nhất có thể! Thực ra thì tôi tưởng rằng các đối tượng thử nghiệm sẽ trở nên bớt nhạy cảm với nó sau một thời gian, nhưng nó không hề xảy ra!\n\nThứ này có thể sẽ cực kì hữu ích trong hệ thống tư pháp hình sự. Việc xác định liệu một người đã phải chịu đựng đủ hay chưa luôn là một vấn đề nan giải. Giờ thì không còn nữa! Tôi đã thực hiện nhiều cuộc thử nghiệm lên các SAW, chúng chỉ cần nhìn thấy Kẻ Tra Tấn được sử dụng thôi là đủ để ngăn bất kì sự không vâng lời nào từ cả đám.\n\nTa có thể đưa thứ này vào sản xuất nhanh nhất có thể được không?",
+            "Item1": "[CHỦ ĐỀ]: Phát minh tuyệt vời mới của tôi\n[TỪ] TS. ████\n[TỚI] Kĩ sư trưởng ████████<>\n\nNó gọi là: KẺ TRA TẤN!\n\nTôi mượn công nghệ cấy não từ dự án mà anh đang làm, nhưng thay vì đọc các phản ứng thần kinh, tôi gửi chúng. Sau vài lần chỉnh sửa, nó có khả năng khiến người mang cảm nhận được nỗi đau thể xác tột cùng nhất có thể! Thực ra thì tôi tưởng rằng các đối tượng thử nghiệm sẽ trở nên bớt nhạy cảm với nó sau một thời gian, nhưng nó không hề xảy ra!\n\nThứ này có thể sẽ cực kì hữu ích trong hệ thống tư pháp hình sự. Việc xác định liệu một người đã phải chịu đựng đủ hay chưa luôn là một vấn đề nan giải. Giờ thì không còn nữa! Tôi đã thực hiện nhiều cuộc thử nghiệm lên các SAW, chúng chỉ cần nhìn thấy Kẻ Tra Tấn được sử dụng thôi là đủ để ngăn bất kì sự không vâng lời nào từ cả đám.\n\nTa có thể đưa thứ này vào sản xuất nhanh nhất có thể được không?",
             "Item2": ""
         },
         {
-            "Item1": "[CẬP NHẬT DỰ ÁN]<>\n\nTin xấu đây...\nKẻ Tra Tấn bị hủy. Trưởng bộ phận bảo rằng nó \"không thực tế\" và \"cực kì tâm thần\" và nó sẽ là \"một cơn ác mộng chết tiệt cho nhóm PR.\" Việc giải quyết các vấn đề tư pháp hình sự có gì mà bị coi là tệ đến vậy chứ???\n\nThôi thì, ít ra chúng ta vẫn được sử dụng nó trong nội bộ.",
+            "Item1": "[CẬP NHẬT DỰ ÁN]<>\n\nTin xấu đây...\nKẺ TRA TẤN bị hủy. Trưởng bộ phận bảo rằng nó \"không thực tế\" và \"cực kì tâm thần\" và nó sẽ là \"một cơn ác mộng chết tiệt cho nhóm PR.\" Việc giải quyết các vấn đề tư pháp hình sự có gì mà bị coi là tệ đến vậy chứ???\n\nThôi thì, ít ra chúng ta vẫn được sử dụng nó trong nội bộ.",
             "Item2": ""
         },
         {
