@@ -1,15 +1,20 @@
 Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https://github.com/Orsoniks).
 
-## Installing
+## Installing new locales
 
-To install a locale:
-1. Go to the folder with the game version for which you want to download translations.
-1. Find and download the JSON file for your locale from the version's folder.
-2. Go to *Casualties: Unknown*'s install path.
+1. Go to the [release](/release) folder in GitHub (or the [demo](/demo) folder if you want to download locales for the demo).
+   * You can also look at the list of available [release](#release-locales) and [demo](#demo-locales) locales below.
+2. Find and download the JSON file for your locale from the version's folder.
+   <img src="docs/Install_GitDownload.png" height="300" />
+3. Go to *Casualties: Unknown*'s install path.
    - For Steam: Library -> Right click on *Casualties: Unknown* -> Manage -> Browse local files
-3. Place the JSON file under the `CasualtiesUnknown_Data/Lang` folder, next to `EN.json`.
-
-If done correctly, your new locale should appear as an option on the main menu, in the top right corner.
+     <img src="docs/Install_SteamLibrary.png" height="300" />
+4. Place the JSON file under the `CasualtiesUnknown_Data/Lang` folder, next to `EN.json`.
+   <img src="docs/Install_LangFolder.png" height="200" />
+5. Launch the game, and click on the **Drop capsule** on the left side of the screen to open the settings menu.
+6. Select your added locale from the list in the "Language" tab.
+   
+   <img src="docs/Install_LangSelect.png" height="300" />
 
 ## Demo locales
 
@@ -24,7 +29,7 @@ The first column links to the locale file that you need to download.
 | [Беларуская (Беларусь)](/demo/be-BY.json) | Outdated | [Russian kid](https://github.com/Russiankids) |
 | [Deutsch (Deutschland)](/demo/de-DE.json) | v7.0.1 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
 | [Català (Espanya)](/demo/ca-ES.json) | v7.0.1 | [ICraveWaffles](https://github.com/ICraveWaffles) |
-| [Español (Latinoamérica)](/demo/es-419.json) | v7.7.9 (+f7b5136) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) | |
+| [Español (Latinoamérica)](/demo/es-419.json) | v7.7.9 (+f7b5136) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 | [Español (España)](/demo/es-ES.json) | v7.7.9 (+f7b5136) | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/demo/fi-FI.json) | v7.0.1 (incomplete, translation abandoned) | - |
 | [Français (France)](/demo/fr-FR.json) | v7.0.1 (incomplete) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick), [LackeDragon](https://github.com/LackeDragon) |
@@ -54,7 +59,9 @@ This is a list of all of the locales available for the [release version](https:/
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
 | [한국어 (대한민국)](/release/ko-KR.json) | *To be filled by maintainers* | [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
-| [Русский (Россия)](/demo/ru-RU.json) | v1.0-Pre3 (bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
+| [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
+| [Русский (Россия)](/release/ru-RU.json) | v1.0-Pre3 (+bccaab7) | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
+| [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
 
 ## Contributing
 
