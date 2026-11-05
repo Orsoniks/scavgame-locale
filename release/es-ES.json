@@ -4103,10 +4103,10 @@
                 "¡AAAGHH! ¿¡QUÉ DEMONIOS!? ¿POR QUÉ?"
             ],
             "cargoimpale2": [
-                "U-umm... Bueno... Siento... ¿Que esto me ha empoderado? Me siento... L-ligero."
+                "H-hmm... Bueno... Yo... Sí que me siento... ¿más poderoso con esto? Me siento... Más l-ligero."
             ],
             "cargoimpale3": [
-                "Lo... Lo h-he conseguido de verdad... Bueno... Yo... Mejor no confiarse demasiado... Podría utilizar esa cápsula para regresar. Vayamos a la superficie."
+                "Lo... Lo h-he conseguido de verdad... Bueno... Yo... Mejor no confiarse demasiado... Creo que puedo utilizar esa cápsula para regresar. Vayamos a la superficie."
             ],
             "endlessloop0": [
                 "¿...Qu-qu...qué..? ¿Qué? ¿Por qué? ¿Qué acaba de...? ¿Por qué estoy de vuelta aquí..? Hnn... ¿Qué acaba de pasar...?"
@@ -4124,7 +4124,7 @@
                 "Oh, vamos dando más y más vueltas..."
             ],
             "endpodexamine": [
-                "Lo primero... El c-cargo..."
+                "Lo primero... La c-carga..."
             ],
             "ascententer": [
                 "Parece que hasta aquí ha llegado... El único camino es hacia arriba. En marcha."
@@ -4133,16 +4133,16 @@
                 "(Obedeceré por ahora... Solo conseguiré que me maten si intento oponerme a ellos. Quizás encuentre una oportunidad...)"
             ],
             "labresponse": [
-                "(...Ni de coña que voy a hablar con ellos. No después de... Eso.)"
+                "(...Ni de coña voy a hablar con ellos. No después de... eso.)"
             ],
             "labthink1": [
-                "(Este es el momento... Si... Si tuviera una pistola, o algo...)"
+                "(Este es el momento... Si... Si tuviera un arma de fuego o algo...)"
             ],
             "labthink2": [
-                "(Le... Podría matar. Disparar a esa cosa en el techo. Ir a través de esa rejilla. ¿Escapar...?)"
+                "(Podría... Matarlo. Disparar a esa cosa del techo... Pasar por esa rejilla. ¿Escapar...?)"
             ],
             "labthink2chip": [
-                "(Podría... No. No puedo. Me matarán con el chip. Maldita sea.)"
+                "(Podría... No. No puedo. Me matarían con el chip. Maldita sea.)"
             ],
             "labshoot": [
                 "¡¡NNGGRRAAAAHHHH!! ¡¡¡QUE OS JODAN!!! ¡¡¡ESTOY HARTO DE VUESTRAS MIERDAS!!!"
@@ -4151,17 +4151,17 @@
                 "Nghh... Grrh... Pagarán...",
                 "Pagarán por esto...",
                 "Sufrid... Las consecuencias...",
-                "Estoy. Tan harto. De Esta. ¡MIERDA!",
+                "Estoy hartísimo. De. Esta. ¡MIERDA!",
                 "Idos al infierno. Idos al infierno. Todos vosotros...",
                 "Esto es el final.",
                 "Cabrones. Cabrones. Cabrones. Imbéciles.",
-                "A nadie le importará si desaparecen.",
+                "A nadie le importará cuando desaparezcan.",
                 "(Nada puede detenerme.)",
                 "Os lo habéis buscado, joder..."
             ],
             "labcommentcombat": [
                 "¡¡QUE OS JODAN!! ¡¡¡¡QUE OS JODAN!!!! ¡¡¡¡QUE OS JODAN A TODOS!!!!",
-                "¡¡¡VERÉ CÓMO SE EXTINGUEN VUESTRAS VIDAS!!!",
+                "¡¡¡VERÉ CÓMO SE APAGA LA VIDA EN VUESTROS OJOS!!!",
                 "¡¡¡AL INFIERNO CON VOSOTROS!!!",
                 "¡¡NO MÁS DE ESTA MIERDA!!",
                 "¡¡ESTOY HARTO DE ESTOS JUEGOS!!",
@@ -4967,7 +4967,7 @@
                 "Hola, pitido. ¿Qué podría significar esto?"
             ],
             "wwmr": [
-                "Todo acorde al plan. El objetivo parece estar al alcance. Debo concentrarme."
+                "Todo según lo previsto. El objetivo parece estar al alcance. Debo concentrarme."
             ],
             "cargo1": [
                 "...Qué extraño."
@@ -4976,13 +4976,13 @@
                 "Al fin he... E-E... ¿Qué...?"
             ],
             "cargoimpale": [
-                "E-esto... No... Estaba... En mis expectativas..."
+                "E-esto... No... Estaba... En mi... L-lista de expectativas..."
             ],
             "cargoimpale2": [
-                "Ghh... E-efectivamente... Está... Incrustado en mi interior... Aun así... Es aliviador..."
+                "Ghh... E-está... De verdad... Incrustado en mi interior... Aun así... Siento alivio..."
             ],
             "cargoimpale3": [
-                "Umm. Concéntrate. Vale. Es lógico que esto fuese una parte intencional del plan. Entraré a esta cápsula taladradora e iré hacia arriba."
+                "Hh. Concéntrate. Muy bien. Es lógico que esto estuviera previsto en el plan. Entraré en esta cápsula taladradora y ascenderé."
             ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... V-vale. No... N-no es. Lo que. Me e-esperaba. Debo haber hecho algo mal. V-volveré y lo intentaré otra vez."
@@ -5000,7 +5000,7 @@
                 "......*suspiro*"
             ],
             "endpodexamine": [
-                "No tiene energía. La podría encender con un esfuerzo moderado."
+                "No tiene energía. Probablemente podría ponerla en marcha con un esfuerzo moderado."
             ],
             "ascententer": [
                 "La cápsula ha dejado de funcionar. Es hora de ascender a pie. Queda poca distancia."
@@ -5009,40 +5009,40 @@
                 "(Siento un fuerte resentimiento hacia los de las batas... Pero no puedo actuar ahora. Debo continuar con la cabeza fría.)"
             ],
             "labresponse": [
-                "(...Huh. ¿Esto NO formaba parte de su plan?)"
+                "(...¿Eh? ¿Esto NO formaba parte de su plan?)"
             ],
             "labthink1": [
                 "(El momento ha llegado. No lo verán venir.)"
             ],
             "labthink2": [
-                "(Disparo al de la bata. Disparo a la torreta. Voy a través de la rejilla. Será difícil, pero no puedo seguir obedeciendo a estos monstruos.)"
+                "(Disparo al de la bata. Disparo a la torreta. Paso por la rejilla. Será difícil, pero me niego a obedecer a estos monstruos.)"
             ],
             "labthink2chip": [
                 "(Disparo al... No. El chip no me permitirá enfrentarme a ellos. He fracasado. Para ellos, he tenido éxito.)"
             ],
             "labshoot": [
-                "¡¡¡AL INFIERNO CONTIGO!!! ¡¡¡PAGARÉIS POR LO QUE HABÉIS HECHO!!!"
+                "¡¡¡AL INFIERNO CON VOSOTROS!!! ¡¡¡PAGARÉIS POR LO QUE HABÉIS HECHO!!!"
             ],
             "labcommentcalm": [
-                "Pagarán... Por esto...",
+                "Pagarán... por esto...",
                 "No más juegos.",
                 "Al infierno con todos los involucrados...",
                 "...Grrhh...",
-                "(Reclamaré mi libertad.)",
+                "(Voy a liberarme.)",
                 "Todos se merecen esto.",
                 "(Tengo miedo.)",
-                "Ggh...Cabrones...",
+                "Ggh... imbéciles...",
                 "(Nadie los echará de menos cuando falten.)"
             ],
             "labcommentcombat": [
                 "¡NNGRRAAHHH! ¡MORID!",
                 "¡¡¡AL INFIERNO CON TODOS VOSOTROS!!!",
                 "¡¡MORIRÉIS CONMIGO!!",
-                "¡¡NO OS SALDRÉIS CON LA VUESTRA ESTA VEZ!!",
+                "¡¡LLEVÁIS DEMASIADO TIEMPO SALIÉNDOOS CON LA VUESTRA!!",
                 "¡¡PEDID REFUERZOS!! ¡¡ATREVEOS!!",
                 "¡¡OS VOY A DEVORAR, JODER!!",
                 "¡¡MORID!!",
-                "¡¡SUPLICAD AYUDA!!! ¡¡VENGA!!",
+                "¡¡¡GRITAD PIDIENDO AYUDA!!! ¡¡VENGA!!",
                 "¿¡CREÉIS QUE PODÉIS DETENERME!?",
                 "¡¡VUESTRA HORA HA LLEGADO!!"
             ],
@@ -5850,7 +5850,7 @@
                 "(Du-ne vuelve a ca-sa... Du-ne cui-dado...)"
             ],
             "labresponse": [
-                "N-o sab-er."
+                "No... sa-ber."
             ],
             "labthink1": [
                 "(Hambre...)"
@@ -5859,7 +5859,7 @@
                 "(Du-ne ver co-mida. Du-ne coger. Du-ne ir-se.)"
             ],
             "labthink2chip": [
-                "(Du-ne no obte-ner co-mida. Du-ne triste.)"
+                "(Du-ne no coger co-mida. Du-ne triste.)"
             ],
             "labshoot": [
                 "¡¡¡¡¡NNNGGGRRRAAUUUGHHH!!!!! ¡¡¡NGGRRRAAHHHGHHH!!! ¡¡¡GRRRRAAAAAAAAAAHHHHHH!!!"
@@ -5877,7 +5877,7 @@
                 "¡¡NNRRUUAAAAARRGHHHH!!",
                 "¡¡¡MUER-TE VE-NIR!!!",
                 "¡¡¡VE-NID A DU-NE!!!",
-                "¡¡¡BAN-QUE-TE DE CAR-NE PARA DU-NE!!!"
+                "¡¡¡DU-NE DAR-SE BAN-QUE-TE DE CAR-NE!!!"
             ],
             "tradermeetnormal": [
                 "Mmm... Ho-la....",
@@ -6771,7 +6771,7 @@
             "Y así, el tiempo se ha parado...",
             "El reloj ha dejado de hacer tictac.",
             "Hagamos una pausa.",
-            "¡Hey, vuelve al trabajo!",
+            "¡Ey, vuelve al trabajo!",
             "¿Hora de comer?",
             "Píllate un aperitivo.",
             "No saben que estás haciendo esto.",
@@ -6856,14 +6856,14 @@
         ],
         "labescape": [
             "Muéstrales de qué estás hecho.",
-            "Mira a ver si esto marca la diferencia.",
+            "A ver si esto cambia algo.",
             "¿Crees que esto cambiará tu destino?",
             "Sigo aquí.",
             "Continúa. ¿Acaso puedes hacer otra cosa?",
             "Muy interesante. Continúa, por favor.",
-            "Una graciosa muestra de emoción.",
+            "Qué divertida muestra de emoción.",
             "Fascinante. Continúa.",
-            "Que intento tan divertido. ¡Sigue!",
+            "Qué intento tan divertido. ¡Sigue!",
             "¡Venga, no pares!",
             "¿A que esto te sienta genial?",
             "Estarás orgulloso de ti mismo, ¿verdad?"
@@ -6871,7 +6871,7 @@
         "combat": [
             "Parece que te estás divirtiendo.",
             "¡Oh, venga ya!",
-            "¡Hey, lo estaba viendo!",
+            "¡Ey, lo estaba viendo!",
             "Me podrías haber avisado al menos.",
             "Aún no hemos terminado. Continúa.",
             "Terminamos cuando yo diga que terminamos.",
