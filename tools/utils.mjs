@@ -12,6 +12,7 @@ export const versions = [
     // Release versions
     "v1.0-pre3",
     "bccaab7bc33581c79f22139f11c3bd8201129bfc", // v1.0-pre3 with additions
+    "v1.0-pre13",
 ];
 
 const versionDb = {
@@ -22,6 +23,7 @@ const versionDb = {
     "v7.7.9": { path: "EN.json", hash: "02A53AC258EAAAE9072511EBA5170F07DF2AD391BAC55CBBD5082F7D228F2F43" }, // PS: Doesn't have the survivor note changes
     "v1.0-pre3": { path: "release/EN.json", hash: "3D804E7491A5FC961D6C0A9D3D63CE168ADA1D70D0716B30DCB738A6E9436AAE" },
     "bccaab7bc33581c79f22139f11c3bd8201129bfc": { path: "release/EN.json", hash: "3A6B49732F01D1FCA228E10A5EB4E5ECEF2FC66AFD241B68E520226E4B03AB5E" },
+    "v1.0-pre13": { path: "release/EN.json", hash: "685C44AC92D5538F2C941A5CE5D093E446E112AD73C402FD33C9638DFB43F2A9" },
 }
 
 export function flattenPaths(target, basePath = '')
