@@ -1,6 +1,6 @@
 {
     "name": "Русский",
-    "description": "Полуофициальная русская локализация. Может иметь ошибки.\n\nДругие переводы доступны по ссылке во вкладке титров игры. Они не проверены тщательно, и также могут быть неточными или устаревшими.\n\nАвторы данной локализации: <color=\"white\">UCRD (Axawer)</color>, <color=\"white\">Vinterhelm</color>, <color=\"white\">SoberFurry</color>, <color=\"white\">Captain_Kirk</color>, <color=\"white\">Batya_v_khati</color>, <color=\"white\">Voprositelnii</color>, <color=\"white\">Strag Az</color>, <color=\"white\">Untitled9223</color>, <color=\"white\">Bogtogus</color>, <color=\"white\">Spectator39</color>.",
+    "description": "Полуофициальная русская локализация. Может иметь ошибки.\n\nДругие переводы доступны по ссылке во вкладке титров игры. Они не проверены тщательно, и также могут быть неточными или устаревшими.\n\nПоследнее обновление: 05.11.2026\nАвторы данной локализации: <color=\"white\">UCRD (Axawer)</color>, <color=\"white\">Vinterhelm</color>, <color=\"white\">SoberFurry</color>, <color=\"white\">Captain_Kirk</color>, <color=\"white\">Batya_v_khati</color>, <color=\"white\">Voprositelnii</color>, <color=\"white\">Strag Az</color>, <color=\"white\">Untitled9223</color>, <color=\"white\">Bogtogus</color>, <color=\"white\">Spectator39</color>.",
     "version": "1.0-Pre13",
     "main": {
         "bandage": "Повязка",
