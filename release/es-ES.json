@@ -1,7 +1,7 @@
 {
     "name": "Español (España)",
-    "description": "Traducción de la comunidad al español de España. Puedes encontrar otras traducciones de la comunidad en el repositorio de traducciones (consulta el menú de créditos). Estas traducciones pueden estar desactualizadas o contener errores. Creada por Maksklv2010 y mantenida por Fhursday, WereWhusky, en2que, Iter-bite y JaGarLo.",
-    "version": "1.0-Pre3",
+    "description": "Traducción comunitaria al español de España. Original de Maksklv2010, con la colaboración de Fhursday. Cobertura de nuevas versiones, mantenimiento y coordinación: en2que. Revisión integral, definición del estilo y traducción de nuevos textos: Iter-bite y JaGarLo. Con aportaciones de WereWhusky, Zilat, Zorpolar y el equipo de la traducción latinoamericana.\n\nSi encuentras errores o tienes sugerencias, avísanos en el canal cu-translations del Discord oficial del juego.",
+    "version": "1.0-Pre13",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de gasa con una venda, utilizado para frenar el sangrado, estabilizar fracturas y favorecer la curación de la piel. No tiene efecto sobre la salud muscular.",
