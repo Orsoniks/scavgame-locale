@@ -4185,6 +4185,21 @@
                 "El... Objetivo... Debería estar en algún sitio por aquí... No más tonterías. Vamos.",
                 "Lo he conseguido... ¿Lo he conseguido...? Umm... Debería estar por aquí... Acabemos con esto."
             ],
+            "cargo1": [
+                "¿Creo... Que... Lo he encontrado...?"
+            ],
+            "cargo2": [
+                "Eso... No es una bat... ¿Qué...? ¿Q-qué está... Haciendo...?"
+            ],
+            "cargoimpale": [
+                "¡AAAGHH! ¿¡QUÉ DEMONIOS!? ¿POR QUÉ?"
+            ],
+            "cargoimpale2": [
+                "H-hmm... Bueno... Yo... Sí que me siento... ¿más poderoso con esto? Me siento... Más l-ligero."
+            ],
+            "cargoimpale3": [
+                "Lo... Lo h-he conseguido de verdad... Bueno... Yo... Mejor no confiarse demasiado... Creo que puedo utilizar esa cápsula para regresar. Vayamos a la superficie."
+            ],
             "endlessloop0": [
                 "¿...Qu-qu...qué..? ¿Qué? ¿Por qué? ¿Qué acaba de...? ¿Por qué estoy de vuelta aquí..? Hnn... ¿Qué acaba de pasar...?"
             ],
@@ -4192,13 +4207,63 @@
                 "...Esto no está yendo como me esperaba...No sé qué más podría hacer... Bueno. Ugh. A la tercera va la vencida, ¿no?"
             ],
             "endlessloop2": [
-                "<spoiler>"
+                "¡¡UUUGGGHHHHH!! ¿¡QUÉ SE SUPONE QUE TENGO QUE HACER!? Maldita sea... Que se joda ese corazón... Grrrhh... De todos modos, tengo que descender para sobrevivir. Menuda mierda."
             ],
             "endlessloop3": [
                 "¡Bueno! No voy a salir de aquí, ¿verdad...? Creo que me estoy acostumbrando."
             ],
             "endlessloopdefault": [
                 "Oh, vamos dando más y más vueltas..."
+            ],
+            "endpodexamine": [
+                "Lo primero... La c-carga..."
+            ],
+            "ascententer": [
+                "Parece que hasta aquí ha llegado... El único camino es hacia arriba. En marcha."
+            ],
+            "labenter": [
+                "(Obedeceré por ahora... Solo conseguiré que me maten si intento oponerme a ellos. Quizás encuentre una oportunidad...)"
+            ],
+            "labresponse": [
+                "(...Ni de coña voy a hablar con ellos. No después de... eso.)"
+            ],
+            "labthink1": [
+                "(Este es el momento... Si... Si tuviera un arma de fuego o algo...)"
+            ],
+            "labthink2": [
+                "(Podría... Matarlo. Disparar a esa cosa del techo... Pasar por esa rejilla. ¿Escapar...?)"
+            ],
+            "labthink2chip": [
+                "(Podría... No. No puedo. Me matarían con el chip. Maldita sea.)"
+            ],
+            "labshoot": [
+                "¡¡NNGGRRAAAAHHHH!! ¡¡¡QUE OS JODAN!!! ¡¡¡ESTOY HARTO DE VUESTRAS MIERDAS!!!"
+            ],
+            "labcommentcalm": [
+                "Nghh... Grrh... Pagarán...",
+                "Pagarán por esto...",
+                "Sufrid... Las consecuencias...",
+                "Estoy hartísimo. De. Esta. ¡MIERDA!",
+                "Idos al infierno. Idos al infierno. Todos vosotros...",
+                "Esto es el final.",
+                "Cabrones. Cabrones. Cabrones. Imbéciles.",
+                "A nadie le importará cuando desaparezcan.",
+                "(Nada puede detenerme.)",
+                "Os lo habéis buscado, joder..."
+            ],
+            "labcommentcombat": [
+                "¡¡QUE OS JODAN!! ¡¡¡¡QUE OS JODAN!!!! ¡¡¡¡QUE OS JODAN A TODOS!!!!",
+                "¡¡¡VERÉ CÓMO SE APAGA LA VIDA EN VUESTROS OJOS!!!",
+                "¡¡¡AL INFIERNO CON VOSOTROS!!!",
+                "¡¡NO MÁS DE ESTA MIERDA!!",
+                "¡¡ESTOY HARTO DE ESTOS JUEGOS!!",
+                "¡¡GRRRAAHHHHH!!",
+                "¿¡QUIÉN COÑO OS CREÉIS QUE SOIS!?",
+                "¡¡NADIE SE ACORDARÁ DE VOSOTROS!!",
+                "¡¡TODOS PAGARÉIS POR LO QUE HABÉIS HECHO!!",
+                "¡¡NO PIENSO MORIR!!",
+                "¡¡BATAS DE MIERDA!!",
+                "¡¡¡¡IDOS AL INFIERNO!!!!"
             ],
             "vomitresponse": [
                 "Ehhhh... ¿'Tas bien..?"
@@ -4993,6 +5058,24 @@
                 "Oh, oh, por qué, qué, ¿¡POR QUÉ!? ¡PARADLO! ¡NO ME MEREZCO ESTO! ¡GILIPOLLAS CON BATA!",
                 "Hola, pitido. ¿Qué podría significar esto?"
             ],
+            "wwmr": [
+                "Todo según lo previsto. El objetivo parece estar al alcance. Debo concentrarme."
+            ],
+            "cargo1": [
+                "...Qué extraño."
+            ],
+            "cargo2": [
+                "Al fin he... E-E... ¿Qué...?"
+            ],
+            "cargoimpale": [
+                "E-esto... No... Estaba... En mi... L-lista de expectativas..."
+            ],
+            "cargoimpale2": [
+                "Ghh... E-está... De verdad... Incrustado en mi interior... Aun así... Siento alivio..."
+            ],
+            "cargoimpale3": [
+                "Hh. Concéntrate. Muy bien. Es lógico que esto estuviera previsto en el plan. Entraré en esta cápsula taladradora y ascenderé."
+            ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... V-vale. No... N-no es. Lo que. Me e-esperaba. Debo haber hecho algo mal. V-volveré y lo intentaré otra vez."
             ],
@@ -5007,6 +5090,53 @@
             ],
             "endlessloopdefault": [
                 "......*suspiro*"
+            ],
+            "endpodexamine": [
+                "No tiene energía. Probablemente podría ponerla en marcha con un esfuerzo moderado."
+            ],
+            "ascententer": [
+                "La cápsula ha dejado de funcionar. Es hora de ascender a pie. Queda poca distancia."
+            ],
+            "labenter": [
+                "(Siento un fuerte resentimiento hacia los de las batas... Pero no puedo actuar ahora. Debo continuar con la cabeza fría.)"
+            ],
+            "labresponse": [
+                "(...¿Eh? ¿Esto NO formaba parte de su plan?)"
+            ],
+            "labthink1": [
+                "(El momento ha llegado. No lo verán venir.)"
+            ],
+            "labthink2": [
+                "(Disparo al de la bata. Disparo a la torreta. Paso por la rejilla. Será difícil, pero me niego a obedecer a estos monstruos.)"
+            ],
+            "labthink2chip": [
+                "(Disparo al... No. El chip no me permitirá enfrentarme a ellos. He fracasado. Para ellos, he tenido éxito.)"
+            ],
+            "labshoot": [
+                "¡¡¡AL INFIERNO CON VOSOTROS!!! ¡¡¡PAGARÉIS POR LO QUE HABÉIS HECHO!!!"
+            ],
+            "labcommentcalm": [
+                "Pagarán... por esto...",
+                "No más juegos.",
+                "Al infierno con todos los involucrados...",
+                "...Grrhh...",
+                "(Voy a liberarme.)",
+                "Todos se merecen esto.",
+                "(Tengo miedo.)",
+                "Ggh... imbéciles...",
+                "(Nadie los echará de menos cuando falten.)"
+            ],
+            "labcommentcombat": [
+                "¡NNGRRAAHHH! ¡MORID!",
+                "¡¡¡AL INFIERNO CON TODOS VOSOTROS!!!",
+                "¡¡MORIRÉIS CONMIGO!!",
+                "¡¡LLEVÁIS DEMASIADO TIEMPO SALIÉNDOOS CON LA VUESTRA!!",
+                "¡¡PEDID REFUERZOS!! ¡¡ATREVEOS!!",
+                "¡¡OS VOY A DEVORAR, JODER!!",
+                "¡¡MORID!!",
+                "¡¡¡GRITAD PIDIENDO AYUDA!!! ¡¡VENGA!!",
+                "¿¡CREÉIS QUE PODÉIS DETENERME!?",
+                "¡¡VUESTRA HORA HA LLEGADO!!"
             ],
             "tradermeetnormal": [
                 "Saludos.",
@@ -5769,6 +5899,24 @@
             "selfdestruct": [
                 "¡Oooorrhhn! ¿Du-ne nuevo so-nido? Ooohh..."
             ],
+            "wwmr": [
+                "Hooohh... Lu-gar... Bri-llan-te... ¿Du-ne cerca...?"
+            ],
+            "cargo1": [
+                "Du-ne ve... Co-sa..."
+            ],
+            "cargo2": [
+                "¿Co-mida...? ¿Hhoooohhhh....hhhooh...?"
+            ],
+            "cargoimpale": [
+                "¡¡¡¡¡GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! ¡¡¡GGRRHHHAAAAGGHHHH!!!"
+            ],
+            "cargoimpale2": [
+                "GGHHHRRAAaaaahhh... ¿Hhnnnh...nnnh...n...?"
+            ],
+            "cargoimpale3": [
+                "Hhr...n..mmm... Du-ne puede ir-se..."
+            ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......¿De nue-vo?"
             ],
@@ -5783,6 +5931,45 @@
             ],
             "endlessloopdefault": [
                 "¡Nrrrg! ¡Wheee! ¡Du-ne ganar!"
+            ],
+            "endpodexamine": [
+                "¿Ho-ra de ir-se?"
+            ],
+            "ascententer": [
+                "¡Oooo! Ro-jo..."
+            ],
+            "labenter": [
+                "(Du-ne vuelve a ca-sa... Du-ne cui-dado...)"
+            ],
+            "labresponse": [
+                "No... sa-ber."
+            ],
+            "labthink1": [
+                "(Hambre...)"
+            ],
+            "labthink2": [
+                "(Du-ne ver co-mida. Du-ne coger. Du-ne ir-se.)"
+            ],
+            "labthink2chip": [
+                "(Du-ne no coger co-mida. Du-ne triste.)"
+            ],
+            "labshoot": [
+                "¡¡¡¡¡NNNGGGRRRAAUUUGHHH!!!!! ¡¡¡NGGRRRAAHHHGHHH!!! ¡¡¡GRRRRAAAAAAAAAAHHHHHH!!!"
+            ],
+            "labcommentcalm": [
+                "Grrhh....ngrhhr...",
+                "Ngrrhhh...",
+                "Co-mida... Co-mida... Venid...",
+                "Du-ne... Matar... Todos...",
+                "Ban-quete... Ve-nir..."
+            ],
+            "labcommentcombat": [
+                "¡NNGRRAAHHHHH!",
+                "¡GGRAAGHHH! ¡¡¡GRRRRRHHH!!!",
+                "¡¡NNRRUUAAAAARRGHHHH!!",
+                "¡¡¡MUER-TE VE-NIR!!!",
+                "¡¡¡VE-NID A DU-NE!!!",
+                "¡¡¡DU-NE DAR-SE BAN-QUE-TE DE CAR-NE!!!"
             ],
             "tradermeetnormal": [
                 "Mmm... Ho-la....",
@@ -6547,7 +6734,7 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[NOTA DE INVESTIGACIÓN, 29-1-24XX]<>\nApenas puedo creer lo que estoy viendo. El sujeto es del tamaño de mi puño, de color amarillo, y de textura viscosa. Según los indicios parece ser una masa de carne. No sabemos de qué ni de dónde procede, pero nuestros instrumentos confirman que es de origen biológico y que su biología es completamente ajena a la nuestra. Se recuperó de los escombros del ██████ ███████, fusionado con la placa receptora. Esto representa un avance revolucionario en nuestra investigación, aunque un pequeño consuelo ante la pérdida total del dispositivo. No lo entiendo. Más de una década de investigación sin frutos teletransportando poco más que partículas sueltas, ¿y ahora viene esta cosa?<>\nDe todo el universo, las probabilidades de que nuestro experimento se cruce aleatoriamente con una criatura de un planeta alienígena desconocido deben ser al menos de cincuenta órdenes de magnitud. Debería ser imposible, pero aquí está. Necesitaremos darle a esto una imagen favorable. No podemos arriesgarnos a perder la financiación del inversor o asustar al público. Todavía no. Al menos esto le dará al equipo de biología algo que investigar mientras reconstruimos el proyecto de cero.",
+            "Item1": "[NOTA DE INVESTIGACIÓN 29-1-24XX]<>\nApenas puedo creer lo que estoy viendo. El sujeto es del tamaño de mi puño, de color amarillo, y de textura viscosa. Según los indicios parece ser una masa de carne. No sabemos de qué ni de dónde procede, pero nuestros instrumentos confirman que es de origen biológico y que su biología es completamente ajena a la nuestra. Se recuperó de los escombros del ██████ ███████, fusionado con la placa receptora. Esto representa un avance revolucionario en nuestra investigación, aunque un pequeño consuelo ante la pérdida total del dispositivo. No lo entiendo. Más de una década de investigación sin frutos teletransportando poco más que partículas sueltas, ¿y ahora viene esta cosa?<>\nDe todo el universo, las probabilidades de que nuestro experimento se cruce aleatoriamente con una criatura de un planeta alienígena desconocido deben ser al menos de cincuenta órdenes de magnitud. Debería ser imposible, pero aquí está. Necesitaremos darle a esto una imagen favorable. No podemos arriesgarnos a perder la financiación del inversor o asustar al público. Todavía no. Al menos esto le dará al equipo de biología algo que investigar mientras reconstruimos el proyecto de cero.",
             "Item2": ""
         },
         {
@@ -6583,7 +6770,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[ASUNTO]: Sobre su último mensaje\r\n[DE]: Recursos Humanos\n[A]: Dr. ██████████<>\n\nLe informamos de que su último mensaje,\n\n    \"¡¿Cuál de vosotros, CABRONES, ha teletransportado medio Experiment al MALDITO BAÑO?! Estoy aquí sentado, a mis PUTAS cosas, y UN TORSO AMPUTADO Y SANGRANTE ME CAE EN LA CABEZA. ¡Todavía estaba agitándose y llenando TODO de su horrible sangre! ¡Estoy EMPAPADO DE SANGRE, joder! ¡¡¡QUÉ ASCO!!! ¡Cuando encuentre al responsable, le voy a lanzar la otra mitad a su OFICINA!\"\n\nse ha considerado inapropiado e incompatible con nuestras normas de comunicación profesional. Esperamos que todos los empleados se comuniquen entre ellos con respeto y profesionalidad.\n\nPor favor, asegúrese de que sus futuras comunicaciones se ajusten a estas expectativas.",
+            "Item1": "[ASUNTO]: Sobre su último mensaje\r\n[DE] Recursos Humanos\n[A] Dr. ██████████<>\n\nLe informamos de que su último mensaje,\n\n    \"¡¿Cuál de vosotros, CABRONES, ha teletransportado medio Experiment al MALDITO BAÑO?! Estoy aquí sentado, a mis PUTAS cosas, y UN TORSO AMPUTADO Y SANGRANTE ME CAE EN LA CABEZA. ¡Todavía estaba agitándose y llenando TODO de su horrible sangre! ¡Estoy EMPAPADO DE SANGRE, joder! ¡¡¡QUÉ ASCO!!! ¡Cuando encuentre al responsable, le voy a lanzar la otra mitad a su OFICINA!\"\n\nse ha considerado inapropiado e incompatible con nuestras normas de comunicación profesional. Esperamos que todos los empleados se comuniquen entre ellos con respeto y profesionalidad.\n\nPor favor, asegúrese de que sus futuras comunicaciones se ajusten a estas expectativas.",
             "Item2": ""
         },
         {
@@ -6647,7 +6834,7 @@
             "Item2": ""
         },
         {
-            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Hinchazón subaguda en el sitio de la inyección. La frecuencia cardíaca es de 160 LPM. La tensión arterial es de 157/98. Se observa una respuesta significativa al dolor. El sujeto forcejea contra sus ataduras. La hinchazón ha progresado a un edema agudo. Están brotando ampollas de la dermis. El sujeto tuvo que ser amordazado. La reacción se está propagando rápidamente por todo el tórax. La piel se está abriendo en el sitio de la inyección. La frecuencia cardíaca es de 198 LPM. El color está cambiando de rojo a negro. Las ampollas han estallado y están soltando un líquido oscuro. Están apareciendo ampollas del tamaño de mi puño en el resto del cuerpo.  La frecuencia cardíaca es de 219. La tensión arterial es de 71/40. La piel está totalmente negra y rezuma líquidos. El sujeto ha fallecido, pero la reacción continúa. Lisis celular catastrófica y fallo membranal. El sujeto se está derritiendo enaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
+            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Hinchazón subaguda en el sitio de la inyección. La frecuencia cardíaca es de 160 LPM. La tensión arterial es de 157/98. Se observa una respuesta significativa al dolor. El sujeto forcejea contra sus ataduras. La hinchazón ha progresado a un edema agudo. Están brotando ampollas de la dermis. El sujeto tuvo que ser amordazado. La reacción se está propagando rápidamente por todo el tórax. La piel se está abriendo en el sitio de la inyección. La frecuencia cardíaca es de 198 LPM. El color está cambiando de rojo a negro. Las ampollas han estallado y están soltando un líquido oscuro. Están apareciendo ampollas del tamaño de mi puño en el resto del cuerpo. La frecuencia cardíaca es de 219. La tensión arterial es de 71/40. La piel está totalmente negra y rezuma líquidos. El sujeto ha fallecido, pero la reacción continúa. Lisis celular catastrófica y fallo membranal. El sujeto se está derritiendo enaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
             "Item2": ""
         },
         {
@@ -6655,7 +6842,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[NOTA DE PROYECTO: \"Un día en la vida\"]\n[PÁGINA 1 DE 2]\n[ENTRADA #1]<>\n\nMe han dado este dispositivo y me han dicho que lleve un diario. No sé por qué, pero no es buena idea desobedecer, así que os hablaré de mi vida.\n\nSe hace raro sujetar uno de estos \"ADP-Es\", ya que solo os veo a vosotros llevarlos.  Me ilumina la cara y los demás sienten curiosidad. Está tan oscuro que solo podemos ver el brillo de los ojos de los demás. Cuando se apagan las luces de nuestra habitación, se supone que debemos dormir. Si no estás en tu rincón cuando eso ocurre, normalmente acabas tropezando con algo o con alguien demasiado débil para moverse tras la tarea de ese día. Al menos esta noche no ha pasado nada de eso.\n\nEl resto se está quejando de la luz de la pantalla. Continuaré cuando vuelvan a encenderse las luces.<>\n\n[ENTRADA #2]\nLa mayoría nos despertamos cuando se encienden las luces, pero solo los que están muy heridos siguen dormidos tras sonar el timbre de la comida. Nos juntamos alrededor del conducto y esperamos nuestro turno. \nNormalmente son barritas de nutrientes, pero a veces conseguimos algo muy rico. Algunos reciben comidas especiales solo para ellos. Los más jóvenes se ponen celosos, pero he visto que las comidas hacen cosas raras. Si alguien intenta robar comida o dar un cambiazo, lo castigan. No es una buena idea.\n\n¡Y ahí está el timbre!<>\n\n[ENTRADA #3]\nTras la primera comida, venís a recogernos. Nos llamáis por nuestro número y tenemos que ir. Entonces nos sacáis. Da miedo salir de nuestro recinto. A veces veo otros recintos cuando me llevan. Ojalá pudiese hablar con ellos, pero no pueden oírme ni verme a través del cristal. Una vez vi un recinto lleno de otros que tenían el mismo aspecto que nosotros, pero todos parecían... vacíos. Me asustó de verdad. Intenté preguntar por qué eran así, pero me pegó uno de vosotros.<>\n\nEscogieron a cuatro hoy. Me dejaron atrás esta vez, tal vez porque estoy ocupado con esto. Estaban todos sanos, pero eso significa que es más probable que vuelvan heridos. Las tareas suelen ser inofensivas, pero a veces son muy malas. Si tenemos suerte, pueden incluso ser buenas. Tuve una en la que me llevaban cada día y me ponían algo en el brazo. Me hacía sentir muy, muy bien, pero luego se acabó y me sentía como si me estuviese muriendo. ¡Espero que me deis más pruebas como esa!<>",
+            "Item1": "[NOTA DE PROYECTO: \"Un día en la vida\"]\n[PÁGINA 1 DE 2]\n[ENTRADA #1]<>\n\nMe han dado este dispositivo y me han dicho que lleve un diario. No sé por qué, pero no es buena idea desobedecer, así que os hablaré de mi vida.\n\nSe hace raro sujetar uno de estos \"ADP-Es\", ya que solo os veo a vosotros llevarlos. Me ilumina la cara y los demás sienten curiosidad. Está tan oscuro que solo podemos ver el brillo de los ojos de los demás. Cuando se apagan las luces de nuestra habitación, se supone que debemos dormir. Si no estás en tu rincón cuando eso ocurre, normalmente acabas tropezando con algo o con alguien demasiado débil para moverse tras la tarea de ese día. Al menos esta noche no ha pasado nada de eso.\n\nEl resto se está quejando de la luz de la pantalla. Continuaré cuando vuelvan a encenderse las luces.<>\n\n[ENTRADA #2]\nLa mayoría nos despertamos cuando se encienden las luces, pero solo los que están muy heridos siguen dormidos tras sonar el timbre de la comida. Nos juntamos alrededor del conducto y esperamos nuestro turno. \nNormalmente son barritas de nutrientes, pero a veces conseguimos algo muy rico. Algunos reciben comidas especiales solo para ellos. Los más jóvenes se ponen celosos, pero he visto que las comidas hacen cosas raras. Si alguien intenta robar comida o dar un cambiazo, lo castigan. No es una buena idea.\n\n¡Y ahí está el timbre!<>\n\n[ENTRADA #3]\nTras la primera comida, venís a recogernos. Nos llamáis por nuestro número y tenemos que ir. Entonces nos sacáis. Da miedo salir de nuestro recinto. A veces veo otros recintos cuando me llevan. Ojalá pudiese hablar con ellos, pero no pueden oírme ni verme a través del cristal. Una vez vi un recinto lleno de otros que tenían el mismo aspecto que nosotros, pero todos parecían... vacíos. Me asustó de verdad. Intenté preguntar por qué eran así, pero me pegó uno de vosotros.<>\n\nEscogieron a cuatro hoy. Me dejaron atrás esta vez, tal vez porque estoy ocupado con esto. Estaban todos sanos, pero eso significa que es más probable que vuelvan heridos. Las tareas suelen ser inofensivas, pero a veces son muy malas. Si tenemos suerte, pueden incluso ser buenas. Tuve una en la que me llevaban cada día y me ponían algo en el brazo. Me hacía sentir muy, muy bien, pero luego se acabó y me sentía como si me estuviese muriendo. ¡Espero que me deis más pruebas como esa!<>",
             "Item2": ""
         },
         {
@@ -6671,12 +6858,12 @@
             "El tiempo se ha parado.",
             "Esperaré.",
             "Te espero.",
-            "¡Hey!",
+            "¡Ey!",
             "\"Ya que te vas, ¿por qué no me pillas un refresco?\"",
             "Y así, el tiempo se ha parado...",
             "El reloj ha dejado de hacer tictac.",
             "Hagamos una pausa.",
-            "¡Hey, vuelve al trabajo!",
+            "¡Ey, vuelve al trabajo!",
             "¿Hora de comer?",
             "Píllate un aperitivo.",
             "No saben que estás haciendo esto.",
@@ -6696,7 +6883,6 @@
             "¿Hola? ¿Esto está encendido?",
             "¿Estás pausando el tiempo una y otra vez para ver lo que tengo que decir?",
             "Las estrellas te están mirando.",
-            "\"Humano\" no es lo único que está mirando.",
             "Justo detrás de ti.",
             "Este lugar es más interesante de lo que jamás podrías comprender.",
             "Tus supervisores no te dicen todo."
@@ -6733,10 +6919,10 @@
             "No te acomodes.",
             "¡Feliz supervivencia!",
             "El exceso de confianza es un asesino lento e insidioso.",
-            "Un gran delirio. Un gran fracaso y un gran desperdicio. Pero no para mí.",
+            "Un gran delirio.",
             "¿De verdad tienes el control?",
             "Me divierte que creas tener siquiera una apariencia de control. Continúa.",
-            "¿De verdad crees que merece la pena bajar hasta allí por esa cosa? Puedo hacer muchas más.",
+            "¿Estás seguro de que merece la pena bajar hasta allí por esa cosa?",
             "¿Te sientes al mando?",
             "Nunca podrías comprender la magnitud de esto.",
             "Tanta confianza en tu propio intelecto. Adorable."
@@ -6753,16 +6939,31 @@
             "Eres demasiado resiliente para tu propio bien.",
             "Oh, pobre cosita."
         ],
-        "<spoiler>": [
-            "<spoiler>"
+        "cargoembedded": [
+            "Bien hecho.",
+            "Sí que has tardado.",
+            "Esto no es una carrera, pero date prisa.",
+            "¿Listo para tomarte esto en serio?",
+            "Supongo que los milagros sí existen."
         ],
-        "<spoiler2>": [
-            "<spoiler>"
+        "labescape": [
+            "Muéstrales de qué estás hecho.",
+            "A ver si esto cambia algo.",
+            "¿Crees que esto cambiará tu destino?",
+            "Sigo aquí.",
+            "Continúa. ¿Acaso puedes hacer otra cosa?",
+            "Muy interesante. Continúa, por favor.",
+            "Qué divertida muestra de emoción.",
+            "Fascinante. Continúa.",
+            "Qué intento tan divertido. ¡Sigue!",
+            "¡Venga, no pares!",
+            "¿A que esto te sienta genial?",
+            "Estarás orgulloso de ti mismo, ¿verdad?"
         ],
         "combat": [
             "Parece que te estás divirtiendo.",
             "¡Oh, venga ya!",
-            "¡Hey, lo estaba viendo!",
+            "¡Ey, lo estaba viendo!",
             "Me podrías haber avisado al menos.",
             "Aún no hemos terminado. Continúa.",
             "Terminamos cuando yo diga que terminamos.",
@@ -6775,8 +6976,7 @@
             "No me gusta este hábito tuyo.",
             "Me vas a dar dolor de cabeza...",
             "¿Lo estás haciendo aposta? Sigue jugando.",
-            "¡Hey, que ahora venía la parte buena!",
-            "¡Si no vas a jugar, pasa el mando!"
+            "¡Ey, que ahora venía la parte buena!"
         ],
         "combatelder": [
             "Eso no puede ser bueno.",
