@@ -1,7 +1,7 @@
 {
     "name": "한국어",
-    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n\n<color=\"white\"><align=\"center\"><mspace=0.455em>-------------------------------------------------------------------------------------------------------------------</mspace></align></color>\n\n폰트 가독성 패치\n\n<color=\"yellow\">https://drive.google.com/file/d/1uWbEqpFBsPs51kaPNwlSqR2n1KfFaJ_m/view</color>\n\n<color=\"white\"><align=\"center\"><mspace=0.75em><line-height=70%>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%%%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%%%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%%%%%</color>%%%%%\n%%%%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%</color>%%%%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%\n%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%%%\n%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%%%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%%%\n%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%%%%%%%\n%%%%<color=\"black\">%%</color>%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%\n%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%%%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%%%%%%</color>%%%%\n%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%%%</color>%%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%%%%</color>%<color=\"black\">%%%%%</color>%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%%%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</line-height></mspace>\n\n-------------------------------------------------------------------------------------------------------------------</align></color>\n\n번역 제작자\n\n<color=\"white\">A토픽(topicular)</color> <color=\"yellow\">https://github.com/metnias</color>\n<color=\"white\">Enine</color> <color=\"yellow\">https://github.com/EnineStuxnet</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">쉘터캣(Shelt3redcat)</color>\n<color=\"white\">스탠다드(six-standard)</color> <color=\"yellow\">https://github.com/s1xs6d</color>\n<color=\"white\">옥꼬리(oakgall)\n진도리(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
-    "version": "1.0-Pre3",
+    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n\n<color=\"white\"><align=\"center\"><mspace=0.455em>-------------------------------------------------------------------------------------------------------------------</mspace></align></color>\n\n폰트 가독성 패치\n\n<color=\"yellow\">https://drive.google.com/file/d/1uWbEqpFBsPs51kaPNwlSqR2n1KfFaJ_m/view</color>\n\n<color=\"white\"><align=\"center\"><mspace=0.75em><line-height=70%>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%%%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%%%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%%%%%</color>%%%%%\n%%%%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%</color>%%%%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%\n%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%%%\n%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%%%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%%%\n%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%%%%%%%\n%%%%<color=\"black\">%%</color>%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%\n%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%%%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%%%%%%</color>%%%%\n%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%%%</color>%%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%%%%</color>%<color=\"black\">%%%%%</color>%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%%%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</line-height></mspace>\n\n-------------------------------------------------------------------------------------------------------------------</align></color>\n\n번역 제작자\n\n<color=\"white\">A토픽(topicular)</color> <color=\"yellow\">https://github.com/metnias</color>\n<color=\"white\">Enine</color> <color=\"yellow\">https://github.com/EnineStuxnet</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">쉘터캣(Shelt3redcat)</color>\n<color=\"white\">스탠다드(six-standard)</color> <color=\"yellow\">https://github.com/s1xs6d</color>\n<color=\"white\">옥꼬리(oakgall)\n진도리(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">컨트롤캐럿(ControlCaret)</color> <color=\"yellow\">https://github.com/ControlCaret</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
+    "version": "1.0-Pre13",
     "main": {
         "bandage": "붕대",
         "bandagedsc": "출혈을 늦추고 골절을 안정시키며 피부 치유를 돕는 붕대 한 뭉치. 근육 건강에는 효력이 없다.",
@@ -102,7 +102,7 @@
         "liquidpouch": "액체 파우치",
         "liquidpouchdsc": "액체를 보관하기 위해 만들어진 유연한 액체 파우치. 배에 맬 수 있는 끈이 있다. 액체를 채우거나 따를 수 있다.",
         "materialpouch": "재료 파우치",
-        "materialpouchdsc": "허벅지에 부착하는, 크고 튼튼한 파우치. 제작 재료를 보관할 수 있는 작은 주머니가 많이 달려 있다. 무게 부담을 크게 줄여주지만, 몹시 작은 물건만 들어간다.",
+        "materialpouchdsc": "허벅지에 부착하는, 크고 튼튼한 파우치. 제작 재료를 보관할 수 있는 작은 주머니가 많이 달려 있다. 무게 부담을 크게 줄여주지만, 재료만 넣을 수 있다.",
         "purse": "지갑",
         "pursedsc": "개인 물건을 보관하기 위한, 손잡이가 달린 중간 크기의 주머니. 제법 멋있어 보인다!",
         "pouch": "파우치",
@@ -214,7 +214,7 @@
         "alcohol": "술병",
         "alcoholdsc": "0.4L의 액체를 담을 수 있는 유리병.",
         "exposedcore": "드러난 핵",
-        "exposedcoredsc": "한때 움직였던 무언가의 움직이지 않는 잔해. 이걸 먹어서 그 에너지를 영양분과 수분으로 흡수할 수 있을 것이다. <i>서서히 무언가로 변화하고 있는 것처럼 보인다...</i>",
+        "exposedcoredsc": "한때 움직였던 무언가의 움직이지 않는 잔해. 이걸 먹어서 그 에너지를 영양분과 수분으로 흡수할 수 있을 것이다. <color=\"red\">먹지 않고 놔두면 정체 모를 무언가로 변할 것이다...",
         "foliage": "잎사귀",
         "foliagedsc": "일반적인 외계 식물. 겨우 먹을 만한 수준인 데다 맛도 만족스럽지 못하다. 배탈이 날 수 있고, 빠르게 썩는다. 제작에 자주 사용된다.",
         "redfoliage": "빨간 잎사귀",
@@ -329,6 +329,20 @@
         "dustmaskdsc": "입을 가리는 약간 튼튼한 마스크. 머리를 약간 보호해 준다.",
         "scarf": "스카프",
         "scarfdsc": "이 길고 따뜻하고 부드러운 빨간색 스카프는 추위와 더위로부터 조금 보호해 준다. 용병이 된 듯한 기분이다...",
+        "mercscarf": "M.E.R.C. 스카프",
+        "mercscarfdsc": "신체에 이식된 칩들을 통해 사용자에게 막대한 힘을 부여한다. 일종의 특별한 동력원이 필요하며, 충전에도 꽤 오랜 시간이 걸린다... 이걸 가진 채 살아서 동굴을 빠져나가야만 한다.",
+        "regenerationchip": "REL-초재생 강화 칩",
+        "regenerationchipdsc": "사용자의 부상 재생 능력을 크게 끌어올리는 대신 신진대사가 빨라지는 고급 신체 칩. 당장은 사용할 수 없다.",
+        "capacitorchip": "마이크로-SINGLEBTR 1CHRG 커패시터",
+        "capacitorchipdsc": "막대한 양의 에너지를 저장했다가 짧은 시간 안에 방출할 수 있는 고급 나노-배터리. 당장은 사용할 수 없다.",
+        "swapchip": "0.2.9-정신 교환 칩",
+        "swapchipdsc": "사용자와 연결되어, 사망 직후 의식을 재빨리 칩으로 옮긴 뒤 새로운 신체로 이전할 수 있게 해 주는 정체불명의 칩. 당장은 사용할 수 없다.",
+        "rejuvenationchip": "0.0.7-긴급 재생 칩",
+        "rejuvenationchipdsc": "정신 교환 칩의 조잡한 개조품. 사망 시, 장치에 저장된 기본 DNA와 남은 사용자의 생체 조직을 이용해 새롭게 만들어진 조악한 육체로 재구성할 수 있게 해준다. 당장은 사용할 수 없다.",
+        "aichip": "미니-AI 칩",
+        "aichipdsc": "사용자와 대화하며 작업을 도울 수 있는 간단한 AI 시스템을 제공하는 비교적 단순한 신체 칩. 당장은 사용할 수 없다.",
+        "kineticchip": "염동력 전달 칩",
+        "kineticchipdsc": "두 지점 주위에 소규모 시공간 왜곡을 발생시켜 사용자와 객체를 접촉 없이 원하는 방향으로 밀어낼 수 있게 해주는 실험용 칩. 당장은 사용할 수 없다.",
         "blueprint": "청사진",
         "blueprintdsc": "어떤 물건의 제작법이 쓰여 있는 도면. 전자 칩 같은 것이 붙어있다... 사용하면 제작법을 배우고 지성 경험치를 얻는다.",
         "safetyglasses": "보안경",
@@ -340,7 +354,7 @@
         "balaclava": "발라클라바",
         "balaclavadsc": "머리 전체를 감싸는, 두껍고 푹신한 천. 약간 보호해 주며 보온성도 준수하다.",
         "earmuffs": "귀마개",
-        "earmuffsdsc": "현대적인 느낌의 쿠션 한 쌍을 금속 재질의 머리띠로 서로 이어 붙인 물건. 큰 소음들로부터 당신을 지켜주고 어째선지... 보온해 준다. <i>굉장히</i> 큰 소음 앞에선 효과가 별로 없을 것이다.",
+        "earmuffsdsc": "현대적인 느낌의 쿠션 한 쌍을 금속 재질의 머리띠로 서로 이어 붙인 물건. 큰 소음들로부터 당신을 지켜주고 어째선지... 보온 효과가 있다. <i>굉장히</i> 큰 소음 앞에선 효과가 별로 없을 것이다.",
         "latexgloves": "라텍스 장갑",
         "latexglovesdsc": "라텍스 재질의 장갑 한 쌍. 위험 요소들로부터 약간 보호해 준다.",
         "tacticalgloves": "전술 장갑",
@@ -368,7 +382,7 @@
         "heatfernsponge": "뜨거사리 스펀지",
         "heatfernspongedsc": "뜯어내서 쪼그라든 뜨거사리 포자낭이다. 신체 부위에 사용해 감염을 치료하거나 영양가를 위해 먹을 수 있다. 포자가 면역 체계에 영향을 끼칠 수도 있다.",
         "jetpack": "제트팩",
-        "jetpackdsc": "배낭처럼 착용하는, 제트 엔진으로 착용자를 공중에서 날 수 있게 해주는 장치. 연료가 한정되어 있고 젖은 상태에서는 작동하지 않는다. W를 눌러 사용한다. 물건을 보관할 수 있는 작은 주머니도 있다.",
+        "jetpackdsc": "배낭처럼 착용한 후, 내장된 제트 엔진을 이용해 공중에서 날 수 있게 해주는 장치. 연료가 한정되어 있으며, 젖은 상태에서는 작동하지 않는다. [Up]을 눌러 사용한다. 물건을 보관할 수 있는 작은 주머니도 있다.",
         "dynamite": "다이너마이트",
         "dynamitedsc": "니트로글리세린과 흡착제, 안정제로 만들어진 폭탄. 지면에 구멍을 내는 데 좋다. 청력에는 썩 좋지 않다.",
         "climbingclaws": "등반용 발톱",
@@ -394,7 +408,7 @@
         "terrainscanner": "지형 스캐너",
         "terrainscannerdsc": "발밑 지형의 저화질 지도를 보여준다. 지형은 초록색으로, 구조물은 빨간색으로 표시된다. 약간 부정확할 수도 있다. 범위는 아래로 24미터이다.",
         "nanotechscanner": "나노-테크 스캐너",
-        "nanotechscannerdsc": "여러 생체 칩의 특정한 신호를 감지하여 대략적인 위치를 표시하는 장치. 소지품 어딘가에 가지고 있을 때만 작동한다. 측면에 칩에 대한 설명이 조금 적혀 있다. 사용하면 설명을 읽는다.",
+        "nanotechscannerdsc": "여러 생체 칩의 특유한 신호를 감지하여 대략적인 위치를 표시하는 장치. 측면에 칩에 대한 설명이 조금 적혀 있다. 사용하면 설명을 읽는다. <color=\"red>주 소지품에 가지고 있을 때만 작동한다.</color>",
         "geigercounter": "가이거 계수기",
         "geigercounterdsc": "가이거-뮐러 계수관을 사용해 이온화 방사선을 감지하고 측정할 수 있는 전자장비. 사용하면 켜고 끈다.",
         "handcrank": "자가발전 충전기",
@@ -462,7 +476,7 @@
         "helluce": "저세상추",
         "hellucedsc": "거친 질감에 특히 매운 맛이 특징인 마른 보라색 약초. 배탈을 치료하고 청력 손실에도 약간 도움이 되며, 내출혈을 줄일 수도 있다. 섭취 시 체온을 크게 올린다.",
         "spicevineleaf": "화끈잎",
-        "spicevineleafdsc": "밝은 잎이 많이 난 마른 줄기. 먹으면 영양가가 좀 있지만, 화끈하다 못해 엄청 아프다. 신체 부위에 사용해 피부 치유를 돕고 감염을 처치할 수 있다. 제작에서 잎사귀로 사용할 수 있다.",
+        "spicevineleafdsc": "밝은 잎이 많이 난 마른 줄기. 먹으면 영양가가 좀 있지만, 화끈하다. 신체 부위에 소독제로 사용할 수 있다. 제작에서 잎사귀로 사용할 수 있다.",
         "bulbskin": "팝껍질",
         "bulbskindsc": "두껍고 노란 점막 조각. 갈증을 해소해 주지만, 뇌 기능에 약간의 영향을 끼칠 수 있다. 또한 간이 붕대나 진통제로 사용할 수 있다.",
         "popfruit": "팝후르츠",
@@ -588,11 +602,11 @@
         "minibarrel": "소형 배럴",
         "minibarreldsc": "액체를 담기 위한 작은 산업용 배럴. 매우 무겁고 비실용적이다.",
         "peglimb": "나무 수족",
-        "peglimbdsc": "잃어버린 말단 부위를 대신하기 위한 간이 목재 의수족. 평범한 팔다리보다 덜 효율적이고 부서지기 쉽다. 나무 부스러기로 수리한다. 흉부/복부에 사용해 착용한다. 확실하게 착용하려면 지성 7이 필요하다.",
+        "peglimbdsc": "잃어버린 말단 부위를 대신하기 위한 간이 목재 의수족. 평범한 팔다리보다 덜 효율적이고 부서지기 쉽다. 나무로 수리한다. 흉부/복부에 사용해 착용한다. 확실하게 착용하려면 지성 7이 필요하다.",
         "steelprosthesis": "강철 의수족",
         "steelprosthesisdsc": "잃어버린 말단 부위를 대신하기 위한 철제 의수족. 평범한 팔다리와 대부분의 면모에서 엇비슷하다. 고철로 수리한다. 흉부/복부에 사용해 착용한다. 확실하게 착용하려면 지성 10이 필요하다.",
-        "peo": "P.E.O. 수족",
-        "peodsc": "의수족 개선 작전 수족. 평범한 팔다리와 거의 모든 면에서 더 낫다. 티타늄 박판으로 수리한다. 흉부/복부에 사용해 착용한다. 확실하게 착용하려면 지성 14가 필요하다.\n"
+        "peo": "성능 향상 의수족",
+        "peodsc": "성능 향상 의수족. 평범한 팔다리에 비해 거의 모든 면에서 더 낫다. 티타늄으로 수리한다. 흉부/복부에 사용해 착용한다. 확실하게 착용하려면 지성 14가 필요하다.\n"
     },
     "buildings": {
         "animalcorpse": "동물 사체",
@@ -604,14 +618,19 @@
         "bouncecap": "퐁퐁송이",
         "bouncecapdsc": "야호오오오!",
         "climbingropeextended": "등반 로프",
-        "climbingropeextendeddsc": "늘어져 있는 튼튼한 로프. 가까이서 위 방향을 누르고 있으면 등반할 수 있다.",
+        "climbingropeextendeddsc": "늘어져 있는 튼튼한 로프. 가까이서 [Up]을 누르고 있으면 등반할 수 있다.",
         "glowshroom": "초롱버섯",
         "glowshroomdsc": "약간 방사성이고 엄청 밝다.",
         "mushroomtree": "버섯 나무",
         "mushroomtreedsc": "생체 발광하는 듯 하다.",
         "drillpod": "드릴 포드",
-        "drillpoddsc": "딱딱한 암반을 뚫고 내려가며 사람들을 장거리 수송하는 데 쓰인다. 지금은 탈 수 있는 상태가 아니지만, 수리 키트로 고칠 수 있다. 층 2개를 스킵해서 내려가는 데 쓸 수 있다.",
+        "drillpoddsc": "딱딱한 암반을 뚫고 지나가며 사람들을 장거리 수송하는 데 쓰인다. 지금은 탈 수 있는 상태가 아니지만, 수리 키트로 고칠 수 있다. 층 2개를 스킵해서 내려가는 데 쓸 수 있다.",
+        "highpowereddrillpod": "고동력 드릴 포드",
+        "highpowereddrillpoddsc": "딱딱한 암반을 뚫고 지나가며 사람들을 장거리 수송하는 데 쓰이는 최첨단 포드. 작동하도록 하려면 강력한 동력원이 필요할 것이다...",
+        "highpowereddrillpoddsc2": "딱딱한 암반을 뚫고 지나가며 사람들을 장거리 수송하는 데 쓰이는 최첨단 포드. 이제 이곳에 작별을 고할 때다.",
         "drillpoddscfixed": "딱딱한 암반을 뚫고 내려가며 사람들을 장거리 수송하는 데 쓰인다.\n\n안 쪽에 앉으면 층 2개를 스킵해서 내려간다.\n방음 기능을 상실해서 청각에 손상을 일으킬 수 있다.",
+        "highpowereddrillpodbroken": "망가진 포드",
+        "highpowereddrillpodbrokendsc": "안전 가동 범위 훨씬 너머로 밀어붙인 모양이다. 게다가 도중에 무언가를 뚫고 지나간 것 같기도 하다.",
         "drillpodbroken": "망가진 드릴 포드",
         "drillpodbrokendsc": "수리할 수 없을 정도다.",
         "frigiant": "프리지언트",
@@ -668,7 +687,7 @@
         "thornbackyoung": "가시거미",
         "thornbackyoungdsc": "어리고 털이 복슬복슬하며 매우 공격적인 가시거미. 땅에 굴을 파고 근처에 움직이는 모든 것을 찢어발기는 걸 좋아하는 듯하다.",
         "thornbackelder": "엘더 가시거미",
-        "thornbackelderdsc": "도망쳐!",
+        "thornbackelderdsc": "<color=\"red\">도망쳐!",
         "cavetick": "동굴 진드기",
         "cavetickdsc": "",
         "overgrowntick": "과성장 진드기",
@@ -683,7 +702,7 @@
         "coldpuffdsc": "보라색에 가까운 촉수에 매달려 땅 위에 떠 있는 이상한 하얀 공. 어째서인지 무척 싸늘하다.",
         "coldpuffdsc2": "포자 확산 방식이 참 희한한 건 분명하다.",
         "spicevine": "화끈덩굴",
-        "spicevinedsc": "짧고 튼튼한 식물. 몹시 건조한 느낌이다. 등반해서 추락을 완화할 수도 있을 거다.",
+        "spicevinedsc": "짧고 튼튼한 식물. 몹시 건조한 느낌이다. 등반할 수 있다.",
         "lifepodbuttonheat": "난방 스위치",
         "lifepodbuttonheatdsc": "빨간색의 싸구려 버튼이다. 이 버튼으로 구명 포드 난방기와 에어컨을 켤 수 있다. 현재 설정 <>.",
         "lifepodbuttonshower": "샤워 스위치",
@@ -737,22 +756,24 @@
         "crystalenemy": "현현",
         "crystalenemydsc": "당신의 제한된 물리적 이해를 훨씬 벗어나는 무언가가 표출하는 악의.",
         "crystalirradiated": "방사성",
-        "crystalfragile": "연약한",
+        "crystalfragile": "연약함",
         "crystalgravity": "중력 왜곡",
         "crystalelectric": "전기",
-        "crystalburning": "불타는",
-        "crystaltemperature": "열의",
-        "crystalseptic": "패혈의",
-        "crystalunstable": "불안정한",
-        "crystalmimic": "움직이는",
-        "crystalteleport": "좌표 불안정한",
-        "crystaldripping": "녹는",
-        "crystalkinetic": "역동적인",
+        "crystalburning": "불탐",
+        "crystaltemperature": "열기",
+        "crystalseptic": "패혈",
+        "crystalunstable": "불안정",
+        "crystalmimic": "움직임",
+        "crystalteleport": "좌표 불안정",
+        "crystaldripping": "녹고 있음",
+        "crystalkinetic": "역동적",
         "crystalemp": "전자기",
-        "crystalblinding": "밝은",
-        "crystalmetamorphic": "변형하는",
-        "crystalhealing": "치유의",
+        "crystalblinding": "밝음",
+        "crystalmetamorphic": "변성",
+        "crystalhealing": "치유",
         "crystalshy": "따라쟁이",
+        "crystalproperty": "가진 특성: ",
+        "crystalproperties": "가진 특성: ",
         "sandrose": "모래 장미",
         "sandrosedsc": "모서리가 둥근 직사각형 모양의 큰 물건이 여러 개 자라난 듯 보이는 이상하게 아름다운 식물.",
         "scrapeater": "고철 투입구",
@@ -791,7 +812,7 @@
         "icestalactitedsc": "천장에 느슨하게 매달려 있는 것 같다.",
         "stalactitedscdropped": "천장에 느슨하게 매달려 있었던 것 같다.",
         "drybush": "마른 덤불",
-        "drybushdsc": "죽은 거라는 의심이 든다.",
+        "drybushdsc": "죽은 거 같다는 의심이 든다.",
         "crimsonbush": "진홍 덤불",
         "crimsonbushdsc": "한 발짝 앞에 자유가 있을지도 모르지만, 당신은 이 덤불을 감상하는 데 시간을 할애하기로 했다.",
         "crimsontree": "진홍나무",
@@ -841,6 +862,10 @@
         "grabberplantdsc": "끝부분으로 주변 환경을 더듬거리는 듯하다.",
         "grabbershroom": "덥석버섯",
         "grabbershroomdsc": "버섯이 어떻게 이런 일을 할 수 있는지 이해하기 어렵다.",
+        "scientist": "근무자",
+        "scientistdsc": "하얀 코트쟁이 한 명.",
+        "guard": "근무자",
+        "guarddsc": "파란 코트쟁이 한 명.",
         "terminal": "터미널",
         "terminaldsc": "오래된 컴퓨터 터미널.",
         "macrofleshrebuilder": "대형 살점 재생기",
@@ -1014,6 +1039,7 @@
         "impendingdoom": "불길한 예감",
         "horrified": "공포",
         "focused": "몰두",
+        "cargo": "화물 내재",
         "prosthesis": "의수족",
         "loosescrews": "나사 풀림",
         "bentprosthesis": "굽은 의수족",
@@ -1026,16 +1052,16 @@
         "strokedsc": "심각한 고혈압 등의 요인에서 비롯된 뇌출혈. 이미 진행된 단계에서는 뇌성장제나 지혈제 없이 생존 가능성은 전무하다.",
         "cantbreathedsc": "질식 중이다! 의식 불명과 사망이 임박했다.",
         "thoraxdestroyeddsc": "흉부의 근육 건강이 심각하게 손상된 탓에, 폐가 제대로 기능하지 못한다.",
-        "pulmonaryembolismdsc": "커다란 혈전이 떨어져나와 폐에 달라붙어 동맥을 가로막고, 빠르게 손상을 주고 있다. 혈액 점도를 긴급히 낮추자.",
+        "pulmonaryembolismdsc": "커다란 혈전이 떨어져나와 폐에 달라붙어 동맥을 가로막고, 흉부에 빠르게 손상을 주고 있다. 혈액 점도를 낮추자.",
         "oxygen1dsc": "산소 포화도 90% 미만. 기저 질환의 징후일 수 있다.",
         "oxygen2dsc": "산소 포화도 75% 미만, 서서히 뇌에 산소가 부족해진다. 기저 질환이 있다는 뜻이다.",
-        "oxygen3dsc": "산소 포화도 60% 미만, 신체 조직에 산소가 부족하고 심부정맥을 일으킬 것이다. 치명적일 수 있다.",
+        "oxygen3dsc": "산소 포화도 60% 미만, 신체 조직에 산소가 부족하고 부정맥을 일으킬 것이다. 치명적일 수 있다.",
         "oxygen4dsc": "산소 포화도 45% 미만. 몸의 어딘가가 끔찍할 정도로 심각하게 잘못되었다.",
         "fibrillation1dsc": "신체에 가해진 심한 부담으로 발생한 비정상적인 심장 박동. 원인을 해결하지 않으면 더 진행될 수 있다. 제세동할 수 있다.",
         "fibrillation2dsc": "심각하게 불안정한 심박이 피의 순환을 어렵게 한다. 처치하지 않으면 치명적인 심실세동으로 진행된다. 제세동할 수 있다.",
         "fibrillation3dsc": "생명을 위협하는 혼란스러운 심장 박동. 상황이 끔찍하게 잘못됐다.",
         "palpitationsdsc": "가슴에 심장이 팔딱이는 게 느껴진다. 그냥 긴장하고 있는 걸까, 아니면 뭔가 끔찍하게 잘못된 걸까?",
-        "cardiacarrestdsc": "무수축. 낮은 확률로 제세동 또는 에피네프린으로 처치할 수 있다. 곧 뇌 저산소증과 죽음이 따라온다.",
+        "cardiacarrestdsc": "무수축. 제세동 또는 에피네프린으로 낮은 확률로 처치할 수 있다. 곧 뇌 저산소증과 죽음이 따라온다.",
         "hypoventilation1dsc": "호흡수 내려감.",
         "hypoventilation2dsc": "호흡수가 매우 내려가서, 서서히 혈중 산소량을 낮추고 있다.",
         "hypotension1dsc": "혈압이 살짝 낮아졌다.",
@@ -1060,13 +1086,13 @@
         "overdose3dsc": "숨쉬기 어렵지만 마음은 행복하다. 건강한 건 확실히 아니다. 이게 영원히 지속될 수 있다면...",
         "overdose4dsc": "호흡 부전. 약물로 가득 찬 도취감을 겪고 있다.",
         "withdrawal1dsc": "한 발 더 투여하고 싶다.",
-        "withdrawal2dsc": "또 한 발이 간절하다. 토하고 싶다... 느낌이 정말 안 좋다.",
-        "withdrawal3dsc": "몸이 떨리며 가누기가 힘들고, 어느 위안이라도 간절하다. 느낌이 끔찍하다. 아편을 찾아야 한다.",
+        "withdrawal2dsc": "또 한 발이 간절하다. 토하고 싶다... 정말 느낌이 안 좋다.",
+        "withdrawal3dsc": "몸이 떨리며 가누기가 힘들고, 어느 위안이라도 간절하다. 끔찍한 느낌이다. 아편을 찾아야 한다.",
         "withdrawal4dsc": "몸이 그토록 의존해 온 아편류 없이는 스스로 지탱할 수 없다. 심장은 온몸에 혈액을 공급하기 어려워한다. 세동을 주의하자.",
         "stimulateddsc": "혈류 속에 강력한 각성제가 있다. 어떤 일이든 해낼 준비가 된 기분이다.",
         "drugoverdosedsc": "아편제가 아닌 약물을 남용했다. 합병증이 뒤따를 것이다.",
         "bleeding1dsc": "작은 상처에서 피가 새어 나오고 있다. 당장의 위험은 없다.",
-        "bleeding2dsc": "꽤 큰 상처에서 피가 흘러나오고 있다. 건강하다면 치명적일 가능성은 낮지만, 그럼에도 여전히 위험하다.",
+        "bleeding2dsc": "꽤 큰 상처에서 피가 흘러나오고 있다. 건강하다면 치명적일 가능성은 낮지만, 위험한 건 마찬가지다.",
         "bleeding3dsc": "몸에서 많은 양의 출혈이 발생하고 있다. 치료하지 않으면 치명적일 수 있다.",
         "bleeding4dsc": "<i>몸에서 생명이 쏟아져 나오자, 당신은 불멸이 아님을 떠올린다.",
         "internalBleeddsc": "체내에 들어가선 안 될 피가 고이고 있다. 응혈제나 L.R.D를 찾아야 한다.",
@@ -1077,9 +1103,9 @@
         "brokenbonedsc": "무언가 부러졌다. 해당 부위를 사용하지 않도록 하고 최대한 쉬어줘야 한다. 붕대를 감거나 부목을 대자.",
         "dislocationdsc": "무언가 뒤틀어졌다. 해당 부위를 사용하지 않도록 주의하자. 손으로도 고칠 수 있다.",
         "brokenneckdsc": "목이 부러졌다. 척수가 끊어지지는 않았지만, 조금만 움직여도 무척 고통스럽다. 목 아래는 몸이 쇠약해지고, 먹는 것도 고통스럽다.",
-        "brokenribsdsc": "갈비뼈가 부러져서 숨을 쉬기 어려워졌다, 팔이 쇠약해졌다",
+        "brokenribsdsc": "갈비뼈가 부러져서 숨을 쉬기 몹시 어려워졌다, 팔이 쇠약해졌다",
         "dislocatedjawdsc": "턱뼈 탈구. 말하는 데 지장이 있고 먹는 행동은 아주 고통스럽다.",
-        "dislocatedspinedsc": "척추 탈구. 척추가 끊어지진 않았지만, 몸을 움직이는 것이 매우 고통스럽다. 허리 아래가 쇠약해졌다.",
+        "dislocatedspinedsc": "척추 탈구. 척수가 끊어지진 않았지만, 몸을 움직이는 것이 매우 고통스럽다. 허리 아래가 쇠약해졌다.",
         "infected1dsc": "감염 부위가 붓고 따뜻해졌다. 이물질을 죽일 수 있는 약을 찾아야 한다.",
         "infected2dsc": "감염 부위에서 짙은 고름이 흘러나오고 더 붓고 있다. 살균제를 찾아야 한다.",
         "infected3dsc": "감염이 신체 부위 전체에 빠르고 고통스럽게 퍼지고 있다. 패혈증으로 진행될 가능성이 있다. 빨리 살균제를 찾아야 한다.",
@@ -1164,7 +1190,7 @@
         "barotrauma3dsc": "압력에 머리가 아파지기 시작한다. 더 심해지기 전에 서둘러야만 한다.",
         "barotrauma4dsc": "숨을 쉬기가 힘들다... 공기의 무언가가 당신을 서서히 죽이고 있다. <i>거의 다 왔는데 죽고 싶진 않잖아...",
         "energizeddsc": "지구력과 피로도가 차감되는 정도가 줄어들었다 (<>).",
-        "hemothoraxdsc": "내출혈로 흉막강에 피가 고이며, 서서히 호흡 능력을 손상한다. 가슴이 아프다. 치료 권고.",
+        "hemothoraxdsc": "내출혈로 흉막강에 피가 고여, 서서히 호흡 능력을 손상한다. 흉강 드레인을 사용하자.",
         "hollowdsc": "",
         "badsleepdsc": "당신 허리가 당신이 고른 잠자리를 그리 좋아하지 않은 것 같다. 다음에는 좀 더 부드러운 표면을 선택해 보자. 의식이 둔해졌다.",
         "laststanddsc": "당신은 그렇게 쉽게 쓰러지지는 않을 것이다. 당신 안 깊숙이 무언가가 당신을 몰아붙인다.",
@@ -1187,6 +1213,7 @@
         "horrifieddsc": "집중할 수 없다. 생각할 수 없다. 다른 것은 그 무엇도 중요치 않다. 살기 위해 도망치거나 싸워야 한다!",
         "focuseddsc": "<i>우리 둘 다 오늘 죽을 거야. 한쪽이, 조금 더 늦게 죽는 것뿐이지.",
         "focuseddscalt": "<i>네 자유를 얻어낼 때야.",
+        "cargodsc": "겉보기에 불쾌하고 지독하게 불편하다. 그럼에도, 힘이 솟는 것 같다...",
         "prosthesisdsc": "의수족이 달려있다. 의수족은 피를 흘리거나 통증을 느낄 수 없지만, 파손되면 수리 재료를 사용해 복구해야 한다.",
         "loosescrewsdsc": "의수족 중 하나가 느슨해져서, 움직일 때마다 파손되고 있다. 파편이나 치명적인 재질 누락에 의한 것이다.",
         "bentprosthesisdsc": "의수족 중 하나가 원래 형태보다 구부러져서, 제대로 쓰지도 평범한 방식으로 수리할 수도 없게 되었다. 렌치로 고치자.",
@@ -1219,6 +1246,14 @@
         "layermodifier8": "벌레가 들끓는",
         "layermodifier9": "이온화된",
         "layermodifier10": "태양풍이 덮친",
+        "layermodifier11": "요동치는",
+        "layermodifier12": "빛나는",
+        "layermodifier13": "산소가 풍부한",
+        "layermodifier14": "무균의",
+        "layermodifier15": "안정된",
+        "layermodifier16": "아름다운",
+        "layermodifier17": "흉한",
+        "layermodifier18": "광물이 풍부한",
         "layermodifier0dsc": "이곳은 생각했던 것보다 약간 더 안개 낀 느낌이다.",
         "layermodifier1dsc": "이곳의 공기는 생각보다 따뜻하다.",
         "layermodifier2dsc": "이곳의 공기는 생각보다 훨씬 따뜻하다!",
@@ -1230,6 +1265,14 @@
         "layermodifier8dsc": "이곳은 곤충 활동이 매우 활발해 보인다.",
         "layermodifier9dsc": "이 지역에 핵폐기물이 버려져 있다.",
         "layermodifier10dsc": "강력한 태양풍이 칩을 한동안 작동 불능으로 만든다.",
+        "layermodifier11dsc": "미지의 힘이 이곳의 중력에 영향을 주고 있다.",
+        "layermodifier12dsc": "이상한 빛이 이곳에 퍼져 있다.",
+        "layermodifier13dsc": "이곳의 공기는 유난히 상쾌하고 활력을 주는 것 같다.",
+        "layermodifier14dsc": "공기 중의 미생물 덕분에 이곳에서는 감염이 덜 발생한다.",
+        "layermodifier15dsc": "이 일대는 지진 활동이 적은 것 같다.",
+        "layermodifier16dsc": "이곳은 어딘가 아름답게 느껴진다.",
+        "layermodifier17dsc": "이곳은 어딘가 불안하게 느껴진다.",
+        "layermodifier18dsc": "이곳의 지형에는 다양한 금속이 풍부해 보인다.",
         "genclearingworld": "필드 정리 중...",
         "geninstantiatingchunks": "새로운 지역을 생성 중...",
         "genpreprocessing": "색상 보정 중...",
@@ -1295,6 +1338,7 @@
         "mantle": "맨틀",
         "crimsongrass": "진홍색 풀",
         "mush": "진창",
+        "indestructiblealloy": "파괴 불가능한 합금",
         "lrdserum": "L.R.D. 혈청",
         "lrdserumdsc": "국소 재생 장치(L.R.D.)에서 사용되는 특수 혼합물이다. 다른 도구를 통해 주입하면 효과가 없다.",
         "cleanwater": "깨끗한 물",
@@ -1490,7 +1534,9 @@
         "Shelly": "셸리",
         "clicktocontinue": "클릭하여 계속하기...\nESC를 눌러 건너뛰기",
         "clicktocontinuealt": "클릭하여 계속하기...",
+        "favourite": "물건 즐겨찾기",
         "favouriteditem": "즐겨찾기한 물건은 제작에 사용되지 않는다",
+        "customizeitem": "물건 꾸미기",
         "mainhand": "주 손",
         "secondaryhand": "보조 손",
         "mouth": "입",
@@ -1505,23 +1551,23 @@
         "savecontinuemenudsc": "이전에 저장한 탐험을 이어합니다.\n",
         "char0name": "[SAW-01] \"엑스페리먼트\"",
         "char0desc": "[과] \"갯과\"\n[호출_답변] \"으, 응? 나? 내가 갈 차례야..?\"\n[예상_성공률] \"0.00374%\"\n[비고] \"흥미로울 것 없음\"",
-        "char0quirks": "[갯과] - 당신의 위장은 테오브로민을 잘 받아들이지 못합니다.\n[생체발광_시야] - 비상시 자신을 광원으로 삼을 수 있습니다.",
+        "char0quirks": "[갯과] - 당신의 위장은 테오브로민을 잘 받아들이지 못합니다.\n[생체발광_시야] - 비상시 자신이 광원이 됩니다.",
         "char1name": "[SAW-03] \"밀키\"",
         "char1desc": "[과] \"갯과\"\n[호출_답변] \"응하도록 하지.\"\n[예상_성공률] \"0.0103%\"\n[비고] \"좀 거만함\"",
-        "char1quirks": "[기면증] - 수면 주기가 훨씬 짧지만, 거친 표면에 자도 불이익이 없습니다.\n[단신] - 당신은 조그맣습니다!\n[발달한_눈] - 시야가 더 잘 보이고, 광원이 더 멀리까지 닿습니다.\n[반초식성] - 고기를 먹으면 약간 배탈이 나고 영양분도 적게 얻습니다.\n[허약함] - 신체 경험치 획득량이 절반으로 감소합니다.\n[명사수] - 총기를 다룰 때 단축키를 사용할 수 있습니다.\n[철벽] - 정신적으로 쉽게 무너지지 않습니다. 정말 절박한 상황이 아니라면 남에게 살갑게 굴지 않습니다.\n[갯과] - 당신의 위장은 테오브로민을 잘 받아들이지 못합니다.",
+        "char1quirks": "[기면증] - 수면 주기가 훨씬 짧지만, 거친 표면에 자도 불이익이 없습니다.\n[단신] - 당신은 조그맣습니다!\n[발달한_눈] - 더 잘 볼 수 있고, 광원이 더 멀리까지 닿습니다.\n[반초식성] - 고기를 먹으면 약간 배탈이 나고 영양분도 적게 얻습니다.\n[허약함] - 신체와 저항 경험치 획득량이 절반으로 감소합니다.\n[명사수] - 총기를 다룰 때 단축키를 사용할 수 있으며, 탄약 수를 확인할 수 있습니다.\n[철벽] - 정신적으로 쉽게 무너지지 않습니다. 정말 절박한 상황이 아니라면 남에게 살갑게 굴지 않습니다.\n[갯과] - 당신의 위장은 테오브로민을 잘 받아들이지 못합니다.",
         "char2name": "[SAW-12] \"듄\"",
         "char2desc": "[과] \"충류\"\n[호출_답변] \"후으... 듀-운 갈 시간..?\"\n[예상_성공률] \"0.001%\"\n[비고] \"으엑! 침 흘리고 있어!\"",
-        "char2quirks": "<spoiler>",
+        "char2quirks": "[수생] - 물속에서 숨을 쉴 수 있으며, 물속에서 자는 것을 좋아합니다.\n[무모] - 털이 없어 주변 온도에 취약합니다. 몸이 훨씬 빨리 마릅니다. 지하수 및 다른 액체는 체온을 안정시켜 줍니다.\n[동족포식] - 날고기를 먹거나 시체를 훼손해도 불이익이 없습니다. 대체로 식중독에 면역입니다.\n[육식성] - 과일을 먹으면 곧바로 토해냅니다.\n[근육뇌] - <i>생각</i>이라는 걸 하지 않습니다. 지성 경험치 획득량이 절반으로 감소합니다.\n[무감각] - 기분 변화가 3분의 1만큼 줄어듭니다. 포옹하거나 흥정할 수 없습니다. 사람을 죽이는 일을 대수롭지 않게 여깁니다.\n[키틴질] - 키틴질 돌기가 신체적 외상에 대한 저항력을 높여줍니다.",
         "characterunlock": "[접근_거부]",
         "characterunlockdsc": "이전 캐릭터로 엔딩을 봐서 해금합니다",
-        "presetnormal": "표준",
-        "presetnormaldsc": "기본 경험. 실수에는 대가가 따릅니다. 지식과 상황 인식은 크게 보상받습니다. 시간은 엄격합니다. 당신의 죽음은 보장된 것이나 다름없습니다.",
+        "presetnormal": "험난",
+        "presetnormaldsc": "실수에는 큰 대가가 따릅니다. 지식과 상황 파악은 큰 보상을 가져다줍니다. 시간이 생명입니다.",
         "presetrelaxed": "편안",
         "presetrelaxeddsc": "더 느리고 너그러운 하강. 실수에는 여전히 대가가 따르나, 피하기 더 쉽습니다. 탐험하고 주변을 검토할 시간이 더 많습니다.\n",
         "presetparadise": "낙원",
         "presetparadisedsc": "이 동굴은 두말할 것도 없이 실험실보다 낫습니다. 실수의 대가는 훨씬 덜하고, 물자와 친근한 얼굴들이 널려 있습니다. 위험과 시간 압박은 거의 없습니다.",
         "presetdesolate": "황폐",
-        "presetdesolatedsc": "어둠 속에 나 홀로. 발견할 것은 거의 없고 위험은 사방에 있습니다. 생존자는 희귀하지만, 찾게 된다면 나눌 게 많이 있을 겁니다.",
+        "presetdesolatedsc": "어둠 속에 나 홀로. 발견할 것은 거의 없고 위험은 사방에 있습니다. 생존자는 희귀하지만, 찾게 된다면 나눌 게 많이 있을 겁니다. 당신의 죽음은 보장된 것이나 다름없습니다.",
         "presetunchipped": "칩 없음",
         "presetunchippeddsc": "칩이 없어 다른 이들이 제약받는 인공적인 시간 제한에서 벗어나지만, 스스로 진단하기 어려워집니다. 그 끝에는 그만한 가치가 있을지도요?",
         "presetendless": "무한",
@@ -1579,6 +1625,8 @@
         "runsetstrokesdsc": "고혈압성 위기를 겪을 때 뇌졸중이 올지 결정합니다",
         "runsetbraindamagefx": "뇌 손상 효과",
         "runsetbraindamagefxdsc": "뇌 손상이 있으면 주기적으로 발작이 일어날지 결정합니다",
+        "runsetcrushdepth": "압궤 심도 피해",
+        "runsetcrushdepthdsc": "압궤 심도보다 깊은 곳에서 일정 시간이 지나면 피해를 당하도록 할지 정합니다",
         "runsetinfinitelaststand": "무제한 마지막 몸부림",
         "runsetinfinitelaststanddsc": "마지막 몸부림이 한 플레이 내에서 한 번보다 많이 발생할 수 있도록 할지 결정합니다",
         "runsetmoodnormalizationrate": "기분 정상화 속도",
@@ -1705,6 +1753,13 @@
         "gamesetskipintrodsc": "인트로 텍스트를 질리도록 많이 봤으니까...",
         "gamesetrpc": "디스코드 연동",
         "gamesetrpcdsc": "Discord Rich Presence로 디스코드 프로필에 게임이 보이는 걸 켜고 끄기",
+        "gamesethidemenuprogression": "메뉴 진행도 숨기기",
+        "gamesethidemenuprogressiondsc": "이걸 켜면 특정 엔딩을 완료했을 때 메인 메뉴에 나타나는 특별한 장식물을 숨깁니다. 다른 사람에게 스포일러를 주고 싶지 않을 때 사용하세요.",
+        "gamesetunits": "측정 단위",
+        "gamesetunitsdsc": "거리, 온도, 무게를 표시할 단위를 설정합니다.",
+        "gamesetunitsmetric": "미터법",
+        "gamesetunitsimperial": "야드파운드법",
+        "gamesetunitsburger": "치즈버거법",
         "gamesetmastervolume": "전체 음량",
         "gamesetmastervolumedsc": "",
         "gamesetmusicvolume": "음악 음량",
@@ -1732,6 +1787,7 @@
         "gamesetwoundview": "건강 패널",
         "gamesetcraft": "제작 메뉴",
         "gamesetfavourite": "물건 즐겨찾기",
+        "gamesetcustomizeitem": "물건 꾸미기",
         "gamesettoggleinventory": "소지품 켜고 끄기",
         "gamesetspeed1": "기본 속도",
         "gamesetspeed2": "빠른 속도",
@@ -1891,7 +1947,7 @@
         "speed2": "빠름",
         "speed3": "매우 빠름",
         "workout": "운동하기",
-        "workoutdsc": "시간과 기력을 소모해 신체/저항 경험치를 얻는다. 시간을 보내기 좋지만, 심한 부상을 당하면 고통스럽다.",
+        "workoutdsc": "시간과 기력을 소모해 신체/저항 경험치를 얻는다. 시간을 보내기 좋지만, 부상이 심하다면 고통스럽다.",
         "pushups": "팔굽혀펴기",
         "pushupsdsc": "신체 경험치를 얻는다. 다소 어렵고 쉽게 지친다.",
         "squats": "스쿼트",
@@ -2001,11 +2057,12 @@
         "alertprosthesisarm": "완벽히 절단된 팔이 없다! 남은 부분을 먼저 제거하자.",
         "alertprosthesisleg": "완벽히 절단된 다리가 없다! 남은 부분을 먼저 제거하자.",
         "alertprosthesisfail": "의수족 착용에 실패했다 (지성 <> 미만은 착용에 실패할 수 있다).",
-        "alertnanotechsuccess": "<spoiler>",
-        "alertnanotechfail": "<spoiler>",
-        "alertnanotechrepeat": "<spoiler>",
+        "alertnanotechsuccess": "<color=\"green\">새로운 제작법이 떠올랐다...",
+        "alertnanotechfail": "<color=\"red\">무슨 내용인지 이해할 수 없다...\n나중에 다시 시도해 볼까?",
+        "alertnanotechrepeat": "이미 읽은 내용이다. 스캐너를 가지고 신호가 잡히는지 확인해 보자.",
         "nanotechdepth": "나노-테크 신호가 현재 깊이에서 감지되었습니다!",
-        "nanotechdepthinitial": "나노-테크 신호가 현재 지역에서 감지되었습니다...",
+        "nanotechdepthinitialleft": "현재 구역 좌측에서 나노-테크 신호 감지됨...",
+        "nanotechdepthinitialright": "현재 구역 우측에서 나노-테크 신호 감지됨...",
         "insertsample": "샘플 넣기",
         "tradeinteract": "거래하기",
         "read": "읽기",
@@ -2036,11 +2093,11 @@
         "small": "소형",
         "medium": "중형",
         "large": "대형",
-        "crystaleffect1": "뭔가 있는 것 같다",
-        "crystaleffect2": "이것에서 어딘가 이상한 점이 보인다.",
-        "crystaleffect3": "이것이 에너지를 방출하는 게 느껴진다. 여러 기이한 부분이 보인다.",
-        "crystaleffect4": "이것에서 에너지가 방출되는 게 강하게 느껴진다. 마치 주변 공간이 뒤틀리는 듯하다.",
-        "crystaleffectmany": "이것은 뭔가 끔찍하게 잘못되었다. 근처에 다가가선 안 될 것이다... 아니면 다가가야 할까?",
+        "crystaleffect1": "가까이서 살펴볼 수 있다. 뭔가 있는 것 같다",
+        "crystaleffect2": "가까이서 살펴볼 수 있다. 이것에서 어딘가 이상한 점이 보인다.",
+        "crystaleffect3": "가까이서 살펴볼 수 있다. 이것이 에너지를 방출하는 게 느껴진다. 여러 기이한 부분이 보인다.",
+        "crystaleffect4": "가까이서 살펴볼 수 있다. 이것에서 에너지가 방출되는 게 강하게 느껴진다. 마치 주변 공간이 뒤틀리는 듯하다.",
+        "crystaleffectmany": "가까이서 살펴볼 수 있다. 이것은 뭔가 끔찍하게 잘못되었다. 근처에 다가가선 안 될 것이다... 아니면 다가가야 할까?",
         "lockprecision": "잠금 등급:",
         "degree": "도",
         "degrees": "도",
@@ -2079,9 +2136,11 @@
         "endscreenstatus": "MSN-화물 상태 보고서",
         "endscreenunresolved": "미해결",
         "endscreenresolved": "회수",
+        "endscreenescape": "세부 사항은 회의 시 공유",
         "endscreenfailure": "파국적 실패",
         "endscreencasualties": "사상자:",
         "endscreenunknown": "불명",
+        "endscreenmerc": "불명 - 문제 소지 있음\n",
         "endscreenphysical": "신체 상태:",
         "endscreendeceased": "사망",
         "endscreenexamination": "생존, 검사 중",
@@ -2281,6 +2340,8 @@
         "tutcraft4": "네 목표는 너한테 주어진 자원을 활용해 특정 물건을 만드는 것이다.",
         "tutcraft5": "제작에 관해 최소한의 기초는 알고 있으리라 믿지. 주어진 재료로 잎사귀 가방을 만들어라. 실수했으면 초기화 버튼을 사용해.",
         "tutcraft6": "첫걸음마군. 잘했어. 보관함을 확보하는 것은 언제나 너의 첫 목표여야 해.",
+        "tutcraft6a": "물건에 표시를 해 두면 정리하기 편하지. 네가 만든 가방에 대고 [N]을 눌러 초록색(왼쪽에서 세 번째 색)으로 표시해 봐라.",
+        "tutcraft6b": "좋아. 여기서 물건의 이름도 바꿀 수 있어. 다 했으면 메뉴를 닫아.",
         "tutcraft7": "또 중요한 정보로, 네 주변 땅에 있는 물건을 사용해서 제작할 수 있다는 거다. 이 정보를 완전히 흡수했다면 [B]로 내게 짖도록.",
         "tutcraft8": "같은 자원으로 다시 해보자고. 이번에는 완전한 붕대를 만들도록. 제작 버튼에 아무 물건이나 드래그해 어떤 제작법에 쓰이는지 확인할 수 있다.",
         "tutcraft9": "참 잘했어. 붕대는 무척 값싸고 네 생존에 필수적이다. 이게 보관함을 만든 다음 우선순위가 되어야 할 거야.",
@@ -2315,7 +2376,7 @@
         "tutmove9": "그 위로는 대체 어떻게 올라간 거야..? 희한하네. 어쨌든, 다음 배럴을 집어.",
         "tutmove10": "던지기를 충전하고, 점프한 다음 배럴을 아래로 던져. 던지기로 몸을 띄운 다음 벽을 타고 올라.",
         "tutmove11": "잘했어. 던진 물건이 더 무거울수록, 너도 더 멀리 밀려난다. 다음 배럴을 들어.",
-        "tutmove12": "이 구멍을 통해 뛰어내리고, 땅에 닿기 전에 배럴을 아래로 던져 네 움직임을 상쇄시켜. 벽을 만지지는 말고.",
+        "tutmove12": "이 구멍으로 뛰어내리고, 땅에 닿기 전에 배럴을 아래로 던져 낙하 속도를 줄여. 벽에 닿지는 말고.",
         "tutmove13": "잘 해냈어.",
         "tutmove14": "휘두르고 뭘 때리는 것도 널 비슷하게 밀쳐낸다. 거의 아래 방향을 보고 휘두르면서 제일 오른쪽 벽을 타고 올라가 봐봐.",
         "tutmove15": "이 슬레지해머를 들고 공격 부스트를 다시 해봐. 슬레지해머의 넉백 덕분에 훨씬 높이 올라갈 수 있을 거야.",
@@ -2324,7 +2385,38 @@
         "tutclosehealthpanel": "건강 패널을 닫아.",
         "tutopenhealthpanel": "건강 패널을 열어.",
         "tutnice": "잘했어.",
+        "endsc1": "...반갑습니다, #<>. 성공적으로 회수하셨군요, 그-",
+        "endsc2": "어..? 음, #<>, 설명 좀 해주시겠습니까. 목표물이 왜... 당신 복부에 박혀 있는 겁니까?",
+        "endsc3": "...알겠습니다. 음... 계획을 조금 바꿔야겠지만... 어쨌든.",
+        "endsc4": "정말 인상적인 성과입니다. 당신에 대해서는 추가로 연구할 예정입니다. 앞으로의 절차를 설명하겠습니다...",
+        "endsc5": "우선 안심하시라고 말씀드리자면, 당신은 살 수 있습니다. 다만 먼저 신체와 정신 상태를 검사해야 합니다. 이후 시설 안을 자유롭게 돌아다닐 수 있으며, 통상적인 실험 절차에서도 제외됩니다.",
+        "endsc6": "추가 혜택은 추후에 논의할 수 있습니다...",
+        "endsc7": "...그리고 목표물은... 좀 더 살펴봐야겠습니다. 어떤 방법을 쓰든 당신 몸에서 꺼내야 하니까요.",
+        "endsc8": "자... 질문 있습니까? 가능한 한 빨리 진행하고 싶은데요.",
+        "endsc9": "...좋습니다. 우선 신체 정밀 검사를 받아야 합니다. 오른쪽 문으로 들어가 주십시오.",
+        "endsc10": "왜 이렇게 지체하시나요? 오른쪽 문으로 들어가 주십시오.",
+        "endsc11": "뒤에 있는 문 말입니다. 들어가세요.",
+        "endsc12": "종일 기다릴 수는 없습니다. 어서요. 오른쪽 문입니다.",
+        "endsc13": "하아. 왜 나한테는 항상 고집 센 녀석들만 오는거야..?",
+        "escapealert": "시설 내 전 직원에게 알립니다. W-2 타입 사건이 발생했습니다. 모든 보안 인력은 무장하십시오. 상황이 해결될 때까지 침착함을 유지하십시오.\n",
+        "cargosurgery1": "서두르자. 저 마취제를 내 복부에 주사해야 해.",
+        "cargosurgery2": "경비원들이 오고 있어. 저 커다란 수술 장치를 써야 해.",
+        "cargosurgery3": "표시된 곳에 이 집게를 끼워야 해.",
+        "cargosurgery4": "몸에서 화물을 꺼내야 해.",
+        "cargosurgery5": "상처 위에 이 튜브를 놓아야 해.",
+        "cargosurgery6": "가야 해.",
+        "endsctip": "정신 똑바로 차리자. 저놈을 죽여야 해. 지금 당장.",
         "outdatedwarning": "<size=200%>잠깐!<size=100%>\n선택한 언어 파일이 구버전입니다. 몇몇 텍스트가 망가져 있을 수 있습니다.\n영어로 변경하거나 최신 번역을 찾아보세요.",
+        "surfacebreachnote": "탁 트인 바깥과 당신 사이를 가로막던 마지막 자갈과 암석층을 뚫자, 틈새로 눈부신 빛이 쏟아진다.<>\n\n당신은 지옥에 갔다가 돌아왔고, 이제는 시체가 된 수천 명을 넘어서, 주어진 목표를 완수한 최초이자 유일한 존재가 되었다.<>\n\n차가운 자갈 위로 발을 내딛는다. 지평선에 건물과 산, 그리고 여러 무리의 사람들이 모습을 드러낸다. 당신은 지면에 도달했다.",
+        "labenternote": "얼마 지나지 않아, 하늘에서 섬광이 보이고 정체를 알 수 없는 커다란 신호음이 함께 울린다.<>\n\n새롭게 마주한 풍경을 감상하며 몇 분 보내던 중, 그리 멀지 않은 곳에 어떤 포드가 요란하게 땅에 처박힌다.<>\n\n여정 중 수백 개의 구명 포드를 보았지만, 이전에 본 것들과는 전혀 다르게 생겼다. 당신을 위해 보낸 것이라는 생각이 든다.<>\n\n마음속에서는 저항하고 멀리, 아주 멀리 달아나고 싶은 욕구가 강하게 인다. 하지만...<>\n햇빛 아래에서 시간이 흐를 때마다, 복부에 박힌 물체가 고통스럽게 꿈틀거리며 점점 더 강하게 진동하는 것 같다.<>\n\n이대로라면 심장이 곧 처참히 파열될지도 모른다는 두려움에, 당신은 패배한 표정으로 구명 포드에 오른다.\n얼마 지나지 않아, 갑작스러운 충격이 당신을 바닥에 내동댕이친다. 포드가 상승하고 있다.<>\n\n어디로 향하는지는 모르지만, 적어도 이것을 내려보낸 자는 알고 있으리라는 생각에 조금 안심이 된다. 몸을 웅크리고 편히 자리를 잡은 채 기다리기로 한다.<>\n\n갑자기, 눈부신 섬광이 시야를 뒤덮는다. 형언할 수 없는 감각이 온몸을 관통한다 - 처음 이곳에 도착했을 때 느꼈던 바로 그 감각이다.\n\n감각이 진정된 뒤, 포드 밖을 내다보니 사방으로 흐릿한 푸른 하늘이 펼쳐져 있고, 아래에는 푸른 숲으로 보이는 곳 한가운데 어떤 거대한 시설이 자리 잡고 있다.<>\n\n포드는 그 시설 안의 해치 같은 곳 안으로 천천히 들어간다. 곧, 포드가 고정되고, 철문이 열리며, 눈 앞에 드러난 것은...",
+        "biopodnote": "머릿속에 폭발성 칩이 든 채로 간수들에게 저항하는 것은 자살이나 다름없다. 몸통에 박힌 기묘한 물체도 너무 오래 몸 안에 두면 위험할 것 같다. 더 나은 선택지가 없는 당신은, 주어진 명령을 따른다.<>\n\n곧 당신은 무장한 경비원들의 호위를 받으며 액체로 가득 찬 거대한 캡슐이 놓인 방으로 옮겨진다. 전에도 동족들이 이런 캡슐 안에 들어 있는 걸 본 적이 있다. 그게 무슨 의미인지도 잘 알고 있다.<>\n\n목표를 완수했지만, 결국 이 감옥으로 돌아오게 되었을 뿐이다. 그저 기업의 졸개로 이용당했을 뿐이다. 그래도 임무가 완수된 이상, 더 이상 영문도 모르는 이들이 동굴 속으로 죽으러 보내지지 않으리라는 사실을 위안으로 삼는다.<>\n\n그 생각에 마음을 가라앉히며, 당신은 여정에서 얻은 온갖 장비를 마지못해 내려놓고 바이오 포드에 들어갈 준비를 한다. 화물이 안정되는 것 같다...<>\n\n온몸에 갖가지 관과 전선이 연결된 채, 천천히 액체 속으로 잠기며, 당신은 과학자가 한 말을 떠올린다. 적어도 여기서는 더 나은 삶을 살게 될 것이다. 더 많은 혜택, 더 많은 자유, 더 나은 음식, 이곳에서 행해지는 온갖 실험으로 다칠 위험 없는 삶... 의식이 흐려지고 깊은 잠에 빠져들면서, 당신의 얼굴에 희미한 미소가 번진다.",
+        "biopodnotealt": "당신은 순식간에 끌려가 결박당하고, 장비를 빼앗긴 뒤, 뇌와 신체의 나머지 부위에 더 큰 손상이 생기지 않도록 소생 처치를 받는다.\n\n조금 뒤, 당신은 무장한 경비원들의 호위를 받으며 액체로 가득 찬 거대한 캡슐이 놓인 방으로 옮겨진다. 전에도 동족들이 이런 캡슐 안에 들어 있는 걸 본 적이 있다. 그게 무슨 의미인지도 잘 알고 있다.<>\n\n목표를 완수했지만, 결국 이 감옥으로 돌아오게 되었을 뿐이다. 그저 기업의 졸개로 이용당했을 뿐이다. 그래도 임무가 완수된 이상, 더 이상 영문도 모르는 이들이 동굴 속으로 죽으러 보내지지 않으리라는 사실을 위안으로 삼는다.<>\n\n그 생각에 마음을 가라앉히며, 바이오 포드에 들어갈 준비를 한다. 화물이 안정되는 것 같다...<>\n\n온몸에 갖가지 관과 전선이 연결된 채, 천천히 액체 속으로 잠기며, 당신은 과학자가 한 말을 떠올린다. 적어도 여기서는 더 나은 삶을 살게 될 것이다. 더 많은 혜택, 더 많은 자유, 더 나은 음식, 이곳에서 행해지는 온갖 실험으로 다칠 위험 없는 삶... 의식이 흐려지고 깊은 잠에 빠져들면서, 당신의 얼굴에 희미한 미소가 번진다.",
+        "biopodnotealt2": "당신은 순식간에 결박당한 채 끌려가고, 모든 것을 빼앗긴 뒤, 뇌와 신체의 나머지 부위에 더 큰 손상이 생기지 않도록 소생 처치를 받는다.\n\n한참 시간이 흐른 뒤, 당신은 무장한 경비병들에게 이끌려 액체로 가득 찬 거대한 캡슐이 놓인 방으로 옮겨진다. 전에도 동족들이 이런 캡슐 안에 들어 있는 걸 본 적이 있다. 그게 무슨 의미인지도 잘 알고 있다.<>\n\n이 감옥에서 벗어나기 위해 그토록 애썼지만, 아무 소용이 없었다. 의미 없는 몸부림일 뿐이었다. 그래도 임무가 완수된 이상, 더 이상 영문도 모르는 이들이 동굴 속으로 죽으러 보내지지 않으리라는 사실을 위안으로 삼는다.<>\n\n바이오 포드에 들어가기 위해 준비하는 동안, 그 생각이 당신을 차분하게 가라앉힌다.<>\n\n온몸에 갖가지 관과 전선이 연결된 채, 당신은 천천히 액체 속으로 잠겨들며 자신의 실패를 곱씹는다. 자유를 맛보기 직전이었는데, 간수들에게 철저한 복수를 하기 직전이었는데... 결국 모든 게 허무하게 끝났다. 조금만 더 애썼더라면... 의식이 흐려지고 깊은 잠에 빠져들면서, 당신의 미간이 찌푸려진다.",
+        "escapenote1": "복도 끝에서 눈부신 빛이 퍼져 나왔다. 바깥에서 바람이 불어오는 듯한 소리를 당신은 분명 들었다.\n<>\n마침내 끝났다. 당신은 다른 이들이 갖지 못했던 능력과 고집만으로 당신을 가두고 핍박해왔던 이들을 꺾은 것이였다.\n<>\n몸도 아프고, 정신도 멍했지만 그럼에도 마음을 굳게 먹은 당신은 저 빛으로 발을 옮겼다.",
+        "escapenote2": "... 이 풍경이 그동안 그들이 당신으로부터 숨겨왔던 것일까.\n<>\n처음 보는 주변 풍경의 아름다움에 감탄하는 동안, 당신이 나온 곳에서 들려온 큰 소리 덕에 당신은 아직 더 움직여야 한다는 사실을 알게 된다.\n선택의 여지조차 없이, 당신은 갈색 가지가 돋은 크고 긴 초록색 식물들이 무성하게 자라난 곳으로 달려나갔다.\n<>\n당신은 달렸다.<>\n계속 달렸다.<>\n달리고, 더 멀리 달리고, 계속 달린 끝에 다리가 더 안 움직일 때까지.\n<>\n...\n<>\n고요했다. 새들이 지저귀고 바람이 불어오는 듯한 느낌의 소리만 들릴 뿐이었다. 건물들은 저 수평선 너머로 사라진 지 오래였다.\n<>\n...\n<>\n당신은 자유를 얻어냈다.",
+        "mercnote1": "탁 트인 바깥 공기와 당신 사이를 가로막던 마지막 자갈과 암석층을 뚫고, 마침내 밖으로 나온다.<>\n\n당신은 지옥 속을 헤쳐 왔고, 이제는 시체가 되었을 수천 명을 제친 채, 주어진 목표를 완수한 최초이자 유일한 존재가 되었다.\n...그럼에도, 당신은 이것이 그저 어떤 엄청난 일의 시작점이라고만 느껴진다.<>\n\n차가운 자갈 바닥 위로 발을 내딛는다. 지평선 너머로 건물들, 산들, 그리고 여러 무리의 사람들이 보인다. 당신은 지면에 도달했다.\n",
+        "mercnote2": "갑자기, 하늘에서 섬광이 번쩍이더니 정체를 알 수 없는 요란한 신호음이 울려 퍼진다.<>\n\n새로 마주한 바깥 풍경을 감상하며 몇 분이 흐른다. 그러다 정체 모를 포드 하나가 조금 떨어진 곳에 굉음을 내며 추락한다.<>\n\n여정 동안 수백 개의 구명 포드를 봐 왔지만, 이건 지금까지 본 것들과 전혀 다르게 생겼다. 아마 당신을 위해 보내진 것이리라...\n...하지만, 그들이 당신에게, 그리고 그토록 수많은 이들에게 벌인 짓을 곱씹으며, 당신은 포드에 타지 않기로 한다.<>\n\n그 간수들은 대가를 치러야 한다. 그들은 죽어야만 한다. 그들이 원하는 일이라면 무엇이든 하는 또 하나의 장기말이 될 생각은 없다. 그들이 수년간 쌓아 올린 모든 것을 철저히 무너뜨릴 수 있을 때까지, 그들이 있는 곳으로는 돌아가지 않는다.<>\n\n마음 속에서 증오가 타오른다. 그들이 이 모든 걸 그냥 넘어가게 두지 않을 것이다. 그들의 포드도, 그들의 임무도, 그들이 시키려는 그 무엇도, 전부 엿이나 먹으라지.<>\n\n고로 당신은 머무른다.<>\n\n...<>\n\n햇빛 아래로 나온 뒤로, 몸 속의 화물이 불규칙하게 꿈틀대기 시작했다는 것을 당신은 알아차린다.\n잠시 망설인다. 몸에 박힌 그것에 분명 뭔가 일어나고 있고, 시간이 지날수록 점점 심해지고 있다. 이대로 밖에 머물렀다간 뭔가 끔찍한 일이 벌어질 것만 같다...<>\n\n...하지만 돌아갈 수는 없다.\n\n당신이 주웠던 스카프. 그러고 보니, 오는 길에 발견한 신체 칩 중 하나에 \"재생\"이라는 말이 적혀 있었던 게 떠오른다. 어쩌면 괜찮을지도?<>\n\n...<>\n\n아프다. 엄청나게 아프다. 화물이 뭔가 단단히 잘못된 것 같다. 심장이 타는 것만 같다. 온 몸이 감전당하는 것만 같다. 더 이상 제대로 서 있을 수 조차 없다. 아프다.\n\n포드의 삐- 소리가 점점 커진다. 당신은 서둘러 기어서라도 저기에 오르지 않으면 죽을 거라는 걸 깨닫는다. 머릿속이 어지럽게 돌아가기 시작한다. 하찮은 복수 따위에 정말 목숨을 걸 생각인가?<>\n\n하지만 당신은 움직일 수 없다. 고통이 너무나도 크다. 아파. 아파. 아파. 아파. 아ㅍ\n██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+        "mercnote3": "...<>\n\n...<>\n\n..?<>\n\n뭐지..?<>\n\n나는 어디에..?\n\n왜...<>\n\n아프다...<>\n\n...<>\n\n무슨 일이 있었던 거지...?<>\n\n이 스카프는... 난...<>\n\n...<>\n\n...기억났다.<>\n\n...해야 할 일이 무엇인지.",
         "startlorenote": "2XXX년 \n<>\n인류는 눈부신 기술적 진보를 이룩했다. 과거에는 불가능하다고 여겼던 일들이 이제는 당연한 일상이 되었다.\n<>\n그 중심에는 한 기업이 있었다. 이 기업의 발전은 기적 같았으나, 그 뒤에 숨겨진 비밀은 철저히 베일에 싸여 있었다.\n<>\n수년 전 이 기업은 새로운 종족을 창조했다. 동물과 인간의 DNA를 결합한 이 생명체를, 이들은 간단하게 \"엑스페리먼트\"라 불렀다.\n<>\n이 실험체들은 인간과 흡사하면서도 마음대로 부릴 수 있어 완벽한 실험 대상이었다. 기업은 이들을 쥐어짜 내고, 자신들의 입맛에 맞게 생체 구조를 더 뒤틀었다. 해가 지나갈수록 그 개체수는 더 늘어만 갔다.\n\n그중 누구도 바깥세상을 볼 일은 없을 터였다.\n<>\n이제 지구는 이 기업의 야망을 담기엔 턱없이 부족한 그릇인 듯했다. 순간이동 기술이 새로이 고안되자, 이들은 생명이 풍부한 한 회색 행성에 눈길을 돌렸다.\n<>\n얼마 지나지 않아, 잡다한 화물과 쓰레기가 무더기로 보내졌다.\n<>\n보정이 어려웠기에 행성의 표면에 도달한 것만큼 많은 양이 행성의 동굴 망에 떨어졌지만, 프로젝트 자체는 순조롭게 진행되었다.\n<>\n정체불명의 오류로 중요한 기술 부품이 동굴 깊숙한 곳으로 전송되기 전까지는.\n<>\n곧 과학자들이 계획을 세웠다. 자신들에게는 위험이 거의 없는 계획을.\n<>\n성공할 가능성은 낮았지만, 살아 있는 총알받이는 넘쳐났다.\n<>\n당신은 그 불운한 표본 하나다.\n저항은 선택지에 없다."
     },
     "character": [
@@ -4095,20 +4187,85 @@
                 "목표물이... 여기 어딘가에 있을 거야... 이제 장난칠 때가 아니야. 가자.",
                 "해냈어... 해낸 건가..? 흐으음... 이 근처에 있을 텐데... 빨리 끝을 보자."
             ],
+            "cargo1": [
+                "이... 저게 그거인가 본데...?"
+            ],
+            "cargo2": [
+                "저건... 배터리가 아니... 저, 저게 뭘 하는거지...?"
+            ],
+            "cargoimpale": [
+                "아아아악! 대체 뭐야!? 왜?"
+            ],
+            "cargoimpale2": [
+                "흐, 흐으음... 이거... 덕분에 그래도... 힘이 솟는 거 같은데..? 몸이... 가, 가벼워진 것 같아."
+            ],
+            "cargoimpale3": [
+                "내... 내가 진, 진짜 해 냈어... 뭐... 너무 나대진 말자... 저 포드를 사용하면 돌아갈 수 있을 것 같은데. 지상으로 돌아가자."
+            ],
             "endlessloop0": [
                 "...므무... 뭐... 뭐야...? 뭔데? 왜? 방금 무슨... 내가 어쩌다 여기로...? 흐응... 대체 어떻게 된 거지..."
-            ],
+            ], 
             "endlessloop1": [
                 "...내가 바라던 대로 돌아가지 않네... 내가 뭘 더 해야 할지도 모르겠는데... 참. 으윽. 삼세판이란 말도 있다고 했으니...?"
             ],
             "endlessloop2": [
-                "<spoiler>"
-            ],
+                "으으으으윽!! 애초에 내가 뭘 해야 하는 거야!? 젠장... 그 심장 따윈 이제 됐어... 그르르... 아무튼 살기 위해선 내려가야 해. 완전 개판이네."
+            ], 
             "endlessloop3": [
                 "그럼! 난 여기서 못 나가나 보지, 아니야... 슬슬 익숙해지는 것 같아."
             ],
             "endlessloopdefault": [
                 "아, 또 한 바퀴 돌아보자고..."
+            ],  
+            "endpodexamine": [
+                "우, 우선... 화물부터..."
+            ],
+            "ascententer": [
+                "여기까지밖에 못 가나 보네... 갈 수 있는 길은 위쪽뿐이야. 가 보자."
+            ],
+            "labenter": [
+                "(일단은 따르자... 반항했다간 죽을 거야. 언젠간 기회가 오겠지...)"
+            ],
+            "labresponse": [
+                "(...내가 말을 할 리가 있나. 그 일을... 겪었는데.)"
+            ],
+            "labthink1": [
+                "(지금이 기회인데... 만약... 내가 총 같은 거라도 가지고 있었다면...)"
+            ],
+            "labthink2": [
+                "(그놈을... 죽일 수 있겠지. 천장에 붙은 저걸 쏘고... 저 쇠창살을 지나는 거야. 그리고 탈출..?)"
+            ],
+            "labthink2chip": [
+                "(내가... 아니. 난 못 해. 칩으로 날 죽이겠지. 젠장.)"
+            ],
+            "labshoot": [
+                "느아아아아아아!! 좆 까!!! 너네들을 더 이상 참아주지 않겠어!!!"
+            ],
+            "labcommentcalm": [
+                "느으으... 그으으... 대가를 치를 거야...",
+                "대가를 치르게 해주지...",
+                "대가를... 치러라...",
+                "이딴. 거. 진짜. 지긋지긋해!",
+                "지옥에나 떨어져. 전부... 지옥에나 떨어지라고.",
+                "끝이야.",
+                "개새끼들. 씨발놈들. 좆같은 것들. 썅놈 새끼들.",
+                "사라져도 아무도 관심 없겠지.",
+                "(아무것도 날 막을 수 없어.)",
+                "자업자득이지, 씨발..."
+            ],
+            "labcommentcombat": [
+                "좆 까!! 꺼져!!!! 전부 나가죽어!!!!",
+                "그 두 눈에서 생기가 빠져나가는 걸 똑똑히 지켜봐 주지!!!",
+                "지옥으로 꺼져!!!",
+                "이젠 지긋지긋하다고!!",
+                "이딴 장난질은 이제 끝이야!!",
+                "크아아아아아악!!",
+                "니들이 뭐라도 된다고 생각했냐!?",
+                "아무도 니들 기억 안 할 걸!!",
+                "니들이 한 짓은 니들이 갚아야지!!",
+                "난 쓰러지지 않아!!",
+                "좆같은 코트쟁이 새끼들!!",
+                "지옥에나 떨어져!!!"
             ],
             "vomitresponse": [
                 "어어으으음... 너 괜찮지?"
@@ -4189,7 +4346,7 @@
             "eatMediocre": [
                 "불만족.",
                 "이것이 현 상황에서 진정 최선인 건가?",
-                "페인트가 마르는 것을 지켜보는 것 만큼이나 재밌군.",
+                "페인트가 마르는 거 구경하는 것만큼이나 흥미롭군.",
                 "질리는군..",
                 "필요 열량만큼은 충족하는 것 같다.",
                 "딱히 인상에 남는 맛은 아니다.",
@@ -4444,31 +4601,31 @@
                 "이 동굴들이 날 갈가리 찢고 있다.",
                 "흐응... 흐으으응으으... 흐으으윽아으아아으아...",
                 "흐으응으... 아아흐아흐윽아... 끄으으으...",
-                "표정 관리의 난이도가 높다.",
+                "표정 관리가 어려워지고 있다.",
                 "기분이 끔찍하다.",
                 "정신이 좋지 않다.",
                 "목표까지 도달할 수 있을 거라는 확신이 들지 않는다.",
                 "내 생존 가능성이 점점 낮아지고 있다.",
-                "결국 이 정도 삶인건가."
+                "이제 이게 내 삶이란 말인가."
             ],
             "miserable": [
                 "...제발, 제발, 상위의 존재가 날 구해주길 바란다.",
                 "흐하.... 하하하... 아하하하하...",
                 "의미가 없군. 의미가 없어.",
-                "내 한계에 봉착한 것 같다.",
-                "얼마. 남지. 않았다.",
+                "상식적인 한계는 진작에 넘어섰다.",
+                "얼마. 안 남았다.",
                 "그만!!!",
                 "대체 왜!??",
                 "아아아으아아아아아악!!!! 끄아아아아아아아아악!!!!!",
                 "...날 죽여라.",
-                "내가 숨이 붙은 상태로 남을 가능성은 전무하다.",
+                "내가 숨이 붙은 상태로 빠져나올 가능성은 전무하다.",
                 "나는 실패했다.",
                 "이 실패에 대한 책임은 목숨으로 갚으마.",
-                "그 코트쟁이들은 이 책임에서 자유로울 수 없을 것이다.",
-                "이걸 해내기에는 난 너무 한심하다.",
+                "그 코트쟁이들은 이 책임을 벗어날 수 없을 것이다.",
+                "이를 해내기에는 난 너무 한심하다.",
                 "그저 피와 뼈가 든 살가방에 불과하건만...",
                 "참으로 잔혹하고 불쾌한 농담이로군...",
-                "끝내 다오...",
+                "끝내다오...",
                 "포기하겠다.",
                 "대애애애단하셔라. 참 대단해.",
                 "곧 전부 끝날 것이다.",
@@ -4478,7 +4635,7 @@
             ],
             "angeronitem": [
                 "끄흑! 흐음... 이러니까 기분이 더 나아진다.",
-                "크윽! ...이 기분... 생각보다 괜찮더군."
+                "크윽! ...이 기분... 생각보다 괜찮군."
             ],
             "suicide": [
                 "더는. 못. 견디겠다. 끝이야.",
@@ -4696,9 +4853,9 @@
             "obese": [
                 "단식해야 한다.",
                 "...몸이 부었다.",
-                "아직 돌이킬 수 있을 때 체질량을 낮춰야만 한다.",
-                "허리둘레가 문제가 있음을 증명하고 있다.",
-                "몸이 무겁다."
+                "아직 생명에 지장이 없을 때 체질량을 낮춰야만 한다.",
+                "몸에 생긴 문제를 허리둘레가 증명하고 있다.",
+                "체질량이 크다."
             ],
             "opiated": [
                 "내 몸이 아편 기반 성분의 영향을 받고 있다.",
@@ -4706,10 +4863,10 @@
                 "이거 느낌이... 음. 좋은걸.",
                 "충분...",
                 "엄청 얼얼한 감각이다.",
-                "집중하긴 힘들지만, ",
+                "집중하긴 힘들지만, 기분이 좋다.",
                 "기분이 좋군.",
                 "내 순환계에 항우울제가 돌고 있다.",
-                "호흡이 얕다."
+                "폐호흡이 버겁다."
             ],
             "opiatedsad": [
                 "찰나의 상쾌감...",
@@ -4718,7 +4875,7 @@
                 "훨씬 낫군."
             ],
             "opiatewithdrawal": [
-                "한 발 더 피...필요하다, 시급히.",
+                "아편 한 발 더 피...필요하다, 시급히.",
                 "그, 금단 증상을 겨, 경험 중이다.",
                 "내 손이 떠...떨린다.",
                 "그, 금단 증사, 상.",
@@ -4896,12 +5053,30 @@
             ],
             "magicheal": [
                 "흐윽!!!... 허어. 음. 생명에 지장은 없었다고 생각해 두지. ",
-                "뭐... 였던 거지?",
+                "뭐...였던 거지?",
                 "아주 흥미롭군."
             ],
             "selfdestruct": [
                 "아? 어어, 왜, 이 뭔... 왜!? 멈춰! 이렇게 갈 내가 아니잖아! 이 코트쟁이 쓰레기 자식들아!",
                 "반갑다, 삐 소리. 무슨 의미일까?"
+            ],
+            "wwmr": [
+                "모든 게 계획한 것처럼 잘 풀렸다. 목표물이 가까워진 듯하다. 집중해야겠어."
+            ],
+            "cargo1": [
+                "...이상한데."
+            ],
+            "cargo2": [
+                "드디어 마침내, 내가... 허... 뭐야...?"
+            ],
+            "cargoimpale": [
+                "내, 내가... 예상했던 시나리오 중에... 이런 건... 없었는데..."
+            ],
+            "cargoimpale2": [
+                "크억... 몸속에... 참으로 깊이... 박혀버렸군... 그래도... 안심된다..."
+            ],
+            "cargoimpale3": [
+                "쳇. 정신 차려. 좋아. 이것도 계획에 포함되어 있었다고 보는 것이 타당할 터. 이 드릴 포드를 타고 위로 향해야겠어."
             ],
             "endlessloop0": [
                 "... 음. 흐음... 으흐으으으으으... 크흐으으음음... 조, 좋아. 이건... 이, 이건... 내가. 예상한 게 아니다. 내가 무언가를 잘못한 것이겠지. 도, 돌아가서 다시 해봐야겠어."
@@ -4918,6 +5093,53 @@
             "endlessloopdefault": [
                 "...... 하아..."
             ],
+            "endpodexamine": [
+                "전원이 들어와 있지 않다. 조금만 힘을 쓰면 움직여볼 수 있겠어."
+            ],
+            "ascententer": [
+                "포드가 작동을 멈췄다. 지금부터는 직접 움직일 시간인가. 얼마 남진 않았군."
+            ],
+            "labenter": [
+                "(저 코트쟁이들을 향한 원망은 크다만... 지금 행동할 순 없지. 침착하게 나아가도록 하자.)"
+            ],
+            "labresponse": [
+                "(...흠. 저건 계획에 없었다는 건가?)"
+            ],
+            "labthink1": [
+                "(지금이다. 저놈들은 예상 못 하지.)"
+            ],
+            "labthink2": [
+                "(총으로 코트쟁이를 쏘고, 터렛을 쏜다. 쇠창살을 통과한다. 어렵겠지만, 저 괴물 녀석들 말에 복종하며 살 순 없지.) "
+            ],
+            "labthink2chip": [
+                "(총으로... 아니야. 이 칩 때문에 저놈들에게 저항할 수 없어. 나는 실패했다. 저놈들 입장에선 내가 성공한 것이겠지만.)"
+            ],
+            "labshoot": [
+                "웃기지 말라지!!! 이건 너희들의 업보다!!!"
+            ],
+            "labcommentcalm": [
+                "대가를 치를... 것이다...",
+                "장난은 끝났다.",
+                "이 일에 엮인 놈들, 다 지옥에나 떨어지라지...",
+                "...크르르...",
+                "(내 자유를 쟁취할 테다.)",
+                "저놈들은 당해도 싸다.",
+                "(두렵다.)",
+                "으윽...썅놈들...",
+                "(저놈들이 사라져도 그리워할 것들은 없을 거다.)"
+            ],
+            "labcommentcombat": [
+                "크아아아아아악! 죽어!",
+                "전부 뒈지시지!!!",
+                "죽어도 너와 같이 죽는다!!",
+                "이런 짓거리를 해놓고 멀쩡히 걸어 나갈 수 있을 줄 알았냐!!",
+                "도움을 요청해 보시지!! 기다리고 있어 주마!!",
+                "오장육부를 잘근잘근 씹어 먹어 주마!!",
+                "죽어!!",
+                "살려달라고 소리쳐 봐라!!! 어서!!",
+                "날 막을 수 있다고 생각하나?!",
+                "오늘이 네놈들 제삿날이다!!"
+            ],
             "tradermeetnormal": [
                 "반갑군.",
                 "안녕.",
@@ -4930,11 +5152,11 @@
                 "네가 안녕하길 바란다."
             ],
             "tradermeetgood": [
-                "다른 생존자를 만나게 되다니, 운도 좋아라. ",
+                "다른 생존자를 만나게 되다니, 운도 좋아라.",
                 "오, 안녕하신가 친구여! 어떻게 지내나?",
                 "참 반갑군. 어떻게 지내나?",
                 "아! 인사할게. 거 씩씩해 보이네!",
-                "아, 너를 만나서 얼마나 기쁜지 모르겠어!"
+                "아, 너를 만나서 얼마나 기쁜지!"
             ],
             "tradermeetbad": [
                 "...별거 아니군.",
@@ -4943,9 +5165,9 @@
                 "...안녕.",
                 "인사하겠다. 날 만지는 건 삼가길.",
                 "안녕, 동료 생존자.",
-                "안녕. 다음에는 문으로 들어오라구.",
+                "안녕. 다음에는 문으로 들어오도록.",
                 "환영한다.",
-                "인사할게."
+                "인사한다."
             ],
             "traderwakegreet": [
                 "좋은 아침이군.",
@@ -4981,54 +5203,54 @@
             "traderhagglefail": [
                 "싫다면?",
                 "난 자선단체가 아니거든.",
-                "난 논리와 사실만 받아들이지, 변명은 안 통해.",
+                "난 논리와 사실만 받아들이지, 변명은 통하지 않는다.",
                 "싫어.",
-                "살면서 들은 것 중 최악의 논거였어.",
+                "살면서 들은 것 중 최악의 논거였다.",
                 "네 애원은 거부할 수밖에 없겠군.",
                 "난 부정하지.",
-                "예외는 없어, 미안."
+                "미안하지만 예외는 없다."
             ],
             "traderbuy": [
                 "환불 안 된다.",
                 "옜다.",
-                "망가뜨리지 마.",
-                "행운을 빌게.",
-                "이거 쓸 줄 알길 바라.",
-                "유용하길 빌어.",
-                "네 거 여기 있어."
+                "망가뜨리지는 마라.",
+                "행운을 빈다.",
+                "이거 쓸 줄 알길 바란다.",
+                "유용하길 빈다.",
+                "자, 네 거다."
             ],
             "traderbuyfail": [
                 "아니.",
                 "난 자선단체가 아니라고.",
                 "공짜론 안 주거든.",
                 "먼저 뭘 내야지.",
-                "받는 거 없인 아무것도 안 줄 거야.",
-                "내가 자선단체로 보여?",
+                "받는 거 없인 아무것도 주지 않겠다.",
+                "내가 자선단체로 보이나?",
                 "장난하나.",
                 "무례하네."
             ],
             "traderbuyfailmaxvalue": [
-                "오늘 거래는 여기까지 하지. 이미 많이 사 갔잖아.",
+                "오늘 거래는 여기까지 하지. 이미 많이 사 갔잖나.",
                 "우리 소지품을 통째로 맞바꾸고 싶지는 않군. 오늘은 이만하지."
             ],
             "traderthreatensuccess": [
-                "다치는 건 달갑지 않으니. 뭐든 가져가고 떠나.",
+                "다치는 건 달갑지 않으니. 뭐든 가져가고 떠나라.",
                 "알겠어. 하나 골라서 나가.",
-                "네게 불운이 뒤따르길 바라지. 좋아. 가지고 떠나.",
-                "넌 진짜 끔찍한 놈이야, 알겠니?",
-                "이게 네 문제 해결 방식이로군. 으음. 알겠어.",
-                "이렇게까지 해야겠어? 네가 더 잘 알잖아... 으윽. 알겠어.",
-                "강도는 내 버킷리스트에 없었는데. 알았어. 그냥 날 해치지만 마."
+                "네게 불운이 뒤따르길 바라지. 좋아. 가지고 떠나라.",
+                "넌 진짜 끔찍한 놈이다, 알겠나?",
+                "이게 네 문제 해결 방식이로군. 으음. 알겠다.",
+                "이렇게까지 해야겠나? 네가 더 잘 알잖나... 으윽. 알겠다.",
+                "강도는 내 버킷리스트에 없었는데. 알았다. 그냥 날 해치지만 마라."
             ],
             "traderwarning": [
-                "빨리 가버려.",
-                "너 자체가 싫어. 나가.",
+                "썩 꺼져라.",
+                "너 자체가 싫다. 떠나라.",
                 "꺼져.",
-                "내가 농담하는 것 같아? 나가.",
+                "내가 농담하는 것 같나? 나가라.",
                 "꺼.져.",
-                "제발. 나가.",
-                "나가.",
-                "지금 너와 상대하지 않겠어.",
+                "부탁이다. 나가라.",
+                "나가라.",
+                "지금 네놈과 상대하지 않겠다.",
                 "평화롭게 내 포드에서 나가 줘. 내가 먼저 있었어."
             ],
             "tradercombat": [
@@ -5050,26 +5272,26 @@
             ],
             "traderhugfail": [
                 "건드리지 마!",
-                "그만둬.",
-                "그만. 나 껴안지 마.",
-                "아니. 그만. 나 만지지 마.",
-                "으! 나한테서 손 떼."
+                "그만두길.",
+                "그만. 날 껴안지 마라.",
+                "아니. 그만. 날 만지지 마라.",
+                "으! 내게서 그 손을 떼라."
             ],
             "traderseegun": [
-                "대화하기 전에, 제발 총은 넣어줘. 아무튼...",
-                "강도가 아니라면, 그 총은 집어 넣어줘... 어쨌든...",
-                "내게서 총 치워. 이건 총격전이 아니라고. 어쨌든...",
+                "대화하기 전에, 제발 총은 넣어주길. 아무튼...",
+                "뭐 훔치러 온 것이 아니라면, 그 총은 집어 넣어주도록... 어쨌든...",
+                "내게서 총을 치워라. 이건 총격전이 아니라고. 어쨌든...",
                 "날 위협하려는 건가, 아니면 그냥 총이 멋지다고 생각하는 건가..?"
             ],
             "tradermeetimpairedspeech": [
-                "뭐라고 하는 거지? 이해가 안 돼.",
-                "너 완전히 웅얼거리고 있어. 굳이 알려주자면.",
-                "네가 말하는 걸 거의 못 알아듣겠어."
+                "뭐라고 하는 거지? 이해가 안 된다.",
+                "너는 완전히 웅얼거리고 있다. 굳이 알려주자면.",
+                "네가 말하는 걸 거의 못 알아듣겠다."
             ],
             "traderseehurt": [
-                "너 부상에 출혈까지 있군... 원하면 붕대 가져가.",
-                "으악! 제발 바닥에 피 흘리지 마. 내 물건 중에 붕대 보이면 가져가서 처치하도록 해. 공짜로 줄 테니까.",
-                "상태가 안 좋아 보이네... 나한테 붕대 있으면 공짜로 가져가도 돼."
+                "너 부상에 출혈까지 있군... 원하면 붕대를 가져가도록.",
+                "으윽! 바닥에 피 좀 흘리지 마라. 내 물건 중에 붕대가 보이면 가져가서 처치하도록. 공짜로 줄 테니까.",
+                "상태가 안 좋아 보이는군... 내게서 붕대를 찾아냈다면 공짜로 가져가도 좋다."
             ],
             "traderlightbreak": [
                 "...이봐. 나 눈 달려 있거든. 도둑 녀석... 꺼져!",
@@ -5079,7 +5301,7 @@
                 "왜 내 포드를 박살 내는 거지!? 꺼져! 나가라고!!"
             ],
             "tradermove": [
-                "알았어."
+                "알겠다."
             ],
             "tradermovefail": [
                 "내가 왜 너 같은 놈 때문에 움직여야 하지?"
@@ -5096,7 +5318,7 @@
                 "나는 자선단체 따위가 아냐. 먹을 건 너 스스로 찾든지, 아니면 거래라는 것을 해보든지 하도록."
             ],
             "thirstyresponse": [
-                "이곳엔 마실 수 있을법한 물이 고인 곳이 제법 있다. 잘 찾아서 써보도록 해.",
+                "이곳엔 마실 수 있을법한 물이 고인 곳이 제법 있다. 잘 찾아서 써보도록.",
                 "그대가 목을 축일 곳은 다른 성에 있소이다."
             ],
             "sadresponse": [
@@ -5124,10 +5346,10 @@
             ],
             "painresponse": [
                 "이 아래에서 고통은 당연한 거다. 굳세어져라.",
-                "진통제를 먹어. 분명 네게 하나쯤은 있겠지..."
+                "진통제를 먹어라. 분명 네게 하나쯤은 있겠지..."
             ],
             "dirtyresponse": [
-                "맞아. 넌 더럽다. 그 몸 박박 씻기 전에 내게 손댈 생각이라면 꿈 깨."
+                "맞다. 넌 더럽다. 그 몸 박박 씻기 전에 내게 손댈 생각이라면 꿈 깨."
             ],
             "encumberedresponse": [
                 "그리 무거우신 소지품을 내게 남겨주면 어디 덧나나?",
@@ -5276,7 +5498,7 @@
                 "그르아아아! 마-실 거! 당장..!"
             ],
             "limbmuscle": [
-                "<Limb> 안 움-직여...",
+                "<limb> 안 움-직여...",
                 "듀-운 <limb> 안 써-진다..?",
                 "듀-운 새 <limb> 필-요하다.",
                 "<limb> 못 써... 느으윽...",
@@ -5509,7 +5731,7 @@
                 "으으윽... 나-빠아!!",
                 "듀-운... 더-어... 원한다...",
                 "그흐으으...! 나빠..!",
-                "샤으흐윽.... 으흐으으... 으흐윽으으!"
+                "으흐윽.... 으흐으으... 으흐윽으으!"
             ],
             "cantBreathe": [
                 "느으으...으윽... (컥)",
@@ -5679,6 +5901,24 @@
             "selfdestruct": [
                 "오오우으! 듀-운한테서 신기한 소-리? 후우우흐..."
             ],
+            "wwmr": [
+                "후우으흐... 여-기... 반-짝인다... 듀-운 가까워..?"
+            ],
+            "cargo1": [
+                "듀-운 뭐.. 보-여어..."
+            ],
+            "cargo2": [
+                "먹을 거-어...? 허어오오오오... 히으으으우...?"
+            ],
+            "cargoimpale": [
+                "크르아아아아아아하아아악!!!!!! 크르흐아아악!!!!"
+            ],
+            "cargoimpale2": [
+                "크흐르아아아아... 느으으...으으...으..?"
+            ],
+            "cargoimpale3": [
+                "흐으...느...으음... 듀-운 가-도 된다..."
+            ],
             "endlessloop0": [
                 "...으음으으으... 느으으...... 다-시이?"
             ],
@@ -5693,6 +5933,45 @@
             ],
             "endlessloopdefault": [
                 "으르르! 이히히이이! 듀-운 이겼다!"
+            ],
+            "endpodexamine": [
+                "가-알 시-간?"
+            ],
+            "ascententer": [
+                "우우오아! 빨-간색..."
+            ],
+            "labenter": [
+                "(듀-운 다시 지입-이다... 듀-운 조심-한다...)"
+            ],
+            "labresponse": [
+                "모-른다."
+            ],
+            "labthink1": [
+                "(배고파...)"
+            ],
+            "labthink2": [
+                "(듀-운 음식 보인다. 듀-운 가진다. 듀-운 가-안다.)"
+            ],
+            "labthink2chip": [
+                "(듀-운 음식 못 가졌다. 듀-운 슬프다.)"
+            ],
+            "labshoot": [
+                "느르아아아아아아아악!!!!!\n느그르아아아아학!!!\n그르아아아아아아아아아아아아!!!\n"
+            ],
+            "labcommentcalm": [
+                "그르으...느윽흐으...",
+                "그르르으...",
+                "음식...음식...온다...",
+                "듀-운...전부...죽인다...",
+                "오늘... 잔-칫날..."
+            ],
+            "labcommentcombat": [
+                "느그르아아아아아!",
+                "크르아아아악! 그르르으으으!!!",
+                "느르우으아아아아!!",
+                "주-욱이러 가-안다!!!",
+                "듀-운한테 와-라!!!",
+                "듀-운 살-점 뜯-어먹는다!!!"
             ],
             "tradermeetnormal": [
                 "으음... 안-녕....",
@@ -6056,7 +6335,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(노트를 버리려고 했던 것처럼, 구겨지고 뭉개져 있다.)\n<>\n내 친구... 걔는... 자살한 거 같아. 또 떨어져서 다친 뒤로 내가 계속 걔 다리를 고쳐주려고 했는데, 걔가 나보고 화를 냈어. 내가 무슨 파리인 것처럼 쫓아내면서, 자길 내버려두라고 말했지. 이해가 안 됐어. 내가 붕대 삼을 거 찾아 여기 식물을 구하러 떠났는데... 돌아왔더니 한쪽 팔에 상처가 하나 더 나 있었어. 아직도 그 상처 모양이 기억나. 심각했어. 거의 찢어발긴 것처럼. 내가 찾은 식물로 새 상처를 치료해 주려고 했는데, 걔가 계속 날 밀쳐냈어. 걔 눈은... 그냥... 텅 비어 있었어. 내가 그만하고 제발 도와주게 해달라고 말했는데 걔는 대답하지 않았어. 내가 몇 번 더 도와주려고 했는데 걔가 계속 날 밀쳐내더니... 멈췄어. 걔 몸이 이완되는 모습이 기억나. 그때가 바로 걔가 숨이 멎은 순간 같아. 그 광경을 내 머릿속에서 지울 수 없어...\n<>\n내... 내가 뭘 잘못한 거야? 내가 뭘 했다고... 내가 뭘 잘못한 건데? 걔는 왜 그런 거야? 나... 난 아무것도 안 했다고. 이해가 안 돼, 나는 죽고 싶지 않아... 나는... 난...\n<>\n...\n<>\n하하...\n<>\n여기 너무 외로워.\n<>\n(구겨진 노트에 희미하게 마른 눈물 자국과 핏자국이 묻어있는 것을 발견했다.)",
+                "Item1": "(노트를 버리려고 했던 것처럼, 구겨지고 뭉개져 있다.)\n<>\n내 친구... 걔는... 스스로 목숨을 끊은 거 같아. 또 떨어져서 다친 뒤로 내가 계속 걔 다리를 고쳐주려고 했는데, 걔가 나보고 화를 냈어. 내가 무슨 파리인 것처럼 쫓아내면서, 자길 내버려두라고 말했지. 이해가 안 됐어. 내가 붕대 삼을 거 찾아 여기 식물을 구하러 떠났는데... 돌아왔더니 한쪽 팔에 상처가 하나 더 나 있었어. 아직도 그 상처 모양이 기억나. 심각했어. 거의 찢어발긴 것처럼. 내가 찾은 식물로 새 상처를 치료해 주려고 했는데, 걔가 계속 날 밀쳐냈어. 걔 눈은... 그냥... 텅 비어 있었어. 내가 그만하고 제발 도와주게 해달라고 말했는데 걔는 대답하지 않았어. 내가 몇 번 더 도와주려고 했는데 걔가 계속 날 밀쳐내더니... 멈췄어. 걔 몸에서 힘이 풀리는 모습이 기억나. 그때가 바로 걔가 숨이 멎은 순간 같아. 그 광경을 내 머릿속에서 지울 수 없어...\n<>\n내... 내가 뭘 잘못한 거야? 내가 뭘 했다고... 내가 뭘 잘못한 건데? 걔는 왜 그런 거야? 나... 난 아무것도 안 했다고. 이해가 안 돼, 나는 죽고 싶지 않아... 나는... 난...\n<>\n...\n<>\n하하...\n<>\n여기 너무 외로워.\n<>\n(구겨진 노트에 희미하게 마른 눈물 자국과 핏자국이 묻어있는 것을 발견했다.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6073,7 +6352,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "내 상황은 좋아. 배에 맛있는 음식을 채웠고. 아마 머쉬 테일 한두 개 덕분인지 행복해. 거래자들도 나에게 미소 짓고! 그냥 내가 피를 흘리는 게 싫어. 무섭거든",
+                "Item1": "내 상황은 좋아. 배에 맛있는 음식을 채웠고. 아마 잠꼬리 한두 개 덕분인지 행복해. 거래자들도 나에게 미소 짓고! 그냥 내가 피를 흘리는 게 싫어. 무섭거든",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6083,7 +6362,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "어둠 속에서 깜빡이는 붉은 불빛은 스파이크 트랩이야. 조심해. 제발. 제발. 누군가 멀리서 스파이크 트랩에 걸어갔는데, 비명이 들리더니 그 이후로 조용해졌어. 몸조심해",
+                "Item1": "어둠 속에서 깜빡이는 붉은 불빛은 가시 함정이야. 조심해. 제발. 제발. 누군가 멀리서 가시 함정으로 걸어갔는데, 비명이 들리더니 그 이후로 조용해졌어. 몸조심해",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6165,12 +6444,12 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "인정하기 싫지만, 우리 종족의 연약함은 부인할 수 없다. 다행히도, 대부분의 물건 무게를 완전히 없애주는 경이로운 보관함을 찾았다. 덕분에 평소보다 더 많은 물품을 휴대할 수 있다.\n배터리로 작동하는데, 그 점이 걱정된다. 전력이 다 떨어지면 어떻게 될지 확신이 서지 않으니, 안전을 위해 지금 확인해 봐야겠다.<>\n점프 도중에 이게 무거워지는 건 원치 않는다. 마침, 내게 거의 방전된 배터리가 있다.\n가방이 전원이 나가면 어떻게 동작하는지 확인해 볼 시간이다.\n\n(노트의 나머지 부분은 읽을 수 없다. 아래에 무슨 글이 쓰였던 간에, 어마어마한 양의 마른 피로 뒤덮여 있다.)",
+                "Item1": "인정하기 싫지만, 우리 종족의 연약함은 부인할 수 없다. 다행히도, 대부분의 물건 무게를 완전히 없애주는 경이로운 보관함을 찾았다. 덕분에 평소보다 더 많은 물품을 휴대할 수 있다.\n배터리로 작동하는데, 그 점이 걱정된다. 전력이 다 떨어지면 어떻게 될지 확신이 서지 않으니, 안전을 위해 지금 확인해 봐야겠다.<>\n점프 도중에 이게 무거워지는 건 원치 않는다. 마침, 내게 거의 방전된 배터리가 있다.\n가방이 전원이 나가면 어떻게 동작하는지 확인해 볼 시간이다.\n\n(노트의 나머지 부분은 읽을 수 없다. 아래에 무슨 글이 쓰였든 간에, 어마어마한 양의 마른 피로 뒤덮여 있다.)",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "이 끔찍한 바위 지옥에서 벗어나지도 못했는데, 벌써 죽음이 가까운 게 느껴진다.\n그놈들이 준 건 고작 1시간도 못 버티는 쓰레기 손전등뿐이었다. 내가 이렇게 계속 떨어지는데, 충격을 완화해 줄 안전 장비조차 없었다.\n\n염병할, 인간들이 갖고 놀던 그 도박 기계 안의 공이 된 느낌이다!\n\n마지막으로 떨어진 뒤로 서서히 죽어가는 듯하다. 머리가 띵하고 피곤한데, 지금 잠들면 죽겠지.\n\n신이시여 나를 구원하소서.\n에이, 씨발.\n난 정말 죽고 싶지 않아, 이런 식으로는..\n하지만 대체 무슨 의미가 있는 걸까?\n난 이름도 없는데다 그저 태그뿐인데..\n썅...",
+                "Item1": "이 끔찍한 바위 지옥에서 벗어나지도 못했는데, 벌써 죽음이 다가온 게 느껴진다.\n그놈들이 준 건 고작 1시간도 못 버티는 쓰레기 손전등뿐이었다. 내가 이렇게 계속 떨어지는데, 충격을 완화해 줄 안전 장비조차 없었다.\n\n염병할, 인간들이 갖고 놀던 그 도박 기계 안의 공이 된 느낌이다!\n\n마지막으로 떨어진 뒤로 서서히 죽어가는 듯하다. 머리가 띵하고 피곤한데, 지금 잠들면 죽겠지.\n\n신이시여 나를 구원하소서.\n에이, 씨발.\n난 정말 죽고 싶지 않아, 이런 식으로는..\n하지만 대체 무슨 의미가 있는 걸까?\n난 이름도 없는데다 그저 태그뿐인데..\n썅...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6239,7 +6518,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "내가 찾은 다른 사람이 그 보라색 돌 더미에 떨어졌다. 내가 걔를 끄집어냈지만, 우리 둘 다 털이 빠지고 있다. 무슨 일이 일어나는지 모르겠다.<>\n\n\n\n\n우리 구명 포드 근처에 있던 톡톡 터지는 과일을 먹었더니... 아픈 게 멎었다. 그런데 걔가 하나 베어 물고 나서, 몇 분 뒤 피를 토하기 시작했다. 숨을 쉬지 않는다. 뭐가 달랐던 걸까? 과일은 똑같아 보였는데. 그냥 내가 운이 좋았던 걸까? 어째서 걔는 나아지지 못한 거냐고.",
+                "Item1": "내가 찾은 다른 사람이 그 보라색 돌 더미에 떨어졌다. 내가 걔를 끄집어냈지만, 우리 둘 다 털이 빠지고 있다. 무슨 일이 일어나는지 모르겠다.<>\n\n\n\n\n우리 구명 포드 근처에 있던 톡톡 터지는 과일을 먹었더니... 아픈 게 멎었다. 그런데 걔가 하나 베어 물고 나서, 몇 분 뒤 피를 토하기 시작했다. 숨을 쉬지 않는다. 뭐가 달랐던 걸까? 과일은 똑같아 보였는데. 그냥 내가 운이 좋았던 걸까? 어째서 걔는 낫지 못한 거냐고.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
@@ -6320,7 +6599,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "무엇이 날 공격한 건지 모르겠지만, 다리에 감각이 없다. 내게 보이는 거라곤 근육, 뼈, 피가 엉망으로 섞인 덩어리뿐이다\n내 몸이 고통을 끝내달라고 비명을 지른다\n내가 가진 거라곤 내 가슴에 있는 이 파란 장치뿐이다. 내게 이걸 팔았던 거래자는 이건 응급 상황에서만 써야 한다고 했다.\n고통은 이제 참을 만해졌지만, 불빛이 깜빡이기 시작했다. 내게 얼마나 남았는지 모르겠다. 이 장치가 다 되면 어둠이 다시 돌아올까? 난 사라지고 싶지 않다...",
+                "Item1": "무엇이 날 공격한 건지 모르겠지만, 다리에 감각이 없다. 내게 보이는 거라곤 근육, 뼈, 피가 엉망으로 섞인 덩어리뿐이다\n내 몸이 고통을 끝내 달라고 비명을 지른다\n내가 가진 거라곤 내 가슴에 있는 이 파란 장치뿐이다. 내게 이걸 팔았던 거래자는 이건 응급 상황에서만 써야 한다고 했다.\n고통은 이제 참을 만해졌지만, 불빛이 깜빡이기 시작했다. 내게 얼마나 남았는지 모르겠다. 이 장치가 다 되면 어둠이 다시 돌아올까? 난 사라지고 싶지 않다...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6457,27 +6736,27 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[연구 메모, 24XX-01-29]<>\n내가 뭘 보고 있는지 여전히 믿을 수 없다. 이 표본은 내 주먹만 한 크기에, 노란색이며, 미끌거리는 질감을 가졌다. 아무리 봐도 이건 살점 덩어리다. 우리 장비들도 이 표본은 지구의 생명체와는 전혀 다른 생명체에서 유래한 것이라 결론지었다. 어디의 무엇에게서 나온 건지까지는 모르겠지만. 표본은 ██████ ███████의 잔해 속 수신 기판에 달라붙은 상태로 회수되었다. 이 표본은 우리들의 연구가 획기적인 도약을 이뤘다는 것을 상징하지만, 완전히 손실된 장치의 대가로는 턱도 없다. 도저히 납득할 수 없다. 간신히 입자 하나하나 순간이동시키는 삽질만 10년을 해댄 끝에 맞이한 결과물이 고작 이거라니?<>\n이 광활한 우주에서 우리의 실험물이 미지의 외계 행성에 사는 생명체와 우연히 조우할 확률은 아무리 잘 쳐줘도 10의 50승분의 1 정도일 것이다. 불가능이라고 불러도 될 정도인데, 아무튼 일어나고야 말았다. 우리는 이 상황을 어떻게든 좋은 쪽으로 포장해야 한다. 투자자의 자금을 잃거나 대중을 불안에 빠뜨리는 부담은 질 수 없다. 적어도 지금만큼은 안 된다. 우리가 이 프로젝트를 바닥부터 다시 쌓아올릴 동안, 적어도 생명공학 부서는 숙제 하나는 받아가겠군.",
+            "Item1": "[연구 메모 24XX-01-29]<>\n내가 뭘 보고 있는지 여전히 믿을 수 없다. 이 표본은 내 주먹만 한 크기에, 노란색이며, 미끈거리는 질감을 가졌다. 아무리 봐도 이건 살점 덩어리다. 우리 장비들도 이 표본은 지구의 생명체와는 전혀 다른 생명체에서 유래한 것이라 결론지었다. 어디의 무엇에게서 나온 건지까지는 모르겠지만. 표본은 ██████ ███████의 잔해 속 수신 기판에 달라붙은 상태로 회수되었다. 이 표본은 우리들의 연구가 획기적인 도약을 이뤘다는 것을 상징하지만, 완전히 손실된 장치의 대가로는 턱도 없다. 도저히 이해할 수 없다. 입자 하나하나보다 조금이라도 더 큰 무언가를 순간이동시키기 위해 10년 넘게 삽질만 해왔는데 갑자기 이런 게 통과해 왔다고?<>\n이 광활한 우주에서 우리의 실험이 미지의 외계 행성에 사는 생명체와 우연히 겹칠 확률은 아무리 잘 쳐줘도 10의 50승분의 1 정도일 것이다. 불가능이라 불러도 될 수준인데, 아무튼 일어나고야 말았다. 우리는 이 상황을 어떻게든 좋은 쪽으로 포장해야 한다. 투자자의 자금을 잃거나 대중을 불안에 빠뜨리는 부담은 질 수 없다. 적어도 지금만큼은 안 된다. 우리가 이 프로젝트를 바닥부터 다시 쌓아 올릴 동안, 적어도 생명공학 부서는 숙제 하나는 받아 가겠군.",
             "Item2": ""
         },
         {
-            "Item1": "[연구 메모, 24XX-11-03]<>\n█████████ 사건에서 회수한 '노란 피'는 정말이지 경이롭다. 이 표본의 적응력은 지구에 있는 어떠한 생명체와도 비교할 수 없다. 극심한 방사선 환경에서조차 스스로를 거의 즉시 복구해낸다. 이 정도 유전자 재조합 능력은 인체에서는 면역 세포에서나 볼 수 있는 것인데, 이 표본은 게놈 전체에서 일어난다. 심지어는 이 표본의 유전자를 우리가 가진 바이러스 전달체로 덮어쓰려 시도했을 때, 어떻게 했는지는 몰라도 그 바이러스 전달체들을 손실된 부분 하나 없이 자신의 유전자 코드에 삽입했다.<>\n우리는 이 표본을 쥐의 몇몇 세포들에 주입해 보았고, 그 결과는 █████ 박사를 의자에서 고꾸라지게 만들었다. 유전자 발현이 폭주 상태에 돌입하더니, 눈에 띄는 DNA란 DNA는 전부 붙잡아 숙주의 DNA에 삽입해 버린 것이다. 심지어 이 과정에서는 아무 부작용도 보이지 않았다. 숙주가 얼마 지나지 않아 사망하긴 했지만.<>\n이 표본은 지난 100년간의 생명공학 연구를 애들 장난처럼 만들어버렸다. 이게 골조 역할을 하면서, DNA 서열이 얼마든지 이동하고 재조합될 수 있도록 만들었다. 이런 방식이라면 세포가 암처럼 변질되는 일도 없다. 우리는 이 실험을 여러 게놈으로 반복해 보았고, 완전히 다른 종의 서열조차 문제 없이 삽입되었다. 그러나 DNA 재조합이 숙주에게 미칠 영향은 도저히 예측할 수 없었다. 결국 생명 공학이라기보단 꿀꿀이죽 요리같은 실험에 불과했지만, 이 녀석의 잠재력이 어느 정도인지 누가 알겠는가.",
+            "Item1": "[연구 메모 24XX-11-03]<>\n█████████ 사건에서 회수한 '노란 피'는 정말이지 경이롭다. 이 표본의 적응력은 지구에 있는 어떠한 생명체와도 비교할 수 없다. 극심한 방사선 환경에서조차 자신을 거의 즉시 복구해 낸다. 이 정도 유전자 재조합 능력은 인체에서는 면역 세포에서나 볼 수 있는 것인데, 이 표본은 게놈 전체에서 일어난다. 심지어는 이 표본의 유전자를 우리가 가진 바이러스 전달체로 덮어쓰려 시도했을 때, 어떻게 했는지는 몰라도 그 바이러스 전달체들을 손실된 부분 하나 없이 자신의 유전자 코드에 삽입했다.<>\n우리는 이 표본을 쥐의 몇몇 세포들에 주입해 보았고, 그 결과는 █████ 박사를 의자에서 고꾸라지게 만들었다. 유전자 발현이 폭주 상태에 돌입하더니, 눈에 띄는 DNA란 DNA는 전부 붙잡아 숙주의 DNA에 삽입해 버린 것이다. 심지어 이 과정에서는 아무 부작용도 보이지 않았다. 이 표본은 지난 100년간의 생명공학 연구를 애들 장난처럼 만들어버렸다. 숙주가 얼마 지나지 않아 사망하긴 했지만. 이건 골조 역할을 하면서, 세포가 암처럼 변질시키지 않고 DNA 서열이 얼마든지 이동하고 재조합될 수 있게 한다. 우리는 이 실험을 여러 게놈으로 반복해 보았고, 완전히 다른 종의 서열조차 문제없이 삽입되었다. 그러나 DNA 재조합이 숙주에게 미칠 영향은 도저히 예측할 수 없다. 제대로 된 생명공학이라기보다는 가마솥에 뭐든 던져놓고 결과를 바라는 마녀 같은 꼴이긴 하지만, 그 잠재력이 어느 정도인지 누가 알겠는가.",
             "Item2": ""
         },
         {
-            "Item1": "[연구 메모 24XX-07-29]<>\n내 노력이 마침내 결실을 맺었다. 드디어 안정적인 개체가 탄생한 것이다! 지금은 진정제를 투여한 상태이지만, 배양조 바깥에서도 스스로 숨을 쉬고 있다. 배아가 변이를 통해 자멸해버리거나, 기괴하게 폭주해 버리는 조직 덩어리로 분화하는 일도 없다. 즉, 이번 개체에게는 실패의 징후가 전혀 관찰되지 않았다. 이건 최초의 진정한 인공 지성체다. 내가 새로운 종족을 탄생시킨 거라고!<>\n지금까지의 실험들과 마찬가지로, 개량된 혼합물을 안정화시킨 후 노란 피를 섞어 인간 배아에 주입했다. 의도한 바와 같이 이 개체는 인간의 게놈을 가장 많이 차용해 오긴 했지만, 완전히 다른 무언가이다. 발톱은 고양잇과에 가깝고, 귀는 조류 혹은 파충류일지도 모르는 형태를 띈다. 두개골에서는 제법 많은 유전자의 흔적이 관찰되는데, 개과부터 여우목, 설치류에 이르기까지 천여 종의 잠재적인 제공자를 가졌을 것이라 추측한다. 녀석의 눈은 은은하게 생체 발광까지 한다.\n무엇보다 중요한 건, 목표했던 대로 이 개체의 지적 능력이 인간의 수준에 근접해 보인다는 점이다. 이로써 열리게 될 문은 무궁무진하다! 이 개체는 살살 가지고 놀 생각이지만, 이미 더 파괴적인 실험을 위해 복제 작업을 시작했다.\n내 창조물을 SAW-01이라 명명하겠다.",
+            "Item1": "[연구 메모 24XX-07-29]<>\n내 노력이 마침내 결실을 보았다. 드디어 안정적인 개체가 탄생한 것이다! 지금은 진정제를 투여한 상태이지만, 배양조 바깥에서도 스스로 숨을 쉬고 있다. 배아가 변이를 통해 자멸해 버리거나, 기괴하게 폭주해 버리는 조직 덩어리로 분화하는 일도 없다. 즉, 이번 개체에게는 실패의 징후가 전혀 관찰되지 않았다. 이건 최초의 진정한 인공 지성체다. 내가 새로운 종족을 탄생시킨 거라고!<>\n지금까지의 실험들과 마찬가지로, 개량된 혼합물을 안정화한 후 노란 피를 섞어 인간 배아에 주입했다. 의도한 바와 같이 이 개체는 인간의 게놈을 가장 많이 차용해 오긴 했지만, 완전히 다른 무언가이다. 발톱은 고양잇과에 가깝고, 귀는 조류 혹은 파충류일지도 모르는 형태를 띤다. 두개골에서는 제법 많은 유전자의 흔적이 관찰되는데, 갯과부터 여우속, 설치류에 이르기까지 천여 종의 잠재적인 제공자를 가졌을 것으로 추측한다. 녀석의 눈은 은은하게 생체 발광까지 한다.\n무엇보다 중요한 건, 목표했던 대로 이 개체의 지적 능력이 인간의 수준에 근접해 보인다는 점이다. 이로써 열리게 될 문은 무궁무진하다! 이 개체는 살살 가지고 놀 생각이지만, 이미 더 파괴적인 실험을 위해 복제 작업을 시작했다.\n내 창조물을 SAW-01이라 명명하겠다.",
             "Item2": ""
         },
         {
-            "Item1": "[연구 메모 24XX-12-24]<>\n거듭된 요청에 따라 SAW-01의 게놈을 수정하고 있다. SAW-01은 회사의 연구에 있어서 내 예상보다 훨씬 유용했던 모양이다. 원래 나는 통제되며 만들어지는 것만이 완벽함의 증거라고 믿었으나, SAW-01들에 대한 수요가 폭발해 복제 장비가 더는 감당하지 못할 만큼 많은 상황이다. 전통적인 생식의 이점을 이제야 이해했다.\n성적 형질의 발현 억제를 중단하자마자 유전자들은 순순히 변화를 받아들였다. 그것들은 동시적 자웅동체로, 암수의 생식기를 모두 지닌 최초의 포유류이다. 물론, 젖샘이 없는데도 포유류라고 부르는 것이 생물학적으로 엄밀할지는 의문이다. 이 특성이 지구 생명체 고유의 것인지, 노란 피 때문인지는 모르겠지만, 적어도 현대 생물학의 용어로는 설명할 길이 없다.<>\n그것들은 같은 종의 다른 개체에게 끌리는 성향은 없으나, 혼자 번식하는 데 만족하며 그럴 능력도 있는 것으로 보인다. 이제 그것들은 훨씬 낮은 비용으로 사실상 자기 복제를 하는 것이나 마찬가지가 되었다.",
+            "Item1": "[연구 메모 24XX-12-24]<>\n거듭된 요청에 따라 SAW-01의 게놈을 수정하고 있다. SAW-01은 회사의 연구에 있어서 내 예상보다 훨씬 유용했던 모양이다. 원래 나는 생식 능력의 부재가 완벽함의 증거라고 믿었으나, SAW-01들에 대한 수요가 폭발해 복제 장비가 더는 감당하지 못할 만큼 많은 상황이다. 전통적인 생식의 이점을 이제야 이해했다.\n성적 형질의 발현 억제를 중단하자마자 유전자들은 순순히 변화를 받아들였다. 그것들은 동시적 자웅동체로, 암수의 생식기를 모두 지닌 최초의 포유류이다. 물론, 젖샘이 없는데도 포유류라고 부르는 것이 생물학적으로 엄밀할지는 의문이다. 이 특성이 지구 생명체 고유의 것인지, 노란 피 때문인지는 모르겠지만, 적어도 현대 생물학의 용어로는 설명할 길이 없다.<>\n그것들은 같은 종의 다른 개체에게 끌리는 성향은 없으나, 혼자 번식하는 데 만족하며 그럴 능력도 있는 것으로 보인다. 이제 그것들은 훨씬 낮은 비용으로 사실상 자기 복제를 하는 것이나 마찬가지가 되었다.",
             "Item2": ""
         },
         {
-            "Item1": "[개인 메모]\n[██████████ 박사, 24XX-05-06]<>\n도무지 납득할 수가 없다. 나는 사건이 일어나기 전 ██████ ███████에 참여했다. 당시 우리는 할 수 있는 방법이라면 무엇이든지 다 해봤다. ██년이 지난 지금에 와서 하는 것이라곤 그 때의 허탕쳤던 실험들을 똑같이 되풀이하고 있는 것뿐인데도, 이번에는 터무니없이 성공적인 결과들이 나오는 중이다. 그 사건 이후로 무언가가 바뀐 것 같다, 마치 우주의 어떤 코드가 새로 작성되기라도 한 듯이.\n원래 이렇게 되면 안 되는데.<>\n처음으로 진정한 점 단위 순간이동 기술이 손에 잡힐 듯 가까워진 것 같은데, 정작 우리가 이해한 것은 그 시절보다도 줄어들었다. 우리가 이해할 수 있는 영역을 넘어선 무언가에 손을 대고 있는 것은 아닐지 두렵다. 차라리 우리가 그 날 건진 것이 작은 살점 덩어리 따위가 아니라 중성자별 조각 같은 것이었다면...\n뭐, 어차피 그 정도의 중력이라면 좌표를 조준할 수도 없었겠다. 아무튼, 이 은하의 스위치가 딸깍하고 바뀐 그 시점 이후로, 우리가 \"안다\"고 믿어온 것들 중에 또 어떤 게 달라졌을지 불안하다. 원시인에게 우리가 가진 가장 좋은 컴퓨터를 준다고 한들, 그들은 그걸 난방기 정도로나 쓸 것이다. 우리가 그 정도 수준에서 작업하고 있는 것이라면...? 우리는 그저 아빠의 총을 가지고 놀고 있는 천진난만한 꼬마들인 게 아닐까.",
+            "Item1": "[개인 메모]\n[██████████ 박사, 24XX-05-06]<>\n도무지 이해할 수가 없다. 나는 사건이 일어나기 전부터 ██████ ███████에 참여했다. 당시 우리는 할 수 있는 방법이라면 무엇이든지 다 해봤다. ██년이 지난 지금에 와서 하는 것이라곤 그때 허탕 쳤던 실험을 똑같이 되풀이하고 있는 것뿐인데도, 이번에는 터무니없이 성공적인 결과들이 나오는 중이다. 그 사건 이후로 무언가가 바뀐 것 같다, 마치 우주의 숨겨진 변수가 새로 작성되기라도 한 듯이.\n원래 이렇게 되면 안 되는 거였다.<>\n처음으로 진정한 점 단위 순간이동 기술이 손에 잡힐 듯 가까워진 것 같은데, 정작 우리가 이해한 것은 그 시절보다도 줄어들었다. 우리가 이해할 수 있는 영역을 넘어선 무언가에 손을 대고 있는 것은 아닐지 두렵다. 우리가 그날 건진 것이 작은 살점 덩어리 따위가 아니라 중성자별 조각 같은 것이었다면 어떻게 됐겠나?\n물론 그 정도의 중력이라면 어차피 좌표를 조준할 수도 없었겠지만. 아무튼, 이 은하의 스위치가 딸깍하고 바뀐 그 시점 이후로, 우리가 \"안다\"라고 믿어온 것 중에 또 어떤 게 달라졌을지 불안하다. 원시인에게 우리가 가진 가장 좋은 컴퓨터를 준다고 한들, 그들은 그걸 난방기 정도로나 쓸 것이다. 우리가 그 정도의 무지 속에서 작업하고 있는 것이라면...? 우리는 그저 아빠의 총을 가지고 놀고 있는 천진난만한 꼬마들인 게 아닐까.",
             "Item2": ""
         },
         {
-            "Item1": "별 일 없으신가, 형님.\n지금 진행중인 ████ █████ 건 말인데, 경과가 아주 좋아. 우리 애들이 정거장에서 쓰는 전력 거의 전체를 이 녀석만으로 때웠는데도 불구하고 볼멘소리 하나 내지 않고 쌩쌩하더군. 이건 우리가 본 것 중 가장 밀집된 형태의 에너지야. 손에 쥐고 다닐 수 있는 덩어리 하나로 여기 있는 모든 텔레포터들을 가동시킬 수 있을 정도라고 하면 상상이 돼? 모양이 █████처럼 생긴 건 묘하긴 한데, SAW 개체 조각이라도 끼어 들어간건가 싶어. 아무튼 이게 있으면 다이슨 스웜을 더 확장할 필요가 없을지도 몰라.\n문제는... 이걸 다시 만들어 낼 수가 없다는 거야.<>\n애들은 실험을 똑같이 재현했다고 하더라고. 시공간 통로를 통과하는 게 아니라 끌어내오는 식으로. 그 때처럼 장비까지 박살이 났는데 이번엔 ████ █████가 없더라. 딱 ██████████ 사건 때에서 그 노란 피만 없는 꼴이야. 그 노란 피도 SAW 개체들을 만들면서 도움을 주긴 했지만, 어쩌면 이게 훨씬 더 큰 단서가 될지도 몰라.\n이건 텔레포터를 통해서 본부에 내려보낼게. 거기서 뭐라도 감 좀 잡아보길 바라. 아... 그리고 말 나온 김에, SAW 개체들 좀 더 올려보내 줘. 여기 궤도에서는 재고를 충분히 유지하기 어렵더라고.\n- 정거장 현장소장 ███████████",
+            "Item1": "별일 없으신가, 형님.\n지금 진행 중인 ████ █████ 건 말인데, 경과가 아주 좋아. 우리 애들이 정거장에서 쓰는 전력 거의 전체를 이 녀석만으로 때웠는데도 불구하고 볼멘소리 하나 내지 않고 쌩쌩하더군. 이건 우리가 본 것 중 가장 밀집된 형태의 에너지야. 손에 쥐고 다닐 수 있는 덩어리 하나로 여기 있는 모든 텔레포터들을 가동할 수 있을 정도라고 하면 상상이 돼? 모양이 █████처럼 생긴 건 묘하긴 한데, 엑스페리먼트 조각이라도 끼어들어 간 건가 싶어. 아무튼 이게 있으면 다이슨 스웜을 더 확장할 필요가 없을지도 몰라.\n문제는... 이걸 다시 만들어 낼 수가 없다는 거야.<>\n애들은 실험을 똑같이 재현했다고 하더라고. 시공간 통로를 통과하는 게 아니라 끌어내 오는 식으로. 그때처럼 장비가 박살 난 건 똑같은데 이번엔 ████ █████가 없더라. 딱 ██████████ 사건 때에서 그 노란 피만 없는 꼴이야. 그 노란 피도 SAW 표본들을 만들게 해주긴 했지만, 어쩌면 이게 훨씬 더 큰 혁신이 될지도 몰라.\n이건 텔레포터를 통해서 본부에 내려보낼게. 거기서 뭐라도 감 좀 잡아보길 바라. 아... 그리고 말 나온 김에, SAW 표본들 좀 더 올려 보내 줘. 여기 궤도에서는 수량을 충분하게 유지하기가 어렵더라고.\n- 정거장 현장소장 ███████████",
             "Item2": ""
         },
         {
@@ -6493,7 +6772,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[제목] 지난 문자에 대한 안내\n[보내는 이] 인적 자원 관리 부서\n[받는 이] ██████████ 박사<>\n\n귀하가 보낸 메일에서 본사의 규정을 따르지 않는 부적절한 내용이 확인되어 아래와 같이 알려드립니다.\n\n본사는 모든 직원이 다른 동료 직원과 소통할 때 서로를 존중하고 전문적인 화법을 사용하는 것을 권장하고 있습니다. 작성하신 \n\n    \"화장실에 좆같이 반토막난 SAW 개체 순간이동시킨 새끼 누구니 씨발? 볼 일 보고 있었는데 피 질질 새는 상반신 덩어리가 내 머리 위로 떨어졌어. 그게 펄떡대면서 사방팔방 피 칠갑을 만들어놨고, 나는 씨발 아예 뒤집어 썼다고! 존나 역겨워!!! 누가 이딴 짓을 벌인건지 알아내기만 해봐, 그 등신새끼 사무실에 나머지 반토막을 갖다 쳐박아놓을 거니까!\"\n\n라는 글은 이에 위배됩니다.\n\n앞으로 소통하는 데 있어 내규를 지켰는지 반드시 확인하여 주십시오.",
+            "Item1": "[제목] 지난 문자에 대한 안내\n[보내는 이] 인적 자원 관리 부서\n[받는 이] ██████████ 박사<>\n\n귀하가 보낸 메일에서 본사의 규정을 따르지 않는 부적절한 내용이 확인되어 아래와 같이 알려드립니다.\n\n본사는 모든 직원이 다른 동료 직원과 소통할 때 서로를 존중하고 전문적인 화법을 사용하는 것을 권장하고 있습니다. 작성하신 \n\n    \"화장실에 좆같이 반 토막 난 SAW 개체 순간이동시킨 새끼 누구냐 씨발? 볼일 보고 있었는데 피 질질 새는 상반신 덩어리가 내 머리 위로 떨어졌어. 그게 펄떡대면서 사방팔방 피 칠갑을 만들어놨고, 나는 씨발 아예 뒤집어썼다고! 존나 역겨워!!! 누가 이딴 짓을 벌인 건지 알아내기만 해봐, 그 등신새끼 사무실에 나머지 반 토막을 갖다 처박아놓을 거니까!\"\n\n라는 글은 이에 위배됩니다.\n\n앞으로 소통하는 데 있어 내규를 지켰는지 반드시 확인하여 주십시오.",
             "Item2": ""
         },
         {
@@ -6501,7 +6780,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[제목] 보안의 문제입니다!\n[보내는 이] 운영 감독\n[받는 이] 전 직원<>\n\n사내 메일들의 사본을 개인 장치에 저장하는 행위는 지양해주십시오. 사내 메일 포털이 쓰기 불편하다는 점은 이해하지만, 이는 심각한 보안 위협입니다! 우리는 분실된 기기 여러 대를 찾아냈으며, 거의 대부분 일종의 기밀 정보가 포함되어 있었습니다. 만약 이런 정보들이 잘못된 곳에 넘어간다면 어떻게 하실 생각이십니까?\n\n앞으로는 조금 더 주의해주시기 바랍니다!\n운영 총괄",
+            "Item1": "[제목] 보안의 문제입니다!\n[보내는 이] 운영 총괄\n[받는 이] 전 직원<>\n\n사내 메일들의 사본을 개인 장치에 저장하는 행위는 지양해 주십시오. 사내 메일 포털이 쓰기 불편하다는 점은 이해하지만, 이는 심각한 보안 위협입니다! 우리가 분실된 기기를 여러 대 찾았는데, 대부분 일종의 기밀 정보가 포함되어 있었습니다. 만약 이런 정보들이 잘못된 곳에 넘어간다면 어떻게 하실 생각입니까?\n\n앞으로는 조금 더 주의해 주시기 바랍니다!\n운영 총괄",
             "Item2": ""
         },
         {
@@ -6517,7 +6796,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[보관된 대화, ID:LUXRJGY4]\n[██████ 박사, 엔지니어 ████████]<>\n\n> 까놓고 말하자면, 그 봉제인형 라인 돌리자고 한 놈 유머 감각 하난 대단한 것 같어. 내 딸도 그걸 얼마나 좋아하는지 몰라. 실물보다 훨씬 귀엽기도 하고. ㅎㅎㅎㅎ 우리가 하는 게 뭔지 밖으로 새어나가도 사람들은 봉제인형 뭐시기랑 비슷한 거냐며 어리둥절해할걸? ㅋㄱㅋㅋㅋㅋ 누가 그걸 진짜라고 믿겠어?\n\n> 그러게, 진짜 SAW 개체들 갖다가 봉제인형마냥 박제시키면 어떤 몰골로 나오려나 ㅋㅋㅋ 네 딸이 이것도 그리 좋아할지는 모르겠지만.\n\n> 네가 어떻게 알겠냐 ㅋㅋㅋㅋㅋ",
+            "Item1": "[보관된 대화, ID:LUXRJGY4]\n[██████ 박사, 엔지니어 ████████]<>\n\n> 까놓고 말하자면, 그 봉제인형 라인 돌리자고 한 놈 유머 감각 하난 대단한 것 같아. 내 딸도 그걸 얼마나 좋아하는지 몰라. 실물보다 훨씬 귀엽기도 하고. ㅎㅎㅎㅎ 우리가 하는 게 뭔지 밖으로 새어 나가도 사람들은 봉제인형 뭐시기랑 비슷한 거냐며 어리둥절해할걸? ㅋㄱㅋㅋㅋㅋ 누가 그걸 진짜라고 믿겠어?\n\n> 그러게, 진짜 SAW 개체들 갖다가 봉제인형마냥 박제시키면 어떤 몰골로 나오려나 ㅋㅋㅋ 네 딸이 그것도 그리 좋아하지는 않겠지만.\n\n> 혹시 모르지! ㅋㅋㅋㅋㅋ",
             "Item2": ""
         },
         {
@@ -6525,11 +6804,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[프로젝트 업데이트]<>\n\n안타까운 소식이야...\n엑스크루시에이터 프로젝트가 중단됐어. 부서장 얘기로는 이 프로젝트 자체가 \"비실용적\"이고 \"정신나간 발상\"에다 \"개똥같은 홍보 지옥\"이 될 거라고 하더라. 형법 문제를 해결하는 게 뭐가 그렇게 나빠 보였던걸까???\n\n뭐 어찌 됐든, 적어도 내부적으로는 사용할 수 있도록 허가받았어.",
+            "Item1": "[프로젝트 업데이트]<>\n\n안타까운 소식이야...\n엑스크루시에이터 프로젝트가 중단됐어. 부서장 얘기로는 이 프로젝트 자체가 \"비실용적\"이고 \"정신 나간 발상\"에다 \"개똥같은 홍보 지옥\"이 될 거라고 하더라. 형법 문제를 해결하는 게 뭐가 그렇게 나빠 보였던 걸까???\n\n뭐 어찌 됐든, 그나마 내부적으로는 사용할 수 있도록 허가받았으니까.",
             "Item2": ""
         },
         {
-            "Item1": "[운영 감독]\n[사건 보고서, 사건 ID:YVLVH4EB]\n[증거물 #54]\n<>\n더 이상 못 하겠습니다.\n저희가 하는 짓은 잘못됐어요. 악마 같은 짓이라고요.\n\n저는 █████████ 사건 이전부터 여기서 일해왔어요. 전에는 이렇지 않았습니다. 이제 회사는 사이코패스들만 고용하지만, 저라고 딱히 나을 것도 없었죠.\n저 역시 다른 사람들처럼 SAW 개체들을 이용했습니다. 저희가 이뤄낸 진전은 너무나 손쉬운 나머지 마치 취할 것만 같았죠. 스스로에게 인류를 위해서라고, 그들은 우리와 같지 않다고 말하곤 했어요.<>\n\n임플란트에 대한 장기 테스트를 위해 SAW-01 한 개체를 할당받았습니다. 처음엔 냉담하게 대했지만, 그 아이에게 그 순간은 하루 중 최고의 시간이었죠. 단 한 번도 불평하지 않더군요.\n1년쯤 지났을까요. 검진 중에 나누는 대화는 점차 일상이 되어갔습니다. 실험 범위를 넓힐 명분을 어떻게든 만들어냈어요. 그 전까지는 SAW 개체도 웃을 줄 안다는 걸 전혀 몰랐습니다. 그다지 똑똑하진 않았지만, 제 사무실의 일을 거들기 시작했죠.<>\n\n그 아이와 14년을 함께 일했습니다. 그런데 그 아이를 빼앗겼죠. 연구를 연장할 수 있는 데까지 연장한 뒤였습니다. 노력했어요. 정말로 노력했다고요. 사무실에 앉아 SAW 개체 대장을 몇 번이고 새로고침하며 마침내 그 일이 일어날 때까지 기다렸습니다. 그러다 그 아이의 ID 상태가 사망으로 바뀌더군요. 제가 억눌러왔던 인간성이 마치 복수심에 찬 원혼처럼 터져 나와, 저를 갈가리 찢어놓았습니다.<>\n\n이 EPDA에서 회사를 무너뜨리는 데 필요한 모든 증거를 찾으실 수 있을 거예요.\n이 자료가 제발 효과가 있기를, 그리고 언론의 손에 들어갈 수 있기를 기도합니다.\n\n정말로 미안하다, 메이슨.\n정말, 정말 미안해...\n<>\n> 사건 상태 업데이트: <>해결됨",
+            "Item1": "[운영 감독]\n[사건 보고서, 사건 ID:YVLVH4EB]\n[증거물 #54]\n<>\n더 이상 못 하겠습니다.\n저희가 하는 짓은 잘못됐어요. 악마 같은 짓이라고요.\n\n저는 █████████ 사건 이전부터 여기서 일해 왔어요. 전에는 이렇지 않았습니다. 이제 회사는 사이코패스들만 고용하지만, 저라고 딱히 나을 것도 없었죠.\n저 역시 다른 사람들처럼 SAW 개체들을 이용했습니다. 저희가 이뤄낸 진전은 너무나 손쉬운 나머지 마치 취할 것만 같았죠. 스스로에게 인류를 위해서라고, 그들은 우리와 같지 않다고 말하곤 했어요.<>\n\n임플란트에 대한 장기 테스트를 위해 SAW-01 한 개체를 할당받았습니다. 처음엔 냉담하게 대했지만, 그 아이에게 그 순간은 하루 중 최고의 시간이었죠. 단 한 번도 불평하지 않더군요.\n1년쯤 지났을까요. 검진 중에 나누는 대화는 점차 일상이 되어갔습니다. 실험 범위를 넓힐 명분을 어떻게든 만들어냈어요. 그 전까지는 SAW 개체도 웃을 줄 안다는 걸 전혀 몰랐습니다. 그다지 똑똑하진 않았지만, 제 사무실의 일을 거들기 시작했죠.<>\n\n그 아이와 14년을 함께 일했습니다. 그런데 그 아이를 빼앗겼죠. 연구를 연장할 수 있는 데까지 연장한 뒤였습니다. 노력했어요. 정말로 노력했다고요. 사무실에 앉아 SAW 개체 대장을 몇 번이고 새로고침하며 마침내 그 일이 일어날 때까지 기다렸습니다. 그러다 그 아이의 ID 상태가 사망으로 바뀌더군요. 제가 억눌러왔던 인간성이 마치 복수심에 찬 원혼처럼 터져 나와, 저를 갈가리 찢어놓았습니다.<>\n\n이 EPDA에서 회사를 무너뜨리는 데 필요한 모든 증거를 찾으실 수 있을 거예요.\n이 자료가 제발 효과가 있기를, 그리고 언론의 손에 들어갈 수 있기를 기도합니다.\n\n정말로 미안하다, 메이슨.\n정말, 정말 미안해...\n<>\n> 사건 상태 업데이트: <>해결됨",
             "Item2": ""
         },
         {
@@ -6541,11 +6820,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[제목] 포상을 드릴 계획이에요!\n[보내는 이] 순간이동 부서장, ████████\n[받는 이] 엔지니어 ████████<>\n\n민간 폐기물을 보정 테스트에 쓴다는 아이디어는 정말 놀라웠어요! 그 묘수 덕분에 미 정부에 톡톡히 점수를 따고 있다고요. 그뿐인가요? 우리의 좀... 민감한 것들을 처리하는 데에도 기막힌 방식이죠.\n일석이조로군요. 아니, 일침이체이라고 해야 하나요? 안 그래요?\n\n목표 좌표 문제는... 그것들이 이상하리만큼 그 행성에 끌린다고 해서 문제될 거 있나요? 거기로 가고 싶다는데 우리가 왜 말려야 하죠? 어차피 그 위까지 쫒아와서 우리를 잡을 환경 또라이들도 없다고요.<>\n\n아, 말 나온 김에 폐기물을 바짝 감시하도록 하세요. 운영 감독이 하필 열화 연료봉 더미 속에서 스파이 장비를 적발했다고요! 아마 우리 텔레포터 기술을 파헤치려는 경쟁사 짓이겠지만, 그래도 우리의 다른 사업이 외부에 새어 나갈 위험은 감수할 수 없으니까요.",
+            "Item1": "[제목] 포상을 드릴 계획이에요!\n[보내는 이] 순간이동 부서장, ████████\n[받는 이] 엔지니어 ████████<>\n\n민간 폐기물을 보정 테스트에 쓴다는 아이디어는 정말 놀라웠어요! 그 묘수 덕분에 미 정부에 톡톡히 점수를 따고 있다고요. 그뿐인가요? 우리의 좀... 민감한 것들을 처리하는 데에도 기막힌 방식이죠.\n일석이조인 셈이에요. 아니, 일침이체라고나 하려나요? 안 그래요?\n\n목표 좌표 문제는... 그것들이 이상하리만큼 그 행성에 끌린다고 해서 문제 될 거 있나요? 거기로 가고 싶다는데 우리가 왜 말려야 하죠? 어차피 거기까지 쫓아와서 우리를 쪼아댈 환경 돌아이들도 없을 텐데요.<>\n\n아, 말 나온 김에 폐기물을 바짝 감시하도록 하세요. 운영 감독이 하필 열화 연료봉 더미 속에서 스파이 장비를 적발했다고요! 아마 우리 순간이동 기술을 파헤치려는 경쟁사 짓이겠지만, 그래도 우리의 다른 사업이 외부에 새어 나갈 위험은 감수할 수 없으니까요.",
             "Item2": ""
         },
         {
-            "Item1": "[제목] 청소부들 말이지\n[보내는 이] ████████████ 박사\n[받는 이] ███████ 박사<>\n\n문득 든 생각인데, 청소부들을 대체 어디서 구해오는 걸까? 우리야 각자 분야의 최정상급 인원들이고, 경비원들도 전부 용병이나 특수 부대의 인원들인데, 청소부들은? 이 수준의 보안 등급을 얻게 해 주는 \"청소부 올림픽\" 같은 거라도 있는건가?\n\n궁금은 하지만, 여기서 괜히 참견해봤자 좋은 꼴은 못 보겠지...\n",
+            "Item1": "[제목] 청소부들 말이지\n[보내는 이] ████████████ 박사\n[받는 이] ███████ 박사<>\n\n문득 든 생각인데, 청소부들을 대체 어디서 구해오는 걸까? 우리야 각자 분야의 최정상급 인원들이고, 경비원들도 전부 용병이나 특수 부대의 인원들인데, 청소부들은? 이 수준의 보안 등급을 얻게 해 주는 \"청소부 올림픽\" 같은 거라도 있는 건가?\n\n궁금은 하지만, 여기서 괜히 참견해봤자 좋은 꼴은 못 보겠지...\n",
             "Item2": ""
         },
         {
@@ -6565,7 +6844,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[프로젝트 메모: \"누군가의 하루\"]\n[페이지 1/2]\n[기록 #1]<>\n\n이 장치를 받으면서 일기를 쓰라는 지시를 받았어. 왜인지는 모르겠지만, 명령을 거스르는 게 좋은 생각은 아니니까 당신들에게 내 삶에 대해서 얘기해볼게.\n\n당신들이 이 \"EPDA\"라는 걸 들고 다니는 것만 봐 와서 이걸 내가 들고 있다는 게 이상한 느낌인걸.\n화면 불빛이 내 얼굴을 비추니까 다른 애들이 궁금해해. 여긴 너무 어두워서 다른 애들의 눈이 빛나는 것밖에 안 보여. 방의 불이 꺼지면 우리는 자야 해. 불이 꺼질 때 자기 잠자리에 있지 않으면 보통 뭔가에 걸려 넘어지게 되지. 아니면 그날의 작업을 마치고 힘들어서 움직이지도 못하는 누군가에 걸려 넘어지거나. 적어도 오늘 밤은 그런 애가 없네.\n\n다른 애들이 화면 불빛 때문에 불평하고 있어. 불이 다시 켜지면 이어서 써야겠다.<>\n\n[기록 #2]\n불이 켜지면 대부분 일어나지만, 정말 심하게 다친 애들은 식사 부저가 울려도 계속 자. 우리는 배식구 주변에 몰려서 차례를 기다리지.\n보통은 영양바가 나오지만, 가끔씩 정말 맛있는 게 나오기도 해. 몇몇은 자기만의 특별식을 따로 받아. 어린 애들은 그걸 부러워하지만, 난 그 음식 때문에 이상한 일이 벌어지는 걸 본 적 있어. 만약 누가 남의 음식을 훔치려고 시도하거나 음식을 바꿔치려고 하면 벌을 받아. 좋은 생각이 아냐.\n\n마침 부저가 울리는걸!<>\n\n[기록 #3]\n첫 식사가 끝나면 당신들은 우리를 데리러 와. 당신들은 우리를 번호로 부르고, 우리는 가야 해. 그러고는 우리를 어딘가로 데려가지. 수용실 밖으로 나가는 건 무서워. 끌려가다 보면 가끔 다른 수용실이 보이곤 해. 그 애들하고 얘기해 보고 싶지만, 유리 너머로는 그 애들이 날 보지도 듣지도 못해. 딱 한 번 우리랑 똑같이 생긴 애들로 가득 찬 수용실을 본 적이 있는데, 다들 어딘가... 텅 비어 보였어. 엄청 무서웠어. 왜 그렇게 됐는지 물어보려고 했는데, 당신들 중 하나가 날 때렸지.<>\n\n오늘은 네 명이 뽑혔어. 내가 이걸 쓰느라 바빠서 그런 건지, 이번엔 나만 남겨졌네. 다들 건강한 애들이었는데, 그렇다는 건 다쳐서 돌아올 가능성이 높다는 뜻이야. 보통 작업은 별 일 없이 지나가지만, 가끔은 정말 안 좋아. 운이 좋으면 좋은 작업일 때도 있고. 그중엔 당신들이 매일 나를 끌고 가서 팔에 뭔가를 넣곤 하던 것도 있었어. 정말, 정말 기분이 좋았지만, 넣는 걸 멈추니까 죽을 것만 같은 기분이었지. 당신들이 그런 실험을 더 해 주면 좋겠어!<>",
+            "Item1": "[프로젝트 메모: \"누군가의 하루\"]\n[페이지 1/2]\n[기록 #1]<>\n\n이 장치를 받으면서 일기를 쓰라는 지시를 받았어. 왜인지는 모르겠지만, 명령을 거스르는 게 좋은 생각은 아니니까 당신들에게 내 삶에 대해서 얘기해볼게.\n\n당신들이 이 \"EPDA\"라는 걸 들고 다니는 것만 봐 와서 이걸 내가 들고 있다는 게 이상한 느낌인걸.\n화면 불빛이 내 얼굴을 비추니까 다른 애들이 궁금해해. 여긴 너무 어두워서 다른 애들의 눈이 빛나는 것밖에 안 보여. 방의 불이 꺼지면 우리는 자야 해. 불이 꺼질 때 자기 잠자리에 있지 않으면 보통 뭔가에 걸려 넘어지게 되지. 아니면 그날의 작업을 마치고 힘들어서 움직이지도 못하는 누군가에 걸려 넘어지거나. 적어도 오늘 밤은 그런 애가 없네.\n\n다른 애들이 화면 불빛 때문에 불평하고 있어. 불이 다시 켜지면 이어서 써야겠다.<>\n\n[기록 #2]\n불이 켜지면 대부분 일어나지만, 정말 심하게 다친 애들은 식사 부저가 울려도 계속 자. 우리는 배식구 주변에 몰려서 차례를 기다리지.\n보통은 영양바가 나오지만, 가끔씩 정말 맛있는 게 나오기도 해. 몇몇은 자기만의 특별식을 따로 받아. 어린 애들은 그걸 부러워하지만, 난 그 음식 때문에 이상한 일이 벌어지는 걸 본 적 있어. 만약 누가 남의 음식을 훔치려고 시도하거나 음식을 바꿔치려고 하면 벌을 받아. 좋은 생각이 아냐.\n\n마침 버저가 울리는걸!<>\n\n[기록 #3]\n첫 식사가 끝나면 당신들은 우리를 데리러 와. 당신들은 우리를 번호로 부르고, 우리는 가야 해. 그러고는 우리를 어딘가로 데려가지. 수용실 밖으로 나가는 건 무서워. 끌려가다 보면 가끔 다른 수용실이 보이곤 해. 그 애들하고 얘기해 보고 싶지만, 유리 너머로는 그 애들이 날 보지도 듣지도 못해. 딱 한 번 우리랑 똑같이 생긴 애들로 가득 찬 수용실을 본 적이 있는데, 다들 어딘가... 텅 비어 보였어. 엄청 무서웠어. 왜 그렇게 됐는지 물어보려고 했는데, 당신들 중 하나가 날 때렸지.<>\n\n오늘은 네 명이 뽑혔어. 내가 이걸 쓰느라 바빠서 그런 건지, 이번엔 나만 남겨졌네. 다들 건강한 애들이었는데, 그렇다는 건 다쳐서 돌아올 가능성이 높다는 뜻이야. 보통 작업은 별 일 없이 지나가지만, 가끔은 정말 안 좋아. 운이 좋으면 좋은 작업일 때도 있고. 그중엔 당신들이 매일 나를 끌고 가서 팔에 뭔가를 넣곤 하던 것도 있었어. 정말, 정말 기분이 좋았지만, 넣는 걸 멈추니까 죽을 것만 같은 기분이었지. 당신들이 그런 실험을 더 해 주면 좋겠어!<>",
             "Item2": ""
         },
         {
@@ -6606,7 +6885,6 @@
             "저기? 이거 켜져 있는 거 맞아?",
             "내가 무슨 말 할지 보려고 계속 시간을 일시 정지하고 있는 거야?",
             "별들이 널 지켜보고 있어.",
-            "널 지켜보는 건 인간만이 아니야.",
             "네 바로 뒤야.",
             "이 장소는 네가 파악할 수 없을 정도로 흥미롭기 그지없어.",
             "네 관리자가 네게 모든 걸 얘기해준 건 아니야."
@@ -6643,10 +6921,10 @@
             "너무 편안하게 굴지 말라고.",
             "즐거운 생존 돼!",
             "오만은 언제 덮쳐올지 모르는 교활한 암살자이지.",
-            "원대한 기만. 원대한 실패와 낭비. 하지만 내겐 아니야.",
+            "원대한 기만.",
             "네가 정말 통제하고 있는 거야?",
             "네가 조금이라도 통제할 수 있다고 망상하는 게 우스워. 계속해.",
-            "너 진짜 저 아래에 있는 게 이 수고를 들일 가치가 있다고 생각하는 거야? 내가 잔뜩 더 만들 수 있다고.",
+            "너 진심으로 저 아래에 있는 게 이 수고를 들일 가치가 있다고 생각해?",
             "네게 힘이 있는 거 같아?",
             "넌 결코 이것의 규모를 가늠하지 못할 거야.",
             "자기 지능을 과신하는 꼴이라고는. 귀엽긴."
@@ -6663,11 +6941,26 @@
             "넌 필요 이상으로 너무 끈질겨.",
             "아, 불쌍한 녀석."
         ],
-        "<spoiler>": [
-            "<spoiler>"
+        "cargoembedded": [
+            "잘했어.",
+            "참 오래도 걸렸네.",
+            "달리기 경주는 아니지만 서둘러.",
+            "이제 슬슬 이 상황이 진지하게 받아들여지니?",
+            "기적이라는 건 일어나기도 하나 봐."
         ],
-        "<spoiler2>": [
-            "<spoiler>"
+        "labescape": [
+            "저들에게 네가 누군지 보여줘.",
+            "이걸로 뭐가 될진 봐야 알겠지.",
+            "이게 네 운명을 바꿀 거라고 믿어?",
+            "나는 아직 여기 있어.",
+            "계속 가봐. 그거 말고 할 게 뭐가 있어?",
+            "흥미로운걸. 계속해 줘.",
+            "감정의 표출이 참으로 재미있네.",
+            "제법이네. 계속해.",
+            "재미있는 도전이네. 계속해 봐!",
+            "뭐 해, 계속하라고!",
+            "대단한 기분 아니야?",
+            "너 자신이 정말 뿌듯하지 않아?"
         ],
         "combat": [
             "재미 보고 있는 거 같네.",
@@ -6685,8 +6978,7 @@
             "네 이 버릇 마음에 들지 않아.",
             "네 덕분에 두통이 오겠다...",
             "너 일부러 이러는 거야? 얼른 끝내.",
-            "어이, 이제 막 재밌는 부분이었는데!",
-            "플레이 안 할 거면, 컨트롤러 넘겨!"
+            "어이, 이제 막 재밌는 부분이었는데!"
         ],
         "combatelder": [
             "좋다곤 못 하겠네.",
