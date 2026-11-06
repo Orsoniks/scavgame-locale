@@ -426,7 +426,7 @@
         "streptokinase": "Jeringa de estreptoquinasa",
         "streptokinasedsc": "Una jeringa que almacena 100 ml, posee un autoinyector a su extremo. Usa aproximadamente 34 ml por dosis.",
         "chestdrain": "Drenador torácico",
-        "chestdraindsc": "Se utiliza para drenar líquido del tórax. Reduce el hemotórax, reutilizable después de un tiempo. Sólo utilizable en el pecho.",
+        "chestdraindsc": "Se utiliza para drenar líquido del tórax. Reduce el hemotórax, reutilizable después de un tiempo. Solo utilizable en el pecho.",
         "tweezers": "Pinzas",
         "tweezersdsc": "Un simple par de pinzas de metal. Puede extraer de forma limpia y sin dolor las esquirlas de las extremidades.",
         "lockpickingkit": "Kit de ganzúas",
@@ -1083,7 +1083,7 @@
         "shockdsc": "Entrando en shock por la agonía.",
         "overdose1dsc": "Relajado y tranquilo. Tu cuerpo se siente entumecido.",
         "overdose2dsc": "Muy relajado y tranquilo, pero tus pulmones se sienten pesados. Un poco más cansado de lo habitual. Esto se siente bastante bien...",
-        "overdose3dsc": "Respirar es difícil, pero tu mente está en euforia. Esto definitivamente no es saludable. Si tan sólo pudiera durar para siempre...",
+        "overdose3dsc": "Respirar es difícil, pero tu mente está en euforia. Esto definitivamente no es saludable. Si tan solo pudiera durar para siempre...",
         "overdose4dsc": "Insuficiencia respiratoria. Estás experimentando una euforia cargada de drogas.",
         "withdrawal1dsc": "Realmente quieres otra dosis.",
         "withdrawal2dsc": "Tu cuerpo está desesperado por recibir otra dosis. Quieres vomitar... Esto se siente muy mal.",
@@ -1408,7 +1408,7 @@
         "highgradestimulant": "Estimulante de uso médico",
         "highgradestimulantdsc": "Fármaco estimulante de grado clínico. Genera un efecto fuerte durante un tiempo prolongado, y por lo general, es seguro de usar. La sobredosis normalmente provoca debilidad, con un bajón poco perceptible. Usa 100 ml por dosis.",
         "midgradestimulant": "Estimulante fuerte",
-        "midgradestimulantdsc": "Fármaco estimulante potente y moderadamente refinado. Sólo funciona vía intravenosa. Genera un efecto intenso durante un corto tiempo, aunque produce efectos secundarios. La sobredosis provoca debilidad y sangrado interno. Usa 50 ml por dosis.",
+        "midgradestimulantdsc": "Fármaco estimulante potente y moderadamente refinado. Solo funciona vía intravenosa. Genera un efecto intenso durante un corto tiempo, aunque produce efectos secundarios. La sobredosis provoca debilidad y sangrado interno. Usa 50 ml por dosis.",
         "lowgradestimulant": "Estimulante genérico",
         "lowgradestimulantdsc": "Fármaco estimulante no refinado. Poco fiable. Genera un efecto moderado por cierto tiempo, pero la sobredosis y el bajón repentino es extremadamente debilitante. La dosis es desconocida. Úselo con precaución.",
         "naltrexone": "Naltrexona",
@@ -2048,7 +2048,7 @@
         "alertitemfar": "¡Objeto demasiado lejos!",
         "alertpickupwearable": "Los equipables no se pueden sostener en la mano. Equípalo o guárdalo.",
         "alertalreadywearing": "¡No puedes ponerte tu <1> sobre tu <2>!",
-        "alertcontainerstacking": "¡Sólo puedes colocar contenedores vacíos dentro de otros contenedores!",
+        "alertcontainerstacking": "¡Solo puedes colocar contenedores vacíos dentro de otros contenedores!",
         "alertcontainerstackingalt": "¡No puedes usar este contenedor, ya que está dentro de otro contenedor!",
         "alerttoounhappy": "No se puede usar medicamentos no opioides al estar miserable",
         "alertlimbmissing": "¡Sin tu <1>, el objeto (<2>) queda inservible!",
@@ -2252,7 +2252,7 @@
         "tutbasic59": "Mira arriba, a la derecha. Estas son tus habilidades. En orden, Fuerza, Resiliencia e Inteligencia.",
         "tutbasic60": "La Fuerza es tu cantidad de masa muscular. Mejora la fuerza de tus ataques y tu capacidad de carga.",
         "tutbasic61": "La Resiliencia es tu resistencia física y fortaleza mental. Soportarás mejor el dolor y el cansancio.",
-        "tutbasic62": "La Inteligencia mide tu conocimiento neto. Define lo que puedes crear, reconocer, las interacciones de intercambio y el uso del desfibrilador.",
+        "tutbasic62": "La Inteligencia mide tu conocimiento en general. Define lo que puedes crear, reconocer, las interacciones de intercambio y el uso del desfibrilador.",
         "tutbasic63": "Puedes pasar el cursor sobre cualquiera de estas para aprender más.",
         "tutbasic64": "La Fuerza y la Resiliencia pueden aumentarse aún más si haces ejercicio. Inténtalo, usa el botón en la esquina inferior derecha.",
         "tutbasic65": "Puede que hayas notado el botón para dormir, justo debajo del de ejercicio.",
@@ -2280,7 +2280,7 @@
         "tutaid19": "Ahora abarcaremos las lesiones más comunes.",
         "tutaid20": "El sangrado es de las lesiones más frecuentes que te encontrarás. Serás más propenso a la infección y, más importante, reduce el volumen sanguíneo total.",
         "tutaid21": "Tu cerebro necesita oxígeno para vivir. Para ello, necesita una cantidad suficiente de sangre oxigenada en circulación.",
-        "tutaid22": "Aquí tienes algo de vendaje. Ya sabes cómo usarlo y detén el sangrado.",
+        "tutaid22": "Aquí tienes algo de vendaje. Ya sabes cómo usarlo. Detén el sangrado.",
         "tutaid23": "Echa un vistazo a la presión sanguínea. Normalmente debería mantenerse alrededor de 120/80.",
         "tutaid24": "La presión sanguínea está influenciada directamente por tu frecuencia cardíaca, el volumen en sangre y la constricción y dilatación de los vasos sanguíneos.",
         "tutaid25": "En situaciones de crisis, la supervivencia se resume en asegurarte de que tu presión sanguínea se mantenga a niveles estables y que tu corazón siga latiendo.",
@@ -2298,9 +2298,9 @@
         "tutaid37": "Esto es un desfibrilador manual. Es similar al DEA, pero puede fallar si lo usas incorrectamente. Úsalo en tu pecho.",
         "tutaidfail1": "Lugar incorrecto. Úsalo en tu PECHO.",
         "tutaidfail2": "Pecho. Tu tórax. Lo usaste en el lugar equivocado... Úsalo en tu PECHO. Quieres desfibrilar tu corazón... Y eso está en tu pecho. ¿Cómo siquiera llegaste a este punto?",
-        "tutaid38": "Para usarlo correctamente, desbes ajustar el nivel de potencia acorde a qué tanto ha progresado la fibrilación.",
+        "tutaid38": "Para usarlo correctamente, debes ajustar el nivel de potencia acorde a qué tanto ha progresado la fibrilación.",
         "tutaid39": "Esto quiere decir que si la arritmia acaba de comenzar, debes ajustarlo a un nivel de potencia bajo. Si tu corazón está a segundos de detenerse, ajústalo a un nivel alto.",
-        "tutaid40": "Puedes determinar esto usando el ECG y la estimación de carga visble aquí. Cuanto mejor alinees el nivel de carga, más probabilidades tendrás de que funcione.",
+        "tutaid40": "Puedes determinar esto usando el ECG y la estimación de carga visible aquí. Cuanto mejor alinees el nivel de carga, más probabilidades tendrás de que funcione.",
         "tutaid41": "Intenta hacerlo. Ajusta la potencia, carga, luego descarga hasta que tu arritmia desaparezca. Lo lograrás eventualmente. Intenta usar el ECG y el nivel de potencia estimada.",
         "tutaid42": "Digamos que algo sale muy mal. Ponte esto y ahora abre el panel de salud.",
         "tutaid43": "Tu corazón dejó de latir. La única cosa que te mantiene consciente es la bomba automática que te pusiste. Este es el peor escenario posible.",
@@ -2320,7 +2320,7 @@
         "tutaid57": "A continuación, veremos otros tipos de lesiones.",
         "tutaid58": "Las dislocaciones también son lesiones comunes causadas por caídas fuertes. Las extremidades dislocadas causarán mucho dolor si las usas.",
         "tutaid59": "Puedes arreglar las dislocaciones con la mano. Inténtalo.",
-        "tutaid60": "Necesitarás colocar la articulación de nuevo a su lugar. Toma algo de impulso con tu mano, luego [CLIC IZQUIERDO] sobre la articulación para dar un golpe firme.",
+        "tutaid60": "Necesitarás volver a colocar la articulación a su lugar. Toma algo de impulso con tu mano, luego [CLIC IZQUIERDO] sobre la articulación para dar un golpe firme.",
         "tutaid61": "Las fracturas son similares a las dislocaciones, pero son más graves y necesitan tiempo o herramientas especiales para tratarlas.",
         "tutaid62": "Una férula es una forma simple, pero efectiva para tratar una fractura. Ponte esta férula en tu mano fracturada.",
         "tutaid63": "Bien. Las férulas aceleran la curación de una extremidad fracturada significativamente. Usar vendajes sobre la extremidad también ayuda ligeramente.",
@@ -2329,11 +2329,11 @@
         "tutaid66": "El dolor intenso es una de las afecciones más debilitantes que puedes tener.",
         "tutaid67": "Te inmoviliza y empeora rápidamente tu estado de ánimo, hasta desmayarte por el shock.",
         "tutaid68": "Por suerte, hay una forma simple para tratarlo.",
-        "tutaid69": "Los opioides rápidamente reducen el dolor en todo el cuerpo cuando lo usas. Inyéctalo todo y observa qué pasa.",
+        "tutaid69": "Los opioides rápidamente reducen el dolor en todo el cuerpo cuando los usas. Inyéctalo todo y observa qué pasa.",
         "tutaid70": "¡BOO!",
         "tutaid71": "Eso fue muy rápido, ¿verdad?",
         "tutaid72": "Ten cuidado con estos medicamentos - fácilmente puedes caer en sobredosis o experimentar síndromes de abstinencia por esto. Naloxona y naltrexona son medicamentos útiles que ayudan con el abuso de opioides.",
-        "tutaid73": "Con esto concluye el Curso de Primeros Auxilios. Podríamos haberte enseñado más, pero creemos que puedes averiguarlo por tu cuenta las demás aflicciones de forma segura. Puedes regresar a tu habitación designada.",
+        "tutaid73": "Con esto concluye el Curso de Primeros Auxilios. Podríamos haberte enseñado más, pero creemos que puedes averiguar por tu cuenta cómo tratar las demás aflicciones de forma segura. Puedes regresar a tu habitación designada.",
         "tutcraft1": "Bienvenido al Curso de Creación de Objetos. Hoy, cubriremos los temarios para recolectar objetos y algunos de los flujos de trabajo más comunes.",
         "tutcraft2": "Casi todo lo que ves aquí se compone de materiales útiles, no es solo basura.",
         "tutcraft3": "Puedes recolectar metal de las pilas de chatarra y trampas; madera, de las estructuras hechas de madera; hojas, de las plantas, etc.",
@@ -2417,7 +2417,7 @@
         "mercnote1": "You breach through the final few layers of gravel and rock that separate you from the wide open air.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
         "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you and so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nA bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, and it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
         "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nWhat..?<>\n\nWhere am I..?\n\nWhy...<>\n\nIt hurts...<>\n\n...<>\n\nWhat happened...?<>\n\nThis scarf... I...<>\n\n...<>\n\n...I remember.<>\n\n...I know what needs to be done.",
-        "startlorenote": "Año 2XXX \n<>\nLa tecnología humana ha progresado significativamente. Las cosas que antes parecían imposibles ahora se convirtieron en algo cotidiano.\n<>\nEn el centro de todo solo había una corporación. Sus avances parecían milagros, pero tenían sus secretos guardados.\n<>\nAños atrás, la corporación había creado una nueva especie: una combinación de ADN animal y humano al que simplemente llamaron \"Experimentos.\"\n<>\nEstos experimentos eran los sujetos de prueba perfectos al ser tan parecidos a los humanos, y estaban a total disposición de la corporación para hacer lo que ellos quisieran. Trabajaron arduamente en ellos, retorciendo su biología más allá para satisfacer sus necesidades, y mientras pasaban los años, la población no dejaba de crecer.\n\nNinguno ha conocido el mundo exterior.\n<>\nEn ese momento, parecía que la Tierra ya no podía contener sus ambiciones. Con su recién desarrollada tecnología de teletransportación, pusieron la mira en un planeta gris llena de vida.\n<>\nPronto, toneladas de cargamentos diversos y desechos fueron enviados.\n<>\nDebido a problemas presentados en la calibración, muchos de estos cargamentos terminaron tanto en la compleja red de cuevas del planeta, como en su superficie. Aun así, el proyecto avanzó. \n<>\nEso fue así, hasta que un error desconocido provocó que una pieza importante de tecnología fuera enviada a lo más profundo de las cuevas.\n<>\nEventualmente, los científicos habían ideado un plan. Un plan que representaba nulo riesgo para sí mismos.\n<>\nLas probabilidades de que funcionara eran bajas, pero sus recursos biológicos eran abundantes.\n<>\nEres un espécimen desafortunado.\nLa resistencia no es una opción."
+        "startlorenote": "Año 2XXX \n<>\nLa tecnología humana ha progresado significativamente. Las cosas que antes parecían imposibles ahora se convirtieron en algo cotidiano.\n<>\nEn el centro de todo solo había una corporación. Sus avances parecían milagros, pero tenían sus secretos guardados.\n<>\nAños atrás, la corporación había creado una nueva especie: una combinación de ADN animal y humano al que simplemente llamaron \"Experimentos.\"\n<>\nEstos experimentos eran los sujetos de prueba perfectos al ser tan parecidos a los humanos, y estaban a total disposición de la corporación para hacer lo que ellos quisieran. Trabajaron arduamente en ellos, retorciendo su biología más allá para satisfacer sus necesidades, y mientras pasaban los años, la población no dejaba de crecer.\n\nNinguno ha conocido el mundo exterior.\n<>\nEn ese momento, parecía que la Tierra ya no podía contener sus ambiciones. Con su recién desarrollada tecnología de teletransportación, pusieron la mira en un planeta gris lleno de vida.\n<>\nPronto, toneladas de cargamentos diversos y desechos fueron enviados.\n<>\nDebido a problemas presentados en la calibración, muchos de estos cargamentos terminaron tanto en la compleja red de cuevas del planeta como en su superficie. Aun así, el proyecto avanzó. \n<>\nEso fue así, hasta que un error desconocido provocó que una pieza importante de tecnología fuera enviada a lo más profundo de las cuevas.\n<>\nEventualmente, los científicos habían ideado un plan. Un plan que representaba nulo riesgo para sí mismos.\n<>\nLas probabilidades de que funcionara eran bajas, pero sus recursos biológicos eran abundantes.\n<>\nEres un espécimen desafortunado.\nLa resistencia no es una opción."
     },
     "character": [
         {
@@ -2735,7 +2735,7 @@
                 "Siento muchas ganas de vomitar...",
                 "No me puedo concentrar.",
                 "Me siento enfermo...",
-                "Creo que me he envenenado..",
+                "Creo que me he envenenado.",
                 "He comido algo muy malo.",
                 "Mi estómago...",
                 "Me siento muy mal.",
@@ -2775,7 +2775,7 @@
                 "Mier... Uf... Maldita sea..."
             ],
             "vomitblood": [
-                "Bluughh... Yo... Oh. Oh dios, eso es sangre...",
+                "Bluughh... Yo... Oh. Oh Dios, eso es sangre...",
                 "Ghghh... *tos* ...Maldición... Eso es... Sangre...",
                 "Ahí va mi... almu... Oh. Oh no no no. Oh no. Acabo de vomitar sangre...",
                 "Bllggh... ugh... Mi... Oh... Dios...",
@@ -2788,12 +2788,12 @@
                 "Uuughgh... Ayuda... Eso es sangre lo que acabo de vomitar...",
                 "No me puedo creer... acabo de... vomitar sangre...",
                 "Guuhghh... ughh... Esto está... mal...",
-                "Estoy tan débil.. gughh... Eso se sintió... muy extraño...",
+                "Estoy tan débil... gughh... Eso se sintió... muy extraño...",
                 "...uughh... asqueroso- ...Sangre. Eso es sangre. Acabo de vomitar sangre. Oh no. Ay NO.",
                 "Mm.... Mierda... ugh... Sangre... Eso no puede ser bueno...",
                 "Vaya... Solo... vomité... ¿...Sangre? ..¿eh?",
                 "Ghhuhh... ¿Por qué... acabo de...",
-                "Estoy... guugh... ...Estoy seguro que eso fue sangre... Estoy sangrando por dentro...",
+                "Estoy... guugh... ...Estoy seguro de que eso fue sangre... Estoy sangrando por dentro...",
                 "Esto no es... ghghuh... Vómito... Esto no es... Oh...",
                 "Mier... Ough... Maldita sea... Así no..."
             ],
@@ -2864,7 +2864,7 @@
                 "Mi estómago me mata por comer algo...",
                 "Uggh... El hambre duele...",
                 "Ghh... estómago... hambriento.",
-                "Necesito.. comida...",
+                "Necesito... comida...",
                 "Comida...",
                 "Uuuugh. Realmente quiero un bocado.",
                 "Mi estómago está realmente vacío.",
@@ -3051,7 +3051,7 @@
                 "Esto no tiene sentido...",
                 "Por favor... cualquier cosa que me haga sentir mejor...",
                 "¿Alguna cosa para aliviar mi sufrimiento? ¿Cualquier cosa?",
-                "Sólo quiero que esto pare.",
+                "Solo quiero que esto pare.",
                 "Esto va a ser de mi vida ahora... Genial.",
                 "Soy demasiado patético para esto...",
                 "Este lugar me va a destrozar.",
@@ -3059,15 +3059,15 @@
                 "¿Qué voy a hacer...?",
                 "Nunca saldré de esto.",
                 "A la mierda todo esto.",
-                "¿Cuál es el punto si quiera?",
+                "¿Cuál es el punto siquiera?",
                 "No puedo hacerlo... no por más tiempo.",
                 "Necesito algo que me ayude a olvidar.",
                 "Me siento... Horrible.",
                 "¿Por qué me hacen esto?",
-                "¿Me dejaron aquí, sólo para verme sufrir?...",
+                "¿Me dejaron aquí... solo para verme sufrir?...",
                 "Ojalá pudiera... entender esto mejor.",
                 "Necesito distraerme.",
-                "...No...Está bien....",
+                "...No... Está bien...",
                 "Me siento realmente horrible.",
                 "¡MALDITA SEA!",
                 "Quiero llorar...",
@@ -3084,7 +3084,7 @@
                 "...",
                 "Maldita sea... ¡¡¡MALDITA SEA!!! ¿Por qué carajos estoy AQUÍ???",
                 "Rezo para que mi muerte sea rápida cuando llegue.",
-                "Realmente estoy empezando a considerar a ponerle fin a mi vida.",
+                "Realmente estoy empezando a considerar ponerle fin a mi vida.",
                 "No me presiones más, imbécil.",
                 "Yo no... no quiero morir aquí...",
                 "Alguien... Quien sea... Por favor, ayúdame...",
@@ -3103,7 +3103,7 @@
                 "Mátame. Mátame. Mátame. Por favor mátame.",
                 "Deseo no despertar.",
                 "No puedo hacer esto. Simplemente no puedo.",
-                "¿Nací para sólo sentir dolor?",
+                "¿Nací para solo sentir dolor?",
                 "No se saldrán con la suya.",
                 "Haz que pare... Haz que pare...",
                 "Estoy... Así de cerca.",
@@ -3111,7 +3111,7 @@
                 "Voy a acabar con mi puta vida.",
                 "Estoy a punto de ESTALLAR, CARAJO.",
                 "No recuperaré esa maldita batería si mi vida depende de ello.",
-                "Prefiero suicidarme que dar otros 2 pasos.",
+                "Prefiero suicidarme a dar otros 2 pasos.",
                 "Estoy completamente vacío.",
                 "No vale la pena vivir por esto.",
                 "Me sacaré mis putas arterias de mi maldita muñeca con mis garras.",
@@ -3147,16 +3147,16 @@
             "selfharm": [
                 "Jajajaja... Sí... Está bueno...",
                 "Muuuucho mejooor... ajaja... Bien pinche maravilloso",
-                "Oh sii... Mierda, sí... CARAJO, sí...",
+                "Oh síí... Mierda, sí... CARAJO, sí...",
                 "Mmhh... Mierda... Jajajaja... Esto es bueno...",
                 "Te gusta estooooo eh... Hijo de puta... Ajaja... JÓDASE... Jódase... Bien...",
                 "Que me den, jaja... Eso se siente increíble...",
                 "¡AAAAGH! ¡MIERDA, SÍ! Bien increíble del putas...",
                 "¡MIERDA! ¡JAJAJAJA! ¡ESO, CARAJO!",
-                "Sólo un pequeño corte... Más... Jajaja... Mierda...",
+                "Solo un pequeño corte... Más... Jajaja... Mierda...",
                 "Ay-... E-esa estuvo buena... Mierda... Rebueno",
                 "¡MIERDA! ¡Jajaja! Puta, sí... Jajajaja...",
-                "Esto es lo que... te mereces... Careverga... Jódase... Jajajaja...",
+                "Esto es lo que... te mereces... Careverga... Púdrase... Jajajaja...",
                 "Ahí... vamos... jajaja... Bien...",
                 "Eso... mierda... Sí. Aaahhh... Esto será suficiente... Jaja...",
                 "S-Sí... toma eso... Hijo de puta... Eso dolerá bien...",
@@ -3169,7 +3169,7 @@
                 "No acabemos con esto todavíííííía... Mierda... Está bueno...",
                 "No necesito esta carne... Ggrhh... Jajaja... Más de esto...",
                 "P-puta... Jajajaja... Se siente bien...",
-                "Bieeeeeeeeennn.... Mmmh... aAl fin... Al fin... Bien pinche bueno... Mmhhmm...",
+                "Bieeeeeeeeennn.... Mmmh... Al fin... Al fin... Bien pinche bueno... Mmhhmm...",
                 "T-Tal vez... Tal vez me suicidaré la próxima vez... Jajaja..."
             ],
             "angeronitem": [
@@ -3194,7 +3194,7 @@
                 "Te lo dije... TE LO DIJE. Pedazo de mierda... mierda... Arde en las putas profundidades del infierno.",
                 "Seré mejor siendo un cadáver en descomposición. Mi vida terminó en el momento en que me enviaron aquí. Adiós.",
                 "¡Esto es por TODO! ¡ME CANSÉ! ¡AAAHHHH! ¡A LA MIERDA TODO ESTO!",
-                "Yo. Sólo... Me cansé. No hay tiempo para notas de suicidio. Estoy tan cansado de todo esto. Adiós.",
+                "Yo. Solo... Me cansé. No hay tiempo para notas de suicidio. Estoy tan cansado de todo esto. Adiós.",
                 "S... sin resentimientos... ¿verdad?... ja... estoy... estoy tan cansado... B-buenas noches...",
                 "Ya no continuaré con esto. No lo haré. Se acabó. Adiós. Chao. A la mierda esto.",
                 "Nunca hubo ninguna esperanza. ¡ESTOY. FUERA. CARAJO! ¡DÉJAME EN PAZ! ¡NO DEJARÉ QUE ESTE LUGAR ME QUITE LA VIDA!",
@@ -3245,7 +3245,7 @@
                 "Púdrete.",
                 "No te creas.",
                 "...",
-                "Pero por qué.",
+                "Pero ¿por qué?",
                 "¿Por qué debería?",
                 "...",
                 "Yo...",
@@ -3279,7 +3279,7 @@
                 "Mi sangre... ",
                 "Esa es mi sangre...",
                 "Oh... es sangre...",
-                "Necesito curarlo.",
+                "Necesito curarme.",
                 "¡Oh! ¡Sangre! ¡Rayos!",
                 "Eh... ¿sangre? Nada bueno...",
                 "¡Mi sangre, no!",
@@ -3318,7 +3318,7 @@
                 "Yo-yo-yo... Oh... N-No... Yo... Oh, D-Dios...",
                 "E-es todo...",
                 "M-Mierda... Concéntrate... Puedo salir de esta...",
-                "Oh dios. Mierda. Te... tengo miedo...",
+                "Oh Dios. Mierda. Te... tengo miedo...",
                 "Veo todo borroso...",
                 "¡Vendaje! U-urgente..."
             ],
@@ -3328,13 +3328,13 @@
                 "Hay un pedazote de vidrio en mi pata.",
                 "¿Podemos evitar pisar cristales rotos?",
                 "Eso fue terriblemente descuidado por mi parte.",
-                "Necesito limpiar los vidrios rotos que consigo.",
+                "Necesito limpiar los vidrios rotos que encuentro.",
                 "NO pisemos fragmentos de vidrio.",
                 "Preferiría evitar clavarme cristales en mis patitas.",
                 "Esas ventanas claramente no estaban templadas."
             ],
             "seecorpse": [
-                "Oh... Oh dios.",
+                "Oh... Oh Dios.",
                 "Mierda.",
                 "Mejor tú que yo, amigo...",
                 "Esto no es muy consolante.",
@@ -3351,7 +3351,7 @@
                 "Pobrecito.",
                 "Mierda...",
                 "Awww... Es una escena horrible.",
-                "Sabía que habían más de nosotros aquí...",
+                "Sabía que había más de nosotros aquí...",
                 "Todo estará bien... Todo estará bien.",
                 "Oh, mierda. Está muerto...",
                 "*Suspiro*",
@@ -3397,7 +3397,7 @@
                 "Parece que dolió.",
                 "¡Este sigue sonriendo!",
                 "Ya perdí la cuenta.",
-                "Alguien debería organizarles un funeral para todos esos...",
+                "Alguien debería organizarles un funeral para todos ellos...",
                 "Esto apesta...",
                 "Cada vez que veo a uno de nosotros así, una pequeña parte de mi alma se rompe.",
                 "¡Cosas gratis!",
@@ -3405,7 +3405,7 @@
                 "Me pregunto si alguno de ellos se podían salvar.",
                 "Jajaja...",
                 "¡Oye! ¡Tú! ...Sí, no se ve para nada diferente.",
-                "'Manito, REALMENTE no debo agradarles a estos tipos... ¡Ni uno solo me miró!",
+                "Vieeejo, REALMENTE no debo agradarles a estos tipos... ¡Ni uno solo me miró!",
                 "Sigamos adelante.",
                 "La supervivencia del más apto, supongo...",
                 "Eugh.",
@@ -3437,7 +3437,7 @@
                 "...Y. Eso, damas y caballeros... es otro cadáver.",
                 "Ooh.",
                 "¡Amigo! Nooo... No amigo...",
-                "Eso no es sanitario.",
+                "Eso no es higiénico.",
                 "No creo que haya disfrutado de su estancia.",
                 "¡Ay, hueles mal! Báñate...",
                 "Mmh...",
@@ -3466,7 +3466,7 @@
                 "Tuviste suerte.",
                 "Desearía ser tan afortunado como tú.",
                 "Estoy de acuerdo.",
-                "Sí. Ésta es una carga que no vale la pena llevar.",
+                "Sí. Esta es una carga que no vale la pena llevar.",
                 "No puedo esperar a tener las agallas para terminarlo.",
                 "Tengo celos."
             ],
@@ -3504,7 +3504,7 @@
             "warm": [
                 "Hace un poco de calor.",
                 "Me siento caluroso.",
-                "Tengo un poco de calor",
+                "Tengo un poco de calor.",
                 "Un poco caluroso para mi gusto.",
                 "Me gustaría refrescarme.",
                 "Estoy empezando a sudar mucho.",
@@ -3571,7 +3571,7 @@
                 "Mis pulmones... uf...",
                 "Me duele el pecho... uff...",
                 "Dios... estoy agotado...",
-                "Sólo... necesito un minuto...",
+                "Solo... necesito un minuto...",
                 "Necesito... descansar...",
                 "Necesito un descanso...",
                 "Sin... energías...",
@@ -3639,7 +3639,7 @@
                 "Me cuesta un poco respirar...",
                 "Siento que me voy a desmayar... Y me encanta...",
                 "Me siento rarísimo...",
-                "Ooggh... Siiiii...",
+                "Ooggh... Sííííí...",
                 "Tengo hormigueos...",
                 "Me encanta esta... ¿sensación?...",
                 "Quiero más de esto...",
@@ -3650,7 +3650,7 @@
                 "Puedo... relajarme ahora...",
                 "Finalmente... sensación de paz...",
                 "Realmente... necesitaba eso...",
-                "Sólo necesito relajarme... Sólo necesito relajarme...",
+                "Solo necesito relajarme... Solo necesito relajarme...",
                 "Esto me calmará... esto me-... oogh...",
                 "Realmente necesitaba eso.",
                 "Me siento... a gusto...",
@@ -3663,7 +3663,7 @@
                 "Libeeeertaaaaaad...",
                 "Gracias, cosita tonta...",
                 "Necesito dejar de pensar... dejar de pensar...",
-                "Sólo para... dejar de pensar en estas cosas...",
+                "Solo para... dejar de pensar en estas cosas...",
                 "Aclarar mi mente... aclarar mi mente...",
                 "No más... sufrimiento...",
                 "Ahhhhhh... Qué bueno..."
@@ -3684,7 +3684,7 @@
                 "Me s-siento tan... terrible... Necesito más...",
                 "Analgésicos...",
                 "Ne... necesito algo... necesito drogarme...",
-                "M-mierda... uuggh... abstinencia..",
+                "M-mierda... uuggh... abstinencia...",
                 "Me siento como la mierda... Necesito una dosis- AHORA.",
                 "M-me vendría bien una dosis ahora mismo.",
                 "So-solo una dosis más.",
@@ -3703,7 +3703,7 @@
                 "Me desmayo...",
                 "¿Qué está pasando...? Ayuda...",
                 "Cof- A-ayuda...",
-                "No p-puedo respirar...!",
+                "¡No p-puedo respirar!...",
                 "Me... ¡ahogo!...",
                 "¡Ahk! ¡Ugghh-!",
                 "Necesito... ¡Aire!...",
@@ -3822,7 +3822,7 @@
                 "¡OHH! ¡AHHH!",
                 "¡OHHHMMIIEE!",
                 "¿¡EEHHH!?",
-                "¡¿QUEEEHHH?!",
+                "¡¿QUÉÉÉHHH?!",
                 "¡HEEEEEY!",
                 "¡AAHHHHG!",
                 "¡AAAAACK!",
@@ -3839,7 +3839,7 @@
                 "¡AAAAAAAAAAAAAA!",
                 "¡¡¡PARA!!! ¡AAHHHHHH!",
                 "¡AYÚDENME! ¡AYUDA!",
-                "¡AAHHHH NOO! ¡MIERDA! ¡ALÉJATE DE MI!",
+                "¡AAHHHH NOO! ¡MIERDA! ¡ALÉJATE DE MÍ!",
                 "¡AAAAHHHHHHH!",
                 "*suspiro*",
                 "¡MIERDA! ¡CARAJO! ¡MALDICIÓN! ¡AAHHHHHH!",
@@ -3864,7 +3864,7 @@
                 "Muy empapado.",
                 "Odio esta sensación de humedad.",
                 "Intentemos no mojarnos la próxima vez...",
-                "Mi pelaje está todo humedo y pegajoso...",
+                "Mi pelaje está todo húmedo y pegajoso...",
                 "Mi pelaje está llenito de agua.",
                 "¡Demasiado mojado!",
                 "Sácame toda esta agua de encima."
@@ -3921,7 +3921,7 @@
             ],
             "drillend": [
                 "...Se tomó su tiempo.",
-                "Juro que esa cosa no tenía insonorización..",
+                "Juro que esa cosa no tenía insonorización.",
                 "Un viaje largo, ¿Eh?...",
                 "¿Oh...? ¿Es todo?"
             ],
@@ -3935,7 +3935,7 @@
             "murderregret": [
                 "Por... ¿Por qué he hecho eso...? M-mierda...",
                 "Gh... Dios... ¿Por qué...?",
-                "E... Eso fue horrible.. Soy un monstruo...",
+                "E... Eso fue horrible. Soy un monstruo...",
                 "Nhh... ¿Por qué?... ¿Por qué? Era uno de los nuestros..."
             ],
             "tradeemeet": [
@@ -3959,7 +3959,7 @@
             ],
             "tradermeetgood": [
                 "¡Ah! ¡¡Holis!!",
-                "¡Hola! ¿Cómo estas?",
+                "¡Hola! ¿Cómo estás?",
                 "¡Aah! ¡¡Hola!! ¡Holaaa!"
             ],
             "tradermeetbad": [
@@ -3973,8 +3973,8 @@
                 "Ahhh... Gracias, amigo.",
                 "Mmmh... Aww, ¡gracias!",
                 "¡Ah! Mmhh... gracias...",
-                "Aw! ¡Eres tan amable!",
-                "...Gracias, Necesitaba eso."
+                "¡Aw! ¡Eres tan amable!",
+                "...Gracias, necesitaba eso."
             ],
             "traderhugfail": [
                 "¡AHHH! No me toques de la nada...",
@@ -3992,7 +3992,7 @@
                 "Lo consideraré...",
                 "E-está bien... Por supuesto...",
                 "¡Tiene sentido para mí!",
-                "Uh huh.",
+                "Ajá.",
                 "Hmm... Está bien."
             ],
             "traderhagglefail": [
@@ -4009,7 +4009,7 @@
             "traderdepressed": [
                 "...Uh... ...¿Estás bien? Te ves un poco... ¿Infeliz...?",
                 "¿...Ni un saludo ni nada...? ¿Por... Por qué me miras de esa forma...?",
-                "¿...? ...Um...  ¿...Hola...? ¿...Estás ahí...?",
+                "¿...? ...Um... ¿...Hola...? ¿...Estás ahí...?",
                 "...Te ves aterrado. ¿Estás bien? ¿Hola...?",
                 "¡Hey! ¿Cómo estáááááááássss......? No te ves muy bien, amigo... Uhm...",
                 "¡Hey! ...¿Por qué la cara larga? Uhm..."
@@ -4019,7 +4019,7 @@
                 "Uno más a la cuenta.",
                 "¡Se agradece!",
                 "Voy a necesitar eso.",
-                "¡Oye! Gracias!",
+                "¡Oye! ¡Gracias!",
                 "¡Bien!"
             ],
             "tradergiveitemrefuse": [
@@ -4047,7 +4047,7 @@
             "traderwarning": [
                 "Vete.",
                 "Vete. Ahora.",
-                "¡Fuera! ¡Sal de aqui!",
+                "¡Fuera! ¡Sal de aquí!",
                 "Vete de esta cápsula.",
                 "No me gusta que estés aquí. Vete.",
                 "¡Vete!",
@@ -4074,13 +4074,13 @@
             ],
             "traderlightbreak": [
                 "Viejo, ¿qué onda? ¿Por qué harías eso? Vete de aquí.",
-                "¿...De verdad creíste que no vería eso?. Hijueputa. ¡Vete de aquí!",
+                "¿...De verdad creíste que no vería eso? Hijueputa. ¡Vete de aquí!",
                 "¡Ey! ¡¿Qué te pasa?! ¡Lo necesitaba! ¡Vete de aquí, maldito!",
                 "¡Ahh! ¡LADRÓN! ¡Largo, YA!",
                 "Amigo. Okay... Okay así qu-. Okay... Yo... Eh... Por favor, vete."
             ],
             "traderwakegreet": [
-                "Buenos días'.",
+                "Buenos días.",
                 "¡Hola! Despertaste.",
                 "Buenos días, dormilón.",
                 "¿Descansaste?",
@@ -4101,7 +4101,7 @@
             "traderseehurt": [
                 "Ya que estás herido, dejaré que agarres un vendaje gratis si encuentras uno por aquí...",
                 "Aww, te has lastimado. Si encuentras un vendaje en mí, ¡puedes tomarlo! No recuerdo si tengo uno...",
-                "Ohh, no pareces estar bien... ¿Te digo algo?, puedes agarrar un vendaje gratis si es que ves alguno."
+                "Ohh, no pareces estar bien... ¿Te digo algo? Puedes agarrar un vendaje gratis si es que ves alguno."
             ],
             "tradermove": [
                 "Ah, perdón. Listo."
@@ -4152,7 +4152,7 @@
                 "¿Desde cuándo todo huele así...?",
                 "Esto sabe mal. Muy mal... ¿Estaré enfermo...?",
                 "Gh... Hh-h...",
-                "¿¡Qué fue eso!?",
+                "¡¿Qué fue eso?!",
                 "¿Estoy... estoy imaginando cosas...?"
             ],
             "lastmoments": [
@@ -4163,9 +4163,9 @@
                 "A-ayuda... Alguien... No quiero m-morir...",
                 "Yo no... No quiero dejar este mundo atrás...",
                 "Sálvame... Sálvame... Ay-ayúdenme... Por favor...",
-                "Entonces... así... e-es... Así es... cómo termina...",
+                "Entonces... así... e-es... Así es... como termina...",
                 "Todo... lo que hice... Para... terminar así... Sálvam-me...",
-                "No... No.... N-no... Por favor... Por favor... No... N-no me quiero morir... Ayúdame...",
+                "No... No... N-no... Por favor... Por favor... No... N-no me quiero morir... Ayúdame...",
                 "Ffhh... Gh.... Ayúdenme... Por favor... Alguien...",
                 "Nhh... A-así no... Por favor... P-por favor... Ayúdame...",
                 "Por favor... No... No quiero morir... Sálvame... Quien sea... o... lo que sea... N-no estoy l-listo...",
@@ -4175,7 +4175,7 @@
             ],
             "magicheal": [
                 "...Umm. Me siento... ¿Mejor...?",
-                "¡Ahh..! ...Uhh. Eso fue... Así está mejor. Me gustó eso."
+                "¡Ahh!... ...Uhh. Eso fue... Así está mejor. Me gustó eso."
             ],
             "selfdestruct": [
                 "...Uuuhh... ...¿Qué es este pitido...?",
@@ -4203,10 +4203,10 @@
                 "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
             ],
             "endlessloop0": [
-                "¿...Quu-ué...qué...? ¿Qué? ¿Por qué? ¿Qué pasó...? ¿Por qué estoy otra vez aquí..? Hnn... ¿Qué acaba de pasar...?"
+                "¿...Quu-ué...qué...? ¿Qué? ¿Por qué? ¿Qué pasó...? ¿Por qué estoy otra vez aquí...? Hnn... ¿Qué acaba de pasar...?"
             ],
             "endlessloop1": [
-                "...Esto no está yendo como esperaba...No sé qué más podría hacer... Pues. Ugh. Me imagino que a la tercera es la vencida..."
+                "...Esto no está yendo como esperaba... No sé qué más podría hacer... Pues. Ugh. Me imagino que a la tercera es la vencida..."
             ],
             "endlessloop2": [
                 "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
@@ -4278,7 +4278,7 @@
                 "Bueno, ¿podría darte algo de comida a cambio de algo...?"
             ],
             "thirstyresponse": [
-                "Estoy muy seguro que puedes encontrar algo de agua ahí afuera...",
+                "Estoy muy seguro de que puedes encontrar algo de agua ahí afuera...",
                 "Lo último que oí fue que solo puedes durar tres \"días\" sin agua, jaja..."
             ],
             "sadresponse": [
@@ -4309,14 +4309,14 @@
                 "¿Pisaste sobre algo?"
             ],
             "dirtyresponse": [
-                "...Sabes que tenemos una ducha, ¿no?. O... Bueno, solo ve a nadar en las pozas de por ahí..."
+                "...Sabes que tenemos una ducha, ¿no? O... Bueno, solo ve a nadar en las pozas de por ahí..."
             ],
             "encumberedresponse": [
                 "No vendría mal darme algunas de tus cosas.",
                 "¡Haré un buen uso de tus cosas!"
             ],
             "dyingresponse": [
-                "Rayos... Uh... Nunca aprendí como reanimar a otros...",
+                "Rayos... Uh... Nunca aprendí cómo reanimar a otros...",
                 "Ehh... Uh... Espero que estés bien..."
             ]
         },
@@ -4421,7 +4421,7 @@
                 "Me levanto.",
                 "Otra vez.",
                 "¿Ahora qué?",
-                "A levantarse y empezar el dia.",
+                "A levantarse y empezar el día.",
                 "Operativo y listo.",
                 "Completamente despierto.",
                 "La neblina mental se disipa.",
@@ -4446,7 +4446,7 @@
                 "Ya viene..."
             ],
             "vomit": [
-                "Ghh... *tos* ...Solo sigamos adelante.",
+                "Ghh... *tos*... Solo sigamos adelante.",
                 "Lo que antes era la cena ahora yace en el suelo.",
                 "Eugh... qué desperdicio de sustento.",
                 "Aún puedo... sentir el sabor del vómito...",
@@ -4458,7 +4458,7 @@
                 "Gghh... E-eso significa sangrado interno.",
                 "Hacck... Sangre. Sangrado. Interno.",
                 "Uugh... Necesito... tratamiento.",
-                "Mi vómito... *tós* ...sabe a metal.",
+                "Mi vómito... *tos*... sabe a metal.",
                 "A-Al parecer... he regurgitado sangre...",
                 "No es lo ideal.",
                 "Ghck... El síntoma de una condición subyacente."
@@ -4614,8 +4614,8 @@
                 "No tiene sentido. No tiene sentido.",
                 "He superado todo límite razonable.",
                 "Estoy... cerca.",
-                "¡¡¡DETÉNTE!!!",
-                "¡¿¿POR QUÉ?!?",
+                "¡¡¡DETENTE!!!",
+                "¡¿¿POR QUÉ??!",
                 "¡¡¡AAAGGHHHHHHH!!!! ¡¡¡AAAAHHHHHHHHH!!!",
                 "...Mátenme.",
                 "Las probabilidades de salir vivo son nulas.",
@@ -4689,8 +4689,8 @@
                 "Soy el único que puede salvarme.",
                 "¡Debo contener esta filtración, RÁPIDO!",
                 "Ghh... Esto no es lo ideal.",
-                "¡Malo... Malo. ¡Malo!",
-                "Un espectáculo tan t-aterrador...",
+                "¡Malo... Malo! ¡Malo!",
+                "Un espectáculo tan a-aterrador...",
                 "Estoy pintando las paredes de amarillo.",
                 "Mi visión se desvanece lentamente."
             ],
@@ -4707,7 +4707,7 @@
                 "Mejor tú que yo.",
                 "...Hmh.",
                 "Esta es una vista preocupante.",
-                "...Quizás un RCP ayudaría.",
+                "...Quizás una RCP ayudaría.",
                 "Este está... Huh.",
                 "Qué mala suerte.",
                 "No es la mejor de las vistas.",
@@ -4731,7 +4731,7 @@
                 "Un nuevo amigo.",
                 "Hay demasiados aquí abajo. Esto es totalmente inaceptable. Lo discutiré con mis superiores.",
                 "Botín.",
-                "Un RCP no ayudará aquí.",
+                "Una RCP no ayudará aquí.",
                 "Vaya, miren, otro más.",
                 "Qué espécimen tan desafortunado.",
                 "Qué novedoso... Otro más.",
@@ -4780,7 +4780,7 @@
                 "Mi temperatura corporal es menor que la media.",
                 "La temperatura ambiente está por debajo de la media.",
                 "*temblor*",
-                "Tengo frío",
+                "Tengo frío.",
                 "Si esto sigue así, podría entrar en un estado de hipotermia.",
                 "No siento calor en mi cuerpo.",
                 "Debería quedarme a una temperatura agradable.",
@@ -4791,7 +4791,7 @@
                 "Mi temperatura corporal es mayor que la media.",
                 "Estoy sudando.",
                 "Debo refrescarme.",
-                "Una bolsa de hielo resultaría util.",
+                "Una bolsa de hielo resultaría útil.",
                 "Siento demasiado calor como para estar cómodo.",
                 "Tengo calor.",
                 "Hay un poco de calor.",
@@ -4801,7 +4801,7 @@
                 "Estoy muy caliente.",
                 "...Caliente. Muy. Caliente.",
                 "Podría sufrir de insolación a este ritmo...",
-                "Estoy peligrosamente hipértermico...",
+                "Estoy peligrosamente hipertérmico...",
                 "Insolación... Inminente.",
                 "Es difícil enfocarme en este calor.",
                 "Peligrosamente caliente...",
@@ -4886,7 +4886,7 @@
                 "*tos* *ack*",
                 "Hnnh... Nggh... A-ayuda... No p-puedo...",
                 "*jadeo*",
-                "V-voy... a... desmayar...",
+                "V-voy... a... desmayarme...",
                 "No puedo... *tos* *carraspeo*",
                 "Ayuda- ¡Ack! ¡Tos!",
                 "As-asfixiando... *tos*",
@@ -5082,10 +5082,10 @@
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. No... N-no. Es lo que. Estaba e-esperando. Debí de haber hecho algo mal. Regresaré y lo i-intentaré de nuevo."
             ],
             "endlessloop1": [
-                "Esto no está saliendo según lo planeado. ¡Maldición! ¿¡Qué demonios querían los batas blancas qué hiciera!? Qué pérdida de tiempo y energía."
+                "Esto no está saliendo según lo planeado. ¡Maldición! ¿¡Qué demonios querían los batas blancas que hiciera!? Qué pérdida de tiempo y energía."
             ],
             "endlessloop2": [
-                "...Qué resultado tan d-deprimente. Esta misión esta condenada a fracasar."
+                "...Qué resultado tan d-deprimente. Esta misión está condenada a fracasar."
             ],
             "endlessloop3": [
                 "Esto me supera por completo. Qué ejercicio de paciencia. Frustrante. Tan, tan intensamente frustrante. Siempre por fuera del alcance."
@@ -5153,7 +5153,7 @@
             ],
             "tradermeetgood": [
                 "Me siento honrado de ver a otro superviviente.",
-                "¡Oh! ¡Hola! ¿Cómo te va amigo?",
+                "¡Oh! ¡Hola! ¿Cómo te va, amigo?",
                 "Saludos, querido. ¿Cómo te va?",
                 "¡Ah! Saludos. ¡Te ves muy animado!",
                 "Ah, ¡estoy feliz de ver a alguien como tú!"
@@ -5165,12 +5165,12 @@
                 "...Hola.",
                 "Saludos. Por favor, que ni se te ocurra tocarme.",
                 "Hola, compañero sobreviviente.",
-                "Saludos. Por favor usa la puerta para la próxima.",
+                "Saludos. Por favor, usa la puerta para la próxima.",
                 "Bienvenido.",
                 "Saludos."
             ],
             "traderwakegreet": [
-                "Buenos dias.",
+                "Buenos días.",
                 "Hey, al fin despertaste.",
                 "Saludos, despertaste.",
                 "¡Adivinen quién despertó!",
@@ -5215,7 +5215,7 @@
                 "Aquí tienes.",
                 "No lo rompas.",
                 "Buena suerte con eso.",
-                "Espero que sepas como usarlo.",
+                "Espero que sepas cómo usarlo.",
                 "Espero que te sea útil.",
                 "Aquí está tu recompensa."
             ],
@@ -5251,7 +5251,7 @@
                 "Por favor. Vete.",
                 "Vete.",
                 "No quiero lidiar contigo ahora mismo.",
-                "Por favor deja mi cápsula en paz. Yo llegué aquí primero."
+                "Por favor, deja mi cápsula en paz. Yo llegué aquí primero."
             ],
             "tradercombat": [
                 "No quería llegar a esto.",
@@ -5268,7 +5268,7 @@
                 "Awww. De verdad necesitabas eso...",
                 "Aww, qué buena persona eres.",
                 "Mmmhh...",
-                "Pero que muestra de cariño..."
+                "Pero qué muestra de cariño..."
             ],
             "traderhugfail": [
                 "¡NO ME TOQUE!",
@@ -5278,8 +5278,8 @@
                 "¡Ew! Aleja tus manos de mí."
             ],
             "traderseegun": [
-                "Antes de hablar, por favor quita esa arma de ti. De todas formas...",
-                "Espero que esto no se trate de un robo. Si no lo es, aleja esa arma... En qué estaba...",
+                "Antes de hablar, por favor, quita esa arma de ti. De todas formas...",
+                "Espero que esto no se trate de un robo. Si no lo es, aleja esa arma... ¿En qué estaba...?",
                 "Aleja esa arma de mí, esto no es un tiroteo activo. De todas formas...",
                 "¿Acaso INTENTAS parecer una amenaza para mí o solo piensas que el arma es genial...?"
             ],
@@ -5328,7 +5328,7 @@
                 "Caer en una espiral de desesperación no resolverá ninguno de tus problemas."
             ],
             "selfharmresponse": [
-                "...Realmente estás enfermo. Deténte."
+                "...Realmente estás enfermo. Detente."
             ],
             "braindamagedresponse": [
                 "Eres completamente incoherente.",
@@ -5356,7 +5356,7 @@
                 "Eres un fastidio."
             ],
             "dyingresponse": [
-                "No estoy seguro que el RCP pueda solucionarlo.",
+                "No estoy seguro de que la RCP pueda solucionarlo.",
                 "¿Es en serio? ¿Muriendo? ¿Y preciso en MI piso?",
                 "¿Acaso entrar en pánico va a hacer que la situación mejore?"
             ]
@@ -5554,7 +5554,7 @@
                 "¡¡¡NNNGRHHAGGHHH!!! ¡NNGGHRHHHH!",
                 "¡NNGRHHHHHH! ¡GGRRAAGGHHH!",
                 "¡¡GGHHRAGGHHH!! ¡¡¡ODIIIOOOO!!!",
-                "¡¡GGHHRAGGHHH!! ¡¡¡¡DUUNNNE!!!! ODIIIIARRR!!!",
+                "¡¡GGHHRAGGHHH!! ¡¡¡¡DUUNNNE!!!! ¡¡¡ODIIIIARRR!!!",
                 "¡¡¡AAARHHGHHHHNNHH!!! ¡GGRAGGHHHHHH!",
                 "¡ENOOOJOOOO! ¡GGRHHAANNGHHH!",
                 "¡NNNGRRAGHHHH! DU-NE.... ¡¡¡DES-TROZA!!!",
@@ -5793,10 +5793,10 @@
                 "Du-ne necesita baa-ño...",
                 "Du-ne siente oloo-r.",
                 "Siente mugre.",
-                "Hue-le oloor",
+                "Hue-le oloor.",
                 "Apes-toso.",
                 "Apesta. ¡Mal!",
-                "Apes-ta mucho"
+                "Apes-ta mucho."
             ],
             "encumbered": [
                 "¡¡Du-ne fuerte!!",
@@ -5994,7 +5994,7 @@
                 "Nggghhrr... Hol-a... Per-sona...",
                 "Grrrrr... Ami-go... No verse sabr-rroso...",
                 "Grrrr... ¡Mala per-sona!.. Grrr...",
-                "Grrrpmh.. ¡Malo!... No ami-go...",
+                "Grrrpmh... ¡Malo!... No ami-go...",
                 "Dune no gus-tar... ¡Este ami-go!..."
             ],
             "traderwakegreet": [
@@ -6047,7 +6047,7 @@
                 "Ami-go daa-r prim-ero..."
             ],
             "traderbuyfailmaxvalue": [
-                "¡Dí much-as cosas! ¡Sal ah-ora!",
+                "¡Di much-as cosas! ¡Sal ah-ora!",
                 "Dune dar much-o... Muchísimo... Ami-go para...",
                 "Dune no dar más... co-sas...",
                 "Grrr... ¡Du-ne queda-r cosa! Grrrmph...",
@@ -6120,7 +6120,7 @@
             ],
             "traderseehurt": [
                 "Ami-go herido... Ngghhgrr... Toma cosa que arregl-e... Gratis...",
-                "¿Por qué herido?.. Dune puede... d-ar co-sa de vid-a... Gratis...",
+                "¿Por qué herido...? Dune puede... d-ar co-sa de vid-a... Gratis...",
                 "Ami-go las-ti-mado... Dune dar cosa pa'-ayudar... Gratis...",
                 "Cue-rpo de ami-go malo... Dune pued-e rega-lar arregl-o...",
                 "Ami-go siente dolor... Dune ofrecer ayuda..."
@@ -6225,7 +6225,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "he escuchado a nuestros captores llamarnos una amalgama mutada de un \"humano, zorro y rata\", o lo que sea que eso signifique. ¿por cuánto nos han estado ocultando esto? ¿qué más nos ocultan? la duda me aterra. nunca he considerado que tengo orígenes foráneos de donde nos criaron. y ahora estoy aquí. no puedo asimilar nada de todo esto.\n(En el papel hay lo que parece ser un autoretrato.)",
+                "Item1": "he escuchado a nuestros captores llamarnos una amalgama mutada de un \"humano, zorro y rata\", o lo que sea que eso signifique. ¿por cuánto nos han estado ocultando esto? ¿qué más nos ocultan? la duda me aterra. nunca he considerado que tengo orígenes foráneos de donde nos criaron. y ahora estoy aquí. no puedo asimilar nada de todo esto.\n(En el papel hay lo que parece ser un autorretrato.)",
                 "Item2": "Sprites/noteDrawings/experiment",
                 "Item3": "experiment"
             },
@@ -6255,7 +6255,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "no quise hacerlo. tenían un drenaje torácico. ¿qué podía hacer? ¿ahogarme en mi propia sangre? sólo tenía un paquete de dinamita... si tan sólo pudiera estar en casa, incluso sólo escuchando la radio de entrenamiento, daría lo que sea. no es mi culpa. no es mi culpa.",
+                "Item1": "no quise hacerlo. tenían un drenaje torácico. ¿qué podía hacer? ¿ahogarme en mi propia sangre? solo tenía un paquete de dinamita... si tan solo pudiera estar en casa, incluso solo escuchando la radio de entrenamiento, daría lo que sea. no es mi culpa. no es mi culpa.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6275,7 +6275,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "A quien sea que encuentre esto, ellos pueden controlarte, y lo harán, incluso en este infierno. Repentinamente, sin previo aviso, empecé a escuchar una fuerte alarma dentro de mí; podía ver un mensaje que decía \"NIVEL DE PROFUNDIDAD INSATISFACTORIO\" con luces rojas intermitentes en mi visión periférica.\n\nComencé a correr, en pánico, sin saber por qué harían esto. Sólo se detuvo cuando fuí a otra región de estas cuevas. Saben exactamente cuánto tiempo pasas aquí, saben que tendrás miedo, y quieren presenciar tu muerte. Esto no es más que un genocidio en masa.",
+                "Item1": "A quien sea que encuentre esto, ellos pueden controlarte, y lo harán, incluso en este infierno. Repentinamente, sin previo aviso, empecé a escuchar una fuerte alarma dentro de mí; podía ver un mensaje que decía \"NIVEL DE PROFUNDIDAD INSATISFACTORIO\" con luces rojas intermitentes en mi visión periférica.\n\nComencé a correr, en pánico, sin saber por qué harían esto. Solo se detuvo cuando fui a otra región de estas cuevas. Saben exactamente cuánto tiempo pasas aquí, saben que tendrás miedo, y quieren presenciar tu muerte. Esto no es más que un genocidio en masa.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6290,7 +6290,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "no confíes siempre en los barriles con líquidos por aquí. tuve en mis manos un gran mini barril y pensaba que tenía limonada, pero un sorbito fue suficiente para darme cuenta de que no lo era. intente quitarme ese mal sabor con otro barril con agua, pero el agua me hizo enfermar mucho y mi pelaje empezó a caerse",
+                "Item1": "no confíes siempre en los barriles con líquidos por aquí. tuve en mis manos un gran mini barril y pensaba que tenía limonada, pero un sorbito fue suficiente para darme cuenta de que no lo era. intenté quitarme ese mal sabor con otro barril con agua, pero el agua me hizo enfermar mucho y mi pelaje empezó a caerse",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6320,7 +6320,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "no me di cuenta lo horrible que se habían puesto hasta que intenté cavar otra vez y mis garras simplemente... se rompieron. ya no rasgan nada. he intentado arañar las rocas sin siquiera pensar sobre eso. me sentí desnudo. parece que la carne no está hecha para reemplazar las herramientas.\n<>\nseguí asumiendo que necesitaba un pico para todo. pero descubrí que el machete funciona al menos para las cosas más ligeras. como tierra, plantas, arena, hace bien el trabajo. me ahorra mucho dolor en mis manos.\n<>\nme encontré una botella con una etiqueta que decía potenciador de queratina. ya tenían previsto de que nuestras partes se romperían. tomé un sorbo. y después de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentían más afiladas. más fuertes. era extrañamente satisfactorio ver como las partes dañadas se desprendían. me gusta como mis garras ahora me permiten agarrarme a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenían uñas en cada dedo. en todos. Sin garras en lo absoluto. Se veían tan mal de cerca. suaves. sin filo. era inquietante cómo manejaban todo con manos así.\n<>\nsolía pensar que eso los hacía débiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
+                "Item1": "no me di cuenta lo horrible de que se habían puesto hasta que intenté cavar otra vez y mis garras simplemente... se rompieron. ya no rasgan nada. he intentado arañar las rocas sin siquiera pensar sobre eso. me sentí desnudo. parece que la carne no está hecha para reemplazar las herramientas.\n<>\nseguí asumiendo que necesitaba un pico para todo. pero descubrí que el machete funciona al menos para las cosas más ligeras. como tierra, plantas, arena, hace bien el trabajo. me ahorra mucho dolor en mis manos.\n<>\nme encontré una botella con una etiqueta que decía potenciador de queratina. ya tenían previsto que nuestras partes se romperían. tomé un sorbo. y después de un rato, las capas viejas comenzaron a desprenderse como el pelaje. y por debajo, se sentían más afiladas. más fuertes. era extrañamente satisfactorio ver cómo las partes dañadas se desprendían. me gusta cómo mis garras ahora me permiten agarrarme a los muros con mayor facilidad\n<>\nrecuerdo a los humanos. ellos tenían uñas en cada dedo. en todos. Sin garras en lo absoluto. Se veían tan mal de cerca. suaves. sin filo. era inquietante cómo manejaban todo con manos así.\n<>\nsolía pensar que eso los hacía débiles.\n<>\nahora me pregunto si eso era lo que buscaban.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6335,7 +6335,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(La nota está arrugada y aplastada, como si alguien hubiera querido tirarla.)\n<>\nmi amigo, cre... creo que se suicidó. después de tener otra caída grave, intenté arreglarle sus piernas, pero seguía diciéndome que lo dejara en paz. me seguía apartando como si fuera una mosca, insistiendo en que lo dejara solo. no lo entiendo. salí a recoger algunas plantas que encontré para intentar vendarlo, pero... cuando regresé, tenía otra herida. en su brazo. aún recuerdo cómo se veía, estaba tan mal que parecía arrancada. intenté usar las plantas que encontré para curar esa herida, pero seguía en las mismas. sus ojos estaban... parecían verse... vacíos. le dije que se detuviera con eso y que lo dejara ayudar, pero no respondía. lo intenté un par de veces más y me empujaba hasta que... dejó de hacerlo. recuerdo ver su cuerpo relajarse, creo que eso pasó cuando dejó de respirar. no puedo sacarme esa imagen de mi cabeza...\n<>\n¿hi... hice algo malo? Juro que no... ¿qué hice mal? ¿por qué hacía eso? no... no hice nada. no entiendo, no quiero morir... no quiero... no...\n<>\n...\n<>\nja, ja...\n<>\nestoy tan solo.\n<>\n(Notas algunas lágrimas secas y manchas de sangre seca esparcida entre las arrugas de la nota.)",
+                "Item1": "(La nota está arrugada y aplastada, como si alguien hubiera querido tirarla.)\n<>\nmi amigo, cre... creo que se suicidó. después de tener otra caída grave, intenté arreglarle sus piernas, pero seguía diciéndome que lo dejara en paz. me seguía apartando como si fuera una mosca, insistiendo en que lo dejara solo. no lo entiendo. salí a recoger algunas plantas que encontré para intentar vendarlo, pero... cuando regresé, tenía otra herida. en su brazo. aún recuerdo cómo se veía, estaba tan mal que parecía arrancada. intenté usar las plantas que encontré para curar esa herida, pero seguía en las mismas. sus ojos estaban... parecían verse... vacíos. le dije que se detuviera con eso y que lo dejara ayudar, pero no respondía. lo intenté un par de veces más y me empujaba hasta que... dejó de hacerlo. recuerdo ver su cuerpo relajarse, creo que eso pasó cuando dejó de respirar. no puedo sacarme esa imagen de mi cabeza...\n<>\n¿hi... hice algo malo? Juro que no... ¿qué hice mal? ¿por qué hacía eso? no... no hice nada. no entiendo, no quiero morir... no quiero... no...\n<>\n...\n<>\nja, ja...\n<>\nestoy tan solo.\n<>\n(Notas algunas lágrimas secas y manchas de sangre seca esparcidas entre las arrugas de la nota.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6372,12 +6372,12 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "me he encontrado con alguien, nos hemos puesto de acuerdo en intentar salir a la superficie por uno de esos agujeros. mi amigo salió primero, y de inmediato empezó a entrar en shock. parecía sufrir mucho. vomitó demasiado, luego de un tiempo, colapsó y dejo de respirar. su piel tambien empezó a ampollarse, especialmente alrededor de la cabeza y cuello. algo nos está impidiendo salir. tengo miedo.",
+                "Item1": "me he encontrado con alguien, nos hemos puesto de acuerdo en intentar salir a la superficie por uno de esos agujeros. mi amigo salió primero, y de inmediato empezó a entrar en shock. parecía sufrir mucho. vomitó demasiado, luego de un tiempo, colapsó y dejó de respirar. su piel también empezó a ampollarse, especialmente alrededor de la cabeza y cuello. algo nos está impidiendo salir. tengo miedo.",
                 "Item2": "Sprites/noteDrawings/radiation",
                 "Item3": "experiment"
             },
             {
-                "Item1": "Estar mojado parece ser algo peligroso si no eres cuidadoso. La temperatura aquí es mucho más baja que en nuestros hogares, y parece que estar empapado por mucho tiempo puede llevarnos a un estado de hipotermia. Intenta hacer algo de ejercicio para calentar rápido, he descubierto que eso ayuda.",
+                "Item1": "Estar mojado parece ser algo peligroso si no eres cuidadoso. La temperatura aquí es mucho más baja que en nuestros hogares, y parece que estar empapado por mucho tiempo puede llevarnos a un estado de hipotermia. Intenta hacer algo de ejercicio para calentarte rápidamente, he descubierto que eso ayuda.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6397,7 +6397,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Los humanos hacen cosas raras. Nunca deberías confiar en ellos por ser amables.\nPero sí puedes confiar en que te mantendrán vivo.<>\nUna vez, me rompí el brazo y me insertaron un \"yeso.\" No me gustó. Era pesado y no me permitía mover mi brazo. Parecía que lo hacían peor a propósito, y me lo hicieron llevar por mucho tiempo.<>\nUn día, me lo quitaron, y mi brazo estaba bien.<>\nLos humanos empeoraron mi condición sólo para que pudiera mejorar.<>\n\nCreo que hicieron algo similar a la cabeza de Jumper.\nJumper solía gritar y llorar mucho. Esa vez, se hizo daño a sí mismo y los humanos se lo llevaron.<>\nLuego, Jumper regresó. No llora. No habla. Y se ve cansado todo el tiempo. Su cabeza está como solía estar mi brazo. No se le ven \"yesos\" a su alrededor, y su comportamiento me preocupa, pero al menos ya no se hace daño. Espero que los humanos deshagan lo que sea que le hayan hecho una vez que la cabeza de Jumper esté bien.<>\n\nLo extraño.",
+                "Item1": "Los humanos hacen cosas raras. Nunca deberías confiar en ellos por ser amables.\nPero sí puedes confiar en que te mantendrán vivo.<>\nUna vez, me rompí el brazo y me insertaron un \"yeso.\" No me gustó. Era pesado y no me permitía mover mi brazo. Parecía que lo hacían peor a propósito, y me lo hicieron llevar por mucho tiempo.<>\nUn día, me lo quitaron, y mi brazo estaba bien.<>\nLos humanos empeoraron mi condición solo para que pudiera mejorar.<>\n\nCreo que hicieron algo similar a la cabeza de Jumper.\nJumper solía gritar y llorar mucho. Esa vez, se hizo daño a sí mismo y los humanos se lo llevaron.<>\nLuego, Jumper regresó. No llora. No habla. Y se ve cansado todo el tiempo. Su cabeza está como solía estar mi brazo. No se le ven \"yesos\" a su alrededor, y su comportamiento me preocupa, pero al menos ya no se hace daño. Espero que los humanos deshagan lo que sea que le hayan hecho una vez que la cabeza de Jumper esté bien.<>\n\nLo extraño.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6449,7 +6449,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Ni siquiera he pasado de este rocoso paisaje infernal, y puedo sentir que la muerte está cerca,\nLo único que me dieron fue una linterna de mierda que no duró ni una hora; ni siquiera algo de equipo de seguridad que ayude a amortiguar las caídas que he recibido.\n\n¡MIERDA, me siento como una bola de esas máquinas de apuestas que veía usar a los humanos!\n\nPienso que me estoy muriendo lentamente, desde la caída que tuve, me he sentido bastante mareado, y cansado; pero presiento que si duermo, moriré.\n\nQue Dios me salve.\nLA PUTA MADRE.\nEn serio, no me quiero morir, así no..\n¿Siquiera qué sentido tiene todo esto?\nNi siquiera tengo un nombre propio, sólo una etiqueta..\nMierda...",
+                "Item1": "Ni siquiera he pasado de este rocoso paisaje infernal, y puedo sentir que la muerte está cerca,\nLo único que me dieron fue una linterna de mierda que no duró ni una hora; ni siquiera algo de equipo de seguridad que ayude a amortiguar las caídas que he recibido.\n\n¡MIERDA, me siento como una bola de esas máquinas de apuestas que veía usar a los humanos!\n\nPienso que me estoy muriendo lentamente, desde la caída que tuve, me he sentido bastante mareado, y cansado; pero presiento que si duermo, moriré.\n\nQue Dios me salve.\nLA PUTA MADRE.\nEn serio, no me quiero morir, así no..\n¿Siquiera qué sentido tiene todo esto?\nNi siquiera tengo un nombre propio, solo una etiqueta..\nMierda...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6513,7 +6513,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Hay algo muy mal con este ambiente. Lo siento en el aire- esas celdas de energía desgastadas me hacen erizar el pelaje. Se me descama la piel al pasar al lado de esas, y siento mi cuerpo arder. Incluso cuando no las veo, siento esa tensión incómoda que se extiende en el aire. He tenido que usar mi cuerda y hasta arañar a través de las rocas para hacer atajos, pero incluso así, hay unas piedras púrpuras que parecen tener el mismo efecto, sólo que en diferentes dosis.”",
+                "Item1": "Hay algo muy mal con este ambiente. Lo siento en el aire- esas celdas de energía desgastadas me hacen erizar el pelaje. Se me descama la piel al pasar al lado de esas, y siento mi cuerpo arder. Incluso cuando no las veo, siento esa tensión incómoda que se extiende en el aire. He tenido que usar mi cuerda y hasta arañar a través de las rocas para hacer atajos, pero incluso así, hay unas piedras púrpuras que parecen tener el mismo efecto, solo que en diferentes dosis.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
@@ -6528,7 +6528,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "aquí el agua potable es bastante escasa, y no creo que esa cosa que parece alquitrán sea segura. un poco de la vegetación tiene suficiente contenido de agua para ser trituradas y convertidas en jugo, sin embargo el sabor es muy desagradable. aunque es mejor que estar sediento",
+                "Item1": "aquí el agua potable es bastante escasa, y no creo que esa cosa que parece alquitrán sea segura. un poco de la vegetación tiene suficiente contenido de agua para ser triturada y convertida en jugo, sin embargo el sabor es muy desagradable. aunque es mejor que estar sediento",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6560,12 +6560,12 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "nunca pensé que ese monstruo me encontraría, pero lo hizo. conocía mi cara, mis errores... pero no mi rifle. y cuando finalmente irrumpió, vi ese pico. vi esa marca, la misma que yo hice. vi esa misma marca que me hizo en mi pico. vi su hendidura cuando intentaba cavar algo de titanio para mí. y de repente, vi que pasaba otra vez. el olor del acero raspado. el temblor de la tierra. el sonido de la carne siendo desmembrada. el sabor del sudor y la sangre, mientras intentaba correr, soltando comida que tenía de otra cápsula-\n<>\n¿acaso debería sentirme tranquilo? ¿o sólo estoy negociando por paz para que me destrocen cuando otro me encuentre?",
+                "Item1": "nunca pensé que ese monstruo me encontraría, pero lo hizo. conocía mi cara, mis errores... pero no mi rifle. y cuando finalmente irrumpió, vi ese pico. vi esa marca, la misma que yo hice. vi esa misma marca que me hizo en mi pico. vi su hendidura cuando intentaba cavar algo de titanio para mí. y de repente, vi que pasaba otra vez. el olor del acero raspado. el temblor de la tierra. el sonido de la carne siendo desmembrada. el sabor del sudor y la sangre, mientras intentaba correr, soltando comida que tenía de otra cápsula-\n<>\n¿acaso debería sentirme tranquilo? ¿o solo estoy negociando por paz para que me destrocen cuando otro me encuentre?",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "experiment"
             },
             {
-                "Item1": "Quiero salir de este lugar, estoy aterrado, no tengo palabras que describan lo que acabo de vivir, era una horrible y enorme criatura con cientos de dientes, listos para devorarme, sentí que me persiguió por horas, destruye todo a su paso. Sólo se detuvo cuando me di cuenta de que corrí tanto que estaba completamente perdido, agotó mi comida, agua, herramientas, incluso mi propia salud mental, sólo quiero que esto acabe.",
+                "Item1": "Quiero salir de este lugar, estoy aterrado, no tengo palabras que describan lo que acabo de vivir, era una horrible y enorme criatura con cientos de dientes, listos para devorarme, sentí que me persiguió por horas, destruye todo a su paso. Solo se detuvo cuando me di cuenta de que corrí tanto que estaba completamente perdido, agotó mi comida, agua, herramientas, incluso mi propia salud mental, solo quiero que esto acabe.",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "milky"
             }
@@ -6582,14 +6582,14 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "hace frío acá abajo, me veo obligado a meterme en las cápsulas salvavidas para calentarme... aunque algunas veces hay estas pequeñas estufas que resuenan en las que puedo encontrar calor, sólo debo ser cuidadoso de no tocarlas por mucho tiempo, me hacen sentir mal. sólo lo justo para calentarme y seguir. si fuera tú, sería más precavido y estaría al tanto de cualquier cosa escarbando hacia mí mientras descanso. puedo oír algo abriéndose paso bajo tierra a mi alrededor.",
+                "Item1": "hace frío acá abajo, me veo obligado a meterme en las cápsulas salvavidas para calentarme... aunque algunas veces hay estas pequeñas estufas que resuenan en las que puedo encontrar calor, solo debo ser cuidadoso de no tocarlas por mucho tiempo, me hacen sentir mal. solo lo justo para calentarme y seguir. si fuera tú, sería más precavido y estaría al tanto de cualquier cosa escarbando hacia mí mientras descanso. puedo oír algo abriéndose paso bajo tierra a mi alrededor.",
                 "Item2": "",
                 "Item3": "experiment"
             }
         ],
         [
             {
-                "Item1": "Es raro como puede llover aquí. Nunca he visto lluvia real antes... Es algo hermosa, incluso si es antihigiénica. Me sigo preguntando como es posible que haya una concentración tan alta de agua aquí abajo. Quizás, ¿el agua de la capa de hielo superior gotea hasta aquí abajo?",
+                "Item1": "Es raro cómo puede llover aquí. Nunca he visto lluvia real antes... Es algo hermosa, incluso si es antihigiénica. Me sigo preguntando cómo es posible que haya una concentración tan alta de agua aquí abajo. Quizás, ¿el agua de la capa de hielo superior gotea hasta aquí abajo?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6599,7 +6599,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "No sé qué me golpeó, pero ya no puedo sentir mi pierna, lo único que veo es un revoltijo de músculos, hueso y sangre\nmi cuerpo pide a gritos que termine la agonía \nlo único que tengo es este dispositivo azul en mi pecho. el sobreviviente al que se lo compré me dijo que sólo debía ser usado en caso de emergencia.\nEl dolor ya no es insoportable, pero ahora la luz está parpadeando. No sé cuánto tiempo me queda. ¿Volverá la oscuridad cuando esto se apague? No quiero desaparecer...",
+                "Item1": "No sé qué me golpeó, pero ya no puedo sentir mi pierna, lo único que veo es un revoltijo de músculos, hueso y sangre\nmi cuerpo pide a gritos que termine la agonía \nlo único que tengo es este dispositivo azul en mi pecho. el sobreviviente al que se lo compré me dijo que solo debía ser usado en caso de emergencia.\nEl dolor ya no es insoportable, pero ahora la luz está parpadeando. No sé cuánto tiempo me queda. ¿Volverá la oscuridad cuando esto se apague? No quiero desaparecer...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6611,7 +6611,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "..ugh. bueno. las amarillas DUELEN. se siente muy parecidas a los conductores que encontré hace unas horas... usualmente tienen algo a su alrededor, como un campo raro que suelta chispas a su alrededor... no los toquen. no es bueno. para tu cuerpo, al menos. me di cuenta de que recargó todas mis baterías después de tocarlo, de alguna forma...",
+                "Item1": "..ugh. bueno. las amarillas DUELEN. se sienten muy parecidas a los conductores que encontré hace unas horas... usualmente tienen algo a su alrededor, como un campo raro que suelta chispas... no los toquen. no es bueno. para tu cuerpo, al menos. me di cuenta de que recargó todas mis baterías después de tocarlo, de alguna forma...",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6626,27 +6626,27 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "he notado que muchas formaciones me repelen o me atraen. puedes sentir como una especie de fuerza que te recorre cuando eso pasa. podría ser algo útil, tal vez",
+                "Item1": "he notado que muchas formaciones me repelen o me atraen. puedes sentir cómo una especie de fuerza que te recorre cuando eso pasa. podría ser algo útil, tal vez.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "dios. me alegra TANTO de tener una bolsa de hielo conmigo. las que tienen niebla y son brillantes hace que se caliente todo a su alrededor... incluyéndome. no me sorprendería si otra de estas hiciera lo opuesto. y agrego que escuché un sonido raro que venían de esas...",
+                "Item1": "dios. me alegra TANTO de tener una bolsa de hielo conmigo. las que tienen niebla y son brillantes hacen que se caliente todo a su alrededor... incluyéndome. no me sorprendería si otra de estas hiciera lo opuesto. y agrego que escuché un sonido raro que venían de esas...",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "asegúrate de tener algo de antibióticos o algo parecido. creo que las moradas afectan tu sistema inmune. tienen como una neblina morada muy tenue a su alrededor... me había sentado al pie de una de estas para descansar, y luego vi en mi chip como mis signos vitales fueron en picada. parece como una especie de respuesta por la sepsis. creo que estaré bien",
+                "Item1": "asegúrate de tener algo de antibióticos o algo parecido. creo que las moradas afectan tu sistema inmune. tienen como una neblina morada muy tenue a su alrededor... me había sentado al pie de una de estas para descansar, y luego vi en mi chip cómo mis signos vitales fueron en picada. parece como una especie de respuesta por la sepsis. creo que estaré bien",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "okay. las que tiemblan se ven muy aterradoras... pero no lo son. te mandan volando... pero, puedo caer de pie todo el tiempo. algo similar a las cosas que rebotan en el área que estaba antes.",
+                "Item1": "okay. las que tiemblan se ven muy aterradoras... pero no lo son. te mandan volando... pero puedo caer de pie todo el tiempo. algo similar a las cosas que rebotan en el área que estaba antes.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "...\n<>...\n<>...\n<>las cosas flotantes. no sé cómo lo hacían. santo... oh dios. estoy mejor, pero...<>\n\nCómo decir esto... hay unas cosas afiladas que vuelan. hacen ruidos muy raros... como si se estuvieran riendo de mí. a veces toman un impulso y cargan contra mí, intentando apuñalarme. me dieron una o dos veces, pero... cada vez que lo hacían se quedaban atascadas en el suelo y las pude golpear varias veces hasta que... uh... no estoy seguro... lo que pasó, pero desapareció. creo que vino de esos cristales, pero de las que se movía.<>\n\ncuando desapareció, tuve esta cosa... ¿quizás sea útil? parece que se está convirtiendo en algo, esperaré a ver que pasa.",
+                "Item1": "...\n<>...\n<>...\n<>las cosas flotantes. no sé cómo lo hacían. santo... oh dios. estoy mejor, pero...<>\n\nCómo decir esto... hay unas cosas afiladas que vuelan. hacen ruidos muy raros... como si se estuvieran riendo de mí. a veces toman un impulso y cargan contra mí, intentando apuñalarme. me dieron una o dos veces, pero... cada vez que lo hacían se quedaban atascadas en el suelo y las pude golpear varias veces hasta que... uh... no estoy seguro de... lo que pasó, pero desapareció. creo que vino de esos cristales, pero de las que se movían.<>\n\ncuando desapareció, tuve esta cosa... ¿quizás sea útil? parece que se está convirtiendo en algo, esperaré a ver qué pasa.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6661,7 +6661,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "he notado que muchas de estas cosas gotean líquidos. no parecen que hagan algo más. ¿podría ser una fuente de agua?",
+                "Item1": "he notado que muchas de estas cosas gotean líquidos. no parece que hagan algo más. ¿podría ser una fuente de agua?",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6686,7 +6686,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "uno si puede tocar las verdes. son buenas. me gustaron mucho. je je. uh. los verdes que no activan el contador geiger. los que son buenos parece que rebotan un poquito. oh... uh... ajá... me gusta mucho el verde. me gusta el verde. puedes tocarlo. me gusta el verde.",
+                "Item1": "uno sí puede tocar las verdes. son buenas. me gustaron mucho. je je. uh. los verdes que no activan el contador geiger. los que son buenos parece que rebotan un poquito. oh... uh... ajá... me gusta mucho el verde. me gusta el verde. puedes tocarlo. me gusta el verde.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6703,7 +6703,7 @@
         ],
         [
             {
-                "Item1": "hay una clase de maquinaria extraña... creo que se disfraza por sí solo como una de las cajas que me encuentro por aquí. me disparó... aunque sí me dolió, también me refrescó mucho... no logro entender lo que eran esas cosas",
+                "Item1": "hay una clase de maquinaria extraña... creo que se disfraza por sí sola como una de las cajas que me encuentro por aquí. me disparó... aunque sí me dolió, también me refrescó mucho... no logro entender lo que eran esas cosas",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6718,7 +6718,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "encontré una especie de bola rara de aspecto alienígena que salió de un drón... tenía escrito algo sobre ¿\"crio\"? no le vi utilidad en eso, así que lo arrojé en una poza de rocas fundidas... ¿y las solidificó...?",
+                "Item1": "encontré una especie de bola rara de aspecto alienígena que salió de un dron... tenía escrito algo sobre ¿\"crio\"? no le vi utilidad en eso, así que lo arrojé en una poza de rocas fundidas... ¿y las solidificó...?",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6752,15 +6752,15 @@
             "Item2": ""
         },
         {
-            "Item1": "[MEMORANDO PERSONAL]\n[DR. ██████████, 6-05-24XX]<>\nEs que no lo entiendo. Trabajé en el ██████ ███████ antes del incidente. Agotamos todas las vías, buscamos bajo de cada piedra, y ahora, ██ años después, estamos repitiendo los mismos experimentos que ya habíamos descartado, obteniendo resultados completamente diferentes. Es como si algo hubiera cambiado desde entonces, alguna variable del universo.\nAsí no es como deberían funcionar estas cosas.<>\nPor primera vez parece que la teletransportación a un punto exacto podría estar a nuestro alcance, y sin embargo, entendemos menos que antes. Me da miedo que estemos jugando con algo que está más allá de nuestra comprensión. ¿Y si en vez de un pedazo de carne hubiésemos atrapado un fragmento de una estrella de neutrones?\nPor supuesto, una gravedad de esa magnitud repelería la fijación del objetivo, pero ¿Qué más creíamos \"saber\" que haya cambiado con la simple acción de un interruptor galáctico? Dale a un cavernícola la computadora más avanzada que tenemos y la usará como calentador. ¿Acaso no estamos operando bajo un nivel de ignorancia similar?... Puede que solo seamos niños jugando con la pistola de papá.",
+            "Item1": "[MEMORANDO PERSONAL]\n[DR. ██████████, 6-05-24XX]<>\nEs que no lo entiendo. Trabajé en el ██████ ███████ antes del incidente. Agotamos todas las vías, buscamos debajo de cada piedra, y ahora, ██ años después, estamos repitiendo los mismos experimentos que ya habíamos descartado, obteniendo resultados completamente diferentes. Es como si algo hubiera cambiado desde entonces, alguna variable del universo.\nAsí no es como deberían funcionar estas cosas.<>\nPor primera vez parece que la teletransportación a un punto exacto podría estar a nuestro alcance, y sin embargo, entendemos menos que antes. Me da miedo que estemos jugando con algo que está más allá de nuestra comprensión. ¿Y si en vez de un pedazo de carne hubiésemos atrapado un fragmento de una estrella de neutrones?\nPor supuesto, una gravedad de esa magnitud repelería la fijación del objetivo, pero ¿Qué más creíamos \"saber\" que haya cambiado con la simple acción de un interruptor galáctico? Dale a un cavernícola la computadora más avanzada que tenemos y la usará como calentador. ¿Acaso no estamos operando bajo un nivel de ignorancia similar?... Puede que solo seamos niños jugando con la pistola de papá.",
             "Item2": ""
         },
         {
-            "Item1": "Qué tal, jefe.\nActualización sobre la ████ █████. Gran avance. Los muchachos casi alimentan toda la maldita estación con esa cosa y apenas si se quejó. Es la forma de energía más densa que hayamos visto. Imagínate: teletransportadores completos funcionando con algo que te cabe en la mano. Aun así, es raro que tenga forma de █████. Tal vez alguna pieza de un Experimento anterior se quedó atorada ahí, quién sabe. Pero con esto, puede que no tendremos que expandir uestro enjambre de Dyson después de todo.\nSolo hay un problema: no podemos recrearla.<>\nLos muchachos insisten en que replicaron el experimento al pie de la letra. Intentaron sacar el conducto espacio-temporal, en vez de atravesarlo, pero ¿esta vez? Nada. Vaya que destrozó la máquina como la última vez, pero nada de ████ █████. Es igualito al incidente ██████████, solo que esa sangre amarilla nos llevó a los especímenes SAW. Esto podría ser un avance todavía mayor.\nVoy a mandar esta cosa a la oficina central a través del teletransportador. Ojalá tú le puedas encontrar sentido. Ah... y ya que estamos en el tema, mándanos más especímenes de prueba SAW. Es difícil mantener suficiente inventario aquí arriba en órbita.\n- Director de Estación ███████████",
+            "Item1": "Qué tal, jefe.\nActualización sobre la ████ █████. Gran avance. Los muchachos casi alimentan toda la maldita estación con esa cosa y apenas si se quejó. Es la forma de energía más densa que hayamos visto. Imagínate: teletransportadores completos funcionando con algo que te cabe en la mano. Aun así, es raro que tenga forma de █████. Tal vez alguna pieza de un Experimento anterior se quedó atorada ahí, quién sabe. Pero con esto, puede que no tendremos que expandir nuestro enjambre de Dyson después de todo.\nSolo hay un problema: no podemos recrearla.<>\nLos muchachos insisten en que replicaron el experimento al pie de la letra. Intentaron sacar el conducto espacio-temporal, en vez de atravesarlo, pero ¿esta vez? Nada. Vaya que destrozó la máquina como la última vez, pero nada de ████ █████. Es igualito al incidente ██████████, solo que esa sangre amarilla nos llevó a los especímenes SAW. Esto podría ser un avance todavía mayor.\nVoy a mandar esta cosa a la oficina central a través del teletransportador. Ojalá tú le puedas encontrar sentido. Ah... y ya que estamos en el tema, mándanos más especímenes de prueba SAW. Es difícil mantener suficiente inventario aquí arriba en órbita.\n- Director de Estación ███████████",
             "Item2": ""
         },
         {
-            "Item1": "[REPORTE DE INCIDENTE]\n[TRANSCRIPCIÓN DE AUDIO RECUPERADA B7-187545]\n[BAHÍA DE TELETRANSPORTACIÓN: OSPREY]<>\n\"He visto las especificaciones, pero... carajo, esa cosa está enorme.\"\n\"Por supuesto. Después de todo, está diseñada para transportar edificios enteros.\"\n\"¿Y sí llegan en una sola pieza?\"\n\"Todavía la estamos calibrando, pero por eso nos aseguramos de que la mayor parte de la carga aguante un buen golpe. Una caída desde... no sé, la atmósfera.\"\n<INTERFERENCIA DE APD-E> \n\"¡Sí, justo ahí, déjenlo justo en el centro!\"\n\"¿Qué es eso que están moviendo?\"\n\"Vaya que estás verde, muchacho. Es la nueva fuente de energía con la que los jefes no han dejado de babear.\"\n\"Ah... ¿Es seguro que estén allá abajo en la cuenca de desplazamiento, señor?\"\n\"Claro, siempre y cuando no la prendas. Aunque cuando todavía estaba en desarrollo, a un par de sujetos de prueba los partió limpiecitos a la mitad. Resulta que una capacitancia parásita del ciclo de aceleración bastó para activar el proyector de campo, pero por eso nosotros no le damos mantenimiento a estas cosas por nuestra cuenta. La otra mitad fue a dar al baño de empleados en la sede central.\"\n\"Seguro eso le dio algo en qué pensar al conserje.\"\n\"Esa sangre amarilla sí que mancha un chingo. Todavía se puede ver un poco desde aquí.\"<>\n<CLAC>\n<RUGIDO MECÁNICO RETUMBANTE>\n\"¿¡Qué fue eso!?\"\n\"¡Es el desplazador de metamasa activándose! ¡El director me tiene respirando en la nuca con el gasto de energía, así que vámonos rápido! ¡¿Destino?!\"\n\"¡Eh...! ¡Fijado, señor!\"\n\"¡¿Cuenca?!\"\n\"¡Despejada, señor!\"\n\"¡¿Indicadores?!\"\n\"¡Todo en verde, señor!\"\n\"¡Entonces denle con todo!\"\n<SONIDO DE ALARMA>\n\"¿¡Qué-!?\"\n\"¿¡Qué hiciste!?\"\n\"¡Y-yo no fui!\"\n\"¡El estabilizador se está dis--olvien-do! ¡A-a-pá-ga-lo!\"\n\"¡N-no p-puedo, es-tá-!\"\n<ALARMAS SUPERPUESTAS>\n\"¿¡P-por q-ué no-o quie-r-e!?\"\n\"In-ten--tan---\"<>\n[FIN DE LA TRANSCRIPCIÓN]",
+            "Item1": "[REPORTE DE INCIDENTE]\n[TRANSCRIPCIÓN DE AUDIO RECUPERADA B7-187545]\n[BAHÍA DE TELETRANSPORTACIÓN: OSPREY]<>\n\"He visto las especificaciones, pero... carajo, esa cosa está enorme.\"\n\"Por supuesto. Después de todo, está diseñada para transportar edificios enteros.\"\n\"¿Y sí llegan en una sola pieza?\"\n\"Todavía la estamos calibrando, pero por eso nos aseguramos de que la mayor parte de la carga aguante un buen golpe. Una caída desde... no sé, la atmósfera.\"\n<INTERFERENCIA DE APD-E> \n\"¡Sí, justo ahí, déjenlo justo en el centro!\"\n\"¿Qué es eso que están moviendo?\"\n\"Vaya que estás verde, muchacho. Es la nueva fuente de energía con la que los jefes no han dejado de babear.\"\n\"Ah... ¿Es seguro estar allá abajo en la cuenca de desplazamiento, señor?\"\n\"Claro, siempre y cuando no la prendas. Aunque cuando todavía estaba en desarrollo, a un par de sujetos de prueba los partió limpiecitos a la mitad. Resulta que una capacitancia parásita del ciclo de aceleración bastó para activar el proyector de campo, pero por eso nosotros no le damos mantenimiento a estas cosas por nuestra cuenta. La otra mitad fue a dar al baño de empleados en la sede central.\"\n\"Seguro eso le dio algo en qué pensar al conserje.\"\n\"Esa sangre amarilla sí que mancha un chingo. Todavía se puede ver un poco desde aquí.\"<>\n<CLAC>\n<RUGIDO MECÁNICO RETUMBANTE>\n\"¿¡Qué fue eso!?\"\n\"¡Es el desplazador de metamasa activándose! ¡El director me tiene respirando en la nuca con el gasto de energía, así que vámonos rápido! ¡¿Destino?!\"\n\"¡Eh...! ¡Fijado, señor!\"\n\"¡¿Cuenca?!\"\n\"¡Despejada, señor!\"\n\"¡¿Indicadores?!\"\n\"¡Todo en verde, señor!\"\n\"¡Entonces denle con todo!\"\n<SONIDO DE ALARMA>\n\"¿¡Qué-!?\"\n\"¿¡Qué hiciste!?\"\n\"¡Y-yo no fui!\"\n\"¡El estabilizador se está dis--olvien-do! ¡A-a-pá-ga-lo!\"\n\"¡N-no p-puedo, es-tá-!\"\n<ALARMAS SUPERPUESTAS>\n\"¿¡P-por q-ué no-o quie-r-e!?\"\n\"In-ten--tan---\"<>\n[FIN DE LA TRANSCRIPCIÓN]",
             "Item2": ""
         },
         {
@@ -6768,7 +6768,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[CHAT GRUPAL - DPT. MENTICIDIO]\n      - Nuevo Mensaje -<>\n\n¿Alguien ha visto mi taza de café? Es la que dice, \"Solo estoy aquí por los radicales libres.\" Si lo encuentran, por favor, tráiganlo a mi oficina. Gracias. ",
+            "Item1": "[CHAT GRUPAL - DPT. MENTICIDIO]\n      - Nuevo Mensaje -<>\n\n¿Alguien ha visto mi taza de café? Es la que dice, \"Solo estoy aquí por los radicales libres.\" Si lo encuentran, por favor, tráiganla a mi oficina. Gracias. ",
             "Item2": ""
         },
         {
@@ -6828,7 +6828,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[MENSAJE INTERCEPTADO]\n\n[REMITENTE ORIGINAL: MICHAEL WATSON, ██████████████]\n[DESTINATARIO INTENTADO: KATE BARLOW]\n<>\nYa te he contado sobre algunas de las otras locuras en las que me tienen trabajando, pero esta es súper turbia.\n\n¿Sabes esos chips de salud que presentaron recientemente? ¿Esos que se conectan al tronco encefálico para que puedas revisar tu presión arterial y esas pendejadas? Bueno, tienen a mi equipo trabajando en un accesorio para ellos. Es algo que te permitirá conectarte con uno de forma inalámbrica. O sea, directamente al cerebro de alguien. Quiero decir, ¿para quién es esto? ¿Para convictos? ¿Para el ejército?<>\n\nAsí que tuvimos que aumentar la capacidad de la batería, además de agregar un transceptor inalámbrico. Pero el punto es que, cuando estaba revisando las especificaciones que nos dieron, el presupuesto de energía era de locos. Si apuntaras el haz de transmisión directamente al cerebro a su máxima potencia, ¡la radiación podría matarte! Le comenté esto a la líder del proyecto, pero me dijo que no era un problema.<>\n\nLo más raro es que revisé parte de la biotelemetría que nos dieron y todos los sujetos que usaron medían menos de 1,50 metros. ¿Están probando estas cosas en niños o qué? A mí me parece que podrías usar esta cosa como un dispositivo para matar a distancia. Sabía que esta compañía hacía cosas turbias cuando postulé, pero esto ya se está poniendo demasiado raro para mí.<>\n\nPero bueno, tal vez solo lo estoy sobrepensando. ¿Tú qué opinas?\nAun así, si se abre una vacante en tu trabajo, avísame.\n<>\n>>> REENVIANDO MENSAJE INTERCEPTADO >>>\n<>\nDE: Oficial Jefe de Seguridad ████████████████\nPARA: Jefe de Departamento ███████████████<>\n\nEsto no constituye una violación de seguridad total, y el asunto ya ha sido resuelto, pero me gustaría que publique un memorando sobre cómo depurar adecuadamente la información destinada a empleados de bajo nivel de autorización.",
+            "Item1": "[MENSAJE INTERCEPTADO]\n\n[REMITENTE ORIGINAL: MICHAEL WATSON, ██████████████]\n[DESTINATARIO PREVISTO: KATE BARLOW]\n<>\nYa te he contado sobre algunas de las otras locuras en las que me tienen trabajando, pero esta es súper turbia.\n\n¿Sabes esos chips de salud que presentaron recientemente? ¿Esos que se conectan al tronco encefálico para que puedas revisar tu presión arterial y esas pendejadas? Bueno, tienen a mi equipo trabajando en un accesorio para ellos. Es algo que te permitirá conectarte con uno de forma inalámbrica. O sea, directamente al cerebro de alguien. Quiero decir, ¿para quién es esto? ¿Para convictos? ¿Para el ejército?<>\n\nAsí que tuvimos que aumentar la capacidad de la batería, además de agregar un transceptor inalámbrico. Pero el punto es que, cuando estaba revisando las especificaciones que nos dieron, el presupuesto de energía era de locos. Si apuntaras el haz de transmisión directamente al cerebro a su máxima potencia, ¡la radiación podría matarte! Le comenté esto a la líder del proyecto, pero me dijo que no era un problema.<>\n\nLo más raro es que revisé parte de la biotelemetría que nos dieron y todos los sujetos que usaron medían menos de 1,50 metros. ¿Están probando estas cosas en niños o qué? A mí me parece que podrías usar esta cosa como un dispositivo para matar a distancia. Sabía que esta compañía hacía cosas turbias cuando postulé, pero esto ya se está poniendo demasiado raro para mí.<>\n\nPero bueno, tal vez solo lo estoy sobrepensando. ¿Tú qué opinas?\nAun así, si se abre una vacante en tu trabajo, avísame.\n<>\n>>> REENVIANDO MENSAJE INTERCEPTADO >>>\n<>\nDE: Oficial Jefe de Seguridad ████████████████\nPARA: Jefe de Departamento ███████████████<>\n\nEsto no constituye una violación de seguridad total, y el asunto ya ha sido resuelto, pero me gustaría que publique un memorando sobre cómo depurar adecuadamente la información destinada a empleados de bajo nivel de autorización.",
             "Item2": ""
         },
         {
