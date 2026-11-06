@@ -1,6 +1,6 @@
 {
     "name": "Español (Latinoamérica)",
-    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Derkala, <color=\"orange\">ItsVoidSK, <color=\"yellow\">Zilat, <color=\"green\">JuanMC45, <color=\"cyan\">LeonixMG, <color=\"blue\">IzaCarlos y <color=\"purple\">Zorpolar.</color>",
+    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat, <color=\"orange\">ItsVoidSK, <color=\"yellow\">Derkala, <color=\"#bbff54\">IzaCarlos, <color=\"#00ffff\">Zorpolar, <color=\"blue\">LeonixMG y <color=\"purple\">JuanMC45.</color>",
     "version": "1.0-Pre13",
     "main": {
         "bandage": "Vendaje",
@@ -1901,7 +1901,7 @@
         "craftexample": ", como <color=#AAAAAA><><color=#666666>",
         "craftanyliquid": "Cualquier líquido con",
         "craftitemquality": "- (<1>) cualidad de <2>",
-        "craftliquidquality": "- (<1>) calidad de <2>",
+        "craftliquidquality": "- (<1>) cualidad de <2>",
         "craftcondition": "- ><>% de condición",
         "craftml": "- <> ml",
         "craftinfocondition": "Condición: ",
