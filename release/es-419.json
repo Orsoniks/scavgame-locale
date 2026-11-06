@@ -1,6 +1,6 @@
 {
     "name": "Español (Latinoamérica)",
-    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: Derkala, ItsVoidSK, Zilat, JuanMC45, LeonixMG, IzaCarlos y Zorpolar.",
+    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Derkala, <color=\"orange\">ItsVoidSK, <color=\"yellow\">Zilat, <color=\"green\">JuanMC45, <color=\"cyan\">LeonixMG, <color=\"blue\">IzaCarlos y <color=\"purple\">Zorpolar.</color>",
     "version": "1.0-Pre13",
     "main": {
         "bandage": "Vendaje",
