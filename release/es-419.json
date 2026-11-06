@@ -2385,19 +2385,19 @@
         "tutclosehealthpanel": "Cierra el panel de salud.",
         "tutopenhealthpanel": "Abre el panel de salud.",
         "tutnice": "Bien.",
-        "endsc1": "...Saludos, #<>. We see you have succesfully retrieved th-",
-        "endsc2": "Huh...? Uhm, #<>, please explain. Why is the objective...lodged inside of your abdomen?",
-        "endsc3": "...Okay. Well...that does change our plans slightly, but...either way.",
-        "endsc4": "Your achievement is highly impressive and we will study you further. Here's what's going to happen...",
-        "endsc5": "To ease your concerns upfront, you will get to live. However, we must first examine your body and mental state. You will be free to roam around the facility after and you will not be subject to our usual testing procedures.",
-        "endsc6": "We may discuss additional benefits later down the line...",
-        "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
-        "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
-        "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
-        "endsc10": "What's the hold up? Please proceed through the door to your right.",
-        "endsc11": "The door behind you. Go through it.",
-        "endsc12": "We don't have all day. Come on. Door to your right.",
-        "endsc13": "Ugh. Why do I always get the stubborn ones..?",
+        "endsc1": "...Saludos, #<>. Vemos que lograste satisfactoriamente la recuperación d-",
+        "endsc2": "¿Ehh....? Mmm, #<>, por favor, explícate. ¿Por qué el objetivo... está alojado dentro de tu abdomen?",
+        "endsc3": "...Okey. Bueno...eso cambia un poco nuestros planes, pero...en fin.",
+        "endsc4": "Tu logro es verdaderamente impresionante y te estudiaremos a profundidad. Esto es lo que va a pasar...",
+        "endsc5": "Antes que nada, seguirás con vida, para que no te preocupes. Sin embargo, primero debemos examinar tu cuerpo y estado mental. Después, serás libre de moverte por los pasillos de esta facilidad y no estarás obligado a nuestros procedimientos de prueba rutinarios.",
+        "endsc6": "Podríamos discutir de otros beneficios adicionales más adelante...",
+        "endsc7": "...Y, en cuanto al objetivo...este debe ser analizado a fondo. Tendrá que ser removido de tu cuerpo, de alguna forma u otra.",
+        "endsc8": "Ahora...¿tienes alguna pregunta? Nos gustaría proceder lo antes posible.",
+        "endsc9": "...Muy bien. Primero, tu cuerpo debe ser examinado exhaustivamente. Por favor, pasa por la puerta a tu derecha.",
+        "endsc10": "¿Qué estás esperando? Por favor, dirígete a la puerta a tu derecha.",
+        "endsc11": "La puerta detrás de ti. Pásala.",
+        "endsc12": "No tenemos todo el día. Vamos. Puerta a la derecha.",
+        "endsc13": "Ugh. ¿Por qué siempre me tocan los más tercos...?",
         "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
         "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
         "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
@@ -2405,7 +2405,7 @@
         "cargosurgery4": "I need to pull the cargo out of body.",
         "cargosurgery5": "I need to put these tubes over the wound.",
         "cargosurgery6": "I need to go.",
-        "endsctip": "Get your shit together. I need to murder him. Now.",
+        "endsctip": "Get your shit together. Tengo que matarlo. Ahora.",
         "outdatedwarning": "<size=200%>¡Oye!<size=100%>\nEl archivo de idioma seleccionado está desactualizado. Es posible que algunos textos estén incompletos.\nIntente cambiar el idioma a inglés o buscar una versión más reciente.",
         "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
         "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
@@ -2427,7 +2427,7 @@
                 "Estoy listo...",
                 "No quería hacer esto...",
                 "Vamos.",
-                "Okay. Movámonos rápido.",
+                ". Movámonos rápido.",
                 "¡Ooh!",
                 "Esto se ve... más gris de lo que esperaba.",
                 "Qué... gris.",
@@ -3986,7 +3986,7 @@
                 "¡Hey! ¡No me toques! No confío en ti."
             ],
             "traderhagglesuccess": [
-                "¡...Okay!",
+                "¡...Okey!",
                 "Mmmmhmmm... Lo tengo.",
                 "Pensaré sobre eso.",
                 "Lo consideraré...",
@@ -4077,7 +4077,7 @@
                 "¿...De verdad creíste que no vería eso? Hijueputa. ¡Vete de aquí!",
                 "¡Ey! ¡¿Qué te pasa?! ¡Lo necesitaba! ¡Vete de aquí, maldito!",
                 "¡Ahh! ¡LADRÓN! ¡Largo, YA!",
-                "Amigo. Okay... Okay así qu-. Okay... Yo... Eh... Por favor, vete."
+                "Amigo. Okey... Okey así qu-. Okey... Yo... Eh... Por favor, vete."
             ],
             "traderwakegreet": [
                 "Buenos días.",
@@ -5079,7 +5079,7 @@
                 "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
             ],
             "endlessloop0": [
-                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. No... N-no. Es lo que. Estaba e-esperando. Debí de haber hecho algo mal. Regresaré y lo i-intentaré de nuevo."
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okey. No... N-no. Es lo que. Estaba e-esperando. Debí de haber hecho algo mal. Regresaré y lo i-intentaré de nuevo."
             ],
             "endlessloop1": [
                 "Esto no está saliendo según lo planeado. ¡Maldición! ¿¡Qué demonios querían los batas blancas que hiciera!? Qué pérdida de tiempo y energía."
@@ -6087,7 +6087,7 @@
                 "¿Gnhghr...? ¿Por qué ami-go tocar...?",
                 "¿Por qué to-car...? Du-ne no entiende...",
                 "Uhh... Grr... Du-ne no entiende... Dune permite...",
-                "¿Ami-go... Por qué?... Okay...",
+                "¿Ami-go... Por qué?... Okey...",
                 "Dune no sabe... Por qué ami-go... Ami-go puede hacerlo...",
                 "¿Dune y ami-go jun-tos?... Qu-é..."
             ],
@@ -6300,7 +6300,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "esto puede ser algo raro de decirlo, pero he aceptado esta situación. he intentado cuidarme a mí mismo tanto como pude e intentaba consolar a todos los demás que he conocido aquí abajo. me hace sentir... ¿contento? a pesar de haberme lastimado bastante, he sido capaz de manejarlo sin desanimarme.\nintentaré ir tan lejos como pueda, y aunque puede que no lo logre, sé que hice lo mejor de mí y que he ayudado a tantos como pude. eso es algo que todos podemos hacer.\nsi estás leyendo esto, no te rindas, ¿okay?",
+                "Item1": "esto puede ser algo raro de decirlo, pero he aceptado esta situación. he intentado cuidarme a mí mismo tanto como pude e intentaba consolar a todos los demás que he conocido aquí abajo. me hace sentir... ¿contento? a pesar de haberme lastimado bastante, he sido capaz de manejarlo sin desanimarme.\nintentaré ir tan lejos como pueda, y aunque puede que no lo logre, sé que hice lo mejor de mí y que he ayudado a tantos como pude. eso es algo que todos podemos hacer.\nsi estás leyendo esto, no te rindas, ¿okey?",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6641,7 +6641,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "okay. las que tiemblan se ven muy aterradoras... pero no lo son. te mandan volando... pero puedo caer de pie todo el tiempo. algo similar a las cosas que rebotan en el área que estaba antes.",
+                "Item1": "okey. las que tiemblan se ven muy aterradoras... pero no lo son. te mandan volando... pero puedo caer de pie todo el tiempo. algo similar a las cosas que rebotan en el área que estaba antes.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6651,7 +6651,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "okay. hay buenas y malas noticias. la cosa que había guardado después de matar una de esas cosas flotantes... pues... creció. en otras dos cosas flotantes... de una sola... pero parecían ir más despacio cuando iban en grupo, como si me dieran la oportunidad de... ¿defenderme? qué raro.<>\n\nme comí uno de esos núcleos que saqué de esas cosas, no se me ocurrió otra idea sobre cómo deshacerme de esas cosas... y la verdad. estaban bastante ricos. y esta vez, sin cosas flotantes transformadas. ¿tal vez podría hacer esto más seguido para tener más y más comida? de todas formas, casi no encuentro mucha por aquí abajo",
+                "Item1": "okey. hay buenas y malas noticias. la cosa que había guardado después de matar una de esas cosas flotantes... pues... creció. en otras dos cosas flotantes... de una sola... pero parecían ir más despacio cuando iban en grupo, como si me dieran la oportunidad de... ¿defenderme? qué raro.<>\n\nme comí uno de esos núcleos que saqué de esas cosas, no se me ocurrió otra idea sobre cómo deshacerme de esas cosas... y la verdad. estaban bastante ricos. y esta vez, sin cosas flotantes transformadas. ¿tal vez podría hacer esto más seguido para tener más y más comida? de todas formas, casi no encuentro mucha por aquí abajo",
                 "Item2": "",
                 "Item3": "experiment"
             },
