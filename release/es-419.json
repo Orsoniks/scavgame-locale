@@ -1044,6 +1044,7 @@
         "loosescrews": "Tornillos sueltos",
         "bentprosthesis": "Prótesis doblada",
         "materialloss": "Pérdida crítica de material",
+
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  deja   tener   sentido",
         "braindamage2dsc": "Apenas capaz de pensar inteligentemente y permanecer consciente. Daño cerebral grave presente.",
@@ -1476,6 +1477,7 @@
         "dirtywaterdsc": "Al menos ya no está en tu cuerpo. No es seguro de tomarla.",
         "algae": "Lumenalgas",
         "algaedsc": "Agua con algas densas y bioluminiscentes. Muy boyante. Incomible.",
+        "lumalgae": "Lumenalgas",
         "redsludge": "Barro rojo",
         "redsludgedsc": "Absolutamente repugnante. Una especie de pasta carnosa. Su olor es aborrecible.",
         "magma": "Magma",
@@ -5909,7 +5911,7 @@
                 "¿Co-mida...? Hhoooohhhh.... ¿hhhooh..?"
             ],
             "cargoimpale": [
-                "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
+                "¡¡¡¡GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! ¡¡¡¡GGRRHHHAAAAGGHHHH!!!"
             ],
             "cargoimpale2": [
                 "GGHHHRRAAaaaahhh.... hhnnnh... ¿nnnh... n..?"
@@ -5954,7 +5956,7 @@
                 "(Du-ne no conseguir comida. Du-ne triste)"
             ],
             "labshoot": [
-                "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
+                "¡¡¡¡¡NNNGGGRRRAAUUUGHHH!!!!! ¡¡¡NGGRRRAAHHHGHHH!!! ¡¡¡GRRRRAAAAAAAAAAHHHHHH!!!"
             ],
             "labcommentcalm": [
                 "Grrhh....ngrhhr...",
@@ -5964,9 +5966,9 @@
                 "Fest-ín... ven..."
             ],
             "labcommentcombat": [
-                "NNGRRAAHHHHH!",
-                "GGRAAGHHH! GRRRRRHHH!!!",
-                "NNRRUUAAAAARRGHHHH!!",
+                "¡NNGRRAAHHHHH!",
+                "¡GGRAAGHHH! ¡¡¡GRRRRRHHH!!!",
+                "¡¡NNRRUUAAAAARRGHHHH!!",
                 "¡¡¡MUE-RTE VIENE!!!",
                 "¡¡¡V-EN A DU-NE!!!",
                 "¡¡¡DU-NE CO-MER CAR-NE!!!"
@@ -6954,11 +6956,11 @@
             "Sigue adelante ¿Qué más puedes hacer?",
             "Que interesante. Por favor continua.",
             "Una divertida muestra de emoción.",
-            "Fascinante. Continua.",
-            "¡Que intento tan diverto! ¡Sigue Adelante!",
+            "Fascinante. Continúa.",
+            "Qué curioso intento. ¡Continúa!",
             "¡Vamos, sigue adelante!",
             "¿No se siente increíble?",
-            "¿No estás muy orgulloso de ti mismo?"
+            "¿Qué, muy orgulloso de ti mismo?"
         ],
         "combat": [
             "Parece que te estás divirtiendo.",
