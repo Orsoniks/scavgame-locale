@@ -34,7 +34,7 @@ Each language has its own JSON file named according to its locale code, where th
 
 3. Use a text editor or IDE that supports JSON formatting and validation to avoid syntax errors (avoid editing within GitHub as an example).
 
-4. **Avoid using automatic translation tools**. They tend to fail to capture context accurately, and their usage is strongly frowned upon both in the community, and under the [Volunteer Translator License Agreement](../LICENSE.md).
+4. **Avoid using automatic translation tools**. They tend to fail to capture context accurately, and their usage is strongly frowned upon both in the community, and under the [Volunteer Translator License Agreement](./LICENSE.md).
 
 5. We recommend soliciting help from the community if you need help with translating specific terms or phrases. The [discord channel](https://discord.com/channels/955738554129063947/1298240970764324914) is for all general locale discussions, but use the specific threads for your language if available.
 

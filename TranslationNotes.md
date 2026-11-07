@@ -20,7 +20,7 @@ This document contains extra notes about some of the texts present in the Englis
 
 ### Translation style
 
-You should follow the guidelines from [CONTRIBUTING.md](./.github/CONTRIBUTING.md#guidelines-for-editing-localization-files) regarding the editing of translation files.
+You should follow the guidelines from [CONTRIBUTING.md](./CONTRIBUTING.md#guidelines-for-editing-localization-files) regarding the editing of translation files.
 
 Some translation choices are discouraged:
 - **Avoid adding references that aren't present in the source material.** If you cannot say for sure that a text in the game references a different video game, book, movie, etc., then it would be best to avoid translating it with such a reference in mind.
