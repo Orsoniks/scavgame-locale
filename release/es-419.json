@@ -1044,7 +1044,6 @@
         "loosescrews": "Tornillos sueltos",
         "bentprosthesis": "Prótesis doblada",
         "materialloss": "Pérdida crítica de material",
-        
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidad  ..  deja   tener   sentido",
         "braindamage2dsc": "Apenas capaz de pensar inteligentemente y permanecer consciente. Daño cerebral grave presente.",
@@ -1688,7 +1687,6 @@
         "rundivtrader": "Ajustes de los comerciantes",
         "rundivother": "Otros",
         "rundivchallenges": "Desafíos",
-        
         "tutorialwarning": "<size=150%>Antes de continuar...\n\n<size=100%>Aún no has completado el curso de instrucción básica.\n¿Seguro que quieres adentrarte sin preparación alguna?\n\n\n\nTu muerte es prácticamente segura.",
         "tutorialwarningyes": "Completar el curso básico",
         "tutorialwarningno": "¡Sé lo que hago!",
@@ -1828,7 +1826,7 @@
         "itemwearableprotection": "Protección:",
         "itemwearableisolation": "Aislamiento térmico:",
         "itemvalue": "Valor comercial: ",
-        "itemqualities": "Tiene cualidades ",
+        "itemqualities": "Tiene cualidades: ",
         "you": "Tú",
         "damagereduction": "Reducción de daño: ",
         "bodyinsulation": "Aislamiento corporal: ",
@@ -2387,7 +2385,7 @@
         "tutnice": "Bien.",
         "endsc1": "...Saludos, #<>. Vemos que lograste satisfactoriamente la recuperación d-",
         "endsc2": "¿Ehh....? Mmm, #<>, por favor, explícate. ¿Por qué el objetivo... está alojado dentro de tu abdomen?",
-        "endsc3": "...Muy bien. Bueno...eso cambia un poco nuestros planes, pero...en fin.",
+        "endsc3": "...Muy bien. Bueno... eso cambia un poco nuestros planes, pero... en fin.",
         "endsc4": "Tu logro es verdaderamente impresionante y te estudiaremos a profundidad. Esto es lo que va a pasar...",
         "endsc5": "Antes que nada, seguirás con vida, para que no te preocupes. Sin embargo, primero debemos examinar tu cuerpo y estado mental. Después, serás libre de moverte por los pasillos de esta facilidad y no estarás obligado a nuestros procedimientos de prueba rutinarios.",
         "endsc6": "Podríamos discutir de otros beneficios adicionales más adelante...",
@@ -2792,7 +2790,7 @@
                 "...uughh... asqueroso- ...Sangre. Eso es sangre. Acabo de vomitar sangre. Oh no. Ay NO.",
                 "Mm.... Mierda... ugh... Sangre... Eso no puede ser bueno...",
                 "Vaya... Solo... vomité... ¿...Sangre? ..¿eh?",
-                "Ghhuhh... ¿Por qué... acabo de...",
+                "Ghhuhh... ¿Por qué... acabo de...?",
                 "Estoy... guugh... ...Estoy seguro de que eso fue sangre... Estoy sangrando por dentro...",
                 "Esto no es... ghghuh... Vómito... Esto no es... Oh...",
                 "Mier... Ough... Maldita sea... Así no..."
@@ -3082,7 +3080,7 @@
                 "Estoy empezando a querer hacerme daño.",
                 "Oh... Oh no.",
                 "...",
-                "Maldita sea... ¡¡¡MALDITA SEA!!! ¿Por qué carajos estoy AQUÍ???",
+                "Maldita sea... ¡¡¡MALDITA SEA!!! ¿¿¿Por qué carajos estoy AQUÍ???",
                 "Rezo para que mi muerte sea rápida cuando llegue.",
                 "Realmente estoy empezando a considerar ponerle fin a mi vida.",
                 "No me presiones más, imbécil.",
@@ -3276,7 +3274,7 @@
                 "¡Necesito un vendaje!",
                 "No me gusta sangrar...",
                 "Estoy desparramando sangre...",
-                "Mi sangre... ",
+                "Mi sangre...",
                 "Esa es mi sangre...",
                 "Oh... es sangre...",
                 "Necesito curarme.",
@@ -3305,7 +3303,7 @@
                 "Esto es malo. Esto es malo. Esto es muy MALO.",
                 "¿Esto va mal... I-increíble...?",
                 "Esto es h-horrible...",
-                "¿Por qué...? ¿Por qué... Ne... Necesito ayuda...",
+                "¿Por qué...? ¿Por qué...? Ne... Necesito ayuda...",
                 "¡MIERDA! ¡MIERDA! ¡VENDAJE, YA!",
                 "¡AYÚDAME! Estoy... sangrando... Por favor...",
                 "¿Son... estos mis últimos momentos...?",
@@ -3775,9 +3773,9 @@
                 "¡Ow!",
                 "¡Gggouch!",
                 "¡Argh!",
-                "¡Nffgh...",
+                "¡Nffgh!...",
                 "¡Aaawgh!",
-                "¡Ngghhh...",
+                "¡Ngghhh!...",
                 "¡Ough!"
             ],
             "bigpain": [
@@ -4209,14 +4207,14 @@
                 "...Esto no está yendo como esperaba... No sé qué más podría hacer... Pues. Ugh. Me imagino que a la tercera es la vencida..."
             ],
             "endlessloop2": [
-                "¡¡UUUSSSHHHHH!! ¿QUÉ SE SUPONE QUE DEBO HACER!? A la mierda... con ese corazón... Grrrhh...De todos modos tengo que seguir descendiendo para sobrevivir. Qué desastre tan mierda."
+                "¡¡UUUSSSHHHHH!! ¿¡QUÉ SE SUPONE QUE DEBO HACER!? A la mierda... con ese corazón... Grrrhh...De todos modos tengo que seguir descendiendo para sobrevivir. Qué desastre tan mierda."
             ],
             "endlessloop3": [
                 "¡Bueno! No voy a poder salir de aquí, ¿verdad?... Creo que ya me estoy acostumbrando."
             ],
             "endlessloopdefault": [
                 "Oh, solo damos vueltas y vueltas..."
-            ],  
+            ],
             "endpodexamine": [
                 "Primero el... c-cargamento..."
             ],
@@ -4288,7 +4286,7 @@
                 "...Cálmate, por favor... Todo estará bien..."
             ],
             "selfharmresponse": [
-                "...¿Por-por qué... te cor..."
+                "...¿Por-por qué... te cor...?"
             ],
             "braindamagedresponse": [
                 "...No te entiendo... bien.",
@@ -4616,7 +4614,7 @@
                 "Estoy... cerca.",
                 "¡¡¡DETENTE!!!",
                 "¡¿¿POR QUÉ??!",
-                "¡¡¡AAAGGHHHHHHH!!!! ¡¡¡AAAAHHHHHHHHH!!!",
+                "¡¡¡¡AAAGGHHHHHHH!!!! ¡¡¡AAAAHHHHHHHHH!!!",
                 "...Mátenme.",
                 "Las probabilidades de salir vivo son nulas.",
                 "He fracasado.",
@@ -5067,7 +5065,7 @@
                 "... Qué extraño."
             ],
             "cargo2": [
-                "¡Por fin, al fin he... H-H... ¿Qué...?"
+                "¡Por fin! Al fin he... H-H... ¿Qué...?"
             ],
             "cargoimpale": [
                 "E-esto... No estaba... en mi... l-lista de expectativas..."
@@ -5743,7 +5741,7 @@
                 "Mnnhhhh...",
                 "¡Ghhhrrnnngh!",
                 "Nhnngghhrr...",
-                "Gghhrahhnnh...<limb>...",
+                "Gghhrahhnnh... <limb>...",
                 "Grrrhhgnn...due-le...<limb>...",
                 "Gggrhhnn...Du-ne...le due-le...",
                 "Gggrhhnn...Du-ne...le duel-e...<limb>..."
@@ -5751,7 +5749,7 @@
             "hitgroundhard": [
                 "¡GRRHNH!",
                 "¡GGRACGH!",
-                "¡NNHHRAGH!!",
+                "¡¡NNHHRAGH!!",
                 "¡GGHAARCK!",
                 "¡MNNGGHH!",
                 "¡RRHHGGNH!",
@@ -5871,7 +5869,7 @@
                 "y...",
                 "w.",
                 "El.",
-                "mw...wa....t...",
+                "mw... wa....t...",
                 "Re.",
                 "Du-ne.",
                 "Me-ta-l...",
@@ -5886,7 +5884,7 @@
                 "¡Nnhhrrhuhhh! ¡¡¡No!!!",
                 "¡Du-ne! ¡¡A-yuu-da!!",
                 "P...por-qué...",
-                "D...dnnrhh...Nhhhh...",
+                "D... dnnrhh... Nhhhh...",
                 "Rrrnn...Hhhh...¿Du-ne.... mue-re...?",
                 "Lu-z.... vie-ne...",
                 "Sien-te... os-cuu-ro...",
@@ -5902,22 +5900,22 @@
                 "¡Oooorrhhn! ¿Du-ne nuevo ruii-do? Hooohh..."
             ],
             "wwmr": [
-                "Hooohh... Pla-ce... Glo-wy... Du-ne clo-se..?"
+                "Hooohh... Lug-ar... Bri-lla... ¿Du-ne cer-ca..?"
             ],
             "cargo1": [
-                "Du-ne see... Thin-g..."
+                "Du-ne ve... Co-sa..."
             ],
             "cargo2": [
-                "Foo-d...? Hhoooohhhh....hhhooh..?"
+                "¿Co-mida...? Hhoooohhhh.... ¿hhhooh..?"
             ],
             "cargoimpale": [
                 "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
             ],
             "cargoimpale2": [
-                "GGHHHRRAAaaaahhh....hhnnnh...nnnh...n..?"
+                "GGHHHRRAAaaaahhh.... hhnnnh... ¿nnnh... n..?"
             ],
             "cargoimpale3": [
-                "Hhr...n..mmm...du-ne can lea-ve..."
+                "Hhr... n... mmm... du-ne puede ir-se..."
             ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......¿O-tra vez?"
@@ -5935,25 +5933,25 @@
                 "¡Nrrrg! ¡Whiii! ¡Du-ne ga-na!"
             ],
             "endpodexamine": [
-                "Lea-ve ti-me?"
+                "¿Tiem-po de i-r?"
             ],
             "ascententer": [
-                "Oooo! Re-d..."
+                "¡Oooo! Ro-jo..."
             ],
             "labenter": [
-                "(Du-ne back ho-me... Du-ne care-ful...)"
+                "(Du-ne devu-elta ca-sa... Du-ne cui-dado...)"
             ],
             "labresponse": [
-                "No-t kno-w."
+                "N-o sab-er."
             ],
             "labthink1": [
-                "(Hungry...)"
+                "(Hambre...)"
             ],
             "labthink2": [
-                "(Du-ne see food. Du-ne get. Du-ne lea-ve.)"
+                "(Du-ne ve comida. Du-ne conseguir. Du-ne se va)"
             ],
             "labthink2chip": [
-                "(Du-ne not get food. Du-ne sad.)"
+                "(Du-ne no conseguir comida. Du-ne triste)"
             ],
             "labshoot": [
                 "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
@@ -5961,17 +5959,17 @@
             "labcommentcalm": [
                 "Grrhh....ngrhhr...",
                 "Ngrrhhh...",
-                "Food...food...come...",
-                "Du-ne...kill...all...",
-                "Fee-st...co-me..."
+                "Comida... comida... ven...",
+                "Du-ne... matar... todos...",
+                "Fest-ín... ven..."
             ],
             "labcommentcombat": [
                 "NNGRRAAHHHHH!",
                 "GGRAAGHHH! GRRRRRHHH!!!",
                 "NNRRUUAAAAARRGHHHH!!",
-                "DE-ATH CO-ME!!!",
-                "CO-ME TO DU-NE!!!",
-                "DU-NE FE-AST ON F-LESH!!!"
+                "¡¡¡MUE-RTE VIENE!!!",
+                "¡¡¡V-EN A DU-NE!!!",
+                "¡¡¡DU-NE CO-MER CAR-NE!!!"
             ],
             "tradermeetnormal": [
                 "Mmm... Hol-a....",
@@ -5984,7 +5982,7 @@
             "tradermeetgood": [
                 "¡GGach! ¡A-lo!",
                 "Mmmm... Ami-go... Bien-venido a... Seguro...",
-                "¡Ami-go, hol-a...! ¿Cómo va...",
+                "¡Ami-go, hol-a...! ¿Cómo va...?",
                 "¡Dune encuentra... Bu-en ami-go!...",
                 "¡Hol-aaa!... Amiii-go... Ace-rr-car...",
                 "¿Nue-vo ami-go?.. Dune fee-liz..."
@@ -6106,7 +6104,7 @@
                 "Ami-go... Dune t-e tem-e... Pal-o que ex-plota...",
                 "¿Por qué ami-go carg-a... cosa de dolor?...",
                 "Dune... Mie-do al ins-tan-te... Cosa para dañar...",
-                "¿Por qué ami-go carg-a... Clic y boom... Dune... No gustar...",
+                "¿Por qué ami-go carg-a... Clic y boom...? Dune... No gustar...",
                 "Dune teme... ¿Boo-rn-2-K?... Dolor... No entiendo...",
                 "Riv-al Inj-usto... Dune... No le gusta... Ar-ma..."
             ],
@@ -6285,7 +6283,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "ahora todos me sacan de sus cápsulas. se acuerdan de mí... de allá arriba. no debería haber actuado así. esto es terrible. ",
+                "Item1": "ahora todos me sacan de sus cápsulas. se acuerdan de mí... de allá arriba. no debería haber actuado así. esto es terrible.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6853,7 +6851,7 @@
         }
     ],
     "pauseQuotes": {
-       "normal": [
+        "normal": [
             "Pausado.",
             "¿Ya estás tomando un descanso?",
             "¿Con sueño?",
@@ -6943,24 +6941,24 @@
         ],
         "cargoembedded": [
             "Bien hecho.",
-            "Took you long enough.",
-            "This is not a race, but do hurry.",
-            "Ready to start taking this seriously?",
-            "I suppose miracles do happen."
+            "Te tomo lo suficiente.",
+            "Esto no es una carrera, pero apurate.",
+            "¿Listo para tomarte esto enserio?",
+            "Supongo que los milagros si occuren."
         ],
         "labescape": [
             "Muéstrale de lo que eres capaz.",
-            "See if it makes a difference.",
-            "Do you believe this will change your fate?",
-            "I am still here.",
-            "Keep going. What else can you do?",
-            "How interesting. Please continue.",
-            "An amusing display of emotion.",
-            "Fascinating. Continue.",
-            "What an amusing attempt. Continue!",
-            "Come on, keep going!",
-            "Doesn't it feel amazing?",
-            "Aren't you so proud of yourself?"
+            "A ver si hace alguna diferencia.",
+            "¿Tu crees que esto cambiara tu destino?",
+            "Todavía estoy aquí.",
+            "Sigue adelante ¿Qué más puedes hacer?",
+            "Que interesante. Por favor continua.",
+            "Una divertida muestra de emoción.",
+            "Fascinante. Continua.",
+            "¡Que intento tan diverto! ¡Sigue Adelante!",
+            "¡Vamos, sigue adelante!",
+            "¿No se siente increíble?",
+            "¿No estás muy orgulloso de ti mismo?"
         ],
         "combat": [
             "Parece que te estás divirtiendo.",
