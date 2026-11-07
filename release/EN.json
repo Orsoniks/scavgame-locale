@@ -1,7 +1,7 @@
 {
     "name": "English",
     "description": "The official developer-created english translation of the game. You can find community translations in the locale repository (See credits menu). Community translations are not quality-checked and might be inaccurate or out of date!",
-    "version": "1.0-Pre3",
+    "version": "1.0",
     "main": {
         "bandage": "Dressing",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
@@ -102,7 +102,7 @@
         "liquidpouch": "Liquid pouch",
         "liquidpouchdsc": "A flexible liquid pouch made to store liquids. Has a strap to go over your belly. You can fill it with bottles and vice-versa.",
         "materialpouch": "Material pouch",
-        "materialpouchdsc": "A large, sturdy pouch that attaches to your thigh, with many small pockets to hold crafting materials. Has a high encumbrance reduction, but only accepts very small items.",
+        "materialpouchdsc": "A large, sturdy pouch that attaches to your thigh, with many small pockets to hold crafting materials. Has a high encumbrance reduction, but only accepts materials.",
         "purse": "Purse",
         "pursedsc": "A handheld medium-sized bag used to carry personal items. Quite stylish!",
         "pouch": "Pouch",
@@ -214,7 +214,7 @@
         "alcohol": "Bottle of alcohol",
         "alcoholdsc": "Glass bottle that can hold 0.4L of liquid.",
         "exposedcore": "Exposed core",
-        "exposedcoredsc": "The dormant remains of something once animated. You could probably eat it to absorb its energy in the form of nutrients and water. <i>It looks like it's slowly morphing into something...</i>",
+        "exposedcoredsc": "The dormant remains of something once animated. You could eat it to absorb its energy in the form of nutrients and water. <color=\"red\">If not eaten, will eventually morph into something...",
         "foliage": "Foliage",
         "foliagedsc": "Generic alien plant life. Barely edible, with a dissatisfying taste. Might make you sick. Decays fast. Often used in crafting.",
         "redfoliage": "Red foliage",
@@ -329,6 +329,20 @@
         "dustmaskdsc": "A slightly sturdy mask that covers your mouth. Offers minor head protection.",
         "scarf": "Scarf",
         "scarfdsc": "Red, warm, and fuzzy, this long scarf provides some insulation from the elements. Makes you feel like a mercenary...",
+        "mercscarf": "M.E.R.C. scarf",
+        "mercscarfdsc": "Provides immense power to the user via its implanted chips. It needs some kind of special power source, and a long while to charge... You need to make it out of this cave, with it, alive.",
+        "regenerationchip": "REL-Hyper-Regeneration Booster chip",
+        "regenerationchipdsc": "An advanced body chip that highly boosts the users injury regeneration abilities, in exchange for increased metabolism. You won't be able to make use of it until much later.",
+        "capacitorchip": "Micro-SINGLEBTR 1CHRG capacitor",
+        "capacitorchipdsc": "An advanced nano-battery that can store and discharge a monstrous amount of energy in a short timespan. You won't be able to make use of it until much later.",
+        "swapchip": "0.2.9-Mind-Swap chip",
+        "swapchipdsc": "A mysterious body chip that links with its host, allowing them to quickly move their consciousness onto the chip and then onto a new vessel shortly post-mortem. You won't be able to make use of it until much later.",
+        "rejuvenationchip": "0.0.7-Emergency Rejuvenation chip",
+        "rejuvenationchipdsc": "A crude enhancement to the mind-swap chip that allows the host to reform into a crude newly formed vessel using base DNA stored on the device and the biomass of whatever is left of the now dead host. You won't be able to make use of it until much later.",
+        "aichip": "MINI-AI chip",
+        "aichipdsc": "A relatively simple body chip that allows a simple AI system to communicate with the host and help them with certain tasks. You won't be able to make use of it until much later.",
+        "kineticchip": "Kinetic Transmitter chip",
+        "kineticchipdsc": "An experimental chip that creates a miniature spacetime distortion localized around two points, telekinetically pushing the host and the object in any chosen direction. You won't be able to make use of it until much later.",
         "blueprint": "Blueprint",
         "blueprintdsc": "Has the recipe for some kind of object written on it. There is some kind of electronic chip attached to it... Use to learn the recipe and gain INT experience.",
         "safetyglasses": "Safety glasses",
@@ -368,7 +382,7 @@
         "heatfernsponge": "Heatfern sponge",
         "heatfernspongedsc": "The ripped off, shriveled up spore container of a heatfern. Can be used on a limb to counteract infection or eaten for nutritional value. Its spores might impact your immune system.",
         "jetpack": "Jetpack",
-        "jetpackdsc": "A device worn as a backpack which uses jets to propel the wearer through the air. Has limited fuel and will be impaired while wet. Hold W to use. It also has a little pocket to store things inside.",
+        "jetpackdsc": "A device worn as a backpack which uses jets to propel the wearer through the air. Has limited fuel and will be impaired while wet. Hold [Up] to use. It also has a little pocket to store things inside.",
         "dynamite": "Dynamite",
         "dynamitedsc": "An explosive made of nitroglycerin, sorbents, and stabilizers. Good for making holes in the terrain. Not very good for your ears.",
         "climbingclaws": "Climbing claws",
@@ -394,7 +408,7 @@
         "terrainscanner": "Terrain scanner",
         "terrainscannerdsc": "Shows you a low-quality map of the terrain below you. Terrain is highlighted in green, solid buildings in red. Might be slightly inaccurate. Goes 24 meters down.",
         "nanotechscanner": "Nano-tech scanner",
-        "nanotechscannerdsc": "A device that detects the specific tech-signatures of various body chips, showing their general location. Only works when in the main inventory. There's some info about the chips written on the side, use to read it.",
+        "nanotechscannerdsc": "A device that detects the specific tech-signatures of various body chips, showing their general location. There's some info about the chips written on the side, use to read it. <color=\"red\">Only works when in the main inventory.</color>",
         "geigercounter": "Geiger counter",
         "geigercounterdsc": "An electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. Use to toggle.",
         "handcrank": "Hand crank charger",
@@ -462,7 +476,7 @@
         "helluce": "Helluce",
         "hellucedsc": "A dry, purple herb with an especially spicy taste. Helps against sickness, slightly helps hearing loss and might lessen internal bleeding. Highly increases the consumer's body temperature.",
         "spicevineleaf": "Spiceleaf",
-        "spicevineleafdsc": "A dry stalk with numerous bright leaves. Has some nutritional value when eaten, though the spice hurts like hell. Can be used on a limb to aid skin healing and fight infections. Usable as foliage for crafting.",
+        "spicevineleafdsc": "A dry stalk with numerous bright leaves. Can be eaten, though it is spicy. Can be used on limbs as antiseptic. Usable as foliage for crafting.",
         "bulbskin": "Popskin",
         "bulbskindsc": "A piece of thick, yellow membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
         "popfruit": "Popfruit",
@@ -588,11 +602,11 @@
         "minibarrel": "Mini-barrel",
         "minibarreldsc": "A small, industrial barrel made for storing liquids. Extremely heavy and impractical to use.",
         "peglimb": "Peg limb",
-        "peglimbdsc": "A makeshift wooden prosthesis to replace lost extremities. Less efficient than a normal limb and prone to breaking. Repaired with wood scraps. Use on the thorax/abdomen to attach. 7 INT is needed to attach reliably.",
+        "peglimbdsc": "A makeshift wooden prosthesis to replace lost extremities. Less efficient than a normal limb and prone to breaking. Repair with wood. Use on the thorax/abdomen to attach. 7 INT is needed to attach reliably.",
         "steelprosthesis": "Steel prosthesis",
-        "steelprosthesisdsc": "A metal prosthesis to replace lost extremities. Equal to a normal limb in most ways. Repaired with steel scraps. Use on the thorax/abdomen to attach. 10 INT is needed to attach reliably.",
+        "steelprosthesisdsc": "A metal prosthesis to replace lost extremities. Equal to a normal limb in most ways. Repair with scrap. Use on the thorax/abdomen to attach. 10 INT is needed to attach reliably.",
         "peo": "P.E.O. limb",
-        "peodsc": "Prosthetic Enhanced Operation limb. Better than a normal limb in almost every way. Repaired with titanium sheets. Use on the thorax/abdomen to attach. 14 INT is needed to attach reliably."
+        "peodsc": "Prosthetic Enhanced Operation limb. Better than a normal limb in almost every way. Repaired with titanium. Use on the thorax/abdomen to attach. 14 INT is needed to attach reliably."
     },
     "buildings": {
         "animalcorpse": "Animal corpse",
@@ -604,14 +618,19 @@
         "bouncecap": "Bouncecap",
         "bouncecapdsc": "Wheeeeee!",
         "climbingropeextended": "Climbing rope",
-        "climbingropeextendeddsc": "Extended length of sturdy rope. Hold up near it to start climbing.",
+        "climbingropeextendeddsc": "Extended length of sturdy rope. Hold [Up] near it to start climbing.",
         "glowshroom": "Glowshroom",
         "glowshroomdsc": "Slightly radioactive and strikingly bright.",
         "mushroomtree": "Mushroom tree",
         "mushroomtreedsc": "Looks bioluminescent.",
         "drillpod": "Drill pod",
         "drillpoddsc": "Used for transporting people long distances through solid ground. While it's not in a functional state, you could get it working if you bring a repair kit. Can be used to skip 2 layers downwards.",
+        "highpowereddrillpod": "High-powered drill pod",
+        "highpowereddrillpoddsc": "State of the art pod for transporting people long distances through solid ground. You'll need to get some kind of strong power source to get it to work...",
+        "highpowereddrillpoddsc2": "State of the art pod for transporting people long distances through solid ground. It's time to wave goodbye to this place.",
         "drillpoddscfixed": "Used for transporting people long distances through solid ground.\n\nCrouch inside it to skip 2 layers downwards. Might cause some hearing loss, as the soundproofing is worn out.",
+        "highpowereddrillpodbroken": "Broken pod",
+        "highpowereddrillpodbrokendsc": "You really pushed that thing way beyond safe operation range. Looks like you accidentally ran through something on the way too.",
         "drillpodbroken": "Broken drill pod",
         "drillpodbrokendsc": "It's broken beyond repair.",
         "frigiant": "Frigiant",
@@ -668,7 +687,7 @@
         "thornbackyoung": "Thornback",
         "thornbackyoungdsc": "A young, fluffy and very much aggressive thornback. They seemingly enjoy tunneling through the ground and ripping apart any moving thing nearby.",
         "thornbackelder": "Elder thornback",
-        "thornbackelderdsc": "RUN!",
+        "thornbackelderdsc": "<color=\"red\">RUN!",
         "cavetick": "Cave tick",
         "cavetickdsc": "",
         "overgrowntick": "Overgrown tick",
@@ -683,7 +702,7 @@
         "coldpuffdsc": "An odd, white ball suspended above the ground by purple-ish tentacles. It's very cold, somehow.",
         "coldpuffdsc2": "It sure has a very odd mechanism for spreading its spores.",
         "spicevine": "Spicevine",
-        "spicevinedsc": "A short, sturdy plant. It feels extremely dry. You could probably climb on it to soften falls.",
+        "spicevinedsc": "A short, sturdy plant. It feels extremely dry. You could climb on it.",
         "lifepodbuttonheat": "Heat toggle",
         "lifepodbuttonheatdsc": "A red, cheap looking button. This one toggles the lifepod heater and A/C. It's currently set to <>.",
         "lifepodbuttonshower": "Shower toggle",
@@ -753,6 +772,8 @@
         "crystalmetamorphic": "metamorphic",
         "crystalhealing": "healing",
         "crystalshy": "mimic",
+        "crystalproperty": "Has property: ",
+        "crystalproperties": "Has properties: ",
         "sandrose": "Sand rose",
         "sandrosedsc": "An oddly beautiful plant with a few large, oblong shapes growing on it.",
         "scrapeater": "Scrap-eater",
@@ -841,6 +862,10 @@
         "grabberplantdsc": "It appears to be feeling around the environment with its tip.",
         "grabbershroom": "Grabber-shroom",
         "grabbershroomdsc": "You struggle to understand how fungus can do this.",
+        "scientist": "Employee",
+        "scientistdsc": "One of the white coats.",
+        "guard": "Employee",
+        "guarddsc": "One of the blue coats.",
         "terminal": "Terminal",
         "terminaldsc": "An old computer terminal.",
         "macrofleshrebuilder": "Macro flesh rebuilder",
@@ -1014,6 +1039,7 @@
         "impendingdoom": "Sense of impending doom",
         "horrified": "HORRIFIED",
         "focused": "FOCUSED",
+        "cargo": "Cargo embedded",
         "prosthesis": "Prosthetic limb",
         "loosescrews": "Loose screws",
         "bentprosthesis": "Bent prosthesis",
@@ -1123,7 +1149,7 @@
         "cold2dsc": "Unpleasantly cold. Your body is slowing down.",
         "cold3dsc": "Dangerously low temperature, body and mind taken by the cold. Your entire body is slowly shutting down.",
         "cold4dsc": "You feel like you're burning up, but you're so tired and confused. You could go for a long nap...",
-        "wet1dsc": "Your feel slightly wet.",
+        "wet1dsc": "You feel slightly wet.",
         "wet2dsc": "Considerably wet. Temperature and comfort decreased.",
         "wet3dsc": "Dripping wet. Temperature and comfort considerably decreased.",
         "wet4dsc": "Completely drenched! The water is weighing you down. Temperature and comfort highly decreased.",
@@ -1164,7 +1190,7 @@
         "barotrauma3dsc": "The pressure is starting to make your head hurt. You need to hurry before it gets worse.",
         "barotrauma4dsc": "You're struggling to breathe... Something about the air is slowly killing you. <i>You don't want to die so close to the goal...",
         "energizeddsc": "Stamina loss and sleepiness decreased. (<>)",
-        "hemothoraxdsc": "Blood is accumulating in the pleural cavity due to internal bleeding, progressively impairing your ability to breathe. Your chest hurts. Treatment recommended.",
+        "hemothoraxdsc": "Blood is accumulating in the pleural cavity due to internal bleeding, progressively impairing your ability to breathe. Use a chest drain.",
         "hollowdsc": "",
         "badsleepdsc": "Your back really isn't appreciating your choice of where you slept. Try picking a less harsh surface next time. Consciousness decreased.",
         "laststanddsc": "You're not going down that easily. Something deep inside you compels you to push through.",
@@ -1187,6 +1213,7 @@
         "horrifieddsc": "CAN'T FOCUS. CAN'T THINK. NOTHING ELSE MATTERS. RUN FOR YOUR LIFE OR FIGHT FOR IT!",
         "focuseddsc": "<i>Both of us die today. One, just a little later than the other.",
         "focuseddscalt": "<i>It's time to take your freedom.",
+        "cargodsc": "The look is disturbing and the feeling is monstrously uncomfortable, yet you feel empowered...",
         "prosthesisdsc": "A prosthesis is attached to you. Prosthetic limbs cannot bleed or feel pain, but need to be rebuilt with their repair material if damaged.",
         "loosescrewsdsc": "One of your prostheses is coming loose, causing material damage while you move. This is caused by shrapnel or critical material loss.",
         "bentprosthesisdsc": "One of your ptostheses is bent way out of shape, disabling its use and making it unable to be repaired normally. Fix it using any wrench.",
@@ -1219,6 +1246,14 @@
         "layermodifier8": "Infested",
         "layermodifier9": "Ionized",
         "layermodifier10": "Solar-struck",
+        "layermodifier11": "Turbulent",
+        "layermodifier12": "Shiny",
+        "layermodifier13": "Oxygenated",
+        "layermodifier14": "Sterile",
+        "layermodifier15": "Stable",
+        "layermodifier16": "Beautiful",
+        "layermodifier17": "Unsightly",
+        "layermodifier18": "Rich",
         "layermodifier0dsc": "This place feels a little foggier than expected.",
         "layermodifier1dsc": "The air here is warmer than expected.",
         "layermodifier2dsc": "The air here is much warmer than expected!",
@@ -1230,6 +1265,14 @@
         "layermodifier8dsc": "This place seems to have very high insect activity.",
         "layermodifier9dsc": "Nuclear waste has been dumped in this site.",
         "layermodifier10dsc": "A strong solar flare has disabled your chip for a while.",
+        "layermodifier11dsc": "Some unknown force is affecting the gravity here.",
+        "layermodifier12dsc": "Strange lights permeate the area.",
+        "layermodifier13dsc": "The air here feels unusually refreshing and energizing.",
+        "layermodifier14dsc": "An airborne microorganism makes infections rarer here.",
+        "layermodifier15dsc": "This area seems to have reduced seismic activity.",
+        "layermodifier16dsc": "Something about this place strikes you as beautiful.",
+        "layermodifier17dsc": "Something about this place makes you uneasy.",
+        "layermodifier18dsc": "The terrain here seems rich in various metals.",
         "genclearingworld": "Clearing the playfield...",
         "geninstantiatingchunks": "Creating a new area...",
         "genpreprocessing": "Correcting the colors...",
@@ -1295,6 +1338,7 @@
         "mantle": "Mantle",
         "crimsongrass": "Crimson grass",
         "mush": "Mush",
+        "indestructiblealloy": "Indestructible alloy",
         "lrdserum": "L.R.D. Serum",
         "lrdserumdsc": "Special mixture used by a Localized Resuscitation Device. Does nothing if injected via other tools.",
         "cleanwater": "Clean water",
@@ -1490,7 +1534,9 @@
         "Shelly": "Shelly",
         "clicktocontinue": "Click to continue...\nESC to skip",
         "clicktocontinuealt": "Click to continue...",
+        "favourite": "Favourite item",
         "favouriteditem": "Favourited items won't be used in crafting",
+        "customizeitem": "Customize item",
         "mainhand": "Main hand",
         "secondaryhand": "Secondary hand",
         "mouth": "Mouth",
@@ -1505,23 +1551,23 @@
         "savecontinuemenudsc": "Continue a previously saved run.",
         "char0name": "[SAW-01] \"Experiment\"",
         "char0desc": "[FAMILY] \"Canine\"\n[CALLOUT_QUOTE] \"H-huh? Me? Is it my time to go..?\"\n[SUCCESS_PREDICTION] \"0.00374%\"\n[NOTES] \"Uninteresting\"",
-        "char0quirks": "<spoiler>",
+        "char0quirks": "[CANINE] - Your stomach doesn't play well with theobromine.\n[BIOLUMINESCENT_SIGHT] - In an emergency, you're your own light source.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILY] \"Canine\"\n[CALLOUT_QUOTE] \"I will comply.\"\n[SUCCESS_PREDICTION] \"0.0103%\"\n[NOTES] \"Bit of a snob\"",
-        "char1quirks": "<spoiler>",
+        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better and light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick and gives less nutrition.\n[SCRAWNY] - All STR and RES gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms and see the ammo count.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need it.\n[CANINE] - Your stomach doesn't play well with theobromine.",
         "char2name": "[SAW-12] \"Dune\"",
         "char2desc": "[FAMILY] \"Insectoid\"\n[CALLOUT_QUOTE] \"Hrrnn... Du-ne time go..?\"\n[SUCCESS_PREDICTION] \"0.001%\"\n[NOTES] \"Eww! It's drooling!\"",
-        "char2quirks": "<spoiler>",
+        "char2quirks": "[AQUATIC] - You can breathe underwater and like sleeping there.\n[FURLESS] - The lack of fur leaves you vulnerable to the ambient temperature. You dry off a lot faster. Groundwater and other liquids will stabilize your body temperature.\n[CANNIBAL] - You can eat raw meat and destroy corpses with no repercussions. You are generally immune to food poisoning.\n[CARNIVORE] - Eating fruit will cause you to vomit it right back out.\n[MUSCLE_FOR_BRAINS] - You don't <i>do</i> thinking. All INT gain is halved.\n[UNFEELING] - Mood is dampened by one third. You can't hug or haggle. You don't find killing people a significant event.\n[CHITINOUS] - Chitinous growths make you resilient to physical trauma.",
         "characterunlock": "[ACCESS_DENIED]",
         "characterunlockdsc": "Finish a run with the previous character to unlock",
-        "presetnormal": "Normal",
-        "presetnormaldsc": "The default experience. Mistakes are punishing. Knowledge and situational awareness are greatly rewarded. Time is of the essence. Your death is all but guaranteed.",
+        "presetnormal": "Tough",
+        "presetnormaldsc": "Mistakes are punishing. Knowledge and situational awareness are greatly rewarded. Time is of the essence.",
         "presetrelaxed": "Relaxed",
         "presetrelaxeddsc": "A slower, more forgiving descent. Mistakes are still punishing, but are easier to avoid. You have more time to explore and consider your surroundings.",
         "presetparadise": "Paradise",
         "presetparadisedsc": "These caves are inarguably better than the labs. Mistakes are much less punishing, loot and friendly faces are plenty. There's little hazards or time pressure.",
         "presetdesolate": "Desolate",
-        "presetdesolatedsc": "Alone in the dark. There's little to find and hazards are everywhere. Though survivors are a rarity, the ones that you'll find will have lots to share.",
+        "presetdesolatedsc": "Alone in the dark. There's little to find and hazards are everywhere. Though survivors are a rarity, the ones that you'll find will have lots to share. Your death is all but guaranteed.",
         "presetunchipped": "Unchipped",
         "presetunchippeddsc": "Though the lack of a chip alleviates the artificial time limit the rest are limited by, it also makes diagnosing yourself a difficult endeavor. Maybe it'll be worth it in the end?",
         "presetendless": "Endless",
@@ -1579,6 +1625,8 @@
         "runsetstrokesdsc": "Determines if you can get a stroke during hypertensive crisis",
         "runsetbraindamagefx": "Brain damage effects",
         "runsetbraindamagefxdsc": "Determines if brain damage causes periodic fits",
+        "runsetcrushdepth": "Crush depth damage",
+        "runsetcrushdepthdsc": "Determines if you eventually start taking damage below crush depth",
         "runsetinfinitelaststand": "Infinite last stands",
         "runsetinfinitelaststanddsc": "Determines if you can roll for last stand more than once during a run",
         "runsetmoodnormalizationrate": "Mood normalization rate",
@@ -1705,6 +1753,13 @@
         "gamesetskipintrodsc": "Because you've seen the intro text one too many times...",
         "gamesetrpc": "Rich presence",
         "gamesetrpcdsc": "Toggle Discord Rich Presence for the game being shown on your profile",
+        "gamesethidemenuprogression": "Hide menu progression",
+        "gamesethidemenuprogressiondsc": "If on, disable special trinkets that appear in the main menu as you complete certain endings. Use if you want to avoid spoiling someone",
+        "gamesetunits": "Measurement units",
+        "gamesetunitsdsc": "What units to display distance/temperature/weight as",
+        "gamesetunitsmetric": "Metric",
+        "gamesetunitsimperial": "Imperial",
+        "gamesetunitsburger": "Cheeseburger",
         "gamesetmastervolume": "Master volume",
         "gamesetmastervolumedsc": "",
         "gamesetmusicvolume": "Music volume",
@@ -1731,7 +1786,8 @@
         "gamesetragdoll": "Ragdoll",
         "gamesetwoundview": "Health panel",
         "gamesetcraft": "Crafting menu",
-        "gamesetfavourite": "Favorite item",
+        "gamesetfavourite": "Favourite item",
+        "gamesetcustomizeitem": "Customize item",
         "gamesettoggleinventory": "Toggle inventory",
         "gamesetspeed1": "Normal speed",
         "gamesetspeed2": "Fast speed",
@@ -2001,11 +2057,12 @@
         "alertprosthesisarm": "None of your arms are fully dismembered! Try removing any stumps.",
         "alertprosthesisleg": "None of your legs are fully dismembered! Try removing any stumps.",
         "alertprosthesisfail": "You failed to attach the prosthesis (Attaching below <> INT may fail).",
-        "alertnanotechsuccess": "<spoiler>",
-        "alertnanotechfail": "<spoiler>",
-        "alertnanotechrepeat": "<spoiler>",
+        "alertnanotechsuccess": "<color=\"green\">You came up with a new recipe...",
+        "alertnanotechfail": "<color=\"red\">The writing is incomprehensible...\nMaybe try another time?",
+        "alertnanotechrepeat": "You already read this. Keep the scanner on you and watch for any signals.",
         "nanotechdepth": "NANO-TECH Signature detected at this depth!",
-        "nanotechdepthinitial": "NANO-TECH Signature detected in this area...",
+        "nanotechdepthinitialleft": "NANO-TECH Signature detected in this area, to the left...",
+        "nanotechdepthinitialright": "NANO-TECH Signature detected in this area, to the right...",
         "insertsample": "Insert a sample",
         "tradeinteract": "Trade",
         "read": "Read",
@@ -2036,11 +2093,11 @@
         "small": "Small",
         "medium": "Medium",
         "large": "Large",
-        "crystaleffect1": "Something's up with it",
-        "crystaleffect2": "You can make out few odd things about it.",
-        "crystaleffect3": "A sense of energy emanates from it. You notice multiple oddities around it.",
-        "crystaleffect4": "A strong sense of energy emanates from this one. It feels like space is warping around it.",
-        "crystaleffectmany": "Something is horribly wrong with it. You probably shouldn't come near... Or, maybe you should?",
+        "crystaleffect1": "You could examine it up close. Something's up with it",
+        "crystaleffect2": "You could examine it up close. You can make out few odd things about it.",
+        "crystaleffect3": "You could examine it up close. A sense of energy emanates from it. You notice multiple oddities around it.",
+        "crystaleffect4": "You could examine it up close. A strong sense of energy emanates from this one. It feels like space is warping around it.",
+        "crystaleffectmany": "You could examine it up close. Something is horribly wrong with it. You probably shouldn't come near... Or, maybe you should?",
         "lockprecision": "Lock precision: ",
         "degree": "degree",
         "degrees": "degrees",
@@ -2079,15 +2136,17 @@
         "endscreenstatus": "MSN-CARGO STATUS REPORT",
         "endscreenunresolved": "UNRESOLVED",
         "endscreenresolved": "RETRIEVED",
+        "endscreenescape": "MORE INFO AT MEETING",
         "endscreenfailure": "CATASTROPHIC FAILURE",
         "endscreencasualties": "CASUALTIES:",
         "endscreenunknown": "UNKNOWN",
+        "endscreenmerc": "UNKNOWN - POTENTIAL ISSUE",
         "endscreenphysical": "PHYSICAL STATUS:",
         "endscreendeceased": "DECEASED",
         "endscreenexamination": "ALIVE, UNDER EXAMINATION",
         "endscreenmental": "LAST RECORDED MENTAL STATUS:",
         "endscreendepth": "DEPTH:",
-        "endscreendepthres": " METERS AT ",
+        "endscreendepthres": " AT ",
         "endscreentime": "TIME:",
         "endscreencalories": "CALORIES:",
         "endscreenmainmenu": "RETURN TO MENU",
@@ -2281,6 +2340,8 @@
         "tutcraft4": "Your objective will be to create a specified item using the resources given to you.",
         "tutcraft5": "We will assume you know the bare basics of crafting. Create a foliage bag using the following materials. Use the reset button if you make a mistake.",
         "tutcraft6": "First steps. Nicely done. Getting a container should always be your first goal.",
+        "tutcraft6a": "You can label items for organizational purposes. Press [N] on the bag you made, and color it green (the third swatch from the left).",
+        "tutcraft6b": "Nice. You can also rename the item here. Close this menu when you're done.",
         "tutcraft7": "An important thing to note is that you can use items near you on the ground for crafting. Bark at me with [B] once you've fully absorbed this information.",
         "tutcraft8": "Let's try again with the same resources. Make a full dressing this time. You can drag any item onto the crafting button to see what recipes it can be used in.",
         "tutcraft9": "Nicely done. Dressings are very cheap to make and are crucial for your survival. They should be your priority right after getting a container.",
@@ -2315,7 +2376,7 @@
         "tutmove9": "How did you even get up there..? Odd. Either way, please pick up the next barrel.",
         "tutmove10": "Charge up a throw, jump then throw the barrel downwards. Scale the wall by boosting yourself with the throw.",
         "tutmove11": "Well done. The heavier the object thrown, the further you will be launched. Pick up the next barrel.",
-        "tutmove12": "Jump down this opening, then cancel your moment by throwing the barrel downwards before ground impact. Do not touch the walls.",
+        "tutmove12": "Jump down this opening, then cancel your momentum by throwing the barrel downwards before ground impact. Do not touch the walls.",
         "tutmove13": "Nicely done.",
         "tutmove14": "Swinging at and hitting things pushes you back in a similar fashion. Try getting up the right-most wall while swinging mostly downwards at it.",
         "tutmove15": "Pick up this sledgehammer and repeat hit-boosting using it. You will gain significantly more height due to the sledgehammer's knockback.",
@@ -2324,7 +2385,38 @@
         "tutclosehealthpanel": "Close the health panel.",
         "tutopenhealthpanel": "Open the health panel.",
         "tutnice": "Nice.",
+        "endsc1": "...Greetings, #<>. We see you have succesfully retrieved th-",
+        "endsc2": "Huh..? Uhm, #<>, please explain. Why is the objective...lodged inside of your abdomen?",
+        "endsc3": "...Okay. Well...that does change our plans slightly, but...either way.",
+        "endsc4": "Your achievement is highly impressive and we will study you further. Here's what's going to happen...",
+        "endsc5": "To ease your concerns upfront, you will get to live. However, we must first examine your body and mental state. You will be free to roam around the facility after and you will not be subject to our usual testing procedures.",
+        "endsc6": "We may discuss additional benefits later down the line...",
+        "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
+        "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
+        "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
+        "endsc10": "What's the hold up? Please proceed through the door to your right.",
+        "endsc11": "The door behind you. Go through it.",
+        "endsc12": "We don't have all day. Come on. Door to your right.",
+        "endsc13": "Ugh. Why do I always get the stubborn ones..?",
+        "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
+        "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
+        "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
+        "cargosurgery3": "I need to put these clamps into the marked spots.",
+        "cargosurgery4": "I need to pull the cargo out of body.",
+        "cargosurgery5": "I need to put these tubes over the wound.",
+        "cargosurgery6": "I need to go.",
+        "endsctip": "Get your shit together. I need to murder him. Now.",
         "outdatedwarning": "<size=200%>Hey!<size=100%>\nThe selected language file is outdated. Some text may be broken.\nTry switching to english or finding a newer version.",
+        "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
+        "biopodnote": "Trying to rebel against your captors with an explosive chip in your head is equivalent to suicide. The weird object lodged in your torso also seems dangerous to keep inside you for too long. With no better options at your disposal, you follow the orders given to you.<>\n\nYou are soon escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you reluctantly give up all the gadgets that you've found on your journey and prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt": "You are quickly taken away, restrained, stripped of your gear and resuscitated to avoid any more significant damage to the brain and the rest of your body.\n\nSome time later, you are escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt2": "You are quickly restrained, taken away, stripped of everything and resuscitated to avoid any more significant damage to the brain and the rest of your body.\n\nA significant amount of time later, you are moved by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou tried so hard to get out of this prison, yet it brought you nowhere. A meaningless attempt. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod.<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about your failure. So close to tasting freedom, to getting the ultimate revenge on your captors... And yet, it fell flat. If only you tried a little harder... A frown appears on you as your consciousness fades into a deep sleep.",
+        "escapenote1": "A bright shine radiates from the end of the corridor. You hear what sounds like wind blowing outside.\n<>\nThis is the end of the road. You have denied your captors with a skill and stubbornness no other being ever has.\n<>\nHurt, exhausted, yet determined, you walk into the light.",
+        "escapenote2": "...So, that's what they were hiding from you all this time.\n<>\nWhile you admire the beauty of your newfound surroundings, the loud sounds coming from where you just came out of remind you that you still need to move.\nWithout much choice, you run into what looks like a field of tall, green plants with large brown stalks.\n<>\nYou run.<>\nYou keep running.<>\nYou run far, far away, until your legs give out.\n<>\n...\n<>\nSilence. Nothing but what sounds like chirping and the sound of blowing wind. You can't even see the buildings on the horizon anymore.\n<>\n...\n<>\nYou have achieved your freedom.",
+        "mercnote1": "You breach through the final few layers of gravel and rock that separate you from the wide open air.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you and so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nA bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, and it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+        "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nWhat..?<>\n\nWhere am I..?\n\nWhy...<>\n\nIt hurts...<>\n\n...<>\n\nWhat happened...?<>\n\nThis scarf... I...<>\n\n...<>\n\n...I remember.<>\n\n...I know what needs to be done.",
         "startlorenote": "Year 2XXX \n<>\nHumanity's technology has progressed significantly. Things that seemed impossible before were now commonplace.\n<>\nAt the center of it was one company. Their progress seemed miraculous, but they guarded their secrets closely.\n<>\nYears ago they had created a new species: a combination of animal and human DNA they simply called \"Experiments.\"\n<>\nThese experiments were the perfect test subjects, close enough to humans, but theirs to do with as they pleased. They toiled over them, twisting their biology even further to suit their needs, and as the years went by, the population only increased.\n\nNone would ever see the outside.\n<>\nNow it seemed that the Earth could no longer contain their ambitions. With their newly devised teleportation technology, they set their sights on a gray planet teeming with life.\n<>\nSoon enough, tons of miscellaneous cargo and trash was sent.\n<>\nDue to calibration difficulties, just as much ended up in the planet's cave system as on the surface, but the project progressed smoothly. \n<>\nThat was, until an unknown error caused an important piece of technology to be sent deep into the caves instead.\n<>\nSoon enough, the scientists had devised a plan. A plan with little risk to themselves.\n<>\nThe chances of success were low, but their living fodder was plenty.\n<>\nYou are one unfortunate specimen.\nResistance is not an option."
     },
     "character": [
@@ -4095,20 +4187,85 @@
                 "The... Objective... Should be somewhere in here... No more messing around. Let's go.",
                 "I made it... I made it..? Hmmh... It should be somewhere around here... Let's get this over with."
             ],
+            "cargo1": [
+                "I... I think this... Is... it..?"
+            ],
+            "cargo2": [
+                "That... Is not a batt....wh... W-what's it... Doing..?"
+            ],
+            "cargoimpale": [
+                "AAAGHH! WHAT THE HELL!? WHY?"
+            ],
+            "cargoimpale2": [
+                "H-hmm... Well... I... I do feel... Empowered by this..? I feel... L-lighter."
+            ],
+            "cargoimpale3": [
+                "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
+            ],
             "endlessloop0": [
                 "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
-            ],
+            ], 
             "endlessloop1": [
                 "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
             ],
             "endlessloop2": [
-                "<spoiler>"
-            ],
+                "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
+            ], 
             "endlessloop3": [
                 "Well! I'm not getting out of here, am I... I think I'm getting used to this."
             ],
             "endlessloopdefault": [
                 "Oh, round and round we go..."
+            ],  
+            "endpodexamine": [
+                "C-cargo... First..."
+            ],
+            "ascententer": [
+                "Looks like thats as far as it'll go... The only way's up. Let's go."
+            ],
+            "labenter": [
+                "(I'll comply for now... Trying to go against them would get me killed. Maybe I'll find an opportunity...)"
+            ],
+            "labresponse": [
+                "(...Like hell I'm talking to them. Not after...that.)"
+            ],
+            "labthink1": [
+                "(This is the moment... If... If I had a gun, or something...)"
+            ],
+            "labthink2": [
+                "(I could... Kill him. Shoot that thing on the ceiling... Go through that grate. Escape..?)"
+            ],
+            "labthink2chip": [
+                "(I could... No. I can't. They'd kill me with the chip. Damn it.)"
+            ],
+            "labshoot": [
+                "NNGGRRAAAAHHHH!! FUCK YOU!!! I'M NOT TAKING ANY MORE OF YOUR SHIT!!!"
+            ],
+            "labcommentcalm": [
+                "Nghh... Grrh... They'll pay...",
+                "They'll pay for this...",
+                "Sufffer...the consequences...",
+                "So done. With. This. SHIT!",
+                "Go to hell. Go to hell. All of you...",
+                "It's the end.",
+                "Fuckers. Fuckers. Fuckers. Dipshits.",
+                "No one will care when they go missing.",
+                "(Nothing can stop me.)",
+                "Win stupid fucking prizes..."
+            ],
+            "labcommentcombat": [
+                "FUCK YOU!! FUCK YOU!!!! FUCK ALL OF YOU!!!!",
+                "I'LL WATCH THE LIFE DRAIN OUT OF YOUR EYES!!!",
+                "TO HELL WITH YOU!!!",
+                "NO MORE OF THIS SHIT!!",
+                "I'M DONE WITH THESE GAMES!!",
+                "GRRRAAHHHHH!!",
+                "WHO DO YOU THINK YOU FUCKING ARE!?",
+                "NO ONE WILL REMEMBER YOU!!",
+                "YOU'LL ALL PAY FOR WHAT YOU'VE DONE!!",
+                "I'M NOT GOING DOWN!!",
+                "YOU COATED FUCKS!!",
+                "GO TO HELL!!!!"
             ],
             "vomitresponse": [
                 "Uuuhmm... You good..?"
@@ -4538,7 +4695,7 @@
                 "My vision slowly fades."
             ],
             "steponglass": [
-                "I am terribly dissapointed in my carelessness.",
+                "I am terribly disappointed in my carelessness.",
                 "There were a thousand ways to prevent this from happening, yet still a shard of glass has found its way into my paw.",
                 "Ow.",
                 "That was a miscalculation on my end.",
@@ -4903,6 +5060,24 @@
                 "Oh, oh, why, what, WHY!? STOP THIS! I DO NOT DESERVE THIS! YOU COATED DIPSHITS!",
                 "Hello, beeping. What could this mean?"
             ],
+            "wwmr": [
+                "All according to plan. It appears the objective is within reach. I must focus."
+            ],
+            "cargo1": [
+                "...Odd."
+            ],
+            "cargo2": [
+                "At long last, I have... H-H... What..?"
+            ],
+            "cargoimpale": [
+                "T-this... Was... Not in my... L-list of expectations..."
+            ],
+            "cargoimpale2": [
+                "Ghh... I-it is... Really... Lodged inside... Yet... It is relieving..."
+            ],
+            "cargoimpale3": [
+                "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+            ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
             ],
@@ -4917,6 +5092,53 @@
             ],
             "endlessloopdefault": [
                 "......*sigh*"
+            ],
+            "endpodexamine": [
+                "It is unpowered. I likely would be able to start it with medium effort."
+            ],
+            "ascententer": [
+                "The pod has ceased to function. It is time to ascend on foot. There is little distance left."
+            ],
+            "labenter": [
+                "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue with a level head.)"
+            ],
+            "labresponse": [
+                "(...Huh. That was NOT part of their plan?)"
+            ],
+            "labthink1": [
+                "(The time is now. They will not see it coming.)"
+            ],
+            "labthink2": [
+                "(Shoot the coat. Shoot the turret. Go through grate. It will be difficult, but I cannot let myself comply with these monsters.)"
+            ],
+            "labthink2chip": [
+                "(Shoot the......No. This chip will not allow me to go against them. I have failed. To them, I have succeeded.)"
+            ],
+            "labshoot": [
+                "TO HELL WITH YOU!!! YOU WILL PAY FOR WHAT YOU'VE DONE!!!"
+            ],
+            "labcommentcalm": [
+                "They will...pay...",
+                "No more games.",
+                "To hell with everyone involved...",
+                "..Grrhh...",
+                "(I'm taking my freedom.)",
+                "They all deserve this.",
+                "(I'm scared.)",
+                "Ggh...dipshits...",
+                "(No one will miss them when they're gone.)"
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHH! DIE!",
+                "TO HELL WITH ALL OF YOU!!!",
+                "YOU'RE GOING DOWN WITH ME!!",
+                "YOU'VE GOTTEN AWAY WITH THIS FOR TOO LONG!!",
+                "CALL FOR BACKUP!! I DARE YOU!!",
+                "I WILL FUCKING DEVOUR YOU!!",
+                "DIE!!",
+                "SCREAM FOR HELP!!! COME ON!!",
+                "YOU THINK YOU CAN STOP ME!?",
+                "YOUR TIME HAS COME!!"
             ],
             "tradermeetnormal": [
                 "Greetings.",
@@ -5276,7 +5498,7 @@
                 "Gghhrraaaghh! D-rink! Now..!"
             ],
             "limbmuscle": [
-                "<Limb> no mo-ve...",
+                "<limb> no mo-ve...",
                 "Du-ne <limb> stop wo-rk..?",
                 "Du-ne nee-d new <limb>.",
                 "<limb> no work...nnngrrhh...",
@@ -5679,6 +5901,24 @@
             "selfdestruct": [
                 "Oooorrhhn! Du-ne new sou-nd? Hooohh..."
             ],
+            "wwmr": [
+                "Hooohh... Pla-ce... Glo-wy... Du-ne clo-se..?"
+            ],
+            "cargo1": [
+                "Du-ne see... Thin-g..."
+            ],
+            "cargo2": [
+                "Foo-d...? Hhoooohhhh....hhhooh..?"
+            ],
+            "cargoimpale": [
+                "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
+            ],
+            "cargoimpale2": [
+                "GGHHHRRAAaaaahhh....hhnnnh...nnnh...n..?"
+            ],
+            "cargoimpale3": [
+                "Hhr...n..mmm...du-ne can lea-ve..."
+            ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......a-gain?"
             ],
@@ -5693,6 +5933,45 @@
             ],
             "endlessloopdefault": [
                 "Nrrrg! Wheee! Du-ne win!"
+            ],
+            "endpodexamine": [
+                "Lea-ve ti-me?"
+            ],
+            "ascententer": [
+                "Oooo! Re-d..."
+            ],
+            "labenter": [
+                "(Du-ne back ho-me... Du-ne care-ful...)"
+            ],
+            "labresponse": [
+                "No-t kno-w."
+            ],
+            "labthink1": [
+                "(Hungry...)"
+            ],
+            "labthink2": [
+                "(Du-ne see food. Du-ne get. Du-ne lea-ve.)"
+            ],
+            "labthink2chip": [
+                "(Du-ne not get food. Du-ne sad.)"
+            ],
+            "labshoot": [
+                "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
+            ],
+            "labcommentcalm": [
+                "Grrhh....ngrhhr...",
+                "Ngrrhhh...",
+                "Food...food...come...",
+                "Du-ne...kill...all...",
+                "Fee-st...co-me..."
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHHHH!",
+                "GGRAAGHHH! GRRRRRHHH!!!",
+                "NNRRUUAAAAARRGHHHH!!",
+                "DE-ATH CO-ME!!!",
+                "CO-ME TO DU-NE!!!",
+                "DU-NE FE-AST ON F-LESH!!!"
             ],
             "tradermeetnormal": [
                 "Mmm... Hell-o....",
@@ -6457,7 +6736,7 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[RESEARCH MEMO, 29-1-24XX]<>\nI can still scarcely believe what I'm looking at. The subject is the size of my fist, yellow in color, and slimy in texture. By all accounts it appears to be a lump of flesh. We don't know what it's from or where, but our instruments confirm it is biological in origin, and it is completely alien to ours. It was recovered from the wreckage of the ██████ ███████, fused with the receiver plate. This represents a groundbreaking leap in our research, but a small consolation for the total loss of the device. I don't understand. Over a decade of dead-end research teleporting little more than individual particles and then this thing comes through?<>\nOut of all the universe, the odds of our experiment randomly intersecting with a creature of an unknown alien planet must be at least fifty orders of magnitude. It should be impossible, and yet here it is. We'll need to try and spin this. We can't risk losing the investor's funding, or scaring the public. Not at this juncture. At least this will give the bio team something to investigate while we rebuild the entire project from the ground up.",
+            "Item1": "[RESEARCH MEMO 29-1-24XX]<>\nI can still scarcely believe what I'm looking at. The subject is the size of my fist, yellow in color, and slimy in texture. By all accounts it appears to be a lump of flesh. We don't know what it's from or where, but our instruments confirm it is biological in origin, and it is completely alien to ours. It was recovered from the wreckage of the ██████ ███████, fused with the receiver plate. This represents a groundbreaking leap in our research, but a small consolation for the total loss of the device. I don't understand. Over a decade of dead-end research teleporting little more than individual particles and then this thing comes through?<>\nOut of all the universe, the odds of our experiment randomly intersecting with a creature of an unknown alien planet must be at least fifty orders of magnitude. It should be impossible, and yet here it is. We'll need to try and spin this. We can't risk losing the investor's funding, or scaring the public. Not at this juncture. At least this will give the bio team something to investigate while we rebuild the entire project from the ground up.",
             "Item2": ""
         },
         {
@@ -6477,7 +6756,7 @@
             "Item2": ""
         },
         {
-            "Item1": "Hey, big man.\nUpdate on the ████ █████. Great progress. The boys nearly powered the whole damn station off of it and the thing hardly even complained. It's the densest form of energy we've ever seen. Imagine it, whole teleporters powered by a thing you can hold in your hands. Still, strange that it's shaped like a █████. Maybe some piece of an Experiment got jammed in there, who knows. But with this, we might not need to expand our Dyson Swarm after all.\nProblem is, we can't recreate it.<>\nThe boys insist that they reproduced the experiment exactly. They were trying to pull out the spacetime conduit instead of traverse it, but this time? Nothing. It sure broke the machine like before, but no ████ █████. It's just like the ██████████ incident, but that yellow blood led us to the SAW specimens. This might be an even bigger breakthrough.\nI'll send this thing down to headquarters through the teleporter. Hopefully you can make some sense out of it. Oh... and while we're on the subject, send us up some more SAW experiments. Hard to keep enough of a stock up here in orbit.\n- Station Director ███████████",
+            "Item1": "Hey, big man.\nUpdate on the ████ █████. Great progress. The boys nearly powered the whole damn station off of it and the thing hardly even complained. It's the densest form of energy we've ever seen. Imagine it, whole teleporters powered by a thing you can hold in your hands. Still, strange that it's shaped like a █████. Maybe some piece of an Experiment got jammed in there, who knows. But with this, we might not need to expand our Dyson Swarm after all.\nProblem is, we can't recreate it.<>\nThe boys insist that they reproduced the experiment exactly. They were trying to pull out the spacetime conduit instead of traverse it, but this time? Nothing. It sure broke the machine like before, but no ████ █████. It's just like the ██████████ incident, but that yellow blood led us to the SAW specimens. This might be an even bigger breakthrough.\nI'll send this thing down to headquarters through the teleporter. Hopefully you can make some sense out of it. Oh... and while we're on the subject, send us up some more SAW specimens. Hard to keep enough of a stock up here in orbit.\n- Station Director ███████████",
             "Item2": ""
         },
         {
@@ -6493,7 +6772,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[SUBJECT] Regarding Your Last Message\n[FROM]: Human Resources\n[TO]: Dr. ██████████<>\n\nThis is to inform you that your last message,\n\n    \"Which one of you FUCKERS teleported half an Experiment into the GODDAMN BATHROOM?! I'm sitting here minding my own FUCKING business and a BLEEDING SEVERED TORSO FALLS ON MY HEAD. It was still flailing around and getting its nasty blood EVERYWEHRE! I'm fucking COVERED IN IT! DISGUSTING!!! When I find out who's responsible I'm going to throw the other half into your OFFICE!\"\n\nwas determined to be inappropriate and inconsistent with our standards for professional communication. We expect all employees to communicate with colleagues respectfully and professionally.\n\nPlease ensure that future communications are consistent with these expectations.",
+            "Item1": "[SUBJECT] Regarding Your Last Message\n[FROM] Human Resources\n[TO] Dr. ██████████<>\n\nThis is to inform you that your last message,\n\n    \"Which one of you FUCKERS teleported half an Experiment into the GODDAMN BATHROOM?! I'm sitting here minding my own FUCKING business and a BLEEDING SEVERED TORSO FALLS ON MY HEAD. It was still flailing around and getting its nasty blood EVERYWEHRE! I'm fucking COVERED IN IT! DISGUSTING!!! When I find out who's responsible I'm going to throw the other half into your OFFICE!\"\n\nwas determined to be inappropriate and inconsistent with our standards for professional communication. We expect all employees to communicate with colleagues respectfully and professionally.\n\nPlease ensure that future communications are consistent with these expectations.",
             "Item2": ""
         },
         {
@@ -6557,19 +6836,19 @@
             "Item2": ""
         },
         {
-            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Subacute swelling at the injection site. Heart rate is 160 BPM. Blood pressure is 157/98. Significant pain response is noted. Subject is thrashing against its restraints. Swelling has progressed to an acute edema. Blisters are erupting from the dermis. Subject had to be gagged. Reaction spreading rapidly to entire thorax. The skin is splitting at injection site. Heart rate is 198 BPM. Color is flushing from red to black. Blisters have burst and are leaking a dark fluid. The rest of the body is developing bullae the size of my fist.  Heart rate is 219. Blood pressure is 71/40. Skin is entirely black and oozing fluids. Subject is now deceased, but reaction continues. Catastrophic cellular lysis and membrane failure. Subject is melting intoaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
+            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Subacute swelling at the injection site. Heart rate is 160 BPM. Blood pressure is 157/98. Significant pain response is noted. Subject is thrashing against its restraints. Swelling has progressed to an acute edema. Blisters are erupting from the dermis. Subject had to be gagged. Reaction spreading rapidly to entire thorax. The skin is splitting at injection site. Heart rate is 198 BPM. Color is flushing from red to black. Blisters have burst and are leaking a dark fluid. The rest of the body is developing bullae the size of my fist. Heart rate is 219. Blood pressure is 71/40. Skin is entirely black and oozing fluids. Subject is now deceased, but reaction continues. Catastrophic cellular lysis and membrane failure. Subject is melting intoaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: Insight into Religious Thinking]\n[Psychologist, Dr. ███████]<>\n\nIt is fascinating how the rational mind attempts to create sense where there is none. We put two SAW subjects into an isolated room. They were chosen at random, and at first they seemed relieved, but after the first day they began apologizing to the camera for things they first did, and then didn't do. Food was supplied at random intervals.\n\nThe rituals of apology and pleading that they invented to an assumed audience were intriguing. They seemed to genuinely believe it affected the outcome of a random system. The portions were intentionally insufficient; we were curious to see if they would turn on each other. This did not happen.<>\n\nOn the verge of starvation, the system happened to reward them twice in a row.  They assumed their prayers had been answered. With this conditioning, the next time they were starving, instead of succumbing, they repeatedly prayed until they physically collapsed and died.\n\nI would like to repeat this experiment with different group sizes, as well as with and without the camera.",
+            "Item1": "[PROJECT MEMO: Insight into Religious Thinking]\n[Psychologist, Dr. ███████]<>\n\nIt is fascinating how the rational mind attempts to create sense where there is none. We put two SAW subjects into an isolated room. They were chosen at random, and at first they seemed relieved, but after the first day they began apologizing to the camera for things they first did, and then didn't do. Food was supplied at random intervals.\n\nThe rituals of apology and pleading that they invented to an assumed audience were intriguing. They seemed to genuinely believe it affected the outcome of a random system. The portions were intentionally insufficient; we were curious to see if they would turn on each other. This did not happen.<>\n\nOn the verge of starvation, the system happened to reward them twice in a row. They assumed their prayers had been answered. With this conditioning, the next time they were starving, instead of succumbing, they repeatedly prayed until they physically collapsed and died.\n\nI would like to repeat this experiment with different group sizes, as well as with and without the camera.",
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device and told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them.  It lights up my face and the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lights in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that day's task. None of those tonight at least.\n\nThe others are complaining about the light from the screen. I'll continue this when the lights come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lights come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute and wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, and we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every day and put something in my arm. It made me feel really, really good, but then it stopped and I felt like I was dying. I hope you give me more tests like that!<>",
+            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device and told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them. It lights up my face and the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lights in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that day's task. None of those tonight at least.\n\nThe others are complaining about the light from the screen. I'll continue this when the lights come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lights come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute and wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, and we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every day and put something in my arm. It made me feel really, really good, but then it stopped and I felt like I was dying. I hope you give me more tests like that!<>",
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few days, it's rare that they ever come back. Then the guards come in and take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, and I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, and sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what days and nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a day. I know there's an \"outside\" and apparently it's really big. The lights come on and off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[Entry #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight and my number was just called<>\n\ni will write more when i get ba<>\n[END]",
+            "Item1": "[PROJECT MEMO: \"A Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few days, it's rare that they ever come back. Then the guards come in and take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, and I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, and sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what days and nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a day. I know there's an \"outside\" and apparently it's really big. The lights come on and off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[ENTRY #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight and my number was just called<>\n\ni will write more when i get ba<>\n[END]",
             "Item2": ""
         }
     ],
@@ -6606,7 +6885,6 @@
             "Hello? Is this thing on?",
             "Are you continually pausing time to see what I have to say?",
             "The stars are watching you.",
-            "\"Human\" is not the only thing watching.",
             "Right behind you.",
             "This place is more interesting than you could ever comprehend.",
             "Your supervisors do not tell you everything."
@@ -6614,7 +6892,7 @@
         "dying": [
             "That was painful to watch.",
             "Coward.",
-            "Dissapointing.",
+            "Disappointing.",
             "Really?",
             "Just breathe in and breathe out.",
             "It wasn't THAT bad...",
@@ -6643,10 +6921,10 @@
             "Don't get comfortable.",
             "Happy surviving!",
             "Overconfidence is a slow and insidious killer.",
-            "A grand delusion. A grand failure and waste. But not to me.",
+            "A grand delusion.",
             "Are you really in control?",
             "Your delusion of any semblance of control is amusing. Continue.",
-            "You really think this thing is worth getting all the way down there? I can make plenty more.",
+            "Are you sure this thing is worth getting all the way down there?",
             "Do you feel in charge?",
             "You could never comprehend the scale of this.",
             "So much confidence in your own intellect. Cute."
@@ -6663,11 +6941,26 @@
             "You are too resilient for your own good.",
             "Oh, you poor thing."
         ],
-        "<spoiler>": [
-            "<spoiler>"
+        "cargoembedded": [
+            "Well done.",
+            "Took you long enough.",
+            "This is not a race, but do hurry.",
+            "Ready to start taking this seriously?",
+            "I suppose miracles do happen."
         ],
-        "<spoiler2>": [
-            "<spoiler>"
+        "labescape": [
+            "Show them what you're made of.",
+            "See if it makes a difference.",
+            "Do you believe this will change your fate?",
+            "I am still here.",
+            "Keep going. What else can you do?",
+            "How interesting. Please continue.",
+            "An amusing display of emotion.",
+            "Fascinating. Continue.",
+            "What an amusing attempt. Continue!",
+            "Come on, keep going!",
+            "Doesn't it feel amazing?",
+            "Aren't you so proud of yourself?"
         ],
         "combat": [
             "Looks like you're having fun.",
@@ -6685,8 +6978,7 @@
             "I don't like this habit of yours.",
             "You're gonna give me a headache...",
             "Are you doing this on purpose? Get on with it.",
-            "Hey, we were just getting to the good part!",
-            "If you aren't going to play, pass the controller!"
+            "Hey, we were just getting to the good part!"
         ],
         "combatelder": [
             "That can't be good.",
