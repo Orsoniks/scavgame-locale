@@ -1,6 +1,6 @@
 {
     "name": "Español (España)",
-    "description": "Traducción comunitaria al español de España. Original de Maksklv2010, con la colaboración de Fhursday. Cobertura de nuevas versiones, mantenimiento y coordinación: en2que. Revisión integral, definición del estilo y traducción de nuevos textos: Iter-bite y JaGarLo. Con aportaciones de WereWhusky, Zilat, Zorpolar y el equipo de la traducción latinoamericana.\n\nSi encuentras errores o tienes sugerencias, avísanos en el canal cu-translations del Discord oficial del juego.",
+    "description": "<color=\"white\">Español de España</color>\nTraducción comunitaria\n\n<color=\"#DDBF84\">Equipo principal</color>\n<color=\"white\"><b>en2que · Iter-bite (Íter) · JaGarLo</b></color>\n\n<b>en2que</b>: cobertura de nuevas versiones, mantenimiento, coordinación y pruebas de prelanzamiento.\n\n<b>Iter-bite (Íter) y JaGarLo</b>: revisión integral, definición del estilo y traducción de nuevos textos.\n\n<color=\"#DDBF84\">Traducción original</color>\n<color=\"white\">Maksklv2010</color>, con la colaboración de <color=\"white\">Fhursday</color>.\n\n<color=\"#DDBF84\">Con aportaciones de</color>\n<color=\"white\">WereWhusky, Zilat, Zorpolar</color> y el equipo de la traducción latinoamericana.\n\n<color=\"#DDBF84\">Errores y sugerencias</color>\nAvísanos en <color=\"white\">cu-translations</color>, en el Discord oficial del juego.\n<color=\"white\">https://discord.gg/targetplanet</color>\n\nÚltima actualización: 7 de noviembre de 2026.",
     "version": "1.0-Pre13",
     "main": {
         "bandage": "Vendaje",
