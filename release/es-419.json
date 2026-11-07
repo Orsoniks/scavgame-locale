@@ -1,7 +1,7 @@
 {
     "name": "Español (Latinoamérica)",
-    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat,</color> <color=\"orange\">ItsVoidSK,</color> <color=\"yellow\">Derkala,</color> <color=\"#bbff54\">IzaCarlos,</color> <color=\"#00ffff\">Zorpolar,</color> <color=\"blue\">LeonixMG y</color> <color=\"purple\">JuanMC45.</color>",
-    "version": "1.0-Pre14",
+    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat,</color> <color=\"orange\">ItsVoidSK,</color> <color=\"yellow\">Derkala,</color> <color=#bbff54>IzaCarlos,</color> <color=#00ffff>Zorpolar,</color> <color=\"blue\">LeonixMG y</color> <color=\"purple\">JuanMC45.</color>",
+    "version": "1.0",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de vendas con ligadura, usado para detener el sangrado, estabilizar fracturas y ayudar a sanar la piel. No ayuda a sanar el músculo.",
@@ -1536,7 +1536,7 @@
         "clicktocontinuealt": "Clic para continuar...",
         "favourite": "Objeto favorito",
         "favouriteditem": "Los objetos marcados como favoritos no se usarán para crear objetos",
-        "customizeitem": "Personalizar objeto",
+        "customizeitem": "Renombrar objeto",
         "mainhand": "Mano primaria",
         "secondaryhand": "Mano secundaria",
         "mouth": "Boca",
@@ -1787,7 +1787,7 @@
         "gamesetwoundview": "Panel de salud",
         "gamesetcraft": "Menú de creación",
         "gamesetfavourite": "Marcar como favorito",
-        "gamesetcustomizeitem": "Personalizar objeto",
+        "gamesetcustomizeitem": "Renombrar objeto",
         "gamesettoggleinventory": "Abrir/Cerrar inventario",
         "gamesetspeed1": "Velocidad normal",
         "gamesetspeed2": "Velocidad rápida",
@@ -4188,19 +4188,19 @@
                 "Lo hice... ¿Lo hice...? Hmmh... Debe estar por aquí esa cosa... Terminemos con esto."
             ],
             "cargo1": [
-                "I... I think this... Is... it..?"
+                "¿Cr... Creo que es... este... coso...?"
             ],
             "cargo2": [
-                "That... Is not a batt....wh... W-what's it... Doing..?"
+                "Eso... no es una bate....¿qu... Qué está... Haciendo...?"
             ],
             "cargoimpale": [
-                "AAAGHH! WHAT THE HELL!? WHY?"
+                "¡AAAHHH! ¿¡QUÉ DEMONIOS!? ¿POR QUÉ?"
             ],
             "cargoimpale2": [
-                "H-hmm... Well... I... I do feel... Empowered by this..? I feel... L-lighter."
+                "M-mmm... Pues... Me... siento... con energía, ¿por esto...? Me siento... L-liviano."
             ],
             "cargoimpale3": [
-                "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
+                "E... E-en serio lo hice... Bueno... Ya... No nos confiemos mucho... Creo que puedo usar esa cápsula para volver. Salgamos a la superficie."
             ],
             "endlessloop0": [
                 "¿...Quu-ué...qué...? ¿Qué? ¿Por qué? ¿Qué pasó...? ¿Por qué estoy otra vez aquí...? Hnn... ¿Qué acaba de pasar...?"
@@ -4209,7 +4209,7 @@
                 "...Esto no está yendo como esperaba... No sé qué más podría hacer... Pues. Ugh. Me imagino que a la tercera es la vencida..."
             ],
             "endlessloop2": [
-                "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
+                "¡¡UUUSSSHHHHH!! ¿QUÉ SE SUPONE QUE DEBO HACER!? A la mierda... con ese corazón... Grrrhh...De todos modos tengo que seguir descendiendo para sobrevivir. Qué desastre tan mierda."
             ],
             "endlessloop3": [
                 "¡Bueno! No voy a poder salir de aquí, ¿verdad?... Creo que ya me estoy acostumbrando."
@@ -4218,54 +4218,54 @@
                 "Oh, solo damos vueltas y vueltas..."
             ],  
             "endpodexamine": [
-                "C-cargo... First..."
+                "Primero el... c-cargamento..."
             ],
             "ascententer": [
-                "Looks like thats as far as it'll go... The only way's up. Let's go."
+                "Creo que hasta aquí llegó esta cosa... La única salida es seguir hacia arriba. Vamos."
             ],
             "labenter": [
-                "(I'll comply for now... Trying to go against them would get me killed. Maybe I'll find an opportunity...)"
+                "(Les seguiré el juego por ahora... Intentar desobedecerlos harán que me maten. Puede que encuentre una oportunidad...)"
             ],
             "labresponse": [
-                "(...Like hell I'm talking to them. Not after...that.)"
+                "(...Como si fuera a hablarles. No después de...eso.)"
             ],
             "labthink1": [
-                "(This is the moment... If... If I had a gun, or something...)"
+                "(Es ahora o nunca... Si... Si tuviera un arma o algo...)"
             ],
             "labthink2": [
-                "(I could... Kill him. Shoot that thing on the ceiling... Go through that grate. Escape..?)"
+                "(Podría... Matarlo. Dispararle a esa cosa en el techo... Irme en esa rejilla. ¿Y escapar...?)"
             ],
             "labthink2chip": [
-                "(I could... No. I can't. They'd kill me with the chip. Damn it.)"
+                "(Podría... No. No puedo. Me matarán con este chip. Maldita sea.)"
             ],
             "labshoot": [
-                "NNGGRRAAAAHHHH!! FUCK YOU!!! I'M NOT TAKING ANY MORE OF YOUR SHIT!!!"
+                "¡¡NNGGRRAAAAHHHH!! ¡¡¡VETE A LA MIERDA!!! ¡¡¡NO AGUANTO MÁS TODA ESTA MIERDA!!!"
             ],
             "labcommentcalm": [
-                "Nghh... Grrh... They'll pay...",
-                "They'll pay for this...",
-                "Sufffer...the consequences...",
-                "So done. With. This. SHIT!",
-                "Go to hell. Go to hell. All of you...",
-                "It's the end.",
-                "Fuckers. Fuckers. Fuckers. Dipshits.",
-                "No one will care when they go missing.",
-                "(Nothing can stop me.)",
-                "Win stupid fucking prizes..."
+                "Nghh... Grrh... Lo van a pagar...",
+                "Pagarán por esto...",
+                "Sufran...las consecuencias...",
+                "Me harté. De. Esta. ¡MIERDA!",
+                "Váyanse al infierno. Al infierno. Todos ustedes...",
+                "Es el fin.",
+                "Putos. Hijos de puta. Hijueputas. Putos Imbéciles.",
+                "A nadie le importará cuando se vayan.",
+                "(Nada puede detenerme.)",
+                "Se lo buscaron por idiotas..."
             ],
             "labcommentcombat": [
-                "FUCK YOU!! FUCK YOU!!!! FUCK ALL OF YOU!!!!",
-                "I'LL WATCH THE LIFE DRAIN OUT OF YOUR EYES!!!",
-                "TO HELL WITH YOU!!!",
-                "NO MORE OF THIS SHIT!!",
-                "I'M DONE WITH THESE GAMES!!",
-                "GRRRAAHHHHH!!",
-                "WHO DO YOU THINK YOU FUCKING ARE!?",
-                "NO ONE WILL REMEMBER YOU!!",
-                "YOU'LL ALL PAY FOR WHAT YOU'VE DONE!!",
-                "I'M NOT GOING DOWN!!",
-                "YOU COATED FUCKS!!",
-                "¡¡¡VETE AL INFIERNO!!!!"
+                "¡¡PÚDRETE!! ¡¡¡¡PÚDRETE!!!! ¡¡¡¡TODOS USTEDES PÚDRANSE!!!!",
+                "¡¡¡VERÉ COMO SUS VIDAS SE APAGAN DE SUS OJOS!!!",
+                "¡¡¡ME LOS LLEVO AL INFIERNO!!!",
+                "¡¡YA NO MÁS DE ESTA MIERDA!!",
+                "¡¡ME CANSÉ DE JUGAR!!",
+                "¡¡GRRRAAHHHHH!!",
+                "¿¡QUIÉN MIERDA SE CREEN QUE SON!?",
+                "¡¡NADIE TE RECORDARÁ!!",
+                "¡¡PAGARÁN TODO POR LO QUE HAN HECHO!!",
+                "¡¡NO VOY A CAER!!",
+                "¡¡BATAS DE MIERDA!!",
+                "¡¡¡¡VETE AL INFIERNO!!!!"
             ],
             "vomitresponse": [
                 "Uuummm... ¿Estás bien...?"
