@@ -5061,22 +5061,22 @@
                 "Hola, pitido. ¿Qué querrá decir esto?"
             ],
             "wwmr": [
-                "All according to plan. It appears the objective is within reach. I must focus."
+                "Según lo planeado. Parece que el objetivo está al alcance. Debo concentrarme."
             ],
             "cargo1": [
-                "...Odd."
+                "... Que extraño."
             ],
             "cargo2": [
-                "At long last, I have... H-H... What..?"
+                "¡Por fin, al fin he... H-H... ¿Qué...?"
             ],
             "cargoimpale": [
-                "T-this... Was... Not in my... L-list of expectations..."
+                "E-esto... No estaba... en mi... l-lista de expectativas..."
             ],
             "cargoimpale2": [
-                "Ghh... I-it is... Really... Lodged inside... Yet... It is relieving..."
+                "Ghh... S-se siente... muy... incrustado... Pero a la vez... es un alivio..."
             ],
             "cargoimpale3": [
-                "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+                "Hh. Concéntrate. Muy bien. Es totalmente lógico que esto formara parte de lo planeado. Procederé a entrar en esta cápsula de perforación y subiré."
             ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okey. No... N-no. Es lo que. Estaba e-esperando. Debí de haber hecho algo mal. Regresaré y lo i-intentaré de nuevo."
@@ -5094,51 +5094,51 @@
                 "......*suspiro*"
             ],
             "endpodexamine": [
-                "It is unpowered. I likely would be able to start it with medium effort."
+                "No tiene energía. Probablemente sea capaz de ponerla en marcha con un esfuerzo moderado."
             ],
             "ascententer": [
-                "The pod has ceased to function. It is time to ascend on foot. There is little distance left."
+                "La cápsula ha dejado de funcionar. Es hora de ascender a pie. Ya queda poca distancia."
             ],
             "labenter": [
-                "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue with a level head.)"
+                "(Siento un profundo resentimiento hacia los batas... Aun así, no puedo actuar ahora. Debo mantener la cabeza fría y continuar.)"
             ],
             "labresponse": [
-                "(...Huh. That was NOT part of their plan?)"
+                "(...¿Eh? ¿Eso NO formaba parte de su plan?)"
             ],
             "labthink1": [
-                "(The time is now. They will not see it coming.)"
+                "(Es el momento. No se lo verán venir.)"
             ],
             "labthink2": [
-                "(Shoot the coat. Shoot the turret. Go through grate. It will be difficult, but I cannot let myself comply with these monsters.)"
+                "(Disparar al bata. Disparar a la turreta. Cruzar por la rejilla. Será difícil, pero no puedo permitirme ceder ante estos monstruos.)"
             ],
             "labthink2chip": [
-                "(Shoot the......No. This chip will not allow me to go against them. I have failed. To them, I have succeeded.)"
+                "(Disparar al...... No. Este chip no me permitirá ir en contra de ellos. He fracasado. Para ellos, lo he logrado.)"
             ],
             "labshoot": [
-                "TO HELL WITH YOU!!! YOU WILL PAY FOR WHAT YOU'VE DONE!!!"
+                "¡¡¡VÁYANSE AL INFIERNO!!! ¡¡¡VAN A PAGAR POR LO QUE HAN HECHO!!!"
             ],
             "labcommentcalm": [
-                "They will...pay...",
-                "No more games.",
-                "Go hell with everyone involved...",
+                "Van a... pagar...",
+                "Se acabaron los juegos.",
+                "Al infierno con todos los involucrados...",
                 "..Grrhh...",
-                "(I'm taking my freedom.)",
-                "They all deserve this.",
-                "(I'm scared.)",
-                "Ggh...dipshits...",
-                "(No one will miss them when they're gone.)"
+                "(Voy a reclamar mi libertad.)",
+                "Todos se merecen esto.",
+                "(Tengo miedo.)",
+                "Ggh... idiotas de mierda...",
+                "(Nadie los va a extrañar cuando ya no estén.)"
             ],
             "labcommentcombat": [
-                "NNGRRAAHHH! DIE!",
-                "TO HELL WITH ALL OF YOU!!!",
-                "YOU'RE GOING DOWN WITH ME!!",
-                "YOU'VE GOTTEN AWAY WITH THIS FOR TOO LONG!!",
-                "CALL FOR BACKUP!! I DARE YOU!!",
-                "I WILL FUCKING DEVOUR YOU!!",
-                "DIE!!",
-                "SCREAM FOR HELP!!! COME ON!!",
-                "YOU THINK YOU CAN STOP ME!?",
-                "YOUR TIME HAS COME!!"
+                "¡NNGRRAAHHH! ¡MUERAN!",
+                "¡¡¡TODOS USTEDES VÁYANSE AL INFIERNO!!!",
+                "¡¡SE VAN A IR AL INFIERNO CONMIGO!!",
+                "¡¡SE HAN SALIDO CON LA SUYA POR MUCHO TIEMPO!!",
+                "¡¡LLAMEN REFUERZOS!! ¡¡A VER SI SE ATREVEN!!",
+                "¡¡LOS VOY A COMER VIVOS, HIJOS DE PUTA!!",
+                "¡¡MUERAN!!",
+                "¡¡GRITEN POR AYUDA!! ¡¡VENGAN!!",
+                "¿¡CREEN QUE PUEDEN DETENERME!?",
+                "¡¡LES LLEGÓ SU HORA!!"
             ],
             "tradermeetnormal": [
                 "Saludos.",
