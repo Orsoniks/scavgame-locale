@@ -1,7 +1,7 @@
 {
     "name": "Español (Latinoamérica)",
     "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat,</color> <color=\"orange\">ItsVoidSK,</color> <color=\"yellow\">Derkala,</color> <color=\"#bbff54\">IzaCarlos,</color> <color=\"#00ffff\">Zorpolar,</color> <color=\"blue\">LeonixMG y</color> <color=\"purple\">JuanMC45.</color>",
-    "version": "1.0-Pre13",
+    "version": "1.0-Pre14",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de vendas con ligadura, usado para detener el sangrado, estabilizar fracturas y ayudar a sanar la piel. No ayuda a sanar el músculo.",
