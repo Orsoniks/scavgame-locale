@@ -1,7 +1,7 @@
 {
     "name": "简体中文",
     "description": "<color=\"white\">注意：本文件为社区翻译，并非 ORO 或 Orsoniks 官方作品。仅在校对环节得到了发行商 ORO 及其合作方的协助。</color>\n\n<color=\"white\">主要汉化人员：</color>\n<color=\"yellow\">XiaoCai、Akiras、Lio_FX、Lexic、AlCl3</color>\n\n<color=\"white\">感谢以下前辈们在早期简体中文汉化中做出的贡献：</color>\n月曦MonXi、影月炎YUN、戈伦、JiYv、义锦、黑藓Black_Moss、7.62X51mmNATOm1185lr、楠枫灯、软盘、SLLLLLLLLUG、一只叫芒果的CAT、焰羽\n\n\n<color=\"white\">本汉化以贴近原文表达为目标，尽量保留原作的氛围与沉浸感，祝你生存愉快！</color>",
-    "version": "1.0-Pre14",
+    "version": "1.0",
     "main": {
         "bandage": "绷带",
         "bandagedsc": "一卷带有敷料的绷带，用于减缓出血、固定骨折并促进皮肤愈合。对肌肉健康无效。",
