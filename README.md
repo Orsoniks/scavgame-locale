@@ -16,6 +16,22 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
    
    <img src="docs/Install_LangSelect.png" height="300" />
 
+## Release locales
+
+**The game has not been released yet. At the moment, this section is for translators only.**
+
+This is a list of all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
+
+| File | Locale State | Contributors |
+|------|--------------|--------------|
+| [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
+| [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
+| [Español (España)](/release/es-ES.json) | v1.0-Pre13 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que), [Iter-bite](https://github.com/Iter-bite), [JaGarLo](https://github.com/JaGarLo) |
+| [Русский (Россия)](/release/ru-RU.json) | v1.0 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
+| [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
+| [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0-Pre3 (+bccaab7) | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry), Weird Cat, Just Cyrus, Vee |
+| [한국어 (대한민국)](/release/ko-KR.json) | *To be filled by maintainers* | [ControlCaret](https://github.com/ControlCaret), [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
+
 ## Demo locales
 
 This is a list of all of the locales available for the [demo version](https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/) of the game.
@@ -48,21 +64,6 @@ The first column links to the locale file that you need to download.
 | [Tiếng Việt (Vietnam)](/demo/vi-VN.json)| v7.7.9 (+f7b5136) | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry), Weird Cat, Just Cyrus|
 | [简体中文 (中国)](/demo/zh-CN.json) | v7.7.9 (+f7b5136) | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, [AlCl3](https://github.com/ALOHCL), [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX), [Akiras](https://github.com/AkiraStation), [Lexic](https://github.com/lex2c), [焰羽](https://github.com/yanyu220404)|
 | [繁體中文 (台灣)](/demo/zh-TW.json) | v5.1 | [黑藓Black_Moss](https://github.com/Black-Moss), [A9800X3D](https://github.com/A9800X3D), [吃吃/Rar](https://github.com/rar0205) |
-
-## Release locales
-
-**The game has not been released yet. At the moment, this section is for translators only.**
-
-This is a list of all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
-
-| File | Locale State | Contributors |
-|------|--------------|--------------|
-| [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
-| [한국어 (대한민국)](/release/ko-KR.json) | *To be filled by maintainers* | [ControlCaret](https://github.com/ControlCaret), [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
-| [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
-| [Русский (Россия)](/release/ru-RU.json) | v1.0-Pre13 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
-| [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
-| [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0-Pre3 (+bccaab7) | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry), Weird Cat, Just Cyrus, Vee |
 
 ## Contributing
 
