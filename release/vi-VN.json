@@ -2811,10 +2811,10 @@
                 "Mình không ăn thêm được...",
                 "Mình cần dừng ăn.",
                 "Mình sẽ lên kí nếu tiếp tục như này cho mà coi...",
-                "Mình cần phải dừng ăn",
+                "Mình cần phải dừng ăn.",
                 "No rồi!",
                 "Tiếp như này là mình nôn mất.",
-                "Ăn đủ rồi",
+                "Ăn đủ rồi.",
                 "Mình nôn mất...",
                 "Mình nghĩ mình sắp nôn...",
                 "Mình no rồi!"
@@ -3046,7 +3046,7 @@
             ],
             "depressed": [
                 "Mình không thể chịu đựng thêm nữa.",
-                "...Tại sao mình lại cố gắng làm gì?",
+                "...Mình cố gắng tiếp tục làm gì chứ??",
                 "Mình nên... cứ... buông xuôi...",
                 "Mình không thể tiếp tục như thế này nữa...",
                 "Mình có nên... tiếp tục cố gắng không?",
@@ -3071,7 +3071,7 @@
                 "Mình cần phân tâm bản thân.",
                 "...Không....Ổn....",
                 "Mình cảm thấy tồi tệ một cách chân thật.",
-                "Mẹ KIẾP!",
+                "KHỐN NẠN thật!",
                 "Mình muốn khóc...",
                 "Trờờờiiii ơơơiii...",
                 "Mình có thể nằm xuống và chết ngay tại chỗ.",
@@ -3147,81 +3147,81 @@
                 "Mình đã chết ngay giây phút mình đến đây."
             ],
             "selfharm": [
-                "Hahahaha... KHỐN KIẾP tuyệt... Tốt lắm...",
-                "Thếeee tốt hơnnnn... Ahahaha... Tuyệt vời chết đi được...",
-                "Ôi đúng rồi... Khốn kiếp tuyệt... MẸ KIẾP tuyệt...",
-                "Mmhh... Khốn kiếp... Hahahaha... Cái này tốt...",
-                "Màyyyy thấy saoooo... Thằng khốn... Ahaha... MẸ mày... Mẹ mày... Tốt...",
-                "Khốn kiếp, hahah... Cảm giác đó thật tuyệt vời...",
-                "AAGH! MẸ KIẾP ĐÚNG RỒI! Quá tuyệt vời...",
-                "MẸ KIẾP! HAHAHAHA! CHẾT TIỆT QUÁ TUYỆT..!",
+                "Hahahaha... Tuyệt CHẾT ĐƯỢC... Tốt lắm...",
+                "Thếeee tốt hơnnnn rồiii... Ahahaha... Tuyệt vời chết đi được...",
+                "Ôi đúng rồi... Tuyệt con mẹ nó vời... Tuyệt CON MẸ NÓ vời luôn...",
+                "Mmhh... Khốn kiếp... Hahahaha... Tuyệt thật...",
+                "Màyyyy thấy saoooo... Thứ khốn nạn... Ahaha... MẸ mày... Mẹ mày... Tuyệt...",
+                "Khốn kiếp, hahah... Cảm giác đó tuyệt vời thật...",
+                "AAGH! PHẢI VẬY CHỨ! Tuyệt vời chết đi được...",
+                "MẸ KIẾP! HAHAHAHA! TUYỆT CHẾT ĐƯỢC..!",
                 "Chỉ một vết cắt nhỏ... Thêm nữa... Ahahah... Khốn kiếp...",
-                "Ouch-... N-như vậy là tốt... Khốn kiếp... Thật tuyệt...",
-                "MẸ KIẾP! Hahaha! MẸ KIẾP tuyệt! Hahahaha...",
-                "Đó là những gì... mày nhận được... Thằng khốn... Mẹ mày... Hahahaha...",
-                "Nào... làm thôi... hahah... tốt...",
-                "Thế sẽ.. khốn kiếp... Yeaaahhh... Thế là đủ... Haha...",
-                "Y-Yeah... nhận lấy này... Thằng khốn... Sẽ đau lắm đây...",
+                "Ui-... N-như vậy là được... Khốn kiếp... Tuyệt thật...",
+                "MẸ KIẾP! Hahaha! Tuyệt CON MẸ NÓ vời! Hahahaha...",
+                "Đó là những gì... mày nhận được... Thứ khốn nạn... Mẹ mày... Hahahaha...",
+                "Ta... làm thôi... hahah... tốt...",
+                "Thế sẽ.. khốn kiếp... Yeaaahhh... Vậy là được... Haha...",
+                "Y-Yeah... nhận lấy này... Thứ khốn nạn... Đau sẽ sướng lắm đây...",
                 "Mày đáng bị như vậy... Haha... Đau tuyệttt...",
-                "AAHHAHA!! KHỐN KIẾP tuyệt... Mẹ kiếp tuyệt. Hahaha... Đau...",
-                "Hahah... thế tốt hơn... phải... Tốt hơn nhiều...",
+                "AAHHAHA!! Tuyệt CHẾT ĐƯỢC... Mẹ kiếp thật. Hahaha... Đau...",
+                "Hahah... thế mới phải... ừ... Tốt hơn nhiều rồi...",
                 "Nàooooo thế chứ... Đau đènnn đẹtt...",
-                "Hehhehheh... cái đó đau chết tiệt... đau tốt...",
+                "Hehhehheh... cái đó đau chết được... đau đã thật...",
                 "Cái đó... hahah... đau tốt... Tuyệt...",
-                "Khoaaaan chấm dứt mọi chuyện đã... K-khốn kiếp... Tốt thật đấy...",
+                "Khoaaaan chấm dứt mọi chuyện đã... K-khốn kiếp... Đã thật đấy...",
                 "Mình không cần đống thịt đó... Ggrhh... Haha... Thêm nữa đi...",
                 "K-khốn kiếp... Ahahaha... Cảm giác thật tuyệt...",
                 "Tốốốốtttt.... Mmmh... Cuối cùng... Cuối cùng... Cực kỳ tuyệt vời... Mmmhh...",
-                "C-có thể... Có thể mình sẽ tự vẫn vào lần tới... Hahaha..."
+                "C-có lẽ... Có lẽ mình sẽ tự vẫn vào lần tới... Hahaha..."
             ],
             "angeronitem": [
                 "UGH! MẸ cái thứ này! Grhh..."
             ],
             "suicide": [
-                "Tạm biệt. TẠM BIỆT. Tao XONG RỒI!!! MẸ KIẾP TẤT CẢ MỌI THỨ!",
-                "Tao xong rồi. Mẹ kiếp chuyện này, mẹ kiếp mình và MẸ mày.",
-                "Tao đã nói với mày rồi. TAO ĐÃ NÓI rồi mà, đồ rác rưởi. Tao XONG RỒI!",
-                "Tao sẽ rời khỏi thế giới khốn khiếp này một lần và mãi mãi.",
-                "Bình yên. Tạm biệt. Khốn kiếp chuyện này. Tao cút mẹ nó đây. Tao sẽ xuống địa ngục vì điều này.",
-                "Tao ĐÃ CHỊU ĐỦ với tất cả chuyện này. Tao XONG RỒI! BIẾN ĐI!!!",
-                "Đến đường cùng rồi, thằng khốn. Đến đường con mẹ nó cùng rồi. TAO PHẮN ĐÂY!!!",
+                "Tạm biệt. TẠM BIỆT. Tao BỎ ĐÂY!!! DẸP HẾT ĐI!",
+                "Tao bỏ cuộc. Dẹp mẹ chuyện này đi, mẹ kiếp mình và MẸ KIẾP bọn mày.",
+                "Tao đã nói với bọn mày rồi. TAO ĐÃ NÓI rồi mà, thứ khốn nạn. Tao BỎ CUỘC!",
+                "Tao sẽ rời khỏi thế giới chết tiệt này một lần và mãi mãi.",
+                "Thân. Tạm biệt. Dẹp mẹ nó chuyện này đi. Tao phắn đây. Tao sẽ xuống địa ngục vì chuyện này.",
+                "Tao ĐÃ CHỊU HẾT NỔI với tất cả chuyện này. Tao BỎ CUỘC! BIẾN ĐI!!!",
+                "Đến đường cùng rồi, thứ khốn nạn. Đến đường con mẹ nó cùng rồi. TAO PHẮN ĐÂY!!!",
                 "Thế là đủ rồi... Bái bai... Xin lỗi vì điều này... Mình hy vọng có thế giới bên kia cho mình...",
-                "Đến đây là hết. Mình hy vọng bất cứ ai tìm thấy xác tao sẽ sử dụng nó tốt. Mình không thể chịu đựng thêm nữa. Mình xin lỗi.",
-                "Chẳng còn ý nghĩa gì với chuyện này cả. CHƯA BAO GIỜ có cả. Tao sẽ kết thúc tất cả. Mẹ kiếp tao... Mẹ kiếp TẤT CẢ chuyện này.",
-                "Nếu cắt cổ tay không giết được tao, tao sẽ tự móc mắt tao ra, để không bao giờ phải nhìn thấy vùng đất kinh khủng này nữa.",
+                "Đến đây là hết. Mình hy vọng bất cứ ai tìm thấy xác của mình sẽ tận dụng nó tốt. Mình không thể chịu đựng thêm nữa. Mình xin lỗi.",
+                "Chẳng còn ý nghĩa gì với Chuyện này cả. CHƯA BAO GIỜ có cả. Tao sẽ kết thúc mọi chuyện đây. Mẹ kiếp tao... Mẹ kiếp TẤT CẢ chuyện này.",
+                "Nếu cắt cổ tay không giết được tao, tao sẽ tự móc mắt tao ra, để không bao giờ phải nhìn thấy vùng đất kinh khủng này thêm một lần nào nữa.",
                 "Mình không biết điều gì sẽ đến sau đó, nhưng cuối cùng mình cũng có thể nghỉ ngơi... Hãy thư giãn nào... Không cần cảm xúc nữa đâu...",
                 "AHHHH! DẸP MẸ ĐI! DẸP TẤT CẢ! TAO KHÔNG THỂ CHỊU ĐỰNG THÊM NỮA! CHO TAO RA KHỎI ĐÂY! TAO BỎ CUỘC!",
-                "Chịu hết nổi rồi. Tao chịu HẾT NỔI rồi. Cuối cùng tao cũng làm chuyện này... Thân. Cút con mẹ nó đây. Tao ĐI ĐÂY.",
+                "Chịu hết nổi rồi. Tao chịu HẾT NỔI rồi. Cuối cùng tao cũng làm chuyện này... Thân. Cút con mẹ nó đây. Tao BỎ ĐÂY.",
                 "Tao đã đưa ra quyết định có ý thức để kết thúc cuộc đời tao, ngay tại đây và ngay lúc này. Tạm biệt, bọn ngu ngốc.",
-                "Tao đã bảo mày... TAO ĐÃ BẢO MÀY. Đồ cặn bã... Khốn kiếp... Cháy trong tận cùng của địa ngục đi.",
+                "Tao đã bảo mày... TAO ĐÃ BẢO BỌN MÀY RỒI. Thứ cặn bã... Khốn kiếp... Cháy trong tận cùng của địa ngục đi.",
                 "Tao làm xác còn đóng góp tốt hơn cho đời. Cuộc đời tao đã kết thúc ngay khoảnh khắc tao bị gửi đến đây. Tạm biệt.",
                 "Cái này là vì TẤT CẢ mọi thứ! TAO XONG RỒI! AAAHHHH! KHỐN KIẾP TẤT CẢ MỌI THỨ!",
                 "Mình. Mình chỉ... Mình xong rồi. Không có thời gian cho thư tuyệt mệnh. Mình đã quá mệt mỏi với tất cả những thứ này. Tạm biệt.",
-                "K... không oán gì đâu... đúng không?.. hah... Mình... Mình mệt quá... N-ngủ ngon...",
+                "K... không thù oán gì đâu mà... đúng không?.. hah... Mình... Mình mệt quá... N-ngủ ngon nhé...",
                 "Mình sẽ không làm chuyện này nữa. Mình không. Kết thúc rồi. Tạm biệt. Bai. Mẹ kiếp chuyện này.",
                 "Chưa từng có hy vọng nào. KHỐN KIẾP. Chuyện này. Tao ĐI ĐÂY! ĐỂ TAO YÊN! TAO SẼ KHÔNG ĐỂ NƠI NÀY CƯỚP ĐI MẠNG SỐNG CỦA MÌNH!",
-                "Nhìììììnnnn kìa... Hahahah... Mình đang nói lời tạm biệt với vũ trụ chết tiệt này... Bỏ lại thế giới này phía sau... Thật... Nhẹ nhõm...",
-                "Đây... Nó đến rồi... Hãy tận hưởng những khoảnh khắc cuối cùng của mình nào... Thư giãn và... Chìm vào giấc ngủ... Một lần cuối...",
-                "Mình hy vọng bạn hạnh phúc với những gì mình đã làm. Đồ khốn. Khốn kiếp. KHỐN KIẾP BẠN. Xuống địa ngục đi.",
+                "Nhìììììnnnn đi kìa... Hahahah... Mình đang nói lời tạm biệt với cái vũ trụ chết tiệt này... Bỏ lại thế giới này đằng sau... Thật là... Nhẹ nhõm...",
+                "Đây... Đây rồi này... Hãy tận hưởng những khoảnh khắc cuối cùng của mình nào... Thư giãn và... Chìm vào giấc ngủ... Một lần cuối...",
+                "Tao hy vọng bọn mày thõa mãn với những gì bọn mày đã làm. Đồ khốn. Khốn kiếp. MẸ NHÀ BỌN MÀY. Xuống địa ngục hết đi.",
                 "Cổ tay mình đi rồi... Mọi chuyện sẽ sớm kết thúc thôi... Haha...",
                 "Khốn kiếp. MẸ mày. Mình XONG RỒI. TAO XONG MẸ NÓ RỒI!",
-                "Tao SẼ RỜI KHỎI cái nơi chết tiệt này, cho dù tao có thể hay KHÔNG. MẸ KIẾP NHÀ MÀY.",
-                "MẸ KIẾP chuyện này. Kết thúc MẸ NÓ rồi. Xuống địa ngục đi.",
-                "Xuống địa ngục với chuyện này đi. Mình đi đây. Đồ cặn bã. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi.",
+                "Tao SẼ CÚT MẸ KHỎI cái nơi chết tiệt này, cho dù tao có thể hay KHÔNG. MẸ KIẾP NHÀ MÀY.",
+                "MẸ KIẾP chuyện này. Kết thúc MẸ NÓ rồi. Xuống địa ngục quách đi.",
+                "Xuống địa ngục quách đi cho rồi. Tao đi đây. Lũ cặn bã. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc.",
                 "Đồ rác rưởi... Mình xong thật rồi... Khốn kiếp...",
                 "Mình đi đây. Mình hy vọng mình sẽ không phải xuống địa ngục vì chuyện này.",
                 "Họ có thể đi mà tìm cái xác khô của mình. Cứ như thể điều đó quan trọng lắm vậy.",
-                "Chẳng có gì quan trọng cả. Đây là một nhiệm vụ tự sát. Mình sẽ đéo trải qua bất cứ chuyện nào như thế này nữa.",
+                "Chẳng có gì quan trọng cả. Đây là một nhiệm vụ tự sát. Mình đéo muốn trải qua bất cứ chuyện nào như này nữa.",
                 "Tao thất bại. Tao bỏ cuộc. Mẹ kiếp chuyện này.",
                 "Chúc may mắn cho bất cứ ai đến đây sau mình. Có lẽ xác mình sẽ hữu ích cho ai đó. Mình xong rồi.",
                 "Chưa bao giờ có bất kỳ ý nghĩa khốn khiếp nào cho chuyện này. Mình được đưa đến đây để chết.",
-                "Họ đang nhận được cái thứ mà họ con mẹ nó muốn.",
+                "Họ đang nhận được cái thứ mà bọn chết tiệt đó muốn.",
                 "Mình không nghĩ mình sẽ thực sự làm điều này... Haha... Ahahahaha... Giải thoát...",
                 "Mình đang tước đi mạng sống của mình. Xin lỗi. Mình không thể. Mình đéo thể chịu đựng được nữa. Mình cực kỳ xin lỗi.",
                 "Mình hy vọng mình sẽ xuống địa ngục. Sẽ tốt hơn cái nơi chết tiệt này. Mình chịu được. Mình bỏ đây. Xin lỗi. Khốn kiếp tất cả mọi thứ.",
                 "Tạm biệt. Mình đi đây. Hẹn gặp mọi người ở phía bên kia, dưới tận cùng địa ngục.",
-                "Mẹ kiếp. Mẹ kiếp. KHỐN KIẾP. Chuyện này. TAO XONG RỒI! THẾ LÀ ĐỦ RỒI.",
-                "Xin lỗi. Mình đi đây. Tạm biệt. Mình xin lỗi. Mình vô cùng xin lỗi. Mình không thể."
+                "Mẹ kiếp. Mẹ kiếp. MẸ KIẾP chuyện này. TAO BỎ CUỘC! THẾ LÀ ĐỦ RỒI.",
+                "Xin lỗi. Mình bỏ đây. Tạm biệt. Mình xin lỗi. Mình vô cùng xin lỗi. Mình không thể."
             ],
             "refuse": [
                 "...",
@@ -3512,7 +3512,7 @@
                 "Mình bắt đầu đổ mồ hôi nhiều rồi.",
                 "Mình cần giải nhiệt.",
                 "Mình nóng không chịu nổi.",
-                "Mình cần giữ cái đầu lạnh - theo đúng nghĩa đen.",
+                "Mình cần hạ hỏa - theo đúng nghĩa đen.",
                 "Cái gì đó để làm mát mình sẽ rất tuyệt...",
                 "Mình đang bốc hỏa đây...",
                 "Ở đây hơi ấm...",
@@ -4076,7 +4076,7 @@
             ],
             "traderlightbreak": [
                 "Này, cái quái gì vậy? Sao cậu lại làm thế? Cút đi.",
-                "...Cậu thực sự nghĩ mình sẽ không nhìn thấy điều đó sao. Thằng khốn. Cút ra!",
+                "...Cậu thực sự nghĩ mình sẽ không nhìn thấy điều đó sao. Thứ khốn nạn. Cút ra!",
                 "Này! Cái quái gì thế! Mình cần cái đó! Cút ra ngay!",
                 "Ahh! TÊN TRỘM kia! Cút khỏi đây mau!",
                 "Này cậu. Được rồi... Vậy thì được. Được rồi... Mình... Uh... Làm ơn rời đi."
@@ -4189,6 +4189,21 @@
                 "Mục... Tiêu... Chắc hẳn nằm đâu đó trong này... Không lảng vảng nữa. Tiến hành thôi.",
                 "Mình làm được rồi... Mình làm được rồi..? Hmmh... Nó phải nằm đâu đó gần đây... Làm cho xong chuyện nào."
             ],
+            "cargo1": [
+                "Mình... Mình nghĩ đây... là...nó?"
+            ],
+            "cargo2": [
+                "Nó... Không phải viên p....n... N-nó đang... Làm gì vậy..?"
+            ],
+            "cargoimpale": [
+                "AAAGHH! CÁI QUÁI GÌ VẬY!? TẠI SAO CHỨ?"
+            ],
+            "cargoimpale2": [
+                "H-hừm... Ừm thì... Mình... Mình cảm thấy... Được tiếp sức bởi thứ này..? Mình cảm thấy... Nh-nhẹ hẳn."
+            ],
+            "cargoimpale3": [
+                "Mình... Mình làm được rồi... Ừ thì... Mình cần... Không nên quá tự tin đi... Mình nghĩ mình có thể dùng cái buồng đấy để trở về. Trở về mặt đất thôi."
+            ],
             "endlessloop0": [
                 "...C-cái... cái gì..? Cái gì? Tại sao? Cái gì vừa... Tại sao mình lại quay lại đây..? Hnn... Chuyện gì vừa xảy ra..."
             ],
@@ -4196,13 +4211,63 @@
                 "...Chuyện này không diễn ra như mình hy vọng... Mình không biết mình có thể làm gì khác... Chà. Ugh. Quá tam ba bận nhỉ..?"
             ],
             "endlessloop2": [
-                "<spoiler>"
-            ],
+             "UUUGGGHHHHH!! MÌNH PHẢI LÀM GÌ CHỨ!? Chết tiệt... Cái quả tim chết tiệt đó... Grrrhh... Đằng nào cũng phải xuống mới sống tiếp được. Thật thảm hại"
+            ], 
             "endlessloop3": [
                 "Chà! Mình sẽ không thể thoát khỏi đây phải không... Mình nghĩ mình đang quen dần với việc này rồi."
             ],
             "endlessloopdefault": [
                 "Ôi, lại vòng qua vòng lại rồi..."
+            ],
+            "endpodexamine": [
+                "H-hàng hóa... Trước..."
+            ],
+            "ascententer": [
+                "Hình như là nó đi được đến đây thôi... Hướng duy nhất là lên. Đi thôi."
+            ],
+            "labenter": [
+                "(Mình sẽ tạm tuân theo... Họ sẽ giết chết mình nếu cố chống đối. Mình có thể sẽ tìm được cơ hội...)"
+            ],
+            "labresponse": [
+                "(...Đếch đời nào mình sẽ nói chuyện với họ.  Sau...sự việc đó.)"
+            ],
+            "labthink1": [
+                "(Giờ là thời cơ... Nếu... Nếu như mình có súng, hoặc gì đó...)"
+            ],
+            "labthink2": [
+                "(Mình có thể... Giết họ. Bắn cái thứ đó trên trần... Đi qua màng kim loại đó. Trốn thoát..?)"
+            ],
+            "labthink2chip": [
+                "(Mình có thể... Không. Không làm được. Họ sẽ giết mình với cái chip. Chết tiệt.)"
+            ],
+            "labshoot": [
+                "NNGGRRAAAAHHHH!! THỨ KHỐN NẠN!!! TAO KHÔNG CHỊU ĐƯỢC THÊM CÁI THỨ KHỐN NẠN NÀY CỦA MÀY NỮA!!!"
+            ],
+            "labcommentcalm": [
+                "Nghh... Grrh... Họ sẽ trả giá...",
+                "Họ sẽ phải trả giá cho chuyện này...",
+                "Chịu...hậu quả...",
+                "Chịu hết nổi. Với. Cái. THỨ KHỐN NẠN NÀY RỒI!",
+                "Chết hết đi. Chết hết quách đi. Tất cả bọn mày...",
+                "Đường cùng rồi.",
+                "Thứ khốn nạn. Thứ khốn nạn. Thứ khốn nạn. Bọn ngu ngốc.",
+                "Không ai sẽ quan tâm khi họ mất tích.",
+                "(Không có gì ngăn cản được mình.)",
+                "Chơi mấy trò ngu ngốc..."
+            ],
+            "labcommentcombat": [
+                "MẸ MÀY!! MẸ MÀY!!!! MẸ TẤT CẢ BỌN MÀY!!!!",
+                "TAO SẼ NHÌN SỰ SỐNG THOÁT RA KHỎI MẮT MÀY!!!", 
+                "XUỐNG ĐỊA NGỤC HẾT ĐI!!!",
+                "KHÔNG CHỊU ĐƯỢC THỨ KHỐN NẠN NÀY NỮA!!",
+                "TAO CHỊU HẾT NỔI MẤY TRÒ NÀY RỒI!!",
+                "GRRRAAHHHHH!!",
+                "MÀY NGHĨ MÀY LÀ AI!?",
+                "SẼ KHÔNG AI NHỚ MÀY HẾT!!",
+                "TẤT CẢ BỌN MÀY SẼ PHẢI TRẢ GIÁ CHO NHỮNG GÌ MÀY ĐÃ LÀM!!",
+                "TAO SẼ KHÔNG CHÙN BƯỚC ĐÂU!!",
+                "LŨ KHOÁC ÁO KHỐN NẠN!!",
+                "XUỐNG ĐỊA NGỤC ĐI!!!!"
             ],
             "vomitresponse": [
                 "Uuuhmm... Bạn ổn chứ..?"
