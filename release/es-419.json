@@ -1,6 +1,6 @@
 {
     "name": "Español (Latinoamérica)",
-    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat,</color> <color=\"orange\">ItsVoidSK,</color> <color=\"yellow\">Derkala,</color> <color=#bbff54>IzaCarlos,</color> <color=#00ffff>Zorpolar,</color> <color=\"blue\">LeonixMG y</color> <color=\"purple\">JuanMC45.</color>",
+    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat,</color> <color=\"orange\">ItsVoidSK,</color> <color=\"yellow\">Derkala,</color> <color=#bbff54>IzaCarlos,</color> <color=#00ffff>Zorpolar,</color> <color=\"blue\">LeonixMG y</color> <color=\"purple\">JuanMC45.</color>\n\nÚltima actualización:<color=\"white\"> 8 de Noviembre del 2026.</color>",
     "version": "1.0",
     "main": {
         "bandage": "Vendaje",
