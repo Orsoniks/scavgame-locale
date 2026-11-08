@@ -5500,7 +5500,7 @@
                 "Gghhrraaaghh! U-ống! Ngay..!"
             ],
             "limbmuscle": [
-                "<Limb> kh-ông nh-úc nh-ích...",
+                "<limb> kh-ông nh-úc nh-ích...",
                 "Du-ne <limb> ng-ừng h-oạt đ-ộng..?",
                 "Du-ne c-ần <limb> m-ới.",
                 "<limb> kh-ông hoạt động...nnngrrhh...",
@@ -5646,7 +5646,7 @@
                 "Th-êm th-ức ăn ch-o du-ne.",
                 "X-in ch-ào!!",
                 "Du-ne th-ấy th-êm x-ác chết.",
-                "Nh-iều ng-ười chết!",
+                "Nh-iều b-ạn chết!",
                 "Nh-iều th-ức ăn!"
             ],
             "seecorpsesuicidal": [
@@ -5903,6 +5903,24 @@
             "selfdestruct": [
                 "Oooorrhhn! Ti-ếng m-ới c-ủa du-ne? Hooohh..."
             ],
+            "wwmr": [
+                "Hooohh... Ch-ỗ... S-áng... Du-ne gầ-n tớ-i..?"
+            ],
+            "cargo1": [
+                "Du-ne th-ấy... Đ-ồ..."
+            ],
+            "cargo2": [
+                "Đ-ồ ăn...? Hhoooohhhh....hhhooh..?"
+            ],
+            "cargoimpale": [
+                "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
+            ],
+            "cargoimpale2": [
+                "GGHHHRRAAaaaahhh....hhnnnh...nnnh...n..?"
+            ],
+            "cargoimpale3": [
+                "Hhr...n..mmm...du-ne rờ-i đư-ợc..."
+            ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......l-ại n-ữa?"
             ],
@@ -5917,6 +5935,45 @@
             ],
             "endlessloopdefault": [
                 "Nrrrg! Wheee! Du-ne th-ắng!"
+            ],
+            "endpodexamine": [
+                "Gi-ờ v-ề?"
+            ],
+            "ascententer": [
+                "Oooo! Đ-ỏ..."
+            ],
+            "labenter": [
+                "(Du-ne về nh-à... Du-ne c-ẩn th-ận...)"
+            ],
+            "labresponse": [
+                "Kh-ông Biế-t."
+            ],
+            "labthink1": [
+                "(Đói...)"
+            ],
+            "labthink2": [
+                "(Du-ne thấy đồ ăn. Du-ne lấy. Du-ne rờ-i.)"
+            ],
+            "labthink2chip": [
+                "(Du-ne không có đ-ồ ăn. Du-ne buồn.)"
+            ],
+            "labshoot": [
+                "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
+            ],
+            "labcommentcalm": [
+                "Grrhh....ngrhhr...",
+                "Ngrrhhh...",
+                "Đồ ăn...đ-ồ ăn...tới...",
+                "Du-ne...giết...hết...",
+                "Th-ức ăn...tớ-i..."
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHHHH!",
+                "GGRAAGHHH! GRRRRRHHH!!!",
+                "NNRRUUAAAAARRGHHHH!!",
+                "CH-ẾT TỚ-I!!!",
+                "ĐẾ-N V-ỚI DU-NE!!!",
+                "DU-NE ĂN TH-ỊT!!!"
             ],
             "tradermeetnormal": [
                 "Mmm... Chà-o....",
