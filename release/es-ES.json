@@ -1474,6 +1474,8 @@
         "waterdsc": "Agua subterránea sin filtrar. En general es segura de beber, aunque sienta un poco mal.",
         "dirtywater": "Agua sucia",
         "dirtywaterdsc": "Al menos ya no está en tu cuerpo. No es segura de beber.",
+        "algae": "Lumalgas",
+        "algaedsc": "Agua en la que crecen abundantes algas bioluminiscentes. Tiene mucha flotabilidad. No es comestible.",
         "lumalgae": "Lumalgas",
         "lumalgaedsc": "Agua en la que crecen abundantes algas bioluminiscentes. Tiene mucha flotabilidad. No es comestible.",
         "redsludge": "Lodo rojo",
