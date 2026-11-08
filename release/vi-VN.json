@@ -4599,7 +4599,7 @@
                 "...Cứu...",
                 "Tàn nhẫn.",
                 "Tôi đã bị gửi đến chỗ chết.",
-                "Lũ áo blouse sẽ phải trả giá cho sự ngược đãi này.",
+                "Bọn khoác áo sẽ phải trả giá cho sự ngược đãi này.",
                 "Những hang động này đang xé xác tôi ra.",
                 "Hhn..Hnnghh..Hnnghhhggaaaahhrhh...",
                 "Hhnnhh..Aaahahahahhh...Gngnhh...",
@@ -4623,7 +4623,7 @@
                 "Cơ hội sống sót trở về của tôi là bằng không.",
                 "Tôi đã thất bại",
                 "Tôi sẽ phải trả giá cho thất bại này bằng mạng sống của tôi.",
-                "Lũ áo blouse sẽ không được yên với chuyện này đâu.",
+                "Bọn khoác áo sẽ không được yên với chuyện này đâu.",
                 "Tôi quá thảm hại để làm chuyện này.",
                 "Chỉ là một cái bao tải thịt đầy máu và xương...",
                 "Một trò đùa tàn nhẫn và chẳng hề buồn cười...",
@@ -4640,10 +4640,10 @@
                 "GHH! ...Cảm giác... thỏa mãn đến bất ngờ."
             ],
             "suicide": [
-                "Không thể. Chịu đựng. Thêm nữa. Hết.",
-                "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! TẠIIIII SAOOOOOOOO!!!???",
+                "Không thể. Chịu đựng. Thêm nữa. Chấm hết.",
+                "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! TẠIIII SAOOO CHỨỨỨỨỨỨỨỨỨ!!!???",
                 "Chịu hết nổi rồi. Tôi dừng đây.",
-                "Chết tiệt thật.",
+                "Dẹp mẹ đi.",
                 "...",
                 "Tôi xin thứ lỗi."
             ],
@@ -5062,6 +5062,24 @@
                 "Ôi, ôi, tại sao, cái gì, TẠI SAO CHỨ!? DỪNG LẠI! TÔI KHÔNG ĐÁNG BỊ THẾ NÀY! LŨ ÁO BLOUSE KHỐN KIẾP!",
                 "Xin chào tiếng bíp. Điều này có thể có ý nghĩa gì đây?"
             ],
+            "wwmr": [
+                "Mọi thứ đúng như kế hoạch. Có vẻ như mục tiêu đang ở trong tầm với. Tôi phải tập trung."
+            ],
+            "cargo1": [
+                "...Lạ thật."
+            ],
+            "cargo2": [
+                "Cuối cùng, Tôi cũng đã... H-H... Hả..?"
+            ],
+            "cargoimpale": [
+                "C-Chuyện... này... Không nằm trong... D-Danh sách những thứ mình mong đợi..."
+            ],
+            "cargoimpale2": [
+                "Ghh... N-Nó... Thật sự... Kẹt trong đó rồi... Nhưng mà... Nó làm tôi thấy nhẹ nhõm thật..."
+            ],
+            "cargoimpale3": [
+                "Hh. Tập trung. Đành vậy. Việc này nằm trong kế hoạch đã định sẵn cũng là điều hợp lý. Tôi sẽ bước vào buồng khoan đó và di chuyển lên trên."
+            ],
             "endlessloop0": [
                 "...Hừm. Hừmm... Mhhhhmmmhh... Hhhhhmmm... Đ-được rồi. Không... Kh-ông phải. Những gì. Tôi mong đ-ợi. Chắc hẳn tôi đã làm sai điều gì đó. Tôi s-ẽ quay lại và thử một lần nữa."
             ],
@@ -5076,6 +5094,53 @@
             ],
             "endlessloopdefault": [
                 "......*thở dài*"
+            ],
+            "endpodexamine": [
+                "Nó không hoạt động. Tôi có thể khởi động nó với một chút sức lực."  
+            ],
+            "ascententer": [
+                "Buồng khoan đã dừng hoạt động. Đến lúc phải tiến bộ lên thôi. Còn một quãng đường ngắn nữa."
+            ],
+            "labenter": [
+                "(Mình oán hận những tên khoác áo này... Dù vậy, mình không thể hành động ngay bây giờ. Mình phải giữ cái đầu lạnh.)"
+            ],
+            "labresponse": [
+                "(...Huh. Nó KHÔNG nằm trong kế hoạch của họ?)"
+            ],
+            "labthink1": [
+                "(Thời khắc đã điểm. Họ sẽ không lường trước được chuyện này.)"
+            ],
+            "labthink2": [
+                "(Bắn tên khoác áo. Bắn tháp pháo. Chui qua lưới kim loại. Nó sẽ khó, nhưng mình không thể để bản thân vâng lời lũ quái vật này nữa.)"
+            ],
+            "labthink2chip": [
+                "(Bắn tên......Không. Con chip này không cho tôi chống lại họ. Mình đã thất bại. Nhưng với họ, mình đã thành công.)"
+            ],
+            "labshoot": [
+                "BỌN MI XUỐNG ĐỊA NGỤC HẾT ĐI!!! BỌN MI PHẢI TRẢ GIÁ!!!"
+            ],
+            "labcommentcalm": [
+                "Họ sẽ phải...trả giá...",
+                "Không giỡn nữa.",
+                "Tất cả những kẻ liên quan xuống địa ngục hết đi...",
+                "..Grrhh...",
+                "(Mình đoạt lấy tự do cho bản thân đây.)",
+                "Họ đáng bị như vậy.",
+                "(Mình sợ)",
+                "Ggh...thứ mất dạy...",
+                "(Sẽ chẳng có ai nhớ họ khi họ chết cả..)"
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHH! CHẾT ĐI!",
+                "BỌN MI XUỐNG ĐỊA NGỤC HẾT ĐI!!!",
+                "BỌN MI XUỐNG MỒ HẾT VỚI TA!!",
+                "BỌN MI THOÁT TỘI QUÁ LÂU RỒI!!",
+                "GỌI HỖ TRỢ ĐI!! TA THÁCH BỌN NGƯƠI ĐẤY!!",
+                "TA SẼ NUỐT SỐNG BỌN NGƯƠI!!",
+                "CHẾT ĐI!!",
+                "KÊU CỨU ĐI!!! KÊU ĐI!!",
+                "CÁC NGƯỜI NGHĨ LÀ SẼ CHỐNG LẠI TA ĐƯỢC Ư!?",
+                "THỜI KHẮC CỦA NGƯƠI TỚI RỒI!!"
             ],
             "tradermeetnormal": [
                 "Chào.",
