@@ -29,7 +29,7 @@ This is a list of all of the locales available for the [release version](https:/
 | [Español (España)](/release/es-ES.json) | v1.0-Pre13 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que), [Iter-bite](https://github.com/Iter-bite), [JaGarLo](https://github.com/JaGarLo) |
 | [Русский (Россия)](/release/ru-RU.json) | v1.0 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
 | [Українська (Україна)](/release/uk-UA.json) | v1.0-Pre3 (+bccaab7) | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
-| [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0-Pre3 (+bccaab7) | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), [Daenry](https://github.com/daenry), Weird Cat, Just Cyrus, Vee |
+| [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0 | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), Vee, [Daenry](https://github.com/daenry), Just Cyrus, Local Potato, Weird Cat, Jakey|
 
 ## Demo locales
 
