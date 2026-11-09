@@ -2697,7 +2697,7 @@
                 "Hier gaan we dan maar weer...",
                 "Ogen open...",
                 "Wakker en alert...",
-                "Hello, world...",
+                "Hallo, world...",
                 "Again..."
             ],
             "sick": [
@@ -3431,7 +3431,7 @@
                 "This one looks silly...",
                 "They're smiling at me!",
                 "Hey.",
-                "Hello there!",
+                "Hallo there!",
                 "Such generosity.",
                 "I'd be grave robbing if this guy had a funeral.",
                 "...And. That, ladies en gentlemen... Is another corpse.",
@@ -3940,17 +3940,17 @@
             ],
             "tradeemeet": [
                 "Hey!",
-                "Hello?",
-                "Oh! Hello!",
+                "Hallo?",
+                "Oh! Hallo!",
                 "Hm?",
                 "Finally, someone...",
-                "...Hello?",
+                "...Hallo?",
                 "Hay!",
-                "Hello!"
+                "Hallo!"
             ],
             "tradermeetnormal": [
                 "Hey!",
-                "Hello!",
+                "Hallo!",
                 "Oh! Someone finally came over...",
                 "Oh! Heya.",
                 "Hey! Glad to see someone alive.",
@@ -3959,14 +3959,14 @@
             ],
             "tradermeetgood": [
                 "Ah! Hi!!",
-                "Hello! How are ya?",
-                "Aah! Hello!! Hi!"
+                "Hallo! How are ya?",
+                "Aah! Hallo!! Hi!"
             ],
             "tradermeetbad": [
                 "Hheeyy...I dislike your presence..?",
-                "H... Hello... Uhh...",
+                "H... Hallo... Uhh...",
                 "...Hey.",
-                "...Hm. Hello."
+                "...Hm. Hallo."
             ],
             "traderhugsuccess": [
                 "Awww... Thank you.",
@@ -4009,8 +4009,8 @@
             "traderdepressed": [
                 "...Uh... ...Are you okay? You look a little... Disgruntled...?",
                 "...No greetings or anything...? Wh... Why are you looking at me like that...",
-                "...? ...Um...  ...Hello..? ...You there..?",
-                "...You look terrified. Are you okay? Hello...?",
+                "...? ...Um...  ...Hallo..? ...You there..?",
+                "...You look terrified. Are you okay? Hallo...?",
                 "Hey! How are yooouuuu......you don't look so well there, buddy... Uhm...",
                 "Hey! ...What's with that piercing look? Uhm..."
             ],
@@ -4417,7 +4417,7 @@
             ],
             "wakeup": [
                 "I wake.",
-                "Hello, world.",
+                "Hallo, world.",
                 "I rise.",
                 "Again.",
                 "What now.",
@@ -4746,7 +4746,7 @@
                 "They did not enjoy their stay.",
                 "I am thinking about funerals.",
                 "Have you got anything?",
-                "Hello! May we trade?",
+                "Hallo! May we trade?",
                 "I must move on.",
                 "The sight is boring.",
                 "Greetings.",
@@ -5008,10 +5008,10 @@
             ],
             "tradeemeet": [
                 "Greetings.",
-                "Hello.",
+                "Hallo.",
                 "Boo.",
                 "My pleasure to meet you.",
-                "Hello there.",
+                "Hallo there.",
                 "Greetings to you."
             ],
             "swingresponse": [
@@ -5058,7 +5058,7 @@
             ],
             "selfdestruct": [
                 "Oh, oh, why, what, WHY!? STOP THIS! I DO NOT DESERVE THIS! YOU COATED DIPSHITS!",
-                "Hello, beeping. What could this mean?"
+                "Hallo, beeping. What could this mean?"
             ],
             "wwmr": [
                 "All according to plan. It appears the objective is within reach. I must focus."
@@ -5130,21 +5130,21 @@
             ],
             "labcommentcombat": [
                 "NNGRRAAHHH! STERF!",
-                "TO HELL WITH ALL OF YOU!!!",
-                "YOU'RE GOING DOWN WITH ME!!",
-                "YOU'VE GOTTEN AWAY WITH THIS FOR TOO LONG!!",
-                "CALL FOR BACKUP!! I DARE YOU!!",
-                "I WILL FUCKING DEVOUR YOU!!",
+                "GA NAAR DE HEL, JULLIE ALLEMAAL!!!",
+                "WIJ GAAN SAMEN TEN ONDER!!",
+                "JIJ BENT HIER VEEL TE LANG MEE WEG GEKOMEN!!",
+                "ROEP OM HULP!! IK DAAG JE UIT!!",
+                "IK GA JE FUCKING VERSLINDEN!!",
                 "STERF!!",
-                "SCREAM FOR HELP!!! COME ON!!",
-                "YOU THINK YOU CAN STOP ME!?",
-                "YOUR TIME HAS COME!!"
+                "ROEP MAAR OM HULP!!! DOE MAAR!!",
+                "DENK JE DAT JE MIJ KAN STOPPEN!?",
+                "JOUW TIJD IS GEKOMEN!!"
             ],
             "tradermeetnormal": [
-                "Greetings.",
-                "Hello.",
+                "Gegroet.",
+                "Hallo.",
                 "My pleasure to meet you.",
-                "Ah! Hello there!",
+                "Ah! Hallo there!",
                 "Welcome, fellow traveler.",
                 "Greetings to you.",
                 "Welcome.",
@@ -5153,18 +5153,18 @@
             ],
             "tradermeetgood": [
                 "I'm honored to see another survivor.",
-                "Oh! Hello! How are you doing, friend?",
+                "Oh! Hallo! How are you doing, friend?",
                 "Greetings, dear. How are you doing?",
                 "Ah! Greetings. You look very chipper!",
                 "Ah, how happy I am to see someone like you!"
             ],
             "tradermeetbad": [
                 "...I am not impressed.",
-                "Ough. Hello...",
+                "Ough. Hallo...",
                 "...You confound me. Greetings.",
-                "...Hello.",
+                "...Hallo.",
                 "Greetings. Please refrain from touching me.",
-                "Hello, fellow survivor.",
+                "Hallo, fellow survivor.",
                 "Greetings. Please use the door next time.",
                 "Welcome.",
                 "Greetings."
@@ -6870,7 +6870,7 @@
             "Get yourself a snack.",
             "They don't know you're doing this.",
             "Lazy.",
-            "Hello!",
+            "Hallo!",
             "There is always a price of silence.",
             "We meet once again.",
             "We don't have all the time in the world, you know.",
@@ -6882,7 +6882,7 @@
             "Make sure to stretch your legs.",
             "I have all the time I need. Same cannot be said about you.",
             "Trapped in eternity.",
-            "Hello? Is this thing on?",
+            "Hallo? Is this thing on?",
             "Are you continually pausing time to see what I have to say?",
             "The stars are watching you.",
             "Right behind you.",
