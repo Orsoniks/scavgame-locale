@@ -56,7 +56,7 @@
         "manualdefibrillator": "Manual defibrillator",
         "manualdefibrillatordsc": "An electronic device used to stabilize dangerous heart rhythms. Use on the upper torso. This one is manual, and will require some know-how to use correctly. Compared to an AED, it's faster and uses less power, but isn't guaranteed to work. Higher INT makes operation easier.",
         "minifleshrebuilder": "Mini flesh rebuilder",
-        "minifleshrebuilderdsc": "An experimental medical device that uses samples of flesh in order to heal traumatic injuries. If filled with three pieces of yellow flesh, can rebuild missing facial features. Also a mediocre light source!",
+        "minifleshrebuilderdsc": "An experimental medical device that uses samples of flesh in order to heal traumatic injuries. If filled with three pieces of gele flesh, can rebuild missing facial features. Also a mediocre light source!",
         "antidepressants": "Antidepressant bottle",
         "antidepressantsdsc": "A 140ml pill bottle of antidepressants. Dosage is 20ml.",
         "antibiotics": "Antibiotics bottle",
@@ -70,7 +70,7 @@
         "rosepod": "Rose pod",
         "rosepoddsc": "A part of a sand rose. Doesn't spoil. Can be opened.",
         "roselight": "Rose light",
-        "roselightdsc": "A bright, far reaching yellow light that came from a sand rose. While it decays fast, it's useful for checking how big a drop is. Also reveals hidden infections if used on a limb.",
+        "roselightdsc": "A bright, far reaching gele light that came from a sand rose. While it decays fast, it's useful for checking how big a drop is. Also reveals hidden infections if used on a limb.",
         "splint": "Splint",
         "splintdsc": "A sturdy board, made to aid fractures. Helps with healing fractures and dislocations. Putting it on a functional limb will still immobilize it, reducing your capabilities.",
         "bloodbag": "Blood bag",
@@ -149,8 +149,8 @@
         "stonefruitcloseddsc": "A hard green fruit stuck to a hard, gray part of its plant. You need to separate it using your teeth first.",
         "stonefruitopen": "Stone fruit",
         "stonefruitopendsc": "A hard green fruit with a neutral taste and medium fat content. It's very dry, you'll probably be thirsty after it.",
-        "banana": "Banana",
-        "bananadsc": "A tasty yellow fruit, seemingly from another planet. Slightly radioactive.",
+        "banana": "Banaan",
+        "bananadsc": "A tasty gele fruit, seemingly from another planet. Slightly radioactive.",
         "burger": "Burger",
         "burgerdsc": "Een grote, tasty snack. Fills both your tummy and soul!",
         "pancake": "Pancakes",
@@ -230,7 +230,7 @@
         "emergencylight": "Emergency light",
         "emergencylightdsc": "A tiny, one-time use emergency flashlight. You'll probably want to find a new source of light before it runs out. Use to toggle.",
         "lantern": "Lantern",
-        "lanterndsc": "A simple, wood and glass lantern with a bright yellow crystal inside of it.",
+        "lanterndsc": "A simple, wood and glass lantern with a bright gele crystal inside of it.",
         "lightbulb": "Lightbulb",
         "lightbulbdsc": "An electric light with a filament that is heated until it glows. Seems to be battery powered. Don't put it in your mouth.",
         "nutrientbar": "Nutrient bar",
@@ -478,7 +478,7 @@
         "spicevineleaf": "Spiceleaf",
         "spicevineleafdsc": "A dry stalk with numerous bright leaves. Can be eaten, though it is spicy. Can be used on limbs as antiseptic. Usable as foliage for crafting.",
         "bulbskin": "Popskin",
-        "bulbskindsc": "A piece of thick, yellow membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
+        "bulbskindsc": "A piece of thick, gele membrane. Satiates thirst, but might minorly affect brain function. Can also be used as a makeshift bandage and analgesic.",
         "popfruit": "Popfruit",
         "popfruitdsc": "An odd, rectangular shiny fruit. Tasty, refills hunger and thirst. May randomly help or intensify radiation sickness slightly. Has a loud reaction when impacting the ground at speeds - useful for checking drop height.",
         "antisepticmush": "Antiseptic mush",
@@ -656,7 +656,7 @@
         "lifepodpump": "Lifepod pump",
         "lifepodpumpdsc": "Pumps any liquid spills outside.",
         "BloodCrystal": "Blood Crystal",
-        "BloodCrystaldsc": "It seems to be moist with yellow liquid, releasing it into anything around it.",
+        "BloodCrystaldsc": "It seems to be moist with gele liquid, releasing it into anything around it.",
         "cactus": "Cactus",
         "cactusdsc": "Back up there, you were told these are supposed to be green. They didn't lie about it being prickly at least.",
         "coil": "Coil",
@@ -830,8 +830,8 @@
         "trader": "Survivor",
         "traderdsc": "Another unlucky victim. At least they're still breathing.",
         "traderdscdead": "They're not breathing anymore. Thanks to you.",
-        "bananaplant": "Banana-plant",
-        "bananaplantdsc": "A short, wide plant, colloquially called the \"Banana Plant\" due to its mushy, yellow top. Very slippery to step on.",
+        "bananaplant": "Banaan-plant",
+        "bananaplantdsc": "A short, wide plant, colloquially called the \"Banaan Plant\" due to its mushy, gele top. Very slippery to step on.",
         "geyser": "Geyser",
         "geyserdsc": "An unstable geyser with a tendency to shoot out water. Luckily, it's room temperature at worst.",
         "lavageyser": "Geyser",
@@ -3121,7 +3121,7 @@
                 "One more fuckup and I swear I'm going to slit my wrists.",
                 "I am so fucking done with all of this.",
                 "I'm not willing to walk another step.",
-                "I WILL turn myself into a yellow fucking paste.",
+                "I WILL turn myself into a gele fucking paste.",
                 "I'm going to DEVOUR whoever put me here.",
                 "Is this a fucking joke?",
                 "I'm going to fucking cannibalize myself.",
@@ -6611,7 +6611,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "..ugh. okay. the yellow ones HURT. feels kind of similar to the coils i found a few hours back... they usually have some kind of weird zappy field around them... don't touch them. its not good. for your body, at least. i noticed it did somehow recharge all my batteries after touching...",
+                "Item1": "..ugh. okay. the gele ones HURT. feels kind of similar to the coils i found a few hours back... they usually have some kind of weird zappy field around them... don't touch them. its not good. for your body, at least. i noticed it did somehow recharge all my batteries after touching...",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6736,19 +6736,19 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[RESEARCH MEMO 29-1-24XX]<>\nI can still scarcely believe what I'm looking at. The subject is the size of my fist, yellow in color, and slimy in texture. By all accounts it appears to be a lump of flesh. We don't know what it's from or where, but our instruments confirm it is biological in origin, and it is completely alien to ours. It was recovered from the wreckage of the ██████ ███████, fused with the receiver plate. This represents a groundbreaking leap in our research, but a small consolation for the total loss of the device. I don't understand. Over a decade of dead-end research teleporting little more than individual particles and then this thing comes through?<>\nOut of all the universe, the odds of our experiment randomly intersecting with a creature of an unknown alien planet must be at least fifty orders of magnitude. It should be impossible, and yet here it is. We'll need to try and spin this. We can't risk losing the investor's funding, or scaring the public. Not at this juncture. At least this will give the bio team something to investigate while we rebuild the entire project from the ground up.",
+            "Item1": "[RESEARCH MEMO 29-1-24XX]<>\nI can still scarcely believe what I'm looking at. The subject is the size of my fist, gele in color, and slimy in texture. By all accounts it appears to be a lump of flesh. We don't know what it's from or where, but our instruments confirm it is biological in origin, and it is completely alien to ours. It was recovered from the wreckage of the ██████ ███████, fused with the receiver plate. This represents a groundbreaking leap in our research, but a small consolation for the total loss of the device. I don't understand. Over a decade of dead-end research teleporting little more than individual particles and then this thing comes through?<>\nOut of all the universe, the odds of our experiment randomly intersecting with a creature of an unknown alien planet must be at least fifty orders of magnitude. It should be impossible, and yet here it is. We'll need to try and spin this. We can't risk losing the investor's funding, or scaring the public. Not at this juncture. At least this will give the bio team something to investigate while we rebuild the entire project from the ground up.",
             "Item2": ""
         },
         {
-            "Item1": "[RESEARCH MEMO 3-11-24XX]<>\nThe 'yellow blood' from the █████████ incident is truly remarkable. Its adaptability is unlike anything seen on Earth. Even under intense radiation it manages to repair itself almost immediately. It's a level of recombination only seen in our immune cells, and yet it covers its entire genome. When we attempted to overwrite it with our own viral vectors, it somehow integrated them into its own genetic code with no loss to itself.<>\nWe injected the alien genes into rat cells and the results made Dr. █████ fall out of his seat. It went into an overdrive of expression, grabbing DNA from whatever source it could find and integrating it into the hosts own DNA without issue. It made the past 100 years of biological research look like a joke. The host died shortly after. It acts like a scaffold, allowing DNA sequences to jump and recombine without immediately becoming cancerlike. We repeated this experiment with several genomes and even sequences from vastly different species were integrated. However, the actual results are wildly unpredictable. It feels more like a witch's brew than actual biology, but who knows the potential this holds.",
+            "Item1": "[RESEARCH MEMO 3-11-24XX]<>\nThe 'gele blood' from the █████████ incident is truly remarkable. Its adaptability is unlike anything seen on Earth. Even under intense radiation it manages to repair itself almost immediately. It's a level of recombination only seen in our immune cells, and yet it covers its entire genome. When we attempted to overwrite it with our own viral vectors, it somehow integrated them into its own genetic code with no loss to itself.<>\nWe injected the alien genes into rat cells and the results made Dr. █████ fall out of his seat. It went into an overdrive of expression, grabbing DNA from whatever source it could find and integrating it into the hosts own DNA without issue. It made the past 100 years of biological research look like a joke. The host died shortly after. It acts like a scaffold, allowing DNA sequences to jump and recombine without immediately becoming cancerlike. We repeated this experiment with several genomes and even sequences from vastly different species were integrated. However, the actual results are wildly unpredictable. It feels more like a witch's brew than actual biology, but who knows the potential this holds.",
             "Item2": ""
         },
         {
-            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMy efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, and nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the yellow blood was introduced to the latest stable admixture and injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine and rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its eyes are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
+            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMy efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, and nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the gele blood was introduced to the latest stable admixture and injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine and rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its eyes are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
             "Item2": ""
         },
         {
-            "Item1": "[RESEARCH MEMO 24-12-24XX]<>\nUpon repeated request, I am altering the SAW-01 genome. Their utility to this company's research was far beyond my anticipation. Originally I believed the lack of reproduction was proof of their perfection, but they are in such demand that our cloning machines can no longer keep up. I understand now the benefits of the old fashioned way.\nAs soon as I stopped suppressing sexual expression, the genes accepted the change readily. They are simultaneous hermaphrodites; the first mammals to possess both sexual organs. Actually, as they possess no mammaries, are they even mammals? I do not know if this is from Earth, or from the yellow blood, but it is beyond our terminology.<>\nIt appears they have no drive towards others of the same species, but are content with and capable of reproducing on their own. They will be capable of effectively cloning themselves for far less the cost now.",
+            "Item1": "[RESEARCH MEMO 24-12-24XX]<>\nUpon repeated request, I am altering the SAW-01 genome. Their utility to this company's research was far beyond my anticipation. Originally I believed the lack of reproduction was proof of their perfection, but they are in such demand that our cloning machines can no longer keep up. I understand now the benefits of the old fashioned way.\nAs soon as I stopped suppressing sexual expression, the genes accepted the change readily. They are simultaneous hermaphrodites; the first mammals to possess both sexual organs. Actually, as they possess no mammaries, are they even mammals? I do not know if this is from Earth, or from the gele blood, but it is beyond our terminology.<>\nIt appears they have no drive towards others of the same species, but are content with and capable of reproducing on their own. They will be capable of effectively cloning themselves for far less the cost now.",
             "Item2": ""
         },
         {
@@ -6756,11 +6756,11 @@
             "Item2": ""
         },
         {
-            "Item1": "Hey, big man.\nUpdate on the ████ █████. Great progress. The boys nearly powered the whole damn station off of it and the thing hardly even complained. It's the densest form of energy we've ever seen. Imagine it, whole teleporters powered by a thing you can hold in your hands. Still, strange that it's shaped like a █████. Maybe some piece of an Experiment got jammed in there, who knows. But with this, we might not need to expand our Dyson Swarm after all.\nProblem is, we can't recreate it.<>\nThe boys insist that they reproduced the experiment exactly. They were trying to pull out the spacetime conduit instead of traverse it, but this time? Nothing. It sure broke the machine like before, but no ████ █████. It's just like the ██████████ incident, but that yellow blood led us to the SAW specimens. This might be an even bigger breakthrough.\nI'll send this thing down to headquarters through the teleporter. Hopefully you can make some sense out of it. Oh... and while we're on the subject, send us up some more SAW specimens. Hard to keep enough of a stock up here in orbit.\n- Station Director ███████████",
+            "Item1": "Hey, big man.\nUpdate on the ████ █████. Great progress. The boys nearly powered the whole damn station off of it and the thing hardly even complained. It's the densest form of energy we've ever seen. Imagine it, whole teleporters powered by a thing you can hold in your hands. Still, strange that it's shaped like a █████. Maybe some piece of an Experiment got jammed in there, who knows. But with this, we might not need to expand our Dyson Swarm after all.\nProblem is, we can't recreate it.<>\nThe boys insist that they reproduced the experiment exactly. They were trying to pull out the spacetime conduit instead of traverse it, but this time? Nothing. It sure broke the machine like before, but no ████ █████. It's just like the ██████████ incident, but that gele blood led us to the SAW specimens. This might be an even bigger breakthrough.\nI'll send this thing down to headquarters through the teleporter. Hopefully you can make some sense out of it. Oh... and while we're on the subject, send us up some more SAW specimens. Hard to keep enough of a stock up here in orbit.\n- Station Director ███████████",
             "Item2": ""
         },
         {
-            "Item1": "[INCIDENT REPORT]\n[RECOVERED AUDIO TRANSCRIPT B7-187545]\n[TELEPORTATION BAY: OSPREY]<>\n\"I've seen the specs, but... damn that thing's big.\"\n\"Of course. It's been designed to transport entire buildings after all.\"\n\"And they make it in one piece?\"\n\"We're still dialing it in, but that's why we make sure most of the payloads can take a bit of a tumble. A tumble from say... the atmosphere.\"\n<PDA FEEDBACK> \"Yes right there, just leave it right there in the center!\"\n\"What's that they're moving?\"\n\"Boy, you're green. It's that new power source management's been fawning over.\"\n\"Oh... Is it safe for them to be down there in the displacement basin, sir?\"\n\"Sure, long as you don't turn it on. Though, when it was still in development some of the testing fodder got cut clean in half. Turns out some parasitic capacitance from the spool up cycle was enough to trip the field projector, but that's why we don't service these things ourselves. Other half ended up in the employee bathroom at HQ.\"\n\"I'm sure that gave the janitor something to think about.\"\n\"That yellow blood sure stains like hell. Can still see some of it down there.\"<>\n<THUCNK>\n<RATTLING MECHANICAL ROAR>\n\"What is that!\"\n\"That's just the metamass displacer coming online! The director's on my ass about the power usage so let's make this quick! Destination?!\"\n\"Uh...! Set, sir!\"\n\"Basin?!\"\n\"Clear, sir!\"\n\"Indicators?!\"\n\"All green, sir!\"\n\"Then let 'er rip!\"\n<ALARM WAIL> \"Wha-!\"\n\"What did you do?!\"\n\"I-I didn't!\"\n\"Stabilizer's dis--solvin-g! Sh-u-u--uu-t it d-own!\"\n\"I---c-an't it-t's!\"\n<OVERLAPPING ALARM WAILS>\n\"W-hy w-oo-o-n't i---t!?\"\n\"Tr-ry---<>\n[END OF TRANSCRIPT]",
+            "Item1": "[INCIDENT REPORT]\n[RECOVERED AUDIO TRANSCRIPT B7-187545]\n[TELEPORTATION BAY: OSPREY]<>\n\"I've seen the specs, but... damn that thing's big.\"\n\"Of course. It's been designed to transport entire buildings after all.\"\n\"And they make it in one piece?\"\n\"We're still dialing it in, but that's why we make sure most of the payloads can take a bit of a tumble. A tumble from say... the atmosphere.\"\n<PDA FEEDBACK> \"Yes right there, just leave it right there in the center!\"\n\"What's that they're moving?\"\n\"Boy, you're green. It's that new power source management's been fawning over.\"\n\"Oh... Is it safe for them to be down there in the displacement basin, sir?\"\n\"Sure, long as you don't turn it on. Though, when it was still in development some of the testing fodder got cut clean in half. Turns out some parasitic capacitance from the spool up cycle was enough to trip the field projector, but that's why we don't service these things ourselves. Other half ended up in the employee bathroom at HQ.\"\n\"I'm sure that gave the janitor something to think about.\"\n\"That gele blood sure stains like hell. Can still see some of it down there.\"<>\n<THUCNK>\n<RATTLING MECHANICAL ROAR>\n\"What is that!\"\n\"That's just the metamass displacer coming online! The director's on my ass about the power usage so let's make this quick! Destination?!\"\n\"Uh...! Set, sir!\"\n\"Basin?!\"\n\"Clear, sir!\"\n\"Indicators?!\"\n\"All green, sir!\"\n\"Then let 'er rip!\"\n<ALARM WAIL> \"Wha-!\"\n\"What did you do?!\"\n\"I-I didn't!\"\n\"Stabilizer's dis--solvin-g! Sh-u-u--uu-t it d-own!\"\n\"I---c-an't it-t's!\"\n<OVERLAPPING ALARM WAILS>\n\"W-hy w-oo-o-n't i---t!?\"\n\"Tr-ry---<>\n[END OF TRANSCRIPT]",
             "Item2": ""
         },
         {
