@@ -1,7 +1,7 @@
 {
     "name": "Tiếng Việt",
-    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Bạn có thể tìm thêm các bản dịch do cộng đồng tạo của các ngôn ngữ khác tại kho ngôn ngữ (Xem phần Ghi công). Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời! Bản dịch Tiếng Việt được thực hiện bởi: Axioid, SuffyrnTardelune, Daenry, Weird Cat, Just Cyrus, Vee.",
-    "version": "1.0-Pre3",
+    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Bạn có thể tìm thêm các bản dịch do cộng đồng của các ngôn ngữ khác tại Kho dịch thuật (Xem phần Ghi công).\n<u>Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời!</u>\nBản dịch <color=#ff0000>Tiế</color><color=#ffea00>ng V</color><color=#ff0000>iệt</color> được thực hiện bởi: <color=#FFA640>Axioid,</color> <color=#F2F310>SuffyrnTardelune,</color> <color=#b2ffce>Vee,</color> <color=#F4BAA3>Just Cyrus,</color> <color=#FFA500>Local Potato,</color> <color=#00ffff>Daenry,</color> <color=#ff5555>Weird Cat,</color> <color=#efd2a8>Jakey.</color>\n\nBản dịch được cập nhật lần cuối vào:\nngày 08, tháng 11, năm 2026.",
+    "version": "1.0",
     "main": {
         "bandage": "Băng gạc",
         "bandagedsc": "Một cuộn băng gạc, dùng để làm chậm quá trình chảy máu, cố định xương gãy và hỗ trợ lành da. Không có tác dụng đối với sức khỏe cơ bắp.",
@@ -29,12 +29,12 @@
         "makeshiftlrddsc": "Thiết bị Hồi Sức Cục Bộ tự chế. Trông như được chắp vá lại với nhau. Tăng sức khỏe cơ bắp và khử trùng chi được sử dụng, VÀ các chi liền kề. Giảm nhẹ chảy máu trong nếu dùng trên ngực. Cần ít nhất 25mL huyết thanh HSCB để hoạt động.",
         "lrd": "Thiết bị HSCB",
         "lrddsc": "Thiết bị Hồi Sức Cục Bộ, được tạo ra để dễ dàng hỗ trợ chăm sóc chấn thương tổng quát hiệu quả. Tăng sức khỏe của chi, giảm chảy máu, làm dịu chỗ đau và khử trùng chi mà nó được áp dụng lên, cùng với các chi liền kề. Giảm thiểu đáng kể chảy máu trong khi dùng trên ngực. Cần ít nhất 25mL huyết thanh HSCB để hoạt động.",
-        "opium": "Ống tiêm thuốc phiện",
+        "opium": "Ống tiêm Opium",
         "opiumdsc": "Một ống tiêm 100mL có thể tiêm chất lỏng vào tĩnh mạch. Nhãn quá liều ghi 200mL.",
         "heroin": "Ống tiêm Heroin",
         "heroindsc": "Một ống tiêm 150mL có thể tiêm chất lỏng vào tĩnh mạch. Ống này bị thiếu vạch chia độ và hướng dẫn liều lượng.",
         "naloxone": "Ống tiêm Naloxone",
-        "naloxonedsc": "Một ống tiêm 100mL có thể tiêm chất lỏng vào tĩnh mạch. Bạn không thể nhận ra tên thương hiệu nào ngoài chữ \"N\".",
+        "naloxonedsc": "Một ống tiêm 100mL có thể tiêm chất lỏng vào tĩnh mạch. Bạn không thể nhận ra tên của bất cứ thương hiệu nào ngoài chữ \"N\".",
         "naltrexone": "Chai Naltrexone",
         "naltrexonedsc": "Một chai thuốc viên 100mL. Liều dùng là 20mL.",
         "sodiumnitroprusside": "Chai Natri nitroprusside",
@@ -67,7 +67,7 @@
         "antiraddsc": "Một chai 100mL có ký hiệu phóng xạ ngầu trên đó. Liều dùng là 20mL.",
         "sleepingpills": "Vỉ thuốc ngủ",
         "sleepingpillsdsc": "Một vỉ chứa 25mL thuốc viên. Liều dùng là 5mL. Tên thương hiệu bị thiếu.",
-        "rosepod": "Quả hồng",
+        "rosepod": "Búp hồng",
         "rosepoddsc": "Một phần của hoa hồng cát. Không bị hỏng. Có thể mở ra.",
         "roselight": "Quang hồng",
         "roselightdsc": "Một ánh sáng vàng sáng rực, vươn xa phát ra từ hoa hồng cát. Dù tiêu tan nhanh, có thể dùng để kiểm tra độ sâu hoặc phát hiện nhiễm trùng ẩn khi dùng trên một chi.",
@@ -94,15 +94,15 @@
         "slingbag": "Túi đeo chéo",
         "slingbagdsc": "Một chiếc túi lá có thêm phần gia cố, được làm để đeo trên lưng.",
         "plasticbag": "Túi nilon",
-        "plasticbagdsc": "Một chiếc túi nilon mỏng màu xanh.",
+        "plasticbagdsc": "Một chiếc túi nhựa mỏng màu xanh.",
         "gravbag": "Túi chống trọng",
         "gravbagdsc": "Một hộp chứa mang tính thử nghiệm cao, có khả năng tạo ra trọng lực âm để giảm trọng lượng của bất cứ thứ gì bên trong. Có xu hướng phát nổ khi pin gần cạn.",
         "legpouch": "Túi đeo đùi",
         "legpouchdsc": "Một chiếc túi da có dây đai quấn quanh đùi. Nó giống như một cái túi siêu nhỏ vậy.",
         "liquidpouch": "Túi đựng chất lỏng",
         "liquidpouchdsc": "Một chiếc túi mềm để đựng chất lỏng. Có dây đeo qua bụng. Có thể làm đầy bằng các chai lọ hoặc ngược lại.",
-        "materialpouch": "Túi đựng vật liệu",
-        "materialpouchdsc": "Một chiếc túi lớn, đeo chắc chắn vào đùi, có nhiều ngăn nhỏ để đựng vật liệu chế tạo. Giảm đáng kể độ vướng víu nhưng chỉ chứa được các vật phẩm nhỏ.",
+        "materialpouch": "Túi đựng nguyên liệu",
+        "materialpouchdsc": "Một chiếc túi lớn, đeo chắc chắn vào đùi, có nhiều ngăn nhỏ để đựng vật liệu chế tạo. Giảm đáng kể độ vướng víu nhưng chỉ chứa được các nguyên liệu.",
         "purse": "Ví nữ",
         "pursedsc": "Một chiếc túi xách tay cỡ trung bình dùng để đựng vật dụng cá nhân. Khá sành điệu!",
         "pouch": "Túi nhỏ",
@@ -143,8 +143,8 @@
         "emissivecrystalsharddsc": "Phát sáng rực rỡ trong một khoảng thời gian. Hữu ích làm nguồn sáng.",
         "digestioncrystalshard": "Mảnh pha lê tiêu hóa",
         "digestioncrystalsharddsc": "Nó có cảm giác như đang lấy vật chất ra khỏi cơ thể bạn... Giảm bệnh tật khi cất giữ trên cơ thể.",
-        "geofruit": "Trái Hình Quả Thảo",
-        "geofruitdsc": "Loại trái cây cơ bản, nhưng ngon. Ít calo, giảm khát một chút và nhanh hỏng.",
+        "geofruit": "Trái Hình Thảo",
+        "geofruitdsc": "Loại trái cây cơ bản, nhưng ngon. Mọc trên cây hình thảo. Ít calo, giảm khát một chút và nhanh hỏng.",
         "stonefruitclosed": "Trái Thạch Mộc thô",
         "stonefruitcloseddsc": "Một quả màu xanh cứng dính vào một phần màu xám cứng của cây. Bạn cần phải tách nó ra trước bằng răng.",
         "stonefruitopen": "Trái Thạch Mộc",
@@ -154,7 +154,7 @@
         "burger": "Bánh Burger",
         "burgerdsc": "Một món ăn nhẹ lớn, ngon lành. Lấp đầy cả bụng và tâm hồn bạn!",
         "pancake": "Bánh kếp",
-        "pancakedsc": "Bánh bột ngọt, phẳng nhiều lớp được nấu trên bề mặt nóng, phủ xi-rô. Ngon tuyệt!",
+        "pancakedsc": "Bánh bột ngọt, phẳng nhiều lớp được nấu trên bề mặt nóng, phủ xi-rô. Có thể dính vào lông của bạn .Ngon tuyệt!",
         "pizzaslice": "Lát Pizza",
         "pizzaslicedsc": "Một lát pizza nướng. Rất ngon, no và béo ngậy!",
         "bucketofchicken": "Thùng gà rán",
@@ -177,8 +177,8 @@
         "dogfooddsc": "Có vẻ hấp dẫn, vì bạn thuộc họ chó.",
         "hardcandy": "Kẹo cứng",
         "hardcandydsc": "Một gói kẹo cứng nhỏ. Ngon, nhưng không no.",
-        "fleshchunk": "Khúc thịt lớn",
-        "fleshchunkdsc": "Một khúc thịt khổng lồ, rất nhiều mỡ. Chắc hẳn đến từ một thứ gì đó lớn. Rất no và gây béo.",
+        "fleshchunk": "Tảng thịt lớn",
+        "fleshchunkdsc": "Một tảng thịt khổng lồ, rất nhiều mỡ. Chắc hẳn đến từ một thứ gì đó lớn. Rất no và gây béo.",
         "candybar": "Thanh kẹo",
         "candybardsc": "Một thanh kẹo ngon lành. Để được lâu nhưng không no lắm. Có thể làm bạn ốm nếu ăn quá nhiều.",
         "chocolatebar": "Thanh sô cô la",
@@ -211,13 +211,13 @@
         "iceteadsc": "Một chai 0.5L. Chai này có màu cam.",
         "sodacan": "Lon soda",
         "sodacandsc": "Một lon soda 0.25L.",
-        "alcohol": "Chai rượu",
+        "alcohol": "Chai cồn",
         "alcoholdsc": "Chai thủy tinh có thể chứa 0.4L chất lỏng.",
         "exposedcore": "Lõi bị lộ",
-        "exposedcoredsc": "Phần còn lại đang ngủ đông của một thứ từng hoạt động. Bạn có thể hấp thụ năng lượng của nó dưới dạng nước và dinh dưỡng. <i>Có vẻ như nó đang từ từ biến thành thứ gì đó...</i>",
-        "foliage": "Tán lá",
+        "exposedcoredsc": "Phần còn lại đang ngủ đông của một thứ từng hoạt động. Bạn có thể hấp thụ năng lượng của nó dưới dạng nước và dinh dưỡng. <color=\"red\">Nếu không ăn, nó sẽ biến đổi thành một thứ gì đó...",
+        "foliage": "Đống lá",
         "foliagedsc": "Thực vật ngoài hành tinh chung chung. Hầu như không ăn được và có vị khó chịu. Có thể làm bạn buồn nôn. Nhanh hỏng. Thường được sử dụng trong chế tạo.",
-        "redfoliage": "Tán lá đỏ",
+        "redfoliage": "Đống lá đỏ",
         "redfoliagedsc": "Bạn có nhiều việc quan trọng hơn để chú ý đến nó. Dù sao thì, nó trông khá đẹp!",
         "foliagemeal": "Bữa ăn từ lá",
         "foliagemealdsc": "Một món ăn nấu chín tương đối ổn, làm từ lá giòn và nhân thô sơ. Nhanh hỏng, không có chất béo nhưng rất no.",
@@ -329,6 +329,20 @@
         "dustmaskdsc": "Một chiếc khẩu trang bịt miệng tương đối bền. Cung cấp một ít bảo vệ đầu.",
         "scarf": "Khăn quàng cổ",
         "scarfdsc": "Màu đỏ, ấm áp và có lông tơ. Cung cấp một số lớp cách nhiệt. Làm bạn cảm thấy như một lính đánh thuê.",
+        "mercscarf": "Khăn quàng M.E.R.C.",
+        "mercscarfdsc": "Cung cấp bất kì ai đeo nó sức mạnh to lớn thông qua các con chip được cấy vào. Nó cần một nguồn năng lượng đặc biệt nào đó, và cần rất lâu để sạc... Bạn phải toàn mạng thoát khỏi cái hang này cùng nó",
+        "regenerationchip": "Chip Tăng cường Hồi phục Siêu cấp-REL",
+        "regenerationchipdsc": "Một con chip cơ thể cao cấp có khả năng tăng cường đáng kể tốc độ khả năng hồi phục chấn thương khi sử dụng, đổi lại làm tăng tốc độ trao đổi chất. Sẽ còn lâu lắm bạn mới có cơ hội để sử dụng chúng.",
+        "capacitorchip": "Tụ điện MTPIN-Micro 1LNDNG",
+        "capacitorchipdsc": "Một viên pin nano cao cấp có khả năng tích trữ và giải phóng một lượng năng lượng khổng lồ trong một khoảng thời gian ngắn. Sẽ còn lâu lắm bạn mới có cơ hội để sử dụng chúng.",
+        "swapchip": "Chip Hoán đổi Nhận thức-0.2.9",
+        "swapchipdsc": "Một con chip bí ẩn có khả năng liên kết với vật chủ, cho phép họ truyền nhận thức của họ lên con chip một cách nhanh chóng rồi truyền nó đến một cơ thể khác không lâu sau khi chết. Sẽ còn lâu lắm bạn mới có cơ hội để sử dụng chúng.",
+        "rejuvenationchip": "Chip Trẻ hóa Khẩn cấp-0.0.7",
+        "rejuvenationchipdsc": "Một phần cải tiến sơ sài cho chip hoán đổi nhận thức, cho vật chủ khả năng tái tạo một cơ thể sơ sài mới bằng DNA cơ bản được lưu trữ trên thiết bị và sinh khối còn sót lại từ chính vật chủ đã chết. Sẽ còn lâu lắm bạn mới có cơ hội để sử dụng chúng.",
+        "aichip": "Chip AI-MINI",
+        "aichipdsc": "Một con chip cơ thể tương đối đơn giản cho phép một hệ thống AI giao tiếp với vật chủ và giúp họ trong một số tác vụ. Sẽ còn lâu lắm bạn mới có cơ hội để sử dụng chúng.",
+        "kineticchip": "Chip Truyền Động năng",
+        "kineticchipdsc": "Một con chip mang tính thử nghiệm có khả năng tạo một sự biến dạng không-thời gian quy mô nhỏ quanh hai điểm, từ đó đẩy vật chủ và một vật thể khác theo bất kỳ hướng nào được chọn thông qua tác động từ xa. Sẽ còn lâu lắm bạn mới có cơ hội để sử dụng chúng.",
         "blueprint": "Bản thiết kế",
         "blueprintdsc": "Có công thức của một loại vật thể nào đó được viết trên đó. Có một con chip điện tử đính kèm... Sử dụng để học công thức và nhận kinh nghiệm INT.",
         "safetyglasses": "Kính an toàn",
@@ -368,7 +382,7 @@
         "heatfernsponge": "Bọt biển Nhiệt Xỉ",
         "heatfernspongedsc": "Túi bào tử đã bị xé rách và nhăn nheo của một cây Nhiệt Xỉ. Có thể dùng lên chi để chống nhiễm trùng hoặc ăn để lấy dinh dưỡng. Bào tử của nó có thể ảnh hưởng đến hệ miễn dịch của bạn.",
         "jetpack": "Ba lô phản lực",
-        "jetpackdsc": "Một thiết bị đeo như ba lô sử dụng phản lực để đẩy bất kì ai đeo nó lên không trung. Có nhiên liệu hạn chế và sẽ bị suy giảm khi ướt. Giữ W để sử dụng. Có một ô nhỏ để chứa đồ.",
+        "jetpackdsc": "Một thiết bị đeo như ba lô sử dụng phản lực để đẩy bất kì ai đeo nó lên không trung. Có nhiên liệu hạn chế và sẽ bị suy giảm khi ướt. Giữ [Lên] để sử dụng. Có một ô nhỏ để chứa đồ.",
         "dynamite": "Thanh thuốc nổ",
         "dynamitedsc": "Chất nổ làm bằng nitroglycerin, chất hấp thụ và chất ổn định. Tốt để tạo lỗ trên địa hình. Không tốt lắm cho đôi tai của bạn.",
         "climbingclaws": "Vuốt leo núi",
@@ -394,7 +408,7 @@
         "terrainscanner": "Máy quét địa hình",
         "terrainscannerdsc": "Hiển thị cho bạn bản đồ chất lượng thấp của địa hình bên dưới bạn. Địa hình đánh dấu màu xanh lá cây, các công trình được đánh dấu bởi màu đỏ. Có thể có sai sót. Tầm quét 24 mét.",
         "nanotechscanner": "Máy dò tìm công nghệ nano",
-        "nanotechscannerdsc": "Một thiết bị phát hiện các tín hiệu công nghệ của các Chip cơ thể, cho biết vị trí tương đối của chúng. Chỉ hoạt động khi trong hành trang chính. Có một số thông tin về các con Chip viết trên hông của thiết bị, sử dụng để đọc nó.",
+        "nanotechscannerdsc": "Một thiết bị phát hiện các tín hiệu công nghệ của các Chip cơ thể, cho biết vị trí tương đối của chúng. Có một số thông tin về các con Chip viết trên hông của thiết bị, sử dụng để đọc nó. <color=\"red\">Chỉ hoạt động khi trong hành trang chính.</color>",
         "geigercounter": "Máy đếm Geiger",
         "geigercounterdsc": "Một thiết bị điện tử để phát hiện và đo bức xạ ion hóa bằng ống Geiger-Müller. Sử dụng để bật/tắt.",
         "handcrank": "Bộ sạc quay tay",
@@ -462,13 +476,13 @@
         "helluce": "Hỏa Ngục Thảo",
         "hellucedsc": "Một loại thảo mộc khô, màu tím với vị đặc biệt cay. Giúp chống lại bệnh tật, hơi giúp phục hồi thính lực và có thể làm giảm xuất huyết trong. Làm tăng nhiệt độ cơ thể bất kì ai ăn nó.",
         "spicevineleaf": "Lá vị đằng",
-        "spicevineleafdsc": "Một cuống lá khô với nhiều lá màu phát quang. Có một chút giá trị dinh dưỡng khi ăn, mặc dù vị cay rát kinh khủng. Có thể dùng lên chi để hỗ trợ chữa lành da và chống nhiễm trùng. Có thể dùng làm tán lá để chế tạo.",
+        "spicevineleafdsc": "Một cuống lá khô với nhiều lá màu phát quang. Ăn được, nhưng nó có vị cay. Có thể dùng lên chi để chống nhiễm trùng. Có thể dùng như mớ lá trong chế tạo.",
         "bulbskin": "Vỏ nổ",
         "bulbskindsc": "Một miếng màng dày, màu vàng. Làm dịu cơn khát, nhưng có thể ảnh hưởng nhẹ đến chức năng não. Cũng có thể dùng làm băng gạc và thuốc giảm đau tạm thời.",
         "popfruit": "Trái nổ",
         "popfruitdsc": "Một loại trái cây kỳ lạ, hình chữ nhật sáng bóng. Ngon, làm no và giải khát. Có thể giảm hoặc tăng bệnh phóng xạ một cách bất kì. Có phản ứng tạo tiếng to khi rơi xuống nền ở tốc độ cao - phù hợp để kiểm tra độ cao cú rơi.",
         "antisepticmush": "Hỗn hợp sát trùng",
-        "antisepticmushdsc": "Các mảnh trái cây và tán lá nghiền nát cùng nhau, tạo ra một hỗn hợp hiệu quả trong việc điều trị nhiễm trùng. Sử dụng được 1 lần.",
+        "antisepticmushdsc": "Các mảnh trái cây và lá nghiền nát cùng nhau, tạo ra một hỗn hợp hiệu quả trong việc điều trị nhiễm trùng. Sử dụng được 1 lần.",
         "striderpelt": "Da lông Băng Bộ Trùng",
         "striderpeltdsc": "Một mảnh da lông dày, trắng mịn xé từ một con Băng bộ trùng. Cung cấp cách nhiệt đáng kể.",
         "funguschunk": "Khúc nấm",
@@ -527,7 +541,7 @@
         "stringdsc": "Một sợi dây mỏng, bền một cách bất ngờ làm bằng vật chất thực vật đã xử lý. Dùng trong các công thức chế tạo phức tạp hơn.",
         "stick": "Cây gậy",
         "stickdsc": "Một cây gậy gỗ ngắn. Mặc dù rất dễ vỡ, nhưng nó cũng nhẹ. Quá nhỏ để dùng làm vũ khí. Có thể hoạt động như một cái búa tạm thời.",
-        "ilmenitechunk": "Khúc Ilmenite",
+        "ilmenitechunk": "Mẫu Ilmenite",
         "ilmenitechunkdsc": "Một khoáng chất oxit titan-sắt. Dù rất đắt đỏ, có thể được chế biến thành hợp kim titan mạnh.",
         "titaniumslab": "Phiến Titan",
         "titaniumslabdsc": "Một phiến hình chữ nhật làm bằng hợp kim titan mạnh. Có thể dùng cho chế tạo nâng cao.",
@@ -539,8 +553,8 @@
         "rawcopperdsc": "Khúc đồng thô bị oxy hóa nặng. Bạn có thể tinh chế nó để sử dụng trong thiết bị điện tử.",
         "processedcopper": "Đồng đã qua xử lý",
         "processedcopperdsc": "Khúc đồng được xử lý hóa sinh. Dễ uốn và dẫn điện, bạn có thể biến nó thành dây nối cho thiết bị điện tử.",
-        "plasticchunk": "Khúc nhựa",
-        "plasticchunkdsc": "Một khúc nhựa dẻo đã bị biến dạng rõ rệt. Có thể dùng trong chế tạo, chủ yếu trong điện tử.",
+        "plasticchunk": "Miếng nhựa",
+        "plasticchunkdsc": "Một miếng nhựa dẻo đã bị biến dạng rõ rệt. Có thể dùng trong chế tạo, chủ yếu trong điện tử.",
         "flexiglass": "Kính dẻo",
         "flexiglassdsc": "Một tấm vật liệu linh hoạt, trong suốt, làm từ nhựa được xử lý hóa học. Dùng trong chế tạo.",
         "bundleofwires": "Bó dây điện",
@@ -559,8 +573,8 @@
         "autoinjectordsc": "Một kỳ quan y tế, thiết bị nhỏ này có khả năng tự động tìm tĩnh mạch hoặc động mạch để tiêm một liều đã cho trước. Dùng trong chế tạo y tế.",
         "keratinbooster": "Thuốc kích thích Keratin",
         "keratinboosterdsc": "Một chai 100mL được dán nhãn là chất bổ sung chăm sóc móng. Liều dùng là 50mL cho mỗi lần uống.",
-        "drillrepairkit": "Bộ sửa chữa máy khoan",
-        "drillrepairkitdsc": "Một gói nhỏ các bộ phận dự phòng, được tạo ra để sửa chữa Vỏ khoan. Bạn có thể dùng thứ này để sửa chữa Vỏ khoan về lại mức hoạt động được.",
+        "drillrepairkit": "Bộ sửa chữa Buồng khoan",
+        "drillrepairkitdsc": "Một gói nhỏ các bộ phận dự phòng, được tạo ra để sửa chữa Buồng khoan. Bạn có thể dùng thứ này để sửa chữa Buồng khoan về lại mức hoạt động được.",
         "campfire": "Lửa trại",
         "campfiredsc": "Một ngọn lửa trại đang cháy. Ấm áp và thoải mái, bạn sẽ ấm lên khi ở cạnh nó. Dùng làm nguồn nhiệt trong nhiều công thức món ăn.",
         "firestarter": "Dụng cụ tạo lửa",
@@ -588,11 +602,11 @@
         "minibarrel": "Bình chứa mini",
         "minibarreldsc": "Một bình công nghiệp nhỏ dùng để chứa chất lỏng. Cực kỳ nặng và không thực tế để sử dụng.",
         "peglimb": "Chi giả bằng gỗ",
-        "peglimbdsc": "Một chi giả tự chế bằng gỗ để thay thế các chi bị mất. Kém hiệu quả hơn chi bình thường và dễ bị nứt gãy. Sửa chữa bằng các mảnh gỗ vụn. Sử dụng trên phần ngực/thân để mang. Cần 7 INT để đeo chắc chắn.",
+        "peglimbdsc": "Một chi giả tự chế bằng gỗ để thay thế các chi bị mất. Kém hiệu quả hơn chi bình thường và dễ bị nứt gãy. Sửa chữa bằng gỗ. Sử dụng trên phần ngực/thân để mang. Cần 7 INT để đeo chắc chắn.",
         "steelprosthesis": "Chi giả bằng thép",
-        "steelprosthesisdsc": "Một chi giả bằng kim loại để thay thế các chi bị mất. Đa phần tương tự như chi bình thường. Sửa chữa bằng các phế liệu kim loại. Sử dụng trên phần ngực/thân để mang. Cần 10 INT để đeo chắc chắn.",
+        "steelprosthesisdsc": "Một chi giả bằng kim loại để thay thế các chi bị mất. Đa phần tương tự như chi bình thường. Sửa chữa bằng phế liệu. Sử dụng trên phần ngực/thân để mang. Cần 10 INT để đeo chắc chắn.",
         "peo": "Chi CHG",
-        "peodsc": "Chi Cường Hóa Giả. Tốt hơn chi bình thường về gần như mọi mặt. Sửa chữa bằng tấm Titan. Sử dụng trên phần ngực/thân để mang. Cần 14 INT để đeo chắc chắn."
+        "peodsc": "Chi Cường Hóa Giả. Tốt hơn chi bình thường về gần như mọi mặt. Sửa chữa bằng Titan. Sử dụng trên phần ngực/thân để mang. Cần 14 INT để đeo chắc chắn."
     },
     "buildings": {
         "animalcorpse": "Xác động vật",
@@ -604,15 +618,20 @@
         "bouncecap": "Nấm nhảy",
         "bouncecapdsc": "Wheeeeee!",
         "climbingropeextended": "Dây leo núi",
-        "climbingropeextendeddsc": "Đoạn dây dài và cứng cáp. Giữ phím W khi ở gần nó để bắt đầu leo.",
+        "climbingropeextendeddsc": "Đoạn dây dài và cứng cáp. Giữ phím [Lên] khi ở gần nó để bắt đầu leo.",
         "glowshroom": "Nấm phát sáng",
         "glowshroomdsc": "Hơi có tính phóng xạ và sáng chói lóa.",
         "mushroomtree": "Cây nấm",
         "mushroomtreedsc": "Trông có vẻ phát quang sinh học.",
-        "drillpod": "Vỏ khoan",
+        "drillpod": "Buồng khoan",
         "drillpoddsc": "Dùng để vận chuyển người khoảng cách xa xuyên qua mặt đất rắn. Dù nó không ở trạng thái hoạt động, bạn có thể làm nó hoạt động nếu mang theo bộ sửa chữa. Có thể dùng để vượt xuống 2 tầng.",
-        "drillpoddscfixed": "Dùng để vận chuyển người khoảng cách xa xuyên qua mặt đất rắn.\n\nNgồi xổm bên trong nó để bỏ qua 2 tầng đi xuống. Có thể gây giảm thính lực do lớp cách âm đã bị mòn.",
-        "drillpodbroken": "Vỏ khoan bị hỏng",
+        "highpowereddrillpod": "Buồng khoan công suất cao",
+        "highpowereddrillpoddsc": "Một khoang vận chuyển hiện đại bậc nhất, dùng để đưa người đi một quãng đường xa xuyên qua lòng đất. Bạn sẽ cần phải tìm một nguồn năng lượng đủ mạnh để vận hành nó...",
+        "highpowereddrillpoddsc2": "Một khoang vận chuyển hiện đại bậc nhất, dùng để đưa người đi một quãng đường xa xuyên qua lòng đất. Đến lúc để nói tạm biệt với nơi này rồi.",
+        "drillpoddscfixed": "Dùng để vận chuyển người khoảng cách xa xuyên qua mặt đất rắn.\n\nCúi người xuống ở bên trong nó để vượt xuống 2 tầng. Có thể gây giảm thính lực do lớp cách âm đã bị mòn.",
+        "highpowereddrillpodbroken": "Buồng bị hỏng",
+        "highpowereddrillpodbrokendsc": "Bạn thật sự đẩy nó vượt quá ngưỡng hoạt động của nó luôn. Có vẻ như bạn cũng vô tình cán qua vài thứ trên đường xuống.",
+        "drillpodbroken": "Buồng khoan bị hỏng",
         "drillpodbrokendsc": "Nó bị hỏng không thể sửa chữa được.",
         "frigiant": "Cây Đại Hàn",
         "frigiantdsc": "Một cái cây băng giá, bóng bẩy. Một bầu hình cầu đang treo trên đó.",
@@ -668,7 +687,7 @@
         "thornbackyoung": "Thích Giáp Trùng",
         "thornbackyoungdsc": "Một con thích giáp trùng trẻ, nhiều lông và rất hung dữ. Chúng dường như thích đào hầm qua lòng đất và xé xác bất kỳ vật thể nào đang di chuyển gần đó.",
         "thornbackelder": "Thích Giáp Trùng Cổ Đại",
-        "thornbackelderdsc": "CHẠY ĐI!",
+        "thornbackelderdsc": "<color=\"red\">CHẠY ĐI!",
         "cavetick": "Bọ ve hang",
         "cavetickdsc": "",
         "overgrowntick": "Bọ ve khổng lồ",
@@ -683,7 +702,7 @@
         "coldpuffdsc": "Một quả bóng màu trắng kỳ lạ lơ lửng trên không, được giữ lại bằng những xúc tu màu tím. Không hiểu sao nó lại rất lạnh.",
         "coldpuffdsc2": "Công nhận là nó có một cơ chế rất kỳ lạ để phát tán bào tử.",
         "spicevine": "Vị đằng",
-        "spicevinedsc": "Một loại cây thấp, chắc khỏe. Cảm giác cực kỳ khô. Bạn có thể leo lên nó để giảm chấn khi rơi.",
+        "spicevinedsc": "Một loại cây thấp, chắc khỏe. Cảm giác cực kỳ khô. Bạn có thể leo lên nó.",
         "lifepodbuttonheat": "Công tắc nhiệt",
         "lifepodbuttonheatdsc": "Một nút màu đỏ, trông có vẻ rẻ tiền. Nút này bật tắt máy sưởi và máy lạnh của khoang cứu sinh. Đang để ở chế độ <>.",
         "lifepodbuttonshower": "Công tắc vòi sen",
@@ -692,7 +711,7 @@
         "EmissiveCrystaldsc": "Một ánh sáng khá rực rỡ tỏa ra từ nó.",
         "foodbox": "Hộp thực phẩm",
         "foodboxdsc": "Có các vật phẩm thực phẩm bên trong.",
-        "geotree": "Hình Diệp Thảo",
+        "geotree": "Cây Hình Thảo",
         "geotreedsc": "Nó xốp! Có những thứ trông như chiếc lá mang hình dạng hình học kỳ lạ trên đó.",
         "glowplant": "Quang Thảo",
         "glowplantdsc": "Một loại cây phát quang sinh học màu xanh lá cây. Nó dường như không bị ảnh hưởng bởi môi trường.",
@@ -710,6 +729,8 @@
         "LifePodLightdsc": "Có một bóng đèn bên trong - bạn có thể lấy nó.",
         "medcrate": "Thùng y tế",
         "medcratedsc": "Có các vật phẩm y tế bên trong.",
+        "techball": "Bóng Công Nghệ",
+        "techballdsc": "Có vẻ như nó đang gặp trục trặc..? Bạn có thể mở nó.",
         "rechargingstation": "Trạm sạc",
         "rechargingstationdsc": "Một trạm dùng để sạc lại pin. Chấp nhận pin mọi kích cỡ, và dường như có nguồn điện vô hạn. Sử dụng để lắp pin từ tay chính của bạn, sau đó kéo pin trở lại bản thân.\n\nNó dường như có một máy nghe nhạc để làm dịu bầu không khí trong khi bạn chờ... Trớ trêu thay, nó lại thiếu pin.",
         "hydreed": "Cỏ tích thủy",
@@ -751,6 +772,8 @@
         "crystalmetamorphic": "biến chất",
         "crystalhealing": "trị liệu",
         "crystalshy": "ngụy trang",
+        "crystalproperty": "Có tính chất: ",
+        "crystalproperties": "Có các tính chất: ",
         "sandrose": "Hoa hồng cát",
         "sandrosedsc": "Một loại cây đẹp kỳ lạ với một vài hình dạng thuôn dài mọc trên đó.",
         "scrapeater": "Máy ăn phế liệu",
@@ -766,13 +789,16 @@
         "spikestabberdscused": "Có vẻ như bây giờ nó vô hại rồi.",
         "stoneplant": "Thạch Thảo",
         "stoneplantdsc": "Đó là một khối vật liệu cứng, giống như đá với những đốm màu xanh lá cây xốp dính trên đó.",
+        "fan": "Máy móc cũ",
+        "fandsc": "Các cánh trông sắc nhọn, nhưng mỏng manh.",
+        "fandsc2": "Không còn đáng sợ nữa.",
         "TurbulentCrystal": "Pha lê hỗn loạn",
         "TurbulentCrystaldsc": "Nó hơi rung rinh.",
         "turret": "Tháp pháo",
         "turretdsc": "Có vẻ như có một loại máy dò nhiệt nào đó trên đó.",
         "ceilingturret": "Tháp pháo đính trần",
         "ceilingturretdsc": "Có vẻ như có một loại cảm biến nhiệt/chuyển động nào đó. Chắc là bạn có thể lẻn qua?",
-        "grate": "Màng kim loại",
+        "grate": "Lưới kim loại",
         "gratedsc": "",
         "stalagmite": "Măng đá",
         "stalagmitedsc": "May mắn thay, đỉnh của nó được bo tròn.",
@@ -836,13 +862,12 @@
         "grabberplantdsc": "Nó có vẻ đang dò dẫm môi trường xung quanh bằng phần chóp của nó.",
         "grabbershroom": "Nấm xúc tu",
         "grabbershroomdsc": "Bạn phải cố gắng mới hiểu được làm thế nào một loại nấm có thể làm được điều này.",
+         "scientist": "Nhân viên",
+        "scientistdsc": "Một tên áo trắng.",
+        "guard": "Nhân viên",
+        "guarddsc": "Một tên áo xanh.",
         "terminal": "Thiết bị đầu cuối",
         "terminaldsc": "Một thiết bị đầu cuối máy tính cũ.",
-        "techball": "Bóng Công Nghệ",
-        "techballdsc": "Có vẻ như nó đang gặp trục trặc..? Bạn có thể mở nó.",
-        "fan": "Máy móc cũ",
-        "fandsc": "Các cánh trông sắc nhọn, nhưng mỏng manh.",
-        "fandsc2": "Không còn đáng sợ nữa.",
         "macrofleshrebuilder": "Máy tái tạo mô cỡ lớn",
         "macrofleshrebuilderdsc": "Một loại máy phẫu thuật tân tiến. Bạn có thể tìm cách sử dụng nó."
     },
@@ -1014,6 +1039,7 @@
         "impendingdoom": "Cảm giác tai ương đang đến",
         "horrified": "KINH HÃI",
         "focused": "TẬP TRUNG",
+        "cargo": "Hàng hóa được chôn vào",
         "prosthesis": "Chi giả",
         "loosescrews": "Vít lỏng",
         "bentprosthesis": "Chi giả bị cong",
@@ -1164,7 +1190,7 @@
         "barotrauma3dsc": "Áp suất đang bắt đầu làm đầu bạn đau. Bạn cần phải khẩn trương trước khi nó trở nên tồi tệ hơn.",
         "barotrauma4dsc": "Bạn đang chật vật để thở... Có điều gì đó trong không khí đang từ từ giết chết bạn. <i>Bạn không muốn chết khi đã ở rất gần mục tiêu...",
         "energizeddsc": "Giảm lượng mất thể lực và bớt buồn ngủ. (<>)",
-        "hemothoraxdsc": "Máu đang tích tụ trong khoang màng phổi do chảy máu trong, dần dần làm suy giảm khả năng hít thở của bạn. Ngực của bạn rất đau. Khuyên bạn nên điều trị.",
+        "hemothoraxdsc": "Máu đang tích tụ trong khoang màng phổi do chảy máu trong, dần dần làm suy giảm khả năng hít thở của bạn. Dùng ống dẫn lưu màng phổi.",
         "hollowdsc": "",
         "badsleepdsc": "Lưng của bạn thực sự không đánh giá cao lựa chọn chỗ ngủ của bạn. Lần tới hãy thử chọn một bề mặt đỡ cứng hơn. Giảm nhận thức.",
         "laststanddsc": "Bạn sẽ không gục ngã dễ dàng như vậy. Một cái gì đó sâu thẳm bên trong buộc bạn phải tiếp tục vượt qua.",
@@ -1187,6 +1213,7 @@
         "horrifieddsc": "KHÔNG THỂ TẬP TRUNG. KHÔNG THỂ SUY NGHĨ. MỌI THỨ KHÁC KHÔNG CÒN QUAN TRỌNG NỮA. CHẠY CỨU MẠNG MÌNH HOẶC ĐỨNG LÊN CHIẾN ĐẤU VÌ NÓ ĐI!",
         "focuseddsc": "<i>Hôm nay cả hai chúng ta đều phải chết. Chỉ có kẻ sẽ chết muộn hơn một chút thôi.",
         "focuseddscalt": "<i>Đã đến lúc phải đoạt lấy sự tự do của bạn.",
+        "cargodsc": "Bề ngoài trông rất kinh tởm và cảm giác mang lại thì khó chịu đến quái đản, dù vậy, bạn lại cảm thấy như được tiếp thêm năng lượng...",
         "prosthesisdsc": "Một chi giả được gắn trên cơ thể bạn. Chi giả không thể chảy máu hay cảm nhận đau đớn, nhưng cần sửa chữa bằng vật liệu cùng loại nếu bị hư hỏng.",
         "loosescrewsdsc": "Một trong các chi giả của bạn đang bị lỏng, gây hư hại vật liệu khi bạn di chuyển. Có thể do mảnh vỡ hoặc mất vật liệu nghiêm trọng.",
         "bentprosthesisdsc": "Một trong các chi giả của bạn đã bị biến dạng quá mức, ngăn cản nó hoạt động và không thể sửa theo cách thông thường. Sửa bằng bất cứ công cụ cờ lê nào.",
@@ -1205,7 +1232,7 @@
         "layertitle7": "Hồ nấm",
         "layertitle8": "Hang pha lê",
         "layertitle9": "Vùng địa nhiệt",
-        "layertitle10": "NƠI CHÚNG TA PHẢI ĐẾN",
+        "layertitle10": "NƠI TA PHẢI ĐẾN",
         "layertitle11": "ĐƯỜNG LÊN ĐỎ THẪM",
         "layertitle12": "Trái Đất\nPhòng thí nghiệm, ở đâu đó...",
         "layermodifier0": "(Mù Mịt)",
@@ -1219,6 +1246,14 @@
         "layermodifier8": "(Nhiều bọ)",
         "layermodifier9": "(Nhiễm phóng xạ)",
         "layermodifier10": "(Bão mặt trời)",
+        "layermodifier11": "(Nhiễu động)",
+        "layermodifier12": "(Óng ánh)",
+        "layermodifier13": "(Giàu Oxy)",
+        "layermodifier14": "(Vô trùng)",
+        "layermodifier15": "(Ổn định)",
+        "layermodifier16": "(Đẹp đẽ)",
+        "layermodifier17": "(Khó coi)",
+        "layermodifier18": "(Giàu kim loại)",
         "layermodifier0dsc": "Nơi này có vẻ hơi mù mịt hơn mong đợi.",
         "layermodifier1dsc": "Không khí ở đây ấm hơn mong đợi.",
         "layermodifier2dsc": "Không khí ở đây nóng hơn nhiều so với dự kiến!",
@@ -1230,6 +1265,14 @@
         "layermodifier8dsc": "Nơi này có vẻ có mật độ côn trùng hoạt động rất cao.",
         "layermodifier9dsc": "Chất thải hạt nhân đã bị vứt lại ở tầng này.",
         "layermodifier10dsc": "Một cơn bão mặt trời mạnh đã vô hiệu hóa con chip của bạn trong một lúc.",
+        "layermodifier11dsc": "Một thế lực nào đó đang ảnh hưởng đến trọng lực nơi này.",
+        "layermodifier12dsc": "Những luồng sáng kỳ lạ lan tỏa khắp khu vực.",
+        "layermodifier13dsc": "Không khí ở đây sảng khoái và tràn đầy năng lượng một cách khác thường.",
+        "layermodifier14dsc": "Một vi sinh vật trong không khí khiến nhiễm trùng ở đây khó xảy ra hơn.",
+        "layermodifier15dsc": "Nơi này có vẻ có ít địa chấn hơn.",
+        "layermodifier16dsc": "Điều gì đó ở đây khiến bạn thấy nó rất đẹp.",
+        "layermodifier17dsc": "Điều gì đó ở đây khiến bạn cảm thấy khó chịu.",
+        "layermodifier18dsc": "Địa hình ở đây có vẻ như giàu kim loại.",
         "genclearingworld": "Đang dọn khu vực...",
         "geninstantiatingchunks": "Đang tạo khu vực mới...",
         "genpreprocessing": "Đang sửa màu sắc...",
@@ -1288,13 +1331,14 @@
         "mushroomcap": "Mũ nấm",
         "mushroombody": "Thân nấm",
         "copper": "Đồng",
-        "ilmenite": "Quặng Ilmenit",
+        "ilmenite": "Ilmenit",
         "heatedrock": "Đá nóng",
         "obsidian": "Hắc diện thạch",
         "gabbro": "Đá Gabro",
         "mantle": "Lớp manti",
         "crimsongrass": "Cỏ huyết sắc",
         "mush": "Chất nhão",
+        "indestructiblealloy": "Hợp kim bất hủy",  
         "lrdserum": "Huyết thanh HSCB.",
         "lrdserumdsc": "Hỗn hợp đặc biệt được sử dụng bởi Thiết bị Hồi Sức Cục Bộ. Không có tác dụng nếu tiêm bằng công cụ khác.",
         "cleanwater": "Nước sạch",
@@ -1342,7 +1386,7 @@
         "powderedmilk": "Sữa bột",
         "powderedmilkdsc": "Sữa bột cô đặc được khử nước và nén lại. Không thể ăn trực tiếp, nhưng sẽ biến thành sữa khi pha với nước nóng.",
         "morphine": "Morphin",
-        "opium": "Thuốc phiện",
+        "opium": "Opium",
         "heroin": "Heroin",
         "naloxone": "Naloxone",
         "fentanyl": "Fentanyl",
@@ -1431,8 +1475,10 @@
         "waterdsc": "Nước ngầm chưa lọc. Chủ yếu an toàn để uống, mặc dù hơi gây buồn nôn.",
         "dirtywater": "Nước bẩn",
         "dirtywaterdsc": "Ít nhất thì nó không còn dính trên cơ thể bạn nữa. Không an toàn để uống.",
-        "algae": "Quang Tảo",
-        "algaedsc": "Nước có loài tảo phát quang sinh học mọc dày đặc trong đó. Bạn dễ dàng nổi trên nó. Không ăn được.",
+        "lumalgae": "Quang Tảo",
+        "lumalgaedsc": "Nước có loài tảo phát quang sinh học mọc dày đặc trong đó. Bạn dễ dàng nổi trên nó. Không ăn được.",
+        "lumalgae": "Quang Tảo",
+        "lumalgaedsc": "Nước có loài tảo phát quang sinh học mọc dày đặc trong đó. Bạn dễ dàng nổi trên nó. Không ăn được.",
         "redsludge": "Bùn đỏ",
         "redsludgedsc": "Cực kì kinh tởm. Một loại thịt nhầy nhựa nào đó. Mùi hôi thối kinh khủng.",
         "magma": "Dung nham",
@@ -1490,7 +1536,9 @@
         "Shelly": "Shelly",
         "clicktocontinue": "Nhấp để tiếp tục...\nESC để bỏ qua",
         "clicktocontinuealt": "Nhấp để tiếp tục...",
-        "favouriteditem": "Các vật phẩm được yêu thích sẽ không bị sử dụng trong chế tạo",
+        "favourite": "Ưa thích vật phẩm",
+        "favouriteditem": "Các vật phẩm được ưa thích sẽ không bị sử dụng trong chế tạo",
+        "customizeitem": "Tùy chỉnh vật phẩm",
         "mainhand": "Tay thuận",
         "secondaryhand": "Tay phụ",
         "mouth": "Miệng",
@@ -1505,23 +1553,23 @@
         "savecontinuemenudsc": "Tiếp tục cuộc thám hiểm đang diễn ra.",
         "char0name": "[SAW-01] \"Experiment\"",
         "char0desc": "[HỌ] \"Họ Chó\"\n[THOẠI_NỔI_BẬT] \"H-hửm? Mình á? Đến lượt mình rồi ư..?\"\n[DỰ_ĐOÁN_THÀNH_CÔNG] \"0.00374%\"\n[GHI_CHÚ] \"Không có gì thú vị\"",
-        "char0quirks": "<spoiler>",
+        "char0quirks": "[HỌ_CHÓ] - Dạ dày của bạn không thích ứng tốt với theobromine.\n[THỊ_GIÁC_PHÁT_QUANG] - Trong trường hợp khẩn cấp, bạn trở thành nguồn sáng của chính mình.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[HỌ] \"Họ Chó\"\n[THOẠI_NỔI_BẬT] \"Tôi sẽ tuân thủ\"\n[DỰ_ĐOÁN_THÀNH_CÔNG] \"0.0103%\"\n[GHI_CHÚ] \"Hơi hợm hĩnh\"",
-        "char1quirks": "<spoiler>",
+        "char1quirks": "[NGỦ_RŨ] - Chu kì ngủ của bạn ngắn hơn nhiều, nhưng bạn không cảm nhận được các tác động xấu từ việc ngủ trên bề mặt gồ ghề.\n[VÓC_DÁNG] - Bạn nhỏ xíu!\n[MẮT_THÍCH_NGHI] - Bạn nhìn tốt hơn và các nguồn sáng rọi xa hơn.\n[ĂN_CỎ_MỘT_PHẦN] - Thịt khiến bạn hơi buồn nôn và cung cấp ít dinh dưỡng hơn.\n[YẾU_ỚT] - Tất cả chỉ số STR và RES nhận được bị giảm một nửa.\n[XẠ_THỦ] - Bạn có thể sử dụng các phím tắt để sử dụng súng và theo dõi lượng đạn.\n[TINH_THẦN_THÉP] - Bạn sẽ khó bị suy sụp tinh thần hơn. Bạn không thích thể hiện tình cảm, trừ khi bạn thực sự cần nó.\n[HỌ_CHÓ] - Dạ dày của bạn không thích ứng tốt với theobromine. ",
         "char2name": "[SAW-12] \"Dune\"",
         "char2desc": "[HỌ] \"Họ Côn Trùng\"\n[THOẠI_NỔI_BẬT] \"Hrrnn... Du-ne đi sao..?\"\n[DỰ_ĐOÁN_THÀNH_CÔNG] \"0.001%\"\n[GHI_CHÚ] \"Eo! Nó đang nhỏ dãi kìa!\"",
-        "char2quirks": "<spoiler>",
-        "characterunlock": "[TỪ_CHỐI_TRY_CẬP]",
+        "char2quirks": "[THỦY_SINH] - Bạn có thể thở dưới nước và thích ngủ dưới đó.\n[KHÔNG_LÔNG] - Việc thiếu đi lông khiến bạn dễ bị ảnh hưởng bởi nhiệt độ môi trường. Cơ thể bạn ráo nước nhanh hơn nhiều. Nước ngầm và các dung dịch khác sẽ ổn định thân nhiệt của bạn.\n[ĂN_ĐỒNG_LOẠI] - Bạn có thể ăn thịt sống và đập phá xác mà không bị ảnh hưởng gì. Bạn hầu như miễn nhiễm với ngộ độc thực phẩm.\n[ĂN_THỊT] - Ăn trái cây sẽ khiến bạn nôn nó ra ngay lập tức.\n[CƠ_TO_NÃO_NHỎ] - Bạn không <i>nghĩ</i> gì cả. Tất cả điểm INT nhận được bị giảm đi một nửa.\n[VÔ_CẢM] - Biến động tâm trạng giảm xuống một phần ba. Bạn không ôm hay mặc cả được. Việc giết người không làm bạn để tâm mấy.\n[TÍNH_CHITIN] - Phần phát triển bằng chitin cho bạn khả năng chống chịu được các chấn thương vật lý.",
+        "characterunlock": "[TỪ_CHỐI_TRUY_CẬP]",
         "characterunlockdsc": "Hoàn thành màn chạy với nhân vật trước để mở khóa",
-        "presetnormal": "Bình thường",
-        "presetnormaldsc": "Trải nghiệm mặc định. Mắc sai lầm sẽ bị trừng phạt. Sự hiểu biết và nhận thức tình huống được đền đáp xứng đáng. Thời gian là vàng bạc. Cái chết của bạn gần như là điều chắc chắn.",
+        "presetnormal": "Khó khăn",
+        "presetnormaldsc": "Mắc sai lầm sẽ bị trừng phạt. Sự hiểu biết và nhận thức tình huống được đền đáp xứng đáng. Thời gian là vàng bạc.",
         "presetrelaxed": "Thư giãn",
         "presetrelaxeddsc": "Chuyến thám hiểm chậm rãi, nhẹ nhàng hơn. Những sai lầm vẫn bị trừng phạt, nhưng dễ phòng tránh hơn. Bạn có thêm thời gian để khám phá và quan sát môi trường xung quanh.",
         "presetparadise": "Thiên đường",
         "presetparadisedsc": "Những hang động này chắc chắn tốt hơn các phòng thí nghiệm. Sai lầm ít bị trừng phạt hơn nhiều, vật phẩm và những khuôn mặt thân thiện thì nhan nhản. Có rất ít mối nguy hiểm hay áp lực thời gian.",
         "presetdesolate": "Cô độc",
-        "presetdesolatedsc": "Một mình trong bóng tối. Rất ít đồ để nhặt và nguy hiểm luôn rình rập xung quanh. Mặc dù số thú sống sót rất hiếm, nhưng bất kì ai mà bạn tìm thấy cũng sẽ có nhiều điều để chia sẻ.",
+        "presetdesolatedsc": "Một mình trong bóng tối. Rất ít đồ để nhặt và nguy hiểm luôn rình rập xung quanh. Mặc dù số thú sống sót rất hiếm, nhưng bất kì ai mà bạn tìm thấy cũng sẽ có nhiều điều để chia sẻ. Cái chết của bạn là điều chắc chắn.",
         "presetunchipped": "Không có Chip",
         "presetunchippeddsc": "Dù việc không có chip làm giảm bớt giới hạn thời gian nhân tạo so với những cá thể bị gắn chip, nó cũng khiến việc tự chẩn đoán bệnh cho bản thân trở thành một nỗ lực khó khăn. Biết đâu điều đó sẽ xứng đáng vào phút cuối?",
         "presetendless": "Vô tận",
@@ -1579,6 +1627,8 @@
         "runsetstrokesdsc": "Xác định xem bạn có thể bị đột quỵ khi bị tăng huyết áp cấp tính không",
         "runsetbraindamagefx": "Hiệu ứng tổn thương não",
         "runsetbraindamagefxdsc": "Xác định xem tổn thương não có gây ra những cơn co giật định kỳ không",
+        "runsetcrushdepth": "Sát thương do độ sâu tới hạn",
+        "runsetcrushdepthdsc": "Xác định liệu bạn có bắt đầu chịu sát thương khi vượt quá độ sâu tới hạn",
         "runsetinfinitelaststand": "Bất Khuất vô tận",
         "runsetinfinitelaststanddsc": "Xác định xem bạn có thể thử cơ may Bất Khuất nhiều hơn một lần trong một đợt chạy hay không",
         "runsetmoodnormalizationrate": "Tốc độ bình thường hóa tâm trạng",
@@ -1615,7 +1665,7 @@
         "runsetlockpickprecisiondsc": "Góc sai số rộng bao nhiêu trong các minigame bẻ khóa",
         "runsetambientlight": "Ánh sáng môi trường",
         "runsetambientlightdsc": "Mức độ chiếu sáng của những nơi không có nguồn sáng trực tiếp",
-        "runsetambientlightnone": "Tối đen như mực",
+        "runsetambientlightnone": "Tối như mực",
         "runsetambientlightenough": "Đủ để nhìn",
         "runsetambientlightbright": "Sáng sủa",
         "runsetoreamount": "Lượng quặng",
@@ -1687,9 +1737,9 @@
         "gamesetlineofsightcountdsc": "Độ phân giải shader của vùng quan sát được, nếu áp dụng. Giá trị cao hơn làm giảm hiệu suất",
         "gamesetscreenshake": "Rung màn hình",
         "gamesetscreenshakedsc": "Mức độ rung màn hình sau những cú ngã mạnh, nổ, v.v.",
-        "gamesetcensorpain": "Kiểm duyệt cơn đau",
+        "gamesetcensorpain": "Ẩn các hiệu ứng do cơn đau",
         "gamesetcensorpaindsc": "Vô hiệu hóa tiếng rên rỉ vì đau đớn và giảm bớt một số dòng chữ.\nLƯU Ý: Không khuyến khích dùng trừ khi bạn thực sự cần để tiếp tục chơi",
-        "gamesetcensormood": "Kiểm duyệt tâm trạng",
+        "gamesetcensormood": "Ẩn các hiệu ứng do tâm trạng",
         "gamesetcensormooddsc": "Làm dịu đi các sự kiện tâm trạng tiêu cực và một số dòng chữ.\nLƯU Ý: Không khuyến khích dùng trừ khi bạn thực sự cần để tiếp tục chơi",
         "gamesetalwaysexpand": "Luôn mở rộng mô tả vật phẩm",
         "gamesetalwaysexpanddsc": "Nếu bật, bạn sẽ luôn thấy mô tả vật phẩm đầy đủ khi di chuột qua vật phẩm mà không cần giữ phím mở rộng",
@@ -1705,6 +1755,13 @@
         "gamesetskipintrodsc": "Bởi vì bạn đã xem phần văn bản giới thiệu quá nhiều lần...",
         "gamesetrpc": "Rich Presence (Discord)",
         "gamesetrpcdsc": "Cho phép Discord hiển thị trò chơi này trên hồ sơ của bạn thông qua Rich Presence",
+        "gamesethidemenuprogression": "Ẩn hiển thị tiến trình trong menu",
+        "gamesethidemenuprogressiondsc": "Nếu bật, các vật phẩm đặc biệt cho mỗi phần kết mà bạn hoàn thành trong menu chính sẽ được ẩn đi. Dùng khi bạn không muốn spoil nội dung cho người khác.",
+        "gamesetunits": "Đơn vị đo",
+        "gamesetunitsdsc": "Xác định đơn vị sử dụng cho khoảng cách/nhiệt độ/cân nặng",
+        "gamesetunitsmetric": "Hệ mét",
+        "gamesetunitsimperial": "Hệ đo lường Anh/Mỹ",
+        "gamesetunitsburger": "Hệ đo lường Burger",
         "gamesetmastervolume": "Âm lượng tổng",
         "gamesetmastervolumedsc": "",
         "gamesetmusicvolume": "Âm lượng nhạc",
@@ -1731,7 +1788,8 @@
         "gamesetragdoll": "Hiệu ứng Ragdoll",
         "gamesetwoundview": "Bảng sức khỏe",
         "gamesetcraft": "Menu chế tạo",
-        "gamesetfavourite": "Đánh dấu vật phẩm ưa thích",
+        "gamesetfavourite": "Ưa thích vật phẩm",
+        "gamesetcustomizeitem": "Tùy chỉnh vật phẩm",
         "gamesettoggleinventory": "Mở/Đóng hành trang",
         "gamesetspeed1": "Tốc độ bình thường",
         "gamesetspeed2": "Tua nhanh",
@@ -1829,14 +1887,14 @@
         "watchfibrillation": "Mức rung tim: ",
         "mp3play": "Đang phát: ",
         "rechargingstationcheer": "Vui lòng thưởng thức một vài giai điệu chất lượng trong lúc chờ đợi",
-        "discretionwarning": "Trò chơi này chứa đựng những mô tả về bạo lực, tự làm hại bản thân và đau khổ nói chung\n\nMột số nội dung có thể ảnh hưởng đến người chơi nhạy cảm với ánh sáng\n\n<color=\"grey\">Nhấn Chuột Trái để tiếp tục",
+        "discretionwarning": "Trò chơi này chứa đựng những mô tả về bạo lực, việc tự làm hại bản thân và nỗi thống khổ nói chung\n\nMột số nội dung có thể ảnh hưởng đến người chơi nhạy cảm với ánh sáng\n\n<color=\"grey\">Nhấn Chuột Trái để tiếp tục",
         "healthpaneltip": "Bảng sức khỏe (R)",
         "craftrepair": "Sửa chữa ",
         "crafttipname": "Chế tạo (C)",
         "crafttipdsc": "Mở/Đóng menu chế tạo\n\nKéo vật phẩm vào đây để xem nó được sử dụng trong công thức nào",
         "craftsearchrecipes": "Tìm kiếm công thức...",
         "craftingredients": "Nguyên liệu",
-        "craftingredientsdsc": "Các vật phẩm yêu thích (<>) sẽ không bị dùng trong quá trình chế tạo",
+        "craftingredientsdsc": "Các vật phẩm ưa thích (<>) sẽ không bị dùng trong quá trình chế tạo",
         "craftinfo": "Thông tin",
         "craftnotmadebefore": "<sprite index=25>Bạn chưa từng chế tạo thứ này trước đây.",
         "craftnotmadebeforetip": "Chế tạo các công thức mới sẽ tăng điểm Trí tuệ (INT) và cải thiện nhẹ tâm trạng.",
@@ -1846,7 +1904,7 @@
         "craftanyliquid": "Bất kỳ chất lỏng nào có",
         "craftitemquality": "- (<1>) yếu tố <2>",
         "craftliquidquality": "- (<1>) yếu tố <2>",
-        "craftcondition": "- Tình trạng ><>%",
+        "craftcondition": "- ở tình trạng ><>%",
         "craftml": "- <>mL",
         "craftinfocondition": "Chất lượng đầu ra: ",
         "craftinfovolume": "Dung tích tạo ra: ",
@@ -1866,7 +1924,7 @@
         "craftingcategorymedicine": "Y tế",
         "craftingcategoryutilities": "Trang bị",
         "craftingcategoryfood": "Thực phẩm",
-        "cqfoliage": "Tán lá",
+        "cqfoliage": "Lá",
         "cqnails": "Đinh",
         "cqwater": "Nước",
         "cqhammering": "Đập",
@@ -1988,7 +2046,7 @@
         "gunrack": "Kéo/thả khóa nòng",
         "gunmagazine": "Đẩy băng đạn",
         "gunsafety": "Bật/Tắt khóa an toàn",
-        "alertitemblocked": "Vật phẩm bị chặn!",
+        "alertitemblocked": "Vật phẩm bị tường chặn!",
         "alertitemfar": "Vật phẩm ở quá xa!",
         "alertpickupwearable": "Đồ mặc trên cơ thể không thể cầm trên tay (Mặc vào/cất đi?)",
         "alertalreadywearing": "Bạn không thể mặc <1> khi đang mặc <2>!",
@@ -2001,15 +2059,16 @@
         "alertprosthesisarm": "Không có tay nào của bạn bị cụt hoàn toàn! Hãy thử loại bỏ phần mỏm cụt còn sót lại.",
         "alertprosthesisleg": "Không có chân nào của bạn bị cụt hoàn toàn! Hãy thử loại bỏ phần mỏm cụt còn sót lại.",
         "alertprosthesisfail": "Bạn gắn chi giả không thành công (Gắn dưới <> INT có thể thất bại).",
-        "alertnanotechsuccess": "<spoiler>",
-        "alertnanotechfail": "<spoiler>",
-        "alertnanotechrepeat": "<spoiler>",
+        "alertnanotechsuccess": "<color=\"green\">Bạn nghĩ ra một công thức mới...",
+        "alertnanotechfail": "<color=\"red\">Chữ viết trông không đọc được...\nHay là để thử lại lần sau?",
+        "alertnanotechrepeat": "Bạn đã đọc cái này rồi. Giữ máy quét bên bạn và tìm các tín hiệu.",
         "nanotechdepth": "Tín hiệu CÔNG NGHỆ NANO được phát hiện ở độ sâu này!",
-        "nanotechdepthinitial": "Tín hiệu CÔNG NGHỆ NANO được phát hiện trong khu vực này...",
+        "nanotechdepthinitialleft": "Tín hiệu CÔNG NGHỆ NANO được phát hiện trong khu vực này, phía bên trái...",
+        "nanotechdepthinitialright": "Tín hiệu CÔNG NGHỆ NANO được phát hiện trong khu vực này, phía bên phải...",        
         "insertsample": "Đưa một mẫu thử",
         "tradeinteract": "Trao đổi",
         "read": "Đọc",
-        "repairmetalalloy": "Sửa chữa bằng Bộ sửa chữa máy khoan",
+        "repairmetalalloy": "Sửa chữa bằng Bộ sửa chữa Buồng khoan",
         "useterminal": "Mở bảng điều khiển",
         "insertscrap": "Bỏ phế liệu vào",
         "open": "Mở",
@@ -2021,7 +2080,7 @@
         "examine": "Kiểm tra",
         "learnedrecipe": "Đã học công thức chế r1.\nNhận được <color=\"green\">25 điểm kinh nghiệm INT.",
         "epdalearn": "Nhận được <color=\"green\">35 điểm kinh nghiệm INT.",
-        "hasbattery": "Sử dụng <lowercase><>\n<sprite index=17 tint=1>Sử dụng công cụ để gỡ ra",
+        "hasbattery": "Có gắn pin <lowercase><>\n<sprite index=17 tint=1>Sử dụng công cụ để gỡ ra",
         "nobattery": "Không có pin (Cỡ tối đa: <>)",
         "unknownobject": "Một thứ gì đó...",
         "unknownmedical": "Một loại đồ dùng y tế nào đó...",
@@ -2036,11 +2095,11 @@
         "small": "Nhỏ",
         "medium": "Vừa",
         "large": "Lớn",
-        "crystaleffect1": "Có gì đó bất thường với nó",
-        "crystaleffect2": "Bạn có thể nhận ra một vài điểm kỳ lạ về nó.",
-        "crystaleffect3": "Cảm giác có nguồn năng lượng tỏa ra từ nó. Bạn nhận thấy nhiều điều dị thường xung quanh nó.",
-        "crystaleffect4": "Một luồng năng lượng mạnh mẽ phát ra từ thứ này. Có vẻ như không gian xung quanh nó đang bị bẻ cong.",
-        "crystaleffectmany": "Có gì đó hoàn toàn không ổn với thứ này. Bạn có lẽ không nên đến gần... Hoặc, có lẽ bạn nên thử?",
+        "crystaleffect1": "Bạn có thể xem xét nó kĩ hơn. Có gì đó bất thường với nó",
+        "crystaleffect2": "Bạn có thể xem xét nó kĩ hơn. Bạn có thể nhận ra một vài điểm kỳ lạ về nó.",
+        "crystaleffect3": "Bạn có thể xem xét nó kĩ hơn. Cảm giác có nguồn năng lượng tỏa ra từ nó. Bạn nhận thấy nhiều điều dị thường xung quanh nó.",
+        "crystaleffect4": "Bạn có thể xem xét nó kĩ hơn. Một luồng năng lượng mạnh mẽ phát ra từ thứ này. Có vẻ như không gian xung quanh nó đang bị bẻ cong.",
+        "crystaleffectmany": "Bạn có thể xem xét nó kĩ hơn. Có gì đó hoàn toàn không ổn với thứ này. Bạn có lẽ không nên đến gần... Hoặc, có lẽ bạn nên thử?",
         "lockprecision": "Sai số bẻ khóa: ",
         "degree": "độ",
         "degrees": "độ",
@@ -2079,15 +2138,17 @@
         "endscreenstatus": "BÁO CÁO TÌNH TRẠNG MSN-CARGO",
         "endscreenunresolved": "CHƯA GIẢI QUYẾT",
         "endscreenresolved": "ĐÃ THU HỒI",
+        "endscreenescape": "THÔNG TIN CHI TIẾT Ở CUỘC HỌP",
         "endscreenfailure": "THẤT BẠI THẢM KHỐC",
         "endscreencasualties": "THƯƠNG VONG:",
         "endscreenunknown": "KHÔNG RÕ",
+        "endscreenmerc": "KHÔNG RÕ - CÓ THỂ CÓ VẤN ĐỀ",
         "endscreenphysical": "TRẠNG THÁI THỂ CHẤT:",
         "endscreendeceased": "ĐÃ TỬ VONG",
         "endscreenexamination": "CÒN SỐNG, ĐANG ĐƯỢC KIỂM TRA",
         "endscreenmental": "TRẠNG THÁI TINH THẦN CUỐI CÙNG:",
         "endscreendepth": "ĐỘ SÂU:",
-        "endscreendepthres": " MÉT TRONG ",
+        "endscreendepthres": " TRONG ",
         "endscreentime": "THỜI GIAN:",
         "endscreencalories": "CALO TIÊU THỤ:",
         "endscreenmainmenu": "QUAY LẠI MENU",
@@ -2126,7 +2187,7 @@
         "healthchipradalert1": "ĐỘ SÂU\nKHÔNG ĐẠT YÊU CẦU",
         "healthchipradalert2": "GIAO THỨC TRỪNG PHẠT\nĐÃ KÍCH HOẠT",
         "healthchipradalert3": "DI CHUYỂN\nNHANH LÊN",
-        "tutbasic1": "Chào mừng đến với khóa huấn luyện ôn tập cuối cùng.",
+        "tutbasic1": "Chào mừng đến với khóa huấn luyện Cơ bản cuối cùng.",
         "tutbasic2": "Chúng ta sẽ đi qua tất cả những điều cơ bản bạn cần biết cho cuộc thử nghiệm tiếp theo mà bạn sẽ tham gia.",
         "tutbasic3": "Vui lòng đi về phía Thiết bị Khung huấn luyện. [A]",
         "tutbasic4": "Lại lần nữa. [D]",
@@ -2163,19 +2224,19 @@
         "tutbasic34": "[CHUỘT PHẢI] kéo thả băng gạc lên chi bị tổn thương.",
         "tutbasic35": "Tới giờ hoạt động thể chất rồi. [CHUỘT TRÁI] để quấn băng! Vì mục đích thử nghiệm, cuộn băng này là vô hạn.",
         "tutbasic36": "Bạn đã được cứu! Ít nhất là lúc này. Bạn phải luôn có sẵn băng gạc bên mình. Chúng cứu được mạng bạn đấy.",
-        "tutbasic37": "Chà. Có vẻ như vết thương đó đã bị nhiễm trùng! (Thông thường bạn sẽ chỉ phát hiện ra điều đó một thời gian sau.)",
+        "tutbasic37": "Chà. Có vẻ như vết thương đó đã bị nhiễm trùng! (Thông thường bạn sẽ chỉ phát hiện ra điều đó sau một thời gian.)",
         "tutbasic38": "Một loại thuốc quan trọng khác! Thuốc sát trùng, hãy đọc mô tả của nó nếu bạn muốn. Nhặt nó lên và mở bảng sức khỏe.",
-        "tutbasic39": "Câu chuyện cũng giống như trước. Bôi thuốc sát trùng vào vết thương nhiễm trùng.",
+        "tutbasic39": "Câu chuyện cũng giống như trước. Xịt thuốc sát trùng vào vết thương nhiễm trùng.",
         "tutbasicfail1": "Bạn... Đã sử dụng hết toàn bộ. Vào sai chỗ...",
         "tutbasicfail2": "Hãy cứ... Tưởng tượng rằng bạn đã làm đúng.",
         "tutbasic40": "Tuyệt! Hãy làm điều này vài phút một lần để vết nhiễm trùng biến mất. Mũi tên trên biểu tượng cho thấy liệu nó đang thoái lui hay tiến triển.",
         "tutbasic41": "Bạn thực sự không nên phớt lờ các bệnh nhiễm trùng; Nếu không được điều trị, chúng sẽ giết chết bạn. Ăn uống đầy đủ và giữ cơ thể khỏe mạnh sẽ làm chậm tiến trình của chúng.",
         "tutbasic42": "Thông tin chi tiết hơn về sức khỏe được cung cấp trong Khóa huấn luyện Sơ cứu. Bạn có thể tham gia sau nếu muốn.",
         "tutbasic43": "Hãy xem thứ này đi.",
-        "tutbasic44": "Túi rác! Bạn chắc hẳn quen với nó. Đôi khi chúng tôi thấy đồng loại của bạn ngủ trong những chiếc túi đó.",
-        "tutbasic45": "Nó là một vật chứa, có nghĩa là nó mở rộng số lượng đồ vật mà bạn có thể mang theo. Nhặt nó lên và kéo một món đồ khác vào trong nó.",
+        "tutbasic44": "Túi rác! Bạn chắc hẳn quen với nó. Đôi khi chúng tôi thấy đồng loại của bạn ngủ trong những chiếc túi này.",
+        "tutbasic45": "Nó là một vật chứa, có nghĩa là nó tăng số lượng đồ vật mà bạn có thể mang theo. Nhặt nó lên và kéo một món đồ khác vào trong nó.",
         "tutbasic46": "Chà, nó đã được lưu trữ vào trong! Bây giờ [CHUỘT PHẢI] vào chiếc túi và kéo món đồ đó ra.",
-        "tutbasic46fail1": "Kh... Không... Sao bạn lại xé toạc nó ra..?",
+        "tutbasic46fail1": "Tạ... Tại... Tại sao bạn lại xé toạc nó ra chứ..?",
         "tutbasic46fail2": "..được rồi. Không sao. Chúng ta tiếp tục nào...",
         "tutbasic46fail3": "Bạn đang thử thách sự kiên nhẫn của tôi đấy. Ngừng việc xé nát các chiếc túi lại. Chúng ta sẽ bỏ qua phần này vì bạn không hợp tác.",
         "tutbasic47": "Làm tốt lắm. Hộp chứa cực kỳ hữu ích để mang theo, hãy chú ý tìm kiếm chúng.",
@@ -2184,15 +2245,15 @@
         "tutbasic50": "Thử cho chiếc túi rác rỗng vào chiếc balo bạn đang đeo. Bạn có thể đặt các vật chứa rỗng vào bên trong các vật chứa khác!",
         "tutbasic51": "Tự tay chế tạo ra các vật phẩm cũng là một kỹ năng rất hữu ích.",
         "tutbasic52": "Mở menu chế tạo bằng cách nhấn [C] (hoặc nút bấm).",
-        "tutbasic53": "Bạn sẽ làm một chiếc túi lá. Để làm điều đó, bạn sẽ cần hai tấm vải lá và một sợi dây thừng. Chúng tôi đã đưa cho bạn một vài tán lá để làm điều đó.",
+        "tutbasic53": "Bạn sẽ làm một chiếc túi lá. Để làm điều đó, bạn sẽ cần hai tấm vải lá và một sợi dây thừng. Chúng tôi đã đưa cho bạn một ít lá để làm điều đó.",
         "tutbasic54": "Công thức bạn có thể làm nằm ở đầu danh sách, được tô màu trắng. Nhấp vào công thức dây thừng, sau đó nhấp vào biểu tượng dây thừng ở trên cùng bên phải.",
-        "tutbasic55": "Tốt. Đi được nửa đường rồi. Hãy tạo những tấm vải lá bây giờ.",
+        "tutbasic55": "Tốt. Đi được nửa đường rồi. Bây giờ, hãy tạo những tấm vải lá.",
         "tutbasic56": "Khi bạn có cả hai tấm vải lá và dây thừng, hãy chế tạo chiếc túi lá.",
         "tutbasic57": "Làm tốt lắm! Bạn cũng có thể chuyển đổi giữa các phân loại công thức, hoặc sử dụng thanh tìm kiếm. Bạn sẽ nhận được thêm thông tin trong Khóa huấn luyện Chế tạo.",
-        "tutbasic58": "Hãy xem lướt lại bảng sức khỏe.",
+        "tutbasic58": "Hãy xem qua lại bảng sức khỏe.",
         "tutbasic59": "Hãy nhìn lên góc trên cùng bên phải. Đó là kỹ năng của bạn. Theo thứ tự, Sức mạnh (STR), Sức bền (RES) và Trí tuệ (INT).",
         "tutbasic60": "Sức mạnh là khối lượng cơ bắp của bạn. Nó chủ yếu cải thiện khả năng tấn công và mang vác.",
-        "tutbasic61": "Sức bền là khả năng chịu đựng thể chất và tinh thần của bạn. Nó khiến bạn chống chịu tốt hơn với cơn đau và mệt mỏi.",
+        "tutbasic61": "Sức bền là khả năng chịu đựng về thể chất và tinh thần của bạn. Nó khiến bạn chống chịu tốt hơn với cơn đau và mệt mỏi.",
         "tutbasic62": "Trí tuệ quyết định sự hiểu biết của bạn. Nó ảnh hưởng đến những gì bạn có thể chế tạo, nhận diện vật phẩm, tương tác với thương thú và sử dụng máy khử rung tim.",
         "tutbasic63": "Bạn có thể di chuột qua bất kỳ kỹ năng nào để tìm hiểu thêm.",
         "tutbasic64": "Sức mạnh và Sức bền có thể tăng thêm thông qua việc tập luyện. Hãy thử bằng cách sử dụng nút ở góc dưới bên phải.",
@@ -2211,7 +2272,7 @@
         "tutaid9": "Đây là sức đề kháng của bạn, một thước đo cho biết khả năng bảo vệ cơ thể khỏi nhiễm trùng của hệ thống miễn dịch.",
         "tutaid10": "Đây là thể lực của bạn. Việc hoạt động thể chất sẽ làm giảm chỉ số này.",
         "tutaid11": "Đây là nhịp thở của bạn. Lượng oxy của bạn sẽ giảm nếu bạn không hít thở đủ.",
-        "tutaid12": "Đây là lượng bức xạ bạn hấp thụ. Đừng hỏi nó là gì, chỉ cần biết rằng nếu lớn hơn 0 nghĩa là có rắc rối.",
+        "tutaid12": "Đây là lượng bức xạ hấp thụ cuả bạn. Đừng hỏi nó là gì, chỉ cần biết rằng nếu lớn hơn 0 nghĩa là có rắc rối.",
         "tutaid13": "Đây là nhịp tim của bạn. Bạn sẽ muốn giữ chỉ số này lớn hơn 0.",
         "tutaid14": "Đây là huyết áp của bạn. Đừng để nó lên quá cao hoặc xuống quá thấp.",
         "tutaid15": "Đây là nồng độ oxy trong máu, còn được gọi là SpO2.",
@@ -2261,7 +2322,7 @@
         "tutaid57": "Bây giờ chúng ta sẽ cùng điểm qua một số chấn thương lặt vặt khác.",
         "tutaid58": "Trật khớp là một chấn thương phổ biến, thường gặp sau những cú ngã nặng. Cử động các chi bị trật khớp sẽ rất nhiều đau đớn.",
         "tutaid59": "Bạn có thể nắn khớp lại bằng tay. Thử xem.",
-        "tutaid60": "Bạn cần đưa khớp xương trở lại đúng chỗ. Lấy đà bằng tay, sau đó [CHUỘT TRÁI] vào đúng khớp để đập thật mạnh.",
+        "tutaid60": "Bạn cần đưa khớp xương trở lại đúng chỗ. Lấy đà bằng tay, sau đó [CHUỘT TRÁI] vào đúng khớp để thúc thật mạnh.",
         "tutaid61": "Gãy xương tương tự như trật khớp, nhưng nghiêm trọng hơn và cần thời gian hoặc dụng cụ chuyên dụng để chữa trị.",
         "tutaid62": "Nẹp là một cách điều trị gãy xương rất đơn giản nhưng hiệu quả. Hãy nẹp vào bàn tay bị gãy của bạn.",
         "tutaid63": "Tốt. Nẹp giúp đẩy nhanh đáng kể quá trình hồi phục của chi bị gãy. Việc quấn băng lên chi đó cũng có thể giúp ích một chút.",
@@ -2277,17 +2338,19 @@
         "tutaid73": "Như vậy là kết thúc Khóa huấn luyện Sơ cứu. Chúng ta có thể bao quát nhiều hơn, nhưng chúng tôi tin rằng bạn có thể an toàn tự tìm hiểu các chứng bệnh khác. Bạn có thể trở về căn phòng được chỉ định của mình.",
         "tutcraft1": "Chào mừng bạn đến với Khóa huấn luyện Chế tạo. Hôm nay, chúng ta sẽ tìm hiểu chi tiết về việc chế tạo vật phẩm và đưa ra một số quy trình làm việc thông thường.",
         "tutcraft2": "Hầu hết mọi thứ bạn thấy đều là vật chất hữu dụng chứ không phải là rác.",
-        "tutcraft3": "Bạn có thể thu thập kim loại từ các đống phế liệu và bẫy, gỗ từ các cấu trúc gỗ, tán lá từ thực vật, v.v.",
+        "tutcraft3": "Bạn có thể thu thập kim loại từ các đống phế liệu và bẫy, gỗ từ các cấu trúc gỗ, lá từ thực vật, v.v.",
         "tutcraft4": "Mục tiêu của bạn sẽ là chế tạo vật phẩm được yêu cầu bằng các nguồn tài nguyên được cung cấp cho bạn.",
         "tutcraft5": "Chúng tôi sẽ cho rằng bạn đã biết các kiến thức chế tạo cơ bản. Hãy tạo một chiếc túi lá bằng các vật liệu sau. Sử dụng nút đặt lại nếu bạn mắc lỗi.",
         "tutcraft6": "Xong bước đầu tiên. Làm rất tốt. Việc có được một vật chứa phải luôn là mục tiêu đầu tiên của bạn.",
+        "tutcraft6a": "Bạn có thể gán nhãn cho vật phẩm để dễ sắp xếp. Nhấn [N] vào chiếc túi bạn vừa tạo và gán cho nó màu xanh lá (ô thứ ba từ trái sang).",
+        "tutcraft6b": "Tuyệt. Bạn có thể đổi tên vật phẩm ở đây. Đóng menu này khi bạn hoàn thành.",
         "tutcraft7": "Một điều quan trọng cần lưu ý là bạn có thể sử dụng các vật phẩm trên mặt đất gần bản thân để chế tạo. Bấm [B] để sủa khi bạn đã nắm được thông tin này.",
         "tutcraft8": "Hãy thử chế tạo một món đồ khác với những tài nguyên tương tự. Lần này hãy tạo một cuộn băng gạc đầy đủ. Bạn có thể kéo bất kỳ vật phẩm nào vào nút chế tạo để xem nó cần để có thể chế tạo những gì.",
         "tutcraft9": "Làm tốt lắm. Băng gạc rất dễ chế tạo và đóng vai trò quan trọng đối với sự sống còn của bạn. Chúng nên là ưu tiên hàng đầu của bạn ngay sau khi kiếm được túi chứa.",
         "tutcraft10": "Lưu ý quan trọng - bạn có thể ghim một công thức để nó luôn hiển thị ở góc bằng nút ở dưới cùng bên phải của menu chế tạo. Hãy ghim công thức con dao mỏng manh.",
         "tutcraft11": "Tới lúc dùng thêm kim loại và gỗ rồi. Tạo ra một con dao mỏng manh bằng cách sử dụng các tài nguyên này. Bạn có thể gộp các vật phẩm lại với nhau trong hành trang.",
-        "tutcraft12": "Làm tốt lắm. Một điều cần lưu ý là bạn có thể đánh dấu vật phẩm yêu thích để tránh sử dụng chúng trong chế tạo. Bạn nên làm điều này với những thứ như túi xách, để không vô tình xé chúng.",
-        "tutcraft13": "Nhấn [F] trên con dao mỏng manh bạn vừa làm để đưa nó vào mục yêu thích.",
+        "tutcraft12": "Làm tốt lắm. Một điều cần lưu ý là bạn có thể đánh dấu vật phẩm ưa thích để tránh sử dụng chúng trong chế tạo. Bạn nên làm điều này với những thứ như túi xách, để không vô tình xé chúng.",
+        "tutcraft13": "Nhấn [F] trên con dao mỏng manh bạn vừa làm để đưa nó vào mục ưa thích.",
         "tutcraft14": "Bây giờ, hãy thử làm băng gạc vô trùng bằng những vật phẩm này. Hãy nhớ rằng bạn có thể xé một vài loại túi và đồ dùng bằng vải nhất định thông qua việc chế tạo.",
         "tutcraft15": "Tuyệt. Bạn có thể nhận thấy chúng tôi đã tăng cấp độ INT của bạn cho bài kiểm tra này.",
         "tutcraft16": "Khả năng chế tạo đi đôi với mức độ Trí tuệ (INT) của bạn. Bạn có thể nhận thấy rằng mỗi công thức đều có yêu cầu chỉ số Trí tuệ riêng.",
@@ -2304,10 +2367,10 @@
         "tutcraft27": "Tạo một máy khoan laser mini và một viên pin để lắp vào máy. Đây là mục tiêu cuối cùng của bạn trong ngày hôm nay.",
         "tutcraft28": "Làm tốt lắm!",
         "tutcraft29": "Đến đây là kết thúc Khóa huấn luyện Chế tạo. Hy vọng là bạn có thể vận dụng được những kiến thức đã học vào thực tế. Bạn có thể quay lại căn phòng được chỉ định của mình.",
-        "tutmove1": "Chào mừng đến với Khóa huấn luyện Di chuyển Nâng cao. Hãy tiến lên trên trục đứng này. Tận dụng bờ tường để đi lên.",
+        "tutmove1": "Chào mừng đến với Khóa huấn luyện Di chuyển Nâng cao. Hãy tiến lên trên vách đứng này. Tận dụng bờ tường để đi lên.",
         "tutmove2": "Bạn có thể tiến lên các trục đứng hẹp bằng cách này.",
         "tutmove3": "Bạn có thể dùng các bức tường để làm chậm tốc độ đi xuống. Vui lòng trượt xuống bức tường bên trái nhất.",
-        "tutmove4": "Nhấn [X] và di chuyển để bò. Bạn có thể đập vỡ các khối khi đang bò.",
+        "tutmove4": "Giữ [X] và di chuyển để bò. Bạn có thể đập vỡ các khối khi đang bò.",
         "tutmove5": "Bò qua những đường hầm hẹp này. Bạn có thể di chuyển đầu của bạn bằng cách nhìn xung quanh để giúp đưa cơ thể bạn vào một vị trí thuận lợi hơn.",
         "tutmove6": "Bạn có thể cúi xuống giữa không trung để vào những lỗ cao 3 ô.",
         "tutmove7": "Bạn cũng có thể nhảy bật khỏi tường khi đang cúi xuống nữa.",
@@ -2317,14 +2380,45 @@
         "tutmove11": "Tuyệt lắm. Vật ném càng nặng, cơ thể bạn sẽ được đẩy càng xa. Cầm lấy bình chứa tiếp theo.",
         "tutmove12": "Nhảy xuống lỗ này, sau đó hủy bỏ động lượng của bạn bằng cách ném bình chứa xuống trước khi chạm đất. Không được chạm vào tường.",
         "tutmove13": "Làm tốt lắm.",
-        "tutmove14": "Vung và đánh một vật cũng đẩy cơ thể bạn ra sau một cách tương tự. Hãy thử vượt qua bức tường bên phải nhất khi vung tay xuống dưới.",
+        "tutmove14": "Vung và đánh một vật cũng đẩy cơ thể bạn ra sau một cách tương tự. Hãy thử vượt qua bức tường bên phải nhất khi vung tay liên tục hướng xuống dưới.",
         "tutmove15": "Cầm chiếc búa tạ này lên và vung liên tục để mượn gia tốc vung. Bạn sẽ đạt độ cao cao hơn do hiệu ứng đẩy lùi của búa tạ.",
         "tutmove16": "Giờ thì, nhảy và ngay sau khi nhảy, đánh sàn ngay dưới bạn bằng búa tạ. Bạn sẽ nhảy được độ cao hơn. Hãy di chuyển lên trục đứng.",
         "tutmove17": "Tốt lắm! Kết hợp những kĩ năng này là chìa khóa để di chuyển trong môi trường một cách hiệu quả. Bây giờ bạn có thể quay trở lại căn phòng được chỉ định của mình.",
         "tutclosehealthpanel": "Đóng bảng sức khỏe.",
         "tutopenhealthpanel": "Mở bảng sức khỏe.",
         "tutnice": "Tuyệt.",
+        "endsc1": "...Chào mừng, #<>. Chúng tôi thấy bạn đã lấy lại đư-",
+        "endsc2": "Huh..? Ừm, #<>, làm ơn hãy giải thích. Tại sao vật mục tiêu...nằm kẹt bên trong bụng của bạn vậy?",
+        "endsc3": "...Được thôi. Chà...điều đấy có thay đổi kế hoạch của chúng tôi một chút, nhưng...dù sao thì.",
+        "endsc4": "Thành tựu của bạn rất là ấn tượng và chúng tôi sẽ nghiên cứu thêm về bạn. Kế hoạch là như thế này...",
+        "endsc5": "Trước tiên, để bạn yên tâm thì bạn sẽ được sống. Tuy thế, chúng tôi cần phải kiểm tra tình trạng thể chất và tinh thần của bạn. Bạn sẽ được tự do đi lại trong cơ sở này và bạn sẽ không phải thông qua các quy trình kiểm tra thông thường của chúng tôi.",
+        "endsc6": "Chúng ta có thể thảo luận về các đặc quyền bổ sung vào một thời điểm khác...",
+        "endsc7": "...Và, còn về mục tiêu...nó cần phải được xem xét kỹ hơn. Nó cần phải lấy ra khỏi cơ thể bạn, bằng một cách nào đó.",
+        "endsc8": "Giờ thì...bạn còn muốn hỏi thêm gì không? Chúng tôi muốn tiếp tục càng sớm càng tốt.",
+        "endsc9": "...Tốt lắm. Trước tiên, cơ thể bạn cần phải qua kiểm tra kỹ lưỡng. Vui lòng đi qua cánh cửa phía bên phải của bạn.",
+        "endsc10": "Có gì mà phải trì hoãn thế? Làm ơn hãy đi qua cánh cửa bên phải của bạn.",
+        "endsc11": "Cánh cửa phía sau bạn. Đi qua đi.",
+        "endsc12": "Chúng tôi không có cả ngày đâu. Thôi nào. Cánh cửa bên phải của bạn.",
+        "endsc13": "Ugh. Sao mình lại toàn bị dính mấy đứa lì thế nhỉ..?",
+        "escapealert": "Thông báo đến toàn thể nhân viên trong cơ sở. Một sự cố loại W-2 đã xảy ra. Tất cả nhân viên an ninh hãy chuẩn bị vũ khí. Vui lòng giữ bình tĩnh trong khi tình huống được giải quyết.",
+        "cargosurgery1": "Nhanh đi nào. Mình cần phải tiêm cái thuốc gây tê đấy vào vùng bụng mình.",
+        "cargosurgery2": "Lính gác sắp đến rồi. Mình cần phải dùng cái thiết bị phẫu thuật lớn đó.",
+        "cargosurgery3": "Mình cần phải gắn mấy cái kẹp này vào mấy vị trí đã đánh dấu.",
+        "cargosurgery4": "Mình cần phải kéo cái hàng hóa này khỏi cơ thể.",
+        "cargosurgery5": "Mình cần phải đặt mấy cái ống này lên vết thương.",
+        "cargosurgery6": "Mình cần phải đi.",
+        "endsctip": "Chấn chỉnh lại bản thân đi. Mình cần phải giết hắn. Ngay bây giờ.",
         "outdatedwarning": "<size=200%>Này!<size=100%>\nTệp ngôn ngữ được chọn đã cũ. Một số văn bản có thể bị lỗi.\nHãy thử chuyển sang tiếng Anh hoặc tìm bản mới hơn.",
+        "surfacebreachnote": "Khi bạn băng xuyên qua những lớp sỏi đá cuối cùng ngăn cách mình với không gian thoáng bên ngoài, một luồng sáng chói lòa từ từ lộ dần qua các khe nứt.<>\n\nBạn đã trải qua muôn vàn gian khổ, vượt qua hàng ngàn kẻ giờ đây chỉ còn là những cái xác chết, và trở thành đối tượng đầu tiên cũng như duy nhất hoàn thành mục tiêu được giao.<>\n\nBạn đặt chân lên lớp sỏi đá lạnh lẽo. Những tòa nhà, núi non và những nhóm người khác nhau xuất hiện nơi đường chân trời. Bạn đã đặt chân lên mặt đất.",
+        "labenternote": "Ngay sau đó, bạn nhìn thấy một tia sáng trên bầu trời, kèm theo đó là một tiếng bíp lớn khó có thể nhận biết được.<>\n\nBạn dành vài phút để quan sát môi trường xung quanh bạn vừa mới khám phá, thì bất chợt một vật thể hình dáng cái kén đâm sầm xuống mặt đất cách bạn không xa.<>\n\nDù bạn đã bắt gặp hàng trăm khoang cứu sinh trong suốt hành trình của mình, cái khoang này trông hoàn toàn khác biệt so với những chiếc trước đó. Bạn đoán rằng chiếc này được dành cho chính bạn.<>\n\nMột phần đáng kể trong bạn muốn nổi loạn và chạy đi xa thật xa, nhưng...<>\nCó cảm giác như mỗi khoảnh khắc bạn dưới ánh mặt trời, thứ vật thể cắm trong bụng bạn lại ngọ nguậy một cách đau đớn và rung lên với cường độ ngày càng mạnh.<>\n\nLo sợ rằng sự sụp đổ thảm khốc đối với tính toàn vẹn cấu trúc của trái tim đang dần đến gần, bạn bước vào khoang cứu sinh với vẻ mặt đầy thất bại.\nNgay sau đó, một cú xóc đột ngột khiến bạn bị xô xuống sàn. Khoang chứa đang dần bay lên.<>\n\nDù không biết mình đang đi đâu, bạn cũng thấy an tâm phần nào khi nghĩ rằng người gửi con tàu này xuống hẳn là biết rõ điểm đến. Bạn quyết định ổn định chỗ ngồi, tìm tư thế thoải mái nhất và kiên nhẫn chờ đợi.<>\n\nĐột nhiên, một luồng sáng chói lòa bao trùm lấy tầm nhìn của bạn. Bạn cảm thấy một luồng cảm giác thể xác khó tả chạy dọc khắp cơ thể mình – cái cảm giác mà bạn từng trải qua khi lần đầu đặt chân đến nơi này.\n\nKhi mọi thứ lắng xuống, bạn nhìn ra bên ngoài khoang chứa và thấy mình đang ở giữa một bầu trời xanh mờ ảo, phía trên một khu rừng xanh tươi, nơi có một cái tòa nhà khổng lồ nằm ngay chính giữa.<>\n\nKhoang tàu từ từ hạ xuống một loại cửa sập bên trong cơ sở đó. Chẳng bao lâu sau, khoang tàu được cố định vào vị trí, cánh cửa thép mở ra, để lộ ra cảnh tượng...",
+        "biopodnote": "Việc cố gắng nổi loạn chống lại những kẻ bắt giữ mình khi trong đầu có gắn một con chip phát nổ chẳng khác nào tự sát. Thứ vật thể kỳ lạ nằm trong cơ thể bạn cũng có vẻ nguy hiểm nếu cứ để nó ở đó quá lâu. Không còn lựa chọn nào tốt hơn, bạn đành phải tuân theo những mệnh lệnh được đưa ra cho bạn.<>\n\nChẳng bao lâu sau, bạn bị một nhóm lính vũ trang áp giải vào một căn phòng, nơi đặt một chiếc kén lớn chứa đầy chất lỏng. Bạn từng thấy vài cá thể giống mình bên trong những chiếc kén như vậy. Bạn biết điều đó đồng nghĩa với việc gì.<>\n\nBạn đã hoàn thành mục tiêu của mình, nhưng kết quả lại chỉ đưa bạn trở về nơi nhà tù này. Bạn chẳng qua chỉ là một quân cờ trong tay tập đoàn. Ít nhất, giờ bạn có thể thấy an lòng khi biết rằng, vì nhiệm vụ đã hoàn tất, sẽ không còn những linh hồn vô tội nào bị đẩy vào chỗ chết trong các hang động đó nữa.<>\n\nSuy nghĩ này giúp bạn bình tâm lại khi bạn miễn cưỡng từ bỏ tất cả những món đồ đã thu thập được trên hành trình của mình, rồi chuẩn bị bước vào buồng sinh học. Thứ hàng ấy có vẻ như dần ổn định lại...<>\n\nKhi bạn từ từ chìm vào chất lỏng, với đủ loại ống và dây dẫn gắn trên cơ thể, bạn nghĩ lại những gì nhà khoa học đã nói. Ít nhất thì ở đây, bạn sẽ có một cuộc sống tốt đẹp hơn. Nhiều đặc quyền hơn, tự do hơn, thức ăn ngon hơn, và không còn nguy cơ bị tổn thương bởi các cuộc thử nghiệm diễn ra tại nơi này... Một nụ cười thoáng hiện trên môi bạn khi ý thức của bạn dần tan biến vào một giấc ngủ sâu.",
+        "biopodnotealt": "Bạn nhanh chóng bị đưa đi, bị khống chế, tước bỏ mọi hành trang và được hồi sức để ngăn ngừa những tổn thương nghiêm trọng hơn cho não bộ cũng như các bộ phận khác trên cơ thể bạn.\n\nMột lát sau, bạn bị một nhóm lính vũ trang áp giải vào một căn phòng, nơi đặt một chiếc kén lớn chứa đầy chất lỏng. Bạn từng thấy vài cá thể giống mình bên trong những chiếc kén như vậy. Bạn biết điều đó đồng nghĩa với việc gì.<>\n\nBạn đã hoàn thành mục tiêu của mình, nhưng kết quả lại chỉ đưa bạn trở về nơi nhà tù này. Bạn chẳng qua chỉ là một quân cờ trong tay tập đoàn. Ít nhất, giờ bạn có thể thấy an lòng khi biết rằng, vì nhiệm vụ đã hoàn tất, sẽ không còn những linh hồn vô tội nào bị đẩy vào chỗ chết trong các hang động đó nữa.<>\n\nSuy nghĩ này giúp bạn bình tâm lại khi bạn chuẩn bị bước vào khoang sinh học. Thứ hàng ấy có vẻ như đang dần ổn định lại...<>\n\nKhi bạn từ từ chìm vào chất lỏng, với đủ loại ống và dây dẫn gắn trên cơ thể, bạn nhớ lại những gì nhà khoa học đã nói. Ít nhất thì ở đây, bạn sẽ có một cuộc sống tốt đẹp hơn. Nhiều đặc quyền hơn, tự do hơn, thức ăn ngon hơn, và không còn nguy cơ bị tổn thương bởi các cuộc thử nghiệm diễn ra tại nơi này... Một nụ cười thoáng hiện trên môi bạn khi ý thức của bạn dần tan biến vào một giấc ngủ sâu.",
+        "biopodnotealt2": "Bạn nhanh chóng bị đưa đi, bị khống chế, tước bỏ mọi hành trang và được hồi sức để ngăn ngừa những tổn thương nghiêm trọng hơn cho não bộ cũng như các bộ phận khác trên cơ thể bạn.\n\nMột khoảng thời gian khá lâu sau đó, bạn bị một nhóm lính vũ trang áp giải vào một căn phòng, nơi đặt một chiếc kén lớn chứa đầy chất lỏng. Bạn từng thấy vài cá thể giống mình bên trong những chiếc kén như vậy. Bạn biết điều đó đồng nghĩa với việc gì.<>\n\nBạn đã cố hết sức để thoát khỏi nhà tù này, nhưng nó chẳng đi đến đâu được. Một nỗ lực vô nghĩa. Ít nhất, giờ bạn có thể thấy an lòng khi biết rằng, vì nhiệm vụ đã hoàn tất, sẽ không còn những linh hồn vô tội nào bị đẩy vào chỗ chết trong các hang động đó nữa.<>\n\nSuy nghĩ này giúp bạn bình tâm lại khi bạn chuẩn bị bước vào khoang sinh học.<>\n\nKhi bạn từ từ chìm vào chất lỏng, với đủ loại ống và dây dẫn gắn trên cơ thể, bạn suy nghĩ về những thất bại của mình. Quá gần đến việc có thể nếm trải tự do, để rồi bạn có thể thực hiện màn trả thù tột cùng nhắm vào những kẻ đã bắt giữ bạn... Vậy mà, mọi thứ lại chẳng đi đến đâu. Giá như bạn cố gắng thêm chút nữa thôi... Bạn khẽ cau mày khi ý thức của bạn dần tan biến vào giấc ngủ sâu.",
+        "escapenote1": "Một luồng sáng rực rỡ tỏa ra từ cuối hành lang. Bạn nghe thấy âm thanh tựa như tiếng gió thổi bên ngoài.\n<>\nĐây là nơi cuối chặng đường. Bạn đã gạt bỏ đi những kẻ bắt giữ mình bằng một kỹ năng và sự bướng bỉnh mà không ai khác có được.\n<>\nBị tổn thương, kiệt sức, nhưng đầy quyết tâm, bạn bước vào ánh sáng.",
+        "escapenote2": "...Thì ra, đây chính là những thứ họ đã giấu bạn suốt thời gian qua.\n<>\nTrong khi bạn đang chiêm ngưỡng vẻ đẹp của khung cảnh mới lạ xung quanh, những âm thanh ồn ào phát ra từ nơi bạn vừa bước ra nhắc nhở rằng bạn vẫn cần phải tiếp tục di chuyển.\nKhông có nhiều sự lựa chọn, bạn chạy đến một nơi trông giống như một vùng thực vật cao, xanh tươi với thân to màu nâu.\n<>\nBạn chạy.<>\nBạn chạy mãi.<>\nBạn chạy xa, thật xa, cho đến khi chân bạn nhũn đi.\n<>\n...\n<>\nSự yên lặng. Chẳng còn gì ngoài những âm thanh tựa như tiếng chim hót và tiếng gió thổi. Bạn thậm chí không còn nhìn thấy các tòa nhà ở phía chân trời nữa.\n<>\n...\n<>\nBạn đi đến sự tự do của chính bạn.",
+        "mercnote1": "Bạn băng xuyên qua những lớp sỏi đá cuối cùng ngăn cách mình với không gian thoáng bên ngoài<>\n\nBạn đã trải qua muôn vàn gian khổ, vượt qua hàng ngàn kẻ giờ đây chỉ còn là những cái xác chết, và trở thành cá thể đầu tiên cũng như duy nhất hoàn thành mục tiêu được giao...\n...Vậy mà, bạn lại cảm thấy đây mới chỉ là khởi đầu cho một điều gì đó lớn lao hơn..<>\n\nBạn đặt chân lên lớp sỏi đá lạnh lẽo. Những tòa nhà, núi non và những nhóm người khác nhau xuất hiện nơi đường chân trời. Bạn đã đặt chân lên mặt đất.",
+        "mercnote2": "Ngay sau đó, bạn nhìn thấy một tia sáng trên bầu trời, kèm theo đó là một tiếng bíp lớn khó có thể nhận biết được.<>\n\nBạn dành vài phút để quan sát môi trường xung quanh bạn vừa mới khám phá, thì bất chợt một vật thể hình dáng cái kén rơi mạnh xuống đất cách đó không xa, tạo nên một tiếng động lớn.<>\n\nDù bạn đã bắt gặp hàng trăm khoang cứu sinh trong suốt hành trình của mình, cái khoang này trông hoàn toàn khác biệt so với những chiếc trước đó. Bạn đoán rằng chiếc này được dành cho chính bạn.\n...Nhưng bạn từ chối bước lên đó. Không đời nào, sau tất cả những gì họ đã gây ra cho bạn và biết bao người khác nữa.<>\n\nNhững kẻ bắt giữ bạn phải trả giá. Chúng phải chết. Bạn sẽ không trở thành một quân cờ trong tay chúng, bị lợi dụng để thực hiện bất cứ âm mưu nào chúng muốn. Bạn sẽ không quay trở lại nơi chúng đang ẩn náu cho đến khi bạn có thể phá hủy hoàn toàn mọi thứ mà chúng đã dày công xây dựng suốt bao năm qua.<>\n\nMột lòng căm thù rực cháy bùng cháy trong bạn. Họ sẽ không thoát khỏi tội lỗi này. Mặc chết cái nhóm của họ, mặc chết với thứ nhiệm vụ của họ, mặc chết với bất cứ điều gì họ muốn bạn làm.<>\n\nThế nên bạn ở lại.<>\n\n...<>\n\nBạn nhận thấy thứ hàng hóa bên trong mình bắt đầu ngọ nguậy một cách bất thường kể từ khi bạn bước ra ngoài ánh nắng.\nBạn do dự. Rõ ràng là có vấn đề với vật thể đang cắm trong cơ thể bạn, và tình hình thì ngày càng tồi tệ hơn qua từng phút. Bạn lo sợ rằng nếu cứ tiếp tục ở ngoài đây, chuyện chẳng lành sẽ xảy ra...<>\n\n...Nhưng bạn không thể quay lại.\n\nChiếc khăn quàng của bạn. Bạn nhớ lại một trong những mảnh chip gắn trên thi thể mà mình tìm thấy dọc đường có ghi nội dung gì đó về \"trẻ hóa\" được ghi trên đó. Biết đâu bạn sẽ ổn thôi?<>\n\n...<>\n\nĐau quá. Đau đến mức không chịu nổi. Có điều gì đó cực kỳ bất ổn với thứ hàng kia. Lồng ngực bạn như đang bốc cháy. Cả cơ thể bạn có cảm giác như đang bị điện giật. Bạn thậm chí chẳng thể đứng thẳng nổi nữa. Đau quá.\n\nTiếng bíp từ khoang chứa ngày càng lớn hơn. Bạn nhận ra rằng nếu không nhanh chóng bò vào đó, bạn sẽ mất mạng. Tâm trí bạn bắt đầu quay cuồng. Liệu bạn có thực sự muốn đánh đổi cả mạng sống của mình chỉ vì một màn trả thù vụn vặt hay sao?<>\n\nNhưng bạn không thể cử động. Cơn đau quá dữ dội. Đau lắm. Đau lắm. Đau lắm. Đau lắ ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+        "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nCái..?<>\n\nMình đang ở đâu..?\n\nTại sao...<>\n\nĐau quá...<>\n\n...<>\n\nChuyện gì đang...?<>\n\nCái khăn quàng này... Mình...<>\n\n...<>\n\n...Mình nhớ rồi.<>\n\n...Mình biết mình cần phải làm gì.",
         "startlorenote": "Năm 2XXX\n<>\nCông nghệ của nhân loại đã tiến bộ vượt bậc. Những điều tưởng chừng như không thể trước đây giờ đã trở thành chuyện thường ngày.\n<>\nỞ trung tâm của sự phát triển đó là một công ty. Thành tựu của họ có vẻ như một phép màu, nhưng mọi bí mật đều được giữ kín.\n<>\nNhiều năm trước, họ đã tạo ra một giống loài mới: sự kết hợp giữa ADN động vật và con người mà họ chỉ đơn giản gọi là \"Experiment.\"\n<>\nCác Experiment là những đối tượng hoàn hảo, đủ giống con người, nhưng thuộc về họ làm bất cứ thứ gì họ muốn. Họ đã dày công nghiên cứu chúng, biến đổi cơ thể chúng theo ý muốn, và năm tháng trôi qua, số lượng chỉ ngày một tăng lên.\n\nKhông một cá thể nào được nhìn thấy thế giới bên ngoài.\n<>\nRồi đến lúc Trái Đất không thể chứa hết tham vọng của họ. Với công nghệ dịch chuyển tức thời mới được phát minh, họ nhắm đến một hành tinh xám xịt nhưng tràn đầy sự sống.\n<>\nChẳng mấy chốc, hàng tấn hàng hóa và rác rưởi linh tinh được chuyển đến.\n<>\nDo vấn đề trong việc hiệu chỉnh, lượng hàng hóa được chuyển vào hệ thống hang động của hành tinh cũng nhiều không kém như trên bề mặt, nhưng dự án vẫn tiến triển suôn sẻ.\n<>\nCho đến khi, một lỗi không xác định khiến một thiết bị công nghệ quan trọng bị chuyển vào sâu trong lòng hang động.\n<>\nChẳng bao lâu sau, các nhà khoa học đã vạch ra một kế hoạch. Một kế hoạch ít có rủi ro đối với chính họ.\n<>\nCơ hội thành công là rất thấp, nhưng nguồn nhân lực của họ thì dồi dào.\n<>\nBạn là một cá thể không may mắn.\nKháng cự là vô ích."
     },
     "character": [
@@ -2717,10 +2811,10 @@
                 "Mình không ăn thêm được...",
                 "Mình cần dừng ăn.",
                 "Mình sẽ lên kí nếu tiếp tục như này cho mà coi...",
-                "Mình cần phải dừng ăn",
+                "Mình cần phải dừng ăn.",
                 "No rồi!",
                 "Tiếp như này là mình nôn mất.",
-                "Ăn đủ rồi",
+                "Ăn đủ rồi.",
                 "Mình nôn mất...",
                 "Mình nghĩ mình sắp nôn...",
                 "Mình no rồi!"
@@ -2952,7 +3046,7 @@
             ],
             "depressed": [
                 "Mình không thể chịu đựng thêm nữa.",
-                "...Tại sao mình lại cố gắng làm gì?",
+                "...Mình cố gắng tiếp tục làm gì chứ??",
                 "Mình nên... cứ... buông xuôi...",
                 "Mình không thể tiếp tục như thế này nữa...",
                 "Mình có nên... tiếp tục cố gắng không?",
@@ -2977,7 +3071,7 @@
                 "Mình cần phân tâm bản thân.",
                 "...Không....Ổn....",
                 "Mình cảm thấy tồi tệ một cách chân thật.",
-                "Mẹ KIẾP!",
+                "KHỐN NẠN thật!",
                 "Mình muốn khóc...",
                 "Trờờờiiii ơơơiii...",
                 "Mình có thể nằm xuống và chết ngay tại chỗ.",
@@ -3053,81 +3147,81 @@
                 "Mình đã chết ngay giây phút mình đến đây."
             ],
             "selfharm": [
-                "Hahahaha... KHỐN KIẾP tuyệt... Tốt lắm...",
-                "Thếeee tốt hơnnnn... Ahahaha... Tuyệt vời chết đi được...",
-                "Ôi đúng rồi... Khốn kiếp tuyệt... MẸ KIẾP tuyệt...",
-                "Mmhh... Khốn kiếp... Hahahaha... Cái này tốt...",
-                "Màyyyy thấy saoooo... Thằng khốn... Ahaha... MẸ mày... Mẹ mày... Tốt...",
-                "Khốn kiếp, hahah... Cảm giác đó thật tuyệt vời...",
-                "AAGH! MẸ KIẾP ĐÚNG RỒI! Quá tuyệt vời...",
-                "MẸ KIẾP! HAHAHAHA! CHẾT TIỆT QUÁ TUYỆT..!",
+                "Hahahaha... Tuyệt CHẾT ĐƯỢC... Tốt lắm...",
+                "Thếeee tốt hơnnnn rồiii... Ahahaha... Tuyệt vời chết đi được...",
+                "Ôi đúng rồi... Tuyệt con mẹ nó vời... Tuyệt CON MẸ NÓ vời luôn...",
+                "Mmhh... Khốn kiếp... Hahahaha... Tuyệt thật...",
+                "Màyyyy thấy saoooo... Thứ khốn nạn... Ahaha... MẸ mày... Mẹ mày... Tuyệt...",
+                "Khốn kiếp, hahah... Cảm giác đó tuyệt vời thật...",
+                "AAGH! PHẢI VẬY CHỨ! Tuyệt vời chết đi được...",
+                "MẸ KIẾP! HAHAHAHA! TUYỆT CHẾT ĐƯỢC..!",
                 "Chỉ một vết cắt nhỏ... Thêm nữa... Ahahah... Khốn kiếp...",
-                "Ouch-... N-như vậy là tốt... Khốn kiếp... Thật tuyệt...",
-                "MẸ KIẾP! Hahaha! MẸ KIẾP tuyệt! Hahahaha...",
-                "Đó là những gì... mày nhận được... Thằng khốn... Mẹ mày... Hahahaha...",
-                "Nào... làm thôi... hahah... tốt...",
-                "Thế sẽ.. khốn kiếp... Yeaaahhh... Thế là đủ... Haha...",
-                "Y-Yeah... nhận lấy này... Thằng khốn... Sẽ đau lắm đây...",
+                "Ui-... N-như vậy là được... Khốn kiếp... Tuyệt thật...",
+                "MẸ KIẾP! Hahaha! Tuyệt CON MẸ NÓ vời! Hahahaha...",
+                "Đó là những gì... mày nhận được... Thứ khốn nạn... Mẹ mày... Hahahaha...",
+                "Ta... làm thôi... hahah... tốt...",
+                "Thế sẽ.. khốn kiếp... Yeaaahhh... Vậy là được... Haha...",
+                "Y-Yeah... nhận lấy này... Thứ khốn nạn... Đau sẽ sướng lắm đây...",
                 "Mày đáng bị như vậy... Haha... Đau tuyệttt...",
-                "AAHHAHA!! KHỐN KIẾP tuyệt... Mẹ kiếp tuyệt. Hahaha... Đau...",
-                "Hahah... thế tốt hơn... phải... Tốt hơn nhiều...",
+                "AAHHAHA!! Tuyệt CHẾT ĐƯỢC... Mẹ kiếp thật. Hahaha... Đau...",
+                "Hahah... thế mới phải... ừ... Tốt hơn nhiều rồi...",
                 "Nàooooo thế chứ... Đau đènnn đẹtt...",
-                "Hehhehheh... cái đó đau chết tiệt... đau tốt...",
+                "Hehhehheh... cái đó đau chết được... đau đã thật...",
                 "Cái đó... hahah... đau tốt... Tuyệt...",
-                "Khoaaaan chấm dứt mọi chuyện đã... K-khốn kiếp... Tốt thật đấy...",
+                "Khoaaaan chấm dứt mọi chuyện đã... K-khốn kiếp... Đã thật đấy...",
                 "Mình không cần đống thịt đó... Ggrhh... Haha... Thêm nữa đi...",
                 "K-khốn kiếp... Ahahaha... Cảm giác thật tuyệt...",
                 "Tốốốốtttt.... Mmmh... Cuối cùng... Cuối cùng... Cực kỳ tuyệt vời... Mmmhh...",
-                "C-có thể... Có thể mình sẽ tự vẫn vào lần tới... Hahaha..."
+                "C-có lẽ... Có lẽ mình sẽ tự vẫn vào lần tới... Hahaha..."
             ],
             "angeronitem": [
                 "UGH! MẸ cái thứ này! Grhh..."
             ],
             "suicide": [
-                "Tạm biệt. TẠM BIỆT. Tao XONG RỒI!!! MẸ KIẾP TẤT CẢ MỌI THỨ!",
-                "Tao xong rồi. Mẹ kiếp chuyện này, mẹ kiếp mình và MẸ mày.",
-                "Tao đã nói với mày rồi. TAO ĐÃ NÓI rồi mà, đồ rác rưởi. Tao XONG RỒI!",
-                "Tao sẽ rời khỏi thế giới khốn khiếp này một lần và mãi mãi.",
-                "Bình yên. Tạm biệt. Khốn kiếp chuyện này. Tao cút mẹ nó đây. Tao sẽ xuống địa ngục vì điều này.",
-                "Tao ĐÃ CHỊU ĐỦ với tất cả chuyện này. Tao XONG RỒI! BIẾN ĐI!!!",
-                "Đến đường cùng rồi, thằng khốn. Đến đường con mẹ nó cùng rồi. TAO PHẮN ĐÂY!!!",
+                "Tạm biệt. TẠM BIỆT. Tao BỎ ĐÂY!!! DẸP HẾT ĐI!",
+                "Tao bỏ cuộc. Dẹp mẹ chuyện này đi, mẹ kiếp mình và MẸ KIẾP bọn mày.",
+                "Tao đã nói với bọn mày rồi. TAO ĐÃ NÓI rồi mà, thứ khốn nạn. Tao BỎ CUỘC!",
+                "Tao sẽ rời khỏi thế giới chết tiệt này một lần và mãi mãi.",
+                "Thân. Tạm biệt. Dẹp mẹ nó chuyện này đi. Tao phắn đây. Tao sẽ xuống địa ngục vì chuyện này.",
+                "Tao ĐÃ CHỊU HẾT NỔI với tất cả chuyện này. Tao BỎ CUỘC! BIẾN ĐI!!!",
+                "Đến đường cùng rồi, thứ khốn nạn. Đến đường con mẹ nó cùng rồi. TAO PHẮN ĐÂY!!!",
                 "Thế là đủ rồi... Bái bai... Xin lỗi vì điều này... Mình hy vọng có thế giới bên kia cho mình...",
-                "Đến đây là hết. Mình hy vọng bất cứ ai tìm thấy xác tao sẽ sử dụng nó tốt. Mình không thể chịu đựng thêm nữa. Mình xin lỗi.",
-                "Chẳng còn ý nghĩa gì với chuyện này cả. CHƯA BAO GIỜ có cả. Tao sẽ kết thúc tất cả. Mẹ kiếp tao... Mẹ kiếp TẤT CẢ chuyện này.",
-                "Nếu cắt cổ tay không giết được tao, tao sẽ tự móc mắt tao ra, để không bao giờ phải nhìn thấy vùng đất kinh khủng này nữa.",
+                "Đến đây là hết. Mình hy vọng bất cứ ai tìm thấy xác của mình sẽ tận dụng nó tốt. Mình không thể chịu đựng thêm nữa. Mình xin lỗi.",
+                "Chẳng còn ý nghĩa gì với Chuyện này cả. CHƯA BAO GIỜ có cả. Tao sẽ kết thúc mọi chuyện đây. Mẹ kiếp tao... Mẹ kiếp TẤT CẢ chuyện này.",
+                "Nếu cắt cổ tay không giết được tao, tao sẽ tự móc mắt tao ra, để không bao giờ phải nhìn thấy vùng đất kinh khủng này thêm một lần nào nữa.",
                 "Mình không biết điều gì sẽ đến sau đó, nhưng cuối cùng mình cũng có thể nghỉ ngơi... Hãy thư giãn nào... Không cần cảm xúc nữa đâu...",
                 "AHHHH! DẸP MẸ ĐI! DẸP TẤT CẢ! TAO KHÔNG THỂ CHỊU ĐỰNG THÊM NỮA! CHO TAO RA KHỎI ĐÂY! TAO BỎ CUỘC!",
-                "Chịu hết nổi rồi. Tao chịu HẾT NỔI rồi. Cuối cùng tao cũng làm chuyện này... Thân. Cút con mẹ nó đây. Tao ĐI ĐÂY.",
+                "Chịu hết nổi rồi. Tao chịu HẾT NỔI rồi. Cuối cùng tao cũng làm chuyện này... Thân. Cút con mẹ nó đây. Tao BỎ ĐÂY.",
                 "Tao đã đưa ra quyết định có ý thức để kết thúc cuộc đời tao, ngay tại đây và ngay lúc này. Tạm biệt, bọn ngu ngốc.",
-                "Tao đã bảo mày... TAO ĐÃ BẢO MÀY. Đồ cặn bã... Khốn kiếp... Cháy trong tận cùng của địa ngục đi.",
+                "Tao đã bảo mày... TAO ĐÃ BẢO BỌN MÀY RỒI. Thứ cặn bã... Khốn kiếp... Cháy trong tận cùng của địa ngục đi.",
                 "Tao làm xác còn đóng góp tốt hơn cho đời. Cuộc đời tao đã kết thúc ngay khoảnh khắc tao bị gửi đến đây. Tạm biệt.",
                 "Cái này là vì TẤT CẢ mọi thứ! TAO XONG RỒI! AAAHHHH! KHỐN KIẾP TẤT CẢ MỌI THỨ!",
                 "Mình. Mình chỉ... Mình xong rồi. Không có thời gian cho thư tuyệt mệnh. Mình đã quá mệt mỏi với tất cả những thứ này. Tạm biệt.",
-                "K... không oán gì đâu... đúng không?.. hah... Mình... Mình mệt quá... N-ngủ ngon...",
+                "K... không thù oán gì đâu mà... đúng không?.. hah... Mình... Mình mệt quá... N-ngủ ngon nhé...",
                 "Mình sẽ không làm chuyện này nữa. Mình không. Kết thúc rồi. Tạm biệt. Bai. Mẹ kiếp chuyện này.",
                 "Chưa từng có hy vọng nào. KHỐN KIẾP. Chuyện này. Tao ĐI ĐÂY! ĐỂ TAO YÊN! TAO SẼ KHÔNG ĐỂ NƠI NÀY CƯỚP ĐI MẠNG SỐNG CỦA MÌNH!",
-                "Nhìììììnnnn kìa... Hahahah... Mình đang nói lời tạm biệt với vũ trụ chết tiệt này... Bỏ lại thế giới này phía sau... Thật... Nhẹ nhõm...",
-                "Đây... Nó đến rồi... Hãy tận hưởng những khoảnh khắc cuối cùng của mình nào... Thư giãn và... Chìm vào giấc ngủ... Một lần cuối...",
-                "Mình hy vọng bạn hạnh phúc với những gì mình đã làm. Đồ khốn. Khốn kiếp. KHỐN KIẾP BẠN. Xuống địa ngục đi.",
+                "Nhìììììnnnn đi kìa... Hahahah... Mình đang nói lời tạm biệt với cái vũ trụ chết tiệt này... Bỏ lại thế giới này đằng sau... Thật là... Nhẹ nhõm...",
+                "Đây... Đây rồi này... Hãy tận hưởng những khoảnh khắc cuối cùng của mình nào... Thư giãn và... Chìm vào giấc ngủ... Một lần cuối...",
+                "Tao hy vọng bọn mày thõa mãn với những gì bọn mày đã làm. Đồ khốn. Khốn kiếp. MẸ NHÀ BỌN MÀY. Xuống địa ngục hết đi.",
                 "Cổ tay mình đi rồi... Mọi chuyện sẽ sớm kết thúc thôi... Haha...",
                 "Khốn kiếp. MẸ mày. Mình XONG RỒI. TAO XONG MẸ NÓ RỒI!",
-                "Tao SẼ RỜI KHỎI cái nơi chết tiệt này, cho dù tao có thể hay KHÔNG. MẸ KIẾP NHÀ MÀY.",
-                "MẸ KIẾP chuyện này. Kết thúc MẸ NÓ rồi. Xuống địa ngục đi.",
-                "Xuống địa ngục với chuyện này đi. Mình đi đây. Đồ cặn bã. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi. Mình xong rồi.",
+                "Tao SẼ CÚT MẸ KHỎI cái nơi chết tiệt này, cho dù tao có thể hay KHÔNG. MẸ KIẾP NHÀ MÀY.",
+                "MẸ KIẾP chuyện này. Kết thúc MẸ NÓ rồi. Xuống địa ngục quách đi.",
+                "Xuống địa ngục quách đi cho rồi. Tao đi đây. Lũ cặn bã. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc. Tao bỏ cuộc.",
                 "Đồ rác rưởi... Mình xong thật rồi... Khốn kiếp...",
                 "Mình đi đây. Mình hy vọng mình sẽ không phải xuống địa ngục vì chuyện này.",
                 "Họ có thể đi mà tìm cái xác khô của mình. Cứ như thể điều đó quan trọng lắm vậy.",
-                "Chẳng có gì quan trọng cả. Đây là một nhiệm vụ tự sát. Mình sẽ đéo trải qua bất cứ chuyện nào như thế này nữa.",
+                "Chẳng có gì quan trọng cả. Đây là một nhiệm vụ tự sát. Mình đéo muốn trải qua bất cứ chuyện nào như này nữa.",
                 "Tao thất bại. Tao bỏ cuộc. Mẹ kiếp chuyện này.",
                 "Chúc may mắn cho bất cứ ai đến đây sau mình. Có lẽ xác mình sẽ hữu ích cho ai đó. Mình xong rồi.",
                 "Chưa bao giờ có bất kỳ ý nghĩa khốn khiếp nào cho chuyện này. Mình được đưa đến đây để chết.",
-                "Họ đang nhận được cái thứ mà họ con mẹ nó muốn.",
+                "Họ đang nhận được cái thứ mà bọn chết tiệt đó muốn.",
                 "Mình không nghĩ mình sẽ thực sự làm điều này... Haha... Ahahahaha... Giải thoát...",
                 "Mình đang tước đi mạng sống của mình. Xin lỗi. Mình không thể. Mình đéo thể chịu đựng được nữa. Mình cực kỳ xin lỗi.",
                 "Mình hy vọng mình sẽ xuống địa ngục. Sẽ tốt hơn cái nơi chết tiệt này. Mình chịu được. Mình bỏ đây. Xin lỗi. Khốn kiếp tất cả mọi thứ.",
                 "Tạm biệt. Mình đi đây. Hẹn gặp mọi người ở phía bên kia, dưới tận cùng địa ngục.",
-                "Mẹ kiếp. Mẹ kiếp. KHỐN KIẾP. Chuyện này. TAO XONG RỒI! THẾ LÀ ĐỦ RỒI.",
-                "Xin lỗi. Mình đi đây. Tạm biệt. Mình xin lỗi. Mình vô cùng xin lỗi. Mình không thể."
+                "Mẹ kiếp. Mẹ kiếp. MẸ KIẾP chuyện này. TAO BỎ CUỘC! THẾ LÀ ĐỦ RỒI.",
+                "Xin lỗi. Mình bỏ đây. Tạm biệt. Mình xin lỗi. Mình vô cùng xin lỗi. Mình không thể."
             ],
             "refuse": [
                 "...",
@@ -3418,7 +3512,7 @@
                 "Mình bắt đầu đổ mồ hôi nhiều rồi.",
                 "Mình cần giải nhiệt.",
                 "Mình nóng không chịu nổi.",
-                "Mình cần giữ cái đầu lạnh - theo đúng nghĩa đen.",
+                "Mình cần hạ hỏa - theo đúng nghĩa đen.",
                 "Cái gì đó để làm mát mình sẽ rất tuyệt...",
                 "Mình đang bốc hỏa đây...",
                 "Ở đây hơi ấm...",
@@ -3982,7 +4076,7 @@
             ],
             "traderlightbreak": [
                 "Này, cái quái gì vậy? Sao cậu lại làm thế? Cút đi.",
-                "...Cậu thực sự nghĩ mình sẽ không nhìn thấy điều đó sao. Thằng khốn. Cút ra!",
+                "...Cậu thực sự nghĩ mình sẽ không nhìn thấy điều đó sao. Thứ khốn nạn. Cút ra!",
                 "Này! Cái quái gì thế! Mình cần cái đó! Cút ra ngay!",
                 "Ahh! TÊN TRỘM kia! Cút khỏi đây mau!",
                 "Này cậu. Được rồi... Vậy thì được. Được rồi... Mình... Uh... Làm ơn rời đi."
@@ -4095,6 +4189,21 @@
                 "Mục... Tiêu... Chắc hẳn nằm đâu đó trong này... Không lảng vảng nữa. Tiến hành thôi.",
                 "Mình làm được rồi... Mình làm được rồi..? Hmmh... Nó phải nằm đâu đó gần đây... Làm cho xong chuyện nào."
             ],
+            "cargo1": [
+                "Mình... Mình nghĩ đây... là...nó?"
+            ],
+            "cargo2": [
+                "Nó... Không phải viên p....n... N-nó đang... Làm gì vậy..?"
+            ],
+            "cargoimpale": [
+                "AAAGHH! CÁI QUÁI GÌ VẬY!? TẠI SAO CHỨ?"
+            ],
+            "cargoimpale2": [
+                "H-hừm... Ừm thì... Mình... Mình cảm thấy... Được tiếp sức bởi thứ này..? Mình cảm thấy... Nh-nhẹ hẳn."
+            ],
+            "cargoimpale3": [
+                "Mình... Mình làm được rồi... Ừ thì... Mình cần... Không nên quá tự tin đi... Mình nghĩ mình có thể dùng cái buồng đấy để trở về. Trở về mặt đất thôi."
+            ],
             "endlessloop0": [
                 "...C-cái... cái gì..? Cái gì? Tại sao? Cái gì vừa... Tại sao mình lại quay lại đây..? Hnn... Chuyện gì vừa xảy ra..."
             ],
@@ -4102,13 +4211,63 @@
                 "...Chuyện này không diễn ra như mình hy vọng... Mình không biết mình có thể làm gì khác... Chà. Ugh. Quá tam ba bận nhỉ..?"
             ],
             "endlessloop2": [
-                "<spoiler>"
-            ],
+             "UUUGGGHHHHH!! MÌNH PHẢI LÀM GÌ CHỨ!? Chết tiệt... Cái quả tim chết tiệt đó... Grrrhh... Đằng nào cũng phải xuống mới sống tiếp được. Thật thảm hại"
+            ], 
             "endlessloop3": [
                 "Chà! Mình sẽ không thể thoát khỏi đây phải không... Mình nghĩ mình đang quen dần với việc này rồi."
             ],
             "endlessloopdefault": [
                 "Ôi, lại vòng qua vòng lại rồi..."
+            ],
+            "endpodexamine": [
+                "H-hàng hóa... Trước..."
+            ],
+            "ascententer": [
+                "Hình như là nó đi được đến đây thôi... Hướng duy nhất là lên. Đi thôi."
+            ],
+            "labenter": [
+                "(Mình sẽ tạm tuân theo... Họ sẽ giết chết mình nếu cố chống đối. Mình có thể sẽ tìm được cơ hội...)"
+            ],
+            "labresponse": [
+                "(...Đếch đời nào mình sẽ nói chuyện với họ.  Sau...sự việc đó.)"
+            ],
+            "labthink1": [
+                "(Giờ là thời cơ... Nếu... Nếu như mình có súng, hoặc gì đó...)"
+            ],
+            "labthink2": [
+                "(Mình có thể... Giết họ. Bắn cái thứ đó trên trần... Đi qua màng kim loại đó. Trốn thoát..?)"
+            ],
+            "labthink2chip": [
+                "(Mình có thể... Không. Không làm được. Họ sẽ giết mình với cái chip. Chết tiệt.)"
+            ],
+            "labshoot": [
+                "NNGGRRAAAAHHHH!! THỨ KHỐN NẠN!!! TAO KHÔNG CHỊU ĐƯỢC THÊM CÁI THỨ KHỐN NẠN NÀY CỦA MÀY NỮA!!!"
+            ],
+            "labcommentcalm": [
+                "Nghh... Grrh... Họ sẽ trả giá...",
+                "Họ sẽ phải trả giá cho chuyện này...",
+                "Chịu...hậu quả...",
+                "Chịu hết nổi. Với. Cái. THỨ KHỐN NẠN NÀY RỒI!",
+                "Chết hết đi. Chết hết quách đi. Tất cả bọn mày...",
+                "Đường cùng rồi.",
+                "Thứ khốn nạn. Thứ khốn nạn. Thứ khốn nạn. Bọn ngu ngốc.",
+                "Không ai sẽ quan tâm khi họ mất tích.",
+                "(Không có gì ngăn cản được mình.)",
+                "Chơi mấy trò ngu ngốc..."
+            ],
+            "labcommentcombat": [
+                "MẸ MÀY!! MẸ MÀY!!!! MẸ TẤT CẢ BỌN MÀY!!!!",
+                "TAO SẼ NHÌN SỰ SỐNG THOÁT RA KHỎI MẮT MÀY!!!", 
+                "XUỐNG ĐỊA NGỤC HẾT ĐI!!!",
+                "KHÔNG CHỊU ĐƯỢC THỨ KHỐN NẠN NÀY NỮA!!",
+                "TAO CHỊU HẾT NỔI MẤY TRÒ NÀY RỒI!!",
+                "GRRRAAHHHHH!!",
+                "MÀY NGHĨ MÀY LÀ AI!?",
+                "SẼ KHÔNG AI NHỚ MÀY HẾT!!",
+                "TẤT CẢ BỌN MÀY SẼ PHẢI TRẢ GIÁ CHO NHỮNG GÌ MÀY ĐÃ LÀM!!",
+                "TAO SẼ KHÔNG CHÙN BƯỚC ĐÂU!!",
+                "LŨ KHOÁC ÁO KHỐN NẠN!!",
+                "XUỐNG ĐỊA NGỤC ĐI!!!!"
             ],
             "vomitresponse": [
                 "Uuuhmm... Bạn ổn chứ..?"
@@ -4440,7 +4599,7 @@
                 "...Cứu...",
                 "Tàn nhẫn.",
                 "Tôi đã bị gửi đến chỗ chết.",
-                "Lũ áo blouse sẽ phải trả giá cho sự ngược đãi này.",
+                "Bọn khoác áo sẽ phải trả giá cho sự ngược đãi này.",
                 "Những hang động này đang xé xác tôi ra.",
                 "Hhn..Hnnghh..Hnnghhhggaaaahhrhh...",
                 "Hhnnhh..Aaahahahahhh...Gngnhh...",
@@ -4464,7 +4623,7 @@
                 "Cơ hội sống sót trở về của tôi là bằng không.",
                 "Tôi đã thất bại",
                 "Tôi sẽ phải trả giá cho thất bại này bằng mạng sống của tôi.",
-                "Lũ áo blouse sẽ không được yên với chuyện này đâu.",
+                "Bọn khoác áo sẽ không được yên với chuyện này đâu.",
                 "Tôi quá thảm hại để làm chuyện này.",
                 "Chỉ là một cái bao tải thịt đầy máu và xương...",
                 "Một trò đùa tàn nhẫn và chẳng hề buồn cười...",
@@ -4481,10 +4640,10 @@
                 "GHH! ...Cảm giác... thỏa mãn đến bất ngờ."
             ],
             "suicide": [
-                "Không thể. Chịu đựng. Thêm nữa. Hết.",
-                "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! TẠIIIII SAOOOOOOOO!!!???",
+                "Không thể. Chịu đựng. Thêm nữa. Chấm hết.",
+                "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! TẠIIII SAOOO CHỨỨỨỨỨỨỨỨỨ!!!???",
                 "Chịu hết nổi rồi. Tôi dừng đây.",
-                "Chết tiệt thật.",
+                "Dẹp mẹ đi.",
                 "...",
                 "Tôi xin thứ lỗi."
             ],
@@ -4903,6 +5062,24 @@
                 "Ôi, ôi, tại sao, cái gì, TẠI SAO CHỨ!? DỪNG LẠI! TÔI KHÔNG ĐÁNG BỊ THẾ NÀY! LŨ ÁO BLOUSE KHỐN KIẾP!",
                 "Xin chào tiếng bíp. Điều này có thể có ý nghĩa gì đây?"
             ],
+            "wwmr": [
+                "Mọi thứ đúng như kế hoạch. Có vẻ như mục tiêu đang ở trong tầm với. Tôi phải tập trung."
+            ],
+            "cargo1": [
+                "...Lạ thật."
+            ],
+            "cargo2": [
+                "Cuối cùng, Tôi cũng đã... H-H... Hả..?"
+            ],
+            "cargoimpale": [
+                "C-Chuyện... này... Không nằm trong... D-Danh sách những thứ mình mong đợi..."
+            ],
+            "cargoimpale2": [
+                "Ghh... N-Nó... Thật sự... Kẹt trong đó rồi... Nhưng mà... Nó làm tôi thấy nhẹ nhõm thật..."
+            ],
+            "cargoimpale3": [
+                "Hh. Tập trung. Đành vậy. Việc này nằm trong kế hoạch đã định sẵn cũng là điều hợp lý. Tôi sẽ bước vào buồng khoan đó và di chuyển lên trên."
+            ],
             "endlessloop0": [
                 "...Hừm. Hừmm... Mhhhhmmmhh... Hhhhhmmm... Đ-được rồi. Không... Kh-ông phải. Những gì. Tôi mong đ-ợi. Chắc hẳn tôi đã làm sai điều gì đó. Tôi s-ẽ quay lại và thử một lần nữa."
             ],
@@ -4917,6 +5094,53 @@
             ],
             "endlessloopdefault": [
                 "......*thở dài*"
+            ],
+            "endpodexamine": [
+                "Nó không hoạt động. Tôi có thể khởi động nó với một chút sức lực."  
+            ],
+            "ascententer": [
+                "Buồng khoan đã dừng hoạt động. Đến lúc phải tiến bộ lên thôi. Còn một quãng đường ngắn nữa."
+            ],
+            "labenter": [
+                "(Mình oán hận những tên khoác áo này... Dù vậy, mình không thể hành động ngay bây giờ. Mình phải giữ cái đầu lạnh.)"
+            ],
+            "labresponse": [
+                "(...Huh. Nó KHÔNG nằm trong kế hoạch của họ?)"
+            ],
+            "labthink1": [
+                "(Thời khắc đã điểm. Họ sẽ không lường trước được chuyện này.)"
+            ],
+            "labthink2": [
+                "(Bắn tên khoác áo. Bắn tháp pháo. Chui qua lưới kim loại. Nó sẽ khó, nhưng mình không thể để bản thân vâng lời lũ quái vật này nữa.)"
+            ],
+            "labthink2chip": [
+                "(Bắn tên......Không. Con chip này không cho tôi chống lại họ. Mình đã thất bại. Nhưng với họ, mình đã thành công.)"
+            ],
+            "labshoot": [
+                "BỌN MI XUỐNG ĐỊA NGỤC HẾT ĐI!!! BỌN MI PHẢI TRẢ GIÁ!!!"
+            ],
+            "labcommentcalm": [
+                "Họ sẽ phải...trả giá...",
+                "Không giỡn nữa.",
+                "Tất cả những kẻ liên quan xuống địa ngục hết đi...",
+                "..Grrhh...",
+                "(Mình đoạt lấy tự do cho bản thân đây.)",
+                "Họ đáng bị như vậy.",
+                "(Mình sợ)",
+                "Ggh...thứ mất dạy...",
+                "(Sẽ chẳng có ai nhớ họ khi họ chết cả..)"
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHH! CHẾT ĐI!",
+                "BỌN MI XUỐNG ĐỊA NGỤC HẾT ĐI!!!",
+                "BỌN MI XUỐNG MỒ HẾT VỚI TA!!",
+                "BỌN MI THOÁT TỘI QUÁ LÂU RỒI!!",
+                "GỌI HỖ TRỢ ĐI!! TA THÁCH BỌN NGƯƠI ĐẤY!!",
+                "TA SẼ NUỐT SỐNG BỌN NGƯƠI!!",
+                "CHẾT ĐI!!",
+                "KÊU CỨU ĐI!!! KÊU ĐI!!",
+                "CÁC NGƯỜI NGHĨ LÀ SẼ CHỐNG LẠI TA ĐƯỢC Ư!?",
+                "THỜI KHẮC CỦA NGƯƠI TỚI RỒI!!"
             ],
             "tradermeetnormal": [
                 "Chào.",
@@ -5276,7 +5500,7 @@
                 "Gghhrraaaghh! U-ống! Ngay..!"
             ],
             "limbmuscle": [
-                "<Limb> kh-ông nh-úc nh-ích...",
+                "<limb> kh-ông nh-úc nh-ích...",
                 "Du-ne <limb> ng-ừng h-oạt đ-ộng..?",
                 "Du-ne c-ần <limb> m-ới.",
                 "<limb> kh-ông hoạt động...nnngrrhh...",
@@ -5422,7 +5646,7 @@
                 "Th-êm th-ức ăn ch-o du-ne.",
                 "X-in ch-ào!!",
                 "Du-ne th-ấy th-êm x-ác chết.",
-                "Nh-iều ng-ười chết!",
+                "Nh-iều b-ạn chết!",
                 "Nh-iều th-ức ăn!"
             ],
             "seecorpsesuicidal": [
@@ -5679,6 +5903,24 @@
             "selfdestruct": [
                 "Oooorrhhn! Ti-ếng m-ới c-ủa du-ne? Hooohh..."
             ],
+            "wwmr": [
+                "Hooohh... Ch-ỗ... S-áng... Du-ne gầ-n tớ-i..?"
+            ],
+            "cargo1": [
+                "Du-ne th-ấy... Đ-ồ..."
+            ],
+            "cargo2": [
+                "Đ-ồ ăn...? Hhoooohhhh....hhhooh..?"
+            ],
+            "cargoimpale": [
+                "GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! GGRRHHHAAAAGGHHHH!!!"
+            ],
+            "cargoimpale2": [
+                "GGHHHRRAAaaaahhh....hhnnnh...nnnh...n..?"
+            ],
+            "cargoimpale3": [
+                "Hhr...n..mmm...du-ne rờ-i đư-ợc..."
+            ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......l-ại n-ữa?"
             ],
@@ -5693,6 +5935,45 @@
             ],
             "endlessloopdefault": [
                 "Nrrrg! Wheee! Du-ne th-ắng!"
+            ],
+            "endpodexamine": [
+                "Gi-ờ v-ề?"
+            ],
+            "ascententer": [
+                "Oooo! Đ-ỏ..."
+            ],
+            "labenter": [
+                "(Du-ne về nh-à... Du-ne c-ẩn th-ận...)"
+            ],
+            "labresponse": [
+                "Kh-ông Biế-t."
+            ],
+            "labthink1": [
+                "(Đói...)"
+            ],
+            "labthink2": [
+                "(Du-ne thấy đồ ăn. Du-ne lấy. Du-ne rờ-i.)"
+            ],
+            "labthink2chip": [
+                "(Du-ne không có đ-ồ ăn. Du-ne buồn.)"
+            ],
+            "labshoot": [
+                "NNNGGGRRRAAUUUGHHH!!!!! NGGRRRAAHHHGHHH!!! GRRRRAAAAAAAAAAHHHHHH!!!"
+            ],
+            "labcommentcalm": [
+                "Grrhh....ngrhhr...",
+                "Ngrrhhh...",
+                "Đồ ăn...đ-ồ ăn...tới...",
+                "Du-ne...giết...hết...",
+                "Th-ức ăn...tớ-i..."
+            ],
+            "labcommentcombat": [
+                "NNGRRAAHHHHH!",
+                "GGRAAGHHH! GRRRRRHHH!!!",
+                "NNRRUUAAAAARRGHHHH!!",
+                "CH-ẾT TỚ-I!!!",
+                "ĐẾ-N V-ỚI DU-NE!!!",
+                "DU-NE ĂN TH-ỊT!!!"
             ],
             "tradermeetnormal": [
                 "Mmm... Chà-o....",
@@ -5966,12 +6247,12 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "Sự phân bố của các loài ở đây dường như rất không cân xứng. Các Experiment ở khắp mọi nơi, nhưng các loài khác như của chúng mình dường như ít hơn rất nhiều. Lạ thật... Dù sao thì, mình không thích số lượng thương vong ở đây. Nhiều thú trong chúng mình cần được giúp đỡ hơn.",
+                "Item1": "Sự phân bố của các loài ở đây dường như rất không cân xứng. Các Experiment ở khắp mọi nơi, nhưng các loài khác như của tôi dường như ít hơn rất nhiều. Lạ thật... Dù sao thì, mình không thích số lượng thương vong ở đây. Nhiều thú trong chúng mình cần được giúp đỡ hơn.",
                 "Item2": "Sprites/noteDrawings/milky",
                 "Item3": "milky"
             },
             {
-                "Item1": "mình đang tự kiểm tra bản thân sau một sự cố đau đớn thì phát hiện ra một vết sưng đen, sần sùi trên da. Nó có hình dạng không đều và có nhiều màu sắc kỳ lạ cũng như lốm đốm. mình ước tính đường kính của nó xấp xỉ tám milimet. Khi kiểm tra kỹ hơn, mình tìm thấy thêm vài vết nữa ở nhiều vị trí khác nhau trên cơ thể. mình đã liên lạc với một thú trẻ hơn và họ có vẻ không có vết nào, nhưng bạn thú lớn tuổi hơn của mình lại có nhiều hơn. mình có nên theo dõi sự tiến triển của căn bệnh ác tính tiềm tàng này không?",
+                "Item1": "tôi đang tự kiểm tra bản thân sau một sự cố đau đớn thì phát hiện ra một vết sưng đen, sần sùi trên da. Nó có hình dạng không đều và có nhiều màu sắc kỳ lạ cũng như lốm đốm. tôi ước tính đường kính của nó xấp xỉ tám milimet. Khi kiểm tra kỹ hơn, tôi tìm thấy thêm vài vết nữa ở nhiều vị trí khác nhau trên cơ thể. tôi đã liên lạc với một thú trẻ hơn và họ có vẻ không có vết nào, nhưng bạn thú lớn tuổi hơn của tôi lại có nhiều hơn. tôi có nên theo dõi sự tiến triển của căn bệnh ác tính tiềm tàng này không?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6046,7 +6327,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "tôi đã bị một cú ngã tồi tệ. THỰC SỰ tồi tệ. Ngay vào một cái hố và không thể leo lên hay đào ra với những vết thương của tôi. Nhưng tôi đã thoát ra được với những mảnh phế liệu kim loại này, và muốn cho những thú khác cũng biết điều này.\n\nĐó là các vách hang động! Không có gì mà mình tìm thấy - ngay cả thuốc nổ - có thể xuyên thủng ranh giới bên ngoài của hang động. Nhưng chúng không bằng phẳng, và nếu bạn xếp đủ các mảnh kim loại vụn chồng lên nhau, bạn có thể nêm chúng vào những khoảng trống nhỏ này và tạo ra một chỗ đứng bằng phế liệu. Khi tôi đang chảy máu cho đến chết trong cái hố tối tăm đó, tôi đã sử dụng các mảnh phế liệu mà tôi thu thập được để làm một loại cầu thang để trốn thoát và tìm vật tư khẩn cấp.\n\nTuy nhiên, tôi hy vọng bạn không bao giờ rơi vào tình huống đó. Có lẽ bạn có thể sử dụng thủ thuật này để bảo vệ bản thân khỏi bị thương ngay từ đầu? Ai biết được còn có những thứ kinh tởm nào khác ở trong này cùng với chúng ta.\n\nCó lẽ bạn sẽ bắt kịp tôi và chúng ta có thể chia sẻ chiến lược.\ntôi hy vọng tôi sẽ ở đó để gặp bạn.",
+                "Item1": "tôi đã bị một cú ngã tồi tệ. THỰC SỰ tồi tệ. Ngay vào một cái hố và không thể leo lên hay đào ra với những vết thương của tôi. Nhưng tôi đã thoát ra được với những mảnh phế liệu kim loại này, và muốn cho những thú khác cũng biết điều này.\n\nĐó là các vách hang động! Không có gì mà tôi tìm thấy - ngay cả thuốc nổ - có thể xuyên thủng ranh giới bên ngoài của hang động. Nhưng chúng không bằng phẳng, và nếu bạn xếp đủ các mảnh kim loại vụn chồng lên nhau, bạn có thể nêm chúng vào những khoảng trống nhỏ này và tạo ra một chỗ đứng bằng phế liệu. Khi tôi đang chảy máu cho đến chết trong cái hố tối tăm đó, tôi đã sử dụng các mảnh phế liệu mà tôi thu thập được để làm một loại cầu thang để trốn thoát và tìm vật tư khẩn cấp.\n\nTuy nhiên, tôi hy vọng bạn không bao giờ rơi vào tình huống đó. Có lẽ bạn có thể sử dụng thủ thuật này để bảo vệ bản thân khỏi bị thương ngay từ đầu? Ai biết được còn có những thứ kinh tởm nào khác ở trong này cùng với chúng ta.\n\nCó lẽ bạn sẽ bắt kịp tôi và chúng ta có thể chia sẻ chiến lược.\ntôi hy vọng tôi sẽ ở đó để gặp bạn.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6056,7 +6337,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(Tờ giấy bạc bị nhàu nát và nghiền nát, như thể nó được dự định vứt đi.)\n<>\nbạn mình, họ... mình nghĩ họ đã tự sát. sau một cú ngã tồi tệ khác, mình đã cố gắng sửa lại đôi chân của họ nhưng họ cứ mắng mỏ mình. họ cứ xua đuổi mình như thể mình là một con ruồi nào đó, bảo mình để họ yên. mình không hiểu. mình rời đi để lấy một số cây cỏ ở đây để cố gắng băng bó cho họ nhưng... khi mình quay lại, họ lại có thêm một vết thương nữa. một vết trên cánh tay họ. mình vẫn nhớ nó trông như thế nào, nó rất tệ, gần như bị xé toạc. mình đã cố sử dụng những cây cỏ mình tìm thấy để băng bó vết thương mới nhưng họ cứ đẩy mình ra. đôi mắt của họ... trông chỉ... trống rỗng. mình bảo họ dừng lại và cứ để mình giúp nhưng họ không phản hồi. mình đã cố giúp thêm vài lần nữa và họ xô mình ra cho đến khi họ chỉ... dừng lại. mình nhớ đã nhìn thấy cơ thể họ thả lỏng, mình nghĩ đó là lúc họ ngừng thở. mình không thể lấy hình ảnh đó ra khỏi đầu mình...\n<>\ncó phải... mình đã làm gì sai không? mình thề là mình không làm... mình đã làm gì sai? tại sao họ lại làm thế? mình... mình không làm gì cả. mình không hiểu, mình không muốn chết... mình không... mình...\n<>\n...\n<>\nhaha...\n<>\nở trong này thật cô đơn.\n<>\n(Bạn nhận thấy những giọt nước mắt khô mờ nhạt và vết máu khô lốm đốm giữa tờ ghi chú nhăn nhúm.)",
+                "Item1": "(Tờ giấy bị nhàu nát và nghiền nát, như thể nó được dự định vứt đi.)\n<>\nbạn mình, họ... mình nghĩ họ đã tự sát. sau một cú ngã tồi tệ khác, mình đã cố gắng sửa lại đôi chân của họ nhưng họ cứ mắng mỏ mình. họ cứ xua đuổi mình như thể mình là một con ruồi nào đó, bảo mình để họ yên. mình không hiểu. mình rời đi để lấy một số cây cỏ ở đây để cố gắng băng bó cho họ nhưng... khi mình quay lại, họ lại có thêm một vết thương nữa. một vết trên cánh tay họ. mình vẫn nhớ nó trông như thế nào, nó rất tệ, gần như bị xé toạc. mình đã cố sử dụng những cây cỏ mình tìm thấy để băng bó vết thương mới nhưng họ cứ đẩy mình ra. đôi mắt của họ... trông chỉ... trống rỗng. mình bảo họ dừng lại và cứ để mình giúp nhưng họ không phản hồi. mình đã cố giúp thêm vài lần nữa và họ xô mình ra cho đến khi họ chỉ... dừng lại. mình nhớ đã nhìn thấy cơ thể họ thả lỏng, mình nghĩ đó là lúc họ ngừng thở. mình không thể lấy hình ảnh đó ra khỏi đầu mình...\n<>\ncó phải... mình đã làm gì sai không? mình thề là mình không làm... mình đã làm gì sai? tại sao họ lại làm thế? mình... mình không làm gì cả. mình không hiểu, mình không muốn chết... mình không... mình...\n<>\n...\n<>\nhaha...\n<>\nở trong này thật cô đơn.\n<>\n(Bạn nhận thấy những giọt nước mắt khô mờ nhạt và vết máu khô lốm đốm giữa tờ ghi chú nhăn nhúm.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6118,7 +6399,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Con người làm những điều kỳ lạ. Bạn không nên tin rằng họ sẽ tốt bụng với bạn.\nNhưng bạn có thể tin tưởng rằng họ sẽ giữ cho bạn sống.<>\nMột lần tôi bị gãy tay, và họ bó nó bằng một cái \"bó bột.\" tôi không thích nó. Nó nặng nề và ngăn cánh tay tôi cử động hoàn toàn. Trông thì có vẻ như họ cố tình làm cho nó tệ hơn, và họ bắt tôi phải đeo nó trong một thời gian dài.<>\nHọ đã tháo nó ra vào một ngày nọ, và cánh tay tôi đã bình thường lại.<>\nCon người đã làm nó tệ hơn, để nó có thể tốt hơn.<>\n\nTôi nghĩ họ đã làm điều gì đó tương tự với đầu của Jumper.\nJumper từng hét và khóc rất nhiều. Một lần nó tự làm bản thân bị thương, và con người đã đưa nó đi.<>\nJumper đã về lại. Nó không khóc nữa. Nó không nói chuyện. Nó lúc nào cũng trông có vẻ buồn ngủ. Đầu của nó giống như cánh tay của tôi trước đây. tôi không thể nhìn thấy thứ \"bó bột\" nào xung quanh nó, và hành vi của nó làm tôi lo lắng, nhưng ít nhất nó không còn tự làm hại bản thân nữa. tôi hy vọng con người sẽ sửa lại bất cứ điều gì họ đã làm khi đầu của Jumper về lại ban đầu.<>\n\nmình nhớ nó.",
+                "Item1": "Con người làm những điều kỳ lạ. Bạn không nên tin rằng họ sẽ tốt bụng với bạn.\nNhưng bạn có thể tin tưởng rằng họ sẽ giữ cho bạn sống.<>\nMột lần tôi bị gãy tay, và họ bó nó bằng một cái \"bó bột.\" tôi không thích nó. Nó nặng nề và ngăn cánh tay tôi cử động hoàn toàn. Trông thì có vẻ như họ cố tình làm cho nó tệ hơn, và họ bắt tôi phải đeo nó trong một thời gian dài.<>\nHọ đã tháo bạn nó ấy ra vào một ngày nọ, và cánh tay tôi đã bình thường lại.<>\nCon người đã làm nó tệ hơn, để nó có thể tốt hơn.<>\n\nTôi nghĩ họ đã làm điều gì đó tương tự với đầu của Jumper.\nJumper từng hét và khóc rất nhiều. Một lần bạn ấy tự làm bản thân bị thương, và con người đã đưa bạn ấy đi.<>\nJumper đã về lại. Bạn ấy không khóc nữa. Bạn ấy không nói chuyện. Bạn ấy lúc nào cũng trông có vẻ buồn ngủ. Đầu của bạn ấy giống như cánh tay của tôi trước đây. Tôi không thể nhìn thấy thứ \"bó bột\" nào xung quanh bạn ấy, và hành vi của bạn ấy làm tôi lo lắng, nhưng ít nhất bạn ấy không còn tự làm hại bản thân nữa. tôi hy vọng con người sẽ sửa lại bất cứ điều gì họ đã làm khi đầu của Jumper về lại ban đầu.<>\n\ntôi nhớ bạn ấy.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6150,7 +6431,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Mới tìm thấy một loại máy khoan, nhưng nó bị thiếu một vài bộ phận. tôi không biết nó cần gì, ngoại trừ tấm che cho tất cả các cơ chế... Có thể hữu ích nếu mình đưa nó vào trạng thái hoạt động.",
+                "Item1": "Mới tìm thấy một loại máy khoan, nhưng nó bị thiếu một vài bộ phận. tôi không biết nó cần gì, ngoại trừ tấm che cho tất cả các cơ chế... Có thể hữu ích nếu tôi đưa nó vào trạng thái hoạt động.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6165,12 +6446,12 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "Thật đau lòng khi phải thừa nhận chuyện này, nhưng sự yếu ớt của giống loài tôi là không thể bỏ qua được. May mắn thay, tôi đã tìm thấy một vật chứa tuyệt vời giúp vô hiệu hóa hoàn toàn trọng lượng của hầu hết các món đồ bên trong, cho phép tôi mang theo nhiều vật phẩm hơn mức bình thường.\nNó chạy bằng pin, và điều đó làm mình lo lắng. tôi không chắc điều gì sẽ xảy ra khi hết điện, vì vậy tôi sẽ kiểm tra nó ngay bây giờ, cho an toàn.<>\nTôi không muốn nó trở nên đè nặng khi đang nhảy giữa chừng. tôi đang có một cục pin gần hết điện.\nĐã đến lúc xem chiếc túi hoạt động như thế nào khi nó hết pin.\n\n(Phần còn lại của tờ ghi chú không thể đọc được; bất cứ văn bản nào được viết bên dưới đều bị che khuất bởi một vết máu khô khổng lồ.)",
+                "Item1": "Thật đau lòng khi phải thừa nhận chuyện này, nhưng sự yếu ớt của giống loài tôi là không thể bỏ qua được. May mắn thay, tôi đã tìm thấy một vật chứa tuyệt vời giúp vô hiệu hóa hoàn toàn trọng lượng của hầu hết các món đồ bên trong, cho phép tôi mang theo nhiều vật phẩm hơn mức bình thường.\nNó chạy bằng pin, và điều đó làm tôi lo lắng. tôi không chắc điều gì sẽ xảy ra khi hết điện, vì vậy tôi sẽ kiểm tra nó ngay bây giờ, cho an toàn.<>\nTôi không muốn nó trở nên đè nặng khi đang nhảy giữa chừng. tôi đang có một cục pin gần hết điện.\nĐã đến lúc xem chiếc túi hoạt động như thế nào khi nó hết pin.\n\n(Phần còn lại của tờ ghi chú không thể đọc được; bất cứ văn bản nào được viết bên dưới đều bị che khuất bởi một vết máu khô khổng lồ.)",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "Thậm chí còn chưa thoát khỏi cảnh quan đầy đá địa ngục này, và tôi đã cảm thấy cái chết đang kề cận,\nTất cả những gì họ đưa cho tôi là một cái đèn pin tồi tàn không kéo dài nổi một giờ; thậm chí không có bất kỳ thiết bị an toàn nào để giúp đệm những cú ngã mà tôi đã phải chịu.\n\nCHẾT TIỆT THẬT, tôi cảm thấy như một quả bóng từ một trong những cỗ máy đánh bạc mà tôi thấy con người sử dụng!\n\ntôi nghĩ tôi có thể đang chết dần chết mòn, kể từ cú ngã cuối cùng, tôi luôn cảm thấy khá nặng đầu, tôi cảm thấy mệt mỏi; nhưng tôi cảm thấy nếu tôi ngủ, tôi sẽ chết.\n\nChúa cứu mình.\nKHỐN NẠN thật chứ.\nmình thực sự không muốn chết, không phải theo cách này..\nMục đích của tất cả chuyện này là gì chứ?\nmình thậm chí không có một cái tên cho chính mình, chỉ có một thẻ..\nChết tiệt...",
+                "Item1": "Thậm chí còn chưa thoát khỏi cảnh quan đầy đá địa ngục này, và tôi đã cảm thấy cái chết đang kề cận,\nTất cả những gì họ đưa cho tôi là một cái đèn pin tồi tàn không kéo dài nổi một giờ; thậm chí không có bất kỳ thiết bị an toàn nào để giúp đệm những cú ngã mà tôi đã phải chịu.\n\nCHẾT TIỆT THẬT, tôi cảm thấy như một quả bóng từ một trong những cỗ máy đánh bạc mà tôi thấy con người sử dụng!\n\ntôi nghĩ tôi có thể đang chết dần chết mòn, kể từ cú ngã cuối cùng, tôi luôn cảm thấy khá nặng đầu, tôi cảm thấy mệt mỏi; nhưng tôi cảm thấy nếu tôi ngủ, tôi sẽ chết.\n\nChúa cứu tôi.\nKHỐN NẠN thật chứ.\nTôi thực sự không muốn chết, không phải như thế này..\nMọi chuyện này để làm gì chứ?\nTôi thậm chí không có một cái tên cho chính tôi, chỉ có một thẻ..\nChết tiệt...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6457,19 +6738,19 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[GHI CHÉP NGHIÊN CỨU, 29-1-24XX]<>\nTôi vẫn khó mà tin vào mắt mình. Đối tượng chỉ to bằng nắm tay tôi, có màu vàng, và kết cấu nhầy nhờn. Theo đánh giá chung thì nó trông như một cục thịt. Chúng tôi không biết nó đến từ đâu hay từ cái gì, nhưng các thiết bị của chúng tôi xác nhận nó có nguồn gốc sinh học, và hoàn toàn ngoại lai so với chúng ta. Nó được thu thập từ mảnh vỡ của ██████ ███████, kết chặt với tấm thu tín hiệu. Đây là bước tiến đột phá trong nghiên cứu của chúng tôi, nhưng là sự an ủi nhỏ bé cho việc mất hoàn toàn thiết bị. Tôi không hiểu. Hơn một thập kỉ mò mẫm trong đường cụt để nghiên cứu về dịch chuyển tức thời một vài phân tử riêng biệt và rồi thứ này lọt qua?<>\nTrong cả vũ trụ, tỉ lệ mà cuộc thử nghiệm này ngẫu nhiên cắt qua một sinh vật ở một hành tinh không rõ nào đó chắc chắn phải ít nhất là 1 trên năm chữ \"tỉ\". Nó đáng ra không thể xảy ra, nhưng rồi nó đây. Ta sẽ cần phải thử xoay xở. Ta không thể để mất nguồn tài trợ được, hay làm công chúng hoảng sợ. Đặc biệt là vào lúc này. Ít nhất thì sự kiện này sẽ cho đội sinh học thứ gì đó để nghiên cứu trong lúc chúng ta khôi phục lại toàn bộ dự án từ số không.",
+            "Item1": "[GHI CHÉP NGHIÊN CỨU 29-1-24XX]<>\nTôi vẫn khó mà tin vào mắt mình. Đối tượng chỉ to bằng nắm tay tôi, có màu vàng, và kết cấu nhầy nhờn. Theo đánh giá chung thì nó trông như một cục thịt. Chúng tôi không biết nó đến từ đâu hay từ cái gì, nhưng các thiết bị của chúng tôi xác nhận nó có nguồn gốc sinh học, và hoàn toàn ngoại lai so với chúng ta. Nó được thu thập từ mảnh vỡ của ██████ ███████, kết chặt với tấm thu tín hiệu. Đây là bước tiến đột phá trong nghiên cứu của chúng tôi, nhưng là sự an ủi nhỏ bé cho việc mất hoàn toàn thiết bị. Tôi không hiểu. Hơn một thập kỉ mò mẫm trong đường cụt để nghiên cứu về dịch chuyển tức thời một vài phân tử riêng biệt và rồi thứ này lọt qua?<>\nTrong cả vũ trụ, tỉ lệ mà cuộc thử nghiệm này ngẫu nhiên cắt qua một sinh vật ở một hành tinh không rõ nào đó chắc chắn phải ít nhất là 1 trên năm chữ \"tỉ\". Nó đáng ra không thể xảy ra, nhưng rồi nó đây. Ta sẽ cần phải thử xoay xở. Ta không thể để mất nguồn tài trợ được, hay làm công chúng hoảng sợ. Đặc biệt là vào lúc này. Ít nhất thì sự kiện này sẽ cho đội sinh học thứ gì đó để nghiên cứu trong lúc chúng ta khôi phục lại toàn bộ dự án từ số không.",
             "Item2": ""
         },
         {
-            "Item1": "[GHI CHÉP NGHIÊN CỨU, 3-11-24XX]<>\nThứ 'máu vàng' từ sự cố █████████ cực kì thú vị. Khả năng thích nghi của nó vượt xa bất cứ thứ gì trên Trái Đất. Thậm chí dưới tác động của phóng xạ mạnh, nó vẫn có thể tự sửa chữa gần như tức thì. Mức độ tái tổ hợp này chỉ có thể được tìm thấy ở các tế bào miễn dịch của chúng ta, nhưng nó lại bao phủ toàn bộ hệ gen của nó. Khi chúng tôi thử ghi đè gen bằng các vector virus của chúng tôi, nó đã tích hợp chúng vào chính bộ gen của nó mà không hề mất mát gì với bản thân.<>\nChúng tôi cấy mẫu gen ngoại lai vào tế bào của chuột thì kết quả của nó khiến TS.█████ bật ra khỏi ghế. Nó chuyển sang trạng thái hoạt động cực độ, tóm lấy DNA từ bất kì nguồn nào mà nó tìm được và tích hợp nó vào DNA của vật chủ mà không gặp bất kì trở ngại nào. Nó làm cho các nghiên cứu sinh học từ 100 năm qua trông như các trò đùa. Vật chủ chết không lâu sau đó. Nó hoạt động như một bộ khung, cho phép các trình tự DNA di chuyển và tái kết hợp mà không chuyển sang trạng thái ung thư ngay tức thì. Chúng tôi thực hiện thử nghiệm này với nhiều hệ gen và các chuỗi từ các loài khác nhau rõ rệt cũng được tích hợp. Tuy nhiên, kết quả thực sự lại hoàn toàn ngẫu nhiên. Nó giống việc pha chế thuốc phép hơn là sinh học thực thụ, nhưng ai mà biết được tiềm năng mà thứ này mang lại.",
+            "Item1": "[GHI CHÉP NGHIÊN CỨU 3-11-24XX]<>\nThứ 'máu vàng' từ sự cố █████████ cực kì thú vị. Khả năng thích nghi của nó vượt xa bất cứ thứ gì trên Trái Đất. Thậm chí dưới tác động của phóng xạ mạnh, nó vẫn có thể tự sửa chữa gần như tức thì. Mức độ tái tổ hợp này chỉ có thể được tìm thấy ở các tế bào miễn dịch của chúng ta, nhưng nó lại bao phủ toàn bộ hệ gen của nó. Khi chúng tôi thử ghi đè gen bằng các vector virus của chúng tôi, nó đã tích hợp chúng vào chính bộ gen của nó mà không hề mất mát gì với bản thân.<>\nChúng tôi cấy mẫu gen ngoại lai vào tế bào của chuột thì kết quả của nó khiến TS.█████ bật ra khỏi ghế. Nó chuyển sang trạng thái hoạt động cực độ, tóm lấy DNA từ bất kì nguồn nào mà nó tìm được và tích hợp nó vào DNA của vật chủ mà không gặp bất kì trở ngại nào. Nó làm cho các nghiên cứu sinh học từ 100 năm qua trông như các trò đùa. Vật chủ chết không lâu sau đó. Nó hoạt động như một bộ khung, cho phép các trình tự DNA di chuyển và tái kết hợp mà không chuyển sang trạng thái ung thư ngay tức thì. Chúng tôi thực hiện thử nghiệm này với nhiều hệ gen và các chuỗi từ các loài khác nhau rõ rệt cũng được tích hợp. Tuy nhiên, kết quả thực sự lại hoàn toàn ngẫu nhiên. Nó giống việc pha chế thuốc phép hơn là sinh học thực thụ, nhưng ai mà biết được tiềm năng mà thứ này mang lại.",
             "Item2": ""
         },
         {
-            "Item1": "[GHI CHÉP NGHIÊN CỨU, 29-7-24XX]<>\nCông sức của tôi đã cho ra một mẫu vật khả dụng! Nó đã được cho an thần, nhưng đang tự thở bên ngoài bể nuôi. Nó không có dấu hiệu gì của các dị tật phôi thai gây chết mà đã tước đi các mẫu vật trước đó, nó cũng không phải là một mớ mô thịt hỗn độn gớm ghiếc. Đây là giống dạng sống khôn ngoan nhân tạo đầu tiên. Tôi cũng không quên rằng tôi là người đã sinh ra một giống loài mới.<>\nNhư các cuộc thử nghiệm khác, thứ máu vàng đã được cho vào mẫu lai pha ổn định mới nhất và cấy vào phôi thai con người. Như kì vọng, mẫu vật mang nhiều nhất đặc điểm từ hệ gen con người, nhưng nó cũng là một thực thể hoàn toàn mới. Các móng vuốt trông như của loài mèo, đôi tai của nó trông như của loài chim hay thậm chí là bò sát. Tôi còn nhận thấy dấu vết của gen chó, cáo và loài gặm nhấm trong hộp sọ, nhưng nguồn gen có thể đến từ hàng ngàn cá thể hiến tặng khác. Đôi mắt của nó còn hơi có phát quang sinh học.\nQuan trọng hơn hết, trí tuệ của nó có vẻ ngang ngửa với của con người, như mong đợi. Tiềm năng mà thứ này mang lại là vô hạn! Tôi sẽ chơi đùa nhẹ nhàng với mẫu này, nhưng tôi đã bắt đầu nhân bản nó để thực hiện nhiều thí nghiệm có tính phá hủy hơn.\nTôi sẽ đặt tên cho thành quả của mình, là SAW-01.",
+            "Item1": "[GHI CHÉP NGHIÊN CỨU 29-7-24XX]<>\nCông sức của tôi đã cho ra một mẫu vật khả dụng! Nó đã được cho an thần, nhưng đang tự thở bên ngoài bể nuôi. Nó không có dấu hiệu gì của các dị tật phôi thai gây chết mà đã tước đi các mẫu vật trước đó, nó cũng không phải là một mớ mô thịt hỗn độn gớm ghiếc. Đây là giống dạng sống khôn ngoan nhân tạo đầu tiên. Tôi cũng không quên rằng tôi là người đã sinh ra một giống loài mới.<>\nNhư các cuộc thử nghiệm khác, thứ máu vàng đã được cho vào mẫu lai pha ổn định mới nhất và cấy vào phôi thai con người. Như kì vọng, mẫu vật mang nhiều nhất đặc điểm từ hệ gen con người, nhưng nó cũng là một thực thể hoàn toàn mới. Các móng vuốt trông như của loài mèo, đôi tai của nó trông như của loài chim hay thậm chí là bò sát. Tôi còn nhận thấy dấu vết của gen chó, cáo và loài gặm nhấm trong hộp sọ, nhưng nguồn gen có thể đến từ hàng ngàn cá thể hiến tặng khác. Đôi mắt của nó còn hơi có phát quang sinh học.\nQuan trọng hơn hết, trí tuệ của nó có vẻ ngang ngửa với của con người, như mong đợi. Tiềm năng mà thứ này mang lại là vô hạn! Tôi sẽ chơi đùa nhẹ nhàng với mẫu này, nhưng tôi đã bắt đầu nhân bản nó để thực hiện nhiều thí nghiệm có tính phá hủy hơn.\nTôi sẽ đặt tên cho thành quả của mình, là SAW-01.",
             "Item2": ""
         },
         {
-            "Item1": "[GHI CHÉP NGHIÊN CỨU, 24-12-24XX]<>\nSau nhiều lần yêu cầu, tôi sẽ biến đổi hệ gen của SAW-01. Giá trị của nó cho các nghiên cứu của công ty vượt ngoài dự đoán của tôi. Ban đầu tôi tin rằng việc thiếu đi khả năng sinh sản là minh chứng cho sự hoàn hảo của chúng, nhưng nhu cầu đối với chúng cao đến mức các cỗ máy nhân bản của chúng tôi không thể đáp ứng kịp. Giờ tôi hiểu lợi ích của phương pháp cũ.\nNgay khi tôi dừng kìm hãm biểu hiện sinh dục, các gen sẵn lòng chấp nhận sự thay đổi đó. Chúng là sinh vật lưỡng tính đồng thời; là động vật có vú đầu tiên có cả hai bộ phận sinh dục. Thực ra thì, vì chúng không có tuyến sữa, chúng có còn được xếp vào nhóm động vật có vú không? Tôi không biết là nó có thuộc về Trái Đất này hay không, hay thuộc về thứ máu vàng, nhưng nó nằm ngoài thuật ngữ của chúng tôi.<>\nNó có vẻ như không sở hữu ham muốn tình dục với các cá thể cùng loài khác, nhưng chúng bằng lòng và có khả năng tự sinh sản. Chúng sẽ có thể tự nhân bản một cách hiệu quả với chi phí ít hơn đáng kể. ",
+            "Item1": "[GHI CHÉP NGHIÊN CỨU 24-12-24XX]<>\nSau nhiều lần yêu cầu, tôi sẽ biến đổi hệ gen của SAW-01. Giá trị của nó cho các nghiên cứu của công ty vượt ngoài dự đoán của tôi. Ban đầu tôi tin rằng việc thiếu đi khả năng sinh sản là minh chứng cho sự hoàn hảo của chúng, nhưng nhu cầu đối với chúng cao đến mức các cỗ máy nhân bản của chúng tôi không thể đáp ứng kịp. Giờ tôi hiểu lợi ích của phương pháp cũ.\nNgay khi tôi dừng kìm hãm biểu hiện sinh dục, các gen sẵn lòng chấp nhận sự thay đổi đó. Chúng là sinh vật lưỡng tính đồng thời; là động vật có vú đầu tiên có cả hai bộ phận sinh dục. Thực ra thì, vì chúng không có tuyến sữa, chúng có còn được xếp vào nhóm động vật có vú không? Tôi không biết là nó có thuộc về Trái Đất này hay không, hay thuộc về thứ máu vàng, nhưng nó nằm ngoài thuật ngữ của chúng tôi.<>\nNó có vẻ như không sở hữu ham muốn tình dục với các cá thể cùng loài khác, nhưng chúng bằng lòng và có khả năng tự sinh sản. Chúng sẽ có thể tự nhân bản một cách hiệu quả với chi phí ít hơn đáng kể. ",
             "Item2": ""
         },
         {
@@ -6477,7 +6758,7 @@
             "Item2": ""
         },
         {
-            "Item1": "Chào ông anh.\nCập nhật một chút về ████ █████. Tiến triển một cách tuyệt vời. Mấy anh em đã suýt nữa cung cấp năng lượng cho toàn bộ trạm chỉ với nó và nó không hề than vãn gì. Nó là dạng năng lượng đặc nhất mà tụi tôi từng thấy. Tưởng tượng nhé, cả hệ thống dịch chuyển tức thời được chạy bằng năng lượng tạo ra từ thứ mà ông có thể cầm được trên tay. Nhưng mà, lạ là nó trông giống như một █████. Chắc là do một mảnh nào đó của con Experiment bị mắc trong đó, ai biết được. Như với thứ này, ta có thể không cần phải mở rộng Bầy Dyson nữa.\nNhưng vấn đề là, ta không thể tái tạo nó.<>\nCác anh em đinh ninh rằng họ đã tái tạo y hệt thử nghiệm đó. Lúc đó họ đã thử kéo ống dẫn không-thời gian ra thay vì đi qua nó, nhưng lần này? Chẳng có gì cả. Nó đã phá hỏng cỗ máy như những lần trước, nhưng không có ████ █████. Y hệt như sự cố ██████████, nhưng thứ máu vàng đó dẫn ta đến các mẫu vật SAW. Đây có thể là bước đột phá lớn hơn.\nTôi sẽ gửi thông tin này xuống trụ sở bằng máy dịch chuyển. Hy vọng rằng ông có thể hiểu được. À... tiện thể đang nói về chủ đề này, gửi lên thêm mấy con thí nghiệm SAW đi. Khó mà có thể duy trì đủ lượng dự trữ thứ này ở trên quỹ đạo.\n- Điều hành viên Trạm ███████████",
+            "Item1": "Chào ông anh.\nCập nhật một chút về ████ █████. Tiến triển một cách tuyệt vời. Mấy anh em đã suýt nữa cung cấp năng lượng cho toàn bộ trạm chỉ với nó và nó không hề than vãn gì. Nó là dạng năng lượng đặc nhất mà tụi tôi từng thấy. Tưởng tượng nhé, cả hệ thống dịch chuyển tức thời được chạy bằng năng lượng tạo ra từ thứ mà ông có thể cầm được trên tay. Nhưng mà, lạ là nó trông giống như một █████. Chắc là do một mảnh nào đó của con Experiment bị mắc trong đó, ai biết được. Như với thứ này, ta có thể không cần phải mở rộng Bầy Dyson nữa.\nNhưng vấn đề là, ta không thể tái tạo nó.<>\nCác anh em đinh ninh rằng họ đã tái tạo y hệt thử nghiệm đó. Lúc đó họ đã thử kéo ống dẫn không-thời gian ra thay vì đi qua nó, nhưng lần này? Chẳng có gì cả. Nó đã phá hỏng cỗ máy như những lần trước, nhưng không có ████ █████. Y hệt như sự cố ██████████, nhưng thứ máu vàng đó dẫn ta đến các mẫu vật SAW. Đây có thể là bước đột phá lớn hơn.\nTôi sẽ gửi thông tin này xuống trụ sở bằng máy dịch chuyển. Hy vọng rằng ông có thể hiểu được. À... tiện thể đang nói về chủ đề này, gửi lên thêm mấy đối tượng SAW đi. Khó mà có thể duy trì đủ lượng dự trữ thứ này ở trên quỹ đạo.\n- Điều hành viên Trạm ███████████",
             "Item2": ""
         },
         {
@@ -6493,7 +6774,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[CHỦ ĐỂ] Về Tin nhắn Mới nhất của Bạn\n[TỪ]: Nhân sự\n[TỚI] : TS. ██████████<>\n\nThư này là để thông báo cho bạn rằng tin nhắn mới nhất của bạn,\n\n    \"Thằng khốn chết dẫm nào trong số tụi mày dịch chuyển một nửa con Experiment vào NHÀ VỆ, CON MẸ NÓ, SINH VẬY HẢ?! Tao đang ngồi trong đó xử lý công chuyện thì NGUYÊN PHẦN THÂN PHỤT MÁU BỊ CẮT RỜI RỚT THẲNG VÀO ĐẦU TAO. Nó còn vùng vẫy và làm văng thứ máu gớm ghiếc của nó MỌI NƠI NỮA! Người tao DÍNH ĐẦY THỨ KHỐN NẠN ĐÓ! KINH KHỦNG!!! Tao mà tìm được đứa nào làm chuyện này là tao quăng nửa còn lại vào VĂN PHÒNG MÀY!\"\n\nđược xác định là thiếu lịch sự và không đúng với chuẩn mực văn phong chuyên nghiệp của chúng ta. Chúng tôi mong đợi tất cả nhân viên giao tiếp với đồng nghiệp một cách tôn trọng và chuyên nghiệp.\n\nVui lòng đảm bảo mọi giao tiếp trong tương lai tuân theo những chuẩn mực giao tiếp này.",
+            "Item1": "[CHỦ ĐỂ] Về Tin nhắn Mới nhất của Bạn\n[TỪ] Nhân sự\n[TỚI] TS. ██████████<>\n\nThư này là để thông báo cho bạn rằng tin nhắn mới nhất của bạn,\n\n    \"Thằng khốn chết dẫm nào trong số tụi mày dịch chuyển một nửa con Experiment vào NHÀ VỆ, CON MẸ NÓ, SINH VẬY HẢ?! Tao đang ngồi trong đó xử lý công chuyện thì NGUYÊN PHẦN THÂN PHỤT MÁU BỊ CẮT RỜI RỚT THẲNG VÀO ĐẦU TAO. Nó còn vùng vẫy và làm văng thứ máu gớm ghiếc của nó MỌI NƠI NỮA! Người tao DÍNH ĐẦY THỨ KHỐN NẠN ĐÓ! KINH KHỦNG!!! Tao mà tìm được đứa nào làm chuyện này là tao quăng nửa còn lại vào VĂN PHÒNG MÀY!\"\n\nđược xác định là thiếu lịch sự và không đúng với chuẩn mực văn phong chuyên nghiệp của chúng ta. Chúng tôi mong đợi tất cả nhân viên giao tiếp với đồng nghiệp một cách tôn trọng và chuyên nghiệp.\n\nVui lòng đảm bảo mọi giao tiếp trong tương lai tuân theo những chuẩn mực giao tiếp này.",
             "Item2": ""
         },
         {
@@ -6565,11 +6846,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[GHI CHÉP DỰ ÁN: \"Một ngày trong đời\"]\n[TRANG 1 TRONG 2]\n[GHI CHÉP #1]<>\n\nMình được cho cái thiết bị này và bảo là phải viết nhật kí. Mình không rõ vì sao, nhưng từ chối mệnh lệnh không bao giờ là ý hay, nên mình sẽ kể về cuộc sống của mình.\n\nĐược cầm cái \"EPDA\" này cảm giác thật lạ khi mình thường chỉ thấy các người cầm nó. Nó chiếu sáng mặt mình và các bạn khác tò mò. Trong này tối đến mức bạn chỉ có thể nhìn thấy chút ánh sáng tỏa ra từ mắt chúng mình. Khi mà đèn trong phòng tụi mình bị tắt, chúng mình ngủ. Vì nếu bạn không vào chỗ của bản thân khi đèn tắt thì bạn dễ bị vấp phải gì đó, hoặc ai đó đã quá yếu sau nhiệm vụ hôm đó. Ít ra tối nay không ai bị.\n\nTụi họ phàn nàn về ánh sáng màn hình rồi. Mình sẽ tiếp tục khi đèn bật lên lại.<>\n\n[GHI CHÉP #2]\nPhần lớn chúng mình đều dậy khi đèn bật lên, chỉ có những ai bị thương nặng quá thì mới ngủ qua cả còi báo giờ ăn. Chúng mình tụ tập lại quanh cái ống thả để đợi đến lượt của mình. \nThường thì là thanh dinh dưỡng, nhưng đôi khi chúng mình có được nhiều thứ rất ngon. Có một số ít được nhận phần ăn đặc biệt dành riêng cho họ. Tụi trẻ hơn thì thấy ghen tị, nhưng mình thấy nhiều chuyện kì lạ xảy ra chỉ vì phần ăn rồi. Nếu có ai ăn cắp hay đổi phần ăn thì họ sẽ bị phạt. Ý không hay.\n\nCó tiếng còi rồi!<>\n\n[GHI CHÉP #3]\nSau bữa ăn của tụi mình, các người có tới dẫn mình đi. Các người gọi chúng mình bằng số, và tụi mình phải đi. Rồi các người dẫn mình đi. Ra khỏi chỗ ở của mình sợ lắm. Mình thỉnh thoảng thấy được các chỗ ở cho nhóm khác khi mình đang bị dẫn đi. Ước gì mình có thể nói chuyện với họ, nhưng họ không nghe hay thấy mình qua tấm kính được. Mình từng thấy có một khu có nhóm giống tụi mình như đúc, nhưng mắt họ trông... trống rỗng. Nó làm mình rất sợ. Mình đã thử hỏi tại sao họ lại như vậy, nhưng một trong số các người đánh mình.<>\n\nBốn số được gọi đi hôm nay. Lần này mình được bỏ lại, chắc là tại mình đang bận bịu với thứ này. Họ đều trông khỏe mạnh cả, nhưng điều đó thường có nghĩa là họ sẽ quay về đầy vết thương. Nhiệm vụ thường thì vô hại, nhưng đôi khi chúng rất tệ. Nếu may mắn thì nó còn có ích cho tụi mình nữa. Có một lần họ gọi mình đi hằng ngày và cho thứ gì đó vào tay mình. Nó làm mình cảm thấy rất, rất, rất sảng khoái, nhưng rồi nó hết và mình cảm thấy như mình sắp chết vậy. Mình mong các người sẽ cho mình thêm nhiều nhiệm vụ như vậy!<>",
+            "Item1": "[GHI CHÉP DỰ ÁN: \"Một ngày trong đời\"]\n[TRANG 1 TRONG 2]\n[GHI CHÉP #1]<>\n\nMình được cho cái thiết bị này và bảo là phải viết nhật kí. Mình không rõ vì sao, nhưng từ chối mệnh lệnh không bao giờ là ý hay, nên mình sẽ kể về cuộc sống của mình.\n\nĐược cầm cái \"EPDA\" này cảm giác thật lạ khi mình thường chỉ thấy các người cầm nó. Nó chiếu sáng mặt mình và các bạn khác tò mò. Trong này tối đến mức bạn chỉ có thể nhìn thấy chút ánh sáng tỏa ra từ mắt chúng mình. Khi mà đèn trong phòng tụi mình bị tắt, chúng mình ngủ. Vì nếu bạn không vào chỗ của bản thân khi đèn tắt thì bạn dễ bị vấp phải gì đó, hoặc ai đó đã quá yếu sau nhiệm vụ hôm đó. Ít ra tối nay không ai bị.\n\n Tụi họ phàn nàn về ánh sáng màn hình rồi. Mình sẽ tiếp tục khi đèn bật lên lại.<>\n\n[GHI CHÉP #2]\nPhần lớn chúng mình đều dậy khi đèn bật lên, chỉ có những ai bị thương nặng quá thì mới ngủ qua cả còi báo giờ ăn. Chúng mình tụ tập lại quanh cái ống thả để đợi đến lượt của mình. \nThường thì là thanh dinh dưỡng, nhưng đôi khi chúng mình có được nhiều thứ rất ngon. Có một số ít được nhận phần ăn đặc biệt dành riêng cho họ. Tụi trẻ hơn thì thấy ghen tị, nhưng mình thấy nhiều chuyện kì lạ xảy ra chỉ vì phần ăn rồi. Nếu có ai ăn cắp hay đổi phần ăn thì họ sẽ bị phạt. Ý không hay.\n\nCó tiếng còi rồi!<>\n\n[GHI CHÉP #3]\nSau bữa ăn của tụi mình, các người có tới dẫn mình đi. Các người gọi chúng mình bằng số, và tụi mình phải đi. Rồi các người dẫn mình đi. Ra khỏi chỗ ở của mình sợ lắm. Mình thỉnh thoảng thấy được các chỗ ở cho nhóm khác khi mình đang bị dẫn đi. Ước gì mình có thể nói chuyện với họ, nhưng họ không nghe hay thấy mình qua tấm kính được. Mình từng thấy có một khu có nhóm giống tụi mình như đúc, nhưng mắt họ trông... trống rỗng. Nó làm mình rất sợ. Mình đã thử hỏi tại sao họ lại như vậy, nhưng một trong số các người đánh mình.<>\n\nBốn số được gọi đi hôm nay. Lần này mình được bỏ lại, chắc là tại mình đang bận bịu với thứ này. Họ đều trông khỏe mạnh cả, nhưng điều đó thường có nghĩa là họ sẽ quay về đầy vết thương. Nhiệm vụ thường thì vô hại, nhưng đôi khi chúng rất tệ. Nếu may mắn thì nó còn có ích cho tụi mình nữa. Có một lần họ gọi mình đi hằng ngày và cho thứ gì đó vào tay mình. Nó làm mình cảm thấy rất, rất, rất sảng khoái, nhưng rồi nó hết và mình cảm thấy như mình sắp chết vậy. Mình mong các người sẽ cho mình thêm nhiều nhiệm vụ như vậy!<>",
             "Item2": ""
         },
         {
-            "Item1": "[GHI CHÉP DỰ ÁN: \"Một ngày trong đời\"]\n[TRANG 2 TRONG 2]\n[GHI CHÉP #4]<>\nYên tĩnh thật. Những lúc như này, tụi mình chủ yếu là nghỉ ngơi hoặc giúp những ai bị thương. Chúng mình được cho vài món đồ để giết thời gian. Đôi khi mấy tụi trẻ măng vừa từ khu nuôi dưỡng ra còn mong chờ để được mà chọn đi. Số già giặn hơn thì ít khi bảo gì chúng, nhưng chúng sẽ học sớm thôi.\n\nMình cảm thấy rất là lo lắng khi mà bạn mình bị gọi đi. Nếu có ai đó vắng mặt nhiều ngày liền, thì hiếm khi mà họ trở lại. Rồi những người canh các sẽ vào và thu dọn đồ của họ. Đôi khi họ cho mình giữ lại một hai món đồ nếu họ từng là bạn của mình.<>\n\n[GHI CHÉP #5]\nTới giờ ăn tối rồi, mình được nhận thịt!\nMình tưởng rằng ai cũng sẽ giành mình miếng thịt này hết. Nên mình ăn nó rất nhanh. Ước gì mình có thêm thời gian để thưởng thức nó, nhưng sau khi ăn uống xong, chúng mình dành thời gian trò chuyện, chơi đùa, đôi khi còn có hát hò nữa. Ít khi nào mà có ai đó gọi mình đi sau giờ ăn tối, nên chúng mình thư giãn. Một số thì nói về cuộc thí nghiệm mà họ phải tham gia, nhưng số đông đều không muốn kể ra.<>\n\n[GHI CHÚ #6]\nThỉnh thoảng mình tự hỏi ngày và đêm là như thế nào. Có những điều mình học được từ việc nghe lén các người, hay từ các cuốn sách mà các người cho. Mình không biết vì sao lại có 24 giờ trong ngày. Mình biết là có cái \"bên ngoài\" và mình nghe là nó rất là rộng. Ánh sáng thì cũng bật tắt như trong này, nhưng mà do ai đó khác điều khiển chứ không phải các người, với cả, trần nhà cao đến nỗi mà không ai có thể nhìn thấy nó. Số lớn tuổi hơn kể cho mình nghe những điều kì lạ mà họ nghe được, những mình cũng không biết là mình có nên tin họ không.<>\n\n[GHI CHÉP #7]\nchết tiệt\ntay mình đang run đến mức mình khó mà gõ được.\nhọ vừa thông báo một vài thử nghiệm tăng cường cho tối nay và số của mình vừa được gọi<>\n\nmình sẽ viết thêm khi mình quay la<>\n[END]",
+            "Item1": "[GHI CHÉP DỰ ÁN: \"Một ngày trong đời\"]\n[TRANG 2 TRONG 2]\n[GHI CHÉP #4]<>\n Yên tĩnh thật. Những lúc như này, tụi mình chủ yếu là nghỉ ngơi hoặc giúp những ai bị thương. Chúng mình được cho vài món đồ để giết thời gian. Đôi khi mấy tụi trẻ măng vừa từ khu nuôi dưỡng ra còn mong chờ để được mà chọn đi. Số già giặn hơn thì ít khi bảo gì chúng, nhưng chúng sẽ học sớm thôi.\n\nMình cảm thấy rất là lo lắng khi mà bạn mình bị gọi đi. Nếu có ai đó vắng mặt nhiều ngày liền, thì hiếm khi mà họ trở lại. Rồi những người canh gác sẽ vào và thu dọn đồ của họ. Đôi khi họ cho mình giữ lại một hai món đồ nếu họ từng là bạn của mình.<>\n\n[GHI CHÉP #5]\nTới giờ ăn tối rồi, mình được nhận thịt!\nMình tưởng rằng ai cũng sẽ giành mình miếng thịt này hết. Nên mình ăn nó rất nhanh. Ước gì mình có thêm thời gian để thưởng thức nó, nhưng sau khi ăn uống xong, chúng mình dành thời gian trò chuyện, chơi đùa, đôi khi còn có hát hò nữa. Ít khi nào mà có ai đó gọi mình đi sau giờ ăn tối, nên chúng mình thư giãn. Một số thì nói về cuộc thí nghiệm mà họ phải tham gia, nhưng số đông đều không muốn kể ra.<>\n\n[GHI CHÚ #6]\nThỉnh thoảng mình tự hỏi ngày và đêm là như thế nào. Có những điều mình học được từ việc nghe lén các người, hay từ các cuốn sách mà các người cho. Mình không biết vì sao lại có 24 giờ trong ngày. Mình biết là có cái \"bên ngoài\" và mình nghe là nó rất là rộng. Ánh sáng thì cũng bật tắt như trong này, nhưng mà do ai đó khác điều khiển chứ không phải các người, với cả, trần nhà cao đến nỗi mà không ai có thể nhìn thấy nó. Số lớn tuổi hơn kể cho mình nghe những điều kì lạ mà họ nghe được, những mình cũng không biết là mình có nên tin họ không.<>\n\n[GHI CHÉP #7]\nchết tiệt\ntay mình đang run đến mức mình khó mà gõ được.\nhọ vừa thông báo một vài thử nghiệm tăng cường cho tối nay và số của mình vừa được gọi<>\n\nmình sẽ viết thêm khi mình quay la<>\n[END]",
             "Item2": ""
         }
     ],
@@ -6606,10 +6887,9 @@
             "Alo? Thứ này đang bật không vậy?",
             "Ngươi sẽ cứ liên tục tạm dừng để coi ta nói gì à?",
             "Các vì sao đang dõi theo ngươi.",
-            "\"Con người\" không phải thứ duy nhất theo dõi.",
             "Ngay sau lưng ngươi.",
             "Nơi này thú vị hơn bất cứ gì ngươi có thể tưởng tượng.",
-            "Quản lý của bạn không nói toàn bộ câu chuyện đâu."
+            "Cấp trên của ngươi không nói toàn bộ câu chuyện đâu."
         ],
         "dying": [
             "Trông đau thật.",
@@ -6643,10 +6923,10 @@
             "Đừng dễ chịu quá.",
             "Sống vui vẻ nhé!",
             "Tự tin thái quá là sát nhân âm thầm và nguy hiểm.",
-            "Một ảo tưởng lớn. Một sự thất bại là lãng phí lớn. Nhưng không phải với ta.",
+            "Một ảo tưởng lớn.",
             "Ngươi có thực sự đang kiểm soát tình hình?",
             "Sự ảo tưởng của ngươi về việc nắm được quyền kiểm soát thật nực cười. Tiếp tục đi.",
-            "Ngươi thật sự nghĩ thứ này đáng để đem tít xuống dưới đó? Ta có thể tạo nhiều hơn đấy.",
+            "Ngươi có chắc rằng thứ này đáng để đem tít xuống dưới đó không?",
             "Ngươi có cảm thấy mình đang nắm quyền kiểm soát không?",
             "Ngươi không bao giờ tưởng tượng được tầm cỡ của thứ này đâu.",
             "Tự tin vào trí tuệ của bản thân ghê nhỉ. Dễ thương đấy."
@@ -6663,11 +6943,26 @@
             "Kiên trì quá cũng không tốt đâu.",
             "Ôi, đồ tội nghiệp."
         ],
-        "<spoiler>": [
-            "<spoiler>"
+        "cargoembedded": [
+            "Làm tốt lắm.",
+            "Mãi mới được.",
+            "Chẳng phải là cuộc đua, nhưng mà cũng phải nhanh chân lên.",
+            "Chuẩn bị làm chuyện này một cách nghiêm túc chưa?",
+            "Có lẽ phép màu có thể xảy ra."
         ],
-        "<spoiler2>": [
-            "<spoiler>"
+        "labescape": [
+            "Cho họ thấy ngươi làm được gì đi.",
+            "Thử xem nó có thay đổi được gì không.",
+            "Ngươi vẫn tin là ngươi thay đổi được số phận của mình à?",
+            "Ta vẫn ở đây.",
+            "Tiếp đi. Ngươi còn làm được gì khác đâu?",
+            "Thú vị thật. Làm ơn tiếp tục.",
+            "Một màn phô diễn cảm xúc nực cười.",
+            "Hay đấy. Tiếp đi.",
+            "Một nỗ lực nực cười. Tiếp đi!",
+            "Thôi nào, tiếp đi!",
+            "Có cảm thấy tuyệt vời không chứ?",
+            "Ngươi không thấy tự hào với bản thân à?"
         ],
         "combat": [
             "Trông có vẻ đang vui đấy.",
@@ -6685,8 +6980,7 @@
             "Ta không thích thói quen này của ngươi.",
             "Ngươi làm ta đau đầu đấy...",
             "Ngươi đang cố tình đấy à? Tiếp tục đi chứ.",
-            "Này, ta sắp tới phần hay rồi mà!",
-            "Ngươi không chơi thì cho người khác chơi đi!"
+            "Này, ta sắp tới phần hay rồi mà!"
         ],
         "combatelder": [
             "Có vẻ không ổn rồi.",
