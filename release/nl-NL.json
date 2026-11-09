@@ -218,7 +218,7 @@
         "foliage": "Foliage",
         "foliagedsc": "Generic alien plant life. Barely edible, met een dissatisfying taste. Might make you sick. Decays fast. Often used in crafting.",
         "redfoliage": "Rood foliage",
-        "redfoliagedsc": "You have more important things to think about. That said, it does look quite pretty!",
+        "redfoliagedsc": "You have more important things to think about. Dat said, it does look quite pretty!",
         "foliagemeal": "Foliage meal",
         "foliagemealdsc": "Een decent prepared food, made of crispy foliage en rudimentary vullend. Won't last for long en has no fat, but it's very vullend.",
         "dryfoliage": "Dried foliage",
@@ -2331,7 +2331,7 @@
         "tutaid68": "Gelukkig voor jou, is er een erg simpele manier om dat op te lossen.",
         "tutaid69": "Opioids quickly reduce pain across your entire body when used. Inject the entire thing en see.",
         "tutaid70": "BOO!",
-        "tutaid71": "That went away quickly, right?",
+        "tutaid71": "Dat went away quickly, right?",
         "tutaid72": "Be careful with opioids - you can overdose on them easily, or go into withdrawals after. Naloxone en naltrexone can help with opiate abuse.",
         "tutaid73": "This concludes the First Aid Course. We could cover more, but we believe you can safely figure out other afflictions. You may return to your assigned room.",
         "tutcraft1": "Welcome to the Crafting Course. Today, we will cover the details of procuring items en show certain common workflows.",
@@ -2417,7 +2417,7 @@
         "mercnote1": "You breach through the final few layers of gravel en rock that separate you from the wide open air.<>\n\nYou've travelled through hell en back, surpassed thousands of, what are now corpses, en have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step voet on the cold gravel. Buildings, mountains en various groups of people appear in the horizon. You have breached the surface.",
         "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nEen few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a kort distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you en so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nEen bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, en it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
         "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nWhat..?<>\n\nWhere am I..?\n\nWhy...<>\n\nIt hurts...<>\n\n...<>\n\nWhat happened...?<>\n\nThis scarf... I...<>\n\n...<>\n\n...I remember.<>\n\n...I know what needs to be done.",
-        "startlorenote": "Year 2XXX \n<>\nHumanity's technology has progressed significantly. Things that seemed impossible before were now commonplace.\n<>\nAt the center of it was one company. Their progress seemed miraculous, but they guarded their secrets closely.\n<>\nYears ago they had created a new species: a combination of animal en human DNEen they simply called \"Experiments.\"\n<>\nThese experiments were the perfect test subjects, close enough to humans, but theirs to do with as they pleased. They toiled over them, twisting their biology even further to suit their needs, en as the years went by, the population only increased.\n\nNone would ever see the outside.\n<>\nNow it seemed that the Earth could no longer contain their ambitions. With their newly devised teleportation technology, they set their sights on a gray planet teeming with life.\n<>\nSoon enough, tons of miscellaneous cargo en trash was sent.\n<>\nDue to calibration difficulties, just as much ended up in the planet's cave system as on the surface, but the project progressed smoothly. \n<>\nThat was, until an unknown error caused an important piece of technology to be sent deep into the caves instead.\n<>\nSoon enough, the scientists had devised a plan. Een plan with little risk to themselves.\n<>\nThe chances of success were low, but their living fodder was plenty.\n<>\nYou are one unfortunate specimen.\nResistance is not an option."
+        "startlorenote": "Year 2XXX \n<>\nHumanity's technology has progressed significantly. Things that seemed impossible before were now commonplace.\n<>\nAt the center of it was one company. Their progress seemed miraculous, but they guarded their secrets closely.\n<>\nYears ago they had created a new species: a combination of animal en human DNEen they simply called \"Experiments.\"\n<>\nThese experiments were the perfect test subjects, close enough to humans, but theirs to do with as they pleased. They toiled over them, twisting their biology even further to suit their needs, en as the years went by, the population only increased.\n\nNone would ever see the outside.\n<>\nNow it seemed that the Earth could no longer contain their ambitions. With their newly devised teleportation technology, they set their sights on a gray planet teeming with life.\n<>\nSoon enough, tons of miscellaneous cargo en trash was sent.\n<>\nDue to calibration difficulties, just as much ended up in the planet's cave system as on the surface, but the project progressed smoothly. \n<>\nDat was, until an unknown error caused an important piece of technology to be sent deep into the caves instead.\n<>\nSoon enough, the scientists had devised a plan. Een plan with little risk to themselves.\n<>\nThe chances of success were low, but their living fodder was plenty.\n<>\nYou are one unfortunate specimen.\nResistance is not an option."
     },
     "character": [
         {
@@ -2488,10 +2488,10 @@
                 "Heerlijke hap...",
                 "Tastes great.",
                 "Satisfying...",
-                "That's the stuff...",
+                "Dat's the stuff...",
                 "Fueling up...",
                 "Yummy...",
-                "That's pretty good...",
+                "Dat's pretty good...",
                 "Not bad!...",
                 "Yummers...",
                 "Goed for me...",
@@ -2499,7 +2499,7 @@
                 "Never enough of that...",
                 "Yum! I feel better!",
                 "Nom nom nom.",
-                "That was amazing!",
+                "Dat was amazing!",
                 "Such good flavor...",
                 "Flavourful!",
                 "Enjoying this...",
@@ -2559,22 +2559,22 @@
                 "Do I really have to eat this? Ugh.",
                 "Ack! It tastes so bad!",
                 "Ew ew ew! Uugh!",
-                "That tasted terrible!",
+                "Dat tasted terrible!",
                 "I don't want to eat that ever again.",
                 "Uugh! Gross!",
                 "Yuck! Get it out of my mouth!",
-                "That was the worst!",
+                "Dat was the worst!",
                 "Gross! Never again!",
-                "That tastes like SHIT!",
+                "Dat tastes like SHIT!",
                 "This might make me throw up...",
-                "That tasted BAD!",
+                "Dat tasted BAD!",
                 "Out of my mouth! Uugh!",
                 "This SUCKS!",
                 "Ewww!!",
                 "Yucky!!!",
                 "This tastes rotten!",
                 "I HATE that taste!",
-                "That's disgusting...",
+                "Dat's disgusting...",
                 "Ew.",
                 "This 'food' is upsetting.",
                 "This is upsetting.",
@@ -2594,7 +2594,7 @@
                 "Not in a million years.",
                 "I would never! NO!",
                 "What the hell am I thinking?",
-                "No! That's disgusting!",
+                "No! Dat's disgusting!",
                 "This is disgusting! No!",
                 "EW! No!",
                 "I'm not putting that IN or ANYWHERE near my mouth.",
@@ -2757,7 +2757,7 @@
                 "There's my... lunch...",
                 "Bllggh... ugh... damn...",
                 "Uuggh... that... felt terrible...",
-                "That WAS dinner.",
+                "Dat WAS dinner.",
                 "Guhhgh... yuck..",
                 "Uughh.. ew...",
                 "I feel... uhhgh... empty...",
@@ -2776,21 +2776,21 @@
             ],
             "vomitblood": [
                 "Bluughh... I... Oh. Oh god, that's bloed...",
-                "Ghghh... *cough* ...Fuck... That's... Blood...",
-                "There's my... lu... Oh. Oh no no no. Oh no. That's bloed I just threw up...",
+                "Ghghh... *cough* ...Fuck... Dat's... Blood...",
+                "There's my... lu... Oh. Oh no no no. Oh no. Dat's bloed I just threw up...",
                 "Bllggh... ugh... I... Oh... God...",
                 "Is that... Is that bloed I just... Blugh...",
                 "I'm pretty sure bloed isn't supposed to do that.",
                 "Guhhgh... Why is my vomit... So yellow...?",
                 "Uughh... Something's... Very wrong...",
-                "That's... That's not what vomit tastes like... W-wait...",
-                "Guughhg... Hic... That... That wasn't from my stomach. Oh... Oh god.",
-                "Uuughgh... Help... That's bloed I just threw up...",
+                "Dat's... Dat's not what vomit tastes like... W-wait...",
+                "Guughhg... Hic... Dat... Dat wasn't from my stomach. Oh... Oh god.",
+                "Uuughgh... Help... Dat's bloed I just threw up...",
                 "I can't believe... Did I just... Vomit up bloed...",
                 "Guuhghh... ughh... This is... Bad...",
-                "I'm so weak.. gughh... That felt... Very odd...",
-                "...uughh... gross- ...Blood. That's bloed. I just threw up bloed. Oh no. Oh NO.",
-                "Ff.... Fuck... ugh... Blood... That can't be good...",
+                "I'm so weak.. gughh... Dat felt... Very odd...",
+                "...uughh... gross- ...Blood. Dat's bloed. I just threw up bloed. Oh no. Oh NO.",
+                "Ff.... Fuck... ugh... Blood... Dat can't be good...",
                 "Wow... just... threw up... Blood?... ..Huh?",
                 "Ghhuhh... Why did I... Just...",
                 "I'm... guugh... ...I'm pretty sure that's bloed... I'm bleeding on the inside...",
@@ -3145,28 +3145,28 @@
                 "I died the moment I arrived here."
             ],
             "selfharm": [
-                "Hahahaha... FUCK yeah... That's good...",
+                "Hahahaha... FUCK yeah... Dat's good...",
                 "Thaaatttt's better... Ahahaha... Fucking amazing...",
                 "Oh yeah... Fuck yeah... FUCK yeah...",
                 "Mmhh... Fuck... Hahahaha... This is good...",
                 "How do yoouuuu like that... Fucker... Ahaha... FUCK you... Fuck you... Good...",
-                "Fuck me, hahah... That feels amazing...",
+                "Fuck me, hahah... Dat feels amazing...",
                 "AAGH! FUCK YEAH! Fucking amazing...",
                 "FUCK! HAHAHAHA! HELL FUCKING YEAH..!",
                 "Just a little cut... More... Ahahah... Fuck...",
-                "Ouch-... T-that's good... Fuck... That's great...",
+                "Ouch-... T-that's good... Fuck... Dat's great...",
                 "FUCK! Hahaha! FUCK yeah! Hahahaha...",
-                "That's what... you get... Dickhead... Fuck you... Hahahaha...",
+                "Dat's what... you get... Dickhead... Fuck you... Hahahaha...",
                 "There... we go... hahah... good...",
-                "That'll.. fuck... Yeaaahhh... That'll do it... Haha...",
-                "Y-Yeah... take that... Fucker... That'll hurt good...",
-                "You deserve this... Haha... That hurts greeatt...",
+                "Dat'll.. fuck... Yeaaahhh... Dat'll do it... Haha...",
+                "Y-Yeah... take that... Fucker... Dat'll hurt good...",
+                "You deserve this... Haha... Dat hurts greeatt...",
                 "AAHHAHA!! FUCK yeah... Fuck yeah. Hahaha... Hurts...",
                 "Hahah... that's better... yeah... Much better...",
-                "Theeeree we go... That hurts gooooood...",
+                "Theeeree we go... Dat hurts gooooood...",
                 "Hehhehheh... that fucking hurts... hurts good...",
-                "That... hahah... hurts good... Great...",
-                "Let's not end this juuuussst yet... F-fuck... That's good...",
+                "Dat... hahah... hurts good... Great...",
+                "Let's not end this juuuussst yet... F-fuck... Dat's good...",
                 "I don't need that flesh... Ggrhh... Haha... More of this...",
                 "F-fuck... Ahahaha... Feels great...",
                 "Goooooodd.... Mmmh... Finally... Finally... Fucking amazing... Mmmhh...",
@@ -3183,13 +3183,13 @@
                 "Peace. Bye. Fuck this. I'm fucking leaving. I'm going to hell for this.",
                 "I have FUCKING had it with all of this. I am DONE! FUCK OFF!!!",
                 "End of the line, fucker. End of the fucking line. I'M OUT!!!",
-                "That should do it... Bye-bye... Sorry for this... I hope there's an afterlife for me...",
+                "Dat should do it... Bye-bye... Sorry for this... I hope there's an afterlife for me...",
                 "This is the end. I hope whoever finds my corpse makes good use of me. I can't handle this anymore. I'm sorry.",
                 "There's no point to this anymore. There NEVER fucking was. I'm ending it all. Fuck me... Fuck ALL of this.",
                 "If slitting my wrists doesn't kill me, I'm going to gouge my own fucking ogen out, so I never have to see this horrible land ever again.",
                 "I don't know what comes after, but I can finally rest... Let's relax now... There is no need for emotions anymore...",
                 "AHHHH! FUCK THIS! ALL OF THIS! I CAN'T TAKE IT ANYMORE! LET ME OUT OF HERE! I'M DONE!",
-                "That's it. I've FUCKING had it. I'm finally doing this... Peace. Fucking PEACE. I'm OUT.",
+                "Dat's it. I've FUCKING had it. I'm finally doing this... Peace. Fucking PEACE. I'm OUT.",
                 "I have made the conscious decision to end my life, right here en right now. Farewell, dipshits.",
                 "I told you... I TOLD YOU. Piece of shit... Fuck... Burn in the fucking depths of hell.",
                 "I'll do beter as a rotting corpse. Mijn life ended the moment I was sent here. Goodbye.",
@@ -3277,7 +3277,7 @@
                 "I don't like bleeding...",
                 "I'm oozing bloed...",
                 "Mijn bloed... ",
-                "That's my bloed...",
+                "Dat's my bloed...",
                 "Oh... that's bloed...",
                 "I need a patch-up.",
                 "Oh! Blood! Shoot!",
@@ -3286,7 +3286,7 @@
                 "I need this bandaged. Fast...",
                 "Crap, I'm bleeding!",
                 "Bleeding...",
-                "That's my bloed... ouch..."
+                "Dat's my bloed... ouch..."
             ],
             "bleedingheavy": [
                 "There's so much bloed...",
@@ -3327,7 +3327,7 @@
                 "I think that was glass I stepped on...",
                 "There's Een grote glass shard in my paw.",
                 "Can we please avoid stepping on broken glass?",
-                "That was horribly careless of me.",
+                "Dat was horribly careless of me.",
                 "I need to clean up any broken glass I procure.",
                 "Let's NOT step into glass shards.",
                 "I'd prefer to avoid inserting glass into my feet.",
@@ -3337,9 +3337,9 @@
                 "Oh... Oh god.",
                 "Shit.",
                 "Better you than me, buddy...",
-                "That's not very reassuring.",
+                "Dat's not very reassuring.",
                 "Hey! Are you... O-oh...",
-                "Fuck me man... That's a bad sight.",
+                "Fuck me man... Dat's a bad sight.",
                 "No no no no. Oh god...",
                 "I feel bad for them...",
                 "I hope I won't end up like this.",
@@ -3347,10 +3347,10 @@
                 "I don't think they're breathing...",
                 "Yep, that's a corpse alright...",
                 "I can't help but stare...",
-                "Fuck that... Ough... That sucks.",
+                "Fuck that... Ough... Dat sucks.",
                 "Poor little guy.",
                 "Fuck...",
-                "Awww... That's a sad sight.",
+                "Awww... Dat's a sad sight.",
                 "I knew there were more of us here...",
                 "It's gonna be okay... It's gonna be okay.",
                 "Oh fuck. They're dead...",
@@ -3360,7 +3360,7 @@
                 "I shouldn't touch them...",
                 "God fucking damn it. Ugh. They're dead.",
                 "I thought I found someone for a second... Fuck...",
-                "How many of us have died here...? God... That's not a nice sight.",
+                "How many of us have died here...? God... Dat's not a nice sight.",
                 "I beter not end up like this.",
                 "...",
                 "...!",
@@ -3368,12 +3368,12 @@
                 "I wish I could've given this guy a hug before they passed away.",
                 "God...",
                 "I want to leave this place... Fuck...",
-                "That's a dead guy...",
+                "Dat's a dead guy...",
                 "I hope it wasn't painful, at least...",
                 "Awww... Poor thing...",
                 "I'm scared I'll meet the same fate...",
-                "AHH! That's a corpse! Fuck...",
-                "Oh fuck... That's one of our own... Ooohhh no...",
+                "AHH! Dat's a corpse! Fuck...",
+                "Oh fuck... Dat's one of our own... Ooohhh no...",
                 "Well, that's demotivating.",
                 "They're... They're not breathing..."
             ],
@@ -3390,15 +3390,15 @@
                 "I've seen a lot of these by now.",
                 "This place is FILLED with corpses!",
                 "I wonder if I'll find someone living in here...",
-                "That's gotta hurt.",
+                "Dat's gotta hurt.",
                 "Not a good mortality rate in here.",
                 "This place has taken so many lives...",
                 "I'm beter than this...",
-                "That looks like it hurt.",
+                "Dat looks like it hurt.",
                 "This one is still smiling!",
                 "I already lost count.",
                 "Someone ought to arrange a funeral for 'em...",
-                "That sucks...",
+                "Dat sucks...",
                 "Every time I see one of us like this, a little piece of my soul breaks off.",
                 "Free shit!",
                 "Haha... Finders keepers...?",
@@ -3434,10 +3434,10 @@
                 "Hallo there!",
                 "Such generosity.",
                 "I'd be grave robbing if this guy had a funeral.",
-                "...And. That, ladies en gentlemen... Is another corpse.",
+                "...And. Dat, ladies en gentlemen... Is another corpse.",
                 "Ooh.",
                 "Friend! Nooo... No friend...",
-                "That's not sanitary.",
+                "Dat's not sanitary.",
                 "I don't think they enjoyed their stay.",
                 "Ough, you smell! Go take a shower...",
                 "Mmh...",
@@ -3472,7 +3472,7 @@
             ],
             "breakcorpse": [
                 "Why did I do that... Ew...",
-                "That's disgusting... I don't want to do that again.",
+                "Dat's disgusting... I don't want to do that again.",
                 "Ew!!!",
                 "Demoralizing.",
                 "This fucking sucks.",
@@ -3481,7 +3481,7 @@
                 "Disgusting!!! Agh...",
                 "Let's not do that again...",
                 "There's bloed all over me... Ew...",
-                "That was one of our own...",
+                "Dat was one of our own...",
                 "Did I HAVE to do that..? Y-yuck..."
             ],
             "cold": [
@@ -3646,7 +3646,7 @@
                 "I want more of whatever this is..."
             ],
             "opiatedsad": [
-                "That's... much better.",
+                "Dat's... much better.",
                 "I can... relax now...",
                 "Finally... a sense of peace...",
                 "I really... needed that...",
@@ -3656,7 +3656,7 @@
                 "I feel at... ease...",
                 "Distract me...",
                 "I feel so much... better...",
-                "That'll shut... me up...",
+                "Dat'll shut... me up...",
                 "I feel better... Ohh... yes...",
                 "Enough thinking...",
                 "I could... do this more!...",
@@ -3735,7 +3735,7 @@
                 "Mijn <limb>... Ouch...",
                 "Ow! Ugh...",
                 "Fffhhh... hurts...",
-                "That- hurts!",
+                "Dat- hurts!",
                 "Ack! Ow!",
                 "Ghn!",
                 "Ouchy!",
@@ -3920,23 +3920,23 @@
                 "I like this watch-thing. It's comfy."
             ],
             "drillend": [
-                "...That took a while.",
+                "...Dat took a while.",
                 "I swear that thing had no soundproofing.",
                 "Pretty long ride there...",
-                "Oh..? That's it?"
+                "Oh..? Dat's it?"
             ],
             "loud": [
-                "FUCK! That was loud...",
+                "FUCK! Dat was loud...",
                 "GAH! Crap! Mijn ears!",
                 "AHHH! Fuck... Mijn ears are ringing...",
-                "CRAP! ... Ouuchhh... That was so loud...",
+                "CRAP! ... Ouuchhh... Dat was so loud...",
                 "NO!!! Fuck me, man... Aghhh, that was loud..."
             ],
             "murderregret": [
                 "Why... Why did I do that..? F-fuck...",
                 "Gh... God... Why..?",
-                "I... That was horrible.. I'm a monster...",
-                "Nhh... Why... Why? That was one of us..."
+                "I... Dat was horrible.. I'm a monster...",
+                "Nhh... Why... Why? Dat was one of us..."
             ],
             "tradeemeet": [
                 "Hey!",
@@ -4023,7 +4023,7 @@
                 "Good!"
             ],
             "tradergiveitemrefuse": [
-                "Alright... That's enough for today, my bag's all full.",
+                "Alright... Dat's enough for today, my bag's all full.",
                 "Hey, enough gifts! I don't want to give out all my stock to you."
             ],
             "traderbuy": [
@@ -4095,7 +4095,7 @@
             ],
             "tradermeetimpairedspeech": [
                 "...Huh? What? Is there something in your mouth? I can't understand you...",
-                "Mmmff mff mmmmfff mhfff! That's what you sound like.",
+                "Mmmff mff mmmmfff mhfff! Dat's what you sound like.",
                 "I get that this is a bad scenario we're in, but you can at least put in some effort into speaking clearly..."
             ],
             "traderseehurt": [
@@ -4169,13 +4169,13 @@
                 "Ffhh... Gh.... Help me... Please... Anyone...",
                 "Nhh... Not like t-this... Please... P-please... Save me...",
                 "Please... I don't... I don't want to die... Save me... Anyone... Anything... I-I'm not r-ready...",
-                "W-Will it be.. Over s-soon..?",
-                "Stop... Stop... Stop... Please... S-stop... Not l-like this... Save me...",
-                "Fuck... Fuck... Help me... I don't... Want to d-die... H-h.."
+                "Z-Zal het.. Znel voorbij zijn..?",
+                "Stop... Stop... Stop... Alsjeblieft... S-stop... Niet z-zo... Red mij...",
+                "Fuck... Fuck... Help mij... Ik wil... Niet s-sterven... H-h.."
             ],
             "magicheal": [
-                "...Huh. I feel... Better..?",
-                "Ahh..! ...Huh. That feels... That feels better. I liked that."
+                "...Huh. Ik voel me... Beter..?",
+                "Ahh..! ...Huh. Dat voelt... Dat voelt beter. Dat was goed."
             ],
             "selfdestruct": [
                 "...Uuuhh... ...What is this beeping...?",
@@ -4188,13 +4188,13 @@
                 "I made it... I made it..? Hmmh... It should be somewhere around here... Let's get this over with."
             ],
             "cargo1": [
-                "I... I think this... Is... it..?"
+                "I... Ik denk dat... Dit het... is..?"
             ],
             "cargo2": [
-                "That... Is not a batt....wh... W-what's it... Doing..?"
+                "Dat... Is geen vleermuiss....w... W-wat is het... Aan het doen..?"
             ],
             "cargoimpale": [
-                "AAAGHH! WHAT THE HELL!? WHY?"
+                "AAAGHH! WAT IN GODSNAAM!? WAAROM?"
             ],
             "cargoimpale2": [
                 "H-hmm... Well... I... I do feel... Empowered by this..? I feel... L-lighter."
@@ -4218,7 +4218,7 @@
                 "Oh, round en round we go..."
             ],  
             "endpodexamine": [
-                "C-cargo... First..."
+                "V-vracht... Eerst..."
             ],
             "ascententer": [
                 "Looks like thats as far as it'll go... The only way's up. Let's go."
@@ -4239,13 +4239,13 @@
                 "(I could... No. I can't. They'd kill me with the chip. Damn it.)"
             ],
             "labshoot": [
-                "NNGGRRAAAAHHHH!! FUCK YOU!!! I'M NOT TAKING ANY MORE OF YOUR SHIT!!!"
+                "NNGGRRAAAAHHHH!! FUCK YOU!!! IK PIK DEZE ONZIN NIET LANGER!!!"
             ],
             "labcommentcalm": [
-                "Nghh... Grrh... They'll pay...",
-                "They'll pay for this...",
-                "Sufffer...the consequences...",
-                "So done. With. This. SHIT!",
+                "Nghh... Grrh... Ze zullen boeten...",
+                "Zij zullen hiervoor betalen...",
+                "Lijdd...aan de gevolgen...",
+                "Heb het zo gehad. Met. Deze. KUTZOOI!",
                 "Go to hell. Go to hell. All of you...",
                 "It's the end.",
                 "Fuckers. Fuckers. Fuckers. Dipshits.",
@@ -4268,10 +4268,10 @@
                 "GO TO HELL!!!!"
             ],
             "vomitresponse": [
-                "Uuuhmm... You good..?"
+                "Uuuhmm... Ben je oké..?"
             ],
             "vomitbloodresponse": [
-                "Ack! Did you just... Oh... Hey, you know you just... Threw up bloed, right?"
+                "Oei! Heb je net... Oh... Hey, je weet toch dat je net... Bloed hebt overgegeven, toch?"
             ],
             "hungryresponse": [
                 "There's a bunch of food out there, you know...",
@@ -4288,17 +4288,17 @@
                 "...Calm down, please... It'll be fine..."
             ],
             "selfharmresponse": [
-                "...W-why... Did you..."
+                "...W-waarom... Heb je..."
             ],
             "braindamagedresponse": [
-                "...You don't sound... Very well.",
-                "...What?"
+                "...Je klinkt niet... Zo goed.",
+                "...Wat?"
             ],
             "hotresponse": [
-                "Turn the heat down, then."
+                "Zet de warmte wat lager dan."
             ],
             "coldresponse": [
-                "You know, we do have a heater here..."
+                "Weet je, we hebben hier verwarming..."
             ],
             "bleedingresponse": [
                 "It... Does look bad... But, I... I'm sure you can fix it...",
@@ -4634,13 +4634,13 @@
                 "This is what I get..."
             ],
             "angeronitem": [
-                "NGH! Hmmh... That does feel slightly better.",
-                "GHH! ...That felt... Surprisingly good."
+                "NGH! Hmmh... Dat does feel slightly better.",
+                "GHH! ...Dat felt... Surprisingly good."
             ],
             "suicide": [
                 "Cannot. Take this. Anymore. Over.",
                 "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! WWWHHHHYYYYYYYYYYYYY!!!???",
-                "That is it. I am done.",
+                "Dat is it. I am done.",
                 "Fuck this.",
                 "...",
                 "I apologize."
@@ -4671,7 +4671,7 @@
                 "Such a beautiful hue of yellow.",
                 "No! Bad! Stay inside, bloed!",
                 "I require dressing.",
-                "That is bloed, leaking from my body.",
+                "Dat is bloed, leaking from my body.",
                 "I am bleeding.",
                 "I require assistance.",
                 "Bloed is leaving my body at a concerning rate."
@@ -4698,7 +4698,7 @@
                 "I am terribly disappointed in my carelessness.",
                 "There were a thousand ways to prevent this from happening, yet still a shard of glass has found its way into my paw.",
                 "Ow.",
-                "That was a miscalculation on my end.",
+                "Dat was a miscalculation on my end.",
                 "Why the hell would they not temper the windows?",
                 "Shards of glass in my feet.",
                 "I must clean up the shards."
@@ -4772,7 +4772,7 @@
                 "I struggle to find purpose in doing what I just did.",
                 "Ew. Ew, ew, ew ew, Ew.",
                 "I think I just got some of it in my eye.",
-                "That was unnecessary.",
+                "Dat was unnecessary.",
                 "Wow. How disgusting of me."
             ],
             "cold": [
@@ -4939,7 +4939,7 @@
                 "Ahh!",
                 "Woah.",
                 "Huh.",
-                "That can't be good."
+                "Dat can't be good."
             ],
             "hitbycreature": [
                 "Damn critter!!",
@@ -5103,7 +5103,7 @@
                 "(I feel strong resentment for the coats... Yet, I cannot act now. I must continue met een level head.)"
             ],
             "labresponse": [
-                "(...Huh. That was NOT part of their plan?)"
+                "(...Huh. Dat was NOT part of their plan?)"
             ],
             "labthink1": [
                 "(The time is now. They will not see it coming.)"
@@ -5179,7 +5179,7 @@
             ],
             "tradergiveitem": [
                 "Thank you.",
-                "That'll come in useful.",
+                "Dat'll come in useful.",
                 "Thank you for the contribution.",
                 "I'm taking this.",
                 "Useful.",
@@ -5205,7 +5205,7 @@
                 "I'm not a damn charity.",
                 "I only accept facts en logic, not uncoordinated pleas.",
                 "No.",
-                "That was the worst argument I've ever heard.",
+                "Dat was the worst argument I've ever heard.",
                 "I have to deny your appeal.",
                 "Negative.",
                 "No exceptions, sorry."
@@ -5291,7 +5291,7 @@
             "traderseehurt": [
                 "You appear to be injured en bleeding... You can take a bandage if you wish.",
                 "Ew! Please don't bleed all over my floor. Grab a bandage en snoepje yourself if you see one, mine are free.",
-                "That doesn't look good... You may take a bandage for free if you can find one on me."
+                "Dat doesn't look good... You may take a bandage for free if you can find one on me."
             ],
             "traderlightbreak": [
                 "...Dude. I have eyes. Thief... Leave!",
@@ -6476,7 +6476,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "The oil pools on this planet are definitely unnatural. Trying to understand their origin, I crawled through one of the empty pipes only to find a tough metallic screen that stopped me from progressing.\nThere was a sign behind it that said \"Waste Disposal Source\". I drilled through the pipe to go around the screen, but the pipe stopped abruptly. It has to be connected to something from our old home, but I don't understand how.\n\nThat sign keeps worrying me. Did the humans want to dispose of us too?",
+                "Item1": "The oil pools on this planet are definitely unnatural. Trying to understand their origin, I crawled through one of the empty pipes only to find a tough metallic screen that stopped me from progressing.\nThere was a sign behind it that said \"Waste Disposal Source\". I drilled through the pipe to go around the screen, but the pipe stopped abruptly. It has to be connected to something from our old home, but I don't understand how.\n\nDat sign keeps worrying me. Did the humans want to dispose of us too?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6752,7 +6752,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[PERSONAL MEMO]\n[DR. ██████████, 6-05-24XX]<>\nI just don't understand it. I worked on the ██████ ███████ before the incident. We exhausted every avenue, checked under every rock, en now ██ years later we're repeating the same experiments already dismissed en getting wildly successful results. It's like something's changed since then, some hidden variable of the universe.\nThat's not how these things should work.<>\nFor the first time it seems that true point teleportation might be within our grasp, en yet we understand less then we did back then. I'm afraid we might be meddling with something beyond our understanding. What if instead of a small lump of flesh, we'd snagged a piece of a neutron star?\nOf course such high gravity repels the point targeting, but what else did we 'know' that's changed at the flick of a galactic switch? Give a caveman the most advanced computer we've got en they'll use it as a space heater. Are we operating on a similar level of ignorance...? We might be just kids playing with dad's gun.",
+            "Item1": "[PERSONAL MEMO]\n[DR. ██████████, 6-05-24XX]<>\nI just don't understand it. I worked on the ██████ ███████ before the incident. We exhausted every avenue, checked under every rock, en now ██ years later we're repeating the same experiments already dismissed en getting wildly successful results. It's like something's changed since then, some hidden variable of the universe.\nDat's not how these things should work.<>\nFor the first time it seems that true point teleportation might be within our grasp, en yet we understand less then we did back then. I'm afraid we might be meddling with something beyond our understanding. What if instead of a small lump of flesh, we'd snagged a piece of a neutron star?\nOf course such high gravity repels the point targeting, but what else did we 'know' that's changed at the flick of a galactic switch? Give a caveman the most advanced computer we've got en they'll use it as a space heater. Are we operating on a similar level of ignorance...? We might be just kids playing with dad's gun.",
             "Item2": ""
         },
         {
@@ -6760,7 +6760,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[INCIDENT REPORT]\n[RECOVERED AUDIO TRANSCRIPT B7-187545]\n[TELEPORTATION BAY: OSPREY]<>\n\"I've seen the specs, but... damn that thing's big.\"\n\"Of course. It's been designed to transport entire buildings after all.\"\n\"And they make it in one piece?\"\n\"We're still dialing it in, but that's why we make sure most of the payloads can take a bit of a tumble. Een tumble from say... the atmosphere.\"\n<PDEen FEEDBACK> \"Yes right there, just leave it right there in the center!\"\n\"What's that they're moving?\"\n\"Boy, you're green. It's that new power source management's been fawning over.\"\n\"Oh... Is it safe for them to be down there in the displacement basin, sir?\"\n\"Sure, long as you don't turn it on. Though, when it was still in development some of the testing fodder got cut clean in half. Turns out some parasitic capacitance from the spool up cycle was enough to trip the field projector, but that's why we don't service these things ourselves. Other half ended up in the employee bathroom at HQ.\"\n\"I'm sure that gave the janitor something to think about.\"\n\"That gele bloed sure stains like hell. Can still see some of it down there.\"<>\n<THUCNK>\n<RATTLING MECHANICAL ROAR>\n\"What is that!\"\n\"That's just the metamass displacer coming online! The director's on my ass about the power usage so let's make this quick! Destination?!\"\n\"Uh...! Set, sir!\"\n\"Basin?!\"\n\"Clear, sir!\"\n\"Indicators?!\"\n\"All green, sir!\"\n\"Then let 'er rip!\"\n<ALARM WAIL> \"Wha-!\"\n\"What did you do?!\"\n\"I-I didn't!\"\n\"Stabilizer's dis--solvin-g! Sh-u-u--uu-t it d-own!\"\n\"I---c-an't it-t's!\"\n<OVERLAPPING ALARM WAILS>\n\"W-hy w-oo-o-n't i---t!?\"\n\"Tr-ry---<>\n[END OF TRANSCRIPT]",
+            "Item1": "[INCIDENT REPORT]\n[RECOVERED AUDIO TRANSCRIPT B7-187545]\n[TELEPORTATION BAY: OSPREY]<>\n\"I've seen the specs, but... damn that thing's big.\"\n\"Of course. It's been designed to transport entire buildings after all.\"\n\"And they make it in one piece?\"\n\"We're still dialing it in, but that's why we make sure most of the payloads can take a bit of a tumble. Een tumble from say... the atmosphere.\"\n<PDEen FEEDBACK> \"Yes right there, just leave it right there in the center!\"\n\"What's that they're moving?\"\n\"Boy, you're green. It's that new power source management's been fawning over.\"\n\"Oh... Is it safe for them to be down there in the displacement basin, sir?\"\n\"Sure, long as you don't turn it on. Though, when it was still in development some of the testing fodder got cut clean in half. Turns out some parasitic capacitance from the spool up cycle was enough to trip the field projector, but that's why we don't service these things ourselves. Other half ended up in the employee bathroom at HQ.\"\n\"I'm sure that gave the janitor something to think about.\"\n\"Dat gele bloed sure stains like hell. Can still see some of it down there.\"<>\n<THUCNK>\n<RATTLING MECHANICAL ROAR>\n\"What is that!\"\n\"Dat's just the metamass displacer coming online! The director's on my ass about the power usage so let's make this quick! Destination?!\"\n\"Uh...! Set, sir!\"\n\"Basin?!\"\n\"Clear, sir!\"\n\"Indicators?!\"\n\"All green, sir!\"\n\"Then let 'er rip!\"\n<ALARM WAIL> \"Wha-!\"\n\"What did you do?!\"\n\"I-I didn't!\"\n\"Stabilizer's dis--solvin-g! Sh-u-u--uu-t it d-own!\"\n\"I---c-an't it-t's!\"\n<OVERLAPPING ALARM WAILS>\n\"W-hy w-oo-o-n't i---t!?\"\n\"Tr-ry---<>\n[END OF TRANSCRIPT]",
             "Item2": ""
         },
         {
@@ -6832,7 +6832,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: Braingrow]\n[Dr. ████████]<>\n\nBraingrow, one of the company's most successful products. The neurologists get all the credit, but it would've been impossible without the data. \n\nFunnily enough, to learn how to repair brain damage, we first had to become experts in creating it. The most straightforward technique was to deprive the subjects of oxygen in order to create a diffuse hypoxic injury. That got us most of the way there, but more localized injuries required some creativity.<>\n\nAt first we opted to introduce their frontal lobe to a hammer, but it was difficult to get consistent results. Engineering made us a hammer swinging rig that standardized our data, however the tissue injuries were irritating to deal with. We switched to the sound cannons they use at the pens for crowd control, but ended up with the first problem again. Not enough control.<>\n\nAfter much ingenuity, the team fine-tuned the weapon until it could disrupt bloed vessels on an individual level, allowing us to create a stroke anywhere we wanted. The lesson is, anything is possible with the right testing fodder, en you if don't have it, you've just got to make it.",
+            "Item1": "[PROJECT MEMO: Braingrow]\n[Dr. ████████]<>\n\nBraingrow, one of the company's most successful products. The neurologists get all the credit, but it would've been impossible without the data. \n\nFunnily enough, to learn how to repair brain damage, we first had to become experts in creating it. The most straightforward technique was to deprive the subjects of oxygen in order to create a diffuse hypoxic injury. Dat got us most of the way there, but more localized injuries required some creativity.<>\n\nAt first we opted to introduce their frontal lobe to a hammer, but it was difficult to get consistent results. Engineering made us a hammer swinging rig that standardized our data, however the tissue injuries were irritating to deal with. We switched to the sound cannons they use at the pens for crowd control, but ended up with the first problem again. Not enough control.<>\n\nAfter much ingenuity, the team fine-tuned the weapon until it could disrupt bloed vessels on an individual level, allowing us to create a stroke anywhere we wanted. The lesson is, anything is possible with the right testing fodder, en you if don't have it, you've just got to make it.",
             "Item2": ""
         },
         {
