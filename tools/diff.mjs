@@ -158,11 +158,11 @@ async function diff(targetVersion, targetLocale, detailLevel)
       }
     };
 
+    detailsSection('Similar to EN.json (or previous versions of it)', [...identicalKeys], detailsTarget);
     detailsSection('Missing items', missingItems, detailsDiff);
     detailsSection('Extra items', extraItems, detailsDiff);
     detailsSection('Incorrect types', [...incorrectTypes], detailsDiff);
     detailsSection('Incorrect keys', [...incorrectKeys], detailsDiff);
-    detailsSection('Similar to EN.json (or previous versions of it)', [...identicalKeys], detailsTarget);
     detailsSection('Potential format issues', keysWithFormatIssues, formatDiff, (item) => item[0]);
   }
   else {
