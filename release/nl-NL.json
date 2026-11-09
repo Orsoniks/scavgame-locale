@@ -4309,7 +4309,7 @@
                 "Did you step on something?"
             ],
             "dirtyresponse": [
-                "...We have a shower, you know. Or... Just, go swim in the pools out en about..."
+                "...We hebben een douche, weet je? Of... Ga gewoon zwemmen in de plassen..."
             ],
             "encumberedresponse": [
                 "Wouldn't hurt to leave some of your stuff with me.",
@@ -4322,22 +4322,22 @@
         },
         {
             "seeGravel": [
-                "It seems I have arrived.",
-                "New ground.",
-                "ETA: Zero hours, zero minutes, en now.. zero seconds.",
-                "How novel. Time to set out, then.",
-                "Not unlike what I envisioned during training.",
-                "Need to stay rational.",
-                "Peculiar.",
-                "Fascinating, if nothing else.",
-                "Een change of pace.",
-                "It seemingly is dark here.",
-                "New environment. Curious."
+                "Het lijkt erop dat ik aangekomen ben.",
+                "Nieuwe grond.",
+                "Verwachte aankomsttijd: nul uur, nul minuten, en nu.. nul seconden.",
+                "Wat een verrassing. Tijd om op pad te gaan.",
+                "Niet heel anders dan wat ik me tijdens de training had voorgesteld.",
+                "Moet rationeel blijven.",
+                "Vreemd.",
+                "Fascinerend, tenminste.",
+                "Een verandering van tempo.",
+                "Het is hier precies donker.",
+                "Nieuwe omgeving. Interessant."
             ],
             "eatGood": [
-                "Pleasant.",
-                "This is adequate.",
-                "Good.",
+                "Prettig.",
+                "Dit is genoeg.",
+                "Goed.",
                 "The flavour profiles are appealing enough.",
                 "Does not hurt to indulge.",
                 "Een preferable palate cleanser.",
@@ -4346,15 +4346,15 @@
             "eatMediocre": [
                 "Onbevredigend.",
                 "Is dit écht de beste optie?",
-                "About as exciting as watching paint dry.",
+                "Net zo spannend als op drogende verf te zitten kijken.",
                 "Hoe saai..",
-                "It is sufficient enough for calories.",
+                "Is dit genoeg voor calorieën.",
                 "Niet erg inspirerend.",
                 "Nodig voor mijn lichaamsfuncties.",
                 "Het is... oké.",
                 "Eetbaar.",
-                "If this sustains my body...",
-                "This should at least keep me up."
+                "Als het mijn lichaam maar aanhoud...",
+                "Dit zou me tenminste wakker houden."
             ],
             "eatBad": [
                 "Wat een afschuwelijke smaak. Nooit meer opnieuw.",
