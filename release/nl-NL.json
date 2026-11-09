@@ -3,9 +3,9 @@
     "description": "Nederlands taalpakket voor Casualties Unknown",
     "version": "1.0",
     "main": {
-        "bandage": "Dressing",
-        "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
-        "rippeddressing": "Ripped dressing",
+        "bandage": "Verband",
+        "bandagedsc": "Een rolletje kleren met verband, om het bloeden te stoppen, breuken te stabiliseren en je vel te herstellen. Heeft geen effect op spierkracht.",
+        "rippeddressing": "Verscheurde kleren",
         "rippeddressingdsc": "A small pile of ripped clothing. Can be used as a makeshift bandage for bleeding wounds.",
         "rag": "Old rag",
         "ragdsc": "A worn, crumpled up rag. Can be used as decent makeshift dressing. Use in the inventory to dry yourself.",
