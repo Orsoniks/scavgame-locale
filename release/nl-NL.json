@@ -1,6 +1,6 @@
 {
-    "name": "English",
-    "description": "The official developer-created english translation of the game. You can find community translations in the locale repository (See credits menu). Community translations are not quality-checked and might be inaccurate or out of date!",
+    "name": "Nederlands",
+    "description": "Dutch translations for Casualties Unknown",
     "version": "1.0",
     "main": {
         "bandage": "Dressing",
