@@ -56,7 +56,7 @@
         "manualdefibrillator": "Manual defibrillator",
         "manualdefibrillatordsc": "An electronic device used to stabilize dangerous heart rhythms. Use on the upper torso. This one is manual, en will require some know-how to use correctly. Compared to an AED, it's faster en uses less power, but isn't guaranteed to work. Higher INT makes operation easier.",
         "minifleshrebuilder": "Mini flesh rebuilder",
-        "minifleshrebuilderdsc": "An experimental medical device that uses samples met flesh in order to heal traumatic injuries. If filled with three pieces met gele flesh, can rebuild missing facial features. Also a mediocre light source!",
+        "minifleshrebuilderdsc": "An experimental medical device that uses samples met flesh in order to heal traumatic injuries. If filled with three pieces met gele flesh, can rebuild missing facial features. Also a mediocre licht source!",
         "antidepressants": "Antidepressant bottle",
         "antidepressantsdsc": "Een 140ml pillenflesje met antidepressants. Dosering is 20ml.",
         "antibiotics": "Antibiotica flesje",
@@ -67,10 +67,10 @@
         "antiraddsc": "Een 100ml pillenflesje met een cool radiation sign on it. Dosering is 20ml.",
         "sleepingpills": "Sleeping pills packet",
         "sleepingpillsdsc": "Een blister pack containing 25ml worth met pills. Dosering is 5ml. The brand name is missing.",
-        "rosepod": "Rose pod",
+        "rosepod": "Roos pod",
         "rosepoddsc": "Een part met a sand rose. Doesn't spoil. Can be opened.",
-        "roselight": "Rose light",
-        "roselightdsc": "Een bright, far reaching gele light that came from a sand rose. While it decays fast, it's useful for checking how big a drop is. Also reveals hidden infections if used on a limb.",
+        "roselight": "Roos licht",
+        "roselightdsc": "Een bright, far reaching gele licht that came from a sand rose. While it decays fast, it's useful for checking how big a drop is. Also reveals hidden infections if used on a limb.",
         "splint": "Splint",
         "splintdsc": "Een sturdy board, made to aid fractures. Helps with healing fractures en dislocations. Putting it on a functional limb will still immobilize it, reducing your capabilities.",
         "bloodbag": "Bloed zak",
@@ -85,8 +85,8 @@
         "ringersolutiondsc": "Een 0.7L bag met een needle at the end, for injecting fluids intravenously.",
         "bloodbaghuman": "Rood bloed bag",
         "bloodbaghumandsc": "Een 0.75L plastieke zak with an autoinjector at the end. Injects 375mL on use. Use in the inventory to draw bloed from yourself. There's traces of red on it.",
-        "trashbag": "Trash bag",
-        "trashbagdsc": "Een black plastieke zak.",
+        "trashbag": "Afvalszak",
+        "trashbagdsc": "Een zwarte plastieke zak.",
         "flammablepowder": "Flammable powder",
         "flammablepowderdsc": "Een chalky en highly flammable powder. Useful in making explosives.",
         "foliagebag": "Foliage bag",
@@ -140,7 +140,7 @@
         "oxygencrystalshard": "Oxygen crystal shard",
         "oxygencrystalsharddsc": "It's bubbling away slowly, releasing oxygen into anything around it... Increases stamina regeneration while stored on your body.",
         "emissivecrystalshard": "Emissive crystal shard",
-        "emissivecrystalsharddsc": "Glows brightly, for a time. Useful as a light source while it lasts.",
+        "emissivecrystalsharddsc": "Glows brightly, for a time. Useful as a licht source while it lasts.",
         "digestioncrystalshard": "Digestion crystal shard",
         "digestioncrystalsharddsc": "It feels as if it's taking matter out of your body... Decreases sickness while stored on your body.",
         "geofruit": "Geofruit",
@@ -227,12 +227,12 @@
         "glowplantfruitdsc": "Bioluminescent en inedible. Has moderately dangerous toxins inside; counteracts infections. Its juice promotes chemical reactions, making it useful in crafting.",
         "flashlight": "Flashlight",
         "flashlightdsc": "Lights up a large area in front of it, but slowly loses battery. Use to change mode.",
-        "emergencylight": "Emergency light",
-        "emergencylightdsc": "Een tiny, one-time use emergency flashlight. You'll probably want to find a new source of light before it runs out. Use to toggle.",
+        "emergencylight": "Emergency licht",
+        "emergencylightdsc": "Een tiny, one-time use emergency flashlight. You'll probably want to find a new source of licht before it runs out. Use to toggle.",
         "lantern": "Lantern",
         "lanterndsc": "Een simple, wood en glass lantern met een bright gele crystal inside of it.",
         "lightbulb": "Lightbulb",
-        "lightbulbdsc": "An electric light met een filament that is heated until it glows. Seems to be battery powered. Don't put it in your mouth.",
+        "lightbulbdsc": "An electric licht met een filament that is heated until it glows. Seems to be battery powered. Don't put it in your mouth.",
         "nutrientbar": "Nutrient bar",
         "nutrientbardsc": "Solid, edible bar of pure nutrients en calories. Neutral taste, en doesn't spoil.",
         "primitivediggingtool": "Metal digging tool",
@@ -244,7 +244,7 @@
         "shovel": "Metal shovel",
         "shoveldsc": "Een tool specially crafted to efficiently displace soil en other loose materials. While you haven't seen one of these before in your life, using it isn't exactly a science.",
         "woodshovel": "Wooden shovel",
-        "woodshoveldsc": "Een tool specially crafted to efficiently displace soil en other loose materials. Made met een brittle, yet light material.",
+        "woodshoveldsc": "Een tool specially crafted to efficiently displace soil en other loose materials. Made met een brittle, yet licht material.",
         "pitchfork": "Metal pitchfork",
         "pitchforkdsc": "An agricultural tool used to pitch loose material, such as hay, straw, manure, or leaves. Made of steel.",
         "woodpitchfork": "Wooden pitchfork",
@@ -258,9 +258,9 @@
         "titaniumpickaxe": "Titanium pickaxe",
         "titaniumpickaxedsc": "Een finely crafted tool, made out of forged titanium. Very durable en efficient at removing terrain, though not very combat capable.",
         "titaniummultitool": "Titanium multitool",
-        "titaniummultitooldsc": "Een klein, yet very firm en durable tool used for crafting, met een heavy hammer top en a tiny yet razor sharp blade hidden in the handle. While not useful for digging nor combat, it will last nigh indefinitely for all sorts of crafting recipes, en is light.\n\n<color=\"red\">Can be used in the health panel to amputate limbs.",
+        "titaniummultitooldsc": "Een klein, yet very firm en durable tool used for crafting, met een heavy hammer top en a tiny yet razor sharp blade hidden in the handle. While not useful for digging nor combat, it will last nigh indefinitely for all sorts of crafting recipes, en is licht.\n\n<color=\"red\">Can be used in the health panel to amputate limbs.",
         "titaniummachete": "Titanium machete",
-        "titaniummachetedsc": "Een very capable en durable tool for combat, both easy en light to swing, yet razor-sharp en devastating. Its edge is heat snoepjeed to keep its sharpness for a long time. An amazing tool for self defense, en can be used as a digging tool as a last resort.\n\n<color=\"red\">Can be used in the health panel to amputate limbs.",
+        "titaniummachetedsc": "Een very capable en durable tool for combat, both easy en licht to swing, yet razor-sharp en devastating. Its edge is heat snoepjeed to keep its sharpness for a long time. An amazing tool for self defense, en can be used as a digging tool as a last resort.\n\n<color=\"red\">Can be used in the health panel to amputate limbs.",
         "sledgehammer": "Sledgehammer",
         "sledgehammerdsc": "Een tool met een large, flat metal head, attached to a long handle. You've heard they tend to be thrown into rivers.",
         "woodpickaxe": "Wooden pickaxe",
@@ -350,7 +350,7 @@
         "autozoomgoggles": "Auto-zoom goggles",
         "autozoomgogglesdsc": "Een pair of goggles that have the ability to zoom in the user's vision to see farther.",
         "blindfold": "Blindfold",
-        "blindfolddsc": "Een black piece of cloth to cover your eyes with. Offers slight protection, but closes your character's eyes.",
+        "blindfolddsc": "Een zwarte piece of cloth to cover your eyes with. Offers slight protection, but closes your character's eyes.",
         "balaclava": "Balaclava",
         "balaclavadsc": "Een thick, padded piece of cloth to go around your skull. Offers minor protection en decent insulation.",
         "earmuffs": "Earmuffs",
@@ -530,9 +530,9 @@
         "woodscraps": "Wood scraps",
         "woodscrapsdsc": "Bits en pieces of smashed wood. You could probably make them into a crafting material.",
         "woodcube": "Wood cube",
-        "woodcubedsc": "Solid cube made of melted together wood. While it's very frail, it's also light.",
+        "woodcubedsc": "Solid cube made of melted together wood. While it's very frail, it's also licht.",
         "woodpanel": "Wood panel",
-        "woodpaneldsc": "Thin sheet made of wood. While it's very frail, it's also light.",
+        "woodpaneldsc": "Thin sheet made of wood. While it's very frail, it's also licht.",
         "canvas": "Canvas",
         "canvasdsc": "Thin, flexible sheet made of plant matter. Light en decently durable for what it is.",
         "nails": "Nails",
@@ -540,7 +540,7 @@
         "string": "String",
         "stringdsc": "Een thin, deceptively durable string made of prepared plant matter. Used in more intricate recipes.",
         "stick": "Stick",
-        "stickdsc": "Een short wooden stick. While it's very frail, it's also light. Way too small to use as a weapon. Could act as a shoddy makeshift hammer.",
+        "stickdsc": "Een short wooden stick. While it's very frail, it's also licht. Way too small to use as a weapon. Could act as a shoddy makeshift hammer.",
         "ilmenitechunk": "Ilmenite chunk",
         "ilmenitechunkdsc": "Een titanium-iron oxide mineral. Though costly, it can be processed into a strong titanium alloy.",
         "titaniumslab": "Titanium slab",
@@ -580,7 +580,7 @@
         "firestarter": "Firestarter",
         "firestarterdsc": "Een device to start a fire by friction between a rapidly rotating wooden rod en a cavity on a stationary wood piece. In layman's terms, stick rotatey, fire starty. Can be used up to 3 times before burning out.",
         "charcoal": "Charcoal",
-        "charcoaldsc": "Small, light piece of charcoal. Can be used as a flammable ingredient for crafting.",
+        "charcoaldsc": "Small, licht piece of charcoal. Can be used as a flammable ingredient for crafting.",
         "ryebulb": "Rye bulb",
         "ryebulbdsc": "Een thin sack filled with grain. You could pound it down into a flour if you had a hammering tool.",
         "ryeflour": "Rye flour",
@@ -592,9 +592,9 @@
         "pemmican": "Pemmican",
         "pemmicandsc": "Een mixture of fat, dried meat, en dehydrated fruit. Lasts a long time en is very calorie-dense. Tastes neutral.",
         "torch": "Torch",
-        "torchdsc": "Extremely primitive lightsource. While it lights up the way pretty well, it will be put out by liquids. You can relight it met een flame source.",
+        "torchdsc": "Extremely primitive lichtsource. While it lichts up the way pretty well, it will be put out by liquids. You can relight it met een flame source.",
         "lighter": "Lighter",
-        "lighterdsc": "Een generic flip top lighter. Can be used as a flame source for many crafting recipes, such as lighting campfires. Lasts many, many uses.",
+        "lighterdsc": "Een generic flip top lichter. Can be used as a flame source for many crafting recipes, such as lichting campfires. Lasts many, many uses.",
         "present": "Present",
         "presentdsc": "Een decorated paper box, seemingly filled with something. Use it to unpack it.",
         "woodsandals": "Wood sandals",
@@ -708,7 +708,7 @@
         "lifepodbuttonshower": "Shower toggle",
         "lifepodbuttonshowerdsc": "Een red, cheap looking button. This one activates the lifepod's cleaning en disinfecting gas shower.",
         "EmissiveCrystal": "Emissive Crystal",
-        "EmissiveCrystaldsc": "Een rather bright light emanates from it.",
+        "EmissiveCrystaldsc": "Een rather bright licht emanates from it.",
         "foodbox": "Food box",
         "foodboxdsc": "Has food items in it.",
         "geotree": "Geotree",
@@ -726,7 +726,7 @@
         "lifepodchest": "Lifepod chest",
         "lifepodchestdsc": "Likely to contain basic survival gear.",
         "LifePodLight": "Light",
-        "LifePodLightdsc": "Has a lightbulb in it - you could probably take it.",
+        "LifePodLightdsc": "Has a lichtbulb in it - you could probably take it.",
         "medcrate": "Medische crate",
         "medcratedsc": "Has medical items in it.",
         "techball": "Tech-Ball",
@@ -1111,7 +1111,7 @@
         "infected3dsc": "The infection is spreading across the limb quickly en painfully. Chances of going into sepsis. Find antiseptic, urgently.",
         "infected4dsc": "The infection is spreading to other limbs, en the infected limb is starting to undergo necrosis. Sepsis is setting in. Amputate.",
         "sepsis1dsc": "Een widespread infection is causing your immune system to panic. You feel confused, with lowered bloed pressure en a fever. Treat any infected limbs.",
-        "sepsis2dsc": "Lowered bloed pressure, lightheadedness en a strong fever. Signs of organ dysfunction. Likely to soon enter septic shock.",
+        "sepsis2dsc": "Lowered bloed pressure, lichtheadedness en a strong fever. Signs of organ dysfunction. Likely to soon enter septic shock.",
         "sepsis3dsc": "<i>You couldn't stop for death, so death has kindly stopped by for you.</i> Circulatory collapse imminent.",
         "concussiondsc": "Rendered unconscious by low head vitality. You will wake up when your head heals.",
         "unconsciousdsc": "Not responding to any external stimuli. Lights out.",
@@ -1202,7 +1202,7 @@
         "rnrsdsc": "Neural shock caused by a sudden en rapid regeneration of brain tissue. While you'll adjust after some time, you might not want to take another dose for now. (<>)",
         "rippedjawdsc": "Your lower jaw has been ripped off due to severe trauma to the head. Eating en talking is much harder. You are horribly scarred by the experience.",
         "rippedeyedsc": "One of your eyes has been ripped out, halving your field of view. You are somewhat scarred by the experience. Don't lose the remaining one.",
-        "rippedeyesdsc": "Both of your eyes have been ripped out. You can only get by using feel en sound. At least you no longer need a light source...",
+        "rippedeyesdsc": "Both of your eyes have been ripped out. You can only get by using feel en sound. At least you no longer need a licht source...",
         "lowimmunitydsc": "Your immune system is severely weakened, be it due to dirtiness, hunger, thirst or more. Infections are much more dangerous. Take better care of yourself.",
         "highimmunitydsc": "Your immune system is working at high capacity, likely due to antibiotisches. Infections are much less dangerous, en might even regress on their own if near 200%.",
         "amputationdsc": "One of your extremities has been dismembered. About time to look into prosthetics.",
@@ -1266,7 +1266,7 @@
         "layermodifier9dsc": "Nuclear waste has been dumped in this site.",
         "layermodifier10dsc": "Een strong solar flare has disabled your chip for a while.",
         "layermodifier11dsc": "Some unknown force is affecting the gravity here.",
-        "layermodifier12dsc": "Strange lights permeate the area.",
+        "layermodifier12dsc": "Strange lichts permeate the area.",
         "layermodifier13dsc": "De lucht hier feels unusually refreshing en energizing.",
         "layermodifier14dsc": "An airborne microorganism makes infections rarer here.",
         "layermodifier15dsc": "This area seems to have reduced seismic activity.",
@@ -1482,7 +1482,7 @@
         "magma": "Magma",
         "magmadsc": "Molten rock. Every single one of your senses is screaming at you to avoid it. It'll probably slowly cool down over time.",
         "oil": "Oil",
-        "oildsc": "Een thick, black tar. Difficult to move through. Inedible.",
+        "oildsc": "Een thick, zwarte tar. Difficult to move through. Inedible.",
         "sap": "Tree sap",
         "sapdsc": "Een thick, tasty sap, produced by jungle trees. Very sugary.",
         "fat": "Fat",
@@ -1551,10 +1551,10 @@
         "savecontinuemenudsc": "Continue a previously saved run.",
         "char0name": "[SAW-01] \"Experiment\"",
         "char0desc": "[FAMILY] \"Canine\"\n[CALLOUT_QUOTE] \"H-huh? Me? Is it my time to go..?\"\n[SUCCESS_PREDICTION] \"0.00374%\"\n[NOTES] \"Uninteresting\"",
-        "char0quirks": "[CANINE] - Your stomach doesn't play well with theobromine.\n[BIOLUMINESCENT_SIGHT] - In an emergency, you're your own light source.",
+        "char0quirks": "[CANINE] - Your stomach doesn't play well with theobromine.\n[BIOLUMINESCENT_SIGHT] - In an emergency, you're your own licht source.",
         "char1name": "[SAW-03] \"Melky\"",
         "char1desc": "[FAMILY] \"Canine\"\n[CALLOUT_QUOTE] \"I will comply.\"\n[SUCCESS_PREDICTION] \"0.0103%\"\n[NOTES] \"Bit of a snob\"",
-        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better en light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick en gives less nutrition.\n[SCRAWNY] - All STR en RES gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms en see the ammo count.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need it.\n[CANINE] - Your stomach doesn't play well with theobromine.",
+        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better en licht sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick en gives less nutrition.\n[SCRAWNY] - All STR en RES gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms en see the ammo count.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need it.\n[CANINE] - Your stomach doesn't play well with theobromine.",
         "char2name": "[SAW-12] \"Dune\"",
         "char2desc": "[FAMILY] \"Insectoid\"\n[CALLOUT_QUOTE] \"Hrrnn... Du-ne time go..?\"\n[SUCCESS_PREDICTION] \"0.001%\"\n[NOTES] \"Eww! It's drooling!\"",
         "char2quirks": "[AQUATIC] - You can breathe underwater en like sleeping there.\n[FURLESS] - The lack of fur leaves you vulnerable to the ambient temperature. You dry off a lot faster. Groundwater en other liquids will stabilize your body temperature.\n[CANNIBAL] - You can eat raw meat en destroy corpses with no repercussions. You are generally immune to food poisoning.\n[CARNIVORE] - Eating fruit will cause you to vomit it right back out.\n[MUSCLE_FOR_BRAINS] - You don't <i>do</i> thinking. All INT gain is halved.\n[UNFEELING] - Mood is dampened by one third. You can't hug or haggle. You don't find killing people a significant event.\n[CHITINOUS] - Chitinous growths make you resilient to physical trauma.",
@@ -1652,7 +1652,7 @@
         "runsettraderrepoffset": "Trader reputation offset",
         "runsettraderrepoffsetdsc": "How much bonus reputation to add/remove when meeting traders",
         "runsetitemdecayrate": "Item decay rate",
-        "runsetitemdecayratedsc": "How fast things like food, bags en light sources decay",
+        "runsetitemdecayratedsc": "How fast things like food, bags en licht sources decay",
         "runsetlayermodifierchance": "Layer modifier chance",
         "runsetlayermodifierchancedsc": "How likely is a layer modifier to appear, per-layer",
         "runsettimebetweenearthquakes": "Time between earthquakes",
@@ -1661,8 +1661,8 @@
         "runsettemperatureoffsetdsc": "How much warmer/koudershould the environment be on average",
         "runsetlockpickprecision": "Lockpicking leniency",
         "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
-        "runsetambientlight": "Ambient light",
-        "runsetambientlightdsc": "How much should areas without a direct light source be illuminated",
+        "runsetambientlight": "Ambient licht",
+        "runsetambientlightdsc": "How much should areas without a direct licht source be illuminated",
         "runsetambientlightnone": "Pitch black",
         "runsetambientlightenough": "Enough to see",
         "runsetambientlightbright": "Bright",
@@ -1730,7 +1730,7 @@
         "gamesetfilmgrain": "Film grain",
         "gamesetfilmgraindsc": "How much of the noisy filter you want visible",
         "gamesetbrightness": "Brightness",
-        "gamesetbrightnessdsc": "How much brighter to make any non-pitch black tones",
+        "gamesetbrightnessdsc": "How much brighter to make any non-pitch zwarte tones",
         "gamesetlineofsightcount": "Line of sight resolution",
         "gamesetlineofsightcountdsc": "How detailed is the line of sight shader, when applicable. Higher values worsen performance",
         "gamesetscreenshake": "Screenshake",
@@ -2407,12 +2407,12 @@
         "cargosurgery6": "I need to go.",
         "endsctip": "Get your shit together. I need to murder him. Now.",
         "outdatedwarning": "<size=200%>Hey!<size=100%>\nThe selected language file is outdated. Some text may be broken.\nTry switching to english or finding a newer version.",
-        "surfacebreachnote": "As you breach through the final few layers of gravel en rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell en back, surpassed thousands of, what are now corpses, en have become the first en only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains en various groups of people appear in the horizon. You have breached the surface.",
+        "surfacebreachnote": "As you breach through the final few layers of gravel en rock that separate you from the wide open air, a blinding licht unveils itself through the cracks.<>\n\nYou've travelled through hell en back, surpassed thousands of, what are now corpses, en have become the first en only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains en various groups of people appear in the horizon. You have breached the surface.",
         "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nEen few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nEen significant part of you wants to rebel en run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully en vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod met een defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down en make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
         "biopodnote": "Trying to rebel against your captors with an explosive chip in your head is equivalent to suicide. The weird object lodged in your torso also seems dangerous to keep inside you for too long. With no better options at your disposal, you follow the orders given to you.<>\n\nYou are soon escorted by a group of armed guards into a room met een large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you reluctantly give up all the gadgets that you've found on your journey en prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes en wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... Een faint smile appears on you as your consciousness fades into a deep sleep.",
         "biopodnotealt": "You are quickly taken away, restrained, stripped of your gear en resuscitated to avoid any more significant damage to the brain en the rest of your body.\n\nSome time later, you are escorted by a group of armed guards into a room met een large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes en wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... Een faint smile appears on you as your consciousness fades into a deep sleep.",
         "biopodnotealt2": "You are quickly restrained, taken away, stripped of everything en resuscitated to avoid any more significant damage to the brain en the rest of your body.\n\nEen significant amount of time later, you are moved by a group of armed guards into a room met een large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou tried so hard to get out of this prison, yet it brought you nowhere. Een meaningless attempt. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod.<>\n\nAs you slowly submerge in the liquid, with various tubes en wires now attached to your body, you think about your failure. So close to tasting freedom, to getting the ultimate revenge on your captors... And yet, it fell flat. If only you tried a little harder... Een frown appears on you as your consciousness fades into a deep sleep.",
-        "escapenote1": "Een bright shine radiates from the end of the corridor. You hear what sounds like wind blowing outside.\n<>\nThis is the end of the road. You have denied your captors met een skill en stubbornness no other being ever has.\n<>\nHurt, exhausted, yet determined, you walk into the light.",
+        "escapenote1": "Een bright shine radiates from the end of the corridor. You hear what sounds like wind blowing outside.\n<>\nThis is the end of the road. You have denied your captors met een skill en stubbornness no other being ever has.\n<>\nHurt, exhausted, yet determined, you walk into the licht.",
         "escapenote2": "...So, that's what they were hiding from you all this time.\n<>\nWhile you admire the beauty of your newfound surroundings, the loud sounds coming from where you just came out of remind you that you still need to move.\nWithout much choice, you run into what looks like a field of tall, green plants with large brown stalks.\n<>\nYou run.<>\nYou keep running.<>\nYou run far, far away, until your legs give out.\n<>\n...\n<>\nSilence. Nothing but what sounds like chirping en the sound of blowing wind. You can't even see the buildings on the horizon anymore.\n<>\n...\n<>\nYou have achieved your freedom.",
         "mercnote1": "You breach through the final few layers of gravel en rock that separate you from the wide open air.<>\n\nYou've travelled through hell en back, surpassed thousands of, what are now corpses, en have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step foot on the cold gravel. Buildings, mountains en various groups of people appear in the horizon. You have breached the surface.",
         "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nEen few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you en so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nEen bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, en it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
@@ -3692,7 +3692,7 @@
                 "I need to stop using this crap...",
                 "All I can think a-about is another shot...",
                 "Opioids...",
-                "I'm so shaky en lightheaded... I-I need more opioids...",
+                "I'm so shaky en lichtheaded... I-I need more opioids...",
                 "Need more... D-drugs..."
             ],
             "cantBreathe": [
@@ -3907,7 +3907,7 @@
                 "As much as I feel like all of these things will be useful, I'm really weighed down...",
                 "The load is a little much...",
                 "I feel weighed down by all I am carrying.",
-                "Let's lighten the load a little.",
+                "Let's lichten the load a little.",
                 "I'm a bit overloaded with gear.",
                 "Carrying uncomfortably much...",
                 "I'd love to lessen the load a little...",
@@ -4405,7 +4405,7 @@
                 "I am going to collapse..."
             ],
             "confused": [
-                "I feel lightheaded.",
+                "I feel lichtheaded.",
                 "My eyes are having trouble focusing...",
                 "I despise this confusion.",
                 "Needless disorientation.",
@@ -4871,7 +4871,7 @@
             "opiatedsad": [
                 "Een pleasant, fleeting feeling...",
                 "...I can finally relax.",
-                "I feel light...",
+                "I feel licht...",
                 "This is much better."
             ],
             "opiatewithdrawal": [
@@ -5030,7 +5030,7 @@
                 "The stained glass window had slivers of yellow, orange, en red.",
                 "Nothingness sees the sun.",
                 "Gasoline shoots pineapples met een machinegun.",
-                "The light at the end of the tunnel has its world rocked by trees.",
+                "The licht at the end of the tunnel has its world rocked by trees.",
                 "Something is wrong with my cranium.",
                 "There is a metallic taste in my mouth",
                 "My head feels weird.",
@@ -5297,7 +5297,7 @@
                 "...Dude. I have eyes. Thief... Leave!",
                 "Oh, you idiot! Leave, now! OUT!",
                 "EY! Fuck you! Get the fuck out!",
-                "Why the fuck would you do that!? Get out! I needed that light!",
+                "Why the fuck would you do that!? Get out! I needed that licht!",
                 "Why are you destroying my pod!? Get OUT! LEAVE!"
             ],
             "tradermove": [
@@ -6265,7 +6265,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "dune love tasting friend .  all friend taste different .  dark fur friend is stiff .  light fur friend is chewy .  what dune me taste like ?",
+                "Item1": "dune love tasting friend .  all friend taste different .  dark fur friend is stiff .  licht fur friend is chewy .  what dune me taste like ?",
                 "Item2": "",
                 "Item3": "dune"
             },
@@ -6275,7 +6275,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "To anyone who finds this, they can en will control you, even in this hell. With no previous alert I started to hear a loud alarm inside me, I could see a message saying \"DEPTH UNSATISFACTORY\" with red flashing lights materializing in the corner of my vision.\n\nI started running, panicked, without knowing why they would do this. Only after I went into another region of this cave network it stopped. They know how much time you are spending here, they know that you'll be frightened, en they want you to die. This is all a mass genocide.",
+                "Item1": "To anyone who finds this, they can en will control you, even in this hell. With no previous alert I started to hear a loud alarm inside me, I could see a message saying \"DEPTH UNSATISFACTORY\" with red flashing lichts materializing in the corner of my vision.\n\nI started running, panicked, without knowing why they would do this. Only after I went into another region of this cave network it stopped. They know how much time you are spending here, they know that you'll be frightened, en they want you to die. This is all a mass genocide.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -6295,7 +6295,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "today i found a few weird metal cans that had the label ripped off. i couldnt tell what it was en the liquid was too thick to pour out, but it is surprisingly filling, i feel like i just had a nice steak... i feel so sleepy. im about to drink the next can, i love these cans!\n(The bottom of the paper looks like something with black chunks in it was forcibly ejected onto it.)",
+                "Item1": "today i found a few weird metal cans that had the label ripped off. i couldnt tell what it was en the liquid was too thick to pour out, but it is surprisingly filling, i feel like i just had a nice steak... i feel so sleepy. im about to drink the next can, i love these cans!\n(The bottom of the paper looks like something with zwarte chunks in it was forcibly ejected onto it.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6320,7 +6320,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "i didnt realize how bad it had gotten until i tried to dig again en my claws just... scraped. no bite to them anymore. ive been clawing through rock nonstop without even thinking about it. i felt naked. turns out flesh isnt meant to replace gereedschap.\n<>\ni kept assuming i needed a pickaxe for everything. but i figured out my machete works just fine for the lighter stuff. dirt, plants, sand, it slices right through. saves my hands a lot of pain.\n<>\nfound a fles labeled keratin booster. figures they planned for our parts to break down. took a sip. after a while the old layers started flaking off like fur. underneath, they felt sharper. stronger. it was weirdly satisfying watching the worn parts peel away. i like how my claws let me grip the walls better\n<>\ni remembered the humans. they had nails on every finger. all of them. no claws at all. it looked so wrong up close. soft. blunt. freaky how they managed anything with hands like that.\n<>\ni used to think that made them weak.\n<>\nnow i wonder if that was the point.",
+                "Item1": "i didnt realize how bad it had gotten until i tried to dig again en my claws just... scraped. no bite to them anymore. ive been clawing through rock nonstop without even thinking about it. i felt naked. turns out flesh isnt meant to replace gereedschap.\n<>\ni kept assuming i needed a pickaxe for everything. but i figured out my machete works just fine for the lichter stuff. dirt, plants, sand, it slices right through. saves my hands a lot of pain.\n<>\nfound a fles labeled keratin booster. figures they planned for our parts to break down. took a sip. after a while the old layers started flaking off like fur. underneath, they felt sharper. stronger. it was weirdly satisfying watching the worn parts peel away. i like how my claws let me grip the walls better\n<>\ni remembered the humans. they had nails on every finger. all of them. no claws at all. it looked so wrong up close. soft. blunt. freaky how they managed anything with hands like that.\n<>\ni used to think that made them weak.\n<>\nnow i wonder if that was the point.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6362,7 +6362,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "the red blinking lights in the dark are spike traps. watch out for them. please. please. someone just walked into one in the distance, i just heard a yelp en silence after. stay safe",
+                "Item1": "the red blinking lichts in the dark are spike traps. watch out for them. please. please. someone just walked into one in the distance, i just heard a yelp en silence after. stay safe",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6382,12 +6382,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "i really need to stop losing my lights. anything does the job, even those weird glowy plant things. i keep leaving en forgetting about them, then tripping up en getting hurt by accident. not good.",
+                "Item1": "i really need to stop losing my lichts. anything does the job, even those weird glowy plant things. i keep leaving en forgetting about them, then tripping up en getting hurt by accident. not good.",
                 "Item2": "Sprites/noteDrawings/glowplant",
                 "Item3": "experiment"
             },
             {
-                "Item1": "light is valuable resource here, especially as it gets darker the further we go. dont want to accidentally step on a trap. with the carcass of a spider en pieces of glowplant, i can fashion a headlamp so my hands remain free. in a pinch lightbulbs in the pods seem to run on a depleted battery, en can be broken off with relative ease, much to the aggression of the pods owner",
+                "Item1": "light is valuable resource here, especially as it gets darker the further we go. dont want to accidentally step on a trap. with the carcass of a spider en pieces of glowplant, i can fashion a headlamp so my hands remain free. in a pinch lichtbulbs in the pods seem to run on a depleted battery, en can be broken off with relative ease, much to the aggression of the pods owner",
                 "Item2": "Sprites/noteDrawings/lightbulb",
                 "Item3": "experiment"
             },
@@ -6599,7 +6599,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone en bloed\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the light is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
+                "Item1": "I dont know what hit me but I cant feel my leg anymore, all I can see is a tangled mess of muscle bone en bloed\nmy body is screaming for the agony to end \nthe only thing I have is this blue device on my chest. I was told by the trader I bought it from that it should only be used in emergencies.\nThe pain is not unbearable anymore, but the licht is blinking now. I dont know how long I have left. will the darkness return when this thing runs out? I dont want to fade away...",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6836,7 +6836,7 @@
             "Item2": ""
         },
         {
-            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Subacute swelling at the injection site. Heart rate is 160 BPM. Bloed pressure is 157/98. Significant pain response is noted. Subject is thrashing against its restraints. Swelling has progressed to an acute edema. Blisters are erupting from the dermis. Subject had to be gagged. Reaction spreading rapidly to entire thorax. The skin is splitting at injection site. Heart rate is 198 BPM. Color is flushing from red to black. Blisters have burst en are leaking a dark fluid. The rest of the body is developing bullae the size of my fist. Heart rate is 219. Bloed pressure is 71/40. Skin is entirely black en oozing fluids. Subject is now deceased, but reaction continues. Catastrophic cellular lysis en membrane failure. Subject is melting intoaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
+            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Subacute swelling at the injection site. Heart rate is 160 BPM. Bloed pressure is 157/98. Significant pain response is noted. Subject is thrashing against its restraints. Swelling has progressed to an acute edema. Blisters are erupting from the dermis. Subject had to be gagged. Reaction spreading rapidly to entire thorax. The skin is splitting at injection site. Heart rate is 198 BPM. Color is flushing from red to black. Blisters have burst en are leaking a dark fluid. The rest of the body is developing bullae the size of my fist. Heart rate is 219. Bloed pressure is 71/40. Skin is entirely zwarte en oozing fluids. Subject is now deceased, but reaction continues. Catastrophic cellular lysis en membrane failure. Subject is melting intoaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
             "Item2": ""
         },
         {
@@ -6844,11 +6844,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device en told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them. It lights up my face en the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lights in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that day's task. None of those tonight at least.\n\nThe others are complaining about the light from the screen. I'll continue this when the lights come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lights come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute en wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, en we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every day en put something in my arm. It made me feel really, really good, but then it stopped en I felt like I was dying. I hope you give me more tests like that!<>",
+            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device en told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them. It lichts up my face en the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lichts in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that day's task. None of those tonight at least.\n\nThe others are complaining about the licht from the screen. I'll continue this when the lichts come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lichts come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute en wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, en we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every day en put something in my arm. It made me feel really, really good, but then it stopped en I felt like I was dying. I hope you give me more tests like that!<>",
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few days, it's rare that they ever come back. Then the guards come in en take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, en I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, en sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what days en nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a day. I know there's an \"outside\" en apparently it's really big. The lights come on en off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[ENTRY #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight en my number was just called<>\n\ni will write more when i get ba<>\n[END]",
+            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few days, it's rare that they ever come back. Then the guards come in en take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, en I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, en sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what days en nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a day. I know there's an \"outside\" en apparently it's really big. The lichts come on en off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[ENTRY #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight en my number was just called<>\n\ni will write more when i get ba<>\n[END]",
             "Item2": ""
         }
     ],
