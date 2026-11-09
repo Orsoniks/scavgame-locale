@@ -187,7 +187,7 @@ async function diff(targetVersion, targetLocale, detailLevel)
 
   const completionPercentage = 1 - identicalKeys.length / keysTotal;
 
-  console.log(`EN.json keys: ${keysTotal}, character length: ${charLength}, words: ${approxWords}  (${Math.floor(completionPercentage * 100)}%)`);
+  console.log(`EN.json keys: ${keysTotal}, character length: ${charLength}, words: ${approxWords}  (${Math.floor(completionPercentage * 100)}% translated)`);
 }
 
 // Matches stuff like <color> and \n
