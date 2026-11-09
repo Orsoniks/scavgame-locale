@@ -2,8 +2,8 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 
 ## Installing new locales
 
-1. Go to the [release](/release) folder in GitHub (or the [demo](/demo) folder if you want to download locales for the demo).
-   * You can also look at the list of available [release](#release-locales) and [demo](#demo-locales) locales below.
+1. Go to the [release](/release) folder in GitHub (or the [demo](/demo) folder for demo locales).
+   * You can see the list of available [release](#release-locales) and [demo](#demo-locales) locales below.
 2. Find and download the JSON file for your locale from the version's folder.
    <img src="docs/Install_GitDownload.png" height="300" />
 3. Go to *Casualties: Unknown*'s install path.
@@ -18,9 +18,7 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 
 ## Release locales
 
-**The game has not been released yet. At the moment, this section is for translators only.**
-
-This is a list of all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
+These are all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
 
 | File | Locale State | Contributors |
 |------|--------------|--------------|
@@ -34,9 +32,7 @@ This is a list of all of the locales available for the [release version](https:/
 
 ## Demo locales
 
-This is a list of all of the locales available for the [demo version](https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/) of the game.
-
-The first column links to the locale file that you need to download.
+These are all of the locales available for the [demo version](https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/) of the game.
 
 | File | Locale State | Contributors |
 |------|--------------|--------------|
@@ -45,7 +41,7 @@ The first column links to the locale file that you need to download.
 | [Беларуская (Беларусь)](/demo/be-BY.json) | Outdated | [Russian kid](https://github.com/Russiankids) |
 | [Deutsch (Deutschland)](/demo/de-DE.json) | v7.0.1 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
 | [Català (Espanya)](/demo/ca-ES.json) | v7.0.1 | [ICraveWaffles](https://github.com/ICraveWaffles) |
-| [Español (Latinoamérica)](/demo/es-419.json) | v7.7.9 (+f7b5136) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
+| [Español (Latinoamérica)](/demo/es-419.json) | v1.0-demo | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 | [Español (España)](/demo/es-ES.json) | v7.7.9 (+f7b5136) | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/demo/fi-FI.json) | v7.0.1 (incomplete, translation abandoned) | - |
 | [Français (France)](/demo/fr-FR.json) | v7.0.1 (incomplete) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick), [LackeDragon](https://github.com/LackeDragon) |
@@ -69,7 +65,7 @@ The first column links to the locale file that you need to download.
 
 Please read the [contribution guidelines](/CONTRIBUTING.md) for ways in which you can contribute to existing or new localizations.
 
-The [translation notes](./TranslationNotes.md) may provide additional context and rules on how to translate specific text from the English locale.
+The [translation notes](./TranslationNotes.md) has extra context and rules on how to translate specific text from the English locale.
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera), [Marioalexsan](https://github.com/Marioalexsan)
