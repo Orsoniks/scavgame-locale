@@ -1448,7 +1448,7 @@
         "runsetstaminaregen": "Regeneración de resistencia",
         "runsetstaminaregendsc": "Qué tan rápido tu resistencia se regenera después de usarla.",
         "runsetattackdamage": "Daño de ataque",
-        "runsetattackdamagedsc": "Cuánto daño infliges con tus ataques."
+        "runsetattackdamagedsc": "Cuánto daño infliges con tus ataques.",
         "runsetstrokes": "Permitir derrames cerebrales",
         "runsetstrokesdsc": "Determina si puedes sufrir derrames cerebrales durante crisis hipertensivas.",
         "runsetbraindamagefx": "Efectos del daño cerebral",
