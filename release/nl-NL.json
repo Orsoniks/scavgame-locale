@@ -350,7 +350,7 @@
         "autozoomgoggles": "Auto-zoom goggles",
         "autozoomgogglesdsc": "Een pair of goggles that have the ability to zoom in the user's vision to see farther.",
         "blindfold": "Blindfold",
-        "blindfolddsc": "Een zwarte piece of cloth to cover your eyes with. Offers slight protection, but closes your character's eyes.",
+        "blindfolddsc": "Een zwarte piece of cloth to cover your ogen with. Offers slight protection, but closes your character's eyes.",
         "balaclava": "Balaclava",
         "balaclavadsc": "Een thick, padded piece of cloth to go around your skull. Offers minor protection en decent insulation.",
         "earmuffs": "Earmuffs",
@@ -1201,8 +1201,8 @@
         "bradycardiadsc": "Your heart rate feels abnormally low.",
         "rnrsdsc": "Neural shock caused by a sudden en rapid regeneration of brain tissue. While you'll adjust after some time, you might not want to take another dose for now. (<>)",
         "rippedjawdsc": "Your lower jaw has been ripped off due to severe trauma to the head. Eating en talking is much harder. You are horribly scarred by the experience.",
-        "rippedeyedsc": "One of your eyes has been ripped out, halving your field of view. You are somewhat scarred by the experience. Don't lose the remaining one.",
-        "rippedeyesdsc": "Both of your eyes have been ripped out. You can only get by using feel en sound. At least you no longer need a lichtbron...",
+        "rippedeyedsc": "One of your ogen has been ripped out, halving your field of view. You are somewhat scarred by the experience. Don't lose the remaining one.",
+        "rippedeyesdsc": "Both of your ogen have been ripped out. You can only get by using feel en sound. At least you no longer need a lichtbron...",
         "lowimmunitydsc": "Your immune system is severely weakened, be it due to dirtiness, hunger, thirst or more. Infections are much more dangerous. Take beter care of yourself.",
         "highimmunitydsc": "Your immune system is working at high capacity, likely due to antibiotisches. Infections are much less dangerous, en might even regress on their own if near 200%.",
         "amputationdsc": "One of your extremities has been dismembered. About time to look into prosthetics.",
@@ -2633,21 +2633,21 @@
                 "I'm soooo tired...",
                 "Ugh... I'm tired...",
                 "I want to lay down...",
-                "It's hard to keep my eyes open...",
+                "It's hard to keep my ogen open...",
                 "I feel like I'm about to fall asleep at any moment...",
                 "Sleep...? Please?",
                 "I'm going to collapse...",
                 "Can't... keep... going...",
                 "Buh... sleep...",
                 "Need to eep... mmm...",
-                "Mijn eyes are closing...",
+                "Mijn ogen are closing...",
                 "I seriously... need sleep...",
                 "I have to... lie down...",
-                "Mijn eyes are so heavy...",
+                "Mijn ogen are so heavy...",
                 "I can't... see straight...",
                 "Just some sleep...",
                 "I'm so... worn out...",
-                "Can't keep my eyes open...",
+                "Can't keep my ogen open...",
                 "When can I lay down...",
                 "I'm about to fall asleep...",
                 "...",
@@ -3078,7 +3078,7 @@
                 "I'm going to fucking kill whoever is putting me through this.",
                 "I am going to fucking snap.",
                 "I want to smash my head against the wall.",
-                "I'm going to claw my fucking eyes out.",
+                "I'm going to claw my fucking ogen out.",
                 "I'm starting to want to hurt myself.",
                 "Oh... Oh no.",
                 "...",
@@ -3186,7 +3186,7 @@
                 "That should do it... Bye-bye... Sorry for this... I hope there's an afterlife for me...",
                 "This is the end. I hope whoever finds my corpse makes good use of me. I can't handle this anymore. I'm sorry.",
                 "There's no point to this anymore. There NEVER fucking was. I'm ending it all. Fuck me... Fuck ALL of this.",
-                "If slitting my wrists doesn't kill me, I'm going to gouge my own fucking eyes out, so I never have to see this horrible land ever again.",
+                "If slitting my wrists doesn't kill me, I'm going to gouge my own fucking ogen out, so I never have to see this horrible land ever again.",
                 "I don't know what comes after, but I can finally rest... Let's relax now... There is no need for emotions anymore...",
                 "AHHHH! FUCK THIS! ALL OF THIS! I CAN'T TAKE IT ANYMORE! LET ME OUT OF HERE! I'M DONE!",
                 "That's it. I've FUCKING had it. I'm finally doing this... Peace. Fucking PEACE. I'm OUT.",
@@ -4393,27 +4393,27 @@
                 "It's important to find a shelter to rest in."
             ],
             "verytired": [
-                "I am... Soon to collapse... From fatigue...",
-                "Find... Somewhere safe to... collapse..",
-                "Consciousness... drifting away..",
-                "Need to... lie down for a moment...",
-                "Sleep... Now...",
-                "Low... energy reserves..",
-                "Drifting away...",
-                "Cannot... Go on further... Sleep...",
-                "Losing balance...",
-                "I am going to collapse..."
+                "Ik ga... Omvallen... Van vermoeidheid...",
+                "Vind... Een veilige plek om... in te storten..",
+                "Bewustzijn... drijft weg..",
+                "Moet... even neerliggen...",
+                "Slaap... Nu...",
+                "Lage... energie reserves..",
+                "Weg drijven...",
+                "Kan niet... Doorgaan... Slapen...",
+                "Balans aan het verliezen...",
+                "Ik ga instorten..."
             ],
             "confused": [
-                "I feel lichtheaded.",
-                "Mijn eyes are having trouble focusing...",
-                "I despise this confusion.",
-                "Needless disorientation.",
-                "Need to focus...",
-                "Mijn mind is filled with static.",
-                "I can't think clearly.",
-                "Mijn mind isn't performing.",
-                "What..?"
+                "Ik voel mij duizelig.",
+                "Mijn ogen heben moeite met focusen...",
+                "Ik haat deze verwarring.",
+                "Onnodige desorientatie.",
+                "Moet focusen...",
+                "Mijn gedachten zitten vol ruis.",
+                "Ik kan niet grondig nadenken.",
+                "Mijn hersenen werken niet goed.",
+                "Wat..?"
             ],
             "wakeup": [
                 "I wake.",
@@ -4521,17 +4521,17 @@
                 "I must aid my <limb>."
             ],
             "limbinfected": [
-                "Mijn <limb> appears to house an infection.",
-                "Mijn <limb> has become concerningly swollen.",
-                "Mijn <limb> requires urgent disinfection",
-                "The lesion on my <limb> grows.",
-                "I see infection on my <limb>.",
-                "I caught a disease.",
+                "Mijn <limb> lijkt een infectie te bevatten.",
+                "Mijn <limb> is zorgwekkend opgezwollen geraakt.",
+                "Mijn <limb> vereist dringend desinfectie.",
+                "De laesie op mijn <limb> groeit.",
+                "Ik zie een infectie op mijn <limb>.",
+                "Ik heb een ziekte opgelopen.",
                 "Mijn <limb> is opgezwollen.",
                 "Mijn <limb> is geïnfecteerd.",
                 "Mijn <limb> krijgt een zorgwekkende kleur.",
                 "Zulke vreemde vlekken op mijn <limb>.",
-                "Geïnfecteerd."
+                "Besmet."
             ],
             "limbskin": [
                 "There are several open wounds on my <limb>.",
@@ -6335,7 +6335,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(The note is crumpled up en crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try en bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their eyes were... looked just... empty. i told them to stop en just let me help but they didnt respond. i tried to help a couple more times en theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops en dried bloed riddled among the wrinkled up note.)",
+                "Item1": "(The note is crumpled up en crushed, as if it was meant to be thrown away.)\n<>\nmy friend they... i think they killed themselves. after another bad fall i tried fixing up their legs but they kept telling me off. they kept shooing me away like some sort of fly, telling me to leave them alone. i didnt get it. i left to grab some of the plants here to try en bandage them up but... when i came back they had another wound. one on their arm. i still remember what it looked like, it was bad, practically ripped apart. i tried to use the plants i found to fix up the new wound but they kept pushing me away. their ogen were... looked just... empty. i told them to stop en just let me help but they didnt respond. i tried to help a couple more times en theyd shove me away until they just... stopped. i remember seeing their body relax, i think thats when they stopped breathing. i cant get that image out of my head...\n<>\ndid... did i do something wrong? i swear i didnt... what did i do wrong? why did they do that? i... i didnt do anything. i dont understand, i dont want to die... i dont... i...\n<>\n...\n<>\nhaha...\n<>\nits so lonely in here.\n<>\n(You notice faint, dried tear drops en dried bloed riddled among the wrinkled up note.)",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6555,7 +6555,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "i... i felt myself dying. it was all so sudden, there was bloed everywhere en i couldnt keep my eyes open. i was scared... but i didnt want to give up. i found so many cool things in this place en i feel like ive made so much progress in this mission. im not gonna stop here. i will make it through all of this shit. i will see my friends again.",
+                "Item1": "i... i felt myself dying. it was all so sudden, there was bloed everywhere en i couldnt keep my ogen open. i was scared... but i didnt want to give up. i found so many cool things in this place en i feel like ive made so much progress in this mission. im not gonna stop here. i will make it through all of this shit. i will see my friends again.",
                 "Item2": "Sprites/noteDrawings/laststand",
                 "Item3": "experiment"
             },
@@ -6671,7 +6671,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "eyes hurt. next to a super super bright one. doesnt seem like its doing anything other than... well.. blinding me. dont like it, but i prefer that over whatever other things they can do.",
+                "Item1": "ogen hurt. next to a super super bright one. doesnt seem like its doing anything other than... well.. blinding me. dont like it, but i prefer that over whatever other things they can do.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6723,7 +6723,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy orange vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my eyes afterwards without cleaning my hands. ow.",
+                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy orange vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my ogen afterwards without cleaning my hands. ow.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6744,7 +6744,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMijn efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, en nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the gele bloed was introduced to the latest stable admixture en injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine en rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its eyes are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
+            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMijn efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, en nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the gele bloed was introduced to the latest stable admixture en injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine en rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its ogen are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
             "Item2": ""
         },
         {
