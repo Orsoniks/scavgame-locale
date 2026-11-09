@@ -185,7 +185,9 @@ async function diff(targetVersion, targetLocale, detailLevel)
     approxWords += getPath(enJson, path).split(" ").filter(x => x.length > 0).length;
   }
 
-  console.log(`EN.json keys: ${keysTotal}, character length: ${charLength}, words: ${approxWords}  (${100 - identicalKeys.length / keysTotal}%)`);
+  const completionPercentage = 1 - identicalKeys.length / keysTotal;
+
+  console.log(`EN.json keys: ${keysTotal}, character length: ${charLength}, words: ${approxWords}  (${Math.floor(completionPercentage * 100)}%)`);
 }
 
 // Matches stuff like <color> and \n
