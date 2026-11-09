@@ -2396,7 +2396,7 @@
         "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
         "endsc10": "What's the hold up? Please proceed through the door to your right.",
         "endsc11": "The door behind you. Go through it.",
-        "endsc12": "We don't have all day. Come on. Door to your right.",
+        "endsc12": "We don't have all dag. Come on. Door to your right.",
         "endsc13": "Ugh. Why do I always get the stubborn ones..?",
         "escapealert": "Attention all site personnel. Een type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
         "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
@@ -2640,10 +2640,10 @@
                 "Can't... keep... going...",
                 "Buh... sleep...",
                 "Need to eep... mmm...",
-                "My eyes are closing...",
+                "Mijn eyes are closing...",
                 "I seriously... need sleep...",
                 "I have to... lie down...",
-                "My eyes are so heavy...",
+                "Mijn eyes are so heavy...",
                 "I can't... see straight...",
                 "Just some sleep...",
                 "I'm so... worn out...",
@@ -2662,7 +2662,7 @@
                 "I'm confused...",
                 "Where am I...?",
                 "Augh...",
-                "My head...",
+                "Mijn head...",
                 "I'm gonna pass out...",
                 "Uugh... head... hurty...",
                 "What's?... Huh?...",
@@ -2701,14 +2701,14 @@
                 "Again..."
             ],
             "sick": [
-                "My stomach hurts...",
+                "Mijn stomach hurts...",
                 "I feel sick.",
-                "Ouch... My guts hurt.",
+                "Ouch... Mijn guts hurt.",
                 "I feel nauseous.",
                 "I'm queasy...",
                 "I think I ate something bad...",
                 "I don't feel well...",
-                "My body isn't doing well.",
+                "Mijn body isn't doing well.",
                 "I need a beter diet...",
                 "Ough... Nauseous.",
                 "I'm sick...",
@@ -2716,40 +2716,40 @@
                 "Ghh... stomach...",
                 "I feel ill.",
                 "I need to watch what I eat...",
-                "My body's aching...",
+                "Mijn body's aching...",
                 "I think I'm falling ill.",
                 "I feel bad.",
                 "I don't feel well.",
-                "My belly hurts.",
-                "My stomach feels weird.",
+                "Mijn belly hurts.",
+                "Mijn stomach feels weird.",
                 "I feel like vomiting.",
                 "I'm unwell."
             ],
             "verysick": [
-                "Fuck... My stomach...",
+                "Fuck... Mijn stomach...",
                 "I want to vomit...",
                 "I'm going to vomit.",
-                "My stomach hurts really bad.",
-                "My guts are on fire.",
+                "Mijn stomach hurts really bad.",
+                "Mijn guts are on fire.",
                 "I'm... so sick...",
                 "I'm so nauseous...",
                 "I can't focus at all.",
                 "I feel diseased...",
                 "I think I'm poisoned..",
                 "I ate something really bad.",
-                "My stomach...",
+                "Mijn stomach...",
                 "I feel really unwell.",
                 "I want to pass out.",
                 "I feel sick to my stomach...",
                 "This illness... hurts...",
-                "My body is aching so bad...",
+                "Mijn body is aching so bad...",
                 "I want to throw up.",
                 "I will throw up...",
                 "I think I'm about to vomit...",
-                "My abdomen hurts a lot.",
+                "Mijn abdomen hurts a lot.",
                 "I feel terrible.",
                 "I'm poisoned.",
-                "Fuuuuckk... My stomach..."
+                "Fuuuuckk... Mijn stomach..."
             ],
             "vomit": [
                 "Bluughh... uughh...",
@@ -2770,7 +2770,7 @@
                 "Ff.... Fuck... ugh...",
                 "Wow... just... threw up...",
                 "Ghhuhh... empty... stomach...",
-                "My body's... revolting...",
+                "Mijn body's... revolting...",
                 "This isn't... ghghuh... going great...",
                 "Fuck me... Ough... Damn it..."
             ],
@@ -2917,51 +2917,51 @@
             ],
             "limbmuscle": [
                 "I can't move my <limb>!",
-                "My <limb> hurts...",
+                "Mijn <limb> hurts...",
                 "I think my <limb> is hurt.",
                 "I need a check-up.",
                 "I think I really messed up my <limb>.",
-                "My <limb>'s so sore...",
-                "My <limb>'s screwed.",
+                "Mijn <limb>'s so sore...",
+                "Mijn <limb>'s screwed.",
                 "I messed my <limb> up bad.",
                 "Is my <limb> supposed to feel like that?",
                 "There's something wrong with my <limb>...",
-                "Ough! My <limb> feels weird!",
-                "My <limb> feels funny.",
-                "My <limb> isn't working."
+                "Ough! Mijn <limb> feels weird!",
+                "Mijn <limb> feels funny.",
+                "Mijn <limb> isn't working."
             ],
             "limbinfected": [
-                "My <limb> looks all swollen...",
-                "My <limb> feels really weird.",
+                "Mijn <limb> looks all swollen...",
+                "Mijn <limb> feels really weird.",
                 "I think I caught something...",
                 "Something's up with my <limb>.",
-                "My <limb> feels weirdly warm.",
-                "My <limb> feels... diseased.",
-                "My <limb> hurts to the touch.",
+                "Mijn <limb> feels weirdly warm.",
+                "Mijn <limb> feels... diseased.",
+                "Mijn <limb> hurts to the touch.",
                 "I think my <limb> is infected!",
-                "My <limb> feels really weird.",
+                "Mijn <limb> feels really weird.",
                 "There's something wrong with my <limb>...",
-                "My <limb> hurts en feels weird!",
-                "Ough... My <limb> feels bad."
+                "Mijn <limb> hurts en feels weird!",
+                "Ough... Mijn <limb> feels bad."
             ],
             "limbskin": [
-                "My <limb> looks mangled!",
-                "My <limb> is wounded...",
+                "Mijn <limb> looks mangled!",
+                "Mijn <limb> is wounded...",
                 "Is my <limb> supposed to look like that?",
                 "I need to bandage up my <limb>!",
-                "My <limb> feels exposed... I could get infected...",
+                "Mijn <limb> feels exposed... I could get infected...",
                 "I really tore my fur up...",
                 "I need to take care of my <limb>... it looks terrible.",
-                "My <limb>'s all torn up.",
+                "Mijn <limb>'s all torn up.",
                 "The fur on my <limb>'s all messed up.",
                 "Messed my <limb> up real bad... Ouch...",
-                "My <limb>'s so sore... Ugh.",
-                "My <limb> is all scratched up...",
+                "Mijn <limb>'s so sore... Ugh.",
+                "Mijn <limb> is all scratched up...",
                 "I feel like my <limb> is going to get infected...",
-                "My <limb> looks hurt.",
-                "My <limb> looks wounded.",
-                "My <limb> isn't looking well...",
-                "My <limb> is all bloedy...",
+                "Mijn <limb> looks hurt.",
+                "Mijn <limb> looks wounded.",
+                "Mijn <limb> isn't looking well...",
+                "Mijn <limb> is all bloedy...",
                 "Goodness gracious! I appear to have mistaken my calculations en now my <limb> is fully yellow! Oh dear god! What do I do now!"
             ],
             "sad": [
@@ -2983,7 +2983,7 @@
                 "This is my life now.",
                 "Just keep moving.",
                 "Getting a little tired of this.",
-                "Not my lucky day.",
+                "Not my geluksdag.",
                 "I can't let all of this get to me...",
                 "Things are just rough sometimes... Yeah...",
                 "Ugh.",
@@ -3010,7 +3010,7 @@
                 "Ugh... this sucks...",
                 "I'm not content with this.",
                 "This can't get any worse.",
-                "My patience is being tested...",
+                "Mijn patience is being tested...",
                 "What's gonna happen now?...",
                 "Can't give up yet...",
                 "I have no luck at this point.",
@@ -3192,7 +3192,7 @@
                 "That's it. I've FUCKING had it. I'm finally doing this... Peace. Fucking PEACE. I'm OUT.",
                 "I have made the conscious decision to end my life, right here en right now. Farewell, dipshits.",
                 "I told you... I TOLD YOU. Piece of shit... Fuck... Burn in the fucking depths of hell.",
-                "I'll do beter as a rotting corpse. My life ended the moment I was sent here. Goodbye.",
+                "I'll do beter as a rotting corpse. Mijn life ended the moment I was sent here. Goodbye.",
                 "This is for fucking EVERYTHING! I'M DONE! AAAHHHH! FUCK ALL OF THIS!",
                 "I'm. I'm just... I'm done. No time for suicide notes. I'm so tired of all of this. Goodbye.",
                 "N... no hard feelings... right?.. hah... I'm... I'm so tired... G-goodnight...",
@@ -3276,13 +3276,13 @@
                 "Need a bandage!",
                 "I don't like bleeding...",
                 "I'm oozing bloed...",
-                "My bloed... ",
+                "Mijn bloed... ",
                 "That's my bloed...",
                 "Oh... that's bloed...",
                 "I need a patch-up.",
                 "Oh! Blood! Shoot!",
                 "Uh... bloed? Not good...",
-                "My bloed, no!",
+                "Mijn bloed, no!",
                 "I need this bandaged. Fast...",
                 "Crap, I'm bleeding!",
                 "Bleeding...",
@@ -3319,7 +3319,7 @@
                 "I-is this it...",
                 "F-fuck... Focus... I can s-salvage this...",
                 "Oh god. Shit. I... I'm scared...",
-                "My vision is all blurry...",
+                "Mijn vision is all blurry...",
                 "Bandage! U-urgent..."
             ],
             "steponglass": [
@@ -3419,7 +3419,7 @@
                 "This is getting boring by now.",
                 "I'm astonished how many of us have died here.",
                 "....",
-                "It's that time of the day again...",
+                "It's that time of the dag again...",
                 "I have a sneaking suspicion this one is dead.",
                 "Fuck.",
                 "What do we have here...",
@@ -3525,7 +3525,7 @@
                 "I'm gonna melt...",
                 "I'm gonna pass out...",
                 "I feel like im smoldering.",
-                "My head's dizzy... It's too hot!",
+                "Mijn head's dizzy... It's too hot!",
                 "I can't think straight with this heat.",
                 "I feel sick from this heat...",
                 "I'm tired of burning up.",
@@ -3564,12 +3564,12 @@
                 "I need to sit down...",
                 "I'm... so tired...",
                 "Wait for a moment...",
-                "My muscles hurt...",
+                "Mijn muscles hurt...",
                 "I can't move...",
                 "I can barely stand...",
                 "I'm gonna collapse at this rate...",
-                "My lungs... uugh...",
-                "My chest hurts... whew...",
+                "Mijn lungs... uugh...",
+                "Mijn chest hurts... whew...",
                 "Gosh... I'm worn out...",
                 "Just... need a minute...",
                 "Gotta... take a break...",
@@ -3613,7 +3613,7 @@
                 "This kind of weight loss might end very badly for me at this point.",
                 "I really need to eat more...",
                 "I'm way too skinny... This can't be good for me.",
-                "My figure is so lean...",
+                "Mijn figure is so lean...",
                 "I'm like a low calorie diet drink."
             ],
             "obese": [
@@ -3707,18 +3707,18 @@
                 "I'm-... Suffocating!...",
                 "Ahk! Cough!",
                 "Need... Air!...",
-                "M-My... neck!...",
+                "M-Mijn... neck!...",
                 "I can't.... Cough! Hack!",
                 "Help- Ack! Cough!",
                 "H-help...",
-                "My... chest...",
-                "My... chest- Cough! Hack!",
-                "My lungs...",
+                "Mijn... chest...",
+                "Mijn... chest- Cough! Hack!",
+                "Mijn lungs...",
                 "*gasping*",
                 "I feel like I'm dying...",
                 "I'm gonna... pass out...",
                 "Can't... breathe...",
-                "My insides..."
+                "Mijn insides..."
             ],
             "pain": [
                 "Ow!",
@@ -3732,7 +3732,7 @@
                 "Ough!",
                 "Ack!",
                 "This... hurts!",
-                "My <limb>... Ouch...",
+                "Mijn <limb>... Ouch...",
                 "Ow! Ugh...",
                 "Fffhhh... hurts...",
                 "That- hurts!",
@@ -3743,26 +3743,26 @@
                 "Owww!",
                 "Ow...",
                 "I ache...",
-                "My <limb> hurts...",
-                "Ouch! My <limb>!",
-                "My <limb>!!",
-                "My <limb>'s hurting...",
-                "My <limb>'s... screwed...",
-                "Ack! My <limb>!",
-                "My <limb> hurts!",
-                "Oww... My <limb>...",
-                "My <limb>'s in a lot of pain...",
-                "Ouch... My <limb>!",
-                "Gah! Damn it! My <limb>!",
-                "Damn... My <limb>!",
-                "My <limb>...",
-                "My <limb>'s aching...",
-                "This hurts... Ouch... My <limb>!",
+                "Mijn <limb> hurts...",
+                "Ouch! Mijn <limb>!",
+                "Mijn <limb>!!",
+                "Mijn <limb>'s hurting...",
+                "Mijn <limb>'s... screwed...",
+                "Ack! Mijn <limb>!",
+                "Mijn <limb> hurts!",
+                "Oww... Mijn <limb>...",
+                "Mijn <limb>'s in a lot of pain...",
+                "Ouch... Mijn <limb>!",
+                "Gah! Damn it! Mijn <limb>!",
+                "Damn... Mijn <limb>!",
+                "Mijn <limb>...",
+                "Mijn <limb>'s aching...",
+                "This hurts... Ouch... Mijn <limb>!",
                 "There's something really wrong with my <limb>.",
                 "I need something to ease the pain...",
-                "Let's take it easy for a while... My <limb> hurts real bad.",
-                "Fuck- Wait... My <limb>... Awh...",
-                "My <limb> is so sore..."
+                "Let's take it easy for a while... Mijn <limb> hurts real bad.",
+                "Fuck- Wait... Mijn <limb>... Awh...",
+                "Mijn <limb> is so sore..."
             ],
             "hitgroundhard": [
                 "Agh!",
@@ -3864,7 +3864,7 @@
                 "I'm dripping wet.",
                 "I hate this wet feeling.",
                 "Let's not get drenched next time...",
-                "My fur's all wet en sticky...",
+                "Mijn fur's all wet en sticky...",
                 "Very damp in here.",
                 "Way too moist in here!",
                 "Get this water off of my skin."
@@ -3874,7 +3874,7 @@
                 "I really need a bath.",
                 "I'm covered in bog.",
                 "I'm all covered in dirt.",
-                "Eugh... My fur is all dirty.",
+                "Eugh... Mijn fur is all dirty.",
                 "I think I need a shower.",
                 "It might just be me, but I think I'm starting to smell.",
                 "All this dirt on me... I feel like an animal.",
@@ -3889,7 +3889,7 @@
                 "I'm pretty sure those lifepods have showers in them... I really could use one.",
                 "How'd I get so dirty?",
                 "Gosh, I am COVERED in gunk!",
-                "My fur is so yucky!",
+                "Mijn fur is so yucky!",
                 "Guh! I'm completely covered in filth.",
                 "There's soot in my fur.",
                 "I feel filthy. I really need a bath, or something...",
@@ -3927,8 +3927,8 @@
             ],
             "loud": [
                 "FUCK! That was loud...",
-                "GAH! Crap! My ears!",
-                "AHHH! Fuck... My ears are ringing...",
+                "GAH! Crap! Mijn ears!",
+                "AHHH! Fuck... Mijn ears are ringing...",
                 "CRAP! ... Ouuchhh... That was so loud...",
                 "NO!!! Fuck me, man... Aghhh, that was loud..."
             ],
@@ -4362,9 +4362,9 @@
                 "Repulsive.",
                 "Terrible.",
                 "Only slightly preferable to starvation.",
-                "My appetite has been ruined.",
+                "Mijn appetite has been ruined.",
                 "...if I must.",
-                "My taste buds did not enjoy that.",
+                "Mijn taste buds did not enjoy that.",
                 "Not the best culinary decision.",
                 "This will make me sick."
             ],
@@ -4381,14 +4381,14 @@
             "tired": [
                 "Time for rest is fast approaching.",
                 "Een nap will keep me alert.",
-                "My body requires rest.",
+                "Mijn body requires rest.",
                 "Energy reserves are depleting.",
                 "Een quick break is optimal for performance.",
                 "I find myself growing weary. Time for a break.",
                 "Rest will do me well.",
                 "I cannot perform whilst tired. I need a break.",
                 "I require a suitable resting location.",
-                "My consciousness will soon be depleted.",
+                "Mijn consciousness will soon be depleted.",
                 "I require a resting place.",
                 "It's important to find a shelter to rest in."
             ],
@@ -4406,13 +4406,13 @@
             ],
             "confused": [
                 "I feel lichtheaded.",
-                "My eyes are having trouble focusing...",
+                "Mijn eyes are having trouble focusing...",
                 "I despise this confusion.",
                 "Needless disorientation.",
                 "Need to focus...",
-                "My mind is filled with static.",
+                "Mijn mind is filled with static.",
                 "I can't think clearly.",
-                "My mind isn't performing.",
+                "Mijn mind isn't performing.",
                 "What..?"
             ],
             "wakeup": [
@@ -4429,9 +4429,9 @@
             ],
             "sick": [
                 "I am sick.",
-                "My stomach is in a state of unrest.",
+                "Mijn stomach is in a state of unrest.",
                 "I am unwell.",
-                "My body appears repulsed.",
+                "Mijn body appears repulsed.",
                 "Something in my stomach has gone awry.",
                 "It appears I am sick.",
                 "It seems my body is fighting toxins."
@@ -4439,9 +4439,9 @@
             "verysick": [
                 "Will... Expel... Stomach contents...",
                 "Too sick... To function.",
-                "My body... betrays me...",
+                "Mijn body... betrays me...",
                 "Need to discharge.. toxins...",
-                "My stomach... is fighting against me...",
+                "Mijn stomach... is fighting against me...",
                 "I must... Regurgitate...",
                 "It is approaching..."
             ],
@@ -4458,7 +4458,7 @@
                 "Gghh... T-that signifies internal bleeding.",
                 "Hacck... Blood. Bleeding. Inside.",
                 "Uugh... Need.. snoepjement.",
-                "My vomit... *cough* ...tastes of metal.",
+                "Mijn vomit... *cough* ...tastes of metal.",
                 "I-It seems... I've regurgitated bloed..",
                 "Not ideal.",
                 "Ghck... Een sign of an underlying condition."
@@ -4467,7 +4467,7 @@
                 "I am fully satiated.",
                 "I require no more sustenance for the time being.",
                 "This will hold me over for a while.",
-                "My caloric intake is sufficient.",
+                "Mijn caloric intake is sufficient.",
                 "Adequately fed.",
                 "This is well over the calorie norm."
             ],
@@ -4493,8 +4493,8 @@
                 "I require hydration.",
                 "I ought to consume water.",
                 "Hydration would be optimal.",
-                "My throat feels unusually dry. Verdict: Poor hydration.",
-                "Would be wise to prepare the day's water ration ahead of time.",
+                "Mijn throat feels unusually dry. Verdict: Poor hydration.",
+                "Would be wise to prepare the dag's water ration ahead of time.",
                 "I require water.",
                 "Water required."
             ],
@@ -4511,65 +4511,65 @@
                 "Fluid intake is critical for continued survival..."
             ],
             "limbmuscle": [
-                "My <limb> is in an immobile state.",
+                "Mijn <limb> is in an immobile state.",
                 "Hrrr... Hmmh... I am unable to use my <limb>.",
                 "I need to tend to my <limb>.",
                 "I cannot utilize my <limb>.",
-                "My <limb> tingles.",
+                "Mijn <limb> tingles.",
                 "I injured my <limb> badly.",
                 "I must take beter care of myself.",
                 "I must aid my <limb>."
             ],
             "limbinfected": [
-                "My <limb> appears to house an infection.",
-                "My <limb> has become concerningly swollen.",
-                "My <limb> requires urgent disinfection",
+                "Mijn <limb> appears to house an infection.",
+                "Mijn <limb> has become concerningly swollen.",
+                "Mijn <limb> requires urgent disinfection",
                 "The lesion on my <limb> grows.",
                 "I see infection on my <limb>.",
                 "I caught a disease.",
-                "My <limb> is swollen.",
-                "My <limb> is infected.",
-                "My <limb> is turning a concerning color.",
-                "Such weird blotches are visible on my <limb>.",
-                "Infected."
+                "Mijn <limb> is opgezwollen.",
+                "Mijn <limb> is geïnfecteerd.",
+                "Mijn <limb> krijgt een zorgwekkende kleur.",
+                "Zulke vreemde vlekken op mijn <limb>.",
+                "Geïnfecteerd."
             ],
             "limbskin": [
                 "There are several open wounds on my <limb>.",
-                "My <limb> is mangled.",
-                "My <limb> is damaged.",
-                "I have a wound on my <limb>.",
-                "I am wounded.",
-                "My <limb> is wounded.",
+                "Mijn <limb> is verminkt.",
+                "Mijn <limb> is beschadigd.",
+                "Ik heb mijn <limb> gekwetst.",
+                "Ik ben gewond.",
+                "Mijn <limb> is wounded.",
                 "I am covered in bloed.",
                 "I can see the flesh on my <limb>.",
                 "Exposed flesh is present on my body."
             ],
             "sad": [
-                "Let us go already.",
+                "Laat ons toch gewoon gaan.",
                 "I have some concerns about this predicament.",
-                "It could be worse.",
-                "I must keep going.",
-                "I have been through much worse.",
+                "Het kan erger.",
+                "Ik moet blijven gaan.",
+                "Ik heb erger doormaakt.",
                 "Hm.",
                 "Hmmm.",
                 "Mm.",
-                "Such an interessant day.",
-                "This environment promotes social isolation.",
-                "Breathe.",
-                "Everything is going fine.",
-                "How dandy.",
-                "This is my lucky day."
+                "Wat een interessante dag.",
+                "Deze omgeving bevordert sociaale isolatie.",
+                "Adem.",
+                "Alles komt goed.",
+                "Wat geweldig.",
+                "Dit is mijn geluksdag."
             ],
             "gloomy": [
-                "My luck is running thin.",
+                "Mijn luck is running thin.",
                 "I need to keep my chin up.",
-                "This is not my lucky day.",
+                "This is not my geluksdag.",
                 "I am fearful.",
                 "I am becoming tired of these games.",
                 "Een bad predicament.",
                 "Een rapidly declining situation.",
                 "I must improve this.",
-                "My patience is being tested.",
+                "Mijn patience is being tested.",
                 "Discontent.",
                 "I cannot give up on my objective.",
                 "I require entertainment...",
@@ -4591,11 +4591,11 @@
                 "I struggle to see the point.",
                 "I wish for all of this to stop.",
                 "I wish for something to ease my discomfort.",
-                "Suffering.",
-                "Dangerously low morale.",
-                "...I am pathetic, am I not?",
+                "Lijden.",
+                "Gevaarlijk lage moraliteit.",
+                "...Ik ben toch zielig, hè?",
                 "...Help...",
-                "Cruel.",
+                "Wreed.",
                 "I have been sent to my death.",
                 "The coats will pay for this mistreatment.",
                 "These caves are tearing me apart.",
@@ -4605,7 +4605,7 @@
                 "I feel terrible.",
                 "I am mentally unwell.",
                 "I do not believe I will make it through to see the objective.",
-                "My chances of survival are ever lowering.",
+                "Mijn chances of survival are ever lowering.",
                 "This is my life now."
             ],
             "miserable": [
@@ -4692,7 +4692,7 @@
                 "Bad... Bad. Bad!",
                 "Such a t-terrifying sight...",
                 "I am painting the walls yellow.",
-                "My vision slowly fades."
+                "Mijn vision slowly fades."
             ],
             "steponglass": [
                 "I am terribly disappointed in my carelessness.",
@@ -4777,7 +4777,7 @@
             ],
             "cold": [
                 "Cold.",
-                "My body temperature is below average.",
+                "Mijn body temperature is below average.",
                 "The ambient temperature is below the norm.",
                 "*shudder*",
                 "I am cold",
@@ -4788,7 +4788,7 @@
             ],
             "warm": [
                 "Warm.",
-                "My body temperature is above average.",
+                "Mijn body temperature is above average.",
                 "I am sweating.",
                 "I must cool myself.",
                 "An ice pack would prove helpful.",
@@ -4829,13 +4829,13 @@
                 "Drained...",
                 "It is... Difficult... to breathe...",
                 "*cough* *cough*",
-                "My muscless... Are... Giving out...",
+                "Mijn muscless... Are... Giving out...",
                 "Focus..."
             ],
             "freezing": [
                 "I am dangerously hypothermic.",
                 "I must warm myself, quickly.",
-                "My bloed is freezing.",
+                "Mijn bloed is freezing.",
                 "Een heat source is needed...",
                 "I am shivering.",
                 "I need to get to warmth, now.",
@@ -4845,7 +4845,7 @@
                 "I cannot feel my extremities."
             ],
             "emaciated": [
-                "My figure is dangerously frail.",
+                "Mijn figure is dangerously frail.",
                 "I am at risk of heart failure. I must increase my body mass.",
                 "I am extremely malnourished.",
                 "I need to adjust my diet."
@@ -4854,7 +4854,7 @@
                 "I ought to fast.",
                 "...I am puffy.",
                 "I must lower my body mass before it becomes fatal.",
-                "My girth is proving to be an issue.",
+                "Mijn girth is proving to be an issue.",
                 "I am heavy."
             ],
             "opiated": [
@@ -4866,7 +4866,7 @@
                 "It is difficult to focus, yet I enjoy it.",
                 "I enjoy this.",
                 "There are depressants in my system.",
-                "My lungs are heavy."
+                "Mijn lungs are heavy."
             ],
             "opiatedsad": [
                 "Een pleasant, fleeting feeling...",
@@ -4877,7 +4877,7 @@
             "opiatewithdrawal": [
                 "I-I require another dose of opium, urgently.",
                 "I a-am experiencing w-withdrawal symptoms.",
-                "My h-hands are sh-shaking.",
+                "Mijn h-hands are sh-shaking.",
                 "W-withdraw-wal.",
                 "I r-require more opioids.",
                 "Shakey."
@@ -4895,12 +4895,12 @@
             "pain": [
                 "I am in pain.",
                 "Ow.",
-                "My <limb> is sending pain stimuli.",
+                "Mijn <limb> is sending pain stimuli.",
                 "Pain.",
                 "I feel discomfort around my <limb>.",
-                "My <limb> is in pain.",
+                "Mijn <limb> is in pain.",
                 "This feels bad.",
-                "My <limb> aches.",
+                "Mijn <limb> aches.",
                 "Pain stimuli is present.",
                 "Heck.",
                 "Yelp...",
@@ -4951,11 +4951,11 @@
                 "Annoying!"
             ],
             "wet": [
-                "My fur has high water content.",
+                "Mijn fur has high water content.",
                 "I am the moist one.",
                 "I am wet.",
                 "There is an uncomfortable feeling around my body.",
-                "My fur has become wet.",
+                "Mijn fur has become wet.",
                 "Moisture has accumulated on me.",
                 "I have collected moisture on my body surface.",
                 "I am soaked",
@@ -4972,17 +4972,17 @@
                 "I would like to use a shower.",
                 "It would be ideal to take a bath.",
                 "This cannot be hygienic.",
-                "My fur is covered in dirt."
+                "Mijn fur is covered in dirt."
             ],
             "encumbered": [
-                "My limited physical capabilities are showing themselves.",
+                "Mijn limited physical capabilities are showing themselves.",
                 "Are we going on a hike? Why am I carrying so much?",
                 "I am sure these items will be useful in reaching my objective... However, they are heavy.",
                 "This load is very heavy.",
                 "I should not carry this much.",
                 "I am carrying a lot.",
                 "Quite the heavy load on me.",
-                "My spine is not loving this.",
+                "Mijn spine is not loving this.",
                 "I appear to be slightly overloaded."
             ],
             "watchlike": [
@@ -4998,7 +4998,7 @@
                 "Hnnng! Hmhn... I must avoid repeated exposure to such loud noise...",
                 "AAHHHHH!!!  ...I should not have screamed over such a menial occurence.",
                 "!.......",
-                "...My ears."
+                "...Mijn ears."
             ],
             "murderregret": [
                 "....H..Hah... Haha... Ha... Hahaha... Ahhahaha.... Hahhh... H-h..a...",
@@ -5010,7 +5010,7 @@
                 "Greetings.",
                 "Hallo.",
                 "Boo.",
-                "My pleasure to meet you.",
+                "Mijn pleasure to meet you.",
                 "Hallo there.",
                 "Greetings to you."
             ],
@@ -5033,7 +5033,7 @@
                 "The licht at the end of the tunnel has its world rocked by trees.",
                 "Something is wrong with my cranium.",
                 "There is a metallic taste in my mouth",
-                "My head feels weird.",
+                "Mijn head feels weird.",
                 "I am broken.",
                 "Who's Joe...?"
             ],
@@ -5143,7 +5143,7 @@
             "tradermeetnormal": [
                 "Gegroet.",
                 "Hallo.",
-                "My pleasure to meet you.",
+                "Mijn pleasure to meet you.",
                 "Ah! Hallo there!",
                 "Welcome, fellow traveler.",
                 "Greetings to you.",
@@ -5183,7 +5183,7 @@
                 "Thank you for the contribution.",
                 "I'm taking this.",
                 "Useful.",
-                "My pleasure.",
+                "Mijn pleasure.",
                 "I'll make good use of this."
             ],
             "tradergiveitemrefuse": [
@@ -5231,7 +5231,7 @@
             ],
             "traderbuyfailmaxvalue": [
                 "Enough trading for today. You've bought out a lot already.",
-                "I don't wish to thoroughly swap our possessions. Let's call it a day."
+                "I don't wish to thoroughly swap our possessions. Let's call it a dag."
             ],
             "traderthreatensuccess": [
                 "It is not in my interests to get hurt. Take whatever en leave.",
@@ -6397,7 +6397,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, en they put it in a \"cast.\" I did not like it. It was heavy en stopped my arm from moving at all. It seemed they made it worse on purpose, en they made me wear it for a long time.<>\nThey removed it one day, en my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream en cry a lot. One time they hurt themselves, en the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any \"casts\" around it, en their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
+                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, en they put it in a \"cast.\" I did not like it. It was heavy en stopped my arm from moving at all. It seemed they made it worse on purpose, en they made me wear it for a long time.<>\nThey removed it one dag, en my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream en cry a lot. One time they hurt themselves, en the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any \"casts\" around it, en their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -6513,7 +6513,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "Something is wrong with the environment here. In the air, I can feel it- those dilapidated fuel cells make my fur stand on end. My skin flakes when I pass them, en my body burns. Even when I can't see them, I can feel that uneasy sensation building in the air around them. I've had to use my rope spool en even claw through the rocks here to find routes around them, but even then, there are purple stones that seem to carry the same effect, just in different doses.",
+                "Item1": "Something is wrong with the environment here. In the air, I can feel it- those dilapidated fuel cells make my fur stand on end. Mijn skin flakes when I pass them, en my body burns. Even when I can't see them, I can feel that uneasy sensation building in the air around them. I've had to use my rope spool en even claw through the rocks here to find routes around them, but even then, there are purple stones that seem to carry the same effect, just in different doses.",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
@@ -6744,7 +6744,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMy efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, en nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the gele bloed was introduced to the latest stable admixture en injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine en rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its eyes are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
+            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMijn efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, en nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the gele bloed was introduced to the latest stable admixture en injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine en rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its eyes are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
             "Item2": ""
         },
         {
@@ -6796,11 +6796,11 @@
             "Item2": ""
         },
         {
-            "Item1": "[ARCHIVED CHAT, ID:LUXRJGY4]\n[DR. ██████, ENG. ████████]<>\n\n> I tell you, whoever started that plushie line has a great sense of humor. My daughter is obsessed with them. They're a lot cuter than the real things though.  Hahaha! If the shit we're doing ever gets leaked, people would be like 'What, like the plushies?' Hahaha! You think they'd even believe it? \n\n> Yea, wonder what a real stuffed SAW would look like, LMAO. Doubt your daughter would be too happy with that one.\n\n> You never know! Hahaha!",
+            "Item1": "[ARCHIVED CHAT, ID:LUXRJGY4]\n[DR. ██████, ENG. ████████]<>\n\n> I tell you, whoever started that plushie line has a great sense of humor. Mijn daughter is obsessed with them. They're a lot cuter than the real things though.  Hahaha! If the shit we're doing ever gets leaked, people would be like 'What, like the plushies?' Hahaha! You think they'd even believe it? \n\n> Yea, wonder what a real stuffed SAW would look like, LMAO. Doubt your daughter would be too happy with that one.\n\n> You never know! Hahaha!",
             "Item2": ""
         },
         {
-            "Item1": "[SUBJECT] My Awesome New Invention\n[FROM] Dr. ████\n[TO] Lead Engineer ████████<>\n\nIt's called: the EXCRUCIATOR!\n\nI took the brain implant tech from the project that you've been working on, but instead of reading nerve impulses, I sent them instead. After some tweaking, it's capable of making you feel literally the most pain physically possible! I actually expected the test subjects to become desensitized to it at some point, but they never did!\n\nThis could be incredible for the criminal justice system. It's always been a problem to know if someone's suffered enough. Well now you can! I've done loads of tests on the SAWs, en simply seeing the EXCRUCIATOR applied was enough to dissuade disobedience in the whole group. \n\nCan we get this into production ASAP?",
+            "Item1": "[SUBJECT] Mijn Awesome New Invention\n[FROM] Dr. ████\n[TO] Lead Engineer ████████<>\n\nIt's called: the EXCRUCIATOR!\n\nI took the brain implant tech from the project that you've been working on, but instead of reading nerve impulses, I sent them instead. After some tweaking, it's capable of making you feel literally the most pain physically possible! I actually expected the test subjects to become desensitized to it at some point, but they never did!\n\nThis could be incredible for the criminal justice system. It's always been a problem to know if someone's suffered enough. Well now you can! I've done loads of tests on the SAWs, en simply seeing the EXCRUCIATOR applied was enough to dissuade disobedience in the whole group. \n\nCan we get this into production ASAP?",
             "Item2": ""
         },
         {
@@ -6808,7 +6808,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[OPERATIONS OVERSIGHT]\n[INCIDENT REPORT, CASE ID:YVLVH4EB]\n[EVIDENCE ITEM #54]\n<>\nI can't do it anymore.\nWhat we're doing is wrong. It's evil.\n\nI've been here since before the █████████ incident. It didn't use to be like this. They only hire psychopaths now, but I wasn't any better. I used the SAW specimens like everyone else. The progress we made was so easy it was intoxicating. I told myself that it was for the good of mankind, that they weren't like us.<>\n\nI was assigned a SAW-01 for long term testing on implants. I was cold at first, but to them it was the best part of their day. They never complained. It must've been a year. Talking during our checkups slowly became normal. I invented reasons to broaden the trials. I never even knew Experiments could smile until then. They weren't very smart, but they started to help me around my office.<>\n\nI worked with them for fourteen years. Then, they were taken from me. I'd already extended the research as far as I could. I tried, I really tried. I sat in my office, refreshing the SAW ledger over en over until it happened. Their ID's status switched to deceased. All the humanity I'd suppressed tore through me like a vengeful spirit en destroyed me.<>\n\nIn this EPDEen you will find all the evidence necessary to take the company down.  \nI pray this works en it finds its way into the hands of the press.\n\nI am so sorry, Mason.\nSo so sorry...\n<>\n> UPDATE CASE STATUS: <>RESOLVED",
+            "Item1": "[OPERATIONS OVERSIGHT]\n[INCIDENT REPORT, CASE ID:YVLVH4EB]\n[EVIDENCE ITEM #54]\n<>\nI can't do it anymore.\nWhat we're doing is wrong. It's evil.\n\nI've been here since before the █████████ incident. It didn't use to be like this. They only hire psychopaths now, but I wasn't any better. I used the SAW specimens like everyone else. The progress we made was so easy it was intoxicating. I told myself that it was for the good of mankind, that they weren't like us.<>\n\nI was assigned a SAW-01 for long term testing on implants. I was cold at first, but to them it was the best part of their dag. They never complained. It must've been a year. Talking during our checkups slowly became normal. I invented reasons to broaden the trials. I never even knew Experiments could smile until then. They weren't very smart, but they started to help me around my office.<>\n\nI worked with them for fourteen years. Then, they were taken from me. I'd already extended the research as far as I could. I tried, I really tried. I sat in my office, refreshing the SAW ledger over en over until it happened. Their ID's status switched to deceased. All the humanity I'd suppressed tore through me like a vengeful spirit en destroyed me.<>\n\nIn this EPDEen you will find all the evidence necessary to take the company down.  \nI pray this works en it finds its way into the hands of the press.\n\nI am so sorry, Mason.\nSo so sorry...\n<>\n> UPDATE CASE STATUS: <>RESOLVED",
             "Item2": ""
         },
         {
@@ -6840,15 +6840,15 @@
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: Insight into Religious Thinking]\n[Psychologist, Dr. ███████]<>\n\nIt is fascinating how the rational mind attempts to create sense where there is none. We put two SAW subjects into an isolated room. They were chosen at random, en at first they seemed relieved, but after the first day they began apologizing to the camera for things they first did, en then didn't do. Food was supplied at random intervals.\n\nThe rituals of apology en pleading that they invented to an assumed audience were intriguing. They seemed to genuinely believe it affected the outcome of a random system. The portions were intentionally insufficient; we were curious to see if they would turn on each other. This did not happen.<>\n\nOn the verge of starvation, the system happened to reward them twice in a row. They assumed their prayers had been answered. With this conditioning, the next time they were starving, instead of succumbing, they repeatedly prayed until they physically collapsed en died.\n\nI would like to repeat this experiment with different group sizes, as well as with en without the camera.",
+            "Item1": "[PROJECT MEMO: Insight into Religious Thinking]\n[Psychologist, Dr. ███████]<>\n\nIt is fascinating how the rational mind attempts to create sense where there is none. We put two SAW subjects into an isolated room. They were chosen at random, en at first they seemed relieved, but after the first dag they began apologizing to the camera for things they first did, en then didn't do. Food was supplied at random intervals.\n\nThe rituals of apology en pleading that they invented to an assumed audience were intriguing. They seemed to genuinely believe it affected the outcome of a random system. The portions were intentionally insufficient; we were curious to see if they would turn on each other. This did not happen.<>\n\nOn the verge of starvation, the system happened to reward them twice in a row. They assumed their prayers had been answered. With this conditioning, the next time they were starving, instead of succumbing, they repeatedly prayed until they physically collapsed en died.\n\nI would like to repeat this experiment with different group sizes, as well as with en without the camera.",
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device en told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them. It lichts up my face en the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lichts in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that day's task. None of those tonight at least.\n\nThe others are complaining about the licht from the screen. I'll continue this when the lichts come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lichts come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute en wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, en we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every day en put something in my arm. It made me feel really, really good, but then it stopped en I felt like I was dying. I hope you give me more tests like that!<>",
+            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 1 OF 2]\n[ENTRY #1]<>\n\nI was given this device en told to keep a journal. I am not sure why, but it's not a good idea to disobey, so I will tell you about my life.\n\nIt feels weird to hold one of these \"EPDAs\" since I only see you carrying them. It lichts up my face en the others are curious. It's so dark that all we can see are the glows of each other's eyes. When the lichts in our room go out, we're expected to sleep. If you're not in your nook when that happens you'll usually end up tripping over something, or someone too weak to move after that dag's task. None of those tonight at least.\n\nThe others are complaining about the licht from the screen. I'll continue this when the lichts come back on.<>\n\n[ENTRY #2]\nMost of us wake up when the lichts come on, but only the ones who are really hurt sleep through the food buzzer. We crowd around the chute en wait our turn. \nIt's usually nutrient bars, but sometimes we get something really tasty. Some of us get special meals just for them. The younger ones get jealous, but I've seen the meals do weird things. If someone tries to steal or switch meals, they get punished. Not a good idea.\n\nAnd there's the buzzer!<>\n\n[ENTRY #3]\nAfter our first meal, you come to pick us up. You call us out by number, en we have to go. Then you take us away. It's scary leaving our enclosure. I sometimes see other enclosures as I'm led away. I wish I could talk to them, but they can't hear or see me through the glass. I once saw one filled with others that looked just like us, but they all seemed... empty. It really scared me. I tried to ask why they were like that, but one of you hit me.<>\n\nFour were chosen today. I was left behind this time, maybe because I'm busy with this. They were all healthy, but that means it's more likely they come back hurt. Usually the tasks are harmless, but sometimes they're really bad. They can even be good if we're lucky. I had one where they'd pull me in every dag en put something in my arm. It made me feel really, really good, but then it stopped en I felt like I was dying. I hope you give me more tests like that!<>",
             "Item2": ""
         },
         {
-            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few days, it's rare that they ever come back. Then the guards come in en take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, en I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, en sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what days en nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a day. I know there's an \"outside\" en apparently it's really big. The lichts come on en off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[ENTRY #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight en my number was just called<>\n\ni will write more when i get ba<>\n[END]",
+            "Item1": "[PROJECT MEMO: \"Een Day in the Life\"]\n[PAGE 2 OF 2]\n[ENTRY #4]<>\nIt's quiet. In times like this, we mostly just rest, or help the ones who are hurt. We're given a few things to help us pass the time. Sometimes the younger ones fresh from the nursery actually look forward to being chosen. The older ones don't always tell them, but they learn eventually.\n\nIt can be a really anxious time if I'm friends with any of the ones that were taken. If anyone's gone for more than a few dags, it's rare that they ever come back. Then the guards come in en take away their things. Sometimes they'll let us keep one or two items if they were your friend.<>\n\n[ENTRY #5]\nIt's dinner time, en I got meat!\nI thought the others were going to fight me for it. I had to eat it really fast. I wish I had more time to savor it, but after everyone's back, we spend time talking, playing, en sometimes singing. It's rare for someone to take us away after dinner, so we get comfortable. Some people talk about what tests they were taken in for, but most of us keep it to ourselves.<>\n\n[ENTRY #6]\nI sometimes wonder what dags en nights are. There's things we learn from overhearing you, or the books you give us to read. I don't know why there's 24 hours in a dag. I know there's an \"outside\" en apparently it's really big. The lichts come on en off just like in here, but someone other than you controls it, plus the ceiling is so high up you can't see it. Some of the older ones tell me weird things they heard, but I don't know if I believe it.<>\n\n[ENTRY #7]\nshit\nmy hands are shaking its difficult to type\nthey announced extra tests tonight en my number was just called<>\n\ni will write more when i get ba<>\n[END]",
             "Item2": ""
         }
     ],
@@ -6877,7 +6877,7 @@
             "Always watching.",
             "And so it stopped...",
             "Got something on your mind?",
-            "I can wait all day.",
+            "I can wait all dag.",
             "The world has stopped. It's quiet.",
             "Make sure to stretch your legs.",
             "I have all the time I need. Same cannot be said about you.",
