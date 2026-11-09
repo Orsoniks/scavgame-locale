@@ -111,8 +111,8 @@
         "brokenbagdsc": "An old, heavily worn school bag. The straps are torn and unusable, rendering the bag unwearable.",
         "box": "Cardboard box",
         "boxdsc": "A medium-sized cardboard box.",
-        "toolbox": "Toolbox",
-        "toolboxdsc": "A big, heavy steel box, made to hold gereedschap.",
+        "toolbox": "Gereedschapskist",
+        "toolboxdsc": "Een grote, zware metalen doos, gemaakt om gereedschap te dragen.",
         "medkit": "Med-kit",
         "medkitdsc": "A small box which can efficiently hold various medicines.",
         "scaffoldingpack": "Scaffolding pack",
@@ -152,7 +152,7 @@
         "banana": "Banana",
         "bananadsc": "A tasty yellow fruit, seemingly from another planet. Slightly radioactive.",
         "burger": "Burger",
-        "burgerdsc": "A big, tasty snack. Fills both your tummy and soul!",
+        "burgerdsc": "Een grote, tasty snack. Fills both your tummy and soul!",
         "pancake": "Pancakes",
         "pancakedsc": "A layered flat, sweet batter cooked on a hot surface, covered in syrup. Might get into your fur. Tasty!",
         "pizzaslice": "Pizza slice",
@@ -252,7 +252,7 @@
         "minilaserdrill": "Mini laser drill",
         "minilaserdrilldsc": "A small, consumer-grade laser drill. Not the best at digging, but uses no stamina.",
         "heavydrill": "Heavy drill",
-        "heavydrilldsc": "A big, heavy, mechanical handheld drill. Very efficient, though lacks range.",
+        "heavydrilldsc": "Een grote, heavy, mechanical handheld drill. Very efficient, though lacks range.",
         "pickaxe": "Pickaxe",
         "pickaxedsc": "A tool specially crafted to dig rock. Very efficient at removing terrain, though slow.",
         "titaniumpickaxe": "Titanium pickaxe",
@@ -268,7 +268,7 @@
         "wooddiggingtool": "Wooden digging tool",
         "wooddiggingtooldsc": "A piece of sharpened wood on a stick. Barely better at digging than claws.",
         "machete": "Machete",
-        "machetedsc": "A big, broad metal blade. Would do well in melee combat. You feel uneasy holding it.\n\n<color=\"red\">Can be used in the health panel to amputate limbs.",
+        "machetedsc": "Een grote, broad metal blade. Would do well in melee combat. You feel uneasy holding it.\n\n<color=\"red\">Can be used in the health panel to amputate limbs.",
         "crudecleaver": "Crude cleaver",
         "crudecleaverdsc": "Cobbled together metal cleaver, with a blade nailed onto the handle. Would do well in crafting. You feel uneasy holding it.\n\n<color=\"red\">Can be used in the health panel to amputate limbs.",
         "sickle": "Metal sickle",
@@ -364,7 +364,7 @@
         "bandolier": "Bandolier",
         "bandolierdsc": "A pocketed belt that goes over your shoulder, made to hold ammunition. Can hold firearm rounds.",
         "bellyarmor": "Belly armor",
-        "bellyarmordsc": "A big piece of metal, made to be strapped on your abdomen. Provides great protection, and some insulation.",
+        "bellyarmordsc": "Een grote piece of metal, made to be strapped on your abdomen. Provides great protection, and some insulation.",
         "belt": "Riem",
         "beltdsc": "Een lederen riem die rond je middel gaat. Kan enkel gereedschap vast houden.",
         "traumarig": "Trauma rig",
@@ -779,7 +779,7 @@
         "scrapeater": "Scrap-eater",
         "scrapeaterdsc": "It has a label on it that reads \"Insert scrap to open\", with a small monitor next to it displaying <color=#ffffff>\"<>%\".",
         "shuttledoor": "Shuttle door",
-        "shuttledoordsc": "A big piece of metal to keep outside things outside and inside things, inside.",
+        "shuttledoordsc": "Een grote piece of metal to keep outside things outside and inside things, inside.",
         "shuttleelevator": "Shuttle elevator",
         "shuttleelevatordsc": "The time you've spent sitting on this thing makes up a concerning percent of your entire lifetime.",
         "SoothingCrystal": "Soothing Crystal",
@@ -3325,7 +3325,7 @@
             "steponglass": [
                 "Let's clear up the glass shards next time...",
                 "I think that was glass I stepped on...",
-                "There's a big glass shard in my paw.",
+                "There's Een grote glass shard in my paw.",
                 "Can we please avoid stepping on broken glass?",
                 "That was horribly careless of me.",
                 "I need to clean up any broken glass I procure.",
@@ -6290,7 +6290,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "dont always trust the barrels of liquid lying around. got my hands on a big minibarrel of what i thought was lemonade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very sick and my hair started falling out",
+                "Item1": "dont always trust the barrels of liquid lying around. got my hands on Een grote minibarrel of what i thought was lemonade, but one bitter sip was enough to tell me that it wasnt. i tried to wash it down with another barrel of water, but the water made me very sick and my hair started falling out",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -6414,7 +6414,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(There is a poorly made drawing of what looks to be one of your captors. They are holding what you can make out as a taser. Their face is scratched out with a big X. The weapon brings back horrible memories.)",
+                "Item1": "(There is a poorly made drawing of what looks to be one of your captors. They are holding what you can make out as a taser. Their face is scratched out with Een grote X. The weapon brings back horrible memories.)",
                 "Item2": "Sprites/noteDrawings/scientist",
                 "Item3": ""
             },
@@ -6565,7 +6565,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "I want to leave this place, I am terrorized, I don't have words to describe what I just experienced, it was a big, horrid creature with hundreds of teeth, ready to devour me, it chase after me for what I've felt hours, it destroys everything on its path. It stopped only after I've went so far away that I was completely lost, it drained my food, water, gereedschap, even my own sanity, I just want this to end.",
+                "Item1": "I want to leave this place, I am terrorized, I don't have words to describe what I just experienced, it was Een grote, horrid creature with hundreds of teeth, ready to devour me, it chase after me for what I've felt hours, it destroys everything on its path. It stopped only after I've went so far away that I was completely lost, it drained my food, water, gereedschap, even my own sanity, I just want this to end.",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "milky"
             }
