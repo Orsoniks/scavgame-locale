@@ -52,9 +52,9 @@ async function main()
     process.exit(0);
   }
 
-  let targetVersion = process.argv.length >= 3 ? process.argv[2] : await rl.question('Game version to check against (empty for latest from repo): ');
-  let targetLocale = process.argv.length >= 4 ? process.argv[3] : await rl.question('Path to locale (e.g. demo/ko-KR.json): ');
-  let detailLevel = parseInt(process.argv.length >= 5 ? process.argv[4] : await rl.question('Detail level (0-2): '));
+  const targetVersion = process.argv.length >= 3 ? process.argv[2] : await rl.question('Game version to check against (empty for latest from repo): ');
+  const targetLocale = process.argv.length >= 4 ? process.argv[3] : await rl.question('Path to locale (e.g. demo/ko-KR.json): ');
+  const detailLevel = parseInt(process.argv.length >= 5 ? process.argv[4] : await rl.question('Detail level (0-2): '));
 
   if (!targetLocale.endsWith(".json"))
     targetLocale += ".json";
