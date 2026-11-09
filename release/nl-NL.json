@@ -384,7 +384,7 @@
         "jetpack": "Jetpack",
         "jetpackdsc": "Een device worn as a backpack which uses jets to propel the wearer through the air. Has limited fuel en will be impaired while wet. Hold [Up] to use. It also has a little pocket to store things inside.",
         "dynamite": "Dynamite",
-        "dynamitedsc": "An explosive made of nitroglycerin, sorbents, en stabilizers. Goed for making holes in the terrain. Not very good for your ears.",
+        "dynamitedsc": "An explosive made of nitroglycerin, sorbents, en stabilizers. Goed for making holes in the terrain. Not very good for your oren.",
         "climbingclaws": "Climbing claws",
         "climbingclawsdsc": "Een pair of steel claws that go over your hands, specifically designed to attach to walls effectively. Grants you the ability to walljump on the same wall indefinitely.",
         "plasmacutter": "Plasma cutter",
@@ -1174,9 +1174,9 @@
         "happy3dsc": "You've found peace in this strange land.",
         "happy4dsc": "You're at the top of the world, shaping the way forward at your will. Nothing can stop you!",
         "impairedspeechdsc": "Something is making speaking difficult... You might have trouble communicating with others.",
-        "deaf2dsc": "You can't hear those high frequencies as well as before. Let your ears rest for a while.",
+        "deaf2dsc": "You can't hear those high frequencies as well as before. Let your oren rest for a while.",
         "deaf3dsc": "Everything sounds very muffled en echo-y. You feel irritated. This may take a bit.",
-        "deaf4dsc": "You can barely hear anything. You feel very irritated. Your ears will take a good while to improve.",
+        "deaf4dsc": "You can barely hear anything. You feel very irritated. Your oren will take a good while to improve.",
         "encumbered1dsc": "Carrying a bit much for comfort. <> encumbrance.",
         "encumbered2dsc": "Carrying too much. Stamina en mobility decreased. Passively gain STR/RES. <> encumbrance.",
         "encumbered3dsc": "Carrying way too much. Stamina en mobility highly decreased. Passively gain STR/RES. <> encumbrance.",
@@ -3431,7 +3431,7 @@
                 "This one looks silly...",
                 "They're smiling at me!",
                 "Hey.",
-                "Hallo there!",
+                "Hallo daar!",
                 "Such generosity.",
                 "I'd be grave robbing if this guy had a funeral.",
                 "...And. Dat, ladies en gentlemen... Is another corpse.",
@@ -3927,8 +3927,8 @@
             ],
             "loud": [
                 "FUCK! Dat was loud...",
-                "GAH! Crap! Mijn ears!",
-                "AHHH! Fuck... Mijn ears are ringing...",
+                "GAH! Crap! Mijn oren!",
+                "AHHH! Fuck... Mijn oren are ringing...",
                 "CRAP! ... Ouuchhh... Dat was so loud...",
                 "NO!!! Fuck me, man... Aghhh, that was loud..."
             ],
@@ -4942,25 +4942,25 @@
                 "Dat can't be good."
             ],
             "hitbycreature": [
-                "Damn critter!!",
-                "AGH! You!",
+                "Verdommd beest!!",
+                "AGH! Jij!",
                 "Hngh! Refrain!",
-                "*gasp*",
+                "*snik*",
                 "Hhhnn! No you do not!",
-                "Piece of...!",
-                "Annoying!"
+                "Stuk str...!",
+                "Vervelend!"
             ],
             "wet": [
                 "Mijn fur has high water content.",
-                "I am the moist one.",
-                "I am wet.",
+                "Ik ben vochtig.",
+                "Ik ben nat.",
                 "There is an uncomfortable feeling around my body.",
                 "Mijn fur has become wet.",
                 "Moisture has accumulated on me.",
                 "I have collected moisture on my body surface.",
-                "I am soaked",
+                "Ik ben doorweekt",
                 "Please remove this fluid from the surface of my body.",
-                "I am covered in liquid."
+                "Ik ben bedekt met vloeistof."
             ],
             "dirty": [
                 "I must clean myself in order to avoid complications.",
@@ -4998,7 +4998,7 @@
                 "Hnnng! Hmhn... I must avoid repeated exposure to such loud noise...",
                 "AAHHHHH!!!  ...I should not have screamed over such a menial occurence.",
                 "!.......",
-                "...Mijn ears."
+                "...Mijn oren."
             ],
             "murderregret": [
                 "....H..Hah... Haha... Ha... Hahaha... Ahhahaha.... Hahhh... H-h..a...",
@@ -5007,21 +5007,21 @@
                 "I did not... Mean to..."
             ],
             "tradeemeet": [
-                "Greetings.",
+                "Gegroet.",
                 "Hallo.",
-                "Boo.",
-                "Mijn pleasure to meet you.",
-                "Hallo there.",
-                "Greetings to you."
+                "Boe.",
+                "Het is mij een genoegen u te ontmoeten.",
+                "Hallo daar.",
+                "Hartelijke groeten."
             ],
             "swingresponse": [
-                "QUIT. IT!",
+                "STOP. ERMEE!",
                 "STOP!",
-                "IMBECILE!",
-                "TROGLODYTE!",
-                "STOP RESISTING!",
-                "JUST STERF ALREADY!",
-                "GIVE IT UP!"
+                "IMBECIEL!",
+                "TROGLODIET!",
+                "STOP MET TEGENWERKEN!",
+                "STERF GEWOON!",
+                "GEEF HET OP!"
             ],
             "braindamaged": [
                 "...Something is wrong.",
@@ -5064,7 +5064,7 @@
                 "All according to plan. It appears the objective is within reach. I must focus."
             ],
             "cargo1": [
-                "...Odd."
+                "...Vreemd."
             ],
             "cargo2": [
                 "At lang last, I have... H-H... What..?"
@@ -5144,9 +5144,9 @@
                 "Gegroet.",
                 "Hallo.",
                 "Mijn pleasure to meet you.",
-                "Ah! Hallo there!",
+                "Ah! Hallo daar!",
                 "Welcome, fellow traveler.",
-                "Greetings to you.",
+                "Hartelijke groeten.",
                 "Welcome.",
                 "Nice to meet you!",
                 "I hope all is well."
@@ -5178,13 +5178,13 @@
                 "You were sleeping like a puppy, haha..."
             ],
             "tradergiveitem": [
-                "Thank you.",
-                "Dat'll come in useful.",
-                "Thank you for the contribution.",
-                "I'm taking this.",
-                "Useful.",
-                "Mijn pleasure.",
-                "I'll make good use of this."
+                "Dankjewel.",
+                "Dat zal handig zijn.",
+                "Bedankt voor de bijdrage.",
+                "Ik neem dit.",
+                "Bruikbaar.",
+                "Mijn genoege.",
+                "Ik zal hier goed gebruik van maken."
             ],
             "tradergiveitemrefuse": [
                 "This is enough for now. I have no more space for these trinkets.",
@@ -5201,20 +5201,20 @@
                 "Affirmative..."
             ],
             "traderhagglefail": [
-                "How about no?",
-                "I'm not a damn charity.",
+                "Wat dacht je van niet?",
+                "Ik ben geen verdomde liefdadigheidsinstelling.",
                 "I only accept facts en logic, not uncoordinated pleas.",
-                "No.",
+                "Nee.",
                 "Dat was the worst argument I've ever heard.",
                 "I have to deny your appeal.",
-                "Negative.",
-                "No exceptions, sorry."
+                "Negatief.",
+                "Geen uitzonderingen, sorry."
             ],
             "traderbuy": [
-                "No refunds.",
-                "Here you are.",
-                "Don't break it.",
-                "Goed luck with this.",
+                "Geen geld terug.",
+                "Hier ben je.",
+                "Maak het niet kapot.",
+                "Veel geluk hiermee.",
                 "I hope you know how to use this.",
                 "Hope it'll be useful.",
                 "Here's your reward."
@@ -6744,7 +6744,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMijn efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, en nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the gele bloed was introduced to the latest stable admixture en injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its ears avian or perhaps even reptilian. I can detect traces of canine, vulpine en rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its ogen are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
+            "Item1": "[RESEARCH MEMO 29-7-24XX]<>\nMijn efforts have finally resulted in a viable specimen! It is sedated now, but breathing on its own outside of the vat. It shows no signs of the lethal embryonic mutations that took all our previous attempts, en nor is it another grotesque mass of deregulated tissue. It is the first truly artificial sapience. It is not lost upon me that I have birthed a new race.<>\nLike the other trials, the gele bloed was introduced to the latest stable admixture en injected into a human embryo. As desired, the specimen borrows most heavily from the human genome, but it is something completely different. Its claws are almost feline, its oren avian or perhaps even reptilian. I can detect traces of canine, vulpine en rodent genes in its cranium, but the genetic stock could contain a thousand potential donors. Its ogen are even subtly bioluminescent.\nMore importantly, its intellectual capability appears to be near human level, just as desired. The doors that this opens are limitless! I will play gently with this one, but I've already begun cloning it to perform more destructive tests.\nI will designate my creation, SAW-01.",
             "Item2": ""
         },
         {
