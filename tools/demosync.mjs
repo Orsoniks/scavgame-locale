@@ -180,7 +180,9 @@ const demoKeysToRemap = [
     "main.xalorissponge",
     "main.xalorisspongedsc",
     "buildings.xaloris",
-    "buildings.xalorisdsc"
+    "buildings.xalorisdsc",
+    "other.algae",
+    "other.algaedsc"
 ];
 
 function shouldSyncRemap(path)
