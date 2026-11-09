@@ -16,8 +16,6 @@ import fs from "node:fs/promises";
 import fsPath from "node:path";
 import readline from "node:readline/promises";
 import process from "node:process";
-import child_process from "node:child_process";
-import crypto from "node:crypto";
 
 import {
   flattenPaths,
