@@ -5216,18 +5216,18 @@
                 "Maak het niet kapot.",
                 "Veel geluk hiermee.",
                 "I hope you know how to use this.",
-                "Hope it'll be useful.",
-                "Here's your reward."
+                "Ik hoop dat het goed van pas komt.",
+                "Hier is je beloning."
             ],
             "traderbuyfail": [
-                "No.",
-                "I'm not a charity.",
+                "Nee.",
+                "Ik ben geen liefdadigheidsinstelling.",
                 "I don't give out things for free.",
-                "Pay up first.",
+                "Betaal eerst.",
                 "I'm not giving you anything without an appropriate return.",
                 "Do I look like a charity to you?",
-                "You're joking.",
-                "How insulting."
+                "Je maakt een grapje.",
+                "Wat een belediging."
             ],
             "traderbuyfailmaxvalue": [
                 "Enough trading for today. You've bought out a lot already.",
@@ -5243,13 +5243,13 @@
                 "Een robbery was not something present on my bucket list. But, fine. Just don't hurt me."
             ],
             "traderwarning": [
-                "Leave at once.",
-                "I do NOT appreciate your presence. Leave.",
-                "OUT.",
+                "Vertrek eens.",
+                "Ik waardeer uw aanwezigheid NIET. Vertrek.",
+                "BUITEN.",
                 "Do you not think I'm serious? Out.",
-                "Get. Out.",
-                "Please. Leave.",
-                "Leave.",
+                "Ga. Weg.",
+                "Please. Vertrek.",
+                "Vertrek.",
                 "I'm not dealing with you right now.",
                 "Please leave my pod in peace. I got here first."
             ],
@@ -5286,7 +5286,7 @@
             "tradermeetimpairedspeech": [
                 "What are you saying..? I can't understand you.",
                 "Your speech is extremely muffled. Just letting you know.",
-                "I can barely make out what you're saying to me."
+                "Ik versta amper wat je tegen mij zegt."
             ],
             "traderseehurt": [
                 "You appear to be injured en bleeding... You can take a bandage if you wish.",
@@ -5815,10 +5815,10 @@
                 "Grrr. Met-al fri-end wei-rd!"
             ],
             "drillend": [
-                "Du-ne scare.",
-                "Sca-ry.",
-                "Lo-ud noi-se...",
-                "Du-ne smar-t!!"
+                "Du-ne eng.",
+                "e-ng.",
+                "Lui-d gelui-d...",
+                "Du-ne sli-m!!"
             ],
             "loud": [
                 "GGRAAAAACKK! WA-AT!?",
@@ -5836,14 +5836,14 @@
                 "GRRHCHH! ZWAKKKE PR-OOI!"
             ],
             "tradeemeet": [
-                "Du-ne find!!",
-                "Hel-lo!!",
-                "Du-ne gree-t!!",
-                "Hel-lo?",
+                "Du-ne vind!!",
+                "Hal-lo!!",
+                "Du-ne groe-t!!",
+                "Hal-lo?",
                 "Mmmrrrrn...fri-end?",
-                "Fri-end?",
-                "Oooo! Fri-end!!",
-                "Foo-d?"
+                "Vr-iend?",
+                "Oooo! Vr-iend!!",
+                "Ete-n?"
             ],
             "swingresponse": [
                 "NNGRRHHH!!",
