@@ -2818,7 +2818,7 @@
                 "Ik zit vol!"
             ],
             "hungry": [
-                "Could do with a bite to eat.",
+                "Ik zou wel een hapje willen.",
                 "Ik heb honger.",
                 "Ik voel mij hongerig.",
                 "Ik wil eten!",
@@ -2829,7 +2829,7 @@
                 "Ik moet een snack hebben.",
                 "Ik begin honger te krijgen.",
                 "Tijd voor een tussendoortje.",
-                "Lunchtime.",
+                "Etenstijd.",
                 "Ik heb eten nodig.",
                 "Ik zou graag wat eten hebben.",
                 "Mijn maag is leeg.",
@@ -2842,7 +2842,7 @@
                 "Ik wil eten."
             ],
             "starving": [
-                "I'm starving.",
+                "Ik verhonger.",
                 "I really want to eat.",
                 "So hungry...",
                 "I'm REALLY hungry.",
