@@ -30,6 +30,7 @@ These are all of the locales available for the [release version](https://store.s
 | [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0 | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), Vee, [Daenry](https://github.com/daenry), Just Cyrus, Local Potato, Weird Cat, Jakey|
 | [한국어 (대한민국)](/release/ko-KR.json) | v1.0 | [ControlCaret](https://github.com/ControlCaret), [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
 | [简体中文 (中国)](/release/zh-CN.json) | v1.0 | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, [AlCl3](https://github.com/ALOHCL), [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX), [Akiras](https://github.com/AkiraStation), [Lexic](https://github.com/lex2c), [焰羽](https://github.com/yanyu220404)|
+| [Français](/release/fr-FR.json) | v1.0 | [DutoFujamee](https://github.com/DutoFujamee) |
 
 ## Demo locales
 
