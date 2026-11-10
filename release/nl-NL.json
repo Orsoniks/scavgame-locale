@@ -2578,7 +2578,7 @@
                 "Ew.",
                 "This 'food' is upsetting.",
                 "This is upsetting.",
-                "Oouugh! No! Ew!",
+                "Oouugh! Nee! Ew!",
                 "Disgusting!",
                 "I didn't want to eat this.",
                 "What the FUCK am I EATING!?"
@@ -2589,14 +2589,14 @@
                 "No.",
                 "Keep that away from me.",
                 "Why would I touch this!?",
-                "No!",
+                "Nee!",
                 "Why am I even holding this?",
                 "Not in a million years.",
                 "I would never! NO!",
                 "What the hell am I thinking?",
-                "No! Dat's disgusting!",
-                "This is disgusting! No!",
-                "EW! No!",
+                "Nee! Dat's disgusting!",
+                "This is disgusting! Nee!",
+                "EW! Nee!",
                 "I'm not putting that IN or ANYWHERE near my mouth.",
                 "Don't even think about it.",
                 "I'm not letting the intrusive thoughts win.",
@@ -4626,24 +4626,24 @@
                 "But a flesh bag of bloed en bones...",
                 "Such a cruel, unfunny joke...",
                 "Make it stop...",
-                "I give up.",
+                "Ik geef het op.",
                 "Loooooveeeely. Lovely.",
                 "It will all be over soon.",
                 "I perished the moment I arrived.",
-                "I was wrong... I cannot make it.",
-                "This is what I get..."
+                "Ik was mis... Ik haal het nooit.",
+                "Dit is wat ik  krijg..."
             ],
             "angeronitem": [
                 "NGH! Hmmh... Dat does feel slightly better.",
                 "GHH! ...Dat felt... Surprisingly good."
             ],
             "suicide": [
-                "Cannot. Take this. Anymore. Over.",
-                "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! WWWHHHHYYYYYYYYYYYYY!!!???",
-                "Dat is it. I am done.",
-                "Fuck this.",
+                "Ik. Kan dit. Niet. Langer.",
+                "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! WAAARRROOOOOOOMM!!!???",
+                "Genoeg. Ik ben er klaar mee.",
+                "Fuck dit.",
                 "...",
-                "I apologize."
+                "Het spijt me."
             ],
             "refuse": [
                 "...",
@@ -4667,14 +4667,14 @@
                 "I must staunch this bleeding.",
                 "I need to cauterize this wound.",
                 "This wound requires urgent attention.",
-                "I am losing bloed.",
+                "Ik verlies bloed.",
                 "Such a beautiful hue of yellow.",
-                "No! Bad! Stay inside, bloed!",
-                "I require dressing.",
-                "Dat is bloed, leaking from my body.",
-                "I am bleeding.",
-                "I require assistance.",
-                "Bloed is leaving my body at a concerning rate."
+                "Nee! Slecht! Blijf in me, bloed!",
+                "Ik heb verband nodig.",
+                "Dat is bloed, lekkend uit mijn lichaam.",
+                "Ik bloed.",
+                "Ik heb hulp nodig.",
+                "Bloed stroomt uit me aan een zorgwekkende snelheid."
             ],
             "bleedingheavy": [
                 "Hh... hmm. Hhhmh... T-this is bad. I m-must fix this. Fast.",
@@ -4689,7 +4689,7 @@
                 "I am the only one who can save myself.",
                 "I must staunch this leakage, QUICKLY!",
                 "Ghh... This is not ideal.",
-                "Bad... Bad. Bad!",
+                "Slecht... Slecht. Slecht!",
                 "Such a t-terrifying sight...",
                 "I am painting the walls yellow.",
                 "Mijn vision slowly fades."
@@ -4776,11 +4776,11 @@
                 "Wow. How disgusting of me."
             ],
             "cold": [
-                "Cold.",
+                "Koud.",
                 "Mijn body temperature is below average.",
                 "The ambient temperature is below the norm.",
-                "*shudder*",
-                "I am cold",
+                "*trilling*",
+                "Ik heb het koud",
                 "I may enter a hypothermic state if this continues.",
                 "I have no warmth in my body.",
                 "I ought to stay at a comfortable temperature.",
@@ -4793,9 +4793,9 @@
                 "Ik moet mezelf afkoelen.",
                 "An ice pack would prove helpful.",
                 "I am too warm for comfort.",
-                "Ik heb het te warm.",
-                "It is slightly hot.",
-                "The ambient temperature is high."
+                "Het is warm.",
+                "Het is een beetje heet.",
+                "De omgevingstemperatuur is hoog."
             ],
             "hot": [
                 "I am very hot.",
@@ -5795,7 +5795,7 @@
                 "Feel dirt.",
                 "Sme-ll smell.",
                 "Stin-ky.",
-                "Stink. Bad!",
+                "Stink. Slecht!",
                 "Too stin-k."
             ],
             "encumbered": [
@@ -5883,7 +5883,7 @@
                 "Grrhhnnchh!",
                 "Grrhhannchh!",
                 "Grrrrr!!!",
-                "Nnhhrrhuhhh! No!!!",
+                "Nnhhrrhuhhh! Nee!!!",
                 "Du-ne!!! Hel-p!!",
                 "W...wh-y...",
                 "D...dnnrhh...Nhhhh...",
@@ -5994,7 +5994,7 @@
                 "Nggghhrr... Hel-lo... Per-son...",
                 "Grrrrr... Fri-end... No look tas-ty...",
                 "Grrrr... Bad per-son!.. Grrr...",
-                "Grrrpmh.. Bad!... Not fri-end...",
+                "Grrrpmh.. Slecht!... Not fri-end...",
                 "Dune dis-li-ke... This fri-end!..."
             ],
             "traderwakegreet": [
@@ -6019,7 +6019,7 @@
                 "Is eno-ugh...",
                 "Fri-end.. Not.. Get it.. En-ough...",
                 "Dune n-ot... Take mo-re!",
-                "No! Dune ha-ve eno-ugh..."
+                "Nee! Dune ha-ve eno-ugh..."
             ],
             "traderbite": [
                 "Good... Enjoy tast-e. Like fri-end more!",
@@ -6040,8 +6040,8 @@
             ],
             "traderbuyfail": [
                 "Grrrr!",
-                "No! Ggrhhr...",
-                "No! Gi-ve own!",
+                "Nee! Ggrhhr...",
+                "Nee! Gi-ve own!",
                 "Grrrr... Dune need thi-ng too!",
                 "Du-ne not gif-t... Giv-e now!... Grrrr...",
                 "Fri-end gi-ve fir-st..."
@@ -6093,10 +6093,10 @@
             ],
             "traderhugfail": [
                 "GRRR! Away! Ggrrn...",
-                "Ngghrr! No! Aw-ay!",
-                "No! Dune not let...",
+                "Ngghrr! Nee! Aw-ay!",
+                "Nee! Dune not let...",
                 "Dune dis-like fri-end close...",
-                "Grrr! No! Ngghr...",
+                "Grrr! Nee! Ngghr...",
                 "Fri-end do not app-ro-ach! Grrr... Dune dis-like..."
             ],
             "traderseegun": [
@@ -6128,7 +6128,7 @@
             "traderlightbreak": [
                 "NNGGHHRR! Why fri-end steal! Go away! GGrrhhhhhh... BAD..!",
                 "GRRR! EVIL! GE-T OUT!",
-                "BAD! Grrrr... Fri-end bad... Bad! Lea-ve!",
+                "BAD! Grrrr... Fri-end bad... Slecht! Lea-ve!",
                 "Dune NOT SEE! BAD FRI-END! GO AWAY... AW-AY!",
                 "Fri-end steal! Not fri-end..."
             ],
