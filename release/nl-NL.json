@@ -4871,8 +4871,8 @@
             "opiatedsad": [
                 "Een pleasant, fleeting feeling...",
                 "...I can finally relax.",
-                "I feel licht...",
-                "This is much better."
+                "Ik voel me licht...",
+                "Dit is veel beter."
             ],
             "opiatewithdrawal": [
                 "I-I require another dose of opium, urgently.",
@@ -4880,32 +4880,32 @@
                 "Mijn h-hands are sh-shaking.",
                 "W-withdraw-wal.",
                 "I r-require more opioids.",
-                "Shakey."
+                "Bibberig."
             ],
             "cantBreathe": [
-                "*cough* *ack*",
-                "Hnnh... Nggh... H-help... C-can't...",
-                "*gasp*",
-                "W-will... Pass... Out...",
-                "I cannot... *cough* *hack*",
-                "Help- Ack! Cough!",
-                "S-suffocating... *cough*",
-                "I am unable to breathe."
+                "*hoest* *ack*",
+                "Hnnh... Nggh... H-help... I-ik kan n...",
+                "*snik*",
+                "G-ga... Flauw... Vallen...",
+                "Ik kan niet... *hoest* *hack*",
+                "Help- Ack!",
+                "I-ik stik... *hoest*",
+                "Ik kan niet ademen."
             ],
             "pain": [
-                "I am in pain.",
-                "Ow.",
-                "Mijn <limb> is sending pain stimuli.",
-                "Pain.",
-                "I feel discomfort around my <limb>.",
-                "Mijn <limb> is in pain.",
-                "This feels bad.",
-                "Mijn <limb> aches.",
-                "Pain stimuli is present.",
+                "Ik heb pijn.",
+                "Auw.",
+                "Mijn <limb> stuurt pijn signalen.",
+                "Pijn.",
+                "Het voelt ongemakkelijk aan mijn <limb>.",
+                "Mijn <limb> doet pijn.",
+                "Dit voelt slecht.",
+                "Mijn <limb> jeukt.",
+                "Pijn signalen aanwezig.",
                 "Heck.",
                 "Yelp...",
-                "*sigh*",
-                "Unpleasant sensation in my <limb>."
+                "*zucht*",
+                "Vervelend gevoel in mijn <limb>."
             ],
             "hitgroundhard": [
                 "Auh!",
@@ -4913,7 +4913,7 @@
                 "Hnnnh!",
                 "...!",
                 "Gnh!",
-                "Oops."
+                "Oeps."
             ],
             "bigpain": [
                 "NNNHH...",
@@ -4937,16 +4937,16 @@
                 "..!",
                 "Hhhh!",
                 "Ahh!",
-                "Woah.",
+                "Wow.",
                 "Huh.",
-                "Dat can't be good."
+                "Dat kan niet goed zijn."
             ],
             "hitbycreature": [
                 "Verdommd beest!!",
                 "AGH! Jij!",
                 "Hngh! Refrain!",
                 "*snik*",
-                "Hhhnn! No you do not!",
+                "Hhhnn! Nee dat doe je niet!",
                 "Stuk str...!",
                 "Vervelend!"
             ],
