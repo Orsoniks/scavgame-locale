@@ -1,7 +1,6 @@
 {
     "name": "Français (France)",
     "description": "Par Azurian, Dovahkick, LackeDragon et la communauté. Projet ouvert aux contributions sur GitHub (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>)",
-    "version": "1.0",
     "main": {
         "bandage": "Bandage",
         "bandagedsc": "Un rouleau de sparadrap avec de la bande extensible, sert à ralentir les saignements, à stabiliser les fractures et à soigner la peau. N’affecte pas la santé musculaire.",
