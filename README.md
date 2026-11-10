@@ -2,8 +2,8 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 
 ## Installing new locales
 
-1. Go to the [release](/release) folder in GitHub (or the [demo](/demo) folder if you want to download locales for the demo).
-   * You can also look at the list of available [release](#release-locales) and [demo](#demo-locales) locales below.
+1. Go to the [release](/release) folder in GitHub (or the [demo](/demo) folder for demo locales).
+   * You can see the list of available [release](#release-locales) and [demo](#demo-locales) locales below.
 2. Find and download the JSON file for your locale from the version's folder.
    <img src="docs/Install_GitDownload.png" height="300" />
 3. Go to *Casualties: Unknown*'s install path.
@@ -18,25 +18,22 @@ Community localization of the game "*Casualties: Unknown*" by [Orsoniks](https:/
 
 ## Release locales
 
-**The game has not been released yet. At the moment, this section is for translators only.**
-
-This is a list of all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
+These are all of the locales available for the [release version](https://store.steampowered.com/app/4576490/Casualties_Unknown/) of the game.
 
 | File | Locale State | Contributors |
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
-| [Español (Latinoamérica)](/release/es-419.json) | v1.0-Pre3 (+bccaab7) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
-| [Español (España)](/release/es-ES.json) | v1.0-Pre13 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que), [Iter-bite](https://github.com/Iter-bite), [JaGarLo](https://github.com/JaGarLo) |
+| [Español (Latinoamérica)](/release/es-419.json) | v1.0 | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
+| [Español (España)](/release/es-ES.json) | v1.0 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que), [Iter-bite](https://github.com/Iter-bite), [JaGarLo](https://github.com/JaGarLo) |
 | [Русский (Россия)](/release/ru-RU.json) | v1.0 | [UCRD](https://github.com/wucrd), [Vinterhelm](https://github.com/vinterhelm), [SoberFurry](https://github.com/SoberFurry), [Captain_Kirk](https://github.com/Danich27rus), [batya_v_khati](https://github.com/batyaVkhati), [Voprositelnii](https://github.com/voprosit), [Strag Az](https://github.com/StragAz), untitled9223, [Bogtogus](https://github.com/bogtogus), [SPeCtator](https://github.com/SP3Ctator) |
 | [Українська (Україна)](/release/uk-UA.json) | v1.0 | [Vladorion737](https://github.com/vladorion737), [batya_v_khati](https://github.com/batyaVkhati), [Rulfam](https://github.com/Rulfam) |
 | [Tiếng Việt (Vietnam)](/release/vi-VN.json)| v1.0 | [Axioid](https://github.com/axioid), [SuffyrnTardelune](https://github.com/SuffyrnTardelune), Vee, [Daenry](https://github.com/daenry), Just Cyrus, Local Potato, Weird Cat, Jakey|
+| [한국어 (대한민국)](/release/ko-KR.json) | v1.0 | [ControlCaret](https://github.com/ControlCaret), [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
 | [简体中文 (中国)](/release/zh-CN.json) | v1.0 | [月曦MONXI](https://github.com/martha-mana), [影月炎YUN](https://github.com/YUN2474), [戈伦](https://github.com/ALPHA371), JiYv, 义锦, [AlCl3](https://github.com/ALOHCL), [黑藓Black_Moss](https://github.com/Black-Moss), 7.62X51mmNATOm1185lr, 楠枫灯, 一只叫芒果的CAT, 软盘, SLLLLLLLLUG, [XiaoCai](https://github.com/X1A0CA1), [Lio_FX](https://github.com/Lio-FX), [Akiras](https://github.com/AkiraStation), [Lexic](https://github.com/lex2c), [焰羽](https://github.com/yanyu220404)|
 
 ## Demo locales
 
-This is a list of all of the locales available for the [demo version](https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/) of the game.
-
-The first column links to the locale file that you need to download.
+These are all of the locales available for the [demo version](https://store.steampowered.com/app/4576510/Casualties_Unknown_Demo/) of the game.
 
 | File | Locale State | Contributors |
 |------|--------------|--------------|
@@ -45,7 +42,7 @@ The first column links to the locale file that you need to download.
 | [Беларуская (Беларусь)](/demo/be-BY.json) | Outdated | [Russian kid](https://github.com/Russiankids) |
 | [Deutsch (Deutschland)](/demo/de-DE.json) | v7.0.1 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
 | [Català (Espanya)](/demo/ca-ES.json) | v7.0.1 | [ICraveWaffles](https://github.com/ICraveWaffles) |
-| [Español (Latinoamérica)](/demo/es-419.json) | v7.7.9 (+f7b5136) | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
+| [Español (Latinoamérica)](/demo/es-419.json) | v1.0-demo | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 | [Español (España)](/demo/es-ES.json) | v7.7.9 (+f7b5136) | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que) |
 | [Suomi (Suomi)](/demo/fi-FI.json) | v7.0.1 (incomplete, translation abandoned) | - |
 | [Français (France)](/demo/fr-FR.json) | v7.0.1 (incomplete) | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick), [LackeDragon](https://github.com/LackeDragon) |
@@ -54,7 +51,7 @@ The first column links to the locale file that you need to download.
 | [Italiano (Italia)](/demo/it-IT.json) | v7.0.1 | [LorgamerPizza](https://github.com/lorgamerpizza-code), chaosussy |
 | [日本語 (日本)](/demo/ja-JP.json) | v5.1 | [marui-neko](https://github.com/marui-neko) |
 | [Қазақша (Қазақстан)](/demo/kk-KZ.json) | Outdated | [Russiankids](https://github.com/Russiankids) |
-| [한국어 (대한민국)](/demo/ko-KR.json) | v7.0.1 | [DrawinDarwin](https://github.com/DrawinDarwin), [johypark97](https://github.com/johypark97), [Kedr2806](https://github.com/Kedr2806), [muqhc](https://github.com/muqhc), Shelt3redcat, [topicular](https://github.com/metnias) |
+| [한국어 (대한민국)](/demo/ko-KR.json) | v7.0.1 | [DrawinDarwin](https://github.com/DrawinDarwin), [Enine](https://github.com/EnineStuxnet), [Kedr2806](https://github.com/Kedr2806), Shelt3redcat, [johypark97](https://github.com/johypark97), [muqhc](https://github.com/muqhc), oakgall, six-standard, [topicular](https://github.com/metnias) |
 | [Polski (Polska)](/demo/pl-PL.json) | v7.0.1 (incomplete) |  [Daron](http://steamcommunity.com/profiles/76561198295172453), [KaiKon](https://github.com/Kaikon-PL), [Ksdaszek](https://www.youtube.com/@ksdaszek), (Telegram: @krychan), [Jemtamird](https://github.com/Jemtamird), [s3iana](https://steamcommunity.com/id/s3iana/), [swyl](https://github.com/the-real-swyl) |
 | [Português (Brasil)](/demo/pt-BR.json) | v7.0.1 | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu), [jojoaguiar](https://github.com/jojoaguiar), [Pedro Lucas da Silva Sousa (PedSen)](https://github.com/PedSen), [David Costa (ZonaryH)](https://github.com/zonaryh) |
 | [Română (România)](/demo/ro-RO.json) | v7.0.1 | [KhyDoesntKnowStuffYet](https://github.com/KhyDoesntKnowStuffYet), [Marioalexsan](https://github.com/Marioalexsan), Stefilutz |
@@ -67,9 +64,11 @@ The first column links to the locale file that you need to download.
 
 ## Contributing
 
+```AI assisted contributions are not accepted.```
+
 Please read the [contribution guidelines](/CONTRIBUTING.md) for ways in which you can contribute to existing or new localizations.
 
-The [translation notes](./TranslationNotes.md) may provide additional context and rules on how to translate specific text from the English locale.
+The [translation notes](./TranslationNotes.md) has extra context and rules on how to translate specific text from the English locale.
 
 ## Maintainers
 * [Azurian](https://github.com/clemtomera), [Marioalexsan](https://github.com/Marioalexsan)
