@@ -4428,9 +4428,9 @@
                 "I have rested."
             ],
             "sick": [
-                "I am sick.",
+                "Ik ben ziek.",
                 "Mijn maag is in a state of unrest.",
-                "I am unwell.",
+                "Ik voel me onwel.",
                 "Mijn body appears repulsed.",
                 "Something in my maag has gone awry.",
                 "It appears I am sick.",
@@ -4460,7 +4460,7 @@
                 "Uugh... Need.. snoepjement.",
                 "Mijn vomit... *hoest* ...tastes of metal.",
                 "I-It seems... I've regurgitated bloed..",
-                "Not ideal.",
+                "Niet ideaal.",
                 "Ghck... Een sign of an underlying condition."
             ],
             "full": [
@@ -4468,7 +4468,7 @@
                 "I require no more sustenance for the time being.",
                 "This will hold me over for a while.",
                 "Mijn caloric intake is sufficient.",
-                "Adequately fed.",
+                "Genoeg gevoed.",
                 "This is well over the calorie norm."
             ],
             "hungry": [
@@ -4495,8 +4495,8 @@
                 "Hydration would be optimal.",
                 "Mijn throat feels unusually dry. Verdict: Poor hydration.",
                 "Would be wise to prepare the dag's water ration ahead of time.",
-                "I require water.",
-                "Water required."
+                "Ik heb water nodig.",
+                "Water nodig."
             ],
             "dehydrated": [
                 "I'm really dehydrated.",
@@ -4511,14 +4511,14 @@
                 "Fluid intake is critical for continued survival..."
             ],
             "limbmuscle": [
-                "Mijn <limb> is in an immobile state.",
-                "Hrrr... Hmmh... I am unable to use my <limb>.",
-                "I need to tend to my <limb>.",
-                "I cannot utilize my <limb>.",
-                "Mijn <limb> tingles.",
-                "I injured my <limb> badly.",
+                "Mijn <limb> is onbeweegbaar.",
+                "Hrrr... Hmmh... Ik kan mijn <limb> niet gebruiken.",
+                "Ik moet aandacht spenderen aan mijn <limb>.",
+                "Ik kan mijn <limb> niet gebruiken.",
+                "Mijn <limb> tintelt.",
+                "Iik heb mijn <limb> erg pijn gedaan.",
                 "I must take beter care of myself.",
-                "I must aid my <limb>."
+                "Ik moet iets doen aan mijn <limb>."
             ],
             "limbinfected": [
                 "Mijn <limb> lijkt een infectie te bevatten.",
@@ -4534,14 +4534,14 @@
                 "Besmet."
             ],
             "limbskin": [
-                "There are several open wounds on my <limb>.",
+                "Er zijn meerdere open wondes op mijn <limb>.",
                 "Mijn <limb> is verminkt.",
                 "Mijn <limb> is beschadigd.",
                 "Ik heb mijn <limb> gekwetst.",
                 "Ik ben gewond.",
-                "Mijn <limb> is wounded.",
-                "I am covered in bloed.",
-                "I can see the flesh on my <limb>.",
+                "Mijn <limb> is gewond.",
+                "Ik zit onder het bloed.",
+                "Ik kan het vlees op mijn <limb> zien.",
                 "Exposed flesh is present on my body."
             ],
             "sad": [
@@ -4564,7 +4564,7 @@
                 "Mijn luck is running thin.",
                 "I need to keep my chin up.",
                 "This is not my geluksdag.",
-                "I am fearful.",
+                "Ik ben bang.",
                 "I am becoming tired of these games.",
                 "Een bad predicament.",
                 "Een rapidly declining situation.",
@@ -4598,11 +4598,11 @@
                 "Wreed.",
                 "I have been sent to my death.",
                 "The coats will pay for this mistreatment.",
-                "These caves are tearing me apart.",
+                "Deze grotten maken me kapot.",
                 "Hhn..Hnnghh..Hnnghhhggaaaahhrhh...",
                 "Hhnnhh..Aaahahahahhh...Gngnhh...",
                 "It is proving difficult to hold the facade.",
-                "I feel terrible.",
+                "Ik voel me verschrikkelijk.",
                 "I am mentally unwell.",
                 "I do not believe I will make it through to see the objective.",
                 "Mijn chances of survival are ever lowering.",
