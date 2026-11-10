@@ -2185,7 +2185,7 @@
         "healthchipradalert1": "DEPTH LEVEL\nUNSATISFACTORY",
         "healthchipradalert2": "PUNISHMENT\nPROTOCOL ACTIVE",
         "healthchipradalert3": "PICK UP\nTHE PACE",
-        "tutbasic1": "Welcome to the final revisional training course.",
+        "tutbasic1": "Welkom to the final revisional training course.",
         "tutbasic2": "We will go over all the basics you will need to know for the next experiment you will participate in.",
         "tutbasic3": "Please walk towards the Training Armature Device. [A]",
         "tutbasic4": "Again. [D]",
@@ -2259,7 +2259,7 @@
         "tutbasic66": "Sleep is important for recovering your energy. We made you a little bed to sleep on, try napping there!",
         "tutbasic67": "The surface on which you sleep matters! Rubber is especially comfy, while rocks are particularly harsh. It's good to give your back a break sometimes.",
         "tutbasic68": "This concludes your final revisional training. You may now return to your designated room.",
-        "tutaid1": "Welcome to the First Aid Course. We will go over your body, some injuries en how to snoepje them.",
+        "tutaid1": "Welkom to the First Aid Course. We will go over your body, some injuries en how to snoepje them.",
         "tutaid2": "Open the health panel. You can bark at me to skip through this part.",
         "tutaid3": "It's time to start paying attention to the big panel to the left. It might be overwhelming for a while, but we'll touch on the more important things.",
         "tutaid4": "This is your brain integrity. When your brain dies, you die. Today you'll learn how to keep IT alive.",
@@ -2334,7 +2334,7 @@
         "tutaid71": "Dat went away quickly, right?",
         "tutaid72": "Be careful with opioids - you can overdose on them easily, or go into withdrawals after. Naloxone en naltrexone can help with opiate abuse.",
         "tutaid73": "This concludes the First Aid Course. We could cover more, but we believe you can safely figure out other afflictions. You may return to your assigned room.",
-        "tutcraft1": "Welcome to the Crafting Course. Today, we will cover the details of procuring items en show certain common workflows.",
+        "tutcraft1": "Welkom to the Crafting Course. Today, we will cover the details of procuring items en show certain common workflows.",
         "tutcraft2": "Almost everything you see is real matter en not trash.",
         "tutcraft3": "You can harvest metal from scrap piles en traps, wood from wood structures, foliage from plants, etc.",
         "tutcraft4": "Your objective will be to create a specified item using the resources given to you.",
@@ -2365,7 +2365,7 @@
         "tutcraft27": "Make a mini laser drill en a battery to put inside of it. This is your final objective for today.",
         "tutcraft28": "Goed gedaan!",
         "tutcraft29": "This concludes the Crafting Course. Hopefully you can put into practice the knowledge you have attained. You may return to your assigned room.",
-        "tutmove1": "Welcome to the Advanced Movement Training Course. Please make your way up this shaft. Make use of the walls to ascend.",
+        "tutmove1": "Welkom to the Advanced Movement Training Course. Please make your way up this shaft. Make use of the walls to ascend.",
         "tutmove2": "You can traverse up narrow shafts the same way.",
         "tutmove3": "You can use walls to slow your descent. Please slide down the leftmost wall.",
         "tutmove4": "Hold down [X] en move to crawl. You can destroy blocks while prone.",
@@ -3955,7 +3955,7 @@
                 "Oh! Heya.",
                 "Hey! Glad to see someone alive.",
                 "Hey, buddy.",
-                "Welcome!"
+                "Welkom!"
             ],
             "tradermeetgood": [
                 "Ah! Hi!!",
@@ -5145,11 +5145,11 @@
                 "Hallo.",
                 "Mijn pleasure to meet you.",
                 "Ah! Hallo daar!",
-                "Welcome, fellow traveler.",
+                "Welkom, medereiziger.",
                 "Hartelijke groeten.",
-                "Welcome.",
-                "Nice to meet you!",
-                "I hope all is well."
+                "Welkom.",
+                "Leuk je te ontmoeten!",
+                "Hopelijk gaaat alles goed."
             ],
             "tradermeetgood": [
                 "I'm honored to see another survivor.",
@@ -5159,23 +5159,23 @@
                 "Ah, how happy I am to see someone like you!"
             ],
             "tradermeetbad": [
-                "...I am not impressed.",
+                "...Ik ben niet onder de indruk.",
                 "Ough. Hallo...",
                 "...You confound me. Greetings.",
                 "...Hallo.",
-                "Greetings. Please refrain from touching me.",
-                "Hallo, fellow survivor.",
-                "Greetings. Please use the door next time.",
-                "Welcome.",
-                "Greetings."
+                "Gegroet. Please refrain from touching me.",
+                "Hallo, mede-overlevende.",
+                "Gegroet. Gebruik de deur de volgende keer alstublieft.",
+                "Welkom.",
+                "Gegroet."
             ],
             "traderwakegreet": [
-                "Goed morning.",
-                "Hey, you're finally awake.",
-                "Greetings, you've awoken.",
-                "Guess who's awake!",
-                "Sleepyhead. Welcome back!",
-                "You were sleeping like a puppy, haha..."
+                "Goede morgen.",
+                "Hey, je bent eindelijk wakker.",
+                "Gegroed, je bent wakker geworden.",
+                "Raad eens wie der wakker is!",
+                "Slaapkop. Welkom terug!",
+                "Je sliep net als een puppy, haha..."
             ],
             "tradergiveitem": [
                 "Dankjewel.",
@@ -5198,7 +5198,7 @@
                 "I accept your request.",
                 "I hear you, buddy. Sure.",
                 "I have to agree.",
-                "Affirmative..."
+                "Bevestigend..."
             ],
             "traderhagglefail": [
                 "Wat dacht je van niet?",
@@ -6857,7 +6857,7 @@
             "Gepauzeerd.",
             "Neem je nu al een pause?",
             "Ben je al moe?",
-            "Time is stopped.",
+            "Tijd is gestopt.",
             "Ik wacht wel.",
             "Ik zit op je te wachten.",
             "Hey!",
@@ -6875,14 +6875,14 @@
             "En we ontmoeten weer.",
             "We don't have all the time in the world, you know.",
             "Always watching.",
-            "And so it stopped...",
+            "En zo stopte het...",
             "Got something on your mind?",
-            "I can wait all dag.",
+            "Ik kan de hele dag nog wachten.",
             "The world has stopped. It's quiet.",
             "Make sure to stretch your legs.",
             "I have all the time I need. Same cannot be said about you.",
             "Trapped in eternity.",
-            "Hallo? Is this thing on?",
+            "Hallo? Staat dit ding aan?",
             "Are you continually pausing time to see what I have to say?",
             "The stars are watching you.",
             "Right behind you.",
@@ -6918,16 +6918,16 @@
             "Ik ben bang dat het ongeneeselijk is."
         ],
         "happy": [
-            "Don't get comfortable.",
+            "Raak niet te comfortabel.",
             "Veel geluk met overleven!",
-            "Overconfidence is a slow en insidious killer.",
+            "Overmoed is een langzame en verraderlijke moordenaar.",
             "Een grote waanvoorstelling.",
             "Heb je wel echt de controle in handen?",
-            "Your delusion of any semblance of control is amusing. Continue.",
-            "Are you sure this thing is worth getting all the way down there?",
+            "Je waanidee dat je ook maar enigszins controle hebt is best leuk. Doe zo verder.",
+            "Weet je zeker dat het de moeite waard is om dit helemaal daarheen te brengen?",
             "Voel je je de baas?",
-            "You could never comprehend the scale of this.",
-            "So much confidence in your own intellect. Cute."
+            "Je zou de schaal hiervan nooit begrijpen.",
+            "Zoveel vertrouwen in je eigen intellect. Schattig."
         ],
         "depressed": [
             "Ga je gang, wentel maar wat in je ellende.",
@@ -6952,13 +6952,13 @@
             "Show them what you're made of.",
             "See if it makes a difference.",
             "Do you believe this will change your fate?",
-            "I am still here.",
+            "Ik  ben h ier nog.",
             "Keep going. What else can you do?",
             "How interessant. Please continue.",
             "An amusing display of emotion.",
-            "Fascinating. Continue.",
-            "What an amusing attempt. Continue!",
-            "Come on, keep going!",
+            "Fascinerend. Ga door.",
+            "Wat een amuserende poging. Doe verder!",
+            "Komaan, blijf doorgaan!",
             "Doesn't it feel amazing?",
             "Aren't you so proud of yourself?"
         ],
