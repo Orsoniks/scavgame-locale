@@ -2753,7 +2753,7 @@
             ],
             "vomit": [
                 "Bluughh... uughh...",
-                "Ghghh... *cough*",
+                "Ghghh... *hoest*",
                 "There's my... lunch...",
                 "Bllggh... ugh... damn...",
                 "Uuggh... that... felt terrible...",
@@ -2776,7 +2776,7 @@
             ],
             "vomitblood": [
                 "Bluughh... I... Oh. Oh god, that's bloed...",
-                "Ghghh... *cough* ...Fuck... Dat's... Blood...",
+                "Ghghh... *hoest* ...Fuck... Dat's... Blood...",
                 "There's my... lu... Oh. Oh no no no. Oh no. Dat's bloed I just threw up...",
                 "Bllggh... ugh... I... Oh... God...",
                 "Is that... Is that bloed I just... Blugh...",
@@ -4446,7 +4446,7 @@
                 "It is approaching..."
             ],
             "vomit": [
-                "Ghh... *cough* ...Let's just move on.",
+                "Ghh... *hoest* ...Let's just move on.",
                 "What previously was dinner now lies on the ground beneath.",
                 "Eugh... what a waste of nourishment.",
                 "I can still... taste the vomit..",
@@ -4458,7 +4458,7 @@
                 "Gghh... T-that signifies internal bleeding.",
                 "Hacck... Blood. Bleeding. Inside.",
                 "Uugh... Need.. snoepjement.",
-                "Mijn vomit... *cough* ...tastes of metal.",
+                "Mijn vomit... *hoest* ...tastes of metal.",
                 "I-It seems... I've regurgitated bloed..",
                 "Not ideal.",
                 "Ghck... Een sign of an underlying condition."
@@ -4828,51 +4828,51 @@
                 "I need... To breathe...",
                 "Drained...",
                 "It is... Difficult... to breathe...",
-                "*cough* *cough*",
+                "*hoest* *hoest*",
                 "Mijn muscless... Are... Giving out...",
                 "Focus..."
             ],
             "freezing": [
                 "I am dangerously hypothermic.",
                 "I must warm myself, quickly.",
-                "Mijn bloed is freezing.",
-                "Een heat source is needed...",
-                "I am shivering.",
-                "I need to get to warmth, now.",
-                "I am freezing.",
-                "Much too cold. It hurts.",
-                "Such a numbing cold...",
-                "I cannot feel my extremities."
+                "Mijn bloed bevriest.",
+                "Een hittebron is nodig...",
+                "Ik heb klappertanden.",
+                "Ik moet warmte hebben, nu.",
+                "Ik bevries.",
+                "Veel te koud. Doet pijn.",
+                "Wat een verdovende kou...",
+                "Ik voel mijn tenen niet meer."
             ],
             "emaciated": [
                 "Mijn figure is dangerously frail.",
                 "I am at risk of heart failure. I must increase my body mass.",
-                "I am extremely malnourished.",
-                "I need to adjust my diet."
+                "Ik ben extreem ondervoed.",
+                "Ik moet mijn dieet aanpassen."
             ],
             "obese": [
                 "I ought to fast.",
-                "...I am puffy.",
-                "I must lower my body mass before it becomes fatal.",
-                "Mijn girth is proving to be an issue.",
-                "I am heavy."
+                "...Ik ben dik.",
+                "Ik moet wat gewicht verliezen voordat het faataal wordt.",
+                "Mijn vet begint een probleem te worden.",
+                "Ik ben zwaar."
             ],
             "opiated": [
                 "I am under the influence of an opioid-based substance.",
                 "Mm...Mmmmmm...Woozy.",
-                "This feels... Well. Good.",
-                "Sufficient...",
+                "Dit voelt... Nou. Goed.",
+                "Voldoende...",
                 "Such a tingling sensation.",
                 "It is difficult to focus, yet I enjoy it.",
-                "I enjoy this.",
+                "Dit is leuk.",
                 "There are depressants in my system.",
-                "Mijn lungs are heavy."
+                "Mijn longen voelen zwaar."
             ],
             "opiatedsad": [
                 "Een pleasant, fleeting feeling...",
-                "...I can finally relax.",
+                "...Ik kan eindelijk rusten.",
                 "Ik voel me licht...",
-                "Dit is veel beter."
+                "Veel beter."
             ],
             "opiatewithdrawal": [
                 "I-I require another dose of opium, urgently.",
@@ -5735,7 +5735,7 @@
             ],
             "cantBreathe": [
                 "Nhhrr...nngghh...*hack*",
-                "*hack* *cough*",
+                "*hack* *hoest*",
                 "Nhhgg-rhhnngh!"
             ],
             "pain": [
