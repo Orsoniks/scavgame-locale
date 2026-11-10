@@ -290,7 +290,7 @@
         "animalflesh": "Animal flesh",
         "animalfleshdsc": "Een ripped piece of meat from a deceased animal, native to this planet. While it is very similar to your own, it's somewhat edible, even if slightly sickening.",
         "internalorgans": "Internal organs",
-        "internalorgansdsc": "Een solid compressed ball of displaced internal organs, you can see an orange eyeball sticking out. Looks like they came from a creature sized closely to you. Filling, but horribly disgusting en sickening.",
+        "internalorgansdsc": "Een solid compressed ball of displaced internal organs, you can see an oranje eyeball sticking out. Looks like they came from a creature sized closely to you. Filling, but horribly disgusting en sickening.",
         "blobflesh": "Blobvlees",
         "blobfleshdsc": "Oddly gooey piece of flesh. Filling en tasty! Might make you minorly sick.",
         "cactusflesh": "Cactusvlees",
@@ -1372,7 +1372,7 @@
         "mold": "Schimmel",
         "molddsc": "Any indication of what this once was is lang gone. Smells putrid...",
         "orangejuice": "Orange juice",
-        "orangejuicedsc": "Liquid extract of the orange tree fruit. While it is healthy, you're really not a fan of the taste.",
+        "orangejuicedsc": "Liquid extract of the oranje tree fruit. While it is healthy, you're really not a fan of the taste.",
         "applejuice": "Appel juice",
         "applejuicedsc": "Fruit juice made by the maceration en pressing of an apple. Lekker!",
         "hotsauce": "Hot sauce",
@@ -5003,8 +5003,8 @@
             "murderregret": [
                 "....H..Hah... Haha... Ha... Hahaha... Ahhahaha.... Hahhh... H-h..a...",
                 "I am an irredeemable monster. I am ashamed.",
-                "I am... Sorry.",
-                "I did not... Mean to..."
+                "Het... Spijt me.",
+                "Ik bedoelde... Het niet zo..."
             ],
             "tradeemeet": [
                 "Gegroet.",
@@ -5024,18 +5024,18 @@
                 "GEEF HET OP!"
             ],
             "braindamaged": [
-                "...Something is wrong.",
-                "Metallic... Taste. Implies... Hmh...",
+                "...Er klopt iets niet.",
+                "Metalische... Smaak. Betekent... Hmh...",
                 "Axun si mi vi zi othokent xiekiv si hefoc kemic.",
-                "The stained glass window had slivers of yellow, orange, en red.",
-                "Nothingness sees the sun.",
-                "Gasoline shoots pineapples met een machinegun.",
-                "The licht at the end of the tunnel has its world rocked by trees.",
-                "Something is wrong with my cranium.",
-                "There is a metallic taste in my mouth",
-                "Mijn head feels weird.",
-                "I am broken.",
-                "Who's Joe...?"
+                "The stained glass window had slivers of yellow, oranje, en red.",
+                "Het niets ziet de zon.",
+                "Gasoline schiet ananassen met een machinegeweer.",
+                "Het licht aan het einde van de tunnel wordt op zijn kop gezet door bomen.",
+                "Er is iets mis met mijn schedel.",
+                "Ik heb een metalische smaak in mijn mond",
+                "Mijn hoofd voelt raar.",
+                "Ik ben kapot.",
+                "Wie is Joe...?"
             ],
             "lastmoments": [
                 "Hnnh... Hmmnnhhh... Not... Good...",
@@ -5149,7 +5149,7 @@
                 "Hartelijke groeten.",
                 "Welkom.",
                 "Leuk je te ontmoeten!",
-                "Hopelijk gaaat alles goed."
+                "Hopelijk gaat alles goed."
             ],
             "tradermeetgood": [
                 "I'm honored to see another survivor.",
@@ -6481,7 +6481,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "see evil creature... orange evil creature... creature want eat dune!   but dune fight back.   dune kill en eat evil creature!   creature very tasty!",
+                "Item1": "see evil creature... oranje evil creature... creature want eat dune!   but dune fight back.   dune kill en eat evil creature!   creature very tasty!",
                 "Item2": "Sprites/noteDrawings/wallbiter",
                 "Item3": "dune"
             },
@@ -6723,7 +6723,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy orange vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my ogen afterwards without cleaning my hands. ow.",
+                "Item1": "keep getting burns on my paws from these heated stones. im scared itll get infected... though, those glowy oranje vines did give me a bit of relief when i wrapped them around the wound. i made the mistake of touching my ogen afterwards without cleaning my hands. ow.",
                 "Item2": "",
                 "Item3": "experiment"
             },
