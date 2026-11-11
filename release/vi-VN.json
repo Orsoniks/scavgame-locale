@@ -1,7 +1,7 @@
 {
     "name": "Tiếng Việt",
-    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Bạn có thể tìm thêm các bản dịch do cộng đồng của các ngôn ngữ khác tại Kho dịch thuật (Xem phần Ghi công).\n<u>Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời!</u>\nBản dịch <color=#ff0000>Tiế</color><color=#ffea00>ng V</color><color=#ff0000>iệt</color> được thực hiện bởi: <color=#FFA640>Axioid,</color> <color=#F2F310>SuffyrnTardelune,</color> <color=#b2ffce>Vee,</color> <color=#F4BAA3>Just Cyrus,</color> <color=#FFA500>Local Potato,</color> <color=#00ffff>Daenry,</color> <color=#ff5555>Weird Cat,</color> <color=#efd2a8>Jakey.</color>\n\nBản dịch được cập nhật lần cuối vào:\nngày 08, tháng 11, năm 2026.",
-    "version": "1.0",
+    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Bạn có thể tìm thêm các bản dịch do cộng đồng của các ngôn ngữ khác tại Kho dịch thuật (Xem phần Ghi công).\n<u>Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời!</u>\nBản dịch <color=#ff0000>Tiế</color><color=#ffea00>ng V</color><color=#ff0000>iệt</color> được thực hiện bởi: <color=#FFA640>Axioid,</color> <color=#F2F310>SuffyrnTardelune,</color> <color=#b2ffce>Vee,</color> <color=#F4BAA3>Just Cyrus,</color> <color=#FFA500>Local Potato,</color> <color=#00ffff>Daenry,</color> <color=#ff5555>Weird Cat,</color> <color=#efd2a8>Jakey.</color>\n\nBản dịch được cập nhật lần cuối vào:\nngày 11, tháng 11, năm 2026.",
+    "version": "1.0.1",
     "main": {
         "bandage": "Băng gạc",
         "bandagedsc": "Một cuộn băng gạc, dùng để làm chậm quá trình chảy máu, cố định xương gãy và hỗ trợ lành da. Không có tác dụng đối với sức khỏe cơ bắp.",
@@ -2061,9 +2061,9 @@
         "alertnanotechfail": "<color=\"red\">Chữ viết trông không đọc được...\nHay là để thử lại lần sau?",
         "alertnanotechrepeat": "Bạn đã đọc cái này rồi. Giữ máy quét bên bạn và tìm các tín hiệu.",
         "nanotechdepth": "Tín hiệu CÔNG NGHỆ NANO được phát hiện ở độ sâu này!",
-        "nanotechdepthinitialleft": "Tín hiệu CÔNG NGHỆ NANO được phát hiện trong khu vực này, phía bên trái...",
-        "nanotechdepthinitialright": "Tín hiệu CÔNG NGHỆ NANO được phát hiện trong khu vực này, phía bên phải...",        
-        "insertsample": "Đưa một mẫu thử",
+        "nanotechdepthinitialleft": "Tín hiệu CÔNG NGHỆ NANO được phát hiện trong khu vực này, phía bên trái, tại <>...",
+        "nanotechdepthinitialright": "Tín hiệu CÔNG NGHỆ NANO được phát hiện trong khu vực này, phía bên phải, tại <>...",        
+        "insertsample": "Cho vào một mẫu thử",
         "tradeinteract": "Trao đổi",
         "read": "Đọc",
         "repairmetalalloy": "Sửa chữa bằng Bộ sửa chữa Buồng khoan",
@@ -4202,6 +4202,9 @@
             "cargoimpale3": [
                 "Mình... Mình làm được rồi... Ừ thì... Mình cần... Không nên quá tự tin đi... Mình nghĩ mình có thể dùng cái buồng đấy để trở về. Trở về mặt đất thôi."
             ],
+            "wwmrwrongway": [
+                "Mình không nghĩ mình đang đi đúng hướng... Mình nên đi hướng về tâm của mấy cái xung kì lạ đó..."
+            ],
             "endlessloop0": [
                 "...C-cái... cái gì..? Cái gì? Tại sao? Cái gì vừa... Tại sao mình lại quay lại đây..? Hnn... Chuyện gì vừa xảy ra..."
             ],
@@ -4780,7 +4783,7 @@
                 "Nhiệt độ cơ thể tôi dưới mức trung bình.",
                 "Nhiệt độ môi trường dưới mức bình thường.",
                 "*rùng mình*",
-                "Tôi lạnh",
+                "Tôi lạnh.",
                 "Tôi có thể rơi vào trạng thái hạ thân nhiệt nếu điều này tiếp diễn.",
                 "Cơ thể tôi không còn chút hơi ấm nào.",
                 "Tôi nên duy trì ở một mức nhiệt độ thoải mái.",
@@ -5077,6 +5080,9 @@
             ],
             "cargoimpale3": [
                 "Hh. Tập trung. Đành vậy. Việc này nằm trong kế hoạch đã định sẵn cũng là điều hợp lý. Tôi sẽ bước vào buồng khoan đó và di chuyển lên trên."
+            ],
+            "wwmrwrongway": [
+                "Tôi chắc hẳn đang đi sai hướng. Tôi phải hướng về tâm của các xung đó."
             ],
             "endlessloop0": [
                 "...Hừm. Hừmm... Mhhhhmmmhh... Hhhhhmmm... Đ-được rồi. Không... Kh-ông phải. Những gì. Tôi mong đ-ợi. Chắc hẳn tôi đã làm sai điều gì đó. Tôi s-ẽ quay lại và thử một lần nữa."
@@ -5918,6 +5924,9 @@
             ],
             "cargoimpale3": [
                 "Hhr...n..mmm...du-ne rờ-i đư-ợc..."
+            ],
+            "wwmrwrongway": [
+                "Du-ne... Ng-u ng-ốc. Không đườ-ng."
             ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......l-ại n-ữa?"
