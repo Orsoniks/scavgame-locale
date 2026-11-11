@@ -1,6 +1,6 @@
 {
     "name": "Tiếng Việt",
-    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Bạn có thể tìm thêm các bản dịch do cộng đồng của các ngôn ngữ khác tại Kho dịch thuật (Xem phần Ghi công).\n<u>Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời!</u>\nBản dịch <color=#ff0000>Tiế</color><color=#ffea00>ng V</color><color=#ff0000>iệt</color> được thực hiện bởi: <color=#FFA640>Axioid,</color> <color=#F2F310>SuffyrnTardelune,</color> <color=#b2ffce>Vee,</color> <color=#F4BAA3>Just Cyrus,</color> <color=#FFA500>Local Potato,</color> <color=#00ffff>Daenry,</color> <color=#ff5555>Weird Cat,</color> <color=#efd2a8>Jakey.</color>\n\nBản dịch được cập nhật lần cuối vào:\nngày 08, tháng 11, năm 2026.",
+    "description": "Bản dịch Tiếng Việt do cộng đồng đóng góp. Bạn có thể tìm thêm các bản dịch do cộng đồng của các ngôn ngữ khác tại Kho dịch thuật (Xem phần Ghi công).\n<u>Bản dịch không được kiểm duyệt, có thể có sai sót hoặc bị lỗi thời!</u>\nBản dịch <color=#ff0000>Tiế</color><color=#ffea00>ng V</color><color=#ff0000>iệt</color> được thực hiện bởi: <color=#FFA640>Axioid,</color> <color=#F2F310>SuffyrnTardelune,</color> <color=#b2ffce>Vee,</color> <color=#F4BAA3>Just Cyrus,</color> <color=#FFA500>Local Potato,</color> <color=#00ffff>Daenry,</color> <color=#ff5555>Weird Cat,</color> <color=#efd2a8>Jakey.</color>\n\nBản dịch được cập nhật lần cuối vào:\nngày 11, tháng 11, năm 2026.",
     "version": "1.0.1",
     "main": {
         "bandage": "Băng gạc",
