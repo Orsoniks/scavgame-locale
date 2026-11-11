@@ -471,7 +471,7 @@
         "sneakersdsc": "Un par de zapatillas blancas que no están hechas en absoluto para tus pies. Si consigues embutir de algún modo tus patas en ellas, te protegerán de los fragmentos de cristal.",
         "tacticalboots": "Botas tácticas",
         "tacticalbootsdsc": "Un par de pesadas botas sintéticas hechas para proteger eficazmente los pies de diversos tipos de traumatismos.",
-        "frigiantfruit": "Frigofruta",
+        "frigiantfruit": "Fruta de frigoplanta",
         "frigiantfruitdsc": "Una fruta muy fría, dura y cristalina. Sabrosa, pero tiende a enfriarte mucho. Plantéate no consumirla si estás expuesto a un frío glacial.",
         "helluce": "Lechuga infernal",
         "hellucedsc": "Una hierba seca y morada de sabor especialmente picante. Ayuda contra el malestar, alivia ligeramente la pérdida auditiva y podría reducir el sangrado interno. Aumenta mucho la temperatura corporal de quien la consume.",
@@ -489,7 +489,7 @@
         "funguschunkdsc": "Un trozo arrancado de un hongo. Sirve bastante bien como alimento, aunque no estás seguro de sus efectos secundarios.",
         "clottingmush": "Masa coagulante",
         "clottingmushdsc": "Un pequeño vial con una cataplasma coagulante. Debe mantenerse en un recipiente especial para que no se eche a perder. Aunque no es especialmente útil por sí sola, podría refinarse aún más...",
-        "bunchunk": "Trozontón",
+        "bunchunk": "Trozo de bungali",
         "bunchunkdsc": "Un trozo de hongo con propiedades que favorecen la coagulación. Aunque no es especialmente útil por sí solo, podría refinarse aún más...",
         "smallbattery": "Batería pequeña",
         "smallbatterydsc": "Una batería pequeña que puede insertarse en varios dispositivos electrónicos. Almacena la mitad de la energía que una batería mediana.",
@@ -611,7 +611,7 @@
     "buildings": {
         "animalcorpse": "Cadáver de animal",
         "animalcorpsedsc": "",
-        "fungalibungali": "Hongo bungaló",
+        "fungalibungali": "Hongali bungali",
         "fungalibungalidsc": "Un pequeño grupo de setas verdosas. Quizá puedas recolectar uno de sus sombreros si tienes suerte.",
         "mushroomplatform": "Plataforma de seta",
         "mushroomplatformdsc": "Una resistente pieza de hongo sobre la que puedes mantenerte de pie.",
@@ -621,7 +621,7 @@
         "climbingropeextendeddsc": "Un tramo extendido de cuerda resistente. Cuando estés cerca de ella, mantén pulsado [Arriba] para empezar a escalar.",
         "glowshroom": "Brillaseta",
         "glowshroomdsc": "Ligeramente radiactiva y sorprendentemente brillante.",
-        "mushroomtree": "Árbol de seta",
+        "mushroomtree": "Árbol seta",
         "mushroomtreedsc": "Parece bioluminiscente.",
         "drillpod": "Cápsula de taladro",
         "drillpoddsc": "Se utiliza para transportar personas a grandes distancias a través de terreno sólido. Aunque no está operativa, podrías ponerla en funcionamiento si llevas un kit de reparación. Puede usarse para descender 2 capas de una vez.",
@@ -715,7 +715,7 @@
         "geotreedsc": "¡Es blandito! Tiene unas cosas que parecen hojas, con formas extrañamente geométricas.",
         "glowplant": "Briplanta",
         "glowplantdsc": "Una planta verde y bioluminiscente. Parece no verse demasiado afectada por el entorno.",
-        "mushlight": "Setaluz",
+        "mushlight": "Lumasa",
         "mushlightdsc": "Una especie de planta bioluminiscente.",
         "jumppad": "Maquinaria antigua",
         "jumppaddsc": "Tiene una placa de presión.",
@@ -830,8 +830,8 @@
         "trader": "Superviviente",
         "traderdsc": "Otra víctima desafortunada. Al menos sigue respirando.",
         "traderdscdead": "Ya no respira. Gracias a ti.",
-        "bananaplant": "Planta plátano",
-        "bananaplantdsc": "Una planta baja y ancha, llamada coloquialmente \"planta plátano\" por su parte superior blanda y amarilla. Es muy resbaladiza al pisarla.",
+        "bananaplant": "Planta de plátano",
+        "bananaplantdsc": "Una planta baja y ancha, llamada coloquialmente \"planta de plátano\" por su parte superior blanda y amarilla. Es muy resbaladiza al pisarla.",
         "geyser": "Géiser",
         "geyserdsc": "Un géiser inestable con tendencia a expulsar agua. Por suerte, en el peor de los casos está a temperatura ambiente.",
         "lavageyser": "Géiser",
@@ -1196,8 +1196,8 @@
         "dirty1dsc": "Considera darte un baño rápido. (<>%)",
         "dirty2dsc": "Aunque no te importe mucho la falta de higiene, a tu sistema inmune sí. Báñate. (<>%)",
         "adrenalinedsc": "Dolor atenuado. Estás muy alerta.",
-        "tachycardiadsc": "Notas que el corazón te late demasiado rápido.",
-        "bradycardiadsc": "Notas que el corazón te late demasiado despacio.",
+        "tachycardiadsc": "Notas que el corazón te late más rápido de lo normal.",
+        "bradycardiadsc": "Notas que el corazón te late más despacio de lo normal.",
         "rnrsdsc": "Shock neuronal causado por una regeneración rápida y repentina de tejido cerebral. Aunque te acostumbrarás en un tiempo, será mejor que no tomes otra dosis por ahora. (<>)",
         "rippedjawdsc": "Tu mandíbula inferior ha sido arrancada debido a un traumatismo grave en la cabeza. Comer y hablar es mucho más difícil. La experiencia te ha dejado horriblemente marcado.",
         "rippedeyedsc": "Uno de tus ojos ha sido arrancado, acortando tu campo de visión a la mitad. La experiencia te ha dejado algo marcado. No pierdas el que te queda.",
@@ -2331,7 +2331,7 @@
         "tutaid70": "¡BU!",
         "tutaid71": "Se ha pasado rápido, ¿verdad?",
         "tutaid72": "Ten cuidado con los opioides: puedes sufrir una sobredosis con facilidad o un síndrome de abstinencia después. La naloxona y la naltrexona pueden ayudar en casos de abuso de opiáceos.",
-        "tutaid73": "Con esto concluye el Curso de Primeros Auxilios. Podríamos explicar más cosas, pero creemos que podrás entender las demás afecciones sin correr riesgos. Puedes volver a la habitación que tienes asignada.",
+        "tutaid73": "Con esto concluye el Curso de Primeros Auxilios. Podríamos explicar más cosas, pero creemos que podrás apañártelas con las demás afecciones sin correr riesgos. Puedes volver a la habitación que tienes asignada.",
         "tutcraft1": "Bienvenido al Curso de Fabricación. Hoy veremos con detalle cómo conseguir objetos y te enseñaremos algunos procedimientos habituales.",
         "tutcraft2": "Casi todo lo que ves es material de verdad, no basura.",
         "tutcraft3": "Puedes obtener metal de los montones de chatarra y de las trampas, madera de las estructuras de madera, follaje de las plantas, etc.",
@@ -5356,7 +5356,7 @@
             "dyingresponse": [
                 "No estoy seguro de que la RCP ayude en esta situación.",
                 "¿En serio? ¿Muriéndote, en MI suelo?",
-                "¿Entrar en pánico va a mejorar de verdad la situación?"
+                "¿De verdad vas a mejorar la situación entrando en pánico?"
             ]
         },
         {
@@ -6758,7 +6758,7 @@
             "Item2": ""
         },
         {
-            "Item1": "[REPORTE DE INCIDENTE]\n[TRANSCRIPCIÓN DE AUDIO RECUPERADA B7-187545]\n[BAHÍA DE TELETRANSPORTACIÓN: OSPREY]<>\n\"He visto las características, pero... Joder, esa cosa sí que es grande.\"\n\"Por supuesto. Al fin y al cabo, está diseñada para transportar edificios enteros.\"\n\"¿Y llegan de una pieza?\"\n\"Aún estamos haciendo ajustes, pero ese es el motivo por el que nos aseguramos de que la mayoría de las cargas puedan soportar una pequeña caída. Una caída desde, digamos... la atmósfera.\"\n<ACOPLE DEL PDA> \"¡Sí, ahí, déjalo ahí en el centro!\"\n\"¿Qué es lo que están moviendo?\"\n\"Chaval, sí que estás verde. Es esa nueva fuente de energía que tanto entusiasma a la dirección.\"\n\"Oh... ¿Es seguro que estén ahí abajo en el depósito de desplazamiento, señor?\"\n\"Por supuesto, siempre y cuando no lo enciendas. Aunque, cuando todavía estaba en desarrollo, parte de la carne de cañón utilizada en las pruebas acabó cortada limpiamente por la mitad. Resulta que una capacitancia parásita del\nciclo de arranque era suficiente para activar el proyector de campo, pero por eso no hacemos nosotros mismos el mantenimiento de estos aparatos. La otra mitad acabó en el baño de empleados de la sede.\"\n\"Seguro que eso le dio al conserje algo en lo que pensar.\"\n\"Esa sangre amarilla mancha una barbaridad. Todavía puedo ver algo de ella ahí abajo.\"<>\n<THUCNK>\n<RUGIDO MECÁNICO>\n\"¡¿Qué es eso?!\"\n\"¡Es solo el desplazador de metamasa poniéndose en marcha! El director no para de darme por culo por el consumo de energía, ¡así que hagamos esto rápido! ¡¿Destino?!\"\n\"¡Ehh...! ¡Fijado, señor!\"\n\"¿¡Depósito!?\"\n\"¡Despejado, señor!\"\n\"¡¿Indicadores?!\"\n\"¡Todos en verde, señor! \"\n\"¡Actívalo!\"\n<RUIDO DE ALARMA> \"¡Qu-!\"\n\"¿¡Qué has hecho!?\"\n\"¡Y-yo no he hecho nada!\"\n\"¡El estabilizador s--e dis--uel--ve! ¡Ap--ága-lo!\"\n\"¡No---pu-edo, e-stá!\"\n<RUIDOS DE ALARMA SOLAPÁNDOSE>\n\"¿¡P-or q-ué n---o!?\"\n\"In--ten-ta---<>\n[FIN DE TRANSCRIPCIÓN]",
+            "Item1": "[REPORTE DE INCIDENTE]\n[TRANSCRIPCIÓN DE AUDIO RECUPERADA B7-187545]\n[BAHÍA DE TELETRANSPORTACIÓN: OSPREY]<>\n\"He visto las características, pero... Joder, esa cosa sí que es grande.\"\n\"Por supuesto. Al fin y al cabo, está diseñada para transportar edificios enteros.\"\n\"¿Y llegan de una pieza?\"\n\"Aún estamos haciendo ajustes, pero ese es el motivo por el que nos aseguramos de que la mayoría de las cargas puedan soportar una pequeña caída. Una caída desde, digamos... la atmósfera.\"\n<ACOPLE DEL PDA> \"¡Sí, ahí, déjalo ahí en el centro!\"\n\"¿Qué es lo que están moviendo?\"\n\"Chaval, sí que estás verde. Es esa nueva fuente de energía que tanto entusiasma a la dirección.\"\n\"Oh... ¿Es seguro que estén ahí abajo en el depósito de desplazamiento, señor?\"\n\"Por supuesto, siempre y cuando no lo enciendas. Aunque, cuando todavía estaba en desarrollo, parte de la carne de cañón utilizada en las pruebas acabó cortada limpiamente por la mitad. Resulta que una capacitancia parásita del ciclo de arranque era suficiente para activar el proyector de campo, pero por eso no hacemos nosotros mismos el mantenimiento de estos aparatos. La otra mitad acabó en el baño de empleados de la sede.\"\n\"Seguro que eso le dio al conserje algo en lo que pensar.\"\n\"Esa sangre amarilla mancha una barbaridad. Todavía puedo ver algo de ella ahí abajo.\"<>\n<THUCNK>\n<RUGIDO MECÁNICO>\n\"¡¿Qué es eso?!\"\n\"¡Es solo el desplazador de metamasa poniéndose en marcha! El director no para de darme por culo por el consumo de energía, ¡así que hagamos esto rápido! ¡¿Destino?!\"\n\"¡Ehh...! ¡Fijado, señor!\"\n\"¿¡Depósito!?\"\n\"¡Despejado, señor!\"\n\"¡¿Indicadores?!\"\n\"¡Todos en verde, señor! \"\n\"¡Actívalo!\"\n<RUIDO DE ALARMA> \"¡Qu-!\"\n\"¿¡Qué has hecho!?\"\n\"¡Y-yo no he hecho nada!\"\n\"¡El estabilizador s--e dis--uel--ve! ¡Ap--ága-lo!\"\n\"¡No---pu-edo, e-stá!\"\n<RUIDOS DE ALARMA SOLAPÁNDOSE>\n\"¿¡P-or q-ué n---o!?\"\n\"In--ten-ta---<>\n[FIN DE TRANSCRIPCIÓN]",
             "Item2": ""
         },
         {
