@@ -1,7 +1,7 @@
 {
     "name": "English",
     "description": "The official developer-created english translation of the game. You can find community translations in the locale repository (See credits menu). Community translations are not quality-checked and might be inaccurate or out of date!",
-    "version": "1.0",
+    "version": "1.0.1",
     "main": {
         "bandage": "Dressing",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
@@ -1216,7 +1216,7 @@
         "cargodsc": "The look is disturbing and the feeling is monstrously uncomfortable, yet you feel empowered...",
         "prosthesisdsc": "A prosthesis is attached to you. Prosthetic limbs cannot bleed or feel pain, but need to be rebuilt with their repair material if damaged.",
         "loosescrewsdsc": "One of your prostheses is coming loose, causing material damage while you move. This is caused by shrapnel or critical material loss.",
-        "bentprosthesisdsc": "One of your ptostheses is bent way out of shape, disabling its use and making it unable to be repaired normally. Fix it using any wrench.",
+        "bentprosthesisdsc": "One of your prostheses is bent way out of shape, disabling its use and making it unable to be repaired normally. Fix it using any wrench.",
         "materiallossdsc": "One of your prostheses has a huge crack going down the middle, disabling its use and making it prone to breaking off. Fix it using the repair material."
     },
     "other": {
@@ -1406,7 +1406,7 @@
         "keratinbooster": "Keratin-booster",
         "keratinboosterdsc": "A modified growth hormone that specifically targets keratin in order to encourage its growth. Makes your claws regrow faster for a while.",
         "highgradestimulant": "Medical-grade stimulant",
-        "highgradestimulantdsc": "Medical stimulant drug. Gives you a very good kick for a pretty long while, and is generally safe to use. Overdose generally entails weakness, with a neglegible crash. Dosage is 100ml.",
+        "highgradestimulantdsc": "Medical stimulant drug. Gives you a very good kick for a pretty long while, and is generally safe to use. Overdose generally entails weakness, with a negligible crash. Dosage is 100ml.",
         "midgradestimulant": "Hard stimulant",
         "midgradestimulantdsc": "Decently refined stimulating hard drug. Only works intravenously. Will give you a pretty good kick for a short while, but has some side effects. Overdose entails weakness and internal bleeding. Dosage is 50ml.",
         "lowgradestimulant": "Off-brand stimulant",
@@ -2061,8 +2061,8 @@
         "alertnanotechfail": "<color=\"red\">The writing is incomprehensible...\nMaybe try another time?",
         "alertnanotechrepeat": "You already read this. Keep the scanner on you and watch for any signals.",
         "nanotechdepth": "NANO-TECH Signature detected at this depth!",
-        "nanotechdepthinitialleft": "NANO-TECH Signature detected in this area, to the left...",
-        "nanotechdepthinitialright": "NANO-TECH Signature detected in this area, to the right...",
+        "nanotechdepthinitialleft": "NANO-TECH Signature detected in this area, to the left, at <>.",
+        "nanotechdepthinitialright": "NANO-TECH Signature detected in this area, to the right, at <>.",
         "insertsample": "Insert a sample",
         "tradeinteract": "Trade",
         "read": "Read",
@@ -4202,6 +4202,9 @@
             "cargoimpale3": [
                 "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
             ],
+            "wwmrwrongway": [
+                "I don't think this is the right way... I should go towards the source of those weird pulses..."
+            ],
             "endlessloop0": [
                 "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
             ], 
@@ -4780,7 +4783,7 @@
                 "My body temperature is below average.",
                 "The ambient temperature is below the norm.",
                 "*shudder*",
-                "I am cold",
+                "I am cold.",
                 "I may enter a hypothermic state if this continues.",
                 "I have no warmth in my body.",
                 "I ought to stay at a comfortable temperature.",
@@ -5077,6 +5080,9 @@
             ],
             "cargoimpale3": [
                 "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+            ],
+            "wwmrwrongway": [
+                "I must be going the wrong way. I must head towards the source of the pulses."
             ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
@@ -5918,6 +5924,9 @@
             ],
             "cargoimpale3": [
                 "Hhr...n..mmm...du-ne can lea-ve..."
+            ],
+            "wwmrwrongway": [
+                "Du-ne... Stu-pid. No wa-y."
             ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......a-gain?"
