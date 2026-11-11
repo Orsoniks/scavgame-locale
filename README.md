@@ -64,6 +64,8 @@ These are all of the locales available for the [demo version](https://store.stea
 
 ## Contributing
 
+```AI assisted contributions are not accepted.```
+
 Please read the [contribution guidelines](/CONTRIBUTING.md) for ways in which you can contribute to existing or new localizations.
 
 The [translation notes](./TranslationNotes.md) has extra context and rules on how to translate specific text from the English locale.
