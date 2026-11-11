@@ -1,7 +1,7 @@
 {
     "name": "Español (Latinoamérica)",
-    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat,</color> <color=\"orange\">ItsVoidSK,</color> <color=\"yellow\">Derkala,</color> <color=#bbff54>IzaCarlos,</color> <color=#00ffff>Zorpolar,</color> <color=\"blue\">LeonixMG y</color> <color=\"purple\">JuanMC45.</color>\n\nÚltima actualización:<color=\"white\"> 8 de Noviembre del 2026.</color>",
-    "version": "1.0",
+    "description": "La versión traducida del juego al idioma español creado por la comunidad. Puedes encontrar más traducciones en el repositorio local (Véase el menú de créditos). ¡Estas traducciones no han sido revisadas meticulosamente y podrían ser inexactas o estar desactualizadas! La traducción fue realizada gracias a: <color=\"red\">Zilat,</color> <color=\"orange\">ItsVoidSK,</color> <color=\"yellow\">Derkala,</color> <color=#bbff54>IzaCarlos,</color> <color=#00ffff>Zorpolar,</color> <color=\"blue\">LeonixMG y</color> <color=\"purple\">JuanMC45.</color>\n\nÚltima actualización:<color=\"white\"> 11 de Noviembre del 2026.</color>",
+    "version": "1.0.1",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de vendas con ligadura, usado para detener el sangrado, estabilizar fracturas y ayudar a sanar la piel. No ayuda a sanar el músculo.",
@@ -1688,6 +1688,7 @@
         "rundivtrader": "Ajustes de los comerciantes",
         "rundivother": "Otros",
         "rundivchallenges": "Desafíos",
+        
         "tutorialwarning": "<size=150%>Antes de continuar...\n\n<size=100%>Aún no has completado el curso de instrucción básica.\n¿Seguro que quieres adentrarte sin preparación alguna?\n\n\n\nTu muerte es prácticamente segura.",
         "tutorialwarningyes": "Completar el curso básico",
         "tutorialwarningno": "¡Sé lo que hago!",
@@ -2060,8 +2061,8 @@
         "alertnanotechfail": "<color=\"red\">El texto es incomprensible...\nInténtalo más tarde, ¿tal vez?",
         "alertnanotechrepeat": "Ya leíste esto. Mantén el escáner contigo y atento a cualquier señal.",
         "nanotechdepth": "¡Firma NANO-TEC detectada a esta profundidad!",
-        "nanotechdepthinitialleft": "Firma NANO-TEC detectada en esta área, a la izquierda...",
-        "nanotechdepthinitialright": "Firma NANO-TEC detectada en esta área, a la derecha...",
+        "nanotechdepthinitialleft": "Firma NANO-TEC detectada en esta área, a la izquierda a <>.",
+        "nanotechdepthinitialright": "Firma NANO-TEC detectada en esta área, a la derecha a <>.",
         "insertsample": "Inserte una muestra",
         "tradeinteract": "Intercambiar",
         "read": "Leer",
@@ -4201,6 +4202,9 @@
             "cargoimpale3": [
                 "E... E-en serio lo hice... Bueno... Ya... No nos confiemos mucho... Creo que puedo usar esa cápsula para volver. Salgamos a la superficie."
             ],
+            "wwmrwrongway": [
+                "No creo que este sea el camino... Debería ir hacia la fuente de esos pulsos raros..."
+            ],
             "endlessloop0": [
                 "¿...Quu-ué...qué...? ¿Qué? ¿Por qué? ¿Qué pasó...? ¿Por qué estoy otra vez aquí...? Hnn... ¿Qué acaba de pasar...?"
             ],
@@ -5077,6 +5081,9 @@
             "cargoimpale3": [
                 "Hh. Concéntrate. Muy bien. Es totalmente lógico que esto formara parte de lo planeado. Procederé a entrar en esta cápsula de perforación y subiré."
             ],
+            "wwmrwrongway": [
+                "Debo estar dirigiéndome en el camino equivocado. Debo aproximarme hacia la fuente de los pulsos."
+            ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okey. No... N-no. Es lo que. Estaba e-esperando. Debí de haber hecho algo mal. Regresaré y lo i-intentaré de nuevo."
             ],
@@ -5910,13 +5917,16 @@
                 "¿Co-mida...? Hhoooohhhh.... ¿hhhooh..?"
             ],
             "cargoimpale": [
-                "¡¡¡¡GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! ¡¡¡¡GGRRHHHAAAAGGHHHH!!!"
+                "¡¡¡¡¡GGRRRAAAAAHHHHHHHHHCCNNNKKKK!!!!! ¡¡¡GGRRHHHAAAAGGHHHH!!!"
             ],
             "cargoimpale2": [
                 "GGHHHRRAAaaaahhh.... hhnnnh... ¿nnnh... n..?"
             ],
             "cargoimpale3": [
                 "Hhr... n... mmm... du-ne puede ir-se..."
+            ],
+            "wwmrwrongway": [
+                "Du-ne... Estú-pido. Aqu-í no e-s."
             ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......¿O-tra vez?"
