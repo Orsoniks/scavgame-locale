@@ -1,7 +1,7 @@
 {
     "name": "Español (España)",
     "description": "<color=\"white\">Español de España</color>\nTraducción comunitaria\n\n<color=#DDBF84>Equipo principal</color>\n<color=\"white\"><b>en2que · Iter-bite (Íter) · JaGarLo</b></color>\n\n<color=\"white\"><b>en2que</b></color>: cobertura de nuevas versiones, mantenimiento, coordinación y pruebas de prelanzamiento.\n\n<color=\"white\"><b>Iter-bite (Íter) y JaGarLo</b></color>: revisión integral, definición del estilo, traducción de nuevos textos y ajustes para la interfaz.\n\n<color=#DDBF84>Traducción original</color>\n<color=\"white\">Maksklv2010</color>, con la colaboración de <color=\"white\">Fhursday</color>.\n\n<color=#DDBF84>Con aportaciones de</color>\n<color=\"white\">WereWhusky, Zilat, Zorpolar</color> y el equipo de la traducción latinoamericana.\n\n<color=#DDBF84>Errores y sugerencias</color>\nAvísanos en <color=\"white\">cu-translations</color>, en el Discord oficial del juego.\n<color=\"white\">https://discord.gg/targetplanet</color>\n\nÚltima actualización: 11 de noviembre de 2026.",
-    "version": "1.0",
+    "version": "1.0.1",
     "main": {
         "bandage": "Vendaje",
         "bandagedsc": "Un rollo de gasa con una venda, utilizado para frenar el sangrado, estabilizar fracturas y favorecer la curación de la piel. No tiene efecto sobre la salud muscular.",
@@ -2059,8 +2059,8 @@
         "alertnanotechfail": "<color=\"red\">El texto es incomprensible...\n¿Y si lo intentas en otro momento?",
         "alertnanotechrepeat": "Ya has leído esto. Lleva el escáner contigo y mantente atento a cualquier señal.",
         "nanotechdepth": "¡Señal de nanotecnología detectada a esta profundidad!",
-        "nanotechdepthinitialleft": "Señal de nanotecnología detectada en esta área, a la izquierda...",
-        "nanotechdepthinitialright": "Señal de nanotecnología detectada en esta área, a la derecha...",
+        "nanotechdepthinitialleft": "Señal de nanotecnología detectada en esta área, a la izquierda, a <>.",
+        "nanotechdepthinitialright": "Señal de nanotecnología detectada en esta área, a la derecha, a <>.",
         "insertsample": "Insertar muestra",
         "tradeinteract": "Intercambiar",
         "read": "Leer",
@@ -4200,6 +4200,9 @@
             "cargoimpale3": [
                 "Lo... Lo h-he conseguido de verdad... Bueno... Yo... Mejor no confiarse demasiado... Creo que puedo utilizar esa cápsula para regresar. Vayamos a la superficie."
             ],
+            "wwmrwrongway": [
+                "No creo que este sea el camino correcto... Debería ir hacia la fuente de esos pulsos extraños..."
+            ],
             "endlessloop0": [
                 "¿...Qu-qu...qué..? ¿Qué? ¿Por qué? ¿Qué acaba de...? ¿Por qué estoy de vuelta aquí..? Hnn... ¿Qué acaba de pasar...?"
             ],
@@ -5076,6 +5079,9 @@
             "cargoimpale3": [
                 "Hh. Concéntrate. Muy bien. Es lógico que esto estuviera previsto en el plan. Entraré en esta cápsula taladradora y ascenderé."
             ],
+            "wwmrwrongway": [
+                "Tengo que estar yendo mal. Debo encaminarme a la fuente de los pulsos."
+            ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... V-vale. No... N-no es. Lo que. Me e-esperaba. Debo haber hecho algo mal. V-volveré y lo intentaré otra vez."
             ],
@@ -5915,7 +5921,10 @@
                 "GGHHHRRAAaaaahhh... ¿Hhnnnh...nnnh...n...?"
             ],
             "cargoimpale3": [
-                "Hhr...n..mmm... Du-ne puede ir-se..."
+                "Du-ne... Estu-pido. Impo-sible."
+            ],
+            "wwmrwrongway": [
+                "I must be going the wrong way. I must head towards the source of the pulses."
             ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......¿De nue-vo?"
