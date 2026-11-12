@@ -5,18 +5,7 @@ import process from "node:process";
 import child_process from "node:child_process";
 import crypto from "node:crypto";
 
-export const versions = [
-    "latest",
-    "latestdemo",
-    // Demo versions
-    "v5.1", "v6.0", "v6.1", "v7.0.1", "v7.7.9",
-    // Release versions
-    "v1.0-pre3",
-    "bccaab7bc33581c79f22139f11c3bd8201129bfc", // v1.0-pre3 with additions
-    "v1.0-pre13",
-];
-
-const versionDb = {
+export const versionDb = {
     "v5.1": { path: "EN.json", hash: "927B81F087664C8DFF06B1EF5011E9EB8B29581C8B489B5B26E29FBAE86E920B" },
     "v6.0": { path: "EN.json", hash: "754728144B867B5348E94F4124AF3F9491C6527E03032660E901A7F5896521CA" },
     "v6.1": { path: "EN.json", hash: "3FEC04F51139DF1B9312D8B10AE508E40DF68B2D00CB2BBC96A38DC7A0D62980" },
@@ -25,7 +14,11 @@ const versionDb = {
     "v1.0-pre3": { path: "release/EN.json", hash: "3D804E7491A5FC961D6C0A9D3D63CE168ADA1D70D0716B30DCB738A6E9436AAE" },
     "bccaab7bc33581c79f22139f11c3bd8201129bfc": { path: "release/EN.json", hash: "3A6B49732F01D1FCA228E10A5EB4E5ECEF2FC66AFD241B68E520226E4B03AB5E" },
     "v1.0-pre13": { path: "release/EN.json", hash: "685C44AC92D5538F2C941A5CE5D093E446E112AD73C402FD33C9638DFB43F2A9" },
+    "v1.0": { path: "release/EN.json", hash: "F6F71BF7C965643432D94B8FF7290DF5954020529D63FE507238F7563FDEE193" },
+    "v1.0.1": { path: "release/EN.json", hash: "DFA4A41E60094CB48698DEE4E3809E51CB4C7F08085ACD0269A4A8FAEFB101C9" },
 }
+
+export const versions = [...Object.keys(versionDb), "latest", "latestdemo"];
 
 export function flattenPaths(target, basePath = '')
 {
@@ -136,7 +129,7 @@ export async function getEnVersion(version)
 
     if (version != "latest" && version != "latestdemo") {
         if (await fs.stat(enPath, { throwIfNoEntry: false }) === undefined) {
-            console.log(`Fetching EN version ${version}...`);
+            // console.log(`Fetching EN version ${version}...`);
             const data = await fetchEnVersion(version);
             if (data != null) {
                 try {
