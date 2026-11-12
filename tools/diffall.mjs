@@ -1,3 +1,14 @@
+/*
+ * Translation review utils by Marioalexsan
+ * CC0 license, do whatever you want with it
+ *
+ * Display diffs for every demo and release file as if you ran `node tools/diff.mjs <latest/latestdemo> <locale> -1` on it
+ *   node tools/diffall.mjs
+ *
+ * You will need Node.js 24 installed to run this script.
+ * Please note that this utility will fetch some GitHub files for past EN versions under the "tools/" directory.
+ */
+
 import { diff } from './diff.mjs';
 import fs from "node:fs/promises";
 import fsPath from "node:path";
