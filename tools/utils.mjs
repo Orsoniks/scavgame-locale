@@ -7,6 +7,7 @@ import crypto from "node:crypto";
 
 export const versions = [
     "latest",
+    "latestdemo",
     // Demo versions
     "v5.1", "v6.0", "v6.1", "v7.0.1", "v7.7.9",
     // Release versions
@@ -128,12 +129,13 @@ async function fetchEnVersion(version) {
 
 export async function getEnVersion(version)
 {
-    const enPath = version === "latest" ? 'release/EN.json' : fsPath.join("tools", `EN-${version}.json`);
+    const enPath =
+        version === "latest" ? 'release/EN.json' :
+        version === "latestdemo" ? 'demo/EN.json' :
+        fsPath.join("tools", `EN-${version}.json`);
 
-    if (version != "latest") {
-        if (await fs.stat(enPath, { throwIfNoEntry: false }) !== undefined) {
-            console.log(`Found cached EN version ${version}.`);
-        } else {
+    if (version != "latest" && version != "latestdemo") {
+        if (await fs.stat(enPath, { throwIfNoEntry: false }) === undefined) {
             console.log(`Fetching EN version ${version}...`);
             const data = await fetchEnVersion(version);
             if (data != null) {
