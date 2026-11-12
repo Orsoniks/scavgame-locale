@@ -16,8 +16,6 @@ import fs from "node:fs/promises";
 import fsPath from "node:path";
 import readline from "node:readline/promises";
 import process from "node:process";
-import child_process from "node:child_process";
-import crypto from "node:crypto";
 
 import {
   flattenPaths,
@@ -160,11 +158,11 @@ async function diff(targetVersion, targetLocale, detailLevel)
       }
     };
 
+    detailsSection('Similar to EN.json (or previous versions of it)', [...identicalKeys], detailsTarget);
     detailsSection('Missing items', missingItems, detailsDiff);
     detailsSection('Extra items', extraItems, detailsDiff);
     detailsSection('Incorrect types', [...incorrectTypes], detailsDiff);
     detailsSection('Incorrect keys', [...incorrectKeys], detailsDiff);
-    detailsSection('Similar to EN.json (or previous versions of it)', [...identicalKeys], detailsTarget);
     detailsSection('Potential format issues', keysWithFormatIssues, formatDiff, (item) => item[0]);
   }
   else {
@@ -187,7 +185,9 @@ async function diff(targetVersion, targetLocale, detailLevel)
     approxWords += getPath(enJson, path).split(" ").filter(x => x.length > 0).length;
   }
 
-  console.log("EN.json keys: " + keysTotal + ", character length:", charLength, "words:" + approxWords);
+  const completionPercentage = 1 - identicalKeys.length / keysTotal;
+
+  console.log(`EN.json keys: ${keysTotal}, character length: ${charLength}, words: ${approxWords}  (${Math.floor(completionPercentage * 100)}% translated)`);
 }
 
 // Matches stuff like <color> and \n
