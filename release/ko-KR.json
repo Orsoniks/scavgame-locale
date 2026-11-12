@@ -1,7 +1,7 @@
 {
     "name": "한국어",
-    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n\n번역 업데이트: 2026-11-09\n\n<color=\"white\"><align=\"center\"><mspace=0.455em>-------------------------------------------------------------------------------------------------------------------</mspace></align></color>\n\n폰트 가독성 패치\n\n<color=\"yellow\">https://drive.google.com/file/d/1uWbEqpFBsPs51kaPNwlSqR2n1KfFaJ_m/view</color>\n\n<color=\"white\"><align=\"center\"><mspace=0.75em><line-height=70%>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%%%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%%%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%%%%%</color>%%%%%\n%%%%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%</color>%%%%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%\n%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%%%\n%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%%%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%%%\n%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%%%%%%%\n%%%%<color=\"black\">%%</color>%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%\n%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%%%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%%%%%%</color>%%%%\n%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%%%</color>%%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%%%%</color>%<color=\"black\">%%%%%</color>%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%%%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</line-height></mspace>\n\n<mspace=0.455em>-------------------------------------------------------------------------------------------------------------------</mspace></align></color>\n\n번역 제작자\n\n<color=\"white\">A토픽(topicular)</color> <color=\"yellow\">https://github.com/metnias</color>\n<color=\"white\">Enine</color> <color=\"yellow\">https://github.com/EnineStuxnet</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">쉘터캣(Shelt3redcat)</color>\n<color=\"white\">스탠다드(six-standard)</color> <color=\"yellow\">https://github.com/s1xs6d</color>\n<color=\"white\">옥꼬리(oakgall)\n진도리(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">컨트롤캐럿(ControlCaret)</color> <color=\"yellow\">https://github.com/ControlCaret</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
-    "version": "1.0",
+    "description": "피드백이나 번역 개선점은 <color=\"yellow\">https://github.com/Kedr2806/scavgame-locale/issues</color>에 남겨 주세요.\n\n번역 업데이트: 2026-11-12\n\n<color=\"white\"><align=\"center\"><mspace=0.455em>-------------------------------------------------------------------------------------------------------------------</mspace></align></color>\n\n폰트 가독성 패치\n\n<color=\"yellow\">https://drive.google.com/file/d/1uWbEqpFBsPs51kaPNwlSqR2n1KfFaJ_m/view</color>\n\n<color=\"white\"><align=\"center\"><mspace=0.75em><line-height=70%>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%%%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%%%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%%%%%</color>%%%%%\n%%%%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%</color>%%%%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%\n%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%%</color>%%%%<color=\"black\">%%%%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%%%\n%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%%%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%%\n%%%%%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%%%</color>%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%%%%%%\n%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%%%<color=\"black\">%%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%%%%%%%\n%%%%<color=\"black\">%%</color>%%%%%%%%%%<color=\"black\">%%%</color>%%<color=\"black\">%%%%</color>%<color=\"black\">%%</color>%%<color=\"black\">%%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%%%\n%%%%%<color=\"black\">%</color>%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%%%</color>%%%%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%\n%%%%%<color=\"black\">%%%%%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%%%%%%</color>%%%%\n%%%%<color=\"black\">%%</color>%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%%%</color>%%%%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%\n%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%</color>%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%%%</color>%%%%%%\n%%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%<color=\"black\">%%%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%%%%%%%%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%<color=\"black\">%</color>%%<color=\"black\">%%%%</color>%%<color=\"black\">%</color>%<color=\"black\">%%%%</color>%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%%%%</color>%<color=\"black\">%%%%%</color>%%%<color=\"black\">%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%</color>%%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%%%%%%%%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%<color=\"black\">%%%</color>%<color=\"black\">%</color>%%%<color=\"black\">%%</color>%%<color=\"black\">%%%%</color>%%%%%%%<color=\"black\">%</color>%%%<color=\"black\">%</color>%%%%\n%%%%<color=\"black\">%</color>%%%%%<color=\"black\">%</color>%%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%%%<color=\"black\">%</color>%<color=\"black\">%%%%%</color>%<color=\"black\">%%%%%</color>%%%%\n%%%%<color=\"black\">%%%%%%%</color>%<color=\"black\">%%%</color>%<color=\"black\">%%%</color>%%%%<color=\"black\">%%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%</color>%<color=\"black\">%%</color>%%<color=\"black\">%</color>%<color=\"black\">%</color>%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</line-height></mspace>\n\n<mspace=0.455em>-------------------------------------------------------------------------------------------------------------------</mspace></align></color>\n\n번역 제작자\n\n<color=\"white\">A토픽(topicular)</color> <color=\"yellow\">https://github.com/metnias</color>\n<color=\"white\">Enine</color> <color=\"yellow\">https://github.com/EnineStuxnet</color>\n<color=\"white\">당근멸치(CarrotAnchovy)</color> <color=\"yellow\">https://github.com/johypark97</color>\n<color=\"white\">멐(muqhc)</color> <color=\"yellow\">https://github.com/muqhc</color>\n<color=\"white\">쉘터캣(Shelt3redcat)</color>\n<color=\"white\">스탠다드(six-standard)</color> <color=\"yellow\">https://github.com/s1xs6d</color>\n<color=\"white\">옥꼬리(oakgall)\n진도리(DrawinDarwin)</color> <color=\"yellow\">https://github.com/DrawinDarwin</color>\n<color=\"white\">컨트롤캐럿(ControlCaret)</color> <color=\"yellow\">https://github.com/ControlCaret</color>\n<color=\"white\">케드르(Kedr2806)</color> <color=\"yellow\">https://github.com/Kedr2806",
+    "version": "1.0.1",
     "main": {
         "bandage": "붕대",
         "bandagedsc": "출혈을 늦추고 골절을 안정시키며 피부 치유를 돕는 붕대 한 뭉치. 근육 건강에는 효력이 없다.",
@@ -792,7 +792,7 @@
         "fan": "오래된 기계 장치",
         "fandsc": "날개가 날카로워 보이지만, 잘 부러질 거 같다.",
         "fandsc2": "이젠 그렇게 무섭지 않다.",
-        "TurbulentCrystal": "고동의 수정",
+        "TurbulentCrystal": "요동의 수정",
         "TurbulentCrystaldsc": "약간 요동치는 듯하다.",
         "turret": "터렛",
         "turretdsc": "열 감지기가 탑재된 것 같다.",
@@ -1678,10 +1678,10 @@
         "runsetzeroskillsdsc": "구석에 앉아 식량을 까 먹는 것 말고는 평생 <i>아무것도</i> 한 게 없습니다. 신체, 저항, 지성이 0에서 시작합니다.",
         "runsetblind": "실명",
         "runsetblinddsc": "어느 끔찍한 실험이 당신을 실명시켰습니다. 지팡이는 포함되지 않습니다.",
-        "runsetamputee": "사지절단",
+        "runsetamputee": "사지 절단",
         "runsetamputeedsc": "어느 끔찍한 실험이 당신의 사지를 절단시켰습니다. 적어도 나무로 된 멋진 의족과 의수는 있네요!",
         "runsetimmortalsnail": "불사 달팽이",
-        "runsetimmortalsnaildsc": "불가해한 힘이 당신을 표적 삼아, 당신이 깨어 있는 동안 천천히 다가옵니다. 그것이 당신에게 닿아선 안 됩니다.",
+        "runsetimmortalsnaildsc": "불가해한 힘이 당신을 표적으로 삼아, 당신이 깨어 있는 동안 천천히 다가옵니다. 그것이 당신에게 닿아선 안 됩니다.",
         "rundivrunwide": "진행 설정",
         "rundivlayer": "세계 설정",
         "rundivplayer": "플레이어 설정",
@@ -2000,7 +2000,7 @@
         "hpimmunity": "면역력",
         "hpimmunitydsc": "감염과 싸우는 신체의 능력.\n면역력이 낮으면 소독해도 감염이 진행된다",
         "hptemperature": "심부온도",
-        "hptemperaturedsc": "저체온은 28도 쯤에, 고체온은 42도 쯤에 치명적이다.",
+        "hptemperaturedsc": "저체온은 28도쯤, 고체온은 42도쯤에 치명적이다.",
         "hpsickness": "배탈",
         "hphappiness": "기분",
         "hphunger": "열량",
@@ -2047,7 +2047,7 @@
         "alertitemblocked": "물건이 벽에 가로막혔다!",
         "alertitemfar": "물건이 너무 멀다!",
         "alertpickupwearable": "착용품은 손에 들 수 없다 (대신 착용/보관하기?)",
-        "alertalreadywearing": "이 <1>은(는) <2>에 착용할 수 없다!",
+        "alertalreadywearing": "이 <1>은(는) <2> 위에 착용할 수 없다!",
         "alertcontainerstacking": "보관함이 비어 있어야 다른 보관함 안에 넣을 수 있다!",
         "alertcontainerstackingalt": "이 보관함은 다른 보관함 안에 있어서 사용할 수 없다!",
         "alerttoounhappy": "비참할 때는 아편제가 아닌 의약품을 쓸 수 없다!",
@@ -2060,9 +2060,9 @@
         "alertnanotechsuccess": "<color=\"green\">새로운 제작법이 떠올랐다...",
         "alertnanotechfail": "<color=\"red\">무슨 내용인지 이해할 수 없다...\n나중에 다시 시도해 볼까?",
         "alertnanotechrepeat": "이미 읽은 내용이다. 스캐너를 가지고 신호가 잡히는지 확인해 보자.",
-        "nanotechdepth": "나노테크 신호가 현재 깊이에서 감지되었습니다!",
-        "nanotechdepthinitialleft": "현재 구역 좌측에서 나노테크 신호 감지됨...",
-        "nanotechdepthinitialright": "현재 구역 우측에서 나노테크 신호 감지됨...",
+        "nanotechdepth": "현재 깊이에서 나노테크 신호가 감지되었습니다!",
+        "nanotechdepthinitialleft": "현재 구역 좌측 <>에서 나노테크 신호가 감지되었습니다.",
+        "nanotechdepthinitialright": "현재 구역 우측 <>에서 나노테크 신호가 감지되었습니다.",
         "insertsample": "샘플 넣기",
         "tradeinteract": "거래하기",
         "read": "읽기",
@@ -2263,7 +2263,7 @@
         "tutaid2": "건강 패널을 열어 봐. 나한테 짖어서 이 부분은 건너뛸 수 있어.",
         "tutaid3": "왼쪽에 커다란 패널에 주의를 기울일 시간이야. 한동안은 난해해 보이겠지만, 더 중요한 부분들을 읊어주지.",
         "tutaid4": "이건 네 뇌 기능이야. 네 뇌가 죽으면, 너도 죽는다. 오늘은 '저걸' 어떻게 살려두는지 배우게 될 거야.",
-        "tutaid5": "이건 네 의식, 또는 네가 주변을 얼마나 잘 인지하는지 정도다.",
+        "tutaid5": "이건 네 의식, 즉 네가 주변을 얼마나 잘 인지하는지 보여주는 정도지.",
         "tutaid6": "이건 네 통증 총합이야. 보통은 시간이 지나면 알아서 줄어들어.",
         "tutaid7": "이건 네 혈액량이야. 출혈이 있으면 내려가고, 결국 죽음에 이르게 되지. 2.5L 정도가 치명적인 한계선이라고 생각해 둬.",
         "tutaid8": "이건 네 출혈량이다. 운이 좋게도 지금은 피가 나지 않아서 여기 아무것도 표시되지 않아.",
@@ -2272,7 +2272,7 @@
         "tutaid11": "이건 네 호흡수다. 네가 호흡을 충분히 안 하면 네 산소가 떨어질 거야.",
         "tutaid12": "이건 네가 흡수한 방사선. 뭔지 묻지 말고, 그냥 저게 0보다 높으면 문제라는 것만 알아둬.",
         "tutaid13": "이건 네 맥박이지. 이걸 0 이상으로 유지하고 싶을 거야.",
-        "tutaid14": "이건 네 혈압이야. 너무 높거나 낮게 가게 하지 마.",
+        "tutaid14": "이건 네 혈압이야. 너무 높아지거나 낮아지게 하지 마.",
         "tutaid15": "이건 네 혈류 산소량, 또는 산소 포화도(SpO2)라고도 하지.",
         "tutaid16": "이건 심전도야. 네 심장 박동을 시각화해 주지. 자주 쳐다봐야 할 테니 익숙해지는 게 좋을 거다.",
         "tutaid17": "마지막으로, 이건 특정 신체 부위의 건강 패널이야. 여기 대부분은 척 보면 뭔지 알 테니, 이번에 설명하지는 않겠어.",
@@ -2335,8 +2335,8 @@
         "tutaid72": "아편류는 조심해서 써. 아차 하면 과다 투약할 수 있고, 나중에 금단 증상이 생길 수도 있다. 아편류 남용에는 날록손과 날트렉손이 도움이 돼.",
         "tutaid73": "이거로 응급 처치 코스를 마무리하겠어. 더 얘기할 수 있지만, 다른 재난은 네가 안전하게 알아낼 수 있으리라 믿지. 네 지정된 방으로 돌아가도 된다.",
         "tutcraft1": "제작 코스에 온 걸 환영한다. 오늘은, 물건을 확보하는 세부적인 방법과 자주하는 작업 흐름을 다뤄보겠어.",
-        "tutcraft2": "네 눈에 보이는 거의 모든 게 진짜 물질이고 쓰레기가 아니야.",
-        "tutcraft3": "고철 더미나 함정에서 금속을, 나무 구조물에서 나무를, 식물에서 잎사귀, 등등을 채취할 수 있지.",
+        "tutcraft2": "네 눈에 보이는 것들 대부분은 쓸모가 있다.",
+        "tutcraft3": "고철 더미나 함정에서 금속을, 나무 구조물에선 나무를, 식물에선 잎사귀를, 이런 식으로 채취할 수 있지.",
         "tutcraft4": "네 목표는 너한테 주어진 자원을 활용해 특정 물건을 만드는 것이다.",
         "tutcraft5": "제작에 관해 최소한의 기초는 알고 있으리라 믿지. 주어진 재료로 잎사귀 가방을 만들어라. 실수했으면 초기화 버튼을 사용해.",
         "tutcraft6": "첫걸음마군. 잘했어. 보관함을 확보하는 것은 언제나 너의 첫 목표여야 해.",
@@ -4202,6 +4202,9 @@
             "cargoimpale3": [
                 "내... 내가 진, 진짜 해 냈어... 뭐... 너무 나대진 말자... 저 포드를 사용하면 돌아갈 수 있을 것 같은데. 지상으로 돌아가자."
             ],
+            "wwmrwrongway": [
+                "이 방향이 아닌 것 같아... 저 이상한 울림의 근원 쪽으로 가야겠어."
+            ],
             "endlessloop0": [
                 "...므무... 뭐... 뭐야...? 뭔데? 왜? 방금 무슨... 내가 어쩌다 여기로...? 흐응... 대체 어떻게 된 거지..."
             ], 
@@ -5078,6 +5081,9 @@
             "cargoimpale3": [
                 "쳇. 정신 차려. 좋아. 이것도 계획에 포함되어 있었다고 보는 것이 타당할 터. 이 드릴 포드를 타고 위로 향해야겠어."
             ],
+            "wwmrwrongway": [
+                "내가 잘못된 방향으로 가는 게 분명하다. 고동의 근원을 향해 가야 한다."
+            ],
             "endlessloop0": [
                 "... 음. 흐음... 으흐으으으으으... 크흐으으음음... 조, 좋아. 이건... 이, 이건... 내가. 예상한 게 아니다. 내가 무언가를 잘못한 것이겠지. 도, 돌아가서 다시 해봐야겠어."
             ],
@@ -5902,7 +5908,7 @@
                 "오오우으! 듀-운한테서 신기한 소-리? 후우우흐..."
             ],
             "wwmr": [
-                "후우으흐... 여-기... 반-짝인다... 듀-운 가까워..?"
+                "후우으흐... 여-어기... 반-짝인다... 듀-운 가까워..?"
             ],
             "cargo1": [
                 "듀-운 뭐.. 보-여어..."
@@ -5918,6 +5924,9 @@
             ],
             "cargoimpale3": [
                 "흐으...느...으음... 듀-운 가-도 된다..."
+            ],
+            "wwmrwrongway": [
+                "듀-운... 바아-보. 길 업-서."
             ],
             "endlessloop0": [
                 "...으음으으으... 느으으...... 다-시이?"
@@ -5941,7 +5950,7 @@
                 "우우오아! 빨-간색..."
             ],
             "labenter": [
-                "(듀-운 다시 지입-이다... 듀-운 조심-한다...)"
+                "(듀-운 다시 지-입... 듀-운 조심-한다...)"
             ],
             "labresponse": [
                 "모-른다."
@@ -5953,7 +5962,7 @@
                 "(듀-운 음식 보인다. 듀-운 가진다. 듀-운 가-안다.)"
             ],
             "labthink2chip": [
-                "(듀-운 음식 못 가졌다. 듀-운 슬프다.)"
+                "(듀-운 음식 못 가진다. 듀-운 슬프다.)"
             ],
             "labshoot": [
                 "느르아아아아아아아악!!!!!\n느그르아아아아학!!!\n그르아아아아아아아아아아아아!!!"
@@ -6836,7 +6845,7 @@
             "Item2": ""
         },
         {
-            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==주사 부위에 아급성 부종이 발생함. 심박수 분당 160회. 혈압 157/98. 통증에 대해 뚜렷한 반응이 관측됨. 대상이 구속구를 풀기 위해 몸부림침. 부종이 급성 부종으로 악화됨. 진피층에서부터 수포가 발생함. 대상의 입에 재갈을 물려야 했음. 반응이 흉부 전체로 급격하게 퍼짐. 주사 부위의 피부가 갈라졌음. 심박수 분당 198회. 색이 점차 빨간색에서 검은색으로 변해감. 수포가 터져 어두운 색의 고름이 흘러나옴. 나머지 신체 부위에도 본인의 주먹만 한 크기의 물집이 발생함. 심박수 분당 219회. 혈압 71/40. 피부 전체가 검은색으로 변하고 진물이 배어 나옴. 대상이 사망했으나 반응이 지속됨. 세포막 기능이 치명적으로 상실되어 세포가 자멸하고 있음. 대상이 녹아aSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
+            "Item1": "7JWI64WV7ZWY7IS47JqULCBPcnNvbmlrc+yeheuLiOuLpC4g7KCA64qUIOy0iOuwpeydhCDsoJzsnbwg7KKL7JWE7ZWY64qU642wLCDsmKTripgg66mU64m066GcIOyWtOuWoOyEuOyalD8=주사 부위에 아급성 부종이 발생함. 심박수 분당 160회. 혈압 157/98. 통증에 대해 뚜렷한 반응이 관측됨. 대상이 구속구를 풀기 위해 몸부림침. 부종이 급성 부종으로 악화됨. 진피층에서부터 수포가 발생함. 대상의 입에 재갈을 물려야 했음. 반응이 흉부 전체로 급격하게 퍼짐. 주사 부위의 피부가 갈라졌음. 심박수 분당 198회. 색이 점차 빨간색에서 검은색으로 변해감. 수포가 터져 어두운 색의 고름이 흘러나옴. 나머지 신체 부위에도 본인의 주먹만 한 크기의 물집이 발생함. 심박수 분당 219회. 혈압 71/40. 피부 전체가 검은색으로 변하고 진물이 배어 나옴. 대상이 사망했으나 반응이 지속됨. 세포막 기능이 치명적으로 상실되어 세포가 자멸하고 있음. 대상이 녹아7J206rGwIO2VtOyEne2VmOyLnOuKkOudvCDqs6Dsg50g66eO7Jy87IWo7Iq164uI64ukIF5eIA==",
             "Item2": ""
         },
         {
@@ -6863,7 +6872,7 @@
             "어이!",
             "다녀오는 김에 사이다라도 갖다줄래?",
             "그리하여, 시간이 멈췄도다...",
-            "시계가 똑딱이기를 멈췄어",
+            "시계가 똑딱이기를 멈췄어.",
             "일시 정지하도록 하지.",
             "야, 도로 일해!",
             "밥 먹을 시간이야?",
