@@ -27,26 +27,28 @@ import {
     isCustomText
 } from "./utils.mjs";
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout,
-});
-
-main().then(() => {
-    console.log();
-    process.exit(0);
-}).catch(err => {
-    if (err instanceof Error && err.code == 'ABORT_ERR')
-    {
+if (import.meta.main) {
+    main().then(() => {
         console.log();
         process.exit(0);
-    }
+    }).catch(err => {
+        if (err instanceof Error && err.code == 'ABORT_ERR')
+        {
+            console.log();
+            process.exit(0);
+        }
 
-    throw err;
-});
+        throw err;
+    });
+}
 
 async function main()
 {
+    const rl = readline.createInterface({
+        input: process.stdin,
+        output: process.stdout,
+    });
+
     if (await fs.stat(fsPath.join("tools", "demosync.mjs"), { throwIfNoEntry: false }) === undefined)
     {
         console.log("Please run this from the repo root!");
