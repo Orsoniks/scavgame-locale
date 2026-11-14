@@ -1049,7 +1049,7 @@
         "venom1dsc": "Presença baixa de hemotoxinas no sangue. Algo te mordeu?",
         "venom2dsc": "Hemotoxinas presente na corrente sanguínea, atrapalhando sua coagulação e destruindo células. Cheque seus sinais vitais.",
         "venom3dsc": "Grande quantidade de hemotoxina presente no sangue, entupindo sua circulação e destruindo células. Cheque seus sinais vitais.",
-        "venom4dsc": "Seu sangue parece mais com chimia do que com algo que deveria te manter vivo.",        
+        "venom4dsc": "Seu sangue se parece mais marmelada do que com algo que deveria te manter vivo.",
         "pain1dsc": "Sentindo dores leves.",
         "pain2dsc": "Com dores médias. Tristeza aumentando lentamente.",
         "pain3dsc": "Parcialmente consciente, mente quase completamente tomada pela dor. Tristeza aumentando.",
@@ -1219,7 +1219,7 @@
         "layermodifier8": "(Infestado)",
         "layermodifier9": "(Ionizado)",
         "layermodifier10": "(Erupção solar)",
-        "layermodifier0dsc": "Esse lugar parece estar um pouco mais nebuloso do que o esperado",
+        "layermodifier0dsc": "Esse lugar parece estar um pouco mais nebuloso do que o esperado.",
         "layermodifier1dsc": "O ar por aqui parece estar mais quente do que o esperado.",
         "layermodifier2dsc": "O ar por aqui parece estar muito mais quente do que o esperado!",
         "layermodifier3dsc": "O ar por aqui parece estar mais frio do que o esperado.",
@@ -1326,7 +1326,7 @@
         "yogurt": "Iogurte",
         "yogurtdsc": "Leite fermentado, bacterianamente. Sem muito gosto. Satisfaz decentemente.",
         "mold": "Mofo",
-        "molddsc": "Qualquer indicação do que isso foi um dia já se foi. Cheira pútrido...",
+        "molddsc": "Qualquer indicação do que isso foi um dia já se foi. Cheira horrível...",
         "orangejuice": "Suco de laranja",
         "orangejuicedsc": "Líquido extraído da fruta de uma laranjeira. Embora seja saudável, você não aprecia muito o gosto.",
         "applejuice": "Suco de maçã",
@@ -1509,8 +1509,8 @@
         "char1name": "[SAW-03] \"Leitoso\"",
         "char1desc": "[FAMILIA] \"Canino\"\n[FRASE_DESTACADA] \"Estou de acordo.\"\n[PREVISÃO_DE_SUCESSO] \"0.0103%\"\n[NOTAS] \"Um pouco esnobe\"",
         "char1quirks": "<spoiler>",
-        "char2name": "[SAW-12] \"Duna\"",
-        "char2desc": "[FAMILY] \"Insectoide\"\n[CALLOUT_QUOTE] \"Hrrnn... Hora do Du-na ir..?\"\n[PREVISÃO_DE_SUCESSO] \"0.001%\"\n[NOTAS] \"Eca! Ele tá babando!\"",
+        "char2name": "[SAW-12] \"Duno\"",
+        "char2desc": "[FAMILY] \"Insectoide\"\n[CALLOUT_QUOTE] \"Hrrnn... Hora do Du-no ir..?\"\n[PREVISÃO_DE_SUCESSO] \"0.001%\"\n[NOTAS] \"Eca! Ele tá babando!\"",
         "char2quirks": "<spoiler>",
         "characterunlock": "[ACESSO_NEGADO]",
         "characterunlockdsc": "Termine uma tentativa com o personagem anterior para desbloquear",
@@ -1836,7 +1836,7 @@
 		"crafttipdsc": "Abre/Fecha o menu de fabricação\n\nArraste um item aqui para ver no que é usado",
         "craftsearchrecipes": "Pesquisar receitas...",
         "craftingredients": "Ingredientes",
-        "craftingredientsdsc": "Items marcados como favorito (<>) não seram usados na fabricação de itens",
+        "craftingredientsdsc": "Items marcados como favorito (<>) não serão usados na fabricação de itens",
         "craftinfo": "Informações",
         "craftnotmadebefore": "<sprite index=25>Você ainda não fabricou este item.",
         "craftnotmadebeforetip": "Ao fabricar novos items, você ganha experiência para INT e um leve aumento no seu humor.",
@@ -2128,33 +2128,33 @@
         "healthchipradalert3": "ANDA\nLOGO",
         "tutbasic1": "Bem-vindo a última revisão do curso de treinamento.",
         "tutbasic2": "Vamos passar por todo o básico que você precisa saber para participar do próximo experimento.",
-        "tutbasic3": "Por favor caminhe em direção ao Braço Mecânico de Treinamento. [A]",        
-        "tutbasic4": "Novamente. [D]",        
-        "tutbasic5": "Você consegue caminhar. Impressionante!",        
-        "tutbasic6": "[ESPAÇO] para pular. Segure para saltos maiores. Você também consegue pular das paredes.",         
-        "tutbasic7": "Vá ao Braço Mecânico de Treinamento.",        
-        "tutbasic8": "Que coisinha ágil você é, hein?",        
-        "tutbasic9": "Agora, vamos ver como você segura e usa as coisas ao seu redor",        
-        "tutbasic10": "Interação com itens são feitas com [CLIQUE DIREITO]. Clique em si mesmo para acessar seu inventário, clique fora para fecha-lo.",        
-        "tutbasic11": "Aqui, algo pra você brincar. [CLIQUE DIREITO] segure e arraste até você mesmo, então solte em um slot para pegar. Você pode segurar [CONTROL] para ver marca dos itens, melhorando sua visibilidade.",        
-        "tutbasic12": "Bom. Você pode usar o item direto do inventário. Arraste-o para o centro para usar e continuarmos.",        
-        "tutbasic13": "Tem um gosto ótimo, não tem? Você deveria comer tudo agora.",        
-        "tutbasic13fail": "Eu queria que você pegasse, não comesse... Credo, foi tudo? De uma vez só..?",        
-        "tutbasic14": "Você TAVA com FOME...",        
-        "tutbasic15": "Vamos tentar outra coisa. Aqui vai outra coisa pra você brincar.",        
-        "tutbasic16": "Você tem seis slots principais para suas coisas. Duas mãos, uma boca e três nas suas costas.",        
-        "tutbasic17": "Agarre esse com suas mãos.",        
-        "tutbasic18": "Certas ferramentas são usáveis na sua \"Mão principal\". Pegue o rastelo com ela e sacuda ele com [CLIQUE ESQUERDO].",        
-        "tutbasic19": "Você tá se dedicando na luta contra os fantasmas... Muito bem!",        
-        "tutbasic20": "Você pode trocar rapidamente os itens entre suas mãos com [Q]. Tente!",        
-        "tutbasic21": "Conseguir interagir com coisas distantes é algo muito útil. Segure [T] para lançar o que estiver em sua mão principal. Mire no alvo que fizemos!",        
-        "tutbasic22": "Precisão maravilhosa!",        
-        "tutbasic23": "Pegue o rastelo de volta.",        
-        "tutbasic24": "Você pode cavar por objetos ao atacar. Isso vai te cansar rápido, mas pode ser útil se realizado com moderação.",        
-        "tutbasic25": "Cave até o outro lado. Segure [S] para agachar.",        
-        "tutbasic26": "Algumas condições como dor ou exaustão levarão um tempo para sumir. Acelere esse processo e o tempo com [1-3].",        
-        "tutbasic27": "Descansado.",        
-        "tutbasic28": "Vamos passar pelo básico em primeiros socorros. Por favor, não se mexa.",        
+        "tutbasic3": "Por favor caminhe em direção ao Braço Mecânico de Treinamento. [A]",
+        "tutbasic4": "Novamente. [D]",
+        "tutbasic5": "Você consegue caminhar. Impressionante!",
+        "tutbasic6": "[ESPAÇO] para pular. Segure para saltos maiores. Você também consegue pular das paredes.",
+        "tutbasic7": "Vá ao Braço Mecânico de Treinamento.",
+        "tutbasic8": "Que coisinha ágil que você é, hein?",
+        "tutbasic9": "Agora, vamos ver como você segura e usa as coisas ao seu redor",
+        "tutbasic10": "Interação com itens são feitas com [CLIQUE DIREITO]. Clique em si mesmo para acessar seu inventário, e clique pra fora para fechá-lo.",
+        "tutbasic11": "Aqui, algo pra você brincar. [CLIQUE DIREITO] segure e arraste até você mesmo, então solte em um slot para pegar. Você pode segurar [CONTROL] para ver marca dos itens, melhorando sua visibilidade.",
+        "tutbasic12": "Bom. Você pode usar o item direto do inventário. Arraste-o para o centro para usar e continuarmos.",
+        "tutbasic13": "Tem um gosto ótimo, não tem? Você deveria comer tudo agora.",
+        "tutbasic13fail": "Eu queria que você pegasse, não comesse... Credo, foi tudo? De uma vez só..?",
+        "tutbasic14": "Você TAVA com FOME...",
+        "tutbasic15": "Vamos tentar outra coisa. Aqui vai outra coisa pra você brincar.",
+        "tutbasic16": "Você tem seis slots principais para suas coisas. Duas mãos, uma boca e três nas suas costas.",
+        "tutbasic17": "Agarre esse com suas mãos.",
+        "tutbasic18": "Certas ferramentas são usáveis na sua \"Mão principal\". Pegue o rastelo com ela e sacuda ele com [CLIQUE ESQUERDO].",
+        "tutbasic19": "Você tá se dedicando na luta contra os fantasmas... Muito bem!",
+        "tutbasic20": "Você pode trocar rapidamente os itens entre suas mãos com [Q]. Tente!",
+        "tutbasic21": "Conseguir interagir com coisas distantes é algo muito útil. Segure [T] para lançar o que estiver em sua mão principal. Mire no alvo que fizemos!",
+        "tutbasic22": "Precisão maravilhosa!",
+        "tutbasic23": "Pegue o rastelo de volta.",
+        "tutbasic24": "Você pode cavar por objetos ao atacar. Isso vai te cansar rápido, mas pode ser útil se realizado com moderação.",
+        "tutbasic25": "Cave até o outro lado. Segure [S] para agachar.",
+        "tutbasic26": "Algumas condições como dor ou exaustão levarão um tempo para sumir. Acelere esse processo e o tempo com [1-3].",
+        "tutbasic27": "Todo descansado. Agora...",
+        "tutbasic28": "Vamos passar pelo básico em primeiros socorros. Por favor, não se mexa.",
         "tutbasic29": "Ai! Seu braço tá ferido e sangrando! Dê uma olhada nele, abra o painel de saúde no botão de coração ou com [R].",
         "tutbasic30": "Passe sobre o membro ferido para ver mais detalhes.",
         "tutbasic31": "Uma perfuração deveras grande. Boas notícias - você vai consertar isso!",
@@ -2162,9 +2162,9 @@
         "tutbasic33": "Pegue-a e abra o painel de saúde.",
         "tutbasic34": "[CLIQUE DIREITO] segure e arraste a atadura até o membro ferido.",
         "tutbasic35": "Hora de por a mão na massa. [CLIQUE ESQUERDO] para enrolar a atadura! Para propósito de teste ela é infinita.",
-        "tutbasic36": "Você está salvo! Por agora pelo menos. Sempre tenha uma atadura consigo. Elas salvam vidas.",
+        "tutbasic36": "Você está salvo! Por enquanto pelo menos. Sempre tenha uma atadura com você. Elas salvam vidas.",
         "tutbasic37": "Vish. Parece que seu ferimento tá infectado! (Normalmente você só descobriria isso um tempo depois.)",
-        "tutbasic38": "Outro medicamento importante! Um pouco de antisséptico, se quiser leia o que ele faz. Pegue e abra o painel de saúde.",
+        "tutbasic38": "Outro medicamento importante! Um pouco de antisséptico, e se quiser, leia o que ele faz. Pegue e abra o painel de saúde.",
         "tutbasic39": "É a mesma história. Aplique o antisséptico na área infectada.",
         "tutbasicfail1": "Você... Usou tudo... No local errado..?",
         "tutbasicfail2": "Que tal... Imaginarmos que você usou corretamente.",
@@ -2177,7 +2177,7 @@
         "tutbasic46": "Uau, está guardado dentro! Agora [CLIQUE DIREITO] no saco e puxe o item pra fora.",
         "tutbasic46fail1": "Po... Por que... Por que você rasgou ele..?",
         "tutbasic46fail2": "Tá, tudo bem. Vamos continuar...",
-        "tutbasic46fail3": "Você tá testando minha paciência. Pare de rasgar os sacos. Vamos pular essa parte já que você não quer cooperar.",
+        "tutbasic46fail3": "Você tá testando minha paciência. Pare de rasgar os sacos. Não, na verdade, vamos pular essa parte já que você não quer cooperar.",
         "tutbasic47": "Muito bem. Contêineres são extremamente úteis de se ter, fique de olho aberto para qualquer tipo que encontrar.",
         "tutbasic48": "Aqui, algo novo. Tente descobrir como vestir isso.",
         "tutbasic49": "Boa! Vestimentas ficam fora dos slots normais de inventário. Essa peça também pode ser usada para guardar coisas!",
@@ -2323,8 +2323,8 @@
         "tutmove17": "Muito bem! Combinar essas habilidades é a chave para se movimentar pelo ambiente de forma eficiente. Você já pode voltar para sua sala.",
         "tutclosehealthpanel": "Fechar painel de saúde.",
         "tutopenhealthpanel": "Abrir painel de saúde.",
-        "tutnice": "Bom.",
-        "outdatedwarning": "<size=200%>EI!<size=100%>\nA linguagem selecionada está desatualizada. Pode ter texto quebrado.\nTente selecionar o inglês ou procure uma versão nova.\n\nA versão mais recente desta tradução pode ser encontrada no \"fork\" pt-BR dentro do GitHub do jogo, se os tradutores quiseram trabalhar. Qualquer duvida/problema/critica, envie mensagem no \"tópico\" BR do servidor oficial do jogo.",
+        "tutnice": "Legal.",
+        "outdatedwarning": "<size=200%>EI!<size=100%>\nA linguagem selecionada está desatualizada. Pode ter texto quebrado.\nTente selecionar o inglês ou procure melhor por uma versão nova.\n\nA versão mais recente desta tradução pode ser encontrada no \"fork\" pt-BR dentro do GitHub do jogo, se os tradutores quiseram trabalhar. Qualquer duvida/problema/critica, envie mensagem no \"tópico\" BR do servidor oficial do jogo.",
         "startlorenote": "Ano 2XXX \n<>\nA humanidade havia realizado avanços tecnológicos significantes. Coisas que pareciam impossíveis se tornaram triviais.\n<>\nNo centro disso tudo, uma companhia. Suas pesquisas e progressos evoluindo quase como um milagre, mas com seus segredos firmemente guardados.\n<>\nAnos atras eles desenvolveram uma nova espécie ao combinar DNA animal e humano, essa espécie foi apelidada de:\"Experimento.\"\n<>\nEstes experimentos se tornaram a cobaia perfeita para suas pesquisas, semelhantes o suficiente a humanos, mas de sua autoria para usar da forma que desejassem. Trabalhavam sem descanso em sua criação, distorcendo cada vez mais sua biologia para satisfazer suas necessidades e pesquisas, ao passar dos anos a população dessas criaturas só crescia. \n\nCriaturas que jamais poderiam acessar o mundo exterior. \n<>\nCom o tempo a Terra não pode conter mais suas ambições. Utilizando tecnologia de teletransporte recém desenvolvida eles fazem de um planeta cinza, vibrando com vida, o seu próximo alvo. \n<>\nSem demora, diversos tipos diferentes de carga e lixo foram destinados ao alvo. \n<>\nDevido a dificuldades de calibração, uma parte da carga acabou sendo enviada para o sistema de cavernas do planeta e outra para a superfície, contudo o projeto progrediu sem problemas. \n<>\nIsso é, até um erro desconhecido enviar um pedaço de tecnologia importante para o fundo do sistema de cavernas.\n<>\nSem demora, cientistas desenvolveram um plano. Um plano que não os colocava em uma posição de risco.\n<>\nAs chances de sucesso eram mínimas, mas seu estoque vivo era abundante.\n<>\nVocê é um desses espécime desafortunados.\nResistencia não é uma opção."
     },
     "character": [
@@ -5151,7 +5151,7 @@
             ],
             "eatGood": [
                 "Nngghhhrr! De-licia!!",
-                "Ngghraahhh! Du-na gos-ta..!",
+                "Ngghraahhh! Du-no gos-ta..!",
                 "Hnnn... Hnnnrr... Bom...",
                 "Co-mida... Boa...",
                 "Gos-to... Espe-ci-al... Nhhrr...",
@@ -5165,7 +5165,7 @@
                 "De-vorar... A-té... Nggrrhh... Encher...",
                 "Comi-da...",
                 "Gos-toso...",
-                "Du-na... Gos-ta comer... Ghhr..."
+                "Du-no... Gos-ta comer... Ghhr..."
             ],
             "eatBad": [
                 "Nhhrr... Nhhghhh...!",
@@ -5175,7 +5175,7 @@
             ],
             "refuseEat": [
                 "...Que?",
-                "Du-na... Não... Grr..",
+                "Du-no... Não... Grr..",
                 "Gghhrrrr!!",
                 "Ngghhhrraaghh!",
                 "Ru-im..."
@@ -5202,7 +5202,7 @@
                 "Nã-o... En-tendo....",
                 "Con-fuso....",
                 "Nnhhhrrr...",
-                "Não... Du-na... Per-dido..... Ghhr...",
+                "Não... Du-no... Per-dido..... Ghhr...",
                 "Nnnnhhhh..."
             ],
             "wakeup": [
@@ -5234,7 +5234,7 @@
                 "Du-no che-io...",
                 "Comer de-mais...!",
                 "Es-pe-rar co-mer...",
-                "Du-na não co-me mais...",
+                "Du-no não co-me mais...",
                 "Ngghh... Cheio...",
                 "Sufi-cient... Gnnh..."
             ],
@@ -5248,7 +5248,7 @@
                 "On-de... Comer..?",
                 "Mor-der...",
                 "Co-mer..?",
-                "Du-na...ref-ei-ção..?"
+                "Du-no...ref-ei-ção..?"
             ],
             "starving": [
                 "*salivando litros*",
@@ -5256,7 +5256,7 @@
                 "Ngghhhhrrr! Co-mida!!!",
                 "NGHHRRHHH!! On-de comi-da!?",
                 "Nhghhrrr! Du-no es-fo-meado!!",
-                "NNGRHH!! CO-MI-DA!! DU-NA!!"
+                "NNGRHH!! CO-MI-DA!! DU-NO!!"
             ],
             "thirsty": [
                 "S-lurp..?",
@@ -5272,7 +5272,7 @@
                 "Água...A-GO-RA!!",
                 "Gghrhhh... Águ-a!!",
                 "Du-no... Se-den-to..!",
-                "Du-na... Á-gu-a... AGO-RA!",
+                "Du-no... Á-gu-a... AGO-RA!",
                 "Gghhrraaaghh! Be-ber! A-gora..!"
             ],
             "limbmuscle": [
@@ -5287,7 +5287,7 @@
                 "Ghhr... <limb>... Du-no sen-te quente...",
                 "Do-ente..?",
                 "Nnnrr...<limb> pa-rece es-tra-nha..?",
-                "Du-na... pele d<limb>... irri-tada..?",
+                "Du-no... pele d<limb>... irri-tada..?",
                 "Hhnnn...Sensa-ção n<limb>... esqui-sita..."
             ],
             "limbskin": [
@@ -5301,14 +5301,14 @@
                 "Triste.",
                 "Du-no tris-te.",
                 "Sem so-rri-so...",
-                "Du-na não so-rri...",
+                "Du-no não so-rri...",
                 "Du-no sen-te mal.",
                 "Não fe-lisss...",
-                "Du-na não bem..."
+                "Du-no não bem..."
             ],
             "gloomy": [
                 "Co-mida fa-ria coisas melho-rar...",
-                "Comida dei-xa Du-na sen-tin-do bem...",
+                "Comida dei-xa Du-no sen-tin-do bem...",
                 "Bas-tante triste...",
                 "Duno muuu-ito tris-te...",
                 "Grrr...me-nte má.",
@@ -5316,7 +5316,7 @@
                 "Nhhhhrr...",
                 "Nnnngggrhhh... Ghhr...",
                 "Gghhhrr...",
-                "Du-na não sen-te bem!",
+                "Du-no não sen-te bem!",
                 "Não bem!"
             ],
             "depressed": [
@@ -5337,7 +5337,7 @@
                 "AANNNGRRYY! GGRHHAANNGHHH!",
                 "NNNGRRAGHHHH! DU-NO.... DES-TRÓÓÓII!!!",
                 "NNNGRRAGHHHH! OOODI-AARR! DES-TRUIIIR!!!",
-                "GGHHRAAHHHGNHH! DU-NA ODEIAAA! DESTRÓI!!!"
+                "GGHHRAAHHHGNHH! DU-NO ODEIAAA! DESTRÓI!!!"
             ],
             "angeronitem": [
                 "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-no des-trói... Ami-go..."
@@ -5365,14 +5365,14 @@
             "bleeding": [
                 "San-gra...",
                 "Du-no...s-angra...",
-                "Du-na...va-zando...",
+                "Du-no...va-zando...",
                 "Va-zan-do...ama-relo...",
                 "A-ma-relo...ruim...",
                 "Ru-im...san-gra-mento...",
                 "Te-rrível...du-no feri-do..!",
-                "Ngghhhrr! Du-na ma-chu-cado!",
+                "Ngghhhrr! Du-no ma-chu-cado!",
                 "Grrhhhh! Du-no pre-cisa de a-juda!",
-                "Aju-da!! Du-na!",
+                "Aju-da!! Du-no!",
                 "Du-no pre-ci-sa... con-serto..!",
                 "Nnnrr... Du-no a-ma-relo...",
                 "Nrr... San-gue...",
@@ -5381,22 +5381,22 @@
             "bleedingheavy": [
                 "San-gra-mento!!",
                 "Du-no sang-ra!! Mui-to!!",
-                "Du-na...v-az-ando!! A-gora!!",
+                "Du-no...v-az-ando!! A-gora!!",
                 "Flu-x-o...ama-relo! Ajudar Du-no!!",
                 "A-marelo!! Mal!!!",
                 "San-grar...ru-im...",
                 "Pé-ssi-mo...du-no fe-rido..!",
                 "Ngghhhrrrnnghhhr!",
                 "Grrhhhhnnnghh!",
-                "A-ju-dem!! Du-na! A-GORA!!!",
+                "A-ju-dem!! Du-no! A-GORA!!!",
                 "Du-no pre-cisa RE-PARO..! A-JUDA!!",
-                "NnnrrrhhNGHHH!! DU-NA MUITO AMA-RELO!!",
+                "NnnrrrhhNGHHH!! DU-NO MUITO AMA-RELO!!",
                 "Nrrgghhh!!! S-ANGUE!!!",
                 "Nrrhhh..! San-gue de Du-no!! M-uito!!!"
             ],
             "steponglass": [
                 "Du-no vi-dro...",
-                "Coi-sinha cla-ra fere Du-na!!",
+                "Coi-sinha cla-ra fere Du-no!!",
                 "Du-no machu-cado afi-ado!!!"
             ],
             "seecorpse": [
@@ -5421,32 +5421,32 @@
                 "Ma-is co-rpos.",
                 "Ma-is co-mida pa-ra Duno.",
                 "O-ii!!",
-                "Du-na vê ma-is cor-pos.",
+                "Du-no vê ma-is cor-pos.",
                 "T-ão tan-ta mor-tes!",
                 "Di-ver-sas comidas!"
             ],
             "seecorpsesuicidal": [
                 "Du-no acom-pa-nha amigo...",
-                "Du-na ci-ú-mes...",
+                "Du-no ci-ú-mes...",
                 "Gghrr..."
             ],
             "cold": [
                 "Du-no frio! Preci-sar d'á-gua...",
-                "Du-na gela-dinho...",
+                "Du-no gela-dinho...",
                 "Du-no des-gos-ta frio.",
                 "Não go-star fr-io."
             ],
             "warm": [
                 "Du-no quen-tinho.",
                 "Du-no ca-lor!",
-                "Duna pre-cisa es-friar.",
+                "Duno pre-cisa es-friar.",
                 "Du-no a-quecido de-mais...",
                 "Ca-lor.",
                 "Quent..."
             ],
             "hot": [
                 "Du-no queima!",
-                "Du-na muito quen-te!!",
+                "Du-no muito quen-te!!",
                 "Pre-cisa... Frio...",
                 "Muito.. Ca-lor...",
                 "Nnhggh... To..onto!"
@@ -5470,7 +5470,7 @@
                 "Nnhh... N-nnhh... Fri-o...",
                 "T...Tão... F-fr-io..! Ngr...",
                 "Co-ngelan-do...",
-                "Du-na... Con-gela...",
+                "Du-no... Con-gela...",
                 "Nhhhrrr... Du-no... T-ão fr-io...",
                 "Ggrrrh..! Mu-ito Fr-io..."
             ],
@@ -5478,12 +5478,12 @@
                 "Du-no... Mui-to fino...",
                 "Fi-ni-nho...",
                 "Pre...ciso. Co-mer mais...",
-                "Du-na... Ma-gro!!",
+                "Du-no... Ma-gro!!",
                 "Mu-ito... Magr-o..."
             ],
             "obese": [
                 "Du-no co-me muito bem!",
-                "Nhhrr! Du-na chei-nho!",
+                "Nhhrr! Du-no chei-nho!",
                 "Du-no... Gor-do..? Nrrr..."
             ],
             "opiated": [
@@ -5492,12 +5492,12 @@
                 "Ooo... Quuee... Mmhhhrrnnnnn...",
                 "Mmmnnnrrr...mmmnnnnnn...",
                 "Mmmrrnnnhnnn...es...tranho!",
-                "Du-na......gosta..!",
+                "Du-no......gosta..!",
                 "Mmmmrrrhhhrrn..."
             ],
             "opiatedsad": [
                 "..!",
-                "N...Nhhrr...Du-na..!",
+                "N...Nhhrr...Du-no..!",
                 "Ooo... Quuee... Mmhhhrrnnnnn...!",
                 "Mmmnnnrrr...mmmnnnnnn..!",
                 "Mmmrrnnnhnnn...eesss...tranhoo!",
@@ -5507,7 +5507,7 @@
             "opiatewithdrawal": [
                 "Du-no...t-tre-me..",
                 "Nnhrhhggh...ru-im!!",
-                "Du-na...que-r ma-is...coisa...",
+                "Du-no...que-r ma-is...coisa...",
                 "Nghhrr...! Ma-u..!",
                 "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
             ],
@@ -5561,14 +5561,14 @@
                 "Oh? A-migo mor-de?",
                 "Nggrch! Coisa máá!!",
                 "GGRRGHHH! DU-NO MATA!!!!",
-                "GRRACK! DEIXE DUNA!",
+                "GRRACK! DEIXE DUNO!",
                 "GGRHR! MOR-DO DE VOL-TA!",
                 "RGHGN! DU-NO SE VIN-GA!",
                 "GACK! MAAA-AL!"
             ],
             "dirty": [
                 "Du-no... Su-jo..?",
-                "Du-na pre-cisa ba-nho...",
+                "Du-no pre-cisa ba-nho...",
                 "Du-no sente che-ro.",
                 "Sente su-jei-ra.",
                 "Chei-ro, che-i-ro.",
@@ -5578,11 +5578,11 @@
             ],
             "encumbered": [
                 "Du-no forte!!",
-                "Du-na ca-rrega mui-to.",
+                "Du-no ca-rrega mui-to.",
                 "Carre-gando de-mais.",
                 "Mui-tas coisas.",
                 "Du-no fort... duno leva!",
-                "Du-na pe-sado.",
+                "Du-no pe-sado.",
                 "Du-no pesa.",
                 "Pe-sado.",
                 "Peso...",
@@ -5596,7 +5596,7 @@
                 "Du-no assus-tado.",
                 "Me-do.",
                 "Sss-om al-to...",
-                "Du-na espe-rto!!"
+                "Du-no espe-rto!!"
             ],
             "loud": [
                 "GGRAAAAACKK! QUE!?",
@@ -5606,17 +5606,17 @@
                 "AUGRH! BA-RULHO!!!"
             ],
             "murderregret": [
-                "DU-NA VEN-CE!",
+                "DU-NO VEN-CE!",
                 "DU-NO DE-RROTA AMI-GO MAL!",
                 "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NO FOOR-TEEEEE!!!!",
-                "DU-NA CAÇA A-MIGO FRA-CO!!!",
+                "DU-NO CAÇA A-MIGO FRA-CO!!!",
                 "DU-NO CAÇA COMI-DA!!",
                 "GRRHCHH! PRE-SA FRA-CAAA!"
             ],
             "tradeemeet": [
                 "Du-no achaa!!",
                 "O-lá!!",
-                "Du-na cum-primenta!!",
+                "Du-no cum-primenta!!",
                 "Oi? O-i?",
                 "Mmmrrrrn... a-migo?",
                 "Ami-go?",
@@ -5628,7 +5628,7 @@
                 "Car-ne.",
                 "GGRAAACH! A-MIGO CO-MIDA!",
                 "GRAAAKAHHA!! PRESA FÁ-CIL!",
-                "DU-NA O-DEIA AMIGO!",
+                "DU-NO O-DEIA AMIGO!",
                 "Gghrrrraagh!",
                 "*rosnando*"
             ],
@@ -5660,13 +5660,13 @@
                 "GRAAAARCH!!"
             ],
             "lastmoments": [
-                "Du-na...me-do...",
+                "Du-no...me-do...",
                 "Du-no...pre-ci-sa...ajuda!",
                 "Grrhhnnchh!",
                 "Grrhhannchh!",
                 "Grrrrr!!!",
                 "Nnhhrrhuhhh! Nã-ão!!!",
-                "Du-na!!! So-corro!!",
+                "Du-no!!! So-corro!!",
                 "Por...Q-ue...",
                 "Du...dnnrhh...Nhhhh...",
                 "Rrrnn...Hhhh...Du-no....mo-rrer...?",
@@ -5687,7 +5687,7 @@
                 "...Mmmrrnnngghh... Ngghh... ...Nova-mente?"
             ],
             "endlessloop1": [
-                "Ngghhr. Du-na gosta desa-fio. Du-no vai di-novo!"
+                "Ngghhr. Du-no gosta desa-fio. Du-no vai di-novo!"
             ],
             "endlessloop2": [
                 "Ooo! De novo? Ma-is comida para achar a-qui!"
@@ -5731,7 +5731,7 @@
                 "Ami-go sono-lento... A-corda... Duno cum-pri-menta!"
             ],
             "tradergiveitem": [
-                "D-una vai ace-itar.",
+                "D-uno vai ace-itar.",
                 "Acei-ta co-isa..!",
                 "Duno p-ega coi-sa..!",
                 "Agra-deço... A-migo...",
@@ -5759,7 +5759,7 @@
                 "P-egue c-oisa! Sua recom-pensa...",
                 "Duno dá pre-sente d-e vo-lta! Tem ami-go...",
                 "Du-no dar...",
-                "Duna... Pa-ga de v-olta...",
+                "Duno... Pa-ga de v-olta...",
                 "A-mi-go dar... Duno d-ar tam-bem...",
                 "Vo-cê... Pe-gue coisa! A-migo bom..."
             ],
@@ -5774,9 +5774,9 @@
             "traderbuyfailmaxvalue": [
                 "D-ei su-fici-ente! Vai em-bora agora!",
                 "Duno en-trega de-mais... Ami-go para...",
-                "Duna n-ão dar... Muu-ito...",
+                "Duno n-ão dar... Muu-ito...",
                 "Grrr... Du-no man-ter gran-de! Grrrmph...",
-                "Duna mã-nter... D-una pre-cisa... Ma-is..."
+                "Duno mã-nter... D-uno pre-cisa... Ma-is..."
             ],
             "traderthreatensuccess": [
                 "Nã-o pre-cisa es-forço... Pegue c-oisa... Mal-vado...",
@@ -5784,7 +5784,7 @@
                 "A-migo grande CAÇA-DOR! Duno... Te-me... Vo-cê pega...",
                 "Duno fraco-te... Duno desis-te... P-egue e saia...",
                 "Nã-o ma-chu-que Duno... Pegue coi-sas... Sai-a...",
-                "Duno per-mite a-migo vil pegar cois-as... Mas D-una od-eia amigo..."
+                "Duno per-mite a-migo vil pegar cois-as... Mas D-uno od-eia amigo..."
             ],
             "traderwarning": [
                 "SA-IA! Ou Mor-dida! A-gora!",
@@ -5867,21 +5867,21 @@
                 "Ami-go... Vomi-ta... Sente do-ente?"
             ],
             "vomitbloodresponse": [
-                "Du-na... Chei-ra sangue... de... A-migo... Go-sto bom..?"
+                "Du-no... Chei-ra sangue... de... A-migo... Go-sto bom..?"
             ],
             "hungryresponse": [
-                "Du-no en-tende... Duno fa-minto tambem!",
-                "Isso... Du-no precisa comida tam-bem!"
+                "Du-no en-tende... Duno fa-minto também!",
+                "Isso... Du-no precisa comida tam-bém!"
             ],
             "thirstyresponse": [
-                "Du-na beber po-ça... Sen-tir melhor... Ami-go tentar?",
+                "Du-no beber po-ça... Sen-tir melhor... Ami-go tentar?",
                 "Mm-m... Hora de re-fres-co?"
             ],
             "sadresponse": [
                 "Ami-go sente mal..? P-or que?"
             ],
             "depressedresponse": [
-                "Amigo pare-ce mui-to mal... Fi-que sen-tado com Duna!"
+                "Amigo pare-ce mui-to mal... Fi-que sen-tado com Duno!"
             ],
             "selfharmresponse": [
                 "Por que amigo machu-ca? Ami-go é mau?"
@@ -5891,29 +5891,29 @@
                 ".........?"
             ],
             "hotresponse": [
-                "Du-na nunca sen-te quente! Du-na ama ca-lor..."
+                "Du-no nunca sen-te quente! Du-no ama ca-lor..."
             ],
             "coldresponse": [
                 "Du-no teme frio... Sala é quen-te! A-migo fica com Du-no..."
             ],
             "bleedingresponse": [
                 "A-migo machu-cado. Amigo precisa ajuda!",
-                "Ami-go cheira a s-angue. Du-na gos-ta."
+                "Ami-go cheira a s-angue. Du-no gos-ta."
             ],
             "painresponse": [
                 "A-migo fe-rido..?",
                 "Du-no ent-ende... Du-no t-ambém tem dor! Ami-go bem?"
             ],
-                "dirtyresponse": [
+        	"dirtyresponse": [
                 "O que é su-jo?"
             ],
             "encumberedresponse": [
                 "Pos-so pegar coisas de a-migo?",
                 "Du-no pode a-liviar peso!"
             ],
-                "dyingresponse": [
+        	"dyingresponse": [
                 "O que erra-do com -ami-go..?",
-                "Du-no não saber como a-judar..."
+                "Du-no não saber a-judar..."
 			]
         }
     ],
@@ -6000,7 +6000,7 @@
                 "Item3": "experiment"
             },
 			{
-                "Item1": "Para qualquer um que encontrar isto, ele podem e VÃO controlar você. Sem um único aviso prévio, eu escutei um alarme alto vindo de dentro de mim, eu apenas podia ver a mensagem \"PROFUNDIDADE INSATISFATÓRIA\" com flashes vermelhos materializando nos cantos da minha visão.\n\nComecei a correr, em pânico, sem entender por que fariam aquilo. Só depois que entrei em outra região dessa rede de cavernas é que parou. Eles sabem quanto tempo você passa aqui, sabem que você estará com medo e querem que você morra. Isso tudo é um genocídio em massa.",
+                "Item1": "Para qualquer um que encontrar isto, ele podem e VÃO controlar você. Sem um único aviso prévio, eu escutei um alarme alto vindo de dentro de mim, eu apenas podia ver a mensagem \"PROFUNDIDADE INSATISFATÓRIA\" com pisques vermelhos materializando nos cantos da minha visão.\n\nComecei a correr, em pânico, sem entender por que fariam aquilo. Só depois que entrei em outra região dessa rede de cavernas é que parou. Eles sabem quanto tempo você passa aqui, sabem que você estará com medo e querem que você morra. Isso tudo é um genocídio em massa.",
                 "Item2": "",
                 "Item3": "milky"
             },
