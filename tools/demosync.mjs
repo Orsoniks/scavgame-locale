@@ -27,26 +27,28 @@ import {
     isCustomText
 } from "./utils.mjs";
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout,
-});
-
-main().then(() => {
-    console.log();
-    process.exit(0);
-}).catch(err => {
-    if (err instanceof Error && err.code == 'ABORT_ERR')
-    {
+if (import.meta.main) {
+    main().then(() => {
         console.log();
         process.exit(0);
-    }
+    }).catch(err => {
+        if (err instanceof Error && err.code == 'ABORT_ERR')
+        {
+            console.log();
+            process.exit(0);
+        }
 
-    throw err;
-});
+        throw err;
+    });
+}
 
 async function main()
 {
+    const rl = readline.createInterface({
+        input: process.stdin,
+        output: process.stdout,
+    });
+
     if (await fs.stat(fsPath.join("tools", "demosync.mjs"), { throwIfNoEntry: false }) === undefined)
     {
         console.log("Please run this from the repo root!");
@@ -102,17 +104,17 @@ async function sync(targetLocale)
         const demoEnText = getPath(demoEn, pathToSync);
         const releaseEnText = getPath(releaseEn, releasePath);
 
-        if (demoEnText == null || releaseEnText == null || demoEnText != releaseEnText)
-        {
-            untouchedDemoLocalePaths.push(pathToSync);
-            continue;
-        }
-
         const releaseLocaleText = getPath(releaseLocale, releasePath);
 
         if (releaseLocaleText == null)
         {
             missingReleaseTexts.push(pathToSync);
+            continue;
+        }
+
+        if (releaseEnText == null || demoEnText != releaseEnText)
+        {
+            untouchedDemoLocalePaths.push(pathToSync);
             continue;
         }
 
@@ -132,14 +134,14 @@ async function sync(targetLocale)
 
     for (let localePath of untouchedDemoLocalePaths)
     {
-        console.log(`  - ${localePath}`);
+        console.log(`  - ${localePath} - ${getPath(demoLocale, localePath).replaceAll("\n", "\\n").substr(0, 50)}`);
     }
 
     console.log(`Missing release texts: ${missingReleaseTexts.length} (no translation available).`);
 
     for (let localePath of missingReleaseTexts)
     {
-        console.log(`  - ${localePath}`);
+        console.log(`  - ${localePath} - ${getPath(demoLocale, localePath).replaceAll("\n", "\\n").substr(0, 50)}`);
     }
 
     // Suffix with "-sync" if you don't want to overwrite your stuff
@@ -176,10 +178,22 @@ function getIdenticalPathMap(firstLocale, secondLocale)
     return remaps;
 }
 
+const demoKeysToRemap = [
+    "main.xalorissponge",
+    "main.xalorisspongedsc",
+    "buildings.xaloris",
+    "buildings.xalorisdsc",
+    "other.algae",
+    "other.algaedsc"
+];
+
 function shouldSyncRemap(path)
 {
     // These were changed to use conditions as part of 1.0-pre3
     if (path.startsWith("pauseQuotes"))
+        return true;
+
+    if (demoKeysToRemap.includes(path))
         return true;
 
     return false;
