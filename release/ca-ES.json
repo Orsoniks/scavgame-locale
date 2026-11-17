@@ -1,6 +1,6 @@
 {
   "name": "Català",
-  "description": "El creador oficial ha creat el joc originalment en anglès. Pots trobar les traduccions creades per la comunitat (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), encara que poden estar mal traduïdes o desactualitzades. Aquesta traducció ha estat realitzada per: <color="purple">ICraveWaffles.</color> \n\Darrera actualizació:<color="white"> 17 de novembre de 2026.</color>",
+  "description": "El creador oficial ha creat el joc originalment en anglès. Pots trobar les traduccions creades per la comunitat (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), encara que poden estar mal traduïdes o desactualitzades. Aquesta traducció ha estat realitzada per: <color=\"purple\">ICraveWaffles.</color>\n\nDarrera actualizació:<color=\"white\"> 17 de novembre de 2026.</color>",
   "version": "1.0.2",
   "main": {
     "bandage": "Embenat",
