@@ -1,6 +1,6 @@
 {
   "name": "Català",
-  "description": "El creador oficial ha creat el joc originalment en anglès. Pots trobar les traduccions creades per la comunitat (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), encara que poden estar mal traduïdes o desactualitzades.",
+  "description": "El creador oficial ha creat el joc originalment en anglès. Pots trobar les traduccions creades per la comunitat (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), encara que poden estar mal traduïdes o desactualitzades. Aquesta traducció ha estat realitzada per: <color="purple">ICraveWaffles.</color> \n\Darrera actualizació:<color="white"> 17 de novembre de 2026.</color>",
   "version": "1.0.2",
   "main": {
     "bandage": "Embenat",
@@ -4958,16 +4958,16 @@
         "Molestes!"
       ],
       "wet": [
-        "My fur has high water content.",
-        "I am the moist one.",
-        "I am wet.",
-        "There is an uncomfortable feeling around my body.",
-        "My fur has become wet.",
-        "Moisture has accumulated on me.",
-        "I have collected moisture on my body surface.",
-        "I am soaked",
-        "Please remove this fluid from the surface of my body.",
-        "I am covered in liquid."
+        "El meu pelatge té un alt contingut d'aigua.",
+        "Sóc el que està humit.",
+        "Estic mullat.",
+        "Tinc una sensació d'incomoditat pel cos.",
+        "Es meu pelatge s'ha mullat.",
+        "Se m'ha acumulat la humitat.",
+        "He recolectat humitat a la superfície del cos.",
+        "Estic xop.",
+        "Si us plau, traieu aquest líquid fora de la superfície del meu cos.",
+        "Estic ple de líquid."
       ],
       "dirty": [
         "M'he de netejar per evitar complicacions.",
