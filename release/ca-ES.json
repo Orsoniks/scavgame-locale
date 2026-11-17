@@ -1044,6 +1044,7 @@
     "loosescrews": "Cargols fluixos",
     "bentprosthesis": "Pròtesi doblegada",
     "materialloss": "Pèrdua de material crític",
+    
     "braindamage4dsc": "...",
     "braindamage3dsc": "sa... rea litat  ...  'tura de ten    ir   sentit",
     "braindamage2dsc": "La capacitat de pensar de manera intel·ligent i l'autoconservació és limitada. Presència de danys cerebrals greus.",
@@ -1689,6 +1690,7 @@
     "rundivtrader": "Configuració dels supervivents",
     "rundivother": "Altres",
     "rundivchallenges": "Reptes",
+    
     "tutorialwarning": "<size=150%>Abans de baixar...\n\n<size=100%>Encara no has fet el curs bàsic.\nSegur que vols entrar completament a cegues?\n\n\n\nLa teva mort està gairebé garantida.",
     "tutorialwarningyes": "Fes la formació bàsica.",
     "tutorialwarningno": "Sé molt bé el que faig.",
@@ -4652,6 +4654,7 @@
       ],
       "refuse": [
         "...",
+        "...Hm.",
         "...",
         "...",
         "...",
@@ -4662,9 +4665,9 @@
         "...",
         "...",
         "...",
-        "...",
-        "...",
-        "..."
+        "Bastant...",
+        "Hmm...",
+        "...Un moment."
       ],
       "bleeding": [
         "La sang està sortint del meu cos. No ho hauria de fer.",
