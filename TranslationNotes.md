@@ -157,6 +157,8 @@ Texts related to the end screen stats (like `endscreenstatus`, `endscreendecease
 | `hasbattery` | `<>` is the name of the battery inserted into the item. |
 | `nobattery` | `<>` is the name of the maximum battery size that can be inserted into the item (one of `small`, `medium` or `large` in the `other` section). |
 | `lockprecision` | The precision in degrees is appended to the right, followed by a space and one of `degree` or `degrees` for the unit. |
+| `costs` | The cost of the item is appended to the right, as a number. |
+| `weighs` | The weight of the item is appended to the right, as a number. |
 | `endsc1` | `<>` is replaced with the character's specimen number from the health panel. |
 | `endsc2` | Same as `endsc1` from above. |
 
@@ -184,6 +186,8 @@ Some specific lines from the `braindamaged` sections are texts written in Dracon
 
 ### Survivor notes
 
+Covers lines 6208 through 6749 in the `"notes"` section.
+
 Generally, survivor notes follow a specific writing pattern based on the character that wrote the note. It is strongly recommended to preserve this style in translated text:
 - Milkys use proper grammar and punctuation in writing.
 - Experiments tend to omit capitals and punctuation.
@@ -192,11 +196,15 @@ Generally, survivor notes follow a specific writing pattern based on the charact
 
 ### PDA notes
 
+Covers lines 6750 through 6867 in the `"pdaNotes"` section.
+
 | PDA Entry | Notes |
 | --------- | ----- |
 | PDA #9 (line 6784) | `I'm just here for the free radicals` can be interpreted as a chemistry joke version of `I'm just here for the free pizza` and [free radicals](https://en.wikipedia.org/wiki/Free_radical). You can use a different chemistry joke if the translated version doesn't work well in your language. |
 
 ### Pause quotes
+
+Covers lines 6868 through 7007 in the `"pauseQuotes"` section.
 
 Pause quotes are from the point of view of the "Observer", who is a "paranormal entity that oversees everything and is driven by curiosity".
 
