@@ -1,7 +1,7 @@
 {
     "name": "English",
     "description": "The official developer-created english translation of the game. You can find community translations in the locale repository (See credits menu). Community translations are not quality-checked and might be inaccurate or out of date!",
-    "version": "1.0",
+    "version": "1.0.2",
     "main": {
         "bandage": "Dressing",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
@@ -1216,7 +1216,7 @@
         "cargodsc": "The look is disturbing and the feeling is monstrously uncomfortable, yet you feel empowered...",
         "prosthesisdsc": "A prosthesis is attached to you. Prosthetic limbs cannot bleed or feel pain, but need to be rebuilt with their repair material if damaged.",
         "loosescrewsdsc": "One of your prostheses is coming loose, causing material damage while you move. This is caused by shrapnel or critical material loss.",
-        "bentprosthesisdsc": "One of your ptostheses is bent way out of shape, disabling its use and making it unable to be repaired normally. Fix it using any wrench.",
+        "bentprosthesisdsc": "One of your prostheses is bent way out of shape, disabling its use and making it unable to be repaired normally. Fix it using any wrench.",
         "materiallossdsc": "One of your prostheses has a huge crack going down the middle, disabling its use and making it prone to breaking off. Fix it using the repair material."
     },
     "other": {
@@ -1406,7 +1406,7 @@
         "keratinbooster": "Keratin-booster",
         "keratinboosterdsc": "A modified growth hormone that specifically targets keratin in order to encourage its growth. Makes your claws regrow faster for a while.",
         "highgradestimulant": "Medical-grade stimulant",
-        "highgradestimulantdsc": "Medical stimulant drug. Gives you a very good kick for a pretty long while, and is generally safe to use. Overdose generally entails weakness, with a neglegible crash. Dosage is 100ml.",
+        "highgradestimulantdsc": "Medical stimulant drug. Gives you a very good kick for a pretty long while, and is generally safe to use. Overdose generally entails weakness, with a negligible crash. Dosage is 100ml.",
         "midgradestimulant": "Hard stimulant",
         "midgradestimulantdsc": "Decently refined stimulating hard drug. Only works intravenously. Will give you a pretty good kick for a short while, but has some side effects. Overdose entails weakness and internal bleeding. Dosage is 50ml.",
         "lowgradestimulant": "Off-brand stimulant",
@@ -1475,8 +1475,8 @@
         "waterdsc": "Unfiltered groundwater. Mostly safe to drink, though slightly sickening.",
         "dirtywater": "Dirty water",
         "dirtywaterdsc": "At least it's not on your body anymore. Not safe to drink.",
-        "algae": "Lumalgae",
-        "algaedsc": "Water with dense, bioluminescent algae growing in it. Very buoyant. Inedible.",
+        "lumalgae": "Lumalgae",
+        "lumalgaedsc": "Water with dense, bioluminescent algae growing in it. Very buoyant. Inedible.",
         "redsludge": "Red sludge",
         "redsludgedsc": "Absolutely disgusting. Some kind of fleshy paste. Smells abhorrent.",
         "magma": "Magma",
@@ -1554,7 +1554,7 @@
         "char0quirks": "[CANINE] - Your stomach doesn't play well with theobromine.\n[BIOLUMINESCENT_SIGHT] - In an emergency, you're your own light source.",
         "char1name": "[SAW-03] \"Milky\"",
         "char1desc": "[FAMILY] \"Canine\"\n[CALLOUT_QUOTE] \"I will comply.\"\n[SUCCESS_PREDICTION] \"0.0103%\"\n[NOTES] \"Bit of a snob\"",
-        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better and light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick and gives less nutrition.\n[SCRAWNY] - All STR and RES gain is halved.\n[MARKSMAN] - You can use keybinds to handle firearms and see the ammo count.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need it.\n[CANINE] - Your stomach doesn't play well with theobromine.",
+        "char1quirks": "[NARCOLEPTIC] - Your sleep cycle is much shorter, but you don't feel the negative effects of sleeping on rough surfaces.\n[STATURE] - You're tiny!\n[ADAPTED_EYES] - You see better and light sources extend farther.\n[SEMI_HERBIVORE] - Meat makes you slightly sick and gives less nutrition.\n[SCRAWNY] - All STR and RES gain is halved.\n[MARKSMAN] - You can load shotguns directly using an ammo box, use keybinds to handle firearms and see the ammo count.\n[STRONG_FACADE] - It'll take more to break you mentally. You aren't one to be affectionate, unless you really need it.\n[CANINE] - Your stomach doesn't play well with theobromine.",
         "char2name": "[SAW-12] \"Dune\"",
         "char2desc": "[FAMILY] \"Insectoid\"\n[CALLOUT_QUOTE] \"Hrrnn... Du-ne time go..?\"\n[SUCCESS_PREDICTION] \"0.001%\"\n[NOTES] \"Eww! It's drooling!\"",
         "char2quirks": "[AQUATIC] - You can breathe underwater and like sleeping there.\n[FURLESS] - The lack of fur leaves you vulnerable to the ambient temperature. You dry off a lot faster. Groundwater and other liquids will stabilize your body temperature.\n[CANNIBAL] - You can eat raw meat and destroy corpses with no repercussions. You are generally immune to food poisoning.\n[CARNIVORE] - Eating fruit will cause you to vomit it right back out.\n[MUSCLE_FOR_BRAINS] - You don't <i>do</i> thinking. All INT gain is halved.\n[UNFEELING] - Mood is dampened by one third. You can't hug or haggle. You don't find killing people a significant event.\n[CHITINOUS] - Chitinous growths make you resilient to physical trauma.",
@@ -1659,6 +1659,8 @@
         "runsettimebetweenearthquakesdsc": "How long, on average, it will take for an earthquake to appear",
         "runsettemperatureoffset": "Ambient temperature offset",
         "runsettemperatureoffsetdsc": "How much warmer/colder should the environment be on average",
+        "runsetallowlayerendmovement": "Allow movement at layer end",
+        "runsetallowlayerendmovementdsc": "If true, you will be allowed full movement when reaching the bottom of a layer. This is recommended to keep off, because being able to grab all the loot that collects at the bottom is unbalanced.",
         "runsetlockpickprecision": "Lockpicking leniency",
         "runsetlockpickprecisiondsc": "How wide the precision angle is during lockpicking minigames",
         "runsetambientlight": "Ambient light",
@@ -1749,6 +1751,8 @@
         "gamesetclearerrecipesdsc": "If on, the recipe list will be given clearer colors to distinguish between craftable/uncraftable recipes",
         "gamesetinventoryuseleniency": "Inventory use leniency",
         "gamesetinventoryuseleniencydsc": "How much you need to wait after opening the inventory before you can use an item. Lower values will let you use items earlier",
+        "gamesetautocolorfavourite": "Auto-color favourited items",
+        "gamesetautocolorfavouritedsc": "If enabled, favourited items will automatically be colored yellow, similar to how the demo functions.",
         "gamesetskipintro": "Skip intro",
         "gamesetskipintrodsc": "Because you've seen the intro text one too many times...",
         "gamesetrpc": "Rich presence",
@@ -2061,8 +2065,8 @@
         "alertnanotechfail": "<color=\"red\">The writing is incomprehensible...\nMaybe try another time?",
         "alertnanotechrepeat": "You already read this. Keep the scanner on you and watch for any signals.",
         "nanotechdepth": "NANO-TECH Signature detected at this depth!",
-        "nanotechdepthinitialleft": "NANO-TECH Signature detected in this area, to the left...",
-        "nanotechdepthinitialright": "NANO-TECH Signature detected in this area, to the right...",
+        "nanotechdepthinitialleft": "NANO-TECH Signature detected in this area, to the left, at <>.",
+        "nanotechdepthinitialright": "NANO-TECH Signature detected in this area, to the right, at <>.",
         "insertsample": "Insert a sample",
         "tradeinteract": "Trade",
         "read": "Read",
@@ -4202,6 +4206,9 @@
             "cargoimpale3": [
                 "I... I r-really did it... Well... I'll... Let's not get too confident... I think I can use that pod to return. Let's get to the surface."
             ],
+            "wwmrwrongway": [
+                "I don't think this is the right way... I should go towards the source of those weird pulses..."
+            ],
             "endlessloop0": [
                 "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
             ], 
@@ -4780,7 +4787,7 @@
                 "My body temperature is below average.",
                 "The ambient temperature is below the norm.",
                 "*shudder*",
-                "I am cold",
+                "I am cold.",
                 "I may enter a hypothermic state if this continues.",
                 "I have no warmth in my body.",
                 "I ought to stay at a comfortable temperature.",
@@ -5077,6 +5084,9 @@
             ],
             "cargoimpale3": [
                 "Hh. Focus. Very well. It is only logical that this was an intended part of the plan. I shall proceed into this drill pod and head upwards."
+            ],
+            "wwmrwrongway": [
+                "I must be going the wrong way. I must head towards the source of the pulses."
             ],
             "endlessloop0": [
                 "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
@@ -5918,6 +5928,9 @@
             ],
             "cargoimpale3": [
                 "Hhr...n..mmm...du-ne can lea-ve..."
+            ],
+            "wwmrwrongway": [
+                "Du-ne... Stu-pid. No wa-y."
             ],
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh......a-gain?"

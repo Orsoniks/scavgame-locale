@@ -30,6 +30,7 @@ Each language has its own JSON file named according to its locale code, where th
    - **Spacing/punctuation**: apply normal rules but be consistent with the project style.
    - **Short strings caution**: game UI may truncate very long text. Prefer translations with the approximate same amount of characters where possible, particularly with UI text.
    - **Keep the json entries sorted** similarly to the reference locale (`EN.json`).
+   - **Keep the total count of texts intact**: if there are 13 `limbmuscle` reply lines for Experiments, locales should also translate those exact 13 lines. The same goes for pause quotes, notes, and PDAs.
    - Don't try to '*improve*' the game, just make it your language.
 
 3. Use a text editor or IDE that supports JSON formatting and validation to avoid syntax errors (avoid editing within GitHub as an example).
