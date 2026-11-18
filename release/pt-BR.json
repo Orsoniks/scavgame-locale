@@ -99,9 +99,9 @@
         "gravbagdsc": "Um contêiner muito experimental que utiliza antigravidade para reduzir o seu peso total. Possui tendências explosivas quando está com pouca energia.",
         "legpouch": "Bolso de perna",
         "legpouchdsc": "Uma pequena bolsa de couro com correias para ir envolta da sua coxa.",
-		"liquidpouch": "Bolsa líquida",
+        "liquidpouch": "Bolsa líquida",
         "liquidpouchdsc": "Uma bolsa flexível feita para guardar líquidos. Tem uma alça para ir na sua barriga. Você pode encher ela com garrafas e vice-versa.",
-		"materialpouch": "Bolsa de materiais",
+        "materialpouch": "Bolsa de materiais",
         "materialpouchdsc": "Uma bolsa grande e resistente que pode ser presa a sua coxa, contendo diversos bolsos menores para guardar material. Possui grande espaço de carga, mas só guarda materiais.",
         "purse": "Bolsa",
         "pursedsc": "Uma bolsa de tamanho médio usada para carregar itens pessoais. Também é estilosa.",
@@ -119,13 +119,13 @@
         "scaffoldingpackdsc": "Uma caixa hiper-comprimida com andaimes, feitos para serem de colocados facilmente. Tem 100 usos.",
         "disinfectant": "Spray antisséptico",
         "disinfectantdsc": "Uma garrafa de spray de 200 ml. Espirra 10 ml cada vez que for usada.",
-		"spraybottle": "Garrafa de spray",
+        "spraybottle": "Garrafa de spray",
         "spraybottledsc": "Uma garrafa de spray de 200 mL. Espirra 10 ml cada vez que for usada. Boa para uso correto de antissépticos.",
         "syringe": "Seringa",
         "syringedsc": "Uma seringa de 100ml, pode injetar fluidos intravenosamente. Feita a mão.",
         "scrapmetal": "Sucata",
         "scrapmetaldsc": "Pedaços de aço de maquinaria destruída. Normalmente usada em criações ou como moeda entre sobreviventes. Pode ser posicionada se estiver acima de 25% durabilidade.",
-		"climbingrope": "Corda de escalada",
+        "climbingrope": "Corda de escalada",
         "climbingropedsc": "Uma longa e dura corda com pontos de fixação. Seria esperto usar ela para descer de precipícios. Tem dois usos.",
         "circuitboard": "Placa de circuitos",
         "circuitboarddsc": "Pedaços de circuitos, arrancados de uma maquina funcional. Ainda solta faíscas ocasionalmente. Usado em criações.",
@@ -153,7 +153,7 @@
         "bananadsc": "Uma fruta amarela gostosa com manchas e pontinhos pretos, aparentemente de outro planeta. Minusculamente radioativa.\nPera, você vai... Ai meu deus, você vai comer a casca...",
         "burger": "Hambúrguer",
         "burgerdsc": "Um lanche genérico grande e suculento. Enche sua barriga e, aparentemente, sua alma também.",
-		"pancake": "Panquecas",
+        "pancake": "Panquecas",
         "pancakedsc": "Uma massa doce e achatada, em camadas, coberta com calda. Pode grudar no seu pelo. Um presente dos deuses...",
         "pizzaslice": "Fatia de pizza",
         "pizzaslicedsc": "Uma fatia de pizza. Muito gostosa e enche tua barriga de calorias. Graças a deus, não tem abacaxi.",
@@ -227,7 +227,7 @@
         "glowplantfruitdsc": "Bioluminescente e incomestível. Tem toxinas meio perigosas dentro, capazes de combater infecções. Seus sucos promovem reações químicas, úteis em algumas criações.",
         "flashlight": "Lanterna",
         "flashlightdsc": "Ilumina uma grande área na sua frente, perdendo bateria ao longo do tempo. Use para mudar de modo.",
-		"emergencylight": "Luz de emergência",
+        "emergencylight": "Luz de emergência",
         "emergencylightdsc": "Uma minúscula lanterna de uso único. É melhor achar uma outra fonte de luz antes que ela acabe. Use para ligar e desligar.",
         "lantern": "Lampião",
         "lanterndsc": "Um simples lampião feito de vidro e madeira, contendo um cristal amarelo brilhante.",
@@ -255,7 +255,7 @@
         "heavydrilldsc": "Uma grande e pesada broca mecânica segurada pelas mâos. Muito eficiente mas não alcança longe.",
         "pickaxe": "Picareta",
         "pickaxedsc": "Uma ferramenta feita especificamente para cavar pelas pedras. É muito boa em remover terreno mas também é lerda. O espírito do Mineirinho está forte nessa coisa.",
-		"titaniumpickaxe": "Picareta de titânio",
+        "titaniumpickaxe": "Picareta de titânio",
         "titaniumpickaxedsc": "Uma ferramenta bem feita de titânio forjado. Muito duradoura e boa em remover terreno, mas ainda ruim no combate.",
         "titaniummultitool": "Multiferramenta de titânio",
         "titaniummultitooldsc": "Uma pequena e firme ferramenta usada para fabricação á mão. Combina de martelo e uma lâmina escondida no cabo. É leve, durável e só praticamente útil para fabricação mesmo.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros.",
@@ -269,7 +269,7 @@
         "wooddiggingtooldsc": "Um pedaço afiado de madeira em um graveto. Cava um pouquinho melhor que suas garras.",
         "machete": "Machete",
         "machetedsc": "Uma grande e versátil lâmina de metal. Util durante combates corpo-a-corpo. Você se sente inquieto segurando isso.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros.",
-		"crudecleaver": "Cutelo rudimentar",
+        "crudecleaver": "Cutelo rudimentar",
         "crudecleaverdsc": "Lâmina, cabo e pregos martelados juntos, formando um cutelo improvisado. Útil em criações. Você se sente inquieto segurando isso.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros.",
         "sickle": "Foice de metal",
         "sickledsc": "Uma ferramenta de metal com uma lâmina curvada, feita para colher plantações ou cortar vegetação. Um martelo gostaria dessa coisa.\n\n<color=\"red\">Pode ser usada no painel de saúde para amputar membros.",
@@ -321,7 +321,7 @@
         "bikehelmetdsc": "Uma proteção para o seu crânio, feita para deixar impactos na cabeça minimizados. Diminui feridas na cabeça por queda.",
         "riothelmet": "Capacete de proteção",
         "riothelmetdsc": "Um capacete de alta tecnologia que reduz significativamente a gravidade dos traumatismos cranianos.",
-		"holidayhat": "Chapéu natalino",
+        "holidayhat": "Chapéu natalino",
         "holidayhatdsc": "Tudo que você sabe é que as pessoas usam isso para uma ocasião especial, com muitos \"HOHOHO\"s e presentes. Legal que te enviaram com um, mas por quê?",
         "headlamp": "Lanterna de cabeça",
         "headlampdsc": "Uma pequena lanterna feita para ser amarrada na sua cabeça. Perde bateria com o tempo.",
@@ -342,7 +342,7 @@
         "aichip": "Chip MINI-AI",
         "aichipdsc": "Um chip corporal relativamente simples, permite uma IA simples se comunicar com o usuário e ajuda-lo em certas tarefas. Você não vai conseguir fazer muito uso disto, por agora.",
         "kineticchip": "Chip Transmissão Cinética",
-        "kineticchipdsc": "Um chip experimental que cria uma mini distorção no espaço-tempo entre dois pontos, empurrando telecinéticamente o usuário e o objeto á qualquer direção desejada. You won't be able to make use of it until much later.",        
+        "kineticchipdsc": "Um chip experimental que cria uma mini distorção no espaço-tempo entre dois pontos, empurrando telecinéticamente o usuário e o objeto á qualquer direção desejada. You won't be able to make use of it until much later.",
         "blueprint": "Diagrama",
         "blueprintdsc": "Possui o passo-a-passo para a criação de algum objeto. Tem um tipo de chip eletrônico preso nisso... Use para aprender uma receita e ganhar experiência em INT.",
         "safetyglasses": "Óculos de proteção",
@@ -421,7 +421,7 @@
         "epdadsc": "Assistente digital pessoal eletrônico, acidentalmente deixado pra trás por um dos seus captores. Se você enfiar uma bateria nele, provavelmente daria para xeretar um pouquinho e aprender algo novo.",
         "bloodcoagulant": "Seringa de procoagulante",
         "bloodcoagulantdsc": "Uma seringa de 100 ml que injeta fluidos por via intravenosa. Dosagem de ~34 ml.",
-		"combatpen": "Autoinjetor de combate",
+        "combatpen": "Autoinjetor de combate",
         "combatpendsc": "Uma caneta injetora com capacidade de 100ml, capaz de injetar seu conteúdo instantaneamente no corpo. Contem um mistura feita para estabilizar baixas e auxiliar em combates.",
         "streptokinase": "Seringa de estreptoquinase",
         "streptokinasedsc": "Uma seringa de 100 ml que injeta fluidos por via intravenosa. Dosagem de ~34 ml.",
@@ -429,7 +429,7 @@
         "chestdraindsc": "Usado para remover fluidos do tórax. Reduz o nível de hemotórax, e é reusável após um tempo. Apenas usável no peitoral.",
         "tweezers": "Pinça",
         "tweezersdsc": "Um simples par de pinças de metal. Pode remover estilhaços de partes de seu corpo sem causar dores ou sujeiras.",
-		"lockpickingkit": "Kit de arrombamento",
+        "lockpickingkit": "Kit de arrombamento",
         "lockpickingkitdsc": "Diversas pequenas ferramentas usadas para abrir com eficácia diversos tipos de tranca. Tenha-a em qualquer lugar de seu inventario ao arrombar trancas para usa-la. Necessário 10 INT para usar, sua eficácia escala com INT.",
         "icepack": "Bolsa de gelo",
         "icepackdsc": "Uma bolsa fria cheia de gel refrigerante que se esfria sozinho. Ajuda no tratamento da saúde múscular, reduz dores e te esfria um pouco. O item se resfria com o tempo.",
@@ -573,7 +573,7 @@
         "autoinjectordsc": "Foi uma maravilha medicinal quando inventado, esse pequeno dispositivo consegue encontrar automaticamente uma veia ou artéria para dispensar a dosagem necessária de algum medicamento. Usado em criações medicinais.",
         "keratinbooster": "Impulsiona-queratina",
         "keratinboosterdsc": "Uma garrafa de 100 mL A 100mL bottle com um rótulo de suplemento para cuidado de unhas. Dosagem de 50 mL.",
-		"drillrepairkit": "Kit de reparos de perfuratriz",
+        "drillrepairkit": "Kit de reparos de perfuratriz",
         "drillrepairkitdsc": "Um pequeno amontoado de partes de Perfuratriz sobressalentes. Você pode usar isso para reparar uma daquelas maquinas.",
         "campfire": "Fogueira",
         "campfiredsc": "Uma fogueira acesa, quentinha e aconchegante, sua temperatura vai aumentar perto dela. Usada como fonte de calor em diversas receitas.",
@@ -587,7 +587,7 @@
         "ryeflourdsc": "Um pó usado na produção de diversos alimentos. Você vai precisar de água e uma fonte de calor para trabalhar com isso.",
         "bread": "Pão",
         "breaddsc": "Um pedaço de pão, feito com farinha e água. É a coisa mais simples que você pode comer, não é repulsiva e vai durar um bom tempo.",
-		"cake": "Um bolo",
+        "cake": "Um bolo",
         "cakedsc": "Uma massa doce assada, com uma cobertura glaceada por cima. Grande, bem recheada e muito saborosa, mesmo se o alto açúcar deixe ela um pouco enjoativa se for consumida demais.",
         "pemmican": "Pemmicano",
         "pemmicandsc": "Uma mistura de gordura, carne seca e frutas. Duradouro e denso em calorias. Não tem muito gosto.",
@@ -595,9 +595,9 @@
         "torchdsc": "Uma fonte de luz extremamente primitiva. Produz uma boa quantidade de luz, mas pode ser apagada por líquidos. Pode reacende-la em qualquer fonte de fogo. ",
         "lighter": "Isqueiro",
         "lighterdsc": "Um isqueiro genérico tipo flip. Pode ser usado em criações que utilizam sua chama, como em fogueiras. É bem durável.",
-		"present": "Presente",
+        "present": "Presente",
         "presentdsc": "Uma caixa decorada de papelão, com algo dentro. Use para desembrulhar.\n\nLoot boxes da vida real!",
-		"woodsandals": "Sandália de madeira",
+        "woodsandals": "Sandália de madeira",
         "woodsandalsdsc": "Um painel de madeira amarrado com corda em seu pé. Nada confortável, mas vai te proteger de coisas afiadas. Se for sortudo, até mais de uma vez.",
         "minibarrel": "Mini-barril",
         "minibarreldsc": "Um pequeno barril industrial feito para armazenar líquidos. Absurdamente pesado e impratico de carregar.",
@@ -617,7 +617,7 @@
         "mushroomplatformdsc": "Um duro pedaço de cogumelo em que dá para ficar de pé. Não confunda com plastcreto.",
         "bouncecap": "Cogumelo pulante",
         "bouncecapdsc": "Só 1 real.",
-		"climbingropeextended": "Corda de escalada",
+        "climbingropeextended": "Corda de escalada",
         "climbingropeextendeddsc": "Um pedaço extendido de corda forte. Se segure nela para começar a escalar.",
         "glowshroom": "Brilha-gumelo",
         "glowshroomdsc": "Meio radioativa e mais brilhante que o sol.",
@@ -653,7 +653,7 @@
         "bioterminaldsc": "Um terminal de computador com uma placa for baixo dele em que está escrito: \"Insira amostra de DNA humano para continuar...\"",
         "lifepodshower": "Chuveiro de cápsula",
         "lifepodshowerdsc": "Fornece um spray único de espuma de limpeza antisséptica.",
-		"lifepodpump": "Bomba de cápsula",
+        "lifepodpump": "Bomba de cápsula",
         "lifepodpumpdsc": "Bombeia qualquer líquido para fora da cápsula.",
         "BloodCrystal": "Cristal de sangue",
         "BloodCrystaldsc": "Parece estar molhado com um líquido amarelo, jorrando o por tudo em volta.",
@@ -676,7 +676,7 @@
         "glassshardsdsc": "",
         "sandvine": "Vinha arenosa",
         "sandvinedsc": "Uma vinha longa e firme. Você poderia usar elas para escalar, mas talvez seja um pouco difícil se ela for muito fina.",
-		"vein": "Veia",
+        "vein": "Veia",
         "veindsc": "Uma... Planta? Você pode se segurar nela.",
         "ladder": "Escada",
         "ladderdsc": "Um conjunto vertical de degraus usado para subir ou descer. Espero que você saibá como usá-la.",
@@ -828,7 +828,7 @@
         "soundcannon": "Canhão sonoro",
         "soundcannondsc": "Tampe seus ouvidos se ouvir ele carregando.",
         "trader": "Sobrevivente",
-        "traderdsc": "Mais um sobrevivente sem sorte. Pelo menos ele está respirando.", 
+        "traderdsc": "Mais um sobrevivente sem sorte. Pelo menos ele está respirando.",
         "traderdscdead": "Ele não está mais respirando, graças a você. Parabéns!",
         "bananaplant": "Planta-Banana",
         "bananaplantdsc": "Uma curta, porém larga planta, coloquialmente chamada de \"Planta-Banana\" devido a seu topo amarelo e mole. Muito escorregadio.",
@@ -844,7 +844,7 @@
         "mushroomdropperdsc": "Um fungo que se solta para espalhar esporos em qualquer visitante azarado.",
         "mushroomdropperpayload": "Chapéu de queda-gumelo",
         "mushroomdropperpayloaddsc": "É a parte do cogumelo que entra em queda e te machuca.",
-		"mushroomrope": "Corda de cogumelo",
+        "mushroomrope": "Corda de cogumelo",
         "mushroomropedsc": "Um longo pedaço de fungo. Parece que dá pra escalar com isso. Nojento!",
         "sidestabber": "Faqueia-lado",
         "sidestabberdsc": "Um animal estranho fundido com um fungo. Lança um espinho enorme nas suas presas.",
@@ -856,7 +856,7 @@
         "sawbladedsc": "Serrarma! ...Te traz memórias aterrorizantes.",
         "LoreNote": "Nota escrita",
         "LoreNotedsc": "Deixada aqui por outro sobrevivente.",
-		"ceilingrye": "Trigo de teto",
+        "ceilingrye": "Trigo de teto",
         "ceilingryedsc": "Um estranho tufo de grama com bolsinhas penduradas nas suas pontas. Parecem estar cheias com algum tipo de grão.",
         "grabberplant": "Plantáculo",
         "grabberplantdsc": "Parece que sente o ambiente com a ponta.",
@@ -916,7 +916,7 @@
         "withdrawal2": "Abstinência",
         "withdrawal3": "Abstinência severa",
         "withdrawal4": "Morrendo de abstinência",
-		"stimulated": "Estimulado",
+        "stimulated": "Estimulado",
         "drugoverdose": "Overdose medicinal",
         "bleeding1": "Sangramento pequeno",
         "bleeding2": "Sangramento",
@@ -961,7 +961,7 @@
         "thirst2": "Com sede",
         "thirst3": "Desidratado",
         "thirst4": "Desidratação severa",
-		"overhydrated1": "Hidratado",
+        "overhydrated1": "Hidratado",
         "overhydrated2": "Hiperidratado",
         "overhydrated3": "Intoxicação hídrica",
         "sick1": "Enjoado",
@@ -1036,7 +1036,7 @@
         "clawdamage1": "Garras cegas",
         "clawdamage2": "Garras quebradas",
         "keratinbooster": "Crescimento impulsionado",
-		"impendingdoom": "Sensação de aniquilação iminente",
+        "impendingdoom": "Sensação de aniquilação iminente",
         "horrified": "HORRORIZADO",
         "focused": "FOCADO",
         "cargo": "Cargo cravado",
@@ -1044,7 +1044,6 @@
         "loosescrews": "Parafuso solto",
         "bentprosthesis": "Prótese torta",
         "materialloss": "Perda crítica de material",
-		
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidade  ..  parou   fazer   sentido",
         "braindamage2dsc": "Habilidade de raciocinar e de se autossustentar limitada. Dano cerebral sério presente.",
@@ -1089,7 +1088,7 @@
         "withdrawal2dsc": "Seu corpo está desesperado por mais uma dose. Vontade de vomitar... A sensação é bem ruim.",
         "withdrawal3dsc": "Você está lutando para se manter funcional, tremendo, desesperado por qualquer forma de alívio. A sensação é horrível. Encontre opióides.",
         "withdrawal4dsc": "Seu corpo é incapaz de se sustentar sem o indispensável ópio. Seu coração luta para bombear sangue pelo corpo, cuidado com uma possível fibrilação .",
-		"stimulateddsc": "Estimulantes pesados percorrem sua corrente sanguínea. Você se sente pronto para encarrar qualquer coisa.",
+        "stimulateddsc": "Estimulantes pesados percorrem sua corrente sanguínea. Você se sente pronto para encarrar qualquer coisa.",
         "drugoverdosedsc": "Você pegou uma overdose de drogas genéricas, não baseadas em opióides. Problemas de saúde prováveis. Parabéns.",
         "bleeding1dsc": "Sangue escorrendo por um ferimento pequeno. Não há perigo imediato.",
         "bleeding2dsc": "Sangramento fluindo de um ferimento médio. Improvavel que seja fatal se estiver saúdavel, mas ainda é perigoso.",
@@ -1206,10 +1205,10 @@
         "lowimmunitydsc": "Seu sistema imunológico está severamente enfraquecido, seja pela sujeira, fome, sede, ou outro motivo. Infecções são muito mais perigosas. Cuide-se melhor.",
         "highimmunitydsc": "Seu sistema imunológico está com toda a potência, provavelmente devido aos antibióticos. Infecções são muito menos perigosas e podem até regredir por conta própria se sua imunidade estiver próxima dos 200%.",
         "amputationdsc": "Um de seus membros corporais foi cortado. Hora de procurar uma prótese!",
-		"clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
+        "clawdamage1dsc": "Suas garras estão desgastadas devido ao uso continuo, dano reduzido. Dê um tempo para suas mãos ou use uma ferramenta.",
         "clawdamage2dsc": "Suas garras estão severamente danificadas pelo uso excessivo, alta redução no dano. Você pode acabar ferindo suas mãos se continuar sem uma ferramenta.",
         "keratinboosterdsc": "Suas garras crescem três vezes mais rápido. (<>)",
-		"impendingdoomdsc": "Por algum motivo, você está sentindo uma intensa sensação de medo. O seu pelo tá extremamente arrepiado. É como se a natureza ao seu redor, de repente, se calou...",
+        "impendingdoomdsc": "Por algum motivo, você está sentindo uma intensa sensação de medo. O seu pelo tá extremamente arrepiado. É como se a natureza ao seu redor, de repente, se calou...",
         "horrifieddsc": "NÃO DA PRA FOCAR. NÃO DA PRA PENSAR DIREITO. NADA MAIS IMPORTA. LUTE POR SUA VIDA OU CORRA!",
         "focuseddsc": "<i>Ambos iremos partir hoje. Um, vai um pouco mais cedo que o outro.",
         "focuseddscalt": "<i>Chegou a hora de conquistar sua liberdade.",
@@ -1220,7 +1219,7 @@
         "materiallossdsc": "Uma prótese sua está com um buraco enorme em seu centro, desabilitando seu uso e facilitando sua quebra definitiva. Conserte usando o material adequado."
     },
     "other": {
-		"fullmouthchars": "mnoae",
+        "fullmouthchars": "mnoae",
         "underwaterchars": "blug",
         "layertitletutorial": "Terra\nLaboratório de treinamento",
         "layertitle1": "Terras de cascalho",
@@ -1235,7 +1234,7 @@
         "layertitle10": "ONDE DEVEMOS CHEGAR",
         "layertitle11": "ASCENSÃO CARMESIM",
         "layertitle12": "Terra\nUm laboratório",
-		"layermodifier0": "(Nevoeiro)",
+        "layermodifier0": "(Nevoeiro)",
         "layermodifier1": "(Quente)",
         "layermodifier2": "(Escaldante)",
         "layermodifier3": "(Frio)",
@@ -1295,7 +1294,7 @@
         "experienceatstart": "Experiência",
         "experienceatend": "Experiência até o próximo nível",
         "currentexperience": "Experiência atual",
-		"missiontime": "Tempo de camada restante",
+        "missiontime": "Tempo de camada restante",
         "air": "Ar",
         "lightrock": "Pedra leve",
         "gravel": "Cascalho",
@@ -1330,7 +1329,7 @@
         "fungus": "Fungo",
         "mushroomcap": "Cogumelo",
         "mushroombody": "Cogumelo",
-		"copper": "Cobre",
+        "copper": "Cobre",
         "ilmenite": "Ilmenita",
         "heatedrock": "Rocha aquecida",
         "obsidian": "Obsidiana",
@@ -1343,7 +1342,7 @@
         "lrdserumdsc": "Uma mistura especial usada por um dispositivo de ressuscitação localizada. Nada acontece se for injetado fora do D.R.L.",
         "cleanwater": "Agua limpa",
         "cleanwaterdsc": "Agua limpa e filtrada. Gosto vazio de sempre.",
-		"carbonatedwater": "Agua carbonada",
+        "carbonatedwater": "Agua carbonada",
         "carbonatedwaterdsc": "Agua picante. Você gosta da borbulha.",
         "alcohol": "Alcool",
         "alcoholdsc": "Alcool sem marca. Não dá pra digerir, mas dá pra usar para desinfetar lesões.",
@@ -1353,13 +1352,13 @@
         "sodadsc": "Um líquido saboroso e açucarado. Beba com moderação.",
         "lemonade": "Limonada",
         "lemonadedsc": "Líquido açucarado com gosto de limão. Bom sabor.",
-		"urine": "Limonada",
+        "urine": "Limonada",
         "urinedsc": "Líquido açucarado com gosto de limão. Bom sabor, só que tá com cheiro de urina por algum motivo.",
         "bleach": "Alvejante",
         "bleachdsc": "Produto químico usado para remover a cor da fibra, ou desinfetar. Pode ser usado para desinfetar feridas. Beber isso é *totalmente* seguro.",
         "energydrink": "Energético",
         "energydrinkdsc": "Um líquido gostoso e cafeinado para te dar um pouco de estâmina e energia. Um pouco tóxico para suas espécies, beba com moderação.",
-		"sportsdrink": "Bebida esportiva",
+        "sportsdrink": "Bebida esportiva",
         "sportsdrinkdsc": "Um drinque eletrolítico sem cafeína. Eficiente em matar a sede, com gosto bom e vai te dar um pequeno impulso de energia.",
         "oliveoil": "Óleo de oliva",
         "oliveoildsc": "Óleo vegetal extraído de azeitonas esmagadas. Alto em gordura e desagradável de tomar.",
@@ -1375,7 +1374,7 @@
         "orangejuicedsc": "Líquido extraído da fruta de uma laranjeira. Embora seja saudável, você não aprecia muito o gosto.",
         "applejuice": "Suco de maçã",
         "applejuicedsc": "Líquidos de uma fruta macerada. Sabor legal.",
-		"hotsauce": "Molho picante",
+        "hotsauce": "Molho picante",
         "hotsaucedsc": "Condimento feito com pimentas particularmente picantes. Queima sua boca, mas também lhe aquece... de alguma forma.",
         "chloroform": "Clorofórmio",
         "chloroformdsc": "Um composto químico volátil, incolor, denso e de aroma doce, produzido em larga escala como um percursor de refrigerantes e politetrafluoretileno. Seu uso pratico é de desmaiar pessoas.",
@@ -1383,7 +1382,7 @@
         "mercurydsc": "Metal líquido. Dizem que é... Ótimo pra pele? Mas com certeza não para suas funções corporais internas.",
         "ketchup": "Ketchup",
         "ketchupdsc": "Um molho com sabor de tomate, meio azedo. Beber isso vai ser nojento.",
-		"powderedmilk": "Leite em pó",
+        "powderedmilk": "Leite em pó",
         "powderedmilkdsc": "Leite em pó de alta eficiência, desidratado e comprimido. Não é comestível em sua forma normal, mas pode virar leite quando misturado com água quente.",
         "morphine": "Morfina",
         "opium": "Opio",
@@ -1399,15 +1398,15 @@
         "ceftriaxonedsc": "Um antibiótico de terceira geração usado para o tratamento de infecções. Aumenta a imunidade do corpo por algum tempo, mas causa dor.",
         "reliefcream": "Creme de alívio",
         "reliefcreamdsc": "Uma mistura de produtos químicos e drogas. Serve para aliviar a dor e desinfetar lesões.",
-		"localanesthetic": "Anestésico local",
+        "localanesthetic": "Anestésico local",
         "localanestheticdsc": "Causa a ausência de toda e qualquer sensação no membro em que for injetado. Isso anula a dor, mas deixa o membro inutilizável. 10mL dura por um minuto.",
         "woundglue": "Cola cirúrgica",
         "woundgluedsc": "Uma substância tipo-cola, antibiótica e hemostática. Luta contra infecções, promove regeneração e é muito efetiva em fechar sangramentos. Pode causar problemas de circulação - use com cuidado.",
         "keratinbooster": "Impulsiona-queratina",
         "keratinboosterdsc": "Um hormônio de crescimento modificado para aumentar a produção de queratina no corpo. Faz suas garras crescerem mais rápido por um tempo.",
-		"highgradestimulant": "Estimulante de grau medicinal",
+        "highgradestimulant": "Estimulante de grau medicinal",
         "highgradestimulantdsc": "Um medicamento estimulante. Capaz de lhe dar impulso forte por um bom tempo, é geralmente seguro de se usar. A overdose comumente leva a fraqueza, com uma ressaca negligenciável. Dosagem de 100ml.",
-		"midgradestimulant": "Estimulante pesado",
+        "midgradestimulant": "Estimulante pesado",
         "midgradestimulantdsc": "Um droga estimulante decentemente refinada. Só funciona intravenosamente. Capaz de lhe dar um impulso decente por pouco tempo, com alguns efeitos colaterais. Sua overdose leva a fraqueza e sangramento interno. Dosagem de 50ml.",
         "lowgradestimulant": "Estimulante suspeito",
         "lowgradestimulantdsc": "Uma droga estimulante nem um pouco pura, de origem duvidosa. Capaz de lhe dar algum impulso, mas sua overdose e subsequente ressaca são extremamente debilitantes. Dosagem desconhecida. Use com cuidado.",
@@ -1427,7 +1426,7 @@
         "blooddsc": "Sangue amarelo. Mesmo que pareça normal para você, é aparentemente um efeito colateral do processo de bioengenharia. Usado para tratar hipovolemia.",
         "redblood": "Sangue vermelho",
         "redblooddsc": "Ainda é sangue. Parece meio estranho, e o cheiro te lembra dos seus captores. Pode tratar hipovolemia, mas seu corpo não vai aceitar bem.",
-		"alienblood": "Sangue alienígena",
+        "alienblood": "Sangue alienígena",
         "alienblooddsc": "Sangue amarelo de um alien. Similar com o seu, quase não é notável a diferença. Não deve causar muitos efeitos colaterais caso você precise usar.",
         "antiserum": "Antissoro",
         "antiserumdsc": "Um soro sanguíneo contendo anticorpos para combater infecções comuns. Aumenta sua imunidade e ajuda contra a sepse. Aumenta um pouco o volume sanguíneo.",
@@ -1450,7 +1449,7 @@
         "mindwipe": "Limpa-mente",
         "mindwipedsc": "Uma droga sintética que completamente limpa o cérebro da maioria de suas memórias e traumas, deixando só uma casca vazia de ser sentiente com instintos de sobrevivência. Normalmente usado em sujeitos que deixaram de funcionar normalmente ou que estão com risco de suicídio. Também pode ajudar em casos de forte dano cerebral. O efeito é permanente sem reabilitação extensiva. Use como um último recurso.",
         "streptokinase": "Estreptoquinase",
-        "streptokinasedsc": "Anticoagulante. Reduz muito a viscosidade do sangue e quebra coágulos sanguíneos.", 
+        "streptokinasedsc": "Anticoagulante. Reduz muito a viscosidade do sangue e quebra coágulos sanguíneos.",
         "sodiumnitroprusside": "Nitroprusseto de sódio",
         "sodiumnitroprussidedsc": "Um medicamento usado para diminuir a pressão sanguínea, útil para evitar uma crise hipertensiva. Só funciona intravenosamente. 10ml por minuto.",
         "vasopressin": "Vasopressina",
@@ -1485,7 +1484,7 @@
         "oildsc": "Alcatrão grosso e escuro. É difícil de se movimentar nele. Infelizmente não dá pra digerir.",
         "sap": "Seiva de árvore",
         "sapdsc": "Uma seiva grossa e gostosa, produzidas pelas árvores dessa selva. Muito açucarada.",
-		"fat": "Gordura",
+        "fat": "Gordura",
         "fatdsc": "Gordura animal adquirida de alguma carne. É comestível, mas nada agradável. Pode ser usado na produção de sabão.",
         "soap": "Sabão",
         "soapdsc": "Sabão feito com gordura animal. Pode ser usado no painel de saúde para limpar sujeira e desinfectar feridas.",
@@ -1525,7 +1524,7 @@
         "CrusBShort": "a minha perna",
         "FootBShort": "a minha pata",
         "experiment": "Experimento",
-		"experimenttraderdsc": "Uma pessoa de estatura baixa com á estranha aparência de um cachorro e rato, com 3 extrusões na parte traseira de sua cabeça, que apesar de seu formato espinhoso, são relativamente macias. A cabeça dele parece ter o formato daquela de um roedor. Apesar de ser um pouco nervoso socialmente, eles não possuem nenhuma característica peculiar no contexto de trocas. Não é muito difícil deles confiarem em você para um abraço.",
+        "experimenttraderdsc": "Uma pessoa de estatura baixa com á estranha aparência de um cachorro e rato, com 3 extrusões na parte traseira de sua cabeça, que apesar de seu formato espinhoso, são relativamente macias. A cabeça dele parece ter o formato daquela de um roedor. Apesar de ser um pouco nervoso socialmente, eles não possuem nenhuma característica peculiar no contexto de trocas. Não é muito difícil deles confiarem em você para um abraço.",
         "milky": "Leitoso",
         "milkytraderdsc": "Uma criatura branca e peluda, de estatura relativamente baixa quando comparada a sua, com um focinho bem plano e curto e chifres brancos em sua cabeça. Julgando pelo par de barbatanas presentes em suas costas, eles provavelmente devem possuir alguma característica aquática. Eles provavelmente vão estar carregado com si alguma arma para compensar as suas frágeis características físicas. Eles parecem ser bem inteligentes e um pouco arrogantes. Eles não são muito afetuosos, então talvez seja mais difícil conseguir um abraço deles.",
         "dune": "Duno",
@@ -1535,7 +1534,7 @@
         "clicktocontinue": "Clique para continuar...\nESC para pular",
         "clicktocontinuealt": "Clique para continuar...",
         "favourite": "Favoritar item",
-		"favouriteditem": "Itens marcados como favorito não serão usados em criações.",
+        "favouriteditem": "Itens marcados como favorito não serão usados em criações.",
         "customizeitem": "Customizar item",
         "mainhand": "Mão principal",
         "secondaryhand": "Mão secundária",
@@ -1544,7 +1543,7 @@
         "middleback": "Costas centrais",
         "lowerback": "Costas inferiores",
         "startrun": "Começar",
-		"startrundsc": "Desça para as profundezas das cavernas.",
+        "startrundsc": "Desça para as profundezas das cavernas.",
         "next": "Próximo",
         "nextdsc": "Prossiga para a próxima espécie",
         "savecontinuemenu": "Continue sua expedição",
@@ -1690,7 +1689,6 @@
         "rundivtrader": "Opções de negociantes",
         "rundivother": "Outros",
         "rundivchallenges": "Desafios",
-
         "tutorialwarning": "<size=150%>Antes de ir...\n\n<size=100%>Você não passou pelo percurso básico ainda.\nTem certeza que você quer ir completamente cego?\n\n\n\nSeu fim não é nada menos que garantido.",
         "tutorialwarningyes": "Fazer o treinamento básico",
         "tutorialwarningno": "Sei o que estou fazendo!",
@@ -1811,7 +1809,7 @@
         "containermaxweight": "Capacidade",
         "containermaxweightperitem": "Peso maximo por item",
         "conditionloss": "% deterioração por minuto",
-		"decayonlyif": "somente se ",
+        "decayonlyif": "somente se ",
         "decayonlyworn": "estiver sendo vestido(a)",
         "decayonlymoving": "você estiver se mexendo",
         "decayonlyhasitems": "estiver com itens dentro",
@@ -1832,13 +1830,13 @@
         "itemwearableprotection": "Proteção:",
         "itemwearableisolation": "Insulamento:",
         "itemvalue": "Valor de troca: ",
-		"itemqualities": "Possui as qualidades: ",
+        "itemqualities": "Possui as qualidades: ",
         "you": "Você",
         "damagereduction": "Redução de dano: ",
         "bodyinsulation": "Insulação corporal: ",
         "youdescription": "<sprite index=20>Inventário",
         "wet": "(Molhado)",
-		"missionhurry": "ANDA LOGO",
+        "missionhurry": "ANDA LOGO",
         "bandageMinigameGuide": "Clique e arraste a bandagem ao redor do membro para enfaixar.",
         "syringeMinigameGuide": "Empurre a ponta da seringa para injetar. Lembre-se de verificar o rótulo de dosagem.",
         "lockpickMinigameGuide": "Clique em qualquer parte do arco para tentar arrombar a fechadura.\nQuanto mais perto do ponto certo, mais a tranca vai girar.\nCuidado para não quebrar suas garras.",
@@ -1851,7 +1849,7 @@
         "manualDefibMinigameGuide": "Equilibre a carga elétrica proporcional ao quão grave for a fibrilação do coração, carregue e então de o choque. Repita se necessário. \nA média recomendada de carga (POW.EST) fica mais precisa quanto maior a INT.",
         "handCrankMinigameGuide": "Agarre e gire a alavaca para carregar.",
         "prosthesisMinigameGuide": "Reforce a prótese usando pedaços do material mostrado.",
- 		"aedstate0": "Posicione os eletrodos nos locais indicados.",
+        "aedstate0": "Posicione os eletrodos nos locais indicados.",
         "aedstate1": "Analisando pulso",
         "aedstate2": "Choque recomendado.\nPressione o botão para administrar choque.",
         "aedstate3": "Carregando",
@@ -1891,9 +1889,9 @@
         "rechargingstationcheer": "Aproveite umas melodias enquanto espera!",
         "discretionwarning": "Este jogo contêm representações de violência, auto-mutilação e miséria generalizada\n\nParte do conteúdo pode afetar jogadores fotossensíveis\n\n<color=\"grey\">Clique esquerdo para continuar",
         "healthpaneltip": "Painel de saúde (R)",
-		"craftrepair": "Consertar ",
+        "craftrepair": "Consertar ",
         "crafttipname": "Criar (C)",
-		"crafttipdsc": "Abre/Fecha o menu de fabricação\n\nArraste um item aqui para ver no que é usado",
+        "crafttipdsc": "Abre/Fecha o menu de fabricação\n\nArraste um item aqui para ver no que é usado",
         "craftsearchrecipes": "Pesquisar receitas...",
         "craftingredients": "Ingredientes",
         "craftingredientsdsc": "Items marcados como favorito (<>) não serão usados na fabricação de itens",
@@ -1942,11 +1940,11 @@
         "cqheatsource": "Fonte de calor",
         "cqflammable": "Inflamável",
         "cqflour": "Farinha",
-		"cqfat": "Gordura",
+        "cqfat": "Gordura",
         "cqcondiment": "Tempero",
         "handswitchtip": "Trocar de mão principal",
         "handswitchdsc": "Troque sua mão principal entre Esquerda/Direita\nUse isso para cavar com sua outra mão se a principal estiver quebrada\nSeu braço esquerdo é um pouco mais fraco do que o direito",
-		"handswitchwarning": "<color=\"orange\">AVISO\n</color>Você tem menos destreza com sua mão esquerda",
+        "handswitchwarning": "<color=\"orange\">AVISO\n</color>Você tem menos destreza com sua mão esquerda",
         "speed1": "Normal",
         "speed2": "Rápido",
         "speed3": "Super rápido",
@@ -1967,11 +1965,11 @@
         "sleepquality0": "<color=\"red\">Péssimo</color>",
         "togglehealthmode": "Alterar visão de ferimentos/armaduras",
         "selecttrainingcourse": "Selecione o treinamento desejado.",
-        "start": "Começar", 
+        "start": "Começar",
         "quit": "Sair",
         "back": "Voltar",
         "basicscourse": "Treinamento Básico ",
-        "firstaidcourse": "Curso de Primeiros Socorros", 
+        "firstaidcourse": "Curso de Primeiros Socorros",
         "craftingcourse": "Curso de Criações",
         "movementcourse": "Curso de Movimento",
         "firstaidcourseunlock": "Alcance a segunda camada para desbloquear",
@@ -1983,7 +1981,7 @@
         "escapecourse1": "Você aparenta estar tentando fugir. Por favor mantenha a calma enquanto nossos seguranças vem lhe ajudar.",
         "escapecourse2": "Agradecemos sua cooperação.",
         "tutorial": "Tutorial",
-		"mp3audio": "Arquivos de áudio armazenados no dispositivo",
+        "mp3audio": "Arquivos de áudio armazenados no dispositivo",
         "categorymedical": "Medicinal",
         "categorydrug": "Drogas",
         "categorycontainer": "Contêineres",
@@ -2051,12 +2049,12 @@
         "alertitemblocked": "Item bloqueado por parede!",
         "alertitemfar": "Item muito distante!",
         "alertpickupwearable": "Vestíveis não podem ser segurados (Ao invés disso, vista/guarde eles)",
-		"alertalreadywearing": "<1> não caberá na <2>!",
+        "alertalreadywearing": "<1> não caberá na <2>!",
         "alertcontainerstacking": "Você só pode colocar contêiners vazios dentro de outros!",
         "alertcontainerstackingalt": "Não dá pra usar o contêiner, porque ele está dentro de outro!",
         "alerttoounhappy": "Deprimido demais para usar medicamentos não-opióides!",
         "alertlimbmissing": "<1> está faltando, deixando <2> inutilizável!",
-		"alertsellcontainer": "Esvazie o contêiner antes de vender!",
+        "alertsellcontainer": "Esvazie o contêiner antes de vender!",
         "alertprosthesisbody": "Use a prótese no tórax/abdômen para substituir um(a) braço/perna ausente.",
         "alertprosthesisarm": "Nenhum de seus braços estão completamente desmembrados! Tente remover qualquer toquinho.",
         "alertprosthesisleg": "Nenhuma de suas pernas estão completamente desmembradas! Tente remover qualquer toquinho.",
@@ -2074,14 +2072,14 @@
         "useterminal": "Abrir console",
         "insertscrap": "Inserir sucata",
         "open": "Abrir",
-		"insertbattery": "Inserir bateria da mão principal",
+        "insertbattery": "Inserir bateria da mão principal",
         "lockpick": "Arrombar",
         "dosurgery": "Realizar cirurgia em si mesmo",
         "finaltravel": "Travar cinto e viajar",
         "lookcloser": "Olhar de perto",
         "examine": "Examinar",
         "learnedrecipe": "Aprendeu receita para r1.\nGanhou <color=\"green\">25 XP de INT.",
-		"epdalearn": "Ganhou <color=\"green\">35 exp de INT.",
+        "epdalearn": "Ganhou <color=\"green\">35 exp de INT.",
         "hasbattery": "Com bateria (<>)\n<sprite index=17 tint=1>Utilize uma ferramenta para remover a bateria.",
         "nobattery": "Sem bateria (Max. <>)",
         "unknownobject": "Algo...",
@@ -2125,15 +2123,15 @@
         "yourinventory": "Seu inventário",
         "haggle": "Pechinchar",
         "haggledsc": "...Para tentar negociar preços menores. Pode afetar positivamente ou negativamente sua reputação com ele. Experiência para INT caso conseguir.",
-		"haggledune": "Mordida amigável",
+        "haggledune": "Mordida amigável",
         "haggledunedsc": "Esse botão deixará o sobrevivente morder uma partezinha das extremidades do seu corpo em troca de reputação e valor. Ele provavelmente vai ser cuidadoso o bastante para não causar danos letais.",
         "hug": "Abraçar",
-		"hugdsc": "...Para melhorar essa horrível primeira impressão... Ou só assustar eles de vez.",
+        "hugdsc": "...Para melhorar essa horrível primeira impressão... Ou só assustar eles de vez.",
         "threaten": "Ameaçar",
-		"threatendsc": "...O sobrevivente para roubar alguns itens. Pode dar MUITA merda.",
+        "threatendsc": "...O sobrevivente para roubar alguns itens. Pode dar MUITA merda.",
         "rest": "Sonecar",
-		"restdsc": "...Para construir afeto com o sobrevivente e dormir melhor. Condições regulares para dormir aplicadas.",
-		"tradermove": "Pedir para mover-se",
+        "restdsc": "...Para construir afeto com o sobrevivente e dormir melhor. Condições regulares para dormir aplicadas.",
+        "tradermove": "Pedir para mover-se",
         "tradermovedsc": "...Um pouco pro lado, caso esteja bloqueando algo importante.",
         "exit": "Sair",
         "free": "<color=\"orange\">GRÁTIS!",
@@ -2344,8 +2342,8 @@
         "tutcraft4": "Seu objetivo é criar um item específico a partir dos recursos entregues.",
         "tutcraft5": "Nós assumimos que você saiba o básico sobre criação, portanto, crie uma bolsa de folhagem usando os materiais enviados. Use o botão para reiniciar a sala no caso de erros.",
         "tutcraft6": "Primeira etapa realizada com sucesso. Adquirir um contêiner deve sempre ser seu primeiro objetivo.",
-        	"tutcraft6a": "You can label items for organizational purposes. Press [N] on the bag you made, and color it green (the third swatch from the left).",
-        	"tutcraft6b": "Nice. You can also rename the item here. Close this menu when you're done.",
+        "tutcraft6a": "You can label items for organizational purposes. Press [N] on the bag you made, and color it green (the third swatch from the left).",
+        "tutcraft6b": "Nice. You can also rename the item here. Close this menu when you're done.",
         "tutcraft7": "Uma informação importante, você pode usar os itens do chão ao seu redor nas criações. De um latido [B] quando absorver por completo essa informação.",
         "tutcraft8": "Vamos tentar de novo com os mesmos recursos. Faça uma bandagem completa dessa vez. Você pode arrastar qualquer item para o botão de criação para ver onde ele pode ser usado.",
         "tutcraft9": "Muito bem. Bandagens são cruciais para sua sobrevivência e são baratas de se fazer. Devem ser sua segunda prioridade logo após conseguir um contêiner.",
@@ -2389,38 +2387,38 @@
         "tutclosehealthpanel": "Fechar painel de saúde.",
         "tutopenhealthpanel": "Abrir painel de saúde.",
         "tutnice": "Legal.",
-            "endsc1": "...Greetings, #<>. We see you have succesfully retrieved th-",
-            "endsc2": "Huh..? Uhm, #<>, please explain. Why is the objective...lodged inside of your abdomen?",
-            "endsc3": "...Okay. Well...that does change our plans slightly, but...either way.",
-            "endsc4": "Your achievement is highly impressive and we will study you further. Here's what's going to happen...",
-            "endsc5": "To ease your concerns upfront, you will get to live. However, we must first examine your body and mental state. You will be free to roam around the facility after and you will not be subject to our usual testing procedures.",
-            "endsc6": "We may discuss additional benefits later down the line...",
-            "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
-            "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
-            "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
-            "endsc10": "What's the hold up? Please proceed through the door to your right.",
-            "endsc11": "The door behind you. Go through it.",
-            "endsc12": "We don't have all day. Come on. Door to your right.",
-            "endsc13": "Ugh. Why do I always get the stubborn ones..?",
-            "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
-            "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
-            "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
-            "cargosurgery3": "I need to put these clamps into the marked spots.",
-            "cargosurgery4": "I need to pull the cargo out of body.",
-            "cargosurgery5": "I need to put these tubes over the wound.",
-            "cargosurgery6": "I need to go.",
-            "endsctip": "Get your shit together. I need to murder him. Now.",
+        "endsc1": "...Greetings, #<>. We see you have succesfully retrieved th-",
+        "endsc2": "Huh..? Uhm, #<>, please explain. Why is the objective...lodged inside of your abdomen?",
+        "endsc3": "...Okay. Well...that does change our plans slightly, but...either way.",
+        "endsc4": "Your achievement is highly impressive and we will study you further. Here's what's going to happen...",
+        "endsc5": "To ease your concerns upfront, you will get to live. However, we must first examine your body and mental state. You will be free to roam around the facility after and you will not be subject to our usual testing procedures.",
+        "endsc6": "We may discuss additional benefits later down the line...",
+        "endsc7": "...And, as for the objective...this must be looked into further. It will have to be removed from your body, one way or another.",
+        "endsc8": "Now...do you have any questions? We would like to continue as soon as possible.",
+        "endsc9": "...Very well. First, your body must go under close examination. Please proceed through the door to your right.",
+        "endsc10": "What's the hold up? Please proceed through the door to your right.",
+        "endsc11": "The door behind you. Go through it.",
+        "endsc12": "We don't have all day. Come on. Door to your right.",
+        "endsc13": "Ugh. Why do I always get the stubborn ones..?",
+        "escapealert": "Attention all site personnel. A type W-2 incident has occured. All security personnel is to arm. Please remain calm while the situation is resolved.",
+        "cargosurgery1": "Hurry. I need to inject that anesthetic into my abdomen.",
+        "cargosurgery2": "Guards are coming. I need to use that big surgical device.",
+        "cargosurgery3": "I need to put these clamps into the marked spots.",
+        "cargosurgery4": "I need to pull the cargo out of body.",
+        "cargosurgery5": "I need to put these tubes over the wound.",
+        "cargosurgery6": "I need to go.",
+        "endsctip": "Get your shit together. I need to murder him. Now.",
         "outdatedwarning": "<size=200%>EI!<size=100%>\nA linguagem selecionada está desatualizada. Pode ter texto quebrado.\nTente selecionar o inglês ou procure melhor por uma versão nova.\n\nA versão mais recente desta tradução pode ser encontrada no \"fork\" pt-BR dentro do GitHub do jogo, se os tradutores quiseram trabalhar. Qualquer duvida/problema/critica, envie mensagem no \"tópico\" BR do servidor oficial do jogo.",
-            "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
-            "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
-            "biopodnote": "Trying to rebel against your captors with an explosive chip in your head is equivalent to suicide. The weird object lodged in your torso also seems dangerous to keep inside you for too long. With no better options at your disposal, you follow the orders given to you.<>\n\nYou are soon escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you reluctantly give up all the gadgets that you've found on your journey and prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
-            "biopodnotealt": "You are quickly taken away, restrained, stripped of your gear and resuscitated to avoid any more significant damage to the brain and the rest of your body.\n\nSome time later, you are escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
-            "biopodnotealt2": "You are quickly restrained, taken away, stripped of everything and resuscitated to avoid any more significant damage to the brain and the rest of your body.\n\nA significant amount of time later, you are moved by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou tried so hard to get out of this prison, yet it brought you nowhere. A meaningless attempt. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod.<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about your failure. So close to tasting freedom, to getting the ultimate revenge on your captors... And yet, it fell flat. If only you tried a little harder... A frown appears on you as your consciousness fades into a deep sleep.",
-            "escapenote1": "A bright shine radiates from the end of the corridor. You hear what sounds like wind blowing outside.\n<>\nThis is the end of the road. You have denied your captors with a skill and stubbornness no other being ever has.\n<>\nHurt, exhausted, yet determined, you walk into the light.",
-            "escapenote2": "...So, that's what they were hiding from you all this time.\n<>\nWhile you admire the beauty of your newfound surroundings, the loud sounds coming from where you just came out of remind you that you still need to move.\nWithout much choice, you run into what looks like a field of tall, green plants with large brown stalks.\n<>\nYou run.<>\nYou keep running.<>\nYou run far, far away, until your legs give out.\n<>\n...\n<>\nSilence. Nothing but what sounds like chirping and the sound of blowing wind. You can't even see the buildings on the horizon anymore.\n<>\n...\n<>\nYou have achieved your freedom.",
-            "mercnote1": "You breach through the final few layers of gravel and rock that separate you from the wide open air.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
-            "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you and so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nA bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, and it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
-            "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nWhat..?<>\n\nWhere am I..?\n\nWhy...<>\n\nIt hurts...<>\n\n...<>\n\nWhat happened...?<>\n\nThis scarf... I...<>\n\n...<>\n\n...I remember.<>\n\n...I know what needs to be done.",
+        "surfacebreachnote": "As you breach through the final few layers of gravel and rock that separate you from the wide open air, a blinding light unveils itself through the cracks.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first and only one to complete your assigned objective.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "labenternote": "Soon after, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you.<>\n\nA significant part of you wants to rebel and run far, far away, however...<>\nIt feels as if with every moment you spend in the sunlight, the object lodged in your abdomen wriggles around painfully and vibrates with progressively higher force.<>\n\nFearing the likely catastrophic failure of the hearts structural integrity approaching at a rapid pace, you board the lifepod with a defeated look on you.\nSoon after you do, you are thrown to the floor by a sudden jolt. The pod is ascending.<>\n\nWhile you don't know where you're going, you are slightly reassured by the fact that whoever sent this vessel down probably does. You decide to hunker down and make yourself comfortable while you wait.<>\n\nSuddenly, a bright flash overwhelms your vision. You feel an indescribable physical sensation shooting through you - the very same one you felt when first arriving here.\n\nAfter it dies down, you look outside the pod to find yourself surrounded by a hazy, blue sky above what appears to be a green forest with some kind of huge facility in the midst of it.<>\n\nThe vessel slowly descends into some kind of hatch inside of said facility. Soon, the pod locks in place, the steel door opens, revealing the sight of...",
+        "biopodnote": "Trying to rebel against your captors with an explosive chip in your head is equivalent to suicide. The weird object lodged in your torso also seems dangerous to keep inside you for too long. With no better options at your disposal, you follow the orders given to you.<>\n\nYou are soon escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you reluctantly give up all the gadgets that you've found on your journey and prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt": "You are quickly taken away, restrained, stripped of your gear and resuscitated to avoid any more significant damage to the brain and the rest of your body.\n\nSome time later, you are escorted by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou have completed your objective, yet it only brought you back to this prison. Simply used as a pawn by the corporation. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod. The cargo seems to be stabilizing...<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about what the scientist said. At least you'll live a better life here. More privilege, more freedom, better food, no risk of being hurt by the various tests conducted here... A faint smile appears on you as your consciousness fades into a deep sleep.",
+        "biopodnotealt2": "You are quickly restrained, taken away, stripped of everything and resuscitated to avoid any more significant damage to the brain and the rest of your body.\n\nA significant amount of time later, you are moved by a group of armed guards into a room with a large capsule filled with fluid. You have seen some of your kind inside of these before. You know what that entails.<>\n\nYou tried so hard to get out of this prison, yet it brought you nowhere. A meaningless attempt. You are at least comforted by the fact that, since the mission is now complete, no more unaware souls will be sent to their deaths in the caves.<>\n\nThis thought calms you as you prepare to enter the bio-pod.<>\n\nAs you slowly submerge in the liquid, with various tubes and wires now attached to your body, you think about your failure. So close to tasting freedom, to getting the ultimate revenge on your captors... And yet, it fell flat. If only you tried a little harder... A frown appears on you as your consciousness fades into a deep sleep.",
+        "escapenote1": "A bright shine radiates from the end of the corridor. You hear what sounds like wind blowing outside.\n<>\nThis is the end of the road. You have denied your captors with a skill and stubbornness no other being ever has.\n<>\nHurt, exhausted, yet determined, you walk into the light.",
+        "escapenote2": "...So, that's what they were hiding from you all this time.\n<>\nWhile you admire the beauty of your newfound surroundings, the loud sounds coming from where you just came out of remind you that you still need to move.\nWithout much choice, you run into what looks like a field of tall, green plants with large brown stalks.\n<>\nYou run.<>\nYou keep running.<>\nYou run far, far away, until your legs give out.\n<>\n...\n<>\nSilence. Nothing but what sounds like chirping and the sound of blowing wind. You can't even see the buildings on the horizon anymore.\n<>\n...\n<>\nYou have achieved your freedom.",
+        "mercnote1": "You breach through the final few layers of gravel and rock that separate you from the wide open air.<>\n\nYou've travelled through hell and back, surpassed thousands of, what are now corpses, and have become the first one to complete your assigned objective...\n...And yet, you feel like this is only the start of something greater.<>\n\nYou step foot on the cold gravel. Buildings, mountains and various groups of people appear in the horizon. You have breached the surface.",
+        "mercnote2": "Suddenly, you see a flash in the sky accompanied by an unrecognizable loud beeping.<>\n\nA few minutes pass while you appreciate your newfound surroundings, before some kind of pod loudly crashes into the ground a short distance away.<>\n\nWhile you've seen hundreds of lifepods during your journey, this one looks nothing like the ones before. You figure this one is meant for you...\n...But, you refuse to board it. Not after what they've done to you and so, so many others.<>\n\nThe captors must pay. The captors must die. You will not become another one of their pawns to be used for whatever deeds they want done. You're not coming back wherever they are until you can absolutely ruin everything they've built up over all these years.<>\n\nA bright hatred burns inside of you. They will not get away with any of this. To hell with their pod, to hell with their mission, to hell with whatever they want you to do.<>\n\nSo you stay.<>\n\n...<>\n\nYou've noticed the cargo inside of you has begun wriggling erratically ever since you came out into the sunlight.\nYou hesitate. Something is clearly up with the object lodged in your body, and it's getting worse by the minute. You fear something bad will happen if you just stay out here...<>\n\n...But you can't go back.\n\nYour scarf. You recall one of the body chips you found on the way had something about \"rejuvenation\" written on it. Maybe you'll be fine?<>\n\n...<>\n\nIt hurts. It hurts so much. Something is horribly wrong with the cargo. Your chest feels like it's burning. Your entire body feels like it's being electrocuted. You can't even stand up straight anymore. It hurts.\n\nThe pod's beeping gets louder. You realize, if you don't crawl your way onto it soon, you will die. Your mind starts racing. Do you really want to potentially throw away your life over some petty revenge?<>\n\nBut you can't move. The pain is too much. It hurts. It hurts. It hurts. It hu ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████",
+        "mercnote3": "...<>\n\n...<>\n\n..?<>\n\nWhat..?<>\n\nWhere am I..?\n\nWhy...<>\n\nIt hurts...<>\n\n...<>\n\nWhat happened...?<>\n\nThis scarf... I...<>\n\n...<>\n\n...I remember.<>\n\n...I know what needs to be done.",
         "startlorenote": "Ano 2XXX \n<>\nA humanidade havia realizado avanços tecnológicos significantes. Coisas que pareciam impossíveis se tornaram triviais.\n<>\nNo centro disso tudo, uma companhia. Suas pesquisas e progressos evoluindo quase como um milagre, mas com seus segredos firmemente guardados.\n<>\nAnos atras eles desenvolveram uma nova espécie ao combinar DNA animal e humano, essa espécie foi apelidada de:\"Experimento.\"\n<>\nEstes experimentos se tornaram a cobaia perfeita para suas pesquisas, semelhantes o suficiente a humanos, mas de sua autoria para usar da forma que desejassem. Trabalhavam sem descanso em sua criação, distorcendo cada vez mais sua biologia para satisfazer suas necessidades e pesquisas, ao passar dos anos a população dessas criaturas só crescia. \n\nCriaturas que jamais poderiam acessar o mundo exterior. \n<>\nCom o tempo a Terra não pode conter mais suas ambições. Utilizando tecnologia de teletransporte recém desenvolvida eles fazem de um planeta cinza, vibrando com vida, o seu próximo alvo. \n<>\nSem demora, diversos tipos diferentes de carga e lixo foram destinados ao alvo. \n<>\nDevido a dificuldades de calibração, uma parte da carga acabou sendo enviada para o sistema de cavernas do planeta e outra para a superfície, contudo o projeto progrediu sem problemas. \n<>\nIsso é, até um erro desconhecido enviar um pedaço de tecnologia importante para o fundo do sistema de cavernas.\n<>\nSem demora, cientistas desenvolveram um plano. Um plano que não os colocava em uma posição de risco.\n<>\nAs chances de sucesso eram mínimas, mas seu estoque vivo era abundante.\n<>\nVocê é um desses espécime desafortunados.\nResistencia não é uma opção."
     },
     "character": [
@@ -3748,7 +3746,7 @@
                 "Ugh...",
                 "Sentindo dor...",
                 "<limb> tá doendo...",
-				"Aii! <limb>!",
+                "Aii! <limb>!",
                 "Droga d<limb>!!",
                 "<limb> tá sofrendo...",
                 "<limb>... tá uma bosta...",
@@ -3761,10 +3759,10 @@
                 "Droga... <limb>!",
                 "<limb>... Porra..!",
                 "Droga, <limb> só dói...",
-				"<limb> só dói... Sacanagem...",
+                "<limb> só dói... Sacanagem...",
                 "Tem algo muito errado com <limb>.",
                 "Preciso de algo pra aliviar a dor...",
-				"Vamos com calma... <limb> tá gritando de dor.",
+                "Vamos com calma... <limb> tá gritando de dor.",
                 "Porra- Pera... <limb>... Awh...",
                 "<limb>... doendo... bastante..."
             ],
@@ -4026,10 +4024,10 @@
                 "Isso! Valeu!",
                 "Legal!"
             ],
-			"tradergiveitemrefuse": [
+            "tradergiveitemrefuse": [
                 "Certo... Isso é o suficiente por hoje, minha bolsa ta cheia.",
                 "Ei, chega de presentes! Eu não quero dar todo meu estoque pra você."
-			],
+            ],
             "traderbuy": [
                 "Aqui está. Bom proveito!",
                 "Tudo certo! Tome o que você escolheu. Boa sorte ai fora.",
@@ -4044,7 +4042,7 @@
                 "Entregue mais algumas coisas primeiro.",
                 "Pague primeiro!"
             ],
-			 "traderbuyfailmaxvalue": [
+            "traderbuyfailmaxvalue": [
                 "Desculpe, isso é tudo que estou disposto a dar agora.",
                 "To sem estoque! Sinto muito! Você ja pegou tanta coisa..."
             ],
@@ -4107,7 +4105,7 @@
                 "Úiii, que rombo. Se achar uma bandagem comigo, pode levar! Eu num lembro se eu tenho uma...",
                 "Aahhh, você não parece estar muito bem... Quer saber, pode pegar uma bandagem de graça se você achar."
             ],
-			"tradermove": [
+            "tradermove": [
                 "Ah, me desculpe. Aqui."
             ],
             "tradermovefail": [
@@ -4186,76 +4184,11 @@
                 "...Ah... AH. AH NÃO! NÃO NÃO NÃO. ESPERA. POR QUE? O QUE FOI QUE EU FIZ!?",
                 "...A-ah... T-tá bom então... B-bem... A-adeus, eu acho..."
             ],
-            "endlessloop0": [
-                "...Oooo...que..? Por que? Como? O que acabou de... Por que eu voltei pra cá..? Hnn... O que aconteceu..."
-            ], 
-            "endlessloop1": [
-                "...Isso não tá fluindo do jeito que eu esperava... Não tenho ideia o que eu poderia fazer... Bem. Ugh. A terceira vez é a que dá sorte, não é..?"
-            ],
-            "endlessloop2": [
-                "<spoiler>"
-            ], 
-            "endlessloop3": [
-            	"Tá! Eu não vou escapar daqui, vou..? Eu acho que tô me acostumando com isso."
-            ],
-            "endlessloopdefault": [
-                "Vamos dando voltas, voltas e mais voltas..."
-            ],  
-            "vomitresponse": [
-                "Uuuhmm... Cê tá... Bem..?"
-            ],
-            "vomitbloodresponse": [
-                "Eca! Você acabou de... Au... Ei, você notou que... Foi sangue nesse vômito, né?"
-            ],
-            "hungryresponse": [
-                "Você sabe que tem bastante comida lá fora, não sabe..?",
-                "Bem, eu poderia te dar comida em troca de algo..?"
-            ],
-            "thirstyresponse": [
-                "Aposto que dá pra achar água lá fora...",
-                "Ouvi falar que você pode ficar até três \"dias\" sem água, hah..."
-            ],
-            "sadresponse": [
-                "Ei, tá tudo bem... Você ainda tá de pé e forte, né...?"
-            ],
-            "depressedresponse": [
-                "...Se acalme, por favor... Você vai ficar bem..."
-            ],
-            "selfharmresponse": [
-                "...P-por que... v-você..."
-            ],
-            "braindamagedresponse": [
-                "...Você não soa... Muito certo.",
-                "...É o que?"
-            ],
-            "hotresponse": [
-                "Abaixa a temperatura então."
-            ],
-            "coldresponse": [
-                "Não sabia? Nós temos aquecedores aqui..."
-            ],
-            "bleedingresponse": [
-                "É... Parece ruim... Mas, eu... Eu tenho certeza que você consegue consertar...",
-                "E-Ei, calma ai. Você vai ficar bem."
-            ],
-            "painresponse": [
-                "Tá se sentindo bem..? Tá doendo por que?",
-                "Pisou em alguma coisa?"
-            ],
-            "dirtyresponse": [
-                "...Temos chuveiro aqui, não sabia? Ou... Você pode ir nadar nos lagos lá fora..."
-            ],
-            "encumberedresponse": [
-                "Não doeria deixar algumas coisas comigo.",
-                "Eu posso cuidar muito bem das suas coisas!"
-			],
-			"wwmr": [
+            "wwmr": [
                 "Certo... Eu tô aqui... Eu finalmente cheguei. Vamos acabar com isso. O objetivo deve estar em algum lugar aqui.",
-        		"Nosso... Alvo... Deve estar por aqui... Sem perda de tempo agora. Vamos lá.",
-        		"Eu consegui... Eu... Consegui..? Hmmh... Deve estar por aqui em algum lugar... Vamos terminar isso tudo."
+                "Nosso... Alvo... Deve estar por aqui... Sem perda de tempo agora. Vamos lá.",
+                "Eu consegui... Eu... Consegui..? Hmmh... Deve estar por aqui em algum lugar... Vamos terminar isso tudo."
             ],
-
-
             "cargo1": [
                 "I... I think this... Is... it..?"
             ],
@@ -4275,20 +4208,20 @@
                 "I don't think this is the right way... I should go towards the source of those weird pulses..."
             ],
             "endlessloop0": [
-                "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
-            ], 
+                "...Oooo...que..? Por que? Como? O que acabou de... Por que eu voltei pra cá..? Hnn... O que aconteceu..."
+            ],
             "endlessloop1": [
-                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+                "...Isso não tá fluindo do jeito que eu esperava... Não tenho ideia o que eu poderia fazer... Bem. Ugh. A terceira vez é a que dá sorte, não é..?"
             ],
             "endlessloop2": [
                 "UUUGGGHHHHH!! WHAT AM I SUPPOSED TO BE DOING!? Damn this... To hell with that heart... Grrrhh...I need to go down to survive anyway. What a shitshow."
-            ], 
+            ],
             "endlessloop3": [
-                "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+                "Tá! Eu não vou escapar daqui, vou..? Eu acho que tô me acostumando com isso."
             ],
             "endlessloopdefault": [
-                "Oh, round and round we go..."
-            ],  
+                "Vamos dando voltas, voltas e mais voltas..."
+            ],
             "endpodexamine": [
                 "C-cargo... First..."
             ],
@@ -4339,9 +4272,54 @@
                 "YOU COATED FUCKS!!",
                 "GO TO HELL!!!!"
             ],
-
-
-            
+            "vomitresponse": [
+                "Uuuhmm... Cê tá... Bem..?"
+            ],
+            "vomitbloodresponse": [
+                "Eca! Você acabou de... Au... Ei, você notou que... Foi sangue nesse vômito, né?"
+            ],
+            "hungryresponse": [
+                "Você sabe que tem bastante comida lá fora, não sabe..?",
+                "Bem, eu poderia te dar comida em troca de algo..?"
+            ],
+            "thirstyresponse": [
+                "Aposto que dá pra achar água lá fora...",
+                "Ouvi falar que você pode ficar até três \"dias\" sem água, hah..."
+            ],
+            "sadresponse": [
+                "Ei, tá tudo bem... Você ainda tá de pé e forte, né...?"
+            ],
+            "depressedresponse": [
+                "...Se acalme, por favor... Você vai ficar bem..."
+            ],
+            "selfharmresponse": [
+                "...P-por que... v-você..."
+            ],
+            "braindamagedresponse": [
+                "...Você não soa... Muito certo.",
+                "...É o que?"
+            ],
+            "hotresponse": [
+                "Abaixa a temperatura então."
+            ],
+            "coldresponse": [
+                "Não sabia? Nós temos aquecedores aqui..."
+            ],
+            "bleedingresponse": [
+                "É... Parece ruim... Mas, eu... Eu tenho certeza que você consegue consertar...",
+                "E-Ei, calma ai. Você vai ficar bem."
+            ],
+            "painresponse": [
+                "Tá se sentindo bem..? Tá doendo por que?",
+                "Pisou em alguma coisa?"
+            ],
+            "dirtyresponse": [
+                "...Temos chuveiro aqui, não sabia? Ou... Você pode ir nadar nos lagos lá fora..."
+            ],
+            "encumberedresponse": [
+                "Não doeria deixar algumas coisas comigo.",
+                "Eu posso cuidar muito bem das suas coisas!"
+            ],
             "dyingresponse": [
                 "Droga... Uh... Eu nunca aprendi como ressuscitar alguém...",
                 "Eu... Ahn... Eu espero que você fique bem..."
@@ -5087,23 +5065,6 @@
                 "Ah, ah, por que, o que, POR QUE!? PARE ISSO! EU NÃO MEREÇO ISSO! SEUS MERDAS DE CASACO!",
                 "Olá, apito. O que isso significa?"
             ],
-            "endlessloop0": [
-                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... T-tá. Não... N-não. Era isso. Que eu esperava. Devo ter feito algo errado. D-Devo retornar e tentar mais uma vez."
-            ],
-            "endlessloop1": [
-                "Isso não está indo de acordo com o plano. Droga! O que raios os de casaco queriam que eu fizesse!? Que perda de tempo e energia."
-            ],
-            "endlessloop2": [
-                "...Que conclusão d-deprimente. Esta missão está fadada ao fracasso."
-            ],
-            "endlessloop3": [
-                "Isso está totalmente além de mim. Que exercício de paciência. Frustrante. Tão, mas tão intensamente frustrante. Sempre, por pouco, fora do meu alcance."
-            ],
-            "endlessloopdefault": [
-                "......*suspiro*"
-            ],
-
-
             "cargo1": [
                 "...Odd."
             ],
@@ -5123,19 +5084,19 @@
                 "I must be going the wrong way. I must head towards the source of the pulses."
             ],
             "endlessloop0": [
-                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... O-okay. Not... N-not. What I. Was e-expecting. I must have done something wrong. I s-shall return and try once again."
+                "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... T-tá. Não... N-não. Era isso. Que eu esperava. Devo ter feito algo errado. D-Devo retornar e tentar mais uma vez."
             ],
             "endlessloop1": [
-                "This is not going according to plan. Damn it! What the hell did the coats want me to do!? Such a waste of time and energy."
+                "Isso não está indo de acordo com o plano. Droga! O que raios os de casaco queriam que eu fizesse!? Que perda de tempo e energia."
             ],
             "endlessloop2": [
-                "...What a d-depressing outcome. This mission is doomed to fail."
+                "...Que conclusão d-deprimente. Esta missão está fadada ao fracasso."
             ],
             "endlessloop3": [
-                "This is entirely beyond me. What an exercise in patience. Frustrating. So, so intensely frustrating. Always just out of reach."
+                "Isso está totalmente além de mim. Que exercício de paciência. Frustrante. Tão, mas tão intensamente frustrante. Sempre, por pouco, fora do meu alcance."
             ],
             "endlessloopdefault": [
-                "......*sigh*"
+                "......*suspiro*"
             ],
             "endpodexamine": [
                 "It is unpowered. I likely would be able to start it with medium effort."
@@ -5184,8 +5145,6 @@
                 "YOU THINK YOU CAN STOP ME!?",
                 "YOUR TIME HAS COME!!"
             ],
-
-
             "tradermeetnormal": [
                 "Saudações.",
                 "Olá.",
@@ -5232,7 +5191,7 @@
                 "É um prazer.",
                 "Farei bom uso disto."
             ],
-			"tradergiveitemrefuse": [
+            "tradergiveitemrefuse": [
                 "Já chega por enquanto. Eu não tenho mais espaço para essas bugigangas.",
                 "Você já pode para de me dar coisas, seria melhor se eu não desse tudo que tenho comigo."
             ],
@@ -5275,7 +5234,7 @@
                 "Você está brincando.",
                 "Que insultante."
             ],
-			"traderbuyfailmaxvalue": [
+            "traderbuyfailmaxvalue": [
                 "Chega de trocas por hoje. Você já levou muita coisa.",
                 "Eu não desejo trocar todas as nossas posessões. Vamos parar por hoje."
             ],
@@ -5346,7 +5305,7 @@
                 "Por que caralhos você faria isso!? Se manda! Eu precisava da luz!",
                 "Por que você tá destruindo a minha cápsula!? Vai EMBORA! SOME!"
             ],
-			"tradermove": [
+            "tradermove": [
                 "Certo."
             ],
             "tradermovefail": [
@@ -5401,12 +5360,12 @@
                 "Faria mal deixar estes pertences pesados comigo?",
                 "Quão provocante que você é."
             ],
-                "dyingresponse": [
+            "dyingresponse": [
                 "Não acho que RCP vai te ajudar nessa situação.",
                 "Sério? Morrendo, no MEU chão?",
                 "Acha mesmo que todo esse pânico vai melhor sua situação?"
-			]
-		},
+            ]
+        },
         {
             "seeGravel": [
                 "Ahrnnn... A-qui...",
@@ -5947,7 +5906,6 @@
             "selfdestruct": [
                 "Oooorrhhn! Du-no ou-ve som novo? Hooohh..."
             ],
-            
             "wwmr": [
                 "Hooohh... Pla-ce... Glo-wy... Du-ne clo-se..?"
             ],
@@ -5969,8 +5927,6 @@
             "wwmrwrongway": [
                 "Du-ne... Stu-pid. No wa-y."
             ],
-
-
             "endlessloop0": [
                 "...Mmmrrnnngghh... Ngghh... ...Nova-mente?"
             ],
@@ -5986,8 +5942,6 @@
             "endlessloopdefault": [
                 "Nrrrg! Ueee! Du-no vence!"
             ],
-
-
             "endpodexamine": [
                 "Lea-ve ti-me?"
             ],
@@ -6027,8 +5981,6 @@
                 "CO-ME TO DU-NE!!!",
                 "DU-NE FE-AST ON F-LESH!!!"
             ],
-
-
             "tradermeetnormal": [
                 "Mmm... Oo-lá....",
                 "Bem-vindo... A-migo...",
@@ -6187,7 +6139,7 @@
                 "RUIM! Grrrr... Amigo ru-im... Ruim! S-aia!",
                 "Duno NÃO VÊ! PÉSS-IMO AMIGO! SS-AI... FORA!",
                 "Amig-o ro-uba! Não amigo..."
-			],
+            ],
             "tradermove": [
                 "Du-no... Mo-ve..."
             ],
@@ -6235,17 +6187,17 @@
                 "A-migo fe-rido..?",
                 "Du-no ent-ende... Du-no t-ambém tem dor! Ami-go bem?"
             ],
-        	"dirtyresponse": [
+            "dirtyresponse": [
                 "O que é su-jo?"
             ],
             "encumberedresponse": [
                 "Pos-so pegar coisas de a-migo?",
                 "Du-no pode a-liviar peso!"
             ],
-        	"dyingresponse": [
+            "dyingresponse": [
                 "O que erra-do com -ami-go..?",
                 "Du-no não saber a-judar..."
-			]
+            ]
         }
     ],
     "notes": [
@@ -6330,7 +6282,7 @@
                 "Item2": "",
                 "Item3": "experiment"
             },
-			{
+            {
                 "Item1": "Para qualquer um que encontrar isto, ele podem e VÃO controlar você. Sem um único aviso prévio, eu escutei um alarme alto vindo de dentro de mim, eu apenas podia ver a mensagem \"PROFUNDIDADE INSATISFATÓRIA\" com pisques vermelhos materializando nos cantos da minha visão.\n\nComecei a correr, em pânico, sem entender por que fariam aquilo. Só depois que entrei em outra região dessa rede de cavernas é que parou. Eles sabem quanto tempo você passa aqui, sabem que você estará com medo e querem que você morra. Isso tudo é um genocídio em massa.",
                 "Item2": "",
                 "Item3": "milky"
@@ -6508,7 +6460,7 @@
                 "Item1": "Não pareço estar nem perto de sair desse inferno rochoso e já sinto a morte se aproximando.\nA única coisa que eles me deram foi uma lanterna toda fudida que não durou nem uma hora; nenhum equipamento de segurança para lidar com todas essas quedas que tenho tomado.\n\nPUTA merda, eu me sinto como uma bolinha de uma daquelas máquinas de aposta que via os humanos jogarem!\n\nAcredito estar morrendo lentamente, desde a última queda minha cabeça parece estar mais pesada que o normal, me sinto cansado; mas também sinto que se eu cair no sono acabarei morrendo.\n\nDeus me livre.\nQUE MERDA.\nEu não quero morrer, não assim... \nSe bem que... Qual é o ponto disso tudo?\nEu nem mesmo tenho um nome, só um número...\nDroga...",
                 "Item2": "",
                 "Item3": "milky"
-			}
+            }
         ],
         [
             {
@@ -6516,7 +6468,7 @@
                 "Item2": "",
                 "Item3": "experiment"
             },
-			{
+            {
                 "Item1": "é o fim. adeus. desculpe.",
                 "Item2": "",
                 "Item3": "experiment"
@@ -6565,7 +6517,7 @@
         [
             {
                 "Item1": "Parece haver uma grande quantidade de resíduos radioativos nesta área. Embora isso torne difícil nossa exploração, devemos lembrar que podemos receber pequenas doses de radiação ionizante sem muitos problemas, desde que a exposição não dure muito tempo. Ouvi falarem sobre já estarmos cheios de câncer.",
-				"Item2": "",
+                "Item2": "",
                 "Item3": "milky"
             },
             {
@@ -6636,7 +6588,7 @@
                 "Item1": "duno frio. calor d cavar nao quente suficiente. duno comer amigo peludo. devorado cru. duno tem pelo. pelo quente para duno. duno cheio e quntinho. duno feliz nao frio",
                 "Item2": "",
                 "Item3": "dune"
-			},
+            },
             {
                 "Item1": "é frio aqui embaixo, preciso ficar constantemente procurando capsulas para me aquecer... tambem tenho encontrado um tipo de forno pequeno e barulhento que emite calor, me aqueço neles com cuidado porque me deixam enjoado. Fico so o suficiente para me manter andando. se eu fosse voce ficaria atento a qualquer barulho diferente enquanto descanço. eu escuto coisas cavando ao meu redor.",
                 "Item2": "",
@@ -6648,8 +6600,8 @@
                 "Item1": "É estranho como chove aqui. Eu nunca tinha visto chuva de verdade antes... É até bonita, mesmo sendo meio suja. Ainda me pergunto como é possível haver uma concentração tão alta de água aqui embaixo. Talvez a água da calota de gelo acima esteja pingando até aqui?",
                 "Item2": "",
                 "Item3": "milky"
-			},
-			{
+            },
+            {
                 "Item1": "achei umas coisas quicantes estranhas. elas me mandaram voando... mas consegui manter os pes apontados ao chao. e bem divertido. talvez seja ate util as vezes. meio perigoso talvez, mas o que nao e perigoso por aqui.",
                 "Item2": "",
                 "Item3": "experiment"
@@ -6789,14 +6741,13 @@
                 "Item3": "milky"
             }
         ]
-	],
+    ],
     "pdaNotes": [
         {
             "Item1": "[NOTAS DE PESQUISA 29/01/24XX]<>\nAinda mal acredito no que estou vendo. O espécime é do tamanho do meu punho, de cor amarela e textura viscosa. Tudo indica que trata-se de um pedaço de carne. Não sabemos do que veio ou da onde, mas nossos instrumentos confirmam que é de origem biológica, e ela é completamente alienígena à nossa. Foi recuperado dos destroços da ██████ ███████, fundido à placa receptora. Isso representa um avanço revolucionário em nossa pesquisa, porém é um consolo pequeno diante da perda total do dispositivo. Não entendo. Mais de uma década de pesquisas sem resultado mal teleportando pouco mais que partículas indivíduas e agora surge isso?<>\nConsiderando a vastidão do universo, a probabilidade de nosso experimento cruzar aleatoriamente com uma criatura de um planeta alienígena desconhecido é de pelo menos cinquenta ordens de magnitude. Deveria ser impossível, e, apesar disso, aqui está. Vamos ter que achar um jeito de apresentar isso. Não podemos correr o risco de perder o financiamento dos investidores ou de assustar o público. Não agora. Pelo menos, isso dará à equipe de biologia algo para investigar enquanto reconstruímos todo o projeto do zero.",
             "Item2": ""
         },
         {
-            
             "Item1": "[NOTAS DE PESQUISA 3-11-24XX]<>\nO 'sangue amarelo' do incidente █████████ é realmente extraordinário. Sua adaptabilidade se difere de qualquer coisa já vista na Terra. Até mesmo sobre radiação intensa ele consegue se reparar quase imediatamente. É um nível de recombinação apenas visto em nossas células imunológicas, e apesar disso ele cobre seu genoma inteiro. Quando tentamos sobrescrever com nossos próprios vetores virais, ele de alguma forma os integrou no seu próprio código genético sem sofrer perdas a si mesmo.<>\nInjetamos os genes em células de rato e os resultados fizeram o Dr. █████ cair de sua cadeira. Ele entrou em um estado de expressão intensificada, pegando DNA de qualquer fonte que encontrasse e integrando-o ao próprio DNA do hospedeiro sem qualquer problema. Fez os últimos 100 anos de pesquisa biológica parecerem uma piada. O hospedeiro morreu pouco tempo após. Ele atua como uma estrutura de suporte, permitindo que sequências de DNA saltem e se recombinem sem imediatamente se tornarem como células cancerosas. Repetimos este experimento com vários genomas e até mesmo sequências de espécies vastamente grandemente diferentes foram integradas. Porém, os resultados reais são extremamente imprevísiveis. Parece mais um caldeirão de bruxa do que biologia de verdade, mas quem sabe qual o potencial que isso tem.",
             "Item2": ""
         },
@@ -6909,7 +6860,7 @@
             "Item2": ""
         }
     ],
-    "pauseQuotes":  {
+    "pauseQuotes": {
         "normal": [
             "Pausado.",
             "Já vai dar uma pausa?",
@@ -6998,8 +6949,6 @@
             "Você é resiliente demais pro seu próprio bem.",
             "Oh, pobre coitado."
         ],
-
-
         "cargoembedded": [
             "Well done.",
             "Took you long enough.",
@@ -7021,8 +6970,6 @@
             "Doesn't it feel amazing?",
             "Aren't you so proud of yourself?"
         ],
-
-
         "combat": [
             "Parece que você tá se divertindo.",
             "Ah, poxa!",
