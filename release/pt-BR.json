@@ -1559,7 +1559,7 @@
         "char2quirks": "[AQUÁTICO] - Você consegue respirar debaixo d'água e gosta de dormir submerso.\n[SEM_PELOS] - Falta de pelos lhe deixa vulnerável a temperatura ambiente. Você se seca bem rápido. Água e outros líquidos podem estabilizar sua temperatura corporal.\n[CANIBAL] - Você pode comer carne crua e destruir corpos sem repercussões. Você é quase completamente imune a intoxicação alimentar.\n[CARNÍVORO] - Frutas consumidas farão você vomitar.\n[MÚSCULO_POR_CÉREBRO] - Você não faz esse tal de <i>pensamento</i>. Toda INT recebida é cortada pela metade.\n[INSENSÍVEL] - Toda mudança de humor caí para um terço do que seria. Incapaz de abraçar ou pechinchar. Você não liga para matar outros.\n[QUERATINOSO] - Revestimentos de queratina lhe deixam mais resiliente a trauma físico.",
         "characterunlock": "[ACESSO_NEGADO]",
         "characterunlockdsc": "Termine uma tentativa com o personagem anterior para desbloquear",
-        "presetnormal": "Normal",
+        "presetnormal": "Tough",
         "presetnormaldsc": "A experiencia padrão. Você será punido por erros. Conhecimento e noção situacional são recompensados. Tempo é essencial. Sua morte é praticamente garantida.",
         "presetrelaxed": "Relaxante",
         "presetrelaxeddsc": "Uma descida mais lenta e perdoável. Ainda há punição por erros, mas é tudo mais evitavel. Você tem mais tempo para explorar e entender os seus arredores.",
@@ -2059,9 +2059,9 @@
         "alertprosthesisarm": "Nenhum de seus braços estão completamente desmembrados! Tente remover qualquer toquinho.",
         "alertprosthesisleg": "Nenhuma de suas pernas estão completamente desmembradas! Tente remover qualquer toquinho.",
         "alertprosthesisfail": "Você falhou na instalação da prótese(Instalar com INT abaixo de <> pode falhar).",
-        "alertnanotechsuccess": "<spoiler>",
-        "alertnanotechfail": "<spoiler>",
-        "alertnanotechrepeat": "<spoiler>",
+        "alertnanotechsuccess": "<color=\"green\">You came up with a new recipe...",
+        "alertnanotechfail": "<color=\"red\">The writing is incomprehensible...\nMaybe try another time?",
+        "alertnanotechrepeat": "You already read this. Keep the scanner on you and watch for any signals.",
         "nanotechdepth": "Sinal de nanotecnologia detectado nesta profundidade!",
         "nanotechdepthinitialleft": "Sinal de nanotecnologia detectado nesta área á esquerda, em uns <>.",
         "nanotechdepthinitialright": "Sinal de nanotecnologia detectado nesta área á direita, em uns <>.",
@@ -4700,7 +4700,7 @@
                 "Minha visão se apaga aos poucos."
             ],
             "steponglass": [
-                "I am terribly dissapointed in my carelessness.",
+                "I am terribly disappointed in my carelessness.",
                 "There were a thousand ways to prevent this from happening, yet still a shard of glass has found its way into my paw.",
                 "Ow.",
                 "That was a miscalculation on my end.",
@@ -5064,6 +5064,9 @@
             "selfdestruct": [
                 "Ah, ah, por que, o que, POR QUE!? PARE ISSO! EU NÃO MEREÇO ISSO! SEUS MERDAS DE CASACO!",
                 "Olá, apito. O que isso significa?"
+            ],
+            "wwmr": [
+                "All according to plan. It appears the objective is within reach. I must focus."
             ],
             "cargo1": [
                 "...Odd."
