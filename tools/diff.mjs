@@ -107,15 +107,12 @@ export async function diff(targetVersion, targetLocale, detailLevel)
       if (isCustomText(versionPath))
         continue; // These can have any text in them
 
-        const truePath = versionPath;
+      const truePath = versionPath;
       const original = getPath(enJsonVersion, truePath);
       const translation = getPath(targetJson, truePath);
       if (original != null)
       {
         if (original == translation) {
-          if (shouldRemainTheSame(truePath, original))
-            continue;
-
           if (!identicalKeys.includes(truePath))
             identicalKeys.push(truePath);
         }
@@ -132,11 +129,18 @@ export async function diff(targetVersion, targetLocale, detailLevel)
     if (isCustomText(matchingPath))
       continue; // These can have any text in them
 
-      const original = getPath(enJson, matchingPath);
+    const original = getPath(enJson, matchingPath);
     const translation = getPath(targetJson, matchingPath);
     const formatDiff = getMissingFormatElements(original, translation);
     if (formatDiff != "")
       keysWithFormatIssues.push([matchingPath, formatDiff]);
+
+    if (original == translation && shouldRemainTheSame(matchingPath, original))
+    {
+      const index = identicalKeys.indexOf(matchingPath);
+      if (index != -1)
+        identicalKeys.splice(index, 1);
+    }
   }
 
   const incorrectTypes = new Set([...missing]).intersection(new Set([...extra]));
