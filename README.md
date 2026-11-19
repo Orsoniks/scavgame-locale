@@ -23,6 +23,7 @@ These are all of the locales available for the [release version](https://store.s
 | File | Locale State | Contributors |
 |------|--------------|--------------|
 | [English (**Reference**)](/release/EN.json) | v1.0.2 | [Orsoniks](https://github.com/Orsoniks) |
+| [Català (Espanya)](/release/ca-ES.json) | v1.0.2 | [ICraveWaffles](https://github.com/ICraveWaffles) |
 | [Deutsch (Deutschland)](/release/de-DE.json) | v1.0.2 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson), JAG, davjo, Demyxa |
 | [Español (Latinoamérica)](/release/es-419.json) | v1.0.2 | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0), [JuanMC45](https://github.com/JuanMC45), [LeonixMG](https://github.com/LeonixMG), [Zorpolar](https://github.com/Zorpolar), [IzaCarlos](https://github.com/IzaCarlos) |
 | [Español (España)](/release/es-ES.json) | v1.0.2 | [Maksklv2010](https://github.com/Maksklv2010), [Thursday](https://github.com/Fhursday), [WereWhusky](https://github.com/WereWhusky), [en2que](https://github.com/en2que), [Iter-bite](https://github.com/Iter-bite), [JaGarLo](https://github.com/JaGarLo) |
