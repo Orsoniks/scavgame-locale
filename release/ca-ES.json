@@ -618,7 +618,7 @@
     "bouncecap": "Barrebot",
     "bouncecapdsc": "ZIUUUUUUUUUU-",
     "climbingropeextended": "Corda d'escalada",
-    "climbingropeextendeddsc": "Corda resistent relativament llarga. Mantigeu la tecla \"↑\" a prop per començar a pujar.",
+    "climbingropeextendeddsc": "Corda resistent relativament llarga. Mantigeu la tecla [↑] a prop per començar a pujar.",
     "glowshroom": "Xampillum",
     "glowshroomdsc": "Un poc radioactiu i sorprenentment brillant.",
     "mushroomtree": "Arbolet",
@@ -1056,7 +1056,7 @@
     "oxygen1dsc": "SpO2 menor al 90%. Podria ser un signe d'una condició subjacent.",
     "oxygen2dsc": "SpO2 menor al 75 %, que priva lentament el cervell d'oxigen. Indica una condició subjacent.",
     "oxygen3dsc": "SpO2 menor al 60%, privant els teixits d'oxigen i probablement causarà una arrítmia cardíaca. Possiblement letal.",
-    "oxygen4dsc": "SpO2 menor al 45%. Qualque cosa al teu cos ha anat horriblement terrible. ",
+    "oxygen4dsc": "SpO2 menor al 45%. Qualque cosa al teu cos ha anat horriblement terrible.",
     "fibrillation1dsc": "Ritme cardíac anormal, probablement causat per una tensió greu cap el cos. Pot empitjorar si no se soluciona la causa. Es pot desfibril·lar.",
     "fibrillation2dsc": "Batecs cardíacs irregulars greus, que impedeixen un bombeig sanguini eficaç. Si no es tracta, progressarà a una fibril·lació ventricular letal. Es pot desfibril·lar.",
     "fibrillation3dsc": "Ritme cardíac caòtic i que amenaça la vida. Les coses han anat molt malament.",
@@ -1064,7 +1064,7 @@
     "cardiacarrestdsc": "Asistòlia. Poca probabilitat de rebre tractament mitjançant desfibril·lació o epinefrina. La hipòxia cerebral i la mort aviat seguiran.",
     "hypoventilation1dsc": "Disminució de la freqüència respiratòria.",
     "hypoventilation2dsc": "Freqüència respiratòria molt baixa, que lentament provoca una disminució de l'oxigen dins la sang.",
-    "hypotension1dsc": "Disminució lleugera de la pressió arterial. ",
+    "hypotension1dsc": "Disminució lleugera de la pressió arterial.",
     "hypotension2dsc": "Disminució moderada de la pressió arterial. Et veus pàl·lid i tens la pell humida. Comprova els teus valors vitals.",
     "hypotension3dsc": "Disminució greu de la pressió arterial, estàs a punt de desmaiar-te. Això podria iniciar la fibril·lació, comprova els teus valors vitals.",
     "hypotension4dsc": "Pressió arterial letalment baixa. La sang no arriba als teus òrgans. La hipòxia cerebral i la mort són imminents.",
@@ -1084,16 +1084,16 @@
     "overdose1dsc": "Relaxat i tranquil. El teu cos se sent entumit.",
     "overdose2dsc": "Molt relaxat i tranquil, però els pulmons se senten pesats. Un poc més cansat de l'habitual. Això se sent tan bé...",
     "overdose3dsc": "Respirar és difícil, però la teva ment està eufòrica. Això definitivament no és saludable. Si només pogués durar per sempre...",
-    "overdose4dsc": "Insuficiència respiratòria. Estàs experimentant una eufòria plena de drogues. ",
+    "overdose4dsc": "Insuficiència respiratòria. Estàs experimentant una eufòria plena de drogues.",
     "withdrawal1dsc": "Realment vols una altra dosi.",
-    "withdrawal2dsc": "El teu cos està desesperat per rebre una altra dosi. Vols vomitar... Se sent molt malament. ",
+    "withdrawal2dsc": "El teu cos està desesperat per rebre una altra dosi. Vols vomitar... Se sent molt malament.",
     "withdrawal3dsc": "Estàs lluitant per mantenir la teva integritat, tremolant, desesperat per qualsevol tipus d'alleujament. Se sent horrible. Cerca opiacis.",
     "withdrawal4dsc": "El teu cos no pot sostenir-se sense els opiacis dels quals es va fer tan dependent. El teu cor està lluitant per bombejar sang per tot el cos; vigila la fibril·lació.",
     "stimulateddsc": "Tens estimulants durs al torrent sanguini. Et sents a punt per fer front a qualsevol cosa que te tirin damunt...",
     "drugoverdosedsc": "Has tingut una sobredosi d'un fàrmac no opioide. Possibles complicacions de salut.",
     "bleeding1dsc": "La sang surt d'una ferida relativament petita. No hi ha cap perill immediat.",
     "bleeding2dsc": "La sang està sortint d'una ferida de mida decent. És poc probable que sigui mortal si tens bona salut, però continua sent perillós.",
-    "bleeding3dsc": "Un gran volum de sang surt del teu cos per hemorràgia. Sovint letal si no es tracta. ",
+    "bleeding3dsc": "Un gran volum de sang surt del teu cos per hemorràgia. Sovint letal si no es tracta.",
     "bleeding4dsc": "<i>Mentre la teva vida brolla fora de tu, recordes que ets mortal.",
     "internalBleeddsc": "La sang s'està acumulant a l'interior de cavitats on no hauria d'estar. Troba un procoagulant o un DRL.",
     "exertion1dsc": "Esforç físic lleu. (<>%)",
@@ -1160,7 +1160,7 @@
     "overweight1dsc": "Intenta perdre uns quilos.",
     "overweight2dsc": "Sobrepès perjudicial per a la salut. Ets més maldestre i et canses més ràpid.",
     "overweight3dsc": "Perillosament ample i tou. Molt més maldestre i més propens a l'esgotament.",
-    "overweight4dsc": "Obesitat extrema. És com si haguessis omplert un sac de carn ple de greix i fam. Alt risc d'insuficiència cardíaca. ",
+    "overweight4dsc": "Obesitat extrema. És com si haguessis omplert un sac de carn ple de greix i fam. Alt risc d'insuficiència cardíaca.",
     "depression1dsc": "Comences a adonar-te de la gravetat de la teva situació. Intenta distreure't.",
     "depression2dsc": "Manca de motivació per seguir endavant, lluitant amb les emocions. La veritat és que les coses no van bé. Troba una manera de distreure't.",
     "depression3dsc": "Gairebé no tens ganes de fer res. La teva ment, devastada per la desesperació. Potser tot acabarà aviat?",
@@ -1554,14 +1554,14 @@
     "char0quirks": "[CANÍ] - El teu estómac no li agrada gens la teobromina.\n[VISIÓ_BIOLUMINESCENT] - En cas d'emergència, ets la teva pròpia font de llum.",
     "char1name": "[SAW-03] «Vilàctia»",
     "char1desc": "[FAMÍLIA] «Caní»\n[RESPOSTA_COMUNA] «Obeiré.»\n[PROBABILITAT_ÈXIT] «0,0103 %»\n[NOTES] «Bastant petulant»",
-    "char1quirks": "[NARCOLÈPTIC] - El teu cicle de son és molt més curt, però no notes els efectes negatius de dormir en superfícies dures.\n[ESTATURA] - Ets petit!\n[ULLS_ADAPTATS] - Hi veus millor i les fonts de llum arriben més lluny.\n[SEMIHERBÍVOR] - La carn et fa sentir un poc malalt i t'aporta menys nutrients.\n[FEBLE] - Tots els guanys de STR i RES reduïts a la meitat.\n[TÈCNIC_D'ARMES] - Pots recarregar escopetes mitjançant una caixa de munició, utilitza les tecles de drecera per manejar les armes de foc i veure la quantitat de munició.\n[ESTABILITAT_ALTA] - Necessitaràs més per arruÏnar-te mentalment. No ets una persona afectuosa, excepte quan realment ho necessitis.\n[CANÍ] - El teu estómac no li agrada gens la teobromina.",
+    "char1quirks": "[NARCOLÈPTIC] - El teu cicle de son és molt més curt, però no notes els efectes negatius de dormir en superfícies dures.\n[ESTATURA] - Ets petit!\n[ULLS_ADAPTATS] - Hi veus millor i les fonts de llum arriben més lluny.\n[SEMIHERBÍVOR] - La carn et fa sentir un poc malalt i t'aporta menys nutrients.\n[FEBLE] - Tots els guanys de STR i RES reduïts a la meitat.\n[TÈCNIC_D'ARMES] - Pots recarregar escopetes mitjançant una caixa de munició, utilitza les tecles de drecera per manejar les armes de foc i veure la quantitat de munició.\n[ESTABILITAT_ALTA] - Necessitaràs més per arruïnar-te mentalment. No ets una persona afectuosa, excepte quan realment ho necessitis.\n[CANÍ] - El teu estómac no li agrada gens la teobromina.",
     "char2name": "[SAW-12] «Terò»",
     "char2desc": "[FAMÍLIA] «Insectoide»\n[RESPOSTA_COMUNA] «Hrrnn... Te-rò anar a-ra...?\n[PROBABILITAT_ÈXIT] «0,001 %»\n[NOTES] «Ecs! Està salivant!»",
-    "char2quirks": "[AQUÀTIC] - Pots respirar sota l'aigua i t'agrada dormir-hi.\n[SENSE PÈL] - La manca de pèl et fa vulnerable a la temperatura de l'ambient. T'asseques molt més ràpidament. L'aigua subterrània i altres líquids estabilitzaran la teva temperatura corporal.\n[CANÍBAL] - Pots menjar carn crua i destruir cadàvers sense cap conseqüència. En general, ets immune a les intoxicacions alimentàries.\n[CARNÍVOR] - Si menges fruita, la vomitaràs immediatament.\n[TROGLODITA] - Ets fort, però<i>no ets capaç</i> de pensar. Tots els guanys d'INT es redueixen a la meitat.\n[APÀTIC] - Canvis d'ànim amortits en una tercera part. No pots abraçar ni regatejar. No consideres que matar persones sigui un fet rellevant.\n[QUITINÓS] - Les protuberàncies quitinoses et fan resistent als traumatismes físics.",
+    "char2quirks": "[AQUÀTIC] - Pots respirar sota l'aigua i t'agrada dormir-hi.\n[SENSE PÈL] - La manca de pèl et fa vulnerable a la temperatura de l'ambient. T'asseques molt més ràpidament. L'aigua subterrània i altres líquids estabilitzaran la teva temperatura corporal.\n[CANÍBAL] - Pots menjar carn crua i destruir cadàvers sense cap conseqüència. En general, ets immune a les intoxicacions alimentàries.\n[CARNÍVOR] - Si menges fruita, la vomitaràs immediatament.\n[TROGLODITA] - Ets fort, però <i>no ets capaç</i> de pensar. Tots els guanys d'INT es redueixen a la meitat.\n[APÀTIC] - Canvis d'ànim amortits en una tercera part. No pots abraçar ni regatejar. No consideres que matar persones sigui un fet rellevant.\n[QUITINÓS] - Les protuberàncies quitinoses et fan resistent als traumatismes físics.",
     "characterunlock": "[ACCÉS_DENEGAT]",
     "characterunlockdsc": "Completa una partida amb el personatge anterior per desbloquejar",
     "presetnormal": "Difícil",
-    "presetnormaldsc": "Els errors castiguen. Tant el coneixement com la consciència situacional es recompensarà molt. El temps és or. ",
+    "presetnormaldsc": "Els errors castiguen. Tant el coneixement com la consciència situacional es recompensarà molt. El temps és or.",
     "presetrelaxed": "Relaxat",
     "presetrelaxeddsc": "Una baixada més lenta i relaxant. Els errors encara castiguen, però són més fàcils d'evitar. Tens més temps per explorar i per coneixer els teus voltants.",
     "presetparadise": "Paradís",
@@ -1846,7 +1846,7 @@
     "shrapnelMinigameGuide": "Treu la metralla a poc a poc. Anar massa ràpid farà mal.\nL'ús de pinces elimina el límit de velocitat.",
     "dislocationMinigameGuide": "Col·loca l'os al lloc correcte.\nUtilitzar una clau anglesa faria molt menys de mal.",
     "dislocationMinigameGuideAlt": "Torna a col·locar la pròtesi al lloc correcte.",
-    "amputationMinigameGuide": "Serra a través de l'extremitat per amputar-la. ",
+    "amputationMinigameGuide": "Serra a través de l'extremitat per amputar-la.",
     "aedMinigameGuide": "Segueix les instruccions que es mostren.",
     "manualDefibMinigameGuide": "Fes coincidir la càrrega proporcional a la distància al cicle de fibril·lació del teu cor, càrrega'l i després xoca't. Repeteix el cicle si cal.\nL'estimació recomanada (POW.EST) es fa més precisa amb una INT més alta.",
     "handCrankMinigameGuide": "Agafa el mànec i gira'l per carregar.",
@@ -2381,7 +2381,7 @@
     "tutmove10": "Prepara't per un llançament, salta i llança el barril cap avall. Escala la paret impulsant-te amb el llançament.",
     "tutmove11": "Ben fet. Com més pesat sigui l'objecte llançat, més enfora seràs llançat. Agafa el següent barril.",
     "tutmove12": "Salta per aquesta obertura i, a continuació, atura el teu impuls llançant el barril cap avall abans d'impactar contra el terra. No toquis les parets.",
-    "tutmove13": "Molt ben fet. ",
+    "tutmove13": "Molt ben fet.",
     "tutmove14": "Enfilar-se i col·lisionar amb objectes et fa retrocedir de manera similar. Intenta pujar per la paret més a la dreta mentre et balanceges principalment cap avall.",
     "tutmove15": "Agafa aquest martell i torna a utilitzar l'impuls del cop. Aconseguiràs molt més alçada gràcies a l'empenta del martell.",
     "tutmove16": "Ara, salta i, tot seguit, colpeja el sól just davall teu amb el martell. Guanyaràs més alçada. Puja pel pou.",
@@ -2409,7 +2409,7 @@
     "cargosurgery4": "He de treure el Cargo del cos.",
     "cargosurgery5": "He de posar aquests tubs sobre la ferida.",
     "cargosurgery6": "M'he d'anar d'aquí.",
-    "endsctip": "Concentra't, imbècil. L'he d'assassinar. Ara. ",
+    "endsctip": "Concentra't, imbècil. L'he d'assassinar. Ara.",
     "outdatedwarning": "<size=200%>Uep!<size=100%>\nEl fitxer d'idioma seleccionat està desactualitzat. És possible que part del text estigui fet malbé.\nIntenta canviar a l'anglès o de cercar una versió més recent.",
     "surfacebreachnote": "Mentre t'obres pas pels darrers estrats de grava i roca que et separen de l'aire lliure, una llum encegadora es filtra per les esquerdes.<>\n\nHas viatjat fins a l'infern i n'has tornat, superat milers de criatures que ara són cadàvers i t'has convertit en el primer i únic que ha complert l'objectiu assignat.<>\n\nTrepitges la grava freda. A l'horitzó apareixen edificis, muntanyes i diversos grups de persones. Has sortit a la superfície.",
     "labenternote": "Poc després, veus un llampec al cel acompanyat d'un fort so estrident que no et sona de res.<>\n\nPassen uns minuts mentre gaudeixes del teu nou entorn, abans que una mena de càpsula s'estavelli a terra a poca distància.<>\n\nTot i que has vist centenars de càpsules de salvament durant el teu viatge, aquesta no s'assembla en res a les anteriors. Intueixies que aquesta és per a tu.<>\n\nUna part important de tu vol rebel·lar-se i fugir molt, molt lluny, però...<>\nPareix que, per cada moment que passes sota la llum del sol, l'objecte incrustat al teu abdomen s'esmuny dolorosament i vibra amb una força cada vegada més gran.<>\n\nTemint el probable col·lapse catastròfic de la integritat estructural del cor, que s'acosta a un ritme vertiginós, puges a la càpsula amb una mirada abatuda.\nPoc després de fer-ho, una sacsejada sobtada et fa caure a terra. La càpsula està pujant.<>\n\nTot i que no saps on vas, et tranquil·litza un poc el fet que qui va enviar aquesta nau probablement sí que ho sàpiga. Decideixes posar-te còmode mentre esperes.<>\n\nDe sobte, un llampec brillant t'envaeix la visió. Sents una sensació física indescriptible que et travessa: exactament la mateixa que vas sentir quan vas arribar aquí per primera vegada.\n\nQuan s'atura, mires fora de la càpsula i veus que estàs envoltat d'un cel blau i boirós per sobre del que pareix un bosc verd amb una mena d'instal·lació enorme al mig.<>\n\nLa nau baixa lentament cap a un tipus d'escotilla situada a l'interior de les instal·lacions. Aviat, la càpsula es fixa al seu lloc, la porta d'acer s'obre i es veu...",
@@ -4188,7 +4188,7 @@
       ],  
       "wwmr": [
     "Okei... Estic aquí... A la fi he arribat aquí. Som-hi. L'objectiu hauria d'estar més o manco per aquí.",
-    "El... L'objectiu... Deu ser per aquí... Prou de perdre el temps. Venga. ",
+    "El... L'objectiu... Deu ser per aquí... Prou de perdre el temps. Venga.",
     "Ja he arribat... Ja he arribat..? Hmmh... Deu ser per aquí... Acabem amb això."
   ],
   "cargo1": [
@@ -4207,7 +4207,7 @@
     "Ho... Ho h-he aconseguit... Bé... Ho... No ens refiem massa... Crec que puc utilitzar aquella càpsula per tornar. Anem a la superfície."
   ],
   "wwmrwrongway": [
-    "No crec que aquest sigui el camí correcte... Hauria d'anar cap el lloc d'on venen els pulsos aquells... "             
+    "No crec que aquest sigui el camí correcte... Hauria d'anar cap el lloc d'on venen els pulsos aquells..."
   ],
   "endlessloop0": [
     "...Qu-q-q-... què..? Què? Per què? Què acaba de... Per què estic aquí? Hnn... Què acaba de passar..."
@@ -4253,7 +4253,7 @@
     "Pagaràn per allò...",
     "Patiran... les conseqüències...",
     "Estic. Fart. Amb. Aquesta. MERDA! ",
-    "A l'infern. A l'infern. Tots vosaltres... ",
+    "A l'infern. A l'infern. Tots vosaltres...",
     "S'ha acabat.",
     "Cabrons. Sàdics. Imbècils. Torracollons.",
     "A ningú li importarà quan desapareguin.",
@@ -4365,7 +4365,7 @@
       ],
       "eatBad": [
         "Quin gust tan espantós. Mai més.",
-        "Ecs. ",
+        "Ecs.",
         "Repulsiu.",
         "Terrible.",
         "Només lleugerament preferible respecte la inanició.",
@@ -4407,7 +4407,7 @@
         "Dormir... Ara...",
         "Poca... energia restant...",
         "M'estic allunyant...",
-        "No... Puc continuar... Dormir... ",
+        "No... Puc continuar... Dormir...",
         "Estic perdent l'equilibri...",
         "Em faré miques..."
       ],
@@ -4426,7 +4426,7 @@
         "Em desperto.",
         "Hola, món.",
         "M'aixeco.",
-        "Una altra vegada. ",
+        "Una altra vegada.",
         "Ara què.",
         "Vinga, amunt.",
         "En funcionament.",
@@ -4457,7 +4457,7 @@
         "El que abans era el sopar ara jeu a terra.",
         "Ecs... quin malbaratament d'aliment.",
         "Encara puc... tastar el vòmit...",
-        "Uff... ",
+        "Uff...",
         "No és satisfactori.",
         "Nutrients malgastats."
       ],
@@ -4546,7 +4546,7 @@
         "Està fet malbé (<limb>).",
         "Hi tinc una ferida (<limb>).",
         "Estic ferit.",
-        " El tinc danyat (<limb>). ",
+        "El tinc danyat (<limb>).",
         "Estic cobert de sang.",
         "Hi puc veure la carn (<limb>).",
         "Tinc carn exposada al cos."
@@ -4557,9 +4557,9 @@
         "Podria ser pitjor.",
         "He de seguir endavant.",
         "He passat per coses molt pitjors.",
-        "Hm. ",
+        "Hm.",
         "Hmmm.",
-        "Mm. ",
+        "Mm.",
         "Quin dia tan interessant.",
         "Aquest entorn afavoreix l'aïllament social.",
         "Respira.",
@@ -4583,9 +4583,9 @@
         "Moral baixa.",
         "Quin destí tan solitari.",
         "H-hhnnmm...",
-        "Eh. ",
+        "Eh.",
         "Pensant en aquesta situació...",
-        "Seguir. ",
+        "Seguir.",
         "Simplement continua.",
         "Crec que els antidepressius m'ajudarien en la meva situació.",
         "Necessito ajuda. Sembla que he sobreestimat la meva resistència."
@@ -4601,7 +4601,7 @@
         "Patint.",
         "Moral perillosament baixa.",
         "...Soc patètic, oi?",
-        "...Ajuda... ",
+        "...Ajuda...",
         "Cruel.",
         "M'han enviat per morir.",
         "Els bates-blanques pagaran per aquest maltractament.",
@@ -4624,7 +4624,7 @@
         "ATURA!!! ",
         "PER QUÈ!?? ",
         "AAAGGHHHHHHH!!!! AAAAHHHHHHHHH!!!!!",
-        "...Mata'm. ",
+        "...Mata'm.",
         "La probabilitat que en surti viu és nul·la.",
         "He fracassat.",
         "Pagaré amb la meva vida per aquest fracàs.",
@@ -4633,7 +4633,7 @@
         "Només soc un sac de carn ple de sang i ossos...",
         "Quina broma més cruel i sense gràcia...",
         "Fes que aturi...",
-        "Em rendeix. ",
+        "Em rendeix.",
         "Quina meraveeeella. Meravellós.",
         "Tot s'acabarà aviat.",
         "Vaig morir en el moment en què vaig arribar.",
@@ -4648,9 +4648,9 @@
         "No puc. Aguantar-ho. Més. S'acabat.",
         "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! PER QUÈÈÈÈÈÈÈÈÈÈÈÈEEEEEEEE!!!???",
         "Això és tot. He acabat.",
-        "A la merda. ",
+        "A la merda.",
         "...",
-        "Disculpes. "
+        "Disculpes."
       ],
       "refuse": [
         "...",
@@ -4685,7 +4685,7 @@
       ],
       "bleedingheavy": [
         "Hh... hmm. Hhhmh... A-això no pinta bé. He d-d'arreglar això. Ràpid.",
-        "Concentra't. Concentra't. Concentra't. Concentra't. Concentra't. ",
+        "Concentra't. Concentra't. Concentra't. Concentra't. Concentra't.",
         " Hemorràgia catastròfica present.",
         "(No t'espantis...)",
         "Hnnhhh... Hhnm...",
@@ -4715,7 +4715,7 @@
         "...Mmm.",
         "Això és preocupant.",
         "...Potser la RCP ajudaria.",
-        "Aquest és... Eh. ",
+        "Aquest és... Eh.",
         "Quina mala sort.",
         "No és gaire agradable de veure.",
         "Quin espectacle tan trist.",
@@ -4742,8 +4742,8 @@
         "Vaja, mira, un altre.",
         "Quin espècimen tan desafortunat.",
         "Quina novetat...Un altre.",
-        "Pobre coseta. ",
-        "No ho necessitaràs. Ara ja no. ",
+        "Pobre coseta.",
+        "No ho necessitaràs. Ara ja no.",
         "Qui s'ho troba, s'ho queda.",
         "Cuc.",
         "I un altre.",
@@ -4770,7 +4770,7 @@
         "Ni tan sols ho pensis...",
         "Quina sort...",
         "T'envejo.",
-        "Hh... Haha.... ",
+        "Hh... Haha....",
         "Nhhh... Mmm... Company...",
         "I-idiota."
       ],
@@ -4825,11 +4825,11 @@
         "Seria preferible fer un descans.",
         "Quin treball físic.",
         "Exercit.",
-        "Concentra't. "
+        "Concentra't."
       ],
       "exhausted": [
         "Esgotat...",
-        "Buff... Huff... Puff... ",
+        "Buff... Huff... Puff...",
         "Requereixo... Descans...",
         "Estic... Totalment esgotat...",
         "Necessito... Respirar...",
@@ -4837,7 +4837,7 @@
         "S'està... fent difícil... respirar...",
         "*tos* *tos*",
         "Els meus músculs... estan... abandonant...",
-        "Enfoca't... "
+        "Enfoca't..."
       ],
       "freezing": [
         "Tinc una hipotèrmia perillosa.",
@@ -4847,7 +4847,7 @@
         "Estic tremolant.",
         "He d'anar a un lloc càlid, ara mateix.",
         "M'estic congelant.",
-        "Massa fred. Fa mal. ",
+        "Massa fred. Fa mal.",
         "Quin fred tan esgarrifós...",
         "No sento les meves extremitats."
       ],
@@ -4906,7 +4906,7 @@
         "Dolor.",
         "Hi tinc molèsties al voltant (<limb>).",
         "Està adolorit (<limb>).",
-        "Se sent molt malament. ",
+        "Se sent molt malament.",
         "Em fa mal (<limb>).",
         "Estímuls de dolor presents.",
         "Caram.",
@@ -4945,7 +4945,7 @@
         "Hhhh!",
         "Ehh! ",
         "Uau.",
-        "Ehh. ",
+        "Ehh.",
         "Això no pot ser bo."
       ],
       "hitbycreature": [
@@ -5010,7 +5010,7 @@
       "murderregret": [
         "....H..Hah... Haha... Ha... Hahaha.... Ahhahahaha... Hahhh... H-h...a...",
         "Soc un monstre irredemptible. I estic avergonyit.",
-        "P-Per-... Perdó. ",
+        "P-Per-... Perdó.",
         "Jo no... Volia..."
       ],
       "tradeemeet": [
@@ -5031,7 +5031,7 @@
         "RENDEIX-TE!"
       ],
       "braindamaged": [
-        "...Alguna cosa va molt malament. ",
+        "...Alguna cosa va molt malament.",
         "Un gust... Metàl·lic. Implica... Mmm.",
         "Axun si mi vi zi othokent xiekiv si hefoc kemic.",
         "La vidriera tenia talls de color groc, carbassa i vermell.",
@@ -5051,8 +5051,8 @@
         "ENFOCA'T!",
         "Nhh... No gaire... Ideal...",
         "Jo no... vull morir...",
-        "Necessit... Ajuda... Per favor... ",
-        "Així...N... Així no... ",
+        "Necessit... Ajuda... Per favor...",
+        "Així...N... Així no...",
         "Salva'm.",
         "H-h... Nhhh... hnnh... Ghhh...",
         "T-t-ant de bo... C-continuar... Vivint...",
@@ -5071,7 +5071,7 @@
         "Tot va segons el pla. Sembla que l'objectiu està a l'abast. M'he de concentrar."
       ],
       "cargo1": [
-        "...Estrany. "
+        "...Estrany."
       ],
       "cargo2": [
         "Per fi, he... Q-q... Què..? "
@@ -6781,7 +6781,7 @@
       "Item2": ""
     },
     {
-      "Item1": "[XAT DE GRUP - DEPT. DE MENTICIDI]\n      - Missatge nou -<>\n\nQualcú ha vist la meva tassa de cafè? És la que diu: \"Només he vingut pels radicals lliures\". Si la trobes, porta'l al meu despatx. Gràcis. ",
+      "Item1": "[XAT DE GRUP - DEPT. DE MENTICIDI]\n      - Missatge nou -<>\n\nQualcú ha vist la meva tassa de cafè? És la que diu: \"Només he vingut pels radicals lliures\". Si la trobes, porta'l al meu despatx. Gràcis.",
       "Item2": ""
     },
     {
@@ -6955,7 +6955,7 @@
       "Oooo, pobret."
     ],
     "cargoembedded": [
-      "Ben fet. ",
+      "Ben fet.",
       "Has trigat massa.",
       "Això no és una cursa, però afanya't.",
       "Estàs preparat per començar a prendre- t'ho seriosament?",
@@ -6997,7 +6997,7 @@
       "Això no pot ser bo.",
       "Fuig!",
       "Pareix urgent.",
-      "Concentra't. ",
+      "Concentra't.",
       "Aprofita aquest temps amb prudència.",
       "Hauries d'haver vist la teva cara!",
       "Pareix que has fet un amic nou!",
