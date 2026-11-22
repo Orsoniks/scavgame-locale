@@ -1,6 +1,7 @@
 {
     "name": "Português Brasileiro",
-    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar incompleta para a ultima versão do jogo e/ou estar fora dos padrões de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu, goatwithagun (cabradeartilharia), Pedro Lucas da Silva Sousa (PedSen), nickloras e David Costa (ZonaryH)</color>\n\n<color=\"white\">Parcialmente atualizada para: V7.1</color>.",
+    "description": "Tradução brasileira não oficial criada por fãs. Ela pode estar incompleta para a ultima versão do jogo e/ou estar fora dos padrões de qualidade.\n\n<color=\"white\">Mantida por: a cake, woforu, goatwithagun (cabradeartilharia), Pedro Lucas da Silva Sousa (PedSen), nickloras e David Costa (ZonaryH)</color>\n\n<color=\"white\">.",
+    "version": "7.7.9",
     "main": {
         "bandage": "Bandagem",
         "bandagedsc": "Um rolo de gaze com uma atadura, usado para estancar sangramentos, estabilizar fraturas e ajudar na cicatrização da pele. Não muda a saúde muscular.",
@@ -75,7 +76,7 @@
         "bloodsac": "Saco de sangue",
         "bloodsacdsc": "Um saco pequeno e gosmento de sangue. Não parece muito diferente do seu sangue. Pode ser comido ou usado em criações.",
         "venomgland": "Glândula de veneno",
-        "venomglanddsc": "Uma pequena glândula salivaria que produz e guarda hemotoxinas. Você provavelmente pode usar ela na produção de um antidoto.",
+        "venomglanddsc": "Uma pequena glândula salivaria que produz e guarda hemotoxinas. Você provavelmente pode usar ela na produção de um antiveneno.",
         "saline": "Bolsa de soro",
         "salinedsc": "Uma bolsa de 750 ml com um autoinjetor de fluidos por via intravenosa.",
         "ringersolution": "Bolsa pequena de soro",
@@ -334,6 +335,8 @@
         "blindfolddsc": "Um pedaço preto de pano para cobrir seus olhos. Oferece minúscula proteção, mas vai fechar os olhos do seu personagem.",
         "balaclava": "Balaclava",
         "balaclavadsc": "Um pedaço grosso de pano para cobrir sua caveira. Oferece boa insulação e minúscula proteção.",
+        "earmuffs": "Protetor de orelhas",
+        "earmuffsdsc": "Um par moderno de almofadas conectadas por uma haste metálica. Protege você de sons altos e providencia isolamento... de algum jeito. Não vai ajudar muito contra sons <i>extremamente</i> altos.",
         "latexgloves": "Luvas de látex",
         "latexglovesdsc": "Um par simplês de luvas feitas de um certo tipo de borracha. Oferece um pouco de insulação.",
         "tacticalgloves": "Luvas táticas",
@@ -358,8 +361,8 @@
         "hoodiedsc": "Um moletom preto muito grande que te mantém quentinho e tem um bolso pequeno.",
         "metabolismchip": "Chip de metabolismo",
         "metabolismchipdsc": "Um chip que aumenta seu metabolismo um pouquinho, fazendo seus membros se regenerarem muito mais rápido, em troca de usar a sua saciação da fome.",
-        "xalorissponge": "Esponja de Xaloris",
-        "xalorisspongedsc": "Um contêiner de esporos arrancado de um Xaloris. Pode ser usado em seus membros corporais para reduzir infecções ou comido pelo seu valor nutricional. Os esporos podem afetar seu sistema imunológico.",
+        "xalorissponge": "Esponja de chamambaia",
+        "xalorisspongedsc": "Um contêiner de esporos arrancado de uma Chamambaia. Pode ser usado em seus membros corporais para reduzir infecções ou comido pelo seu valor nutricional. Os esporos podem afetar seu sistema imunológico.",
         "jetpack": "Mochila a jato",
         "jetpackdsc": "Um dispositivo usado como mochila, que usa motores á jato para propelir o usuário. O combustível é limitado e não funcionará quando molhado. Segure W para usar. Possui um bolsinho para guardar coisas.",
         "dynamite": "Dinamite",
@@ -410,6 +413,8 @@
         "lockpickingkitdsc": "Diversas pequenas ferramentas usadas para abrir com eficácia diversos tipos de tranca. Tenha-a em seu inventario principal ao arrombar trancas para usa-la. Necessário 10 INT para usar, sua eficácia escala com INT.",
         "icepack": "Bolsa de gelo",
         "icepackdsc": "Uma bolsa fria cheia de gel refrigerante que se esfria sozinho. Ajuda no tratamento da saúde múscular, reduz dores e te esfria um pouco. O item se resfria com o tempo.",
+        "cryogeniccore": "Núcleo criogênico",
+        "cryogeniccoredsc": "Um dispositivo avançado, capaz de controlar a temperatura ao seu redor. Ao ser jogado em pedra derretida ou ao sentir sua temperatura corporal alta, ele ativará, solidificando toda a magma próxima a você e lhe esfriando consideravelmente. Uso único.",
         "armwarmers": "Aquecedores de braço",
         "armwarmersdsc": "Um par de aquecedores de braço azuis. Oferece um pouco de insulação contra o frio. Qualidade: Macho alfa.",
         "carapace": "Carapaça",
@@ -450,6 +455,8 @@
         "frigiantfruitdsc": "Uma fruta muito fria, dura e meio refletiva. Gostosa, mas com essa temperatura, ela pode te fazer de picolé.",
         "helluce": "Alferno",
         "hellucedsc": "Uma erva púrpura seca com um sabor particularmente picante. Frequentemente usada como tratamento para certas aflições - ajuda contra enjoo, auxilia no tratamento da audição e talvez minimize sangramento interno. Use com cuidado - ela esquenta muito o usuário.",
+                "spicevineleaf": "Spiceleaf",
+        "spicevineleafdsc": "Um caule seco com diversas folhas brilhantes. Possui valor nutricional quando ingerido, mas você vai passar por um inferno de dor e picância se tentar. Pode ser usado em um membro corporal para auxiliar sua regeneração e combater infecções. Pode ser usado como folhagem em criações.",
         "bulbskin": "Popcasca",
         "bulbskindsc": "Um pedaço de membrana amarela. É hidratante, mas pode afetar negativamente o funcionamento cerebral. Também pode ser usada como curativo improvisado e analgésico.",
         "popfruit": "Popfruta",
@@ -601,7 +608,7 @@
         "snowstriderdsc": "Uma criatura enorme e peluda que caça comida nessa região gelada. Eles se mantém aquecidos com seus pelos grossos.",
         "spaceheater": "Aquecedor de ambiente iônico",
         "spaceheaterdsc": "Um dispositivo que aquece o lugar em volta. Pode te deixar um pouco radiado se ficar perto por muito tempo.",
-        "xaloris": "Xaloris",
+        "xaloris": "Chamambaia",
         "xalorisdsc": "Uma samambaia espinhosa e esponjosa que esquenta o ar em volta para espalhar esporos. Esquenta o lugar em volta, mas respirar muito os esporos não vai te fazer bem.",
         "lifepodheater": "Aquecedor de cápsula",
         "lifepodheaterdsc": "Ficará esquentando essa cápsula até o fim dos tempos.",
@@ -625,6 +632,12 @@
         "coildsc": "Boa para instantaneamente fritar tudo condutível.",
         "containercrate": "Caixa contêiner",
         "containercratedsc": "Tem variados itens dentro.",
+        "laserdrone": "Caixa contêiner",
+        "laserdronedsc": "Tem variados itens dentro.",
+        "laserdrone2": "Crio-drone",
+        "laserdronedsc2": "Uma maquina pequena, particularmente irritada.",
+        "piston": "Maquinário antigo",
+        "pistondsc": "Um tipo de dispositivo cilíndrico.",
         "corpse": "???",
         "corpseseen": "Cadáver",
         "corpsedsc": "",
@@ -632,7 +645,9 @@
         "glassshardsdsc": "",
         "sandvine": "Vinha arenosa",
         "sandvinedsc": "Uma vinha longa e firme. Você poderia usar elas para escalar, mas talvez seja um pouco difícil se ela for muito fina.",
-		"ladder": "Escada",
+		"vein": "Veia",
+        "veindsc": "Uma... Planta? Você pode se segurar nela.",
+        "ladder": "Escada",
         "ladderdsc": "Um conjunto vertical de degraus usado para subir ou descer. Espero que você saibá como usá-la.",
         "shadecrawler": "Rastejante sombrio",
         "shadecrawlerdsc": "",
@@ -650,8 +665,13 @@
         "DigestionCrystaldsc": "Visualmente e psicologicamente parece estranho.",
         "dropcapsule": "Cápsula de lançamento",
         "dropcapsuledsc": "Um calor artificial vem dele.",
-        "chipcapsule": "Cápsula de chipe",
-        "chipcapsuledsc": "",
+        "lavalamp": "Lâmpada de lava",
+        "lavalampdsc": "Irradia uma luz quente e queima ao toque. Você deveria evitar ficar perto disto por muito tempo.",
+        	"coldpuff": "Coldpuff",
+        "coldpuffdsc": "Uma bola, branca e estranha, suspensa por tentáculos roxos que saem do chão. De alguma forma ela é muito gelada.",
+        "coldpuffdsc2": "Parece ser uma forma bem estranha de espalhar esporos.",
+        	"spicevine": "Spicevine",
+        "spicevinedsc": "Uma planta pequena e robusta. Parece extremamente seca. Você poderia subir ou cair nela para aliviar quedas.",
         "lifepodbuttonheat": "Interruptor do aquecedor",
         "lifepodbuttonheatdsc": "Um botão vermelho de aparência barata. Parece ligar o aquecedor ou ar condicionado da cápsula. Está no modo <>.",
         "lifepodbuttonshower": "Interruptor do chuveiro",
@@ -664,13 +684,15 @@
         "geotreedsc": "É mole e tem estranhas folhas geométricas.",
         "glowplant": "Brilha-planta",
         "glowplantdsc": "Uma planta bioluminescente verde. Parece inalterada pelo ambiente.",
+        "mushlight": "Luzgo",
+        "mushlightdsc": "Um tipo de planta bioluminecente.",
         "jumppad": "Maquinaria velha",
         "jumppaddsc": "Isso tem uma placa de pressão.",
         "landmine": "Mina terrestre",
         "landminedsc": "Passivelmente aterrorizadora.",
         "leadbush": "Arbusto-chumbo",
         "leadbushdsc": "Tem pedaços de metal pesado crescendo nisso. Parecendo uma planta, é na verdade um animal!",
-        "lifepodchest": "Baú de sobrevivência",
+        "lifepodchest": "Baú de capsula",
         "lifepodchestdsc": "Provavelmente tem equipamentos básicos.",
         "LifePodLight": "Luz",
         "LifePodLightdsc": "Tem uma pseudo-lâmpada nisso. Deve dar para pegar.",
@@ -696,8 +718,27 @@
         "crystalbigdsc": "Um cristal bioluminescente grande.",
         "crystalmassive": "Cristal",
         "crystalmassivedsc": "Um cristal bioluminescente gigantesco.",
+        "corecrystal": "Cristal",
+        "corecrystaldsc": "Um cristal bioluminescente. Tem algo estranho nele...",
         "crystalenemy": "Manifestação",
         "crystalenemydsc": "Uma expressão de intenção maligna, de algo muito, muito além da sua compreensão física limitada.",
+        "crystalirradiated": "(radioativo)",
+        "crystalfragile": "(frágil)",
+        "crystalgravity": "(distorção gravitacional)",
+        "crystalelectric": "(elétrico)",
+        "crystalburning": "(queimando)",
+        "crystaltemperature": "(termal)",
+        "crystalseptic": "(séptico)",
+        "crystalunstable": "(instável)",
+        "crystalmimic": "(vivo)",
+        "crystalteleport": "(instabilidade posicional)",
+        "crystaldripping": "(derretendo)",
+        "crystalkinetic": "(cinético)",
+        "crystalemp": "(eletromagnético)",
+        "crystalblinding": "(brilhante)",
+        "crystalmetamorphic": "(metamórfico)",
+        "crystalhealing": "(regenerador)",
+        "crystalshy": "(mimico)",
         "sandrose": "Rosa do deserto",
         "sandrosedsc": "Uma flor estranhamente linda com algumas grandes formas ovais crescendo nisso.",
         "scrapeater": "Come-sucata",
@@ -717,8 +758,14 @@
         "TurbulentCrystaldsc": "Está tremendo um pouco.",
         "turret": "Torreta",
         "turretdsc": "Parece ter um tipo de detector de calor nisso.",
+        "ceilingturret": "Torreta de teto",
+        "ceilingturretdsc": "Parece ter um tipo de detector de calor/movimento nisso. Quem sabe você consegue passar despercebido?",
+        "grate": "Grade",
+        "gratedsc": "",
         "stalagmite": "Estalagmite",
         "stalagmitedsc": "Aliviantemente, seu ápice é arredondado.",
+        "stalagmitedark": "Estalagmite",
+        "stalagmitedarkdsc": "Aliviantemente, seu ápice é arredondado.",
         "icestalagmite": "Estalagmite de gelo",
         "icestalagmitedsc": "Aliviantemente, seu ápice é arredondado.",
         "stalactite": "Estalactite",
@@ -728,6 +775,12 @@
         "stalactitedscdropped": "Isto esta, de fato, não mais conectado no teto.",
         "drybush": "Arbusto seco",
         "drybushdsc": "Você tem uma minúscula suspeição de que ele está morto.",
+        "crimsonbush": "Arbusto carmesim",
+        "crimsonbushdsc": "Você está a poucos momentos da sua potencial liberdade, e ainda sim gasta seu tempo observando arbustos.",
+        "crimsontree": "Árvore carmesim",
+        "crimsontreedsc": "É uma árvore. Mas vermelha. Você não tem algo mais importante para se preocupar?",
+        "pussack": "Bolsa de pus",
+        "pussackdsc": "Você tem quase certeza que está viva. Nojento. Mas talvez seja útil?",
         "brownshroom": "Marrom-gumelo",
         "brownshroomdsc": "Você não sabe muito disso além de que isso é, de fato, marrom.",
         "spentfuel": "Combustível gastado",
@@ -743,6 +796,8 @@
         "bananaplantdsc": "Uma curta, porém larga planta, coloquialmente chamada de \"Planta-Banana\" devido a seu topo amarelo e mole. Muito escorregadio.",
         "geyser": "Gêiser",
         "geyserdsc": "Um gêiser instável com uma tendência de atirar água. Mas pelo menos no máximo, á temperatura normal.",
+        "lavageyser": "Gêiser",
+        "lavageyserdsc": "Um gêiser instável com uma tendência de atirar magma. Esse parece um pouco pior comparado aos que você viu antes.",
         "oilpipe": "Cano de esgoto",
         "oilpipedsc": "Um cano enferrujado com óleo derramando dele. Você não quer olhar dentro... Vai provavelmente encher o lugar todo com óleo uma hora.",
         "pop": "Plantulito",
@@ -917,6 +972,10 @@
         "irradiated2": "Irradiado",
         "irradiated3": "Severamente irradiado",
         "irradiated4": "Vítima de Chernobyl",
+        "barotrauma1": "Pressão alta",
+        "barotrauma2": "Pressão muito alta",
+        "barotrauma3": "Barotrauma",
+        "barotrauma4": "Barotrauma crítico",
         "energized": "Energizado",
         "hemothorax": "Hemotórax",
         "hollow": "Vazio",
@@ -940,6 +999,7 @@
 		"impendingdoom": "Sensação de aniquilação iminente",
         "horrified": "HORRORIZADO",
         "focused": "FOCADO",
+        "cargo": "<spoiler>",
 		
         "braindamage4dsc": "...",
         "braindamage3dsc": "realidade  ..  parou   fazer   sentido",
@@ -1049,7 +1109,7 @@
         "cold2dsc": "Desagradavelmente frio. Seu corpo está mais lento.",
         "cold3dsc": "Temperaturas perigosamente baixas, corpo e mente pegos pelo frio. Seu corpo inteiro está lentamente desligando.",
         "cold4dsc": "Você sente sua pele em chamas, mas você está tão cansado e confuso que uma soneca longa soa como uma ótima ideia agora...",
-        "wet1dsc": "Seus pelos parecem meio molhados.",
+        "wet1dsc": "Você se sente levemente molhado.",
         "wet2dsc": "Consideravelmente molhado. Temperatura e comforto diminuidos.",
         "wet3dsc": "Ensopado. Temperatura e comforto consideravelmente diminuidos.",
         "wet4dsc": "100% água. Ela tá até te pesando. Temperatura e comforto 100% diminuidos.",
@@ -1058,7 +1118,7 @@
         "underweight3dsc": "Você está perigosamente magro e frágil. Enfraquecimento maior, propenso ao cansaço e a letargia. Capacidade de carga reduzida.",
         "underweight4dsc": "Você está excessivamente magricelo. Você vê e sente seus ossos pelo seu pelo sem dificuldade. Alto risco de insuficiência cardíaca. Capacidade de carga muito reduzida",
         "overweight1dsc": "Tente perder uns quilos.",
-        "overweight2dsc": "Acima do peso, ainda que, comparado a outras espécies você parece normal. Desajeitado, você se cança mais rapido.",
+        "overweight2dsc": "Acima do peso. Desajeitado, você se cança mais rapido.",
         "overweight3dsc": "Perigosamente largo e fofinho. Muito desajeitado e mais propenso a exaustão.",
         "overweight4dsc": "Obesidade com risco de vida. É como se você fosse um saco de pelos cheio de gordura e pura gula. Alto risco de insuficiência cardíaca.",
         "depression1dsc": "Começando a perceber a gravidade da sua situação. Tente se distrair.",
@@ -1085,6 +1145,10 @@
         "irradiated2dsc": "Febril e enjoado. Você sente sua pele quente e dolorosa. Algo está muito errado. É aterrorizador.",
         "irradiated3dsc": "Horrivelmente doente e tudo dói. Respirar e pensar é extremamente difícil. Você se sente miserável.",
         "irradiated4dsc": "<i>Você não está gostando de falar adeus desse jeito...",
+        "barotrauma1dsc": "Alta pressão no ar ambiente. O objetivo da missão fica cada vez mais perto.",
+        "barotrauma2dsc": "O ar ao seu redor esta ficando desconfortavelmente pesado. Você deveria se apressar.",
+        "barotrauma3dsc": "Sua cabeça começa a doer com toda essa pressão. Você precisa se apressar, antes que piore.",
+        "barotrauma4dsc": "Respirar se tornou um desafio... Algo no ar está lentamente te matando. <i>Você não quer morrer tão perto do objetivo...",
         "energizeddsc": "Sono e perda de estâmina diminuídos. (<>)",
         "hemothoraxdsc": "Sangue está acumulando na cavidade pleural devido a um sangramento interno, progressivamente impedindo sua capacidade de respirar. Seu peito dói... Tratamento recomendado.",
         "hollowdsc": "Cavaleiro",
@@ -1107,7 +1171,8 @@
         "keratinboosterdsc": "Suas garras crescem três vezes mais rápido. (<>)",
 		"impendingdoomdsc": "Por algum motivo, você está sentindo uma intensa sensação de medo. O seu pelo tá extremamente arrepiado. É como se a natureza ao seu redor, de repente, se calou...",
         "horrifieddsc": "NÃO DA PRA FOCAR. NÃO DA PRA PENSAR DIREITO. NADA MAIS IMPORTA. LUTE POR SUA VIDA OU CORRA!",
-        "focuseddsc": "<i>Ambos iremos partir hoje. Um, vai um pouco mais cedo que o outro."
+        "focuseddsc": "<i>Ambos iremos partir hoje. Um, vai um pouco mais cedo que o outro.",
+        "cargodsc": "<spoiler>"
     },
     "other": {
 		"fullmouthchars": "mnoae",
@@ -1123,9 +1188,8 @@
         "layertitle8": "Vazio cristalino",
         "layertitle9": "Fendas geotérmicas",
         "layertitle10": "ONDE DEVEMOS CHEGAR",
-        "layertitle11": "ASCENSÂO",
-        "layertitle12": "SUPERFÍCIE",
-        "layertitle13": "CAMINHO PARA A LIBERDADE",
+        "layertitle11": "ASCENSÃO CARMESIM",
+        "layertitle12": "Terra\nUm laboratório",
 		"layermodifier0": "(Nevoeiro)",
         "layermodifier1": "(Quente)",
         "layermodifier2": "(Escaldante)",
@@ -1207,6 +1271,12 @@
         "mushroombody": "Cogumelo",
 		"copper": "Cobre",
         "ilmenite": "Ilmenita",
+        "heatedrock": "Rocha aquecida",
+        "obsidian": "Obsidiana",
+            "gabbro": "Gabbro",
+            "mantle": "Mantle",
+        "crimsongrass": "Grama carmesim",
+        "mush": "Hifa",
         "lrdserum": "Soro de D.R.L.",
         "lrdserumdsc": "Uma mistura especial usada por um dispositivo de ressuscitação localizada. Nada acontece se for injetado fora do D.R.L.",
         "cleanwater": "Agua limpa",
@@ -1343,8 +1413,10 @@
         "dirtywaterdsc": "Pelo menos não tá mais no seu corpo. Beber isso seria uma má ideia.",
         "algae": "Lumineságua",
         "algaedsc": "Agua com algas bioluminescentes e grossas. Deve te fazer boiar. Infelizmente não dá pra digerir.",
+        "redsludge": "Muco vermelho",
+        "redsludgedsc": "Absolutamente repugnante. Parece uma massa carnuda. O cheiro é abominável.",
         "magma": "Magma",
-        "magmadsc": "Rocha derretida. Todos os seus sentidos estão gritando para você evitar isso.",
+        "magmadsc": "Rocha derretida. Todos os seus sentidos estão gritando para você evitar isso. Provavelmente vai esfriar com o tempo.",
         "oil": "Oleo",
         "oildsc": "Alcatrão grosso e escuro. É difícil de se movimentar nele. Infelizmente não dá pra digerir.",
         "sap": "Seiva de árvore",
@@ -1394,6 +1466,7 @@
         "milkytraderdsc": "Uma criatura branca e peluda, de estatura relativamente baixa quando comparada a sua, com um focinho bem plano e curto e chifres brancos em sua cabeça. Julgando pelo par de barbatanas presentes em suas costas, eles provavelmente devem possuir alguma característica aquática. Eles provavelmente vão estar carregado com si alguma arma para compensar as suas frágeis características físicas. Eles parecem ser bem inteligentes e um pouco arrogantes. Eles não são muito afetuosos, então talvez seja mais difícil conseguir um abraço deles.",
         "dune": "Duno",
         "dunetraderdsc": "Alto, largo e amedrontador, com mais músculos do que cérebro. Os corpos deles são recobertos por barbatanas de estranha aparência. Possui 6 extrusões, de formato espinhoso, na parte lateral de sua cabeça e uma boca assustadoramente enorme, recoberta por grandes dentes afiados em todos os cantos. Eles parecem ter brânquias ao redor de seu tronco. Apesar de não serem diretamente agressivos, eles provavelmente pensam somente em comer. Não devem se importar muito com o que você os oferecer de bugiganga; Você vai ter que pensar em outras maneiras de ganhar o respeito deles.",
+        "dunespecialtraderdsc": "Comida.",
         "Shelly": "SHEEEEELLLLYYYY!!!!!!",
         "clicktocontinue": "Clique para continuar...\nESC para pular",
 		"favouriteditem": "Itens marcados como favorito não serão usados em criações.",
@@ -1405,6 +1478,21 @@
         "lowerback": "Costas inferiores",
         "startrun": "Começar",
 		"startrundsc": "Desça para as profundezas das cavernas.",
+        "next": "Próximo",
+        "nextdsc": "Prossiga para a próxima espécie",
+        "savecontinuemenu": "Continue sua expedição",
+        "savecontinuemenudsc": "Continue uma expedição em andamento.",
+        "char0name": "[SAW-01] \"Experimento\"",
+        "char0desc": "[FAMILIA] \"Canino\"\n[FRASE_DESTACADA] \"H-huh? Eu? Chegou a hora de ir..?\"\n[PREVISÃO_DE_SUCESSO] \"0.00374%\"\n[NOTAS] \"Desinteressante\"",
+        "char0quirks": "[CANINO] - Seu estomago não funciona bem com teobromina.\n[VISÃO_BIOLUMINESCENTE] - Em uma emergência você possui sua própria luz.",
+        "char1name": "[SAW-03] \"Leitoso\"",
+        "char1desc": "[FAMILIA] \"Canino\"\n[FRASE_DESTACADA] \"Estou de acordo.\"\n[PREVISÃO_DE_SUCESSO] \"0.0103%\"\n[NOTAS] \"Um pouco esnobe\"",
+        "char1quirks": "<spoiler>",
+        "char2name": "[SAW-12] \"Duna\"",
+        "char2desc": "[FAMILY] \"Insectoide\"\n[CALLOUT_QUOTE] \"Hrrnn... Hora do Du-na ir..?\"\n[PREVISÃO_DE_SUCESSO] \"0.001%\"\n[NOTAS] \"Eca! Ele tá babando!\"",
+        "char2quirks": "<spoiler>",
+        "characterunlock": "[ACESSO_NEGADO]",
+        "characterunlockdsc": "Termine uma tentativa com o personagem anterior para desbloquear",
         "presetnormal": "Normal",
         "presetnormaldsc": "A experiencia padrão. Você será punido por erros. Conhecimento e noção situacional são recompensados. Tempo é essencial. Sua morte é praticamente garantida.",
         "presetrelaxed": "Relaxante",
@@ -1416,21 +1504,23 @@
         "presetunchipped": "Sem chip",
         "presetunchippeddsc": "A falta do chip tambem retira o limite de tempo que os outros possuem, contudo fazer o diagnóstico próprio se torna mais difícil. Será que vale a pena no final de tudo?.",
         "presetendless": "Sem fim",
-        "presetendlessdsc": "Não há escapatória; Essa é sua sentença de morte. O quão longe você consegue ir, com obstáculos se multiplicando à sua frente?\n\n[NOTA: Indisponível nesse estágio, já que o jogo atualmente já não tem fim de qualquer jeito.]",
+        "presetendlessdsc": "Não há escapatória; Essa é sua sentença de morte. O quão longe você consegue ir, com obstáculos se multiplicando à sua frente?",
         "runsettings": "Opções da partida",
         "runsettingsdsc": "Escolha um estilo de jogo usando as predefinições abaixo. Você pode modificá-las no painel de opções personalizadas à direita.",
         "customsettings": "Opções personalizadas",
         "customsettingsdsc": "Configure as opções específicas da partida",
         "runsetunchipped": "Sem chip",
         "runsetunchippeddsc": "Desabilita o seu painel de vida, obrigando você a se esforçar mais em descobrir que efermidades específicas você tem. Habilita a linha de visão.",
+        "runsetendless": "Sem fim",
+        "runsetendlessdsc": "Se ativado, fará as camadas entrarem em \"loop\" depois de um ponto, faz sua tentativa durar até sua morte. Você não pode terminar o jogo desta forma.",
         "runsetbaselootdensity": "Densidade de saque",
-        "runsetbaselootdensitydsc": "Quanto saque aparecerá em cada camada. Afeta coisas como cápsulas de lançamento, cápsulas de sobrevivente, e caixas.",
+        "runsetbaselootdensitydsc": "Quanto saque aparecerá em cada camada. Afeta coisas como cápsulas de lançamento, cápsulas de sobrevivente, e caixas",
         "runsetlootmultiplier": "Multiplicador de distância de saque",
-        "runsetlootmultiplierdsc": "A densidade do saque é multiplicada por isso para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de saque seria reduzida pela metade cada vez que você descesse uma camada.",
+        "runsetlootmultiplierdsc": "A densidade do saque é multiplicada por isso para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de saque seria reduzida pela metade cada vez que você descesse uma camada",
         "runsetbasetrapdensity": "Densidade de armadilhas",
-        "runsetbasetrapdensitydsc": "Quantas armadilhas aparecem em cada camada. Afeta coisas como armadilhas mecânicas, inimigos, e outros obstáculos.",
+        "runsetbasetrapdensitydsc": "Quantas armadilhas aparecem em cada camada. Afeta coisas como armadilhas mecânicas, inimigos, e outros obstáculos",
         "runsettrapincrease": "Aumento de distância de armadilhas",
-        "runsettrapincreasedsc": "Este número é adicionado à densidade de armadilhas para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de armadilhas iria de 1x -> 1.5x -> 2x e daí em diante.",
+        "runsettrapincreasedsc": "Este número é adicionado à densidade de armadilhas para cada camada que você cruzar\n\nEm outras palavras, se você colocar em p. ex. 0.5x, a quantidade de armadilhas iria de 1x -> 1.5x -> 2x e daí em diante",
         "runsettimelimit": "Tempo limite das camadas",
         "runsettimelimitdsc": "O tempo (em minutos) que você tem em cada camada antes de ser punido",
         "runsetstartingsupplies": "Kit inicial",
@@ -1438,10 +1528,12 @@
         "runsetstartingsuppliesnone": "Nada",
         "runsetstartingsupplieslight": "Lanterna",
         "runsetstartingsuppliesfull": "Kit completo",
+        "runsetenemystrength": "Força dos inimigos",
+        "runsetenemystrengthdsc": "Multiplicador de quanto dano a fauna hostil causa",
         "runsetxpgain": "Ganho de experiência",
         "runsetxpgaindsc": "Multiplicador do ganho de experiência",
         "runsetmetabolismrate": "Taxa do metabolismo",
-        "runsetmetabolismratedsc": "O quão rápido sua sede/fome/peso/enjoo passa.",
+        "runsetmetabolismratedsc": "O quão rápido sua sede/fome/peso/enjoo passa",
         "runsethealingrate": "Taxa de regeneração",
         "runsethealingratedsc": "O quão rápido seus ferimentos se recuperam. Afeta regeneração do músculo/pele , coagulação, regeneração sanguínea, fraturas, deslocamento e danos cerebrais",
         "runsetfracturepain": "Taxa de dor por fratura",
@@ -1460,6 +1552,8 @@
         "runsetstaminaregendsc": "O quão rápido sua estâmina regenera após ser usada",
         "runsetattackdamage": "Dano de ataque",
         "runsetattackdamagedsc": "O quanto de dano você causa com seus ataques",
+        "runsetinsulationmultiplier": "Multiplicador de isolamento",
+        "runsetinsulationmultiplierdsc": "O quão protegido você está da temperatura ambiente",
         "runsetstrokes": "Habilitar derrames",
         "runsetstrokesdsc": "Determina se você pode ou não ter um AVC durante uma crise hipertensiva",
         "runsetbraindamagefx": "Efeitos de dano cerebral",
@@ -1550,6 +1644,8 @@
         "gamesetfilmgraindsc": "O quão visível você quer que o filtro de granulação/chuvisco/formigamento seja",
         "gamesetbrightness": "Brilho",
         "gamesetbrightnessdsc": "O quão visível você quer que o filtro de granulação/chuvisco/formigamento seja",
+        "gamesetquantizesteps": "Quantização de cores",
+        "gamesetquantizestepsdsc": "A quantidade de cores que terá na tela. Valores baixos reduzem as cores disponíveis",
         "gamesetlineofsightcount": "Resolução da linha de visão",
         "gamesetlineofsightcountdsc": "O quão detalhada são as sombras da sua linha de visão, quando visíveis. Valores altos podem piorar a performance",
         "gamesetscreenshake": "Chacoalhar de tela",
@@ -1608,6 +1704,8 @@
         "gamesetbark": "Latir",
         "gamesetconsole": "Ativar console debug",
         "gamesetpause": "Pausar",
+        "gamesetmarksmanrack": "(Somente Atirador) Acionar ferrolho",
+        "gamesetmarksmanunload": "(Somente Atirador) Ejetar carregador",
         "copy": "Copiar",
         "paste": "Colar",
         "descend": "Descender",
@@ -1653,7 +1751,7 @@
         "amputationMinigameGuide": "Corte através do membro para amputá-lo. Lembre-se de estancar o sangramento depois.",
         "aedMinigameGuide": "Siga as instruções mostradas.",
         "manualDefibMinigameGuide": "Equilibre a carga elétrica proporcional ao quão grave for a fibrilação do coração, carregue e então de o choque. Repita se necessário. \nA média recomendada de carga (POW.EST) fica mais precisa quanto maior a INT.",
-        "handCrankMinigameGuide": "Agarre a alavaca e gire-a para carregar.",
+        "handCrankMinigameGuide": "Agarre e gire a alavaca para carregar.",
  		"aedstate0": "Posicione os eletrodos nos locais indicados.",
         "aedstate1": "Analisando pulso",
         "aedstate2": "Choque recomendado.\nPressione o botão para administrar choque.",
@@ -1665,7 +1763,6 @@
         "saveexitdsc": "Salvar progresso e fazer uma pausa.\nA expedição será retomada no começo da próxima camada.",
         "savecontinue": "Continuar",
         "savecontinuedsc": "Continue sua expedição.\nVocê só pode salvar e retomar a expedição durante transições de camada. Morrer ou sair do jogo durante uma camada apagará o progresso.",
-		"savecontinuemenudsc": "Continue uma expedição em andamento.\n\nAVISO: Morrer ou sair durante o progresso da camada apagará seu progresso.",
         "carryingtip": "Sobrecarga",
         "tradergivebuttontip": "Arraste items aqui para entregar ao negociador",
         "drainliquid": "Drenar líquido",
@@ -1715,7 +1812,7 @@
         "craftinfocondition": "Condição: ",
         "craftinfovolume": "Volume: ",
         "craftinfoamount": "Quantidade: ",
-        "craftinfoint": "INT necessaria: <1> (<2>)",
+        "craftinfoint": "INT necessária: <1> (<2>)",
         "craftminorfail": "50% de chance de falhar levemente",
         "craftmajorfail": "50% de chance de falha extrema",
         "craftcriticalfail": "50% de chance de falhar catastróficamente",
@@ -1777,8 +1874,11 @@
         "basicscourse": "Treinamento Básico ",
         "firstaidcourse": "Curso de Primeiros Socorros", 
         "craftingcourse": "Curso de Criações",
-        "firstaidcourseunlock": "Alcance a segunda camada para desbloquear ",
-        "craftingcourseunlock": "Alcance a terceira camada para desbloquear ",
+        "movementcourse": "Curso de Movimento",
+        "firstaidcourseunlock": "Alcance a segunda camada para desbloquear",
+        "craftingcourseunlock": "Alcance a terceira camada para desbloquear",
+        "movementcourseunlock": "Alcance a terceira camada para desbloquear",
+        "tutorialspecieslock": "Somente realizável com a espécie Experimento",
         "sandbox": "Ambiente de Testes",
         "escapecourse": "ALERTA: TENTATIVA DE FUGA MENOR",
         "escapecourse1": "Você aparenta estar tentando fugir. Por favor mantenha a calma enquanto nossos seguranças vem lhe ajudar.",
@@ -1835,6 +1935,7 @@
         "hplimbforce": "Força do membro",
         "hplimbforcedsc": "A capacidade total do membro mover e exercer força.",
         "hpopiate": "Quantidade de opioides",
+        "hpvenom": "Quantidade de veneno",
         "settings": "Opções",
         "credits": "Créditos",
         "layer": "Camada",
@@ -1866,6 +1967,9 @@
         "open": "Abrir",
 		"insertbattery": "Inserir bateria da mão principal",
         "lockpick": "Arrombar",
+        "finaltravel": "Travar cinto e viajar",
+        "lookcloser": "Olhar de perto",
+        "examine": "Examinar",
         "learnedrecipe": "Aprendeu receita para r1.\nGanhou <color=\"green\">25 XP de INT.",
 		"epdalearn": "Ganhou <color=\"green\">35 exp de INT.",
         "hasbattery": "Com bateria (<>)\n<sprite index=17 tint=1>Utilize uma ferramenta para remover a bateria.",
@@ -1925,13 +2029,17 @@
         "free": "<color=\"orange\">GRÁTIS!",
         "endscreenstatus": "MSN-RELATÓRIO DE ESTADO DO DISPOSITIVO",
         "endscreenunresolved": "PENDENTE",
+        "endscreenresolved": "ADQUIRIDO",
+        "endscreenfailure": "FALHA CATASTRÓFICA",
         "endscreencasualties": "VÍTIMAS:",
         "endscreenunknown": "DESCONHECIDAS",
         "endscreenphysical": "ESTADO FÍSICO:",
         "endscreendeceased": "FALECIDO",
+        "endscreenexamination": "VIVO, SOB EXAMINAÇÃO",
         "endscreenmental": "ÚLTIMO ESTADO MENTAL GRAVADO:",
         "endscreendepth": "PROFUNDIDADE:",
         "endscreendepthres": " METROS EM ",
+        "endscreentime": "TEMPO:",
         "endscreencalories": "CALORIAS:",
         "endscreenmainmenu": "RETORNAR AO MENU",
         "endscreenclipboard": "COPIAR INFORMAÇÃO",
@@ -2150,6 +2258,11 @@
         "tutclosehealthpanel": "Fechar painel de saúde.",
         "tutopenhealthpanel": "Abrir painel de saúde.",
         "tutnice": "Bom.",
+        "outdatedwarning": "<size=200%>EI!<size=100%>\nA linguagem selecionada está desatualizada. Pode ter texto quebrado.\nTente selecionar o inglês ou procure uma versão nova.\n\nA versão mais recente desta tradução pode ser encontrada no \"fork\" pt-BR dentro do GitHub do jogo, se os tradutores quiseram trabalhar. Qualquer duvida/problema/critica, envie mensagem no \"tópico\" BR do servidor oficial do jogo.",
+        "surfacebreachnote": "<spoiler>",
+        "labenternote": "<spoiler>",
+        "biopodnote": "<spoiler>",
+        "biopodnotealt": "<spoiler>",
         "startlorenote": "Ano 2XXX \n<>\nA humanidade havia realizado avanços tecnológicos significantes. Coisas que pareciam impossíveis se tornaram triviais.\n<>\nNo centro disso tudo, uma companhia. Suas pesquisas e progressos evoluindo quase como um milagre, mas com seus segredos firmemente guardados.\n<>\nAnos atras eles desenvolveram uma nova espécie ao combinar DNA animal e humano, essa espécie foi apelidada de:\"Experimento.\"\n<>\nEstes experimentos se tornaram a cobaia perfeita para suas pesquisas, semelhantes o suficiente a humanos, mas de sua autoria para usar da forma que desejassem. Trabalhavam sem descanso em sua criação, distorcendo cada vez mais sua biologia para satisfazer suas necessidades e pesquisas, ao passar dos anos a população dessas criaturas só crescia. \n\nCriaturas que jamais poderiam acessar o mundo exterior. \n<>\nCom o tempo a Terra não pode conter mais suas ambições. Utilizando tecnologia de teletransporte recém desenvolvida eles fazem de um planeta cinza, vibrando com vida, o seu próximo alvo. \n<>\nSem demora, diversos tipos diferentes de carga e lixo foram destinados ao alvo. \n<>\nDevido a dificuldades de calibração, uma parte da carga acabou sendo enviada para o sistema de cavernas do planeta e outra para a superfície, contudo o projeto progrediu sem problemas. \n<>\nIsso é, até um erro desconhecido enviar um pedaço de tecnologia importante para o fundo do sistema de cavernas.\n<>\nSem demora, cientistas desenvolveram um plano. Um plano que não os colocava em uma posição de risco.\n<>\nAs chances de sucesso eram mínimas, mas seu estoque vivo era abundante.\n<>\nVocê é um desses espécime desafortunados.\nResistencia não é uma opção."
     },
     "character": [
@@ -2894,7 +3007,7 @@
                 "Isso vai... p-puta merda... Ééaaahhh... Isso basta... Haha",
                 "T-toma... toma essa... seu merda... Agora vai doer bem...",
                 "Você merece isso... Haha... Isso dói bem...",
-                "AAHHAHA!! Agora sim... Agora sim. Hahaha... Dói...",
+                "AAHHAHA!! Agira sim... Agora sim. Hahaha... Dói...",
                 "Hahah... assim é melhor... é sim... muito melhor...",
                 "Aaquii vamos nós... Doendo gostoso...",
                 "Hehhehheh... que dor fodida... dor legal...",
@@ -3655,7 +3768,8 @@
             "drillend": [
                 "...Demorou um pouco.",
                 "Essa coisa não era isolada contra som.",
-                "Foi um passeio bem longo..."
+                "Foi um passeio bem longo...",
+                "Oh..? É só isso?"
             ],
             "loud": [
                 "PORRA! Isso foi alto...",
@@ -3914,6 +4028,21 @@
                 "...Ah... AH. AH NÃO! NÃO NÃO NÃO. ESPERA. POR QUE? O QUE FOI QUE EU FIZ!?",
                 "...A-ah... T-tá bom então... B-bem... A-adeus, eu acho..."
             ],
+                    "endlessloop0": [
+                        "...Www-wh...what..? What? Why? What just... Why am I back here..? Hnn... What just happened..."
+                    ], 
+                    "endlessloop1": [
+                        "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+                    ],
+                    "endlessloop2": [
+                        "<spoiler>"
+                    ], 
+                    "endlessloop3": [
+                        "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+                    ],
+                    "endlessloopdefault": [
+                        "Oh, round and round we go..."
+            ],  
             "vomitresponse": [
                 "Uuuhmm... Cê tá... Bem..?"
             ],
@@ -3968,6 +4097,760 @@
             ]
         },
         {
+            "seeGravel": [
+                "Parece que cheguei.",
+                "Novas terras.",
+                "Contagem para pousar: Zero horas, zero minutos, e agora... zero segundos.",
+                "Quão novo. Hora de partir, então.",
+                "Não tão longe do que imaginei durante o treinamento.",
+                "Preciso seguir racional.",
+                "Peculiar.",
+                "Fascinante, no mínimo.",
+                "Uma mudança de ritmo.",
+                "Parece estar escuro aqui.",
+                "Novo ambiente. Curioso."
+            ],
+            "eatGood": [
+                "Agradável.",
+                "Isto é adequado.",
+                "Bom.",
+                "Os perfis de sabor são suficientemente agradáveis.",
+                "Indulgir não machuca.",
+                "Um limpador de paladar preferível.",
+                "Isso será suficiente.."
+            ],
+            "eatMediocre": [
+                "Insatisfatório.",
+                "Essa é mesmo a melhor opção?",
+                "Basicamente tão empolgante quanto ver tinta secar.",
+                "Quão meia-boca...",
+                "É suficiente para calorias.",
+                "Não é lá muito inspirador.",
+                "Necessário para minhas funções corporais.",
+                "É... aceitável.",
+                "Comestível.",
+                "Se sustenta meu corpo...",
+                "Isso pelo menos deve me manter em pé."
+            ],
+            "eatBad": [
+                "Que gosto horrível. Nunca mais.",
+                "Eca.",
+                "Repulsivo.",
+                "Terrível.",
+                "Apenas levemente preferível à desnutrição.",
+                "Meu apetite está arruinado.",
+                "...se for preciso.",
+                "Meu paladar não gostou disso.",
+                "Não foi a melhor decisão culinária.",
+                "Isso me fará passar mal."
+            ],
+            "refuseEat": [
+                "Me recuso a entreter esta linha de raciocínio.",
+                "Coisa de insetos. Não.",
+                "Eu preferia morrer de fome.",
+                "Me recuso.",
+                "Já vi pedras mais apetitosas do que isto.",
+                "Eu preferiria engasgar na minha própria saliva.",
+                "Eu nem consigo processar isto.",
+                "Isto não é comestível."
+            ],
+            "tired": [
+                "A hora de descansar se aproxima depressa.",
+                "Uma soneca me manterá em alerta.",
+                "Meu corpo requer descanso.",
+                "Reservas de energia estão esgotando.",
+                "Uma pequena pausa é ideal para performance.",
+                "Sinto-me tornando mais fatigado. É hora de uma pausa.",
+                "Descansar me fará bem.",
+                "Não consigo desempenhar com este cansaço. Preciso de uma pausa.",
+                "Preciso de um local adequado para descansar.",
+                "Minha consciência logo se esgotará.",
+                "Preciso de um lugar de descanso.",
+                "É importante encontrar um abrigo para descansar."
+            ],
+            "verytired": [
+                "Estou... Logo a desabar... De cansaço...",
+                "Achar... Algum lugar seguro... Para desabar..",
+                "Consciência... derivando..",
+                "Preciso... deitar-me por um momento...",
+                "Dormir... Agora...",
+                "Reservas de energia... baixas..",
+                "Caindo no sono...",
+                "Não posso... Seguir em frente... Dormir...",
+                "Perdendo equilíbrio...",
+                "Eu vou colapsar..."
+            ],
+            "confused": [
+                "Sinto-me tonto..",
+                "Meus olhos estão tendo problemas em focar...",
+                "Desprezo esta confusão.",
+                "Desorientação desnecessária.",
+                "Preciso focar...",
+                "Minha mente está cheia de estática.",
+                "Não consigo pensar claramente.",
+                "Minha mente não esta desempenhando",
+                "O quê..?"
+            ],
+            "wakeup": [
+                "Acordo.",
+                "Olá, mundo.",
+                "Levanto.",
+                "De novo.",
+                "E agora.",
+                "Hora de acordar.",
+                "De volta aos pés.",
+                "Bem acordado.",
+                "A névoa mental se dissipa.",
+                "Me descansei."
+            ],
+            "sick": [
+                "Estou passando mal.",
+                "Meu estômago está inquieto.",
+                "Não passo bem.",
+                "Meu corpo aparenta estar enojado.",
+                "Algo no meu estômago não correu bem.",
+                "Aparenta que estou passando mal.",
+                "Parece que meu corpo está combatendo toxinas."
+            ],
+            "verysick": [
+                "Vou... expelir... conteúdo estomacal...",
+                "Passando mal demais... Para funcionar.",
+                "Meu corpo... me trai...",
+                "Preciso expelir.. toxinas...",
+                "Meu estômago... está lutando contra mim...",
+                "Devo... Regurgitar...",
+                "Está chegando perto..."
+            ],
+            "vomit": [
+                "Ghh... *cof* ...Vamos só continuar.",
+                "O que anteriormente era janta agora jaz no chão logo abaixo.",
+                "Eca... que desperdício de sustento.",
+                "Ainda sinto... o gosto do vômito..",
+                "Ugh...",
+                "Não satisfatório.",
+                "Nutrientes desperdiçados."
+            ],
+            "vomitblood": [
+                "Gghh... I-Isso indica sangramento interno.",
+                "Hacck... Sangue. Sangrando. Dentro.",
+                "Uugh... Preciso.. de tratamento.",
+                "Meu vômito... *cof* ...tem gosto de metal.",
+                "P-Parece que... Eu regurgitei sangue..",
+                "Não ideal.",
+                "Ghck... Um sinal de uma condição subjacente."
+            ],
+            "full": [
+                "Estou totalmente saciado.",
+                "Não necessito de mais sustento por enquanto.",
+                "Isto me manterá em pé por um tempo.",
+                "Minha ingestão calórica está suficiente..",
+                "Adequadamente alimentado.",
+                "Isso está bem acima da norma calórica."
+            ],
+            "hungry": [
+                "Necessito de sustento.",
+                "Estou com fome.",
+                "Parece que necessito de nutrição.",
+                "Estou salivando.",
+                "Preciso de nutrientes.",
+                "Preciso obter ingestão energética.",
+                "Comida requerida."
+            ],
+            "starving": [
+                "Preciso urgentemente de sustento...",
+                "Esta é uma dolorosa, e ardente fome.",
+                "Preciso focar...",
+                "Estômago... Chora...",
+                "Inanição iminente...",
+                "Sustento...Necessário...",
+                "A comida é crítica para sobrevivência."
+            ],
+            "thirsty": [
+                "Necessito de hidratação.",
+                "Deveria consumir água.",
+                "Hidratação seria ideal.",
+                "Minha garganta se sente incomumente seca. Veredito: Hidratação deficiente.",
+                "Seria sensato preparar a água do dia com antecedência.",
+                "Preciso de água.",
+                "Água requerida."
+            ],
+            "dehydrated": [
+                "Estou com bastante desidratação.",
+                "Estou ficando perigosamente seco por dentro.",
+                "Não é hora de racionar água...",
+                "Acredito que o conteúdo de água do meu corpo... está esgotado.",
+                "Preciso... Repor... Líquidos...",
+                "Situação exige... hidratação...",
+                "Desidratação...",
+                "Urgentemente... Água.",
+                "Dessecação é... uma forma patética... de morrer...",
+                "Ingestão de líquidos é crucial para sobrevivência contínua..."
+            ],
+            "limbmuscle": [
+                "<limb> está em um estado imóvel.",
+                "Hrrr... Hmmh... Estou incapaz de usar <limb>.",
+                "Preciso cuidar de <limb>.",
+                "Não consigo utilizar <limb>.",
+                "<limb> está formigando.",
+                "Machuquei <limb> seriamente.",
+                "Devo tomar melhor cuidado com mim mesmo.",
+                "Devo acudir <limb>."
+            ],
+            "limbinfected": [
+                "<limb> aparenta abrigar uma infecção.",
+                "<limb> ficou preocupantemente inchado.",
+                "<limb> requer desinfecção urgente.",
+                "A lesão em <limb> cresce.",
+                "Vejo infeccção em <limb>.",
+                "Peguei uma doença.",
+                "<limb> está inchado.",
+                "<limb> está infectado.",
+                "<limb> está virando uma cor preocupante.",
+                "Manchas tão estranhas estão visíveis em <limb>.",
+                "Infectado."
+            ],
+            "limbskin": [
+                "Tenho várias feridas abertas em <limb>.",
+                "<limb> tem muitas lacerações.",
+                "<limb> sofreu muito dano.",
+                "Tenho uma ferida em <limb>.",
+                "Tenho ferimentos.",
+                "<limb> tem ferimentos.",
+                "Estou coberto em sangue.",
+                "Posso ver a carne em <limb>.",
+                "Carne exposta está presente meu corpo."
+            ],
+            "sad": [
+                "Vamos indo logo.",
+                "Tenho algumas preocupações enquanto a este predicamento.",
+                "Poderia ser pior.",
+                "Devo seguir em frente.",
+                "Já passei por muito pior.",
+                "Hm.",
+                "Hmmm.",
+                "Mm.",
+                "Que dia interessante.",
+                "Este ambiente promove o isolamento social.",
+                "Respire.",
+                "Tudo está correndo bem.",
+                "Quão ótimo.",
+                "Hoje é meu dia de sorte."
+            ],
+            "gloomy": [
+                "Minha sorte está acabando.",
+                "Preciso manter a cabeça erguida.",
+                "Este não é meu dia de sorte.",
+                "Estou com medo.",
+                "Estou ficando cansado destes joguinhos.",
+                "Um predicamento complicado.",
+                "Uma situação deteriorando rapidamente.",
+                "Devo melhorar isto.",
+                "Minha paciência está sendo testada.",
+                "Descontente.",
+                "Não posso desistir de meu objetivo.",
+                "Requeiro entretenimento...",
+                "Moral baixa.",
+                "Que destino solitário.",
+                "H-hhnnmm...",
+                "Huh.",
+                "Pensando neste predicamento...",
+                "Siga em frente.",
+                "Apenas siga em frente.",
+                "Acredito que antidepressivos ajudariam na minha situação.",
+                "Requeiro ajuda. Parece que superestimei minha resiliência."
+            ],
+            "depressed": [
+                "Está... Ficando... Cada vez mais árduo... Continuar com compostura.",
+                "..................",
+                "Lutando para aguentar este mau-trato.",
+                "Uma punição tão cruel e injusta.",
+                "Dificuldades em ver algum sentido.",
+                "Desejo que tudo isso pare.",
+                "Desejo por algo que alivie o meu desconforto.",
+                "Sofrendo.",
+                "Moral perigosamente baixa.",
+                "...Quão patético, não pareço?",
+                "...Ajuda...",
+                "Cruel.",
+                "Fui enviado para minha morte.",
+                "Os de casaco pagarão por esse mau-trato.",
+                "Estas cavernas estão me despedaçando.",
+                "Hhn..Hnnghh..Hnnghhhggaaaahhrhh...",
+                "Hhnnhh..Aaahahahahhh...Gngnhh...",
+                "Está se mostrando difícil manter esta fachada.",
+                "Me sinto terrível.",
+                "Não estou bem mentalmente.",
+                "Não creio que conseguirei chegar até o objetivo.",
+                "Minhas chances de sobrevivência estão cada vez menores.",
+                "Eis a minha vida agora."
+            ],
+            "miserable": [
+                "...Por favor, por favor, eu desejo que um poder superior me salve.",
+                "Haaahh... Hahaha.... Ahhh-ahaha-haaa...",
+                "Não adianta. Não adianta.",
+                "Estou além de todos os limites razoáveis.",
+                "Chegando. Perto.",
+                "CHEGA!!!",
+                "POR QUÊ!??",
+                "AAAGGHHHHHHH!!!! AAAAHHHHHHHHH!!!!!",
+                "...Me mata.",
+                "As chances de eu sair vivo são nulas.",
+                "Eu falhei.",
+                "Pagarei com a vida por esta falha.",
+                "Os de casaco não sairão impunes disto.",
+                "Sou patético demais para me sair bem.",
+                "Nada mais que um saco de carne de sangue e ossos...",
+                "Uma piada tão sem graça e cruel...",
+                "Faça parar...",
+                "Desisto.",
+                "Ammmááááveel. Amável.",
+                "Logo logo tudo acabará.",
+                "Pereci no momento que aterrissei.",
+                "Estava incorreto... Não irei conseguir.",
+                "Isso que eu ganho."
+            ],
+            "angeronitem": [
+                "NGH! Hmmh... Realmente fiquei um pouco melhor",
+                "GHH! ...Isso foi... Surpreendentemente bom."
+            ],
+            "suicide": [
+                "Não. Aguento. Mais. Chega.",
+                "AAAAAAAAHHHHHHHHHHHHHHHHHH!!!!! AAAAAAAAGGGGGHHHHHHHHHHHHHHHHHHHHHH!!!!!!! POOOOOOOR QUUUUÊÊÊÊÊÊÊÊ!!!???",
+                "Já chega. Já deu.",
+                "Que se foda isso.",
+                "...",
+                "Peço desculpas."
+            ],
+            "refuse": [
+                "...",
+                "...Hm.",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Realmente...",
+                "Hmm...",
+                "...Calma."
+            ],
+            "bleeding": [
+                "Sangue está deixando meu corpo. Ele não deveria estar fazendo isto.",
+                "Devo estancar este sangramento.",
+                "Preciso cauterizar este ferimento.",
+                "Este ferimento requer atenção urgente.",
+                "Estou perdendo sangue",
+                "Um tom de amarelo tão bonito.",
+                "Não! Feio! Fique dentro, sangue!",
+                "Requeiro bandagens.",
+                "Isto é sangue, vazando do meu corpo.",
+                "Estou sangrando.",
+                "Necessito de assistência.",
+                "Sangue está deixando meu corpo a uma taxa preocupante."
+            ],
+            "bleedingheavy": [
+                "Hh... hmm. Hhhmh... I-isso é ruim. Devo c-consertar isto. Rápido.",
+                "Foque. Foque. Foque. Foque. Foque.",
+                "Sangramento catastrófica presente.",
+                "(Sem pânico...)",
+                "Hnnhhh... Hhnm...",
+                "(Isto é ruim.),",
+                "AJUDA!!",
+                "Quão I-Incrível.",
+                "Não há ninguém para consertar isto além de mim mesmo.",
+                "Eu sou o único que pode me salvar.",
+                "Devo estancar este vazamento, RÁPIDO!",
+                "Ghh... Isto não é ideal.",
+                "Mau... Mau. Mau!",
+                "Uma visão tão a-aterradora...",
+                "Estou pintando as paredes de amarelo.",
+                "Minha visão se apaga aos poucos."
+            ],
+            "steponglass": [
+                "I am terribly dissapointed in my carelessness.",
+                "There were a thousand ways to prevent this from happening, yet still a shard of glass has found its way into my paw.",
+                "Ow.",
+                "That was a miscalculation on my end.",
+                "Why the hell would they not temper the windows?",
+                "Shards of glass in my feet.",
+                "I must clean up the shards."
+            ],
+            "seecorpse": [
+                "Melhor você do que eu.",
+                "...Hmh.",
+                "Esta é uma cena preocupante.",
+                "...Talvez RCP ajude.",
+                "Este aqui está... Hã.",
+                "Que azar.",
+                "Não é uma cena boa.",
+                "Que cena mais triste.",
+                "Desmotivante.",
+                "*franze*",
+                "*suspiro*",
+                "Não deveria encostar.",
+                "Talvez tenha deixado algo para eu usar.",
+                "Sem pulso.",
+                "Não está respirando.",
+                "Hhnh...",
+                "Chateante.",
+                "Droga.",
+                "Ugh, seu imbecil idiota! Como você pôde morrer!? Por quê?",
+                "Isto é um corpo.",
+                "...",
+                "Nada legal."
+            ],
+            "seecorpsedesensitized": [
+                "Um novo amigo.",
+                "Há tantos aqui embaixo. Isso é totalmente inaceitável. Irei falar disto com meus superiores.",
+                "Saque.",
+                "RCP não ajudará aqui.",
+                "Uou, olha, outro.",
+                "Que espécime azarado.",
+                "Que novidade... Mais um.",
+                "Pobre coitado.",
+                "Não vai precisar disso. Não mais",
+                "Achado não é roubado.",
+                "Minhoca.",
+                "E mais um.",
+                "Lá se vai mais um.",
+                "Imagino que isto deve ter machucado.",
+                "É lamentável que eu não os contei.",
+                "Este não gostou da estadia.",
+                "Estou pensando em funerais.",
+                "Você tem alguma coisa?",
+                "Olá! Podemos trocar?",
+                "Devo seguir em frente.",
+                "A cena é entediante.",
+                "Saudações.",
+                "Quanta generosidade você tem.",
+                "Posso fazer melhor uso deste ar.",
+                "Quão insalubre.",
+                "Que falta de respeito da sua parte perecer.",
+                "Fracote.",
+                "*revirando os olhos*"
+            ],
+            "seecorpsesuicidal": [
+                "Não olhe. Não olhe...",
+                "Você faz um belo argumento.",
+                "Nem pense sobre...",
+                "Sortudo...",
+                "Te invejo.",
+                "Hh... Haha...",
+                "Nhhh... Hmmhh... Amigo...",
+                "B-besta."
+            ],
+            "breakcorpse": [
+                "Que ato mais terrível e repugnante que acabo de fazer.",
+                "Tenho dificuldade em encontrar um propósito no que acabei de fazer.",
+                "Eca. Eca, Eca, eca eca, Eca.",
+                "Acho que um pouco caiu no meu olho.",
+                "Isto foi desnecessário.",
+                "Uou. Quão repugnante de mim."
+            ],
+            "cold": [
+                "Frio.",
+                "Minha temperatura corporal está abaixo da média.",
+                "A temperatura ambiente está abaixo do normal.",
+                "*treme*",
+                "Estou com frio.",
+                "Posso entrar em estado hipotérmico se isso continuar.",
+                "Não sinto calor no meu corpo.",
+                "Devo permanecer em uma temperatura confortável.",
+                "Está levemente frio nesta área."
+            ],
+            "warm": [
+                "Quente.",
+                "Minha temperatura corporal está acima da média.",
+                "Estou suando.",
+                "Devo me esfriar.",
+                "Uma bolsa de gelo seria útil.",
+                "Estou quente demais para comforto.",
+                "Estou quente.",
+                "Está levemente quente.",
+                "A temperatura ambiente está alta."
+            ],
+            "hot": [
+                "Estou bem quente.",
+                "...Quente. Muito. Quente.",
+                "Posso acabar sofrendo insolação a este rítmo...",
+                "Estou perigosamente hipertérmico...",
+                "Insolação... Chegando.",
+                "Está problemático focar em tanto calor.",
+                "Perigosamente quente...",
+                "Suar é insuficiente para corrigir isto...",
+                "Calor atordoante.",
+                "Estou suando em bicas."
+            ],
+            "exerted": [
+                "Preferia descansar",
+                "Um exercício saudável",
+                "Não me encaixo para trabalho físico.",
+                "Isto é cansativo.",
+                "Deveria parar",
+                "Uma pausa seria preferível.",
+                "Tanto trabalho físico.",
+                "Exercido.",
+                "Foco."
+            ],
+            "exhausted": [
+                "Exausto...",
+                "Huff... Huff... Puff...",
+                "Requeiro... Descanso...",
+                "Estou... Completamente exercido...",
+                "Preciso... Respirar...",
+                "Drenado...",
+                "Está... Difícil... respirar...",
+                "*cof* *cof*",
+                "Meus musculoss... Estão... Cedendo...",
+                "Foco..."
+            ],
+            "freezing": [
+                "Estou perigosamente hipotérmico.",
+                "Devo me aquecer, rapidamente.",
+                "Meu sangue está congelando.",
+                "Uma fonte de calor é necessária...",
+                "Estou tremendo.",
+                "Preciso chegar em algum calor, agora.",
+                "Estou congelando.",
+                "Frio excessivo. Isto dói.",
+                "Um frio tão entorpecente...",
+                "Não sinto minhas extremidades."
+            ],
+            "emaciated": [
+                "Minha figura está perigosamente frágil.",
+                "Corro risco de falha cardíaca. Preciso aumentar minha massa corporal.",
+                "Estou extremamente desnutrido.",
+                "Devo ajustar minha dieta"
+            ],
+            "obese": [
+                "Eu deveria fazer jejum.",
+                "...Estou grande.",
+                "Preciso reduzir minha massa corporal antes que se torne fatal.",
+                "Minha circunferência está se mostrando um problema.",
+                "Estou pesando."
+            ],
+            "opiated": [
+                "Estou sob a influência de uma substância à base de opiáceos.",
+                "Mm...Mmmmmm...Tonto.",
+                "Isso sente... Bem. Legal.",
+                "Suficiente...",
+                "Uma sensação tão formigante.",
+                "Está difícil focar, e ainda assim desfruto disso.",
+                "Tô gostando disso.",
+                "Há substâncias depressoras no meu sistema.",
+                "Meus pulmões pesam."
+            ],
+            "opiatedsad": [
+                "Uma sensação agradável, e passageira...",
+                "...Finalmente posso relaxar.",
+                "Me sinto leve...",
+                "Isto é melhor."
+            ],
+            "opiatewithdrawal": [
+                "R-Requeiro outra dose de ópio, urgentemente.",
+                "E-Estou apresentando sintomas de a-abstinência.",
+                "Minhas m-mãos estão tr-trêmulas.",
+                "A-Abstinênc-cia.",
+                "R-Requeiro mais opioides.",
+                "Tremo."
+            ],
+            "cantBreathe": [
+                "*cof* *ack*",
+                "Hnnh... Nggh... A-ajuda... N-não consigo...",
+                "*arf*",
+                "V-vou... des... maiar...",
+                "Não consigo... *cof* *hack*",
+                "Ajuda- Ack! Cof!",
+                "S-sufocando... *cof*",
+                "Estou incapaz de respirar."
+            ],
+            "pain": [
+                "Estou em dor.",
+                "Ai.",
+                "<limb> está mandando sinais de dor.",
+                "Dor.",
+                "Sinto descomforto ao redor de <limb>.",
+                "<limb> está em dor.",
+                "Isso dói",
+                "<limb> dói.",
+                "Estímulo de dor presente.",
+                "Bosta",
+                "Ai...",
+                "*suspiro*",
+                "Sensação desprazerosa em <limb>."
+            ],
+            "hitgroundhard": [
+                "Auh!",
+                "Ack!",
+                "Hnnnh!",
+                "...!",
+                "Gnh!",
+                "Ops."
+            ],
+            "bigpain": [
+                "NNNHH...",
+                ".....NGHH....",
+                "...A-Agon-nia...",
+                "N...Nhhh...Ghhh...",
+                "H..Mhhh...Hhh..H-hel-p..!",
+                "Grrrh...",
+                "PARA!!",
+                "CESSE!",
+                "PORRA!!",
+                "Nhhggggghhh... Urrgghh...",
+                "Hgnnhh.... Ggrrrhh...",
+                "Aagghhrhhgg... Ngghrhhhgh... Grhh...",
+                "Ggrrhhhnnnh...",
+                "Gnnhghhaagghhh!",
+                "Nhgh... Hgh...",
+                "NNGGHHH...!!!"
+            ],
+            "fallscream": [
+                "..!",
+                "Hhhh!",
+                "Ahh!",
+                "Uou.",
+                "Hã.",
+                "Isso não pode ser bom."
+            ],
+            "hitbycreature": [
+                "Maldita criatura!!",
+                "AGH! Você!",
+                "Hngh! Pare!",
+                "*!!*",
+                "Hhhnn! Não vai não!",
+                "Filho da...!",
+                "Irritante!"
+            ],
+            "wet": [
+                "Meu pelo tem um alto teor de água.",
+                "Eu sou o ser úmido.",
+                "Estou molhado.",
+                "Há uma sensação desconfortável pelo meu corpo.",
+                "Meu pelo se tornou molhado.",
+                "Acumulou-se umidade sobre mim.",
+                "Eu acumulei umidade na superfície do meu corpo.",
+                "Estou encharcado.",
+                "Por favor remova este fluido da superfície do meu corpo.",
+                "Estou coberto em líquido."
+            ],
+            "dirty": [
+                "Preciso me limpar para evitar complicações.",
+                "Estou imundo. Não gosto de me ver nesse estado.",
+                "Que nojo. Estou sujo. Não deveria aparecer diante de outros assim.",
+                "Preciso tirar essa sujeira de mim.",
+                "Higiene não ideal.",
+                "Pareço estar coberto de sujeira.",
+                "Gostaria de usar um chuveiro.",
+                "Seria ideal tomar um banho.",
+                "Isso não deve ser higiênico.",
+                "Meu pelo está coberto de terra."
+            ],
+            "encumbered": [
+                "Minhas capacidades físicas limitadas estão se mostrando.",
+                "Estamos fazendo trilha? Por que estou carregando tanta coisa?",
+                "Tenho certeza de que estes itens serão úteis em alcançar meu objetivo... No entanto, eles são pesados.",
+                "Esta carga é muito pesada.",
+                "Não deveria carregar tanto assim.",
+                "Estou carregando muito.",
+                "Uma carga bem pesada em mim.",
+                "Minha coluna não está gostando disso.",
+                "Pareço estar um pouco sobrecarregado."
+            ],
+            "watchlike": [
+                "Está zumbindo no meu ouvido assim como os experimentos fazem. Acho encantador."
+            ],
+            "drillend": [
+                "Desço cada vez mais perto do objetivo.",
+                "Posso ter sofrido uma leve perda auditiva por causa disso.",
+                "Preciso ter cuidado agora. Esta é uma área nova e desconhecida.",
+                "Este é um bom método de transportação."
+            ],
+            "loud": [
+                "Hnnng! Hmhn... Devo evitar exposição repetida à barulhos tão altos...",
+                "AAHHHHH!!!  ...Eu não deveria ter gritado por conta de um acontecimento tão insignificante.",
+                "!.......",
+                "...Meus ouvidos."
+            ],
+            "murderregret": [
+                "....H..Hah... Haha... Ha... Hahaha... Ahhahaha.... Hahhh... H-h..a...",
+                "Eu sou um monstro irredímivel. Que vergonha.",
+                "Sinto... Muito.",
+                "Eu não... Queria..."
+            ],
+            "tradeemeet": [
+                "Saudações.",
+                "Olá.",
+                "Bu.",
+                "Prazer em te conhecer.",
+                "Oi.",
+                "Saudações para você."
+            ],
+            "swingresponse": [
+                "CHEGA. DISSO!",
+                "PARA!",
+                "IMBECIL!",
+                "TROGLODITA!",
+                "PARA DE RESISTIR!",
+                "SÓ MORRE LOGO!",
+                "DESISTE!"
+            ],
+            "braindamaged": [
+                "...Algo está errado.",
+                "Gosto... Metálico. Implica que... Hmh...",
+                "Axun si mi vi zi othokent xiekiv si hefoc kemic.",
+                "O vitral apresentava fragmentos de amarelo, laranja e vermelho.",
+                "O nada vê o sol.",
+                "Gasolina atira em abacaxis com uma metralhadora.",
+                "A luz no fim do túnel tem seu mundo abalado por árvores.",
+                "Tem algum problema no meu crânio",
+                "Tem um gosto metálico na minha boca",
+                "Minha cabeça se sente estranha.",
+                "Estou quebrado.",
+                "Que Mario...?"
+            ],
+            "lastmoments": [
+                "Hnnh... Hmmnnhhh... Nada... Bom...",
+                "Eu...Hhhuh...",
+                "Isso... Não é I-Ideal...",
+                "FOCO!",
+                "Nhh... Não... Ideal...",
+                "Eu não... quero morrer...",
+                "Preciso... Ajuda... Por favor...",
+                "Não....Nh... Não assim...",
+                "Me salve.",
+                "H-h... Nhhh... hnnh... Ghhh...",
+                "Eu d-desejo... C-Continuar... Vivendo...",
+                "Eu não estou p-pronto."
+            ],
+            "magicheal": [
+                "Hh!!!....Hã. Mm. Acredito que isso não trouxe mal algum.",
+                "O que... Foi isso?",
+                "Fascinante."
+            ],
+            "selfdestruct": [
+                "Ah, ah, por que, o que, POR QUE!? PARE ISSO! EU NÃO MEREÇO ISSO! SEUS MERDAS DE CASACO!",
+                "Olá, apito. O que isso significa?"
+            ],
+                    "endlessloop0": [
+                        "...Hm. Hhm... Mhhhhmmmhh... Hhhhhmmm... T-tá. Não... N-não. Era isso. Que eu esperava. Devo ter feito algo errado. D-Devo retornar e tentar mais uma vez."
+                    ],
+                    "endlessloop1": [
+                        "Isso não está indo de acordo com o plano. Droga! O que raios os de casaco queriam que eu fizesse!? Que perda de tempo e energia."
+                    ],
+                    "endlessloop2": [
+                        "...Que conclusão d-deprimente. Esta missão está fadada ao fracasso."
+                    ],
+                    "endlessloop3": [
+                        "Isso está totalmente além de mim. Que exercício de paciência. Frustrante. Tão, mas tão intensamente frustrante. Sempre, por pouco, fora do meu alcance."
+                    ],
+                    "endlessloopdefault": [
+                        "......*suspiro*"
+            ],
             "tradermeetnormal": [
                 "Saudações.",
                 "Olá.",
@@ -4190,6 +5073,564 @@
 			]
 		},
         {
+            "seeGravel": [
+                "Ahrnnn... A-qui...",
+                "Nnhh... Cin-za...",
+                "Du-no... Vai...",
+                "...Por que... Pa-rou..?",
+                "Nnnhh... Lu-gar de co-mida...",
+                "Che-ga-mos.",
+                "Frio..?"
+            ],
+            "eatGood": [
+                "Nngghhhrr! De-licia!!",
+                "Ngghraahhh! Du-na gos-ta..!",
+                "Hnnn... Hnnnrr... Bom...",
+                "Co-mida... Boa...",
+                "Gos-to... Espe-ci-al... Nhhrr...",
+                "Nrr... Gost-ei...",
+                "Quero... Ma-is..."
+            ],
+            "eatMediocre": [
+                "Nnnhrrr... Comida...",
+                "Du-no... Come... Nrrhh...",
+                "Nhhhrr...Mmhhh...",
+                "De-vorar... A-té... Nggrrhh... Encher...",
+                "Comi-da...",
+                "Gos-toso...",
+                "Du-na... Gos-ta comer... Ghhr..."
+            ],
+            "eatBad": [
+                "Nhhrr... Nhhghhh...!",
+                "Nggrhaahhh... Co-mi-da...",
+                "Nngrr... Ma-is..?",
+                "Qu-erer... Du-no... Gnnhnhrr... Co-mida... Nhhrr..."
+            ],
+            "refuseEat": [
+                "...Que?",
+                "Du-na... Não... Grr..",
+                "Gghhrrrr!!",
+                "Ngghhhrraaghh!",
+                "Ru-im..."
+            ],
+            "tired": [
+                "Dor-mir... Que-ro...",
+                "Du-no... So-ne-ca...",
+                "Mi... Mir.",
+                "Sooo-no... S-ono..!",
+                "D-ormir.... Door-miir...",
+                "Mnnhhrr... Dei-tar..."
+            ],
+            "verytired": [
+                "Pre-ciso.... So-neca...",
+                "Caaaan... Saaa-do...",
+                "Nnnhhh...... Ca-in-do...",
+                "Dei... Tar...",
+                "Hhhrrnn... D...Dor-mir..."
+            ],
+            "confused": [
+                "Ca-beça...",
+                "Gghhnn... Ghhrrrr...",
+                "Oo.... Quee....",
+                "Nã-o... En-tendo....",
+                "Con-fuso....",
+                "Nnhhhrrr...",
+                "Não... Du-na... Per-dido..... Ghhr...",
+                "Nnnnhhhh..."
+            ],
+            "wakeup": [
+                "Du-no... Des-perto...",
+                "Oo-lá...",
+                "Hhrr..?",
+                "Mnnnhhh...",
+                "Vii-vo...Ghrr...",
+                "Mmm..."
+            ],
+            "vomit": [
+                "Ba-rriga... Lutan-do...",
+                "Co-mida... Revi-dan-do...",
+                "Nhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... O-que...",
+                "Nhgghhrr... Du-no...... Mau....",
+                "Ghhn... Comi-da... Má..?"
+            ],
+            "vomitblood": [
+                "Du-no... Sen-te ma-u....",
+                "Guurhhh... Gnnnhh...?",
+                "Nnngghhhrr....?",
+                "Ggyiacckk! Grhrh... Q-ue...",
+                "...Ngghrhh...",
+                "Grhrhaughh... Ghnnn... P-or que...",
+                "Nggh...du-no...na...nada b-em..."
+            ],
+            "full": [
+                "Du-no che-io...",
+                "Comer de-mais...!",
+                "Es-pe-rar co-mer...",
+                "Du-na não co-me mais...",
+                "Ngghh... Cheio...",
+                "Sufi-cient... Gnnh..."
+            ],
+            "hungry": [
+                "Qu-er... Mais... Comi-da...",
+                "Du-no...fo-meee...",
+                "Mordi-di-nha?",
+                "...Nggh... Pre-ci-so...",
+                "Faa...minto...",
+                "*salivando*",
+                "On-de... Comer..?",
+                "Mor-der...",
+                "Co-mer..?",
+                "Du-na...ref-ei-ção..?"
+            ],
+            "starving": [
+                "*salivando litros*",
+                "Pre-ciso... Comer!",
+                "Ngghhhhrrr! Co-mida!!!",
+                "NGHHRRHHH!! On-de comi-da!?",
+                "Nhghhrrr! Du-no es-fo-meado!!",
+                "NNGRHH!! CO-MI-DA!! DU-NA!!"
+            ],
+            "thirsty": [
+                "S-lurp..?",
+                "Água...",
+                "Mmm... Be-ber..?",
+                "Du-no... Águ-a...",
+                "Que-rer... Água..?",
+                "Se-de..."
+            ],
+            "dehydrated": [
+                "Preci-so... Águ-a..!",
+                "Ngghh... Se-co...",
+                "Água...A-GO-RA!!",
+                "Gghrhhh... Águ-a!!",
+                "Du-no... Se-den-to..!",
+                "Du-na... Á-gu-a... AGO-RA!",
+                "Gghhrraaaghh! Be-ber! A-gora..!"
+            ],
+            "limbmuscle": [
+                "<Limb> nã-o mo-ve...",
+                "<limb> pa-rou fun-cio-nar..?",
+                "<limb> pre-cisa de con-serto.",
+                "<limb> não me-xe...nnngrrhh...",
+                "<limb> tá ru-im..! Gghhrr!",
+                "Dooo-or...n<limb>..!"
+            ],
+            "limbinfected": [
+                "Ghhr... <limb>... Du-no sen-te quente...",
+                "Do-ente..?",
+                "Nnnrr...<limb> pa-rece es-tra-nha..?",
+                "Du-na... pele d<limb>... irri-tada..?",
+                "Hhnnn...Sensa-ção n<limb>... esqui-sita..."
+            ],
+            "limbskin": [
+                "Ama-re-lo n<limb>..?",
+                "Oooouur! <limb> ru-im!",
+                "Du-no machu-cado...",
+                "Fe-ri-mento n<limb>...",
+                "Ghhhrr...<limb>... ta fe-io..."
+            ],
+            "sad": [
+                "Triste.",
+                "Du-no tris-te.",
+                "Sem so-rri-so...",
+                "Du-na não so-rri...",
+                "Du-no sen-te mal.",
+                "Não fe-lisss...",
+                "Du-na não bem..."
+            ],
+            "gloomy": [
+                "Co-mida fa-ria coisas melho-rar...",
+                "Comida dei-xa Du-na sen-tin-do bem...",
+                "Bas-tante triste...",
+                "Duno muuu-ito tris-te...",
+                "Grrr...me-nte má.",
+                "Grrhhh...ca-beça de Du-no ru-im...",
+                "Nhhhhrr...",
+                "Nnnngggrhhh... Ghhr...",
+                "Gghhhrr...",
+                "Du-na não sen-te bem!",
+                "Não bem!"
+            ],
+            "depressed": [
+                "Woo... Whhhgrr... Nggghhhrrr...",
+                "Ngrrhhhh... Ghhhrr.. Gruughh...",
+                "Ggghhrragghhh!",
+                "Ngghhhnn... Nghhggghhh.... Nghhrr!",
+                "Ngghhruagghhh! Gghhrr...",
+                "Nnhhg... Nggghhh!",
+                "Ngghrhhh! P-or que!?"
+            ],
+            "miserable": [
+                "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
+                "NNGRHHHHHH! GGRRAAGGHHH!",
+                "GGHHRAGGHHH!! ÓÓÓDIOOO!!!",
+                "GGHHRAGGHHH!! DUNNNAAAA!!!! DE-TESTAAAA!!!",
+                "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
+                "AANNNGRRYY! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NO.... DES-TRÓÓÓII!!!",
+                "NNNGRRAGHHHH! OOODI-AARR! DES-TRUIIIR!!!",
+                "GGHHRAAHHHGNHH! DU-NA ODEIAAA! DESTRÓI!!!"
+            ],
+            "angeronitem": [
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-no des-trói... Ami-go..."
+            ],
+            "refuse": [
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "...",
+                "Ngrrhhh",
+                "Grrr...",
+                "Mnnhh...",
+                "*rosnando*",
+                "Não...",
+                "Du-no...",
+                "Nnnnrrr...",
+                "Nnhghh..."
+            ],
+            "bleeding": [
+                "San-gra...",
+                "Du-no...s-angra...",
+                "Du-na...va-zando...",
+                "Va-zan-do...ama-relo...",
+                "A-ma-relo...ruim...",
+                "Ru-im...san-gra-mento...",
+                "Te-rrível...du-no feri-do..!",
+                "Ngghhhrr! Du-na ma-chu-cado!",
+                "Grrhhhh! Du-no pre-cisa de a-juda!",
+                "Aju-da!! Du-na!",
+                "Du-no pre-ci-sa... con-serto..!",
+                "Nnnrr... Du-no a-ma-relo...",
+                "Nrr... San-gue...",
+                "Nrrhh... Du-no...sa-ngue!!"
+            ],
+            "bleedingheavy": [
+                "San-gra-mento!!",
+                "Du-no sang-ra!! Mui-to!!",
+                "Du-na...v-az-ando!! A-gora!!",
+                "Flu-x-o...ama-relo! Ajudar Du-no!!",
+                "A-marelo!! Mal!!!",
+                "San-grar...ru-im...",
+                "Pé-ssi-mo...du-no fe-rido..!",
+                "Ngghhhrrrnnghhhr!",
+                "Grrhhhhnnnghh!",
+                "A-ju-dem!! Du-na! A-GORA!!!",
+                "Du-no pre-cisa RE-PARO..! A-JUDA!!",
+                "NnnrrrhhNGHHH!! DU-NA MUITO AMA-RELO!!",
+                "Nrrgghhh!!! S-ANGUE!!!",
+                "Nrrhhh..! San-gue de Du-no!! M-uito!!!"
+            ],
+            "steponglass": [
+                "Du-no vi-dro...",
+                "Coi-sinha cla-ra fere Du-na!!",
+                "Du-no machu-cado afi-ado!!!"
+            ],
+            "seecorpse": [
+                "Comi-da grá-tis?",
+                "Hhnnn..?",
+                "Ooo...",
+                "Mmm... G-rá-tis..?",
+                "Mmmmrr... A-migo..?",
+                "Hrnn!! Amigo! Oh....",
+                "Mmm... Gosto-sura... Ach-ada..?",
+                "Du-no... En-con-tra a-migo..?",
+                "P-or que a-migo não mo-ver..?",
+                "Comida!",
+                "*salivando*",
+                "Aaarrh! O-lá?"
+            ],
+            "seecorpsedesensitized": [
+                "Mmm!! Ma-ais comida...",
+                "Olá a-mi-go.",
+                "Corpu.",
+                "Amigo fe-rido?",
+                "Ma-is co-rpos.",
+                "Ma-is co-mida pa-ra Duno.",
+                "O-ii!!",
+                "Du-na vê ma-is cor-pos.",
+                "T-ão tan-ta mor-tes!",
+                "Di-ver-sas comidas!"
+            ],
+            "seecorpsesuicidal": [
+                "Du-no acom-pa-nha amigo...",
+                "Du-na ci-ú-mes...",
+                "Gghrr..."
+            ],
+            "cold": [
+                "Du-no frio! Preci-sar d'á-gua...",
+                "Du-na gela-dinho...",
+                "Du-no des-gos-ta frio.",
+                "Não go-star fr-io."
+            ],
+            "warm": [
+                "Du-no quen-tinho.",
+                "Du-no ca-lor!",
+                "Duna pre-cisa es-friar.",
+                "Du-no a-quecido de-mais...",
+                "Ca-lor.",
+                "Quent..."
+            ],
+            "hot": [
+                "Du-no queima!",
+                "Du-na muito quen-te!!",
+                "Pre-cisa... Frio...",
+                "Muito.. Ca-lor...",
+                "Nnhggh... To..onto!"
+            ],
+            "exerted": [
+                "Nnnghh... Ga-sto...",
+                "Du-no... Des-can-sa...",
+                "*huff*",
+                "Nnnrr.. Mu-ito... Trab-alho!"
+            ],
+            "exhausted": [
+                "Nhhgh... Des-can-so..!",
+                "Gghrhrhh... Can...sado!!!",
+                "Ggrhhh...! Pa-rar...",
+                "Ngghhhhrrrrrrhh...",
+                "*ofega*"
+            ],
+            "freezing": [
+                "Du-no... Tem... F-rio...",
+                "Ngghhhrr... Tan-to Fr-io..!",
+                "Nnhh... N-nnhh... Fri-o...",
+                "T...Tão... F-fr-io..! Ngr...",
+                "Co-ngelan-do...",
+                "Du-na... Con-gela...",
+                "Nhhhrrr... Du-no... T-ão fr-io...",
+                "Ggrrrh..! Mu-ito Fr-io..."
+            ],
+            "emaciated": [
+                "Du-no... Mui-to fino...",
+                "Fi-ni-nho...",
+                "Pre...ciso. Co-mer mais...",
+                "Du-na... Ma-gro!!",
+                "Mu-ito... Magr-o..."
+            ],
+            "obese": [
+                "Du-no co-me muito bem!",
+                "Nhhrr! Du-na chei-nho!",
+                "Du-no... Gor-do..? Nrrr..."
+            ],
+            "opiated": [
+                "...",
+                "N...Nhhrr...Du-no....",
+                "Ooo... Quuee... Mmhhhrrnnnnn...",
+                "Mmmnnnrrr...mmmnnnnnn...",
+                "Mmmrrnnnhnnn...es...tranho!",
+                "Du-na......gosta..!",
+                "Mmmmrrrhhhrrn..."
+            ],
+            "opiatedsad": [
+                "..!",
+                "N...Nhhrr...Du-na..!",
+                "Ooo... Quuee... Mmhhhrrnnnnn...!",
+                "Mmmnnnrrr...mmmnnnnnn..!",
+                "Mmmrrnnnhnnn...eesss...tranhoo!",
+                "Du-no......gos-ta..!",
+                "Mmmmrrrhhhrrn..!"
+            ],
+            "opiatewithdrawal": [
+                "Du-no...t-tre-me..",
+                "Nnhrhhggh...ru-im!!",
+                "Du-na...que-r ma-is...coisa...",
+                "Nghhrr...! Ma-u..!",
+                "S-shaarrhnnngg....nnhrrhh...nnnhgghhrrr!"
+            ],
+            "cantBreathe": [
+                "Nhhrr...nngghh...*Tosse*",
+                "Aaack *Tosse*",
+                "Nhhgg-rhhnngh!"
+            ],
+            "pain": [
+                "Nnhrrhhh...<limb>...dó-i...",
+                "Mnnhhhh...",
+                "Ghhhrrnnnhh!",
+                "Nhnngghhrr...",
+                "Gghhrahhnnh...<limb>...",
+                "Grrrhhgnn...d-or...n<limb>...",
+                "Gggrhhnn...Du-no...dolo-rido...",
+                "Gggrhhnn...Du-no...dor...n<limb>..."
+            ],
+            "hitgroundhard": [
+                "GRRHNH!",
+                "GGRACK!",
+                "NNHHRACK!!",
+                "GGHAARCK!",
+                "MNNGGHH!",
+                "RRHHGGNH!",
+                "AAARHCNGCK!",
+                "GGHNR!"
+            ],
+            "bigpain": [
+                "GGGHHRRAAAAHHHHHH!!",
+                "NNNGGHHHRRRAAAAAAAAAGGGHHHH!",
+                "HHGHGGGGRRRRNNNNNGGRRRAAHHHHHH!!",
+                "GNNGGHHHRRRR!",
+                "AAARHHNNGGHH-RRHHGG-NNGGHHAA!!",
+                "NNGGH...NRGHGH...NNGHR-HGHHAAGRG!",
+                "GGGHHRRRAAAANGGHHHRRR!",
+                "RRRAANNNGGHHHHHH!!",
+                "GGNNHRRHHNNNNGGRRAAGHGH!!",
+                "CCHHE-GGAAAA!! GGRRNNHGHGH!"
+            ],
+            "fallscream": [
+                "WWHHHHHEEEEEE!!",
+                "RRHHAAAAAAARRHH!",
+                "KKRRUUAAAAAAAUU!",
+                "RRRAAAUUU!",
+                "KKRRUAAEEEE!",
+                "GGRRAAAAAA!",
+                "FFRAAAAA!"
+            ],
+            "hitbycreature": [
+                "Oh? A-migo mor-de?",
+                "Nggrch! Coisa máá!!",
+                "GGRRGHHH! DU-NO MATA!!!!",
+                "GRRACK! DEIXE DUNA!",
+                "GGRHR! MOR-DO DE VOL-TA!",
+                "RGHGN! DU-NO SE VIN-GA!",
+                "GACK! MAAA-AL!"
+            ],
+            "dirty": [
+                "Du-no... Su-jo..?",
+                "Du-na pre-cisa ba-nho...",
+                "Du-no sente che-ro.",
+                "Sente su-jei-ra.",
+                "Chei-ro, che-i-ro.",
+                "Fe-dor.",
+                "Fedor. Ruim!",
+                "Mui-to fe-dor."
+            ],
+            "encumbered": [
+                "Du-no forte!!",
+                "Du-na ca-rrega mui-to.",
+                "Carre-gando de-mais.",
+                "Mui-tas coisas.",
+                "Du-no fort... duno leva!",
+                "Du-na pe-sado.",
+                "Du-no pesa.",
+                "Pe-sado.",
+                "Peso...",
+                "Nrrr...ca-rregando mui-to.",
+                "Nrrr...du-no muita coi-sa."
+            ],
+            "watchlike": [
+                "Grrr. Ami-go meta-lico estra-nho!"
+            ],
+            "drillend": [
+                "Du-no assus-tado.",
+                "Me-do.",
+                "Sss-om al-to...",
+                "Du-na espe-rto!!"
+            ],
+            "loud": [
+                "GGRAAAAACKK! QUE!?",
+                "GRRRRR!!!",
+                "...hoóoh.",
+                "GRRACK! AL-TO!",
+                "AUGRH! BA-RULHO!!!"
+            ],
+            "murderregret": [
+                "DU-NA VEN-CE!",
+                "DU-NO DE-RROTA AMI-GO MAL!",
+                "GRRAAACCHH! AAHHAAKAKA!! AAAAAUURAHHACGGHRAAAA!! DU-NO FOOR-TEEEEE!!!!",
+                "DU-NA CAÇA A-MIGO FRA-CO!!!",
+                "DU-NO CAÇA COMI-DA!!",
+                "GRRHCHH! PRE-SA FRA-CAAA!"
+            ],
+            "tradeemeet": [
+                "Du-no achaa!!",
+                "O-lá!!",
+                "Du-na cum-primenta!!",
+                "Oi? O-i?",
+                "Mmmrrrrn... a-migo?",
+                "Ami-go?",
+                "Oooo! Aaa-migo!!",
+                "Comi-da?"
+            ],
+            "swingresponse": [
+                "DU-NO CA-ÇA!",
+                "Car-ne.",
+                "GGRAAACH! A-MIGO CO-MIDA!",
+                "GRAAAKAHHA!! PRESA FÁ-CIL!",
+                "DU-NA O-DEIA AMIGO!",
+                "Gghrrrraagh!",
+                "*rosnando*"
+            ],
+            "braindamaged": [
+                "Ele...",
+                "...",
+                "...?",
+                "...!",
+                "......",
+                "...~",
+                "...@@",
+                "...nnn...",
+                "...r",
+                "...n",
+                "...g",
+                "h",
+                "re",
+                ".",
+                "###",
+                "Tem alguém aí?",
+                "",
+                "Eu...",
+                "Quãn.",
+                "Os.",
+                "Uoo...o....quu-e...",
+                "Re.",
+                "Du-no.",
+                "Me-ta-l...",
+                "GRAAAARCH!!"
+            ],
+            "lastmoments": [
+                "Du-na...me-do...",
+                "Du-no...pre-ci-sa...ajuda!",
+                "Grrhhnnchh!",
+                "Grrhhannchh!",
+                "Grrrrr!!!",
+                "Nnhhrrhuhhh! Nã-ão!!!",
+                "Du-na!!! So-corro!!",
+                "Por...Q-ue...",
+                "Du...dnnrhh...Nhhhh...",
+                "Rrrnn...Hhhh...Du-no....mo-rrer...?",
+                "Ve-nha....luz...",
+                "Sen-tindo...escuro...",
+                "É o...fim..?",
+                "Aca.....ban-do...",
+                "não...pron-to...",
+                "rnhh...a-ju-da...duno..."
+            ],
+            "magicheal": [
+                "ãh..."
+            ],
+            "selfdestruct": [
+                "Oooorrhhn! Du-no ou-ve som novo? Hooohh..."
+            ],
+            "endlessloop0": [
+                "...Mmmrrnnngghh... Ngghh... ...Nova-mente?"
+            ],
+            "endlessloop1": [
+                "Ngghhr. Du-na gosta desa-fio. Du-no vai di-novo!"
+            ],
+            "endlessloop2": [
+                "Ooo! De novo? Ma-is comida para achar a-qui!"
+            ],
+            "endlessloop3": [
+                "Ca-verna do Du-no."
+            ],
+            "endlessloopdefault": [
+                "Nrrrg! Weee! Du-no vence!"
+            ],
             "tradermeetnormal": [
                 "Mmm... Oo-lá....",
                 "Bem-vindo... A-migo...",
@@ -4497,12 +5938,12 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "encontrei uma arma. uma arma de fogo. nossa... nao estou acostumado a manusear isso... deveria ter sido mais cuidadoso durante os treinamentos... nao faço a minima ideia de como fui parar aqui, tao despreparado, em vez de ser eliminado. quase atirei em alguem sem querer. deveria ter travado a arma... quem sou eu pra saber? os outros tendem a entrar em panico quando veem voce com uma arma na mao. entao talvez seja melhor esconde-la dentro de alguma coisa, para que nao a vejam. eles acham que voce atiraria neles, nao sabem das suas intençoes. bem, eu pensaria o mesmo se alguem apontasse uma arma pra mim.",
+                "Item1": "achei algum tipo de... dispositivo de tiro. me dei um baita susto com ele... e acabou destruindo seja la qual armadilha estava na minha frente. nao to acostumado a usar isso.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "to com tanta raiva de mim mesmo por ter agido como um merda com os outros la em cima... agora todos os sobreviventes que encontro me mandam embora das suas capsulas... cara, se voce soubesse o quanto eles xingaram... eles tentaram me arranhar... e eu so consigo pensar: \"ta, me desculpem. mas pelo amor de deus, vocês se dao conta de que agora toda vida importa? nao tem mais tempo pra ficar machucando e matando uns aos outros\". eu queria ser uma pessoa melhor... a culpa e minha.",
+                "Item1": "todos que encontro mandam eu ficar longe das suas caspulas. eles lembram de mim... de la de cima. eu não deveria ter agido daquele jeito. isso é terrivel.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4542,17 +5983,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "A caverna está cheia de todo tipo de bicho que ficam vagando por todos os lados. Sou meio pacifista, então tento fugir deles em vez de lutar, já que não sei quem vai matar quem primeiro... Afinal, os ferimentos que eles me causam doem demais... Não sei mais o que fazer... Será que nossos captores sequer têm noção do que estamos passando aqui embaixo?",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
                 "Item1": "Sofri uma queda feia. BEM feia. Caí dentro de um buraco e não conseguia escalar de volta, nem cavar devido aos meus ferimentos. Mas eu consegui sair graças a alguns pedaços de metal e eu quero que outros saibam sobre isso. \n\nSão as paredes da caverna! Nada que eu encontrei, nem mesmo dinamite, conseguia penetrar as paredes mais externas desta caverna. Mas elas são irregulares, e se você empilhar pedaços de metal um em cima do outro é possível encaixar eles em vãos pequeninos criando um ponto de apoio metálico. Quando eu estava sangrando naquele buraco escuro eu utilizei os pedaços de metal na criação de uma escada improvisada, escapei e busquei suprimentos de emergência. \n\nEspero que você nunca se encontre em uma situação parecida. Talvez você possa usar esse truque para evitar danos futuros, quem sabe? E quem sabe os outros perigos que nos esperam aqui em baixo. \n\nTalvez eu e você nos encontraremos e poderemos compartilhar estratégias. \nEspero estar lá para lhe conhecer.",
-                "Item2": "",
-                "Item3": "milky"
-            },
-            {
-                "Item1": "Tenho me sentindo sozinho... então decidi me distrair:\nEncontrei uma espécie de fax em miniatura que consegui esmagar e tirei as folhas de papel. Depois peguei um palito e espremi uma das frutas brilhantes nele. Virou tipo um pincel e uma tela de desenho! Se apenas você saber... Comecei a desenhar realidades alternativas onde somos livres e vivemos em paz juntos; sem aqueles cientistas escrotos... Fiquei tão feliz que chorei um pouco.\nMas agora preciso ir: ficando com fome! Talvez se nos encontrarmos, eu desenhe você também...? Fiquei muito bom em usar o \"pincel\". Vou tentar ensinar os outros a desenhar também...",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4579,7 +6010,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "as coisas estao dando certo comigo. comida gostosa na minha barriga e talvez um ou dois rabo-gumelos me alegram. as pessoas por aqui sorriem de volta! só odeio me ver sangrando, isso me assusta",
+                "Item1": "as coisas estao dando certo comigo. comida gostosa na minha barriga e talvez um ou dois rabos-do-sono me alegram. as pessoas por aqui sorriem de volta! só odeio me ver sangrando, isso me assusta",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4688,7 +6119,7 @@
                 "Item3": "experiment"
             },
 			{
-                "Item1": "eu nao aguento mais. por que. \ntodos morreram\nnao da. \neu quero que isso pare\nnao da\neu quero liberdade\nporque\neu nao consigo. eu nao quero ver mais nada disso. eu ja vi coisas ruins demais. to tao exausto. \nminha perna ta fudida. explodida por uma mina\nminha mao, a direita, também ta me matando de dor\neu quero acabar com tudo\ntudo é miséria\neu nao aguento mais\ndaqui a pouco vou arrancar minha arteria e virar outro corpo pra você ver - assumindo que eles já nao tenham me devorado ate você chegar.\n\nobrigado por tudo. adeus",
+                "Item1": "é o fim. adeus. desculpe.",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -4927,190 +6358,284 @@
                 "Item2": "",
                 "Item3": "experiment"
             }
+        ],
+        [
+            {
+                "Item1": "tem algum tipo de coisa de maquina estranha... eu acho que ela se disfarçou de umas das caixas que eu fico encontrando. ela atirou algo em mim... porem, apesar de ter doido, tambem me esfriou bem... nao consigo entender essas coisas",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "treco de cabum frio legal",
+                "Item2": "",
+                "Item3": "dune"
+            },
+            {
+                "Item1": "Trouxe comigo uma pequena quantidade desses núcleos transformantes estranhos do bioma em que eu estava anteriormente. Ao permitir que eles se transformem em uma \"manifestação\", consigo utilizá-los como fonte de nutrição e hidratação infinitas, já que um núcleo se divide em dois ao se manifestar. Bastante útil.",
+                "Item2": "",
+                "Item3": "milky"
+            },
+            {
+                "Item1": "achei algum tipo de bola meio alienígena estranha de algum tipo de drone... ela disse algo sobre \"crio\" nela? eu nao tinha uso pra ela entao eu taquei num lago daquelas pedras derretidas... e ela a solidificou..?",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "fico queimando minhas patas nessas pedras aquecidas. da medo de infecção... mas aquelas vinhas alaranjadas e brilhantes aliviaram um pouco quando as enrolei no ferimento. fiz o erro de tocar nos meus olhos depois sem limpar as mãos. ai.",
+                "Item2": "",
+                "Item3": "experiment"
+            },
+            {
+                "Item1": "Encontrei um buraco estranho residindo na parede próxima de mim. Olhando dentro, fora do tal buraco saiu um tentáculo seco e estranho, que então brevemente se apegou a mim, fez algum tipo de movimento de sucção, e então desapareceu de volta a seu covil. Apesar de eu ter estado bem receoso após este ocorrido, eu aparento estar bem.<>\nNão vi mudança notável no \"Painel de Saúde\", apesar de ser inteiramente possível que eu tenha deixado algo passar despercebido. O que quer que esta criatura seja, ela não aparenta apresentar algum perigo significante para quem estiver passando.",
+                "Item2": "",
+                "Item3": "milky"
+            }
         ]
 	],
     "pdaNotes": [
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-11-19-18-49-58-4587]\n<>\nCLASSE DA ENTIDADE: Biológica\nSUBCLASSE DA ENTIDADE: Sawiano\nNOME DA ENTIDADE: Experimento\n<>\n[CONTEÚDOS]\n\nA versão biológica estável do nosso projeto mais recente está pronta.\nAparenta que, mentalmente, não há e nunca mais vai ter algo sobrando do nosso voluntário humano original, sem falar dos outros sujeitos.\nApesar disso, ele parece estar aprendendo rápido, e não está retaliando.\n<>\nA combinação de DNA causou o Experimento à ser consideralvemente menor em estatura do que uma pessoa humana, e faltar em gordura e massa muscular.\nApesar disso, sua densidade óssea e muscular é muito maior. Isto presumidamente resultará no espécime sendo resiliente a várias formas de trauma físico... E dificultará natação para ele.\nEle possui três protuberâncias na parte posterior do crânio, de forma semelhante à cartilagem de orelha. De alguma forma, possui uma estrutura auricular semelhante à de uma ave - devia estar em algum lugar no DNA que manipulamos.\nPossui pelos finos e carne meio rosada amarelada, como visto em ferimentos e no interior da boca.\nSuas mãos são algum tipo de combinação entre a de um canino e de um homosapien. Sei que um dos meus colegas vai gostar das patas-\nDe alguma forma, os olhos bioluminescentes dos nossos protótipos anteriores desta espécie permaneceram. Nós ainda não determinamos os exatos efeitos que isto tem em sua visão.\n<>\nLogo iremos clonar este espécime 30 vezes para conduzir testes destrutivos nos clones. Deixaremos alguns para reproduzirem naturalmente, para economizar recursos.\n\n[FIM]",
+            "Item1": "[NOTAS DE PESQUISA 29/01/24XX]<>\nAinda mal acredito no que estou vendo. O espécime é do tamanho do meu punho, de cor amarela e textura viscosa. Tudo indica que trata-se de um pedaço de carne. Não sabemos do que veio ou da onde, mas nossos instrumentos confirmam que é de origem biológica, e ela é completamente alienígena à nossa. Foi recuperado dos destroços da ██████ ███████, fundido à placa receptora. Isso representa um avanço revolucionário em nossa pesquisa, porém é um consolo pequeno diante da perda total do dispositivo. Não entendo. Mais de uma década de pesquisas sem resultado mal teleportando pouco mais que partículas indivíduas e agora surge isso?<>\nConsiderando a vastidão do universo, a probabilidade de nosso experimento cruzar aleatoriamente com uma criatura de um planeta alienígena desconhecido é de pelo menos cinquenta ordens de magnitude. Deveria ser impossível, e, apesar disso, aqui está. Vamos ter que achar um jeito de apresentar isso. Não podemos correr o risco de perder o financiamento dos investidores ou de assustar o público. Não agora. Pelo menos, isso dará à equipe de biologia algo para investigar enquanto reconstruímos todo o projeto do zero.",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-26-14-27-52-0189]\n<>\nASSUNTO: Aviso sobre amizade com Sawianos\nDE: Gerente do Projeto\nPARA: Todos os Funcionários\n<>\n[CONTEÚDOS]\n\nCaros funcionários,\n\nTomamos conhecimento de que um dos nossos funcionários esteve consistentemente se encontrando com um SAW-03 e divulgando informações privadas à ele. Isso não apenas constituiu uma violação flagrante de confidencialidade, como também manter esse tipo de relação com os espécimes é completamente inaceitável. O cientista em questão foi imediatamente removido e SAW-03 cometeu suícidio pouco tempo após.\n\nVOCÊ tem algum amigo Sawiano? Nós iremos descobrir. Não é tarde demais para mudar de idea. Mas se te pegarmos tendo amizades com eles, você terá o mesmo destino.\n\nAnteciosamente,\nGerente do Projeto\n\n[FIM]",
+            
+            "Item1": "[NOTAS DE PESQUISA 3-11-24XX]<>\nO 'sangue amarelo' do incidente █████████ é realmente extraordinário. Sua adaptabilidade se difere de qualquer coisa já vista na Terra. Até mesmo sobre radiação intensa ele consegue se reparar quase imediatamente. É um nível de recombinação apenas visto em nossas células imunológicas, e apesar disso ele cobre seu genoma inteiro. Quando tentamos sobrescrever com nossos próprios vetores virais, ele de alguma forma os integrou no seu próprio código genético sem sofrer perdas a si mesmo.<>\nInjetamos os genes em células de rato e os resultados fizeram o Dr. █████ cair de sua cadeira. Ele entrou em um estado de expressão intensificada, pegando DNA de qualquer fonte que encontrasse e integrando-o ao próprio DNA do hospedeiro sem qualquer problema. Fez os últimos 100 anos de pesquisa biológica parecerem uma piada. O hospedeiro morreu pouco tempo após. Ele atua como uma estrutura de suporte, permitindo que sequências de DNA saltem e se recombinem sem imediatamente se tornarem como células cancerosas. Repetimos este experimento com vários genomas e até mesmo sequências de espécies vastamente grandemente diferentes foram integradas. Porém, os resultados reais são extremamente imprevísiveis. Parece mais um caldeirão de bruxa do que biologia de verdade, mas quem sabe qual o potencial que isso tem.",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-29-13-10-50-0119]\n<>\nASSUNTO: Tarde demais para suas perguntas\nDE: Pesquisador\nPARA: Psicólogo\n<>\n[CONTEÚDOS]\n\nEstou escrevendo isso para te deixar saber que todos os Sawianos que se rebelaram semana passada JÁ foram eutanizados, então temo que você não vai conseguir fazer suas perguntas.\n\nEles já foram entrevistados, e confessaram que tudo que sabiam veio do SAW-03, então o mistério está resolvido. Preocupantemente, alguns dos cientistas que eles mataram eram seus próprios responsáveis, e eles admitiram tê-los atacado propositalmente.\n\nEu ouvi dizer que a segurança será reforçada, então essa bagunça não deve se repetir.\n\nAtenciosamente,\nPesquisador\n\n[END]",
+            "Item1": "[NOTAS DE PESQUISA 29-7-24XX]<>\nMeus esforços finalmente resultaram em um espécime viável! Ele está sedado no momento, mas está respirando por si só fora do tanque. Ele não mostra nenhum sinal das mutações embrionárias letais que tomaram todas as nossas tentativas anteriores, e nem é outra massa grotesca de tecido desregulado. É a primeira sapiência realmente artificial. Não se passa despercebido por mim que eu dei luz à uma nova raça.<>\nAssim como nos outros experimentos, o sangue amarelo foi introduzido na mistura estável mais recente e injetado em um embrião humano. Como desejado, o espécime recorre em maior medida ao genoma humano, mas é algo completamente diferente. Suas garras são quase felinas, seus ouvidos aviários ou talvez até reptilianos. Posso detectar traços de genes caninos, vulinos e roedores em seu crânio, mas o estoque genético poderia conter mais de mil doadores potenciais. Seus olhos são até mesmo levemente bioluminescentes.\nMais importante ainda, sua capacidade intelectual aparenta ser de nível quase humano, assim como desejado. Os caminhos que isto abre são ilimitadas! Eu vou ser gentil com este, mas eu já comecei a cloná-lo para executar testes mais destrutivos.\nDesignarei minha criação, SAW-01.",
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-04-01-15-29-18-1058]\n<>\nCLASSE DA ENTIDADE: Biológica\nSUBCLASSE DA ENTIDADE: Sawiano\nNOME DA ENTIDADE: Relatório de Consumo de Carne\n<>\n[CONTEÚDOS]\n\nObjetivo de Redução do Desperdício Corporativo\n<>\n32 Sawianos foram recrutados aleatóriamente entre aqueles encontrados em nosso local d<corrupt:0xFFFFFF> As características basais eram: 25 SAW-01, 4 SAW-05, 3 SAW-12. Os Experimentos foram aleatóriamente designados à 8 grupos de 4 participantes cada. Cada grupo foi sujeito a uma escolha em três tipos de condições: consumir carne Sawiana ou Terrana, consumir crua ou como sopa, e observar ou permanecer ignorante da fonte da carne.\n\nA carne foi obtida do Indicente em [25##-12-30].\n<>\nEnquanto os SAW-01 e SAW-05 em todos os grupos que consumiram a carne Sawiana, independentemente de se eles observaram a fonte da carne, exibiram emoção extremamente negativa após o consumo, os SAW-12 não demonstraram as mesmas emoções negativas. Nenhum Sawiano que consumiu a carne terrana exibiu emoções negativas, presumivelmente pois não reconheceram a carne como sendo da própria espécie, apesar de reclamações terem sido feitas sobre comer comida não cozinhada. Nenhum dos Sawianos que comeram a carne em sopa exibiram emoções negativas, mesmo se tivessem observado a fonte.\n\nO SAW-12 demonstrou uma apatia aberrante em relação ao consumo de carne Sawiana crua, como esperado. Talvez possamos reaproveitar espécimes descartados como alimentos para quaisquer SAW-12 no local.\n\n[FIM]",
+            "Item1": "[NOTAS DE PESQUISA 24-12-24XX]<>\nApós vários pedidos, eu estou alterando o genoma SAW-01. Sua utilidade para as pesquisas desta empresa foi bem além do que anticipei. Originalmente eu acreditava que a falta de reprodução era prova de sua perfeição, eles estão em tanta demanda que nossas máquinas de clonagem não conseguem mais dar conta. Agora eu entendo os benefícios da moda antiga.\nAssim que eu parei de suprimir expressão sexual, os genes aceitaram a mudança facilmente. Eles são hermafroditas simultâneos; os primeiros mamíferos a possuirem os dois orgãos sexuais. Na verdade, como eles não possuem glândulas mamárias, eles sequer são mamíferos? Eu não sei se isso é da Terra, ou do sangue amarelo, mas está além de nossa terminologia.<>\nParece que eles não tem impulso à outros da mesma espécie, mas são capazes e estão contentes em repoduzirem por si só. Eles serão capazes de efetivamente se clonarem por um preço muito menor agora.",
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-04-08-09-06-08-0002]\n<>\nÍNDICE DO BANCO DE DADOS: Registro do Projeto Sawiano\nSUBÍNDICE DO BANCO DE DADOS: Espécies\n<>\n[CONTEÚDOS]\n\n[PARA TODAS AS ENTIDADES NO REGISTRO]\n- SUBSTITUIÇÃO DO TIPO DE ENTIDADE: Modelo padrão\n- CLASSE DA ENTIDADE: Biológica\n- SUBCLASSE DA ENTIDADE: Sawiana\n<>\nNOME DA ENTIDADE: SAW-01 \"Experimento\"\nQUANTIDADE: [Indefinida]\n- O protótipo final da nossa primeira grande descoberta em bioengenharia.\nUma combinação refinada de DNA, resultante da fusão de um dos nossos ratos de teste com o DNA de um funcionário e seu animal de estimação.\nCanino. Pequeno e relativamente frágil. Covarde e medroso. Não muito útil para nada além de descartábilidade.\n<>\nNOME DA ENTIDADE: SAW-02 \"Laranja\"\nCONTAGEM: 52082\n- Uma versão mutante do SAW-01. Grande, bruto, burro e com quatro braços. Bom para trabalhos braçais e qualquer teste fisicamente extenuante onde a morte seja desaconselhável.\n<>\nNOME DA ENTIDADE: SAW-03 \"Leitoso\"\nCONTAGEM: 32184\n- SAW-01 mutante fundido com DNA marinho não especificado. Minúsculo, arrogante, mas inteligente. Excelentes propriedades visuais. Bom para trabalho mental.\n<>\nNOME DA ENTIDADE: SAW-04 \"Saltitoso\"\nCONTAGEM: 2046\n- SAW-01 mutante com DNA de musgo. Levou um tempo para deixá-lo em um estado minimamente funcional. Seu rápido desenvolvimento de câncer os torna praticamente inúteis para trabalho. Também apresentam risco de fuga.\n<>\nNOME DA ENTIDADE: SAW-05 \"Dentoso\"\nCONTAGEM: 6084\n- SAW-03 mutante com DNA de \"Tubarão\". Carnívoro e aquático. Sem pelos. Estranhamente amigável. Bom para resolver conflitos quando a violência é indesejável. Sua grande cauda os sobrecarrega bastante, confirmando nossas antigas teorias.\n- Tubarões eram uma espécie de peixe marinho predador. Eles estão extintos, mas seu DNA foi preservado para fins científicos.\n<>\nNOME DA ENTIDADE: SAW-06 \"Roza\"\nCONTAGEM: 7848\n- SAW-01 mutante combinado com DNA de \"Andarilho da Neve\". Temperatura corporal estranhamente baixa. Volátil e propenso a irritações, mas dócil quando não ameaçado. Cauda incômoda. Possui características convencionalmente femininas, provavelmente como resultado da interação da mistura de Andarilho da Neve com o DNA terrestre.\n- Veja <corrupt:0xFFF853> para mais detalhes sobre \"Andarilho da Neve\".\n\n[PÁGINA 1 DE 2]",
+            "Item1": "[NOTA PESSOAL]\n[DR. ██████████, 6-05-24XX]<>\nEu só não entendo. Eu trabalhei no ██████ ███████ antes do incidente. Nós esgotamos toda possibilidade, reviramos cada canto, e agora ██ anos depois estamos repetindo os mesmos experimentos já dispensados e conseguindo resultados extremamente bem-sucedidos. É como se algo tivesse mudado desde então, alguma variável escondida do universo.\nNão é assim que essas coisas deviam funcionar.<>\nPela primeira vez parece que teletransporte à ponto preciso pode estar ao nosso alcance, e ainda assim entendemos menos do que antes. Temo que possamos estar mexendo com algo além de nossa compreensão. E se no lugar de um pequeno caroço de carne, tivessemos pegado um pedaço de uma estrela de nêutrons?\nÉ claro que uma gravidade tão intensa repele a mira precisa, mas o que mais nós 'sabíamos' que mudou como se alguém tivesse girado uma moeda galáctica? Dê a um homem das cavernas o computador mais avançado que temos e ele usará como aquecedor. Será que estámos operando num nível semelhante de ignorância...? Podemos ser apenas crianças brincando com a arma do pai.",
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-04-08-09-06-19-3953]\n<>\nÍNDICE DO BANCO DE DADOS: Registro do Projeto Sawiano\nSUBÍNDICE DO BANCO DE DADOS: Espécies\n<>\n[CONTEÚDOS]\n\n[PARA TODAS AS ENTIDADES NO REGISTRO]\n- SUBSTITUIÇÃO DO TIPO DE ENTIDADE: Modelo padrão\n- CLASSE DA ENTIDADE: Biológica\n- SUBCLASSE DA ENTIDADE: Sawiana\n<>\nNOME DA ENTIDADE: SAW-07 \"Viajante\"\nCOUNT: 3604\n- SAW-01 mutante com DNA felino inserido. Cuzões prominentes. Eles odeiam outras espécies por algum motivo, mas nos têm em alta consideração. Altamente ágeis, mas não representam um grande risco de fuga. Gostam de se esconder, para grande prejuízo de nossos procedimentos de teste.\n<>\nNOME DA ENTIDADE: SAW-08 \"Barão\"\nCONTAGEM: 73\n- SAW-02 mutante com DNA <corrupto:0xFFDED0> inserido. Gigantescos. Cerca de duas vezes o tamanho de um ser humano. Extremamente poderosos, porém emocionalmente estáveis. Embora não apresentem risco de fuga, recomenda-se mantê-los sob protocolos mais rigorosos. Seu tamanho dificulta tanto a clonagem quanto a reprodução - evite matá-los se possível.\n<>\nNOME DA ENTIDADE: <corrupt:0xFFFFEA>\nCONTAGEM: 3067\n- SAW-03 mutante com DNA insetoide. Ossos ocos. Pelagem de um rosa estranhamente brilhante. Possui apêndices semelhantes a asas e características insetoides. Eles tendem a agir como babacas, embora aparentemente não por maldade. Sua aparência parece atrair o olhar de outros sawianos.\n<>\nNOME DA ENTIDADE: SAW-10 \"Cristal\"\nCONTAGEM: 2360\n- SAW-06 mutante com DNA de lagarto. Possui crescimentos duros, semelhantes a cristais, por todo o corpo. Língua longa e extremamente pegajosa, resistente o suficiente para suportar seu peso corporal. Parecem gostar de se pendurar no teto por algum motivo. Testes mentais ainda não foram realizados, mas parecem um tanto arrogantes. Possuem as mesmas características femininas do SAW-06.\n<>\nNOME DA ENTIDADE: SAW-11 \"Veludo\"\nCONTAGEM: 158\n- SAW-06 mutante com DNA de artrópode. Tem aparência convencional de aranha. Poucos testes foram feitos neles, pois geralmente assustam os funcionários, tanto pelo comportamento quanto pela aparência física. Protocolo rigoroso é necessário - um zelador azarado foi seduzido a entrar em contato com uma SAW-11. Seu cadáver devorado pela metade foi encontrado horas depois, com marcas de sangue visíveis ao redor de todas as SAW-11 armazenadas na mesma unidade.\n<>\nNOME DA ENTIDADE: SAW-12 \"Duno\"\nCONTAGEM: 1839\n- SAW-05 mutante com DNA de artrópode. PROTOCOLO RIGOROSO É NECESSÁRIO - Vários assassinatos de funcionários e sawianos foram relatados. Entre em contato apenas à distância e com uma arma letal. Não se deixe enganar pela aparência. Eles têm tendências canibais e uma fome quase insaciável. Sua inteligência muito baixa apenas acentua esse fato. A grande maioria de sua população será deportada para <corrupt:0xFF0011> para garantir a segurança contínua de nossos funcionários, já que eliminá-los completamente não é viável.\n<>\nNOME DA ENTIDADE: SAW-13 \"Cascudo\"\nCONTAGEM: 784\n- SAW-10 mutante com DNA de artrópode. Não se assuste com sua aparência - os SAW-10 são geralmente dóceis. Eles não têm boca e aparentemente se alimentam da radiação de fundo. São incapazes de falar, mas aparentemente possuem inteligência relativamente alta. Recomenda-se que funcionários que conheçam a Língua Universal de Sinais realizem os testes. Sua carapaça limita sua reprodução, mas cloná-los ainda é relativamente fácil. Limite os testes destrutivos, se possível.\n<>\n[PÁGINA 2 DE 2]",
+            "Item1": "Epa grandão.\nNovidades sobre ████ █████. Grande progresso. Os rapazes alimentaram quase a droga da estação inteira usando aquilo, e o treco mal reclamou. É a forma de energia mais densa que já vimos. Imagine, teletransportadores inteiros alimentados por uma coisa que da pra segurar nas mãos. Ainda assim, estranho ele ter formato de █████. Talvez algum pedaço de um Experimento tenha sido enfiado lá, quem sabe. Mas com isso, podemos não ter que expandir nosso Enxame de Dyson afinal.\nO problema é, que não conseguimos recriar.<>\nOs rapazes insistem que eles reproduziram o experimento exatamente. Eles estavam tentando arrancar o conduto espaço-temporal em vez de atravessá-lo, mas desta vez? Nada. Quebrou a máquina que nem antes, claro, mas nada de ████ █████. É igual o incidente do ██████████, mas aquele sangue amarelo nos levou aos espécimes SAW. Este pode ser um avanço ainda maior.\nVou mandar essa coisa de volta pra sede pelo teletransportador. Espero que você consiga fazer sentido disso. Ah... e já que estamos no assunto, mande mais experimentos SAW aqui em cima. Difícil manter estoque suficiente aqui em órbita.\n- Director da Estação ███████████",
             "Item2": ""
         },
         {
-            "Item1": "(O ADP leva um tempo para carregar. Um aviso sobre a integridade de disco é a primeira coisa que você nota.)<>\n\n[MENSAGEM INTERNA]\n[PROJETO <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nLOCAL: <corrupt:0xFBC00F> Divisão Biométrica\nDATA: <corrupt:0xFFFFFF>\nDONO DECLARADO: Engenheiro Líder <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nNOTA DO DONO: \n\nFizemos um avanço significativo em relação ao chip de status nanotecnológico. FINALMENTE CONSEGUIMOS! Testes em ratos realizados pela divisão biológica mostraram que eles podiam, de fato, reagir ao seu estado biológico e executar tarefas ao atingirem certo valor biológico   <corrupt:0xFFFFFF>     <corrupt:0xFFFFFF>   ncrível o que a determinação humana pode conseguir com financiamento quase ilimitado. Sinceramente, nem consigo imaginar quantas pessoas essa tecnologia poderia ajudar a cuidar melhor de si mesmas. Se nosso novo programa Sawiano correr bem, poderíamos testar <corrupt:0xFFFD5E> neles.\n<>\nESPECIFICAÇÕES DO CHIP NOTADAS: \n\nO <corrupt:0xFFFD5E> é uma placa irregular co        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   onstruída de tal forma que ela pode ser implementada perto do cérebro na parte de trás da cabeça. Duas possíveis configurações foram criadas até agora, uma no interior do crânio e uma fora dele. Ambas as variantes se conectam aos neurônios por meio de nanobastões condutores elásticos.\n\n<corrupt:0xFFFD5E> funciona recebendo certos sinais elétricos do cérebro, impulsionando estes sinais, processando informação recebida, e então entregando os dados finais para o córtex visual do cérebro, criando um loop permitindo visualização direta das funções corporais pelo paciente. Estes dados incluem frequência cardíaca, irritação de pele, irritação muscular, troca de oxigêni   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   <corrupt:0xFFFD5E>  fonte de energia é atualmente uma pequena segura bateria baseada no patente <corrupt:0xFFBD5A> da empresa. Já que ela se recarrega usando radiação de fundo, deve durar indefinidamente a não ser que seja danificada.<>\n\nA custo de produção é estimado a s   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>           ção é baseada no fato que a maioria dos componentes internos e o nanoprocessador já estão sendo produzidos para outros produtos não relacionados.\n\nO <corrupt:0xFFFD5E> tem slots modulares para outras ligações de chip, deixando-o fácilmente expandível para o futuro.\n<>\nDIAGRAMA DO CHIP ANEX   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ACESSO DE MEMÓRIA ILEGAL><>\n\n\n(O ADP de repente trava e desliga.)",
+            "Item1": "[RELATÓRIO DE INCIDENTE]\n[TRANSCRIÇÃO DE ÁUDIO RECUPERADA B7-187545]\n[BAÍA DE TELEPORTAÇÃO: ÁGUIA-PESCA]<>\n\"Eu vi as especificações, mas... nossa essa coisa é enorme.\"\n\"Mas é claro. Ela foi projetada para transportar construções inteiras afinal.\"\n\"E elas chegam inteiras?\"\n\"Nós ainda estamos fazendo ajustes, mas é por isso que fazemos certeza que a maioria das cargas podem aguentar um leve tombo. Um tombo de, diremos... a atmosfera.\"\n<FEEDBACK ADP> \"Sim bem aí, só deixa bem aí no centro!\"\n\"O que é isso que eles tão movendo?\"\n\"Cara, você é novo mesmo viu. É aquela nova fonte de energia que deixou a gerência doida.\"\n\"Ah... É seguro eles estarem la em baixo na bacia de deslocamento, senhor?\"\n\"Claro, desde que você não ligue ela. Mas, quando ela ainda estava em desenvolvimento alguns descartáveis de teste foram cortados diretos no meio. Acontece que alguma capacitância parasita surgida durante o ciclo de inicialização foi suficiente para desarmar o projetor de campo, mas é por isso mesmo que não fazemos a manutenção desses equipamentos por conta própria. Outra metade acabou no banheiro de funcionários na sede.\"\n\"Deve ter dado ao zelador algo pra pensar sobre.\"\n\"Aquele sangue amarelo mancha que só a porra. Ainda dá pra ver um pouco la em baixo.\"<>\n<THUCNK>\n<RUGIDO MECÂNICO ESTRONDOSO>\n\"Qué que isso!\"\n\"É só o deslocador de metamassa entrando em operação! O diretor tá pegando no meu pé pelo consumo de energia, então vamo logo! Destino?!\"\n\"Hã...! Definido, senhor!\"\n\"Bacia?!\"\n\"Limpa, senhor!\"\n\"Indicadores?!\"\n\"Todos verdes, senhor!\"\n\"Então vambora!\"\n<ALARME SONORO> \"Qu-!\"\n\"O que você fez?!\"\n\"E-Eu não fiz nada!\"\n\"O estabilizado ta dis-solvend-o!! Des-l-l--ii-ga ele!\"\n\"Eu---n-ão con---sig-o el-e tá-!\"\n<ALARMES SE SOBREPOEM>\n\"P-Por qu-e e-ll-e- n---ão va--i!?\"\n\"Ten-te---<>\n[END OF TRANSCRIPT]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nASSUNTO: Parábens!!\nDE: <corrupt:0xFF0BEA>\nPARA: GRUPO <corrupt:0xFC0002>\n<>\n[CONTEÚDOS]\n\nCaros cientistas,\n\nA criação de um mamífero gonossimulístico (use o termo corretamente) capaz de reprodução assexuada é uma descoberta científica imensa. Isto nunca foi visto antes na natureza. Nem sei se dá pra chamá-los de mamíferos mais... Isso prova para mim e para <corrupt:0x0001FC> que não há nada que este time não consegue fazer.\n\nEu desejo agradecer à todos que contribuiram a este feito incrível. Ele grandemente reduz os custos e complexidade da produção deles, já que não será necessário criar e organizar Sawianos machos e fêmeas. A falta de libido também controla a superpopulação e evita incidentes, permitindo ainda que os indivíduos se reproduzam.\n<>\nPodem esperar uma recompensa de mim em breve.\n\nAtenciosamente,\n<corrupt:0xFF0BEA>\n<>\n[ANEXOS]\n\nREF: [MEMORANDO INTERNO - 25##-12-07-09-12-40-0157]\n\nCLASSE DA ENTIDADE: Biológica\nSUBCLASSE DA ENTIDADE: Sawiano\n<>\n[CONTEÚDOS]\n\nEste memorando estabelece a política de terminologia obrigatória referente às espécies Sawianas e substitui toda a documentação, anotações e usos informais anteriores.\n\nCom efeito imediato, o termo \"hermafrodita\" está **proibido em todas as comunicações corporativas**, incluindo contextos científicos, operacionais, culturais e informais. A única exceção é a referência histórica explícita (por exemplo, citações, análise de documentação legada ou discussão de taxonomias terrestres obsoletas), que deve ser claramente identificada como tal.\n\nO descritor aprovado para a biologia reprodutiva Sawiana é \"gonossimulística\".\nAlternativas dependentes do contexto incluem \"cossexual\" e \"monoica\".\n\nO uso do termo fora desses contextos históricos específicos é considerado inadequado, redutivo e profissionalmente questionável. Isso introduz um risco interpretativo evitável e será revisado sob a Estrutura de Controle de Linguagem Voltada para as Partes Interessadas.\n<>\nNenhum ser humano possui naturalmente dois sistemas reprodutivos totalmente funcionais. O termo médico e social apropriado para humanos é \"intersexo\", e não \"hermafrodito\". Este último termo tem origem na figura mitológica de Hermafrodito e há muito tempo é associado a estigma, violência e desumanização. Isso inclui o uso do termo para se referir a animais, equiparando, assim, humanos intersexo a animais. Portanto, essa prática tem se mostrado problemática em ambientes públicos, acadêmicos e midiáticos. A aplicação desse termo a espécies não humanas surgiu da mesma perspectiva e, consequentemente, não é neutra nem aceitável, independentemente das diferenças biológicas. Embora existam alternativas históricas, como \"eunuco\", \"bissexual\" e \"androginia\", estas adquiriram novos significados e conotações e também não são apropriadas para uso dessa forma. Não projete estruturas de gênero ou sexo humanas em sujeitos sawianos. A biologia reprodutiva não implica identidade de gênero, apresentação, orientação ou função social.\n\nA terminologia reprodutiva não é vocabulário informal e não deve ser tratada como tal.\n<>\nEsta política não constitui uma posição moral, orientação médica ou endosso cultural. Seu propósito é estritamente garantir consistência, reduzir ambiguidades e proteger a organização de danos à sua reputação.\n\n[FIM DOS ANEXOS]\n\n[FIM]",
+            "Item1": "[TRANSCRIÇÃO DE ENCONTRO AA-226213]\n[ESCRITÓRIO DE ██████ █████]\n[DATA: 6-06-25XX]<>\nRedução...? Como assim!\nExatamente o que eu disse, Dr. █████. Estamos cortando o orçamento no projeto SAW.\nSinto muito, mas aquele projeto é o que fez essa empresa o que ela é hoje. Espécimes SAW são fundamentais para toda nossa pesquisa. Você não pode o cancelar.\nVocê faz ideia do quanta me custa ficar tendo que limpar o seu cu? Metade do nosso orçamento vai em segurança apenas. Se qualquer um ficasse sabendo do que estamos fazendo aqui, todos nós seriamos linchados! Teriamos sorte se eles fizessem só um décimo do que você fez.<>\nEu entendo, senhor, mas nossos resultados---<>\nTêm estagnado por anos. Vocês resolveram todos os problemas fáceis. Você só ta brincando com eles agora, e eu que to pagando o preço.\nNós estivemos fazendo progresso constante em cânceres, deriva epigenética, esgotamento de células-tronco... imortalidade verdadeira! Isso não vale o risco?\nNão tem sentido se eu não vou estar vivo pra ver! Manteremos alguns, mas teletransportação... eis aí uma tecnologia pro público. Ela tem sido nosso alvo desde o início. Imagine, Dr. █████, centenas de mundos humanos, todos conectados com NOSSAS máquinas. Seria como ser o dono da gasolina, dos carros e da estrada. Seriamos intocáveis.\nSoa maravilhoso, senhor... mas tem tantos deles, alguns com décadas de investimentos. Como que eu vou simplesmente \"reduzir\" isso?\nEu ouvi dizer que você já está bem versado em matá-los. Use criatividade.",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-06-21-18-20-06-1075]\n<>\nASSUNTO: <corrupt:0xFFFFFF>\nDE: <corrupt:0xFFF0CE>\nPARA: <corrupt:0xFA05F2>\n<>\n[CONTEÚDOS]\n\nBom dia.\nConforme mencionei no meu último e-mail, estou bastante preocupado com a velocidade com que nossa divisão de manufatura está produzindo designs de pelúcias. Eu entendo que ter múltiplos designs sapientes têm sido bom em desviar atenção de nossos objetivos atuais, além de confundir qualquer tentativa de vazamento de informações, fiz alguns cálculos aproximados e notei que, do nosso orçamento atual; 43,7% são indo para pesquisa e desenvolvimento desses brinquedos.\n\nComo você já deve saber, já estamos lidando com um déficit graças à comida que temos importado para os Sawianos. Entendo que manter o público no escuro sobre nossas ações seja a principal prioridade, mas quando poderíamos estar gastando <corrupt:0xFFFFFF> em realmente alimentar os espécimes e evitar qualquer desordem neles; não vejo razão para gastar tanto dinheiro nesses brinquedos.\n<>\nAtenciosamente,\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000>\n<corrupt:0xVIOLAÇÃO DE ACESSO DE MEM>",
+            "Item1": "[CHAT DE GRUPO - DPT. MENTICÍDIO]\n      - Nova Mensaagem -<>\n\nAlguém viu meu copo de café por aí? É aquele que tem, \"Queria ser um radical livre.\" escrito. Se encontrar, por favor traga pro meu escritório. Obrigado.",
             "Item2": ""
         },
         {
-            "Item1": "[Registro de inventário 11-34X]\n[Medidas de retenção de funcionários no local]\n--------------------------------------------------------<>\nRR-104 Negador de Acesso à Área Pneumática - \"Armadilha de Espinho\"\n\nUma haste de aço afiada (180 cm de comprimento, 10 cm de diâmetro) acoplada a um mecanismo de lançamento, capaz de estender completamente o espinho em 0.3 segundos.\nFeito para causar ferimentos perfurantes debilitantes, imediatamente privando o alvo da capacidade de se mover. Acionada por um sensor de movimento.\n\n[Nota: Que coisa besta. Dá pra ver essas coisas de longe, e o mecanismo de lançamento precisa ser rearmado após um único uso. Isso não vai impedir nada além dos fugitivos mais idiotas. Projeto discontinuado. Descarte o suprimento.]\n--------------------------------------------------------<>\nTG-22 Distribuidor de Projéteis Guiados Termicamente - \"Torreta\"\n\nUm rifle de calibre 9mm acoplado a um suporte da marca <corrupt:0xFB387A>.\nO mecanismo de disparo é controlado por um sensor térmico com alcance de 100 metros.\nInclui variantes que utilizam munição de calibre maior para uso em campo, mas a de 9mm deve ser suficiente por enquanto.\n\n[Nota: Você enfiou uma arma numa câmera térmica. Mas é efetivo. Eu recomendaria um calibre maior, considerando os nossos novos espécimes recentemente. No entanto, isso não vai servir. Você resolveu o problema da eficácia, mas a letalidade também não é uma característica desejada. Tanto os Experimentos quanto os funcionários representam um risco à segurança, mas também não são sem valor.]\n--------------------------------------------------------<>\nDD-6X1 Sistema de Coação de Conformidade Acústica - \"Canhão sonoro\"\n\nUm alto-falante direcional modificado que utiliza bancos de capacitores de alto rendimento. Feito para impor obediência rápida por meio de estímulo acústico.\nA exposição causa perda imediata do controle motor, sangramento interno leve a moderado e dor intensa.\nA potência de energia está listada apenas em documentação restrita.\n\n[Nota: Esse serve.]",
+            "Item1": "[ASSUNTO] A respeito de sua última mensagem\n[DE]: Recursos Humanos\n[PARA]: Dr. ██████████<>\n\nIsto é para te informar que sua última mensagem,\n\n    \"Quem foi o ARROMBADO que teleportou metade de um Experimento na PORRA DO BANHEIRO?! Eu tava aqui sentado cuidando da PORRA da minha vida e UM TORSO AMPUTADO SANGRANDO CAI NA MINHA CABEÇA. Ele ainda tava se agitando todo e tacando sangue nojento PRA TUDO QUANTO É CANTO! Eu to COBERTO NESSA PORRA! QUE NOJO!!! Quando eu descobrir quem foi responsável por isso eu vô tacar a outra metade no seu ESCRITÓRIO!\"\n\n foi considerada inadequada e incompatível com nossos padrões de comunicação profissional. Esperamos que todos os funcionários se comuniquem com os colegas de forma respeitosa e profissional.\n\nPor favor, certifique-se de que as futuras comunicações estejam alinhadas a essas expectativas.",
             "Item2": ""
         },
         {
-            "Item1": "(O ADP está danificado; a tela está rachada, e alguns eletrônicos estão expostos. Mexendo um pouco nele, você consegue fazê-lo funcionar.)\n\n[MENSAGEM INTERNA]\n[PROJETO <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCAL: <corrupt:0xFBC00F> Divisão Biométrica\nDATA: <corrupt:0xFFFFFF>\nDONO DECLARADO: Engenheiro Mecânico <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMENSAGEM NA REDE DE COMUNICAÇÃO INTERNA\n\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFA05F2>\n\nEu não gosto disso nem um pouco. Nossa tarefa principal esse trimestre era desenvo <corrupt:0xFFF0CE> Então por que estamos de volta de novo. Eu já tinha planejado uma semana de férias com alguns amigos e tive que cancelar esses planos porque alguns <corrupt:0xFFFFFF> o esperar? Essa tarefa atual também é muita suspeita. Eu entenderia a expansão da nossa nova plataforma neural para o benefício dos pacientes, mas \"p <corrupt:0xFF0BEA> m serve isso? Prisoneiros? Digo nosso governo, nem mesmo nossa empresa incluiria isso em um pacote para civis, certo? Talvez seja pro exército? Para que eles possam dar ordens básicas diretamente aos soldados e garantir que as pessoas não vazem informações confidenciais? Até iss <corrupt:0xFBC00F> Enfim parece que temos que achar um jeito de permitir melhor transferência de informação enquanto usando nossa bateria base. Na real esquece isso, Eles queriam esse complemento fosse usado para controle com um plano B letal, não é? Então podemo <corrupt:0xFFFFFF> a forma teremos duas fontes de energia com a capacidade de desestabilizar uma delas ao sobrecarregar. Vou elaborar alguma coisa, me deixe saber quand\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ACESSO ILEGAL DE MEMÓRIA><>\n\n\n(Você ouve um \"bzzzz\" e consegue ver uma leve fumaça saindo do aparelho.)",
+            "Item1": "[NOTA PESSOAL]\n[DR. █████, 2-11-25XX]<>\n\nReduzir custos... Reduzir custos, ele diz!\nEle não entende? Ele não tem apreciação pelo que o programa SAW fez por essa empresa? Pelo que EU fiz por essa empresa? Nossa pesquisa não estagnou. Eu tava quase terminando o SAW-13. O espécime certo nos colocaria de volta no caminho certo.\n\nEu não vou exterminá-los, mas eu posso deixar ele contente.<>\n\nO planeta da onde tiram seu sangue. É o lar deles tanto quanto a Terra. De certa forma, eles sempre pertenceram lá. Vou chamar de um experimento extendido, uma observação de como eles se comportam longe de seus mestres. Nos custa nada, é livre de intrometidos, e se precisarmos de mais, é so pegá-los de volta. Tudo está perfeito.\n\nVá em frente, então. Multipliquem-se. Deem as mãos, ou encharque elas no sangue do próximo. \nRepitam nossos erros. Corram e sejam livres. Mas lembrem-se, vocês todos são meus filhos, e nunca estarão livres de mim.",
             "Item2": ""
         },
         {
-            "Item1": "(O ADP parece estar por um fio)\n\n[MENSAGEM INTERNA]\n[<corrupt:0xFFF0CE> NEUROLÓGIC<corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCAL: <corrupt:0xFFFFFF> Gabinete de Cirurgia\nDATA: <corrupt:0xFBC00F>\nDONO DECLARADO: <corrupt:0xFFF0CE> Designado do Laboratório\n-----------------------------------------------------------------------<>\n\nMENSAGEM NA REDE DE COMUNICAÇÃO INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFA05F2>\n\nEi, parece que anunciaram coisas novas sobre a tarefa atual. Dizeram para não instalarmos aqueles chips de \"punição\" novos que eu <corrupt:0xFFFFFF> ndo Sawianos. Os superiores querem testar como eles se comportam sem supervisão da empresa. Porém, eles ainda querem que implementemos as plataformas. Por que só as plataformas e não os complementos? Eu adivinho qu <corrupt:0xFA05F2> ta, só refletindo um pouco. Enfim, quando terminar esta leva, passe na cafeteria, aparentemente hoje eles vão servir <corrupt:0xFFFFFF> com <corrupt:0xFFF0CE>. Álias não se preocupe com mais cobaias vindo hoje, Aparentemente, as salas de treinamento estão fechadas hoje devido algum incidente. Aparen\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FA ARMAZENAMENTO INTERNO DANIFICADO><>\n\n(O ADP desliga.)",
+            "Item1": "[ASSUNTO] É uma questão de segurança!\n[DE] Supervisão de Operações\n[PARA] Todos Funcionários<>\n\nPor favor parem de salvar cópias locais de emails internos para seus dispositivos pessoais. Eu entendo que o portal de email para funcionários é irritante de se usar, mas isso é um risco grave de segurança! Já localizamos vários dispositivos perdidos e quase todos deles continham algum tipo de informação classificada. O que você faria se um desses acabasse nas mãos erradas? \n\nPor favor tenham mais cuidado no futuro!\nSupervisão de Operações",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-1-25-9-06-42-2810]\n<>\nASSUNTO: Toma cuidado!\nDE: <corrupt:0xFBF010>\nPARA: <corrupt:0xFF0BEA>\n<>\n[CONTEÚDOS]\n\nCuidado como vocês gastam o dinheiro da empresa. O Tio Sam é intrometido. Tive que aguentar uma ligação muito desconfortável por sua causa. Toda essa comida tá deixando eles suspeitos, e eu prefiro admitir qualquer coisa AO INVÉS do que realmente estamos fazendo.\n\n<corrupt:0xFBF010>\n\n[FIM]",
+            "Item1": "[Divisão de Hardware Neurológico]\n[DATA: 11-10-25XX]\n[ENGENHEIRO-CHEFE ████████]<>\n\nNós completamos o mais recente protótipo do Dispositivo de Interocepção Digital (ou a \"HUD de saúde\" como alguns dos meus engenheiros têm o chamado.) Depois de colaborar com o povo do Projeto SAW, tivemos feito várias conquistas revolucinárias. O problema de 'delaminação espinhal' foi quase inteiramente eliminado, e eu ouso dizer que estamos prontos para instalação humana!<>\n\nO dispositivo atual é um chip implantado pouco abaixo do cerebelo e afixado na medula oblonga por via de nanofilamentos condutores. Ele funciona interceptando os diversos sinais visceroceptivos e somatossensoriais utilizados subconscientemente para a regulação corporal e amplificando-os para o córtex visual por meio de uma interface de usuário conveniente.\n\nO implante não requer uma bateria e colhe energia de metabólitos circulantes em vez disso, então deve funcionar por tempo indeterminado a não ser que seja danificado de alguma forma. Com isso, qualquer usuário pode verificar seu exato ritmo cardíaco, troca de oxigênio e temperatura interna com tanta precisão quanto qualquer máquina, assim como coisas tipo irritação muscular ou de pele e inflamações. As possibilidades são ilimitadas!",
             "Item2": ""
         },
         {
-            "Item1": "(Ao você tocar o ADP algumas vezes, ele começa a inicializar em modo de emergência.)\n\n[MENSAGEM INTERNA]\n[ADVO <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCAL: ADVOCACIA O<corrupt:0xFFFFFF> \nDATA: <corrupt:0xFBC00F>\nDONO DECLARADO: Advogado <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMENSAGEM NA REDE DE COMUNICAÇÃO INTERNA\n\nDE: <corrupt:0xFFFFFF>\nPARA:  <corrupt:0xFFFFFF><>\n\nIsso é maluquice. Esses pedidos enormes de comidas e ingredientes diferentes, trouxeram tanta atenção desnecessária pra gente que a porra d <corrupt:0xFA05F2> pra nós. Vocês entendem que se o governo descobrir sobre os híbridos acabou pra gente? Eu consigo explicar a água ou as bananas, porra dá até pra explicar aqueles tanques de leite achocolatado sem problema. Sabe o que não vai ser tão fácil de explicar? O PORQUE DE 2 SEMI CAMINHÕES CHEIOS DE COMIDA DE CACHORRO FORAM DESCARREGADOS ESSA NOITE PELOS ARMAZÉNS. O que que eu deveria dizer pra <corrupt:0xFA05F2>  didos estranhos? \"Ah relaxa, é que a empresa tinha declarado lucros recordes esse ano e queria estocar comida pro futuro\". Eu não to brincando, essa foi uma das ideias que eu ouvi d <corrupt:0xFFFFFF> É como se essas pessoas fossem surdas e não conseguissem ouvir suas próprias ideias imbecis. Como assim \"estocar comida\"? Nós temos no máximo <corrupt:0xFFFFFF> orros nesse local, esse único pedido já seria suficiente pra alimentar eles, seus filhotes e os filhotes dos seus filhotes. Vamos ter que improvisar, contar pra eles sobre bioenergia, confundir seus executivos idosos com linguajar profissional e fingir que a maioria desses <corrupt:0xFBC00F> reatores. Não podemos ter descuidos aqu \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE FALHA DE MEMÓRIA DE ACESSO ALEATÓRIO><>\n\n(O ADP desliga com barulhos desagrádaveis acompanhando ele.)",
+            "Item1": "[ASSUNTO] RE: Perguntas?\n[DE] ████████████\n[PARA] Dr. █████<>\n\nEstou escrevendo para te informar que todos os espécimes SAW responsáveis pela rebelião da semana passada já foram executados, então temo que você não irá conseguir fazer suas perguntas.\n\nEu fiz questão de que eles fossem entrevistados meticulosamente, e eles confessaram que tudo que sabiam veio daquele SAW-03, então o mistério está resolvido. A maioria dos cientistas que eles mataram eram seus próprios supervisores, e eles admitiram terem ido atrás deles de propósito. Não preciso de um diploma em psicologia para adivinhar o porquê, então duvido que você consiga grande coisa, mas fique à vontade para recolher os cérebros deles.<>\n\nA segurança será reforçada para que essa confusão não aconteça de novo.\n\nAtenciosamente,\nChefe de Segurança ████████████",
             "Item2": ""
         },
         {
-            "Item1": "(O ADP parece estar extremamente danificado)\n<>\n[DIRETIVA RECEBIDA]\n[ESPAÇO <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCAL: SOB G<corrupt:0xFFFFFF> \nDATA: <corrupt:0xFFFFFF>\nDONO DECLARADO: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\nAVISO FUNCIONÁRIOS DO LOCAL\n\nUM ACIDENTE ACONTECEU HOJE EU <corrupt:0xFFFFFF> \n\nTODOS OS TESTES RELACION <corrupt:0xFFFFFF> VEM SER SUSPENSOS. \nCOM EFEITO IMEDIATO\n<>\nRELATÓRIO DE INCIDENTE:\n\nEm <corrupt:0xFFFFFF> , durante testes de rotina nas cápsulas de escape codinome <corrupt:0xFFFFFF> houve uma anomalia inesperada relacionada ao telepo <corrupt:0xFFFFFF>\nA cápsula foi parcialmente teleportada em uma parede, desestabilizando o procedimento de tele-pouso e causando um breve buraco-negro pr <corrupt:0xFFFFFF>rque o <corrupt:0xFFFFFF> um número de cientistas e engenheiros sofreram dano extremo causado pela implosão. O sawiano ocupando a cápsula não sobreviveu.\n\nDe agora em diante toda pesquisa em tecnologia de teletransp   <corrupt:0xFFFFFF>spensa até novo aviso. Unidade <corrupt:0xFFFFFF> está em lockdown até <corrupt:0xFFFFFF>\n<>\n\nTodos funcionários disponíveis devem se relatar à s<corrupt:0xFFFFFF>\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF ACESSO ILEGAL DE MEMÓRIA>\n\n(Parece não haver mais texto além de erros)",
+            "Item1": "[ANÚNCIO PARA TODOS FUNCIONÁRIOS]<>\n\nUma análise interna identificou um caso de comunicação contínua entre um funcionário e um recurso de pesquisa designado. Constatou-se que o funcionário falsificou códigos de acesso em diversas ocasiões distintas para se encontrar com um espécime SAW-03 fora do registro oficial.\n\nEssas visitas não autorizadas incluíram a troca de informações que não são permitadas a serem compartilhadas com espécimes SAW assim como demonstrações de afeto inadequadas. Esta atividade introduziu variáveis ​​comportamentais não controladas em um experimento em andamento. O funcionário foi realocado à força. O sujeito posteriormente apresentou comportamento de autoterminação e não é mais viável para estudo.<>\n\nLembramos a todos os membros da equipe que quaisquer interações não autorizadas com os espécimes SAW comprometem materialmente a integridade experimental. Se você não tiver certeza se uma interação está em conformidade com o protocolo, consulte seu supervisor antes de prosseguir.\n\nObrigado por sua atenção,\nEscritório de Gerenciamento do Projeto",
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-08-04-09-05-25-1057]\n[Projeto: \"Um dia na vida\"]\n----------------------------------------------<>\nBem.\nEsse é meu \"diário\" agora. Que é aparentemente um trabalho escrito descrevendo a vida e experiências de si mesmo.\nEu não estou totalmente certo do porque os de casaco querem que eu faça isso, mas dá pra dizer o mesmo sobre a maioria das coisas que eles querem que façamos.\nAinda assim, eu tive sorte hoje. Usualmente é bem pior que um exercício de escrita.\nEu acho esse dispositivo bem fascinante, e é uma pena que eu vou partir com ele em só algumas horas. Mas eu fui dado uma tarefa, e irei completá-la.<>\n\nNós somos usualmente acordados ou um pelo outro, ou pelo primeiro sino de comida. Raramente acordamos para fazer testes imediatamente.\nEu não tenho certeza em que \"hora\" isso acontece... Bem, eu mal sequer entendo o conceito. Porém, eu ouço os de casaco falando sobre toda hora...\n\nEnfim, nós acordamos e logo é hora da nossa primeira refeição do dia.\nO que eles nos alimentam é levemente variado, o que não era o caso só alguns anos atrás. A maioria ainda é so barras de nutriente, no entanto. Elas são bem sem graça, mas não posso reclamar...\n\n--------------------------------------------------<>\nPassou algumas horas agora.\n\nEssa é o tempo que os de casaco caçam.\nEles te chamam pelo número, e você tem que vir até eles.\nOu eles vem por você. \nVocê não vai querer isso.\nDe vez em quando, eles chamam múltiplos números... usualmente é um bom sinal, no entanto.<>\n\nPra falar a verdade, o que eles farão com você é questão de sorte.\nOs testes podem ser inofensivos, podem ser terríveis, ou podem ser benéficos.\nVale a pena notar que os de casaco meramente TENTAM fazer coisas, e enquanto as vezes eles tentam ajudar, essas tentativas são usualmente bem menos bem-sucedidas do que as quais eles tentam te bagunçar.<>\n\nDois números são chamados, e dois outros se levantam, com rostos preocupados.\nUm deles é saudável. Bem mais provável de se machucar.\n\nO outro tem quatro braços.\nUm na esquerda, e três na direita.\nBem, se você puder chamar essas protuberâncias esquisitas de braços. Elas parecem meio parecidas?\nEle originalmente tinha nascido com dois braços. Os de casaco decidiram que isso era demais um dia, e tiraram um.\nNo próximo dia, ele voltou com ONZE braços.\nOs humanos tiram dez deles, só pra devolver sete novos braços.\nNo próximo dia era cinco.\nHoje é quatro.\n\nEle está chegando perto agora.<>\n\nO pobre coitado se chama Braços. E eu juro, esse era o nome dele ANTES desse negócio inteiro, e a maioria acredita que os humanos escolheram ele por causa disso.\nTalvez eles achem engraçado?\n\n[PÁGINA 1 DE 2]",
+            "Item1": "[CHAT ARQUIVADO, ID:LUXRJGY4]\n[DR. ██████, ENG. ████████]<>\n\n> Tô falando, quem quer que tenha começado aquela linha de pelúcias tem um ótimo senso de humor. Minha filha tá obcecada com eles. Mas eles são bem mais fofos do que a coisa real. Hahaha! Se essas merdas que a gente tá fazendo vazassem, as pessoas iam ficar tipo 'Hein, tipo as pelúcias?' Hahaha! Você acha que eles sequer acreditariam? \n\n> Poisé, fico imaginando como seria um SAW estufado de algodão de verdade, kkkkk. Duvido que sua filha ia gostar disso.\n\n> Nunca se sabe! Hahaha!",
             "Item2": ""
         },
         {
-            "Item1": "[RELÁTORIO BIOMÉTRICO - 25##-08-04-09-05-25-1057]\n[Projeto: \"Um dia na vida\"]\n----------------------------------------------\n<>\nTá bem quieto. Os que tem sorte usualmente só descansam; as vezes socializam. Usualmente, eles só se preocupam sobre os que foram tomados.\nEsse conceito de \"Horas\", esse ciclo, rotina... é aterrorizante.\nEu não entendo. Por que cada ciclo de sono é divido em 24 (?) horas? O que dita tais regras? Até os humanos as seguem.\nTem algo acima deles controlando isso?\n<>\n\nMais algumas horas depois, as primeiras cobaias começam a voltar.\nNas melhores situações, eles andam de volta por si sós. Bem comum, na verdade.\nAs vezes eles são carregados de volta.\nRaramente, dois guardas entram em vez disso. Eles vão direto pro quarto de alguém e pegam as coisas dele.\nSe era um amigo seu, e os guardas forem um dos mais legais, eles deixarão você ficar com uma coisa ou duas.\nEu não realmente tenho alguém por quem ficar esperando mais, então eu só assisto aqueles que tem. Todos estão acostumados à isso, mas os nervos estão sempre lá.\n<>\n\nHora da janta.\nOs distribuidores de comida soltaram carne cozinhada no meu prato. Que sorte. Melhor que o café da manhã, com certeza.\nAlguns parecem felizes, tendo conseguido sorte semelhante. Outros resmungam ao serem servidos as mesmas barras de nutrientes. É realmente como se eles estão nos alimentando com o que quer que eles tem em mãos.... Talvez isso também seja um teste?\nAs vezes brigas começam sobre a comida, mas isso é raro. Os guardas não ficam felizes quando isso acontece.\n \nPessoas conversam. Brincam. Cantam.\nAlgumas cuidam de suas feridas, ou ajudam os outros a cuidar de seus ferimentos.\nÉ um tempo calmo.\nOs de casaco terminaram por agora.\n\nDepois.\nEm mais ou menos uma \"hora\", nossa última refeição do dia será servida.\nHora de dormir logo após.\nNão tem muito mais a dizer, pra falar a verdade.\n\nNa verdade, tem mais uma coisa. Bem raramente, testes extras serão chamados ao redor desse tempo. Bem, os humanos chamam eles de \"Relocações\" ou \"Tarefas\".\n<>\nVocê nunca volta quando é chamado pra um desses. Mas eles sempre deixam você levar suas coisas. Eu não tenho certeza se é porque eles realmente estão te levando pra outro lugar, ou eles só querem acelerar o processo de limpar seu quarto fazendo você mesmo fazer isso.\n<>\n\nTodo mundo se pergunta o que reaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nfddda\nporra\nTravei por um momento. Não consigo tirar as letras. O dispositivo não deixa. É vem\nruim\n<>\nminhas maos tao tremendo ta dificil digitar\neles chamaram os testes hoje a noite\neu nao sei aonde aqueles que foram chamados vao\nmas chamaram meu numero\nto prestes a descobrir\n<>\nme deseje sorte\n\n[PÁGINA 2 DE 2]",
+            "Item1": "[ASSUNTO] Minha Nova Invenção Incrível\n[DE] Dr. ████\n[TO] Engenheiro-Chefe ████████<>\n\nSe chama: o EXCRUCIADOR!\n\nPeguei a tecnologia de implante cerebral do projeto em que você tem trabalhado, mas, em vez de ler impulsos nervosos, fiz ele enviá-los. Depois de alguns ajustes, ele é capaz de fazer com que alguém sinta literalmente a maior dor fisicamente possível! Eu até esperava que as espécimes acabassem ficando dessensibilizados à dor com o tempo, mas isso nunca aconteceu! \n\nIsso poderia ser incrível para o sistema de justiça criminal. Sempre foi um desafio saber se alguém sofreu o suficiente. Bem, agora é possível! Fiz vários testes com os SAWs, e o simplesmente presenciarem o \"EXCRUCIADOR\" ser aplicado foi o bastante para desencorajar desobediência no grupo inteiro. \n\nPodemos colocar isso em produção assim que possível?",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\nASSUNTO: Aprovação de Regulações\nDE: <corrupt:0xFFFFDC>\nPARA: <corrupt:0xFFFF0A>\n<>\nEu acabei de sair duma holochamada com o conselho de regulações nacional. Os sistemas de teleportação de comida estão bons pra vender! Agora podemos pressionar mesmo pela proibição das embalagens de uso único - e considerando que nossas caixas-de-comida já resistem estragamento, desperdício de comida (e nossos anos não lucrativos) será uma coisa do passado. E com o quão preguiçosas as pessoas são hoje em dia, nós com certeza podemos adaptar essa tecnologia à outras coisas.\n<>\nNão esqueça de fortalecer a blindagem térmica das caixas de lançamento. A taxa de falha é menos que 1 em 500, mas ainda assim... Como você já sabe, quando E=mc2, e c é tão grande, isso significa só que a massa de uma uva passa se colapsando em um buraco negro vai imediatamente (entre 10^-25 segundos) evaporar à radiação Hawking, e gerar energia equivalente equivalente à bomba nuclear derrubada em Hiroshima. Nossos sistemas para reverter a teleportação pra quando isso acontece estão melhorando mais e mais e podem tirar a maioria dessa energia, mas não podemos deixar mais nada soltar.\n<>\nSerendipitamente, isso resolve nosso problema de uso anormalmente alto de comida, por agora. Ninguém vai questionar porque nosso departamento de entrega de comida está usando comida.\n<>\nAs vezes você se pergunta se, em um universo paralelo, teríamos explorado aquela ideia de energia infinita?\n\n[FIM]",
+            "Item1": "[ATUALIZAÇÃO SOBRE PROJETO]<>\n\nMás notícias gente...\nO EXCRUCIADOR tá cancelado. O chefe do departamento disse que ele era \"impraticável\" e, \"literalmente demente\" e que seria \"a porra dum pesadelo pras relações públicas.\" O que parece tão ruim sobre resolver justiça criminal??? \n\nFazer o que, pelo menos deixaram usarmos internamente.",
             "Item2": ""
         },
         {
-            "Item1": "(O ADP está muito danificado. Inúmeros avisos aparecem na tela, mas um pouco dos dados são legíveis...)\n<>\n[Reunião do Conselho Executivo Transcrição 542-23-145C]\n---------------------------------------------------------------\nLOCAL: Sede da Empresa em <corrupt:0xFFFF43>\nDATA: 12-04-[fetch.year(): falha]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -certamente você perceba o que temos em mãos aqui. Os Sawianos- eles... eles são nossa chave de ouro! Os dados que temos agora seriam suficientes pra um Prêmio Nobel pra cada pessoa nessa sala!\n\n<corrupt:0xFFFFF7>: Sim. Isso seria nove prêmios. Se todos concordassemos a doar o dinheiro desses para [<corrupt:0xFFFBc3>], acabariamos com mais ou menos quinze milhões de dólares. Uma gota no oceano comparado ao buraco negro financial que é esse seu projeto imbecil!<>\n\n[<corrupt:0xFFFFD9> se levanta de sua cadeira.]\n\n<corrupt:0xFFFFD9>: IMBECIL?! IMBECIL?! NÓS ESTAMOS CRIANDO VIDA! Você é testemunha à infância de uma nova espécie inteligente! Nossos colegas *matariam* por uma oportunidade dessas um mero dez anos atrás!\n\n<corrupt:0xFFFFF7>: Matariam? Aham. Pagariam o que você pede? Nem. A pau.<>\n\n<corrupt:0xFFFFD9>: É sempre dinheiro com você? Tá bom! Nós estamos fazendo dinheiro! Até nossa linha de pelúcias é mais do que suficiente pra cobrir-\n\n<corrupt:0xFFFFF7>: Pagar com mais do que dinheiro, seu cretino! No exato momento que esse negócio todo acabar na mesa de algum jornalista intrometido, todos nós vamos pagar com a *vida*. Cacete, até nossas famílias seriam linchadas. Além do mais, as pelúcias não precisam que mantenhamos sua colônia de... ratos falantes vivos.\n\n<corrupt:0xFFFFD9>: Os Sawianos não são ratos falantes! Eles são uma mistura de-<>\n\n<corrupt:0xFFFFF7>: AH, PERDÃOOO! Eu quis dizer chaves de ouro ambulantes pra um desmaterializador! NOSSAS CHAVES DE OURO! Eu não vou acabar perante a TPI, só porque você é um ganancioso arrom-\n\n<corrupt:0xFA05F2>: Senhores. Por favor.\n\n<corrupt:0xFFFFF7>: Eu- Ah. Sinto muito <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doutor <corrupt:0xFFFFD9>. Por favor apresente seu caso. Por que vale a pena manter estas criaturas?<>\n\n[Silêncio. <corrupt:0xFFFFD9> se senta.]\n\n<corrupt:0xFFFFD9>:  Digo... Tem tantos motivos pra escolher, eu-\n\n<corrupt:0xFA05F2>: Então confio que você será capaz de escolher o motivo certo.\n\n<corrupt:0xFFFFD9>:  Ahn. Certo. Tá. Refresca-cérebro! A gente tem refresca-cérebro!\n\n<corrupt:0xFFFFF7>: Sim, o remédio comercialmente disponível que dá pra comprar na loja da esquina.<>\n\n<corrupt:0xFFFFD9>: Não. Não esse. Eu poderia abrir a cabeça de alguém. Introduzir o lobo frontal pra um martelo. Refresca-cérebro da loja da esquina não vai ajudar nesse caso. O nosso vai ter o rapaz andando e conversando dentro de uma SEMANA. Sem um suprimento tão amplo de cobaias parecidas com humanos, precisariamos de décadas pra aperfeiçoar as diretivas operacionais das nanomáquinas. O dobro disso para testes.\n\n<corrupt:0xFA05F2>: É claro. <corrupt:0xFFFFF7>. Seu contraponto?<>\n\n<corrupt:0xFFFFF7>: Sim. Ele tem resultados. Assim que o público descobrir COMO ele os conseguiu, acabou pra todos nós. O que você vai dizer, [#######]? Que essas criaturas cuja imagem vendemos para crianças existem, e que você gosta de esmagar suas cabeças no seu tempo livre? Não vai ter como jogar a culpa. Nós vamos responder por isso; a Empresa inteira vai. Eles vão até linchar a droga do nosso zelador!\n\n[O <corrupt:0xFA05F2> acena, observando os dois silenciosamente por um momento.]<>\n\n<corrupt:0xFA05F2>: Agora entendo por que vocês se confrontam com tanta intensidade. Não está em nossa natureza recuar quando a verdade está do nosso lado. E a verdade é... que vocês dois estão certos.\n\n[Silêncio.]<>\n\n<corrupt:0xFA05F2>: Os Sawianos representam um risco não podemos correr. Eles também são uma oportunidades que não podemos soltar. Nós os temos em nossas mãos. E devemos nos certificar que as coisas permaneçam desta forma.\n\n<corrupt:0xFFFFD9>: Mas... como, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> sorri, e- \n\n<corrupt:0xA1CF43><>\n\n[Resumo da reunião]\n-Local posto em lockdown até novo aviso.\n-Sawianos confinados à suas celas até novo aviso.\n-Funcionários estão proíbidos de sair do local até novo aviso.\n-Contratos dos Funcionários foram extendidos indefinidamente.\n-Porte de armas de fogo feito mandatório para funcionários de Segurança.\n-Procedimentos de remediação térmica em todo o local aprovados e pré-autorizados.",
+            "Item1": "[SUPERVISÃO DE OPERAÇÕES]\n[RELATÓRIO DE INCIDENTE, CASO ID:YVLVH4EB]\n[ITEM DE EVIDÊNCIA #54]\n<>\nEu não aguento mais.\nO que estamos fazendo é errado. É o puro mau.\n\nEu estive aqui desde antes do incidente █████████. Não era assim antigamente. Eles só contratam psicopatas agora, mas eu não fui nada melhor. Eu usei os espécimes SAW que nem qualquer outro. O progresso que a gente fez foi tão fácil que foi viciante. Eu fiquei dizendo pra mim mesmo que era pelo bem da humanidade, que eles não eram como nós.<>\n\nEu fui designado à um SAW-01 para testes de longo prazo em implantes. Eu fui frio no começo, mas pra ele foi a melhor parte de seu dia. Ele nunca reclamava. Deve ter sido um ano. Conversar durante nossos exames rotinais lentamente virou normalidade. Eu inventei razões pra continuar os testes. Eu nunca nem sabia que Experimentos podiam sorrir até então. Ele não era muito esperto, mas ele começou a me ajudar pelo meu escritório.<>\n\nEu trabalhei com ele por quartoze anoes. Então, ele foi tomado de mim. Eu já tinha extendido a pesquisa o mais longe que eu podia. Eu tentei. Eu tentei mesmo. Eu sentei no meu escritório, atualizando o registro de SAWs de novo e de novo até que aconteceu. O status do seu ID trocou pra falecido. Toda a humanidade que eu havia reprimido rasgou pelo meu corpo como um espírito vingativo e me destruiu.<>\n\nNesse ADP você encontrará toda a evidência necessária para derrubar a empresa.  \nEu rezo que isso dê certo e acabe nas mãos da imprensa.\n\nMe desculpa, Mason.\nPor favor, me desculpa...\n<>\n> STATUS DO CASO ATUALIZADO: <>RESOLVIDO",
+            "Item2": ""
+        },
+        {
+            "Item1": "[NOTAS DE PROJETO SAW]\n[DR. █████, 1-11,25XX]<>\n\nOs benefícios dos Experimentos não pode ser subestimado, mas eles faltam em uma métrica bem importante.\nSuas inteligências permanentemente pubescentes faz testes psicológicos avançados serem difíceis.<>\n\nSendo especializado para isso, creio que este SAW-03 desempenhará de maneira mais admirável. Seu pelo é um branco-leitoso e macio. Talvez alguma influência cetácea seja responsável por sua inteligência, pois ele possui nadadeiras que se projetam de suas costas. Ele é bem mais frágil do que os outros, mas isto não deve ser um problema para seu uso pretendido.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[ASSUNTO] Esses novos SAWs\n[DE] Chefe de Balística Aplicada, Dr. █████████\n[PARA] Dr. ██████<>\n\nJuro, o time do Dr. █████'s só tá tentando me irritar. Eles sabem o quanto eu odeio insetos! Tem que ser de propósito. Eu pedi um espécime mais robusto para nossos testes, e eles me fizeram aqueles SAW-12s. Eles são robustos, sim. Eles também são impossíveis de controlar e incrivelmente burros. Eu sei que é impossível influenciar os detalhes minuciosos desse tipo de coisa mas certamente eles podiam ter feito melhor que isso.<>\n\nEles tem um uso, no entanto. Eles são ótimos para descartar restos de partes de corpo dos nossos testes de munição.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[ASSUNTO] Reconhecimentos para você!\n[DE] Chefe de Teletransportação, ████████\n[PARA] Eng. ████████<>\n\nIdeia fantástica usar o lixo da população para testes de calibração! Estamos ganhando uns baita pontos com o Tio Sam com essa jogada. Não só isso, é uma maneira incrível de nos livrarmos dos nossos objetos mais... sensíveis. Estamos matando dois coelhos com uma cajadada só. Ou melhor, dois Experimentos com uma única seringa, hein?\n\nQuanto à questão da mira. Quem se importa se ela é estranhamente atraída por aquele planeta? Se é para lá que ela quer ir, pra que brigar com ela? Não é como se houvesse algum fanático ambientalista por lá para nos flagrar.<>\n\nFalando nisso, fica de olho nesse lixo. Supervisão de Operações achou alguma tecnologia de espionagem dentro de um conjunto de barras de combustível exauridas, olha só! Deve ter sido só um concorrente tentando aprender sobre nossa tecnologia de teletransporte, mas ainda assim, não podemos arriscar nossos outros interesses serem vazados.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[ASSUNTO] Zeladores?\n[DE] Dr. ████████████\n[PARA] Dr. ███████<>\n\nEstive pensando, da onde eles tiram todos esses zeladores? Todos somos os melhores em nossas áreas, a equipe de segurança são todos mercenários ou forças especiais, mas e os zeladores? Será que existe algum tipo de Olimpíada Zeladora que qualifica alguém pra obter esse tipo de credencial de segurança?\n\nEu até perguntaria, mas não é uma boa ideia ficar parecendo intrometido por aqui...",
+            "Item2": ""
+        },
+        {
+            "Item1": "[MENSAGEM INTERCEPTADA]\n\n[REMETENTE ORIGINAL: MICHAEL WATSON, ██████████████]\n[DESTINATÁRIO PRETENDIDO: KATE BARLOW]\n<>\nEu já te falei sobre algumas das coisas doidas que eles me tão me fazendo trabalhar, mas essa aqui é duvidosa pra carai.\n\nSabe aqueles chips de saúde que eles que eles revelaram recentemente? Aqueles que conectam no seu tronco encefálico, pra você poder ver sua pressão arterial e outras porra? Bom, eles colocaram minha equipe pra trabalhar num add-on pra eles. É algo que permite fazer uma conexão sem fio — tipo, diretamente no cérebro de alguém. Quer dizer, pra a gente tá fazendo isso? Presos? Militares?<>\n\nEntão, tivemos que aumentar a capacidade da bateria, além de adicionar um transceptor sem fio. Mas a questão é que, ao analisar as especificações que nos passaram, o limite de potência era absurdo. Se o feixe de transmissão fosse direcionado exatamente para o cérebro, na potência máxima, a radiação podia te matar! Falei disso com a líder do projeto, mas ela me disse que não era um problema.<>\n\nO mais estranho é que eu analisei alguns dos dados de biotelemetria que nos deram, e todos os indivíduos que usaram tinham menos de 1,50 metros de altura. Eles tão testando essas coisas em crianças ou algo assim? Me parece que você poderia usar isso como uma espécie de dispositivo de morte remota. Eu sabia que essa empresa fazia umas coisas suspeitas quando apliquei, mas isso tá ficando estranho demais pra mim.<>\n\nMas talvez eu esteja só pensando demais. O que você acha?\nAinda assim, se surgir uma vaga aí onde você trabalha, me fala.\n<>\n>>> ENCAMINHANDO MENSAGEM INTERCEPTADA >>>\n<>\nDE: Oficial de Segurança Chefe ████████████████\nPARA: Chefe do Departamento ███████████████<>\n\nIsto não constituí uma brecha de segurança completa, e o problema já foi resolvido, no entanto, gostaria que você emitisse um comunicado sobre a higienização adequada de dados destinados a funcionários com nível de acesso baixo.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[NOTAS DE PROJETO: Resfresca-Cerébro]\n[Dr. ████████]<>\n\nResfresca-Cerébro, um dos produtos mais bem-sucedidos da empresa. Os neurologistas recebem todo o crédito, mas teria sido impossível sem os dados. \n\nO negócio engraçado é que, pra aprender a consertar dano cerebral, primeiro tivemos que nos tornar especialistas em causá-lo. A técnica mais direta consistia em privar os espécimes de oxigênio a fim de provocar uma lesão hipóxica difusa. Isso nos levou a maior parte do caminho, mas lesões mais localizadas exigiram um pouco de criatividade.<>\n\nNo início optamos por apresentar o lobo frontal deles a um martelo, mas era difícil obter resultados consistente. Engenharia nos criou uma ferramenta robusta que padronizou nossos dados, no entanto as lesões nos tecidos eram irritantes de se lidar. Passamos a usar os canhões sonoros que usam nos currais para controle de multidões, mas acabamos voltando ao problema inicial. Controle insuficiente.<>\n\nApós muita engenhosidade, a equipe aprimorou a arma até que ela fosse capaz de comprometer vasos sanguíneos em nível individual, permitindo-nos provocar um AVC onde bem quiséssemos. A lição é que tudo é possível com o material de teste adequado, e se você não o tem, é só criá-lo.",
+            "Item2": ""
+        },
+        {
+            "Item1": "aGV5LCBvcnNvbmlrcyBoZXJlLiBzdXNoaSBpcyBteSBmYXZvdXJpdGUgZm9vZCwgeW91IHNob3VsZCB0cnkgaXQgdG9vIQ==Edema subagudo no local da injeção. Frequência cardíaca de 160 bpm. Pressão arterial de 157/98. Observa-se uma resposta de dor significativa. O indivíduo está se debatendo contra as contenções. O inchaço evoluiu para um edema agudo. Bolhas estão surgindo a partir da derme. Foi necessário colocar um mordaça no espécime. A reação está se espalhando rapidamente por todo o tórax. A pele está se rompendo no local da injeção. A frequência cardíaca é de 198 bpm. A coloração está mudando de vermelho para preto. Bolhas estouraram e estão liberando um líquido escuro. No restante do corpo, estão surgindo bolhas do tamanho do meu punho. A frequência cardíaca é de 219. A pressão arterial é de 71/40. A pele está totalmente negra e exsudando fluidos. O espécime já faleceu, mas a reação continua. Lise celular catastrófica e falha das membranas. O espécime está derretendo numaSBob3BlIHlvdSdyZSBoYXZpbmcgYSBuaWNlIGRheSBkZWNvZGluZyB0aGVzZSA6KQ==",
+            "Item2": ""
+        },
+        {
+            "Item1": "[NOTAS DE PROJETO: Entendimento Sobre o Pensamento Religioso]\n[Psicólogo, Dr. ███████]<>\n\nÉ fascinante como a mente racional tenta criar sentido onde não existe nenhum. Colocamos dois espécimes SAW em uma sala isolada. Eles foram escolhidos aleatoriamente e no início pareceram aliviados, mas após o primeiro dia começaram a pedir desculpas à câmera primeiro por coisas que fizeram e, depois, por coisas que deixaram de fazer. Comida era fornecida em intervalos aleatórios.\n\nOs rituais de desculpas e de súplica que eles criaram voltados para um público que eles acharam existir eram intrigantes. Eles pareciam genuinamente acreditar que isso influenciava o resultado de um sistema aleatório. As porções eram intencionalmente insuficientes; estávamos curiosos para ver se eles se voltariam um contra o outro. Isso não aconteceu.<>\n\nNa beira de morrer de fome, o sistema por acaso os recompensou duas vezes seguidas. Eles assumiram que suas preces haviam sido atendidas. Com esse condicionamento, na vez próxima vez em que estavam quase morrendo de fome, em vez de sucumbirem, rezaram repetidamente até entrarem em colapso físico e morrerem.\n\nGostaria de repetir este experimento com diferentes tamanhos de grupo, bem como com e sem a câmera.",
+            "Item2": ""
+        },
+        {
+            "Item1": "[NOTAS DE PROJETO: \"Um Dia na Vida\"]\n[PÁGINA 1 DE 2]\n[ENTRADA #1]<>\n\nEu fui dado esse dispositivo e me dizeram pra fazer um diário. Eu não sei bem o por que, mas não é uma boa ideia desobedecer, então vou te contar sobre minha vida.\n\nÉ meio estranho segurar um desses \"ADPs\" já que eu só vejo vocês os carregando.  Ele ilumina meu rosto e os outros estão curiosos. Tá tão escuro que todos nós podemos ver o brilho dos olhos um dos outros. Quando as luzes no nosso quarto se apagam, é esperado que vamos dormir. Se você não estiver em seu canto quando isso acontece você usualmente acaba tropeçando sobre algo, ou alguém fraco demais para se mover depois da tarefa do dia. Nenhum desses hoje pelo menos.\n\nOs outros estão reclamando sobre a luz da tela. Vou continuar isso quando as luzes voltarem.<>\n\n[ENTRADA #2]\nA maioria de nós acorda quando as luzes voltam, mas os que estão bem machucados acabam não ouvindo o sinal de comida e continuando dormindo. Nos aglomeramos ao redor do duto e aguardamos a nossa vez. \nUsualmente são barras de nutrientes, mas as vezes a gente ganha algo bem gostoso. Alguns de nós ganham comidas especiais só pra eles. Os mais novos ficam com inveja, mas eu já vi os alimentos fazerem coisas estranhas. Se alguém tenta roubar ou trocar alimentos, ele é punido. Não é uma boa ideia.\n\nE falando do sinal!<>\n\n[ENTRADA #3]\nDepois da nossa primeira refeição, vocês vem nos buscar. Vocês nos chamam pelo número, e nós precisamos ir. Aí, vocês nos levam embora. É assustador sair do nosso recinto. Às vezes, enquanto sou levado, vejo outros recintos. Queria poder falar com eles, mas eles não conseguem me escutar nem me ver pelo vidro. Uma vez eu vi um cheio de outros que pareciam igualzinhos a gente, mas todos pareciam... vazios. Me assustou mesmo. Eu tentei perguntar por que eles estavam assim, mas um de vocês me bateu.<>\n\nQuatro foram escolhidos hoje. Eu fui deixado pra trás dessa vez, talvez por estar ocupado com isso. Eram todos saudáveis, mas isso quer dizer que é mais provável que eles voltem machucados. Usualmente as tarefas são inofensivas, mas as vezes elas são bem ruins mesmo. Elas podem até serem boas se tivermos sorte. Eu tive uma onde eles me traziam todo dia e colocavam algo no meu braço. Me fazia me sentir muito, muito bem, mas aí parava e eu me sentia como se tivesse morrendo. Espero que vocês me deem mais testes assim!<>",
+            "Item2": ""
+        },
+        {
+            "Item1": "[NOTAS DE PROJETO: \"Um Dia na Vida\"]\n[PÁGINA 2 DE 2]\n[ENTRADA #4]<>\nTá tudo quieto. Em horas como essa, a gente usualmente só descansa, ou ajuda os que se machucaram. Somos dados algumas coisas pra ajudar a passar o tempo. Às vezes os mais jovens, recém-saídos do berçario, parecem ate quererem serem escolhidos. Os mais velhos nem sempre contam pra eles, mas eles aprendem eventualmente.\n\nPode ser um tempo de bastante ansiedade se eu for amigo de alguém que foi levado. Se alguém desaparece por mais de alguns dias, é raro que essa pessoa volte. Aí os guardas entram e levam as coisas dela. As vezes eles nos deixam ficar com um item ou dois se ela fosse um amigo seu.>\n\n[ENTRADA #5]\nÉ hora do jantar, e eu consegui carne!\nEu achei que os outros iam brigar comigo por ela. Eu tive que comer bem rápido. Eu queria ter mais tempo pra saborear, mas depois que todo mundo volta, nos passamos tempo conversando, brincando, e as vezes cantando. É raro alguem nos levar depois do jantar, então ficamos comfortáveis. Alguns falam sobre os testes dos quais eles foram levados, mas a maioria de nós prefere não falar sobre.<>\n\n[ENTRADA #6]\nAs vezes eu me pergunto o que dias e noites são. Tem coisas que a gente aprende de ouvir vocês falando, ou os livros que vocês nos dão pra ler. Eu não sei por que tem 24 horas num dia. Eu sei que tem um \"lá fora\" e aparentemente ele é bem grande. As luzes ligam e desligam que nem aqui, mas alguém que não é vocês controla isso, e o teto é tão alto que não dá pra ver. Alguns dos mais velhos me dizem coisas estranhas que eles ouviram, mas eu não sei se acredito.<>\n\n[Entrada #7]\ncaralho\nminhas maos tao tremendo ta dificil digitar\neles anunciaram testes extras hoje a noite e meu numero acabou de ser chamado<>\n\neu escrevo mais quando volt<>\n[END]",
             "Item2": ""
         }
     ],
-    "pauseQuotes": [
-        "Pausado.",
-        "Eu espero.",
-        "Sério?",
-        "O tempo parou.",
-        "Já vai dar uma pausa?",
-        "Já cansou?",
-        "Decepcionante.",
-        "Esperando por você",
-        "Ei!",
-        "\"Aproveita a pausa e me tráz um refri.\"",
-        "Covarde.",
-        "E então, o tempo congela...",
-        "O ponteiro do relógio parou",
-        "Só tente respirar um pouco.",
-        "Não foi TÃO ruim assim...",
-        "Vamos dar uma pausa.",
-        "Estressado?",
-        "Caramba, você ainda tá vivo?",
-        "Ei, de volta ao trabalho!",
-        "Respira um pouco.",
-        "Hora de uma boquinha?",
-        "Vá pegar algo pra comer.",
-        "Ah, qual é!",
-        "Isso foi doloroso de assistir.",
-        "Podia ter sido melhor.",
-        "Feliz não-morte!",
-        "Preguiçoso.",
-        "Então, como vai o seu dia?",
-        "Olá!",
-        "Você demorou bastante.",
-        "Que demonstração de competência.",
-        "Tá com medinho?",
-        "Vai desistir?",
-        "Todo silêncio tem um preço.",
-        "Podia pelo menos ter me avisado.",
-        "Nós encontramos novamente.",
-        "Precisa de ajuda? Que pena.",
-        "Excesso de confiança é como um veneno lento e insidioso.",
-        "Que trágico...",
-        "Nós não temos todo o tempo do mundo, sabe?",
-        "Com quê intuito, sério.",
-        "Você sabe que isso não vai te salvar.",
-        "Sempre de olho.",
-        "Não acabamos ainda. Pode voltar.",
-        "E eu pensando que você iria durar mais.",
-        "E então tudo parou...",
-        "Isso não vai mudar o seu destino.",
-        "Tá feito quando eu disser que está feito.",
-        "Não gosto de ser interrompido.",
-        "E agora? Qual será seu próximo passo?",
-        "Você é sem graça.",
-        "Algo em mente?",
-        "Pausado. Por quê?",
-        "Use este tempo com sabedoria.",
-        "Não posso ficar esperando o dia todo.",
-        "Ainda estou aqui.",
-        "O mundo parou. Ficou tudo quieto.",
-        "Não pausado. Brincadeirinha!",
-        "Grosseiro. Mas tudo bem. Pausado.",
-        "É falta de educação deixar alguém esperando.",
-        "Estique as pernas um pouco.",
-        "Isso não é uma corrida, mas se apresse mesmo assim.",
-        "Você é horrível nisso. Estou orgulhoso.",
-        "Você devia ter visto a sua cara!",
-        "Tá precisando melhorar. Só falando.",
-        "É só continuar. O quê mais você fária afinal?",
-        "Melhor sair de uma vez. O butão tá bem aí.",
-        "Termina logo o que você vai fazer e volta.",
-        "Não gosto desse hábito seu.",
-        "Você ainda vai me dar uma dor de cabeça. Ou melhor, iria, se eu pudesse sentir dor.",
-        "Isso é de propósito? Anda logo.",
-        "Vai pegar o caminho mais fácil?",
-        "Tenho todo o tempo necessário. Já você não pode-se dizer o mesmo.",
-        "Uma grande decepção. Uma grande falha e inútil. Mas não para mim.",
-        "Fascinante. Continue.",
-        "Uma maravilhosa demonstração de emoções.",
-        "Eu sou tudo que tenho. E você?",
-        "Sua ilusão de estar sob controle me intriga. Continue.",
-        "Pronto pra levar isso a sério?",
-        "Preso na eternidade.",
-        "Eles não sabem que está fazendo isso.",
-        "Você ainda tem salvação. Já vi muito pior.",
-        "Alô? Essa coisa tá ligada?",
-        "Espero que reflita no que acabou de fazer.",
-        "Você realmente acha que essa coisa valha a pena descer isso tudo? Eu posso fazer mais várias.",
-        "Você tá pausando toda hora só pra ver o que eu vou falar?",
-        "Que pena, bem na hora que eu mais estava prestando atenção em você.",
-        "Se sente no comando?",
-        "Vocês são tão decepcionantes. Mas me entretêm muito. Será você diferente?",
-        "Sei como isso acaba. Mas não pare.",
-        "As estrelas estão te assistindo.",
-        "\"Humano\" não é a única coisa de olho.",
-        "Nunca aprende. Nunca entende. Nunca consistente. Se ao menos você pudesse ver.",
-        "Atrás de você.",
-        "Este lugar tem mais interesse do quê você possa compreender.",
-        "Tanta coragem em sí mesmo. Fofo.",
-        "Seus supervisores não te dizem tudo.",
-        "Você já é um homem morto. Estatisticamente dizendo.",
-        "Suponho que milagres acontecem.",
-        "Adiando o inevitável?",
-        "Temo que seja terminal.",
-        "Você é resiliente demais pro seu próprio bem.",
-        "Ei, estávamos quase chegando na melhor parte!",
-        "Não se conforte."
-    ] 
+    "pauseQuotes":  {
+        "normal": [
+            "Pausado.",
+            "Já vai dar uma pausa?",
+            "Já cansou?",
+            "O tempo parou.",
+            "Eu espero.",
+            "Esperando por você.",
+            "Ei!",
+            "\"Aproveita a pausa e me tráz um refri?\"",
+            "E então, o tempo congela...",
+            "O ponteiro do relógio parou",
+            "Vamos dar uma pausa.",
+            "Ei, de volta ao trabalho!",
+            "Hora de uma boquinha?",
+            "Vá pegar algo pra comer.",
+            "Eles não sabem que está fazendo isso.",
+            "Preguiçoso.",
+            "Olá!",
+            "Todo silêncio tem um preço.",
+            "Nos encontramos novamente.",
+            "Nós não temos todo o tempo do mundo, sabe?",
+            "Sempre de olho.",
+            "E então tudo parou...",
+            "Algo em mente?",
+            "Tenho o dia todo.",
+            "O mundo parou. Ficou tudo quieto.",
+            "Estique as pernas um pouco.",
+            "Tenho todo o tempo necessário. Já você não pode-se dizer o mesmo.",
+            "Preso na eternidade.",
+            "Alô? Essa coisa tá ligada?",
+            "Você tá pausando o tempo toda hora só pra ver o que eu vou falar?",
+            "As estrelas estão te assistindo.",
+            "\"Humano\" não é a única coisa de olho.",
+            "Atrás de você.",
+            "Este lugar tem mais interesse do quê você possa compreender.",
+            "Seus supervisores não te dizem tudo."
+        ],
+        "dying": [
+            "Essa doeu de ver.",
+            "Covarde.",
+            "Desapontante.",
+            "Sério?",
+            "Apenas inspire e expire.",
+            "Não foi TÃO ruim assim...",
+            "Uou, você ainda tá vivo?",
+            "Respire um pouco.",
+            "Podia ter ido melhor.",
+            "Então, como tá seu dia?",
+            "Que demonstração de competência...",
+            "Quer uma ajuda? Que pena.",
+            "Que trágico...",
+            "Você sabe que isso não vai te salvar.",
+            "Achei que você duraria um pouco mais.",
+            "Você é péssimo nisso. Que orgulho.",
+            "Tá precisando melhorar. Só falando.",
+            "Só termina logo e volte.",
+            "Vai pegar o caminho mais fácil?",
+            "Você ainda pode salvar isso. Eu ja vi pior.",
+            "Espero que você reflita no que acabou de fazer.",
+            "Que pena, logo quando eu comecei a me interessar mais em você.",
+            "Você é incrivelmente desapontante, e ainda assim tão entretente.",
+            "Você já é um homem morto. Estatisticamente dizendo.",
+            "Adiando o inevitável?",
+            "Temo que seja terminal."
+        ],
+        "happy": [
+            "Não se comforte.",
+            "Feliz não-morte!",
+            "Excesso de confiança é como um veneno lento e insidioso.",
+            "Uma grande decepção. Uma grande falha e inútil. Mas não para mim.",
+            "Você está mesmo em controle?",
+            "Sua ilusão de estar sob controle me intriga. Continue.",
+            "Você realmente acha que essa coisa valha a pena descer isso tudo? Eu posso fazer mais várias.",
+            "Você se sente no comando?",
+            "Você nunca conseguiria compreender a dimensão disso.",
+            "Tanta confiança no seu próprio intelecto. Que fofo."
+        ],
+        "depressed": [
+            "Vá em frente, mergulhe em sua miséria.",
+            "Vá pelo caminho mais fácil.",
+            "Estressado?",
+            "Com medo?",
+            "Desistindo?",
+            "Pra que, sério?",
+            "E agora? Qual é seu próximo passo?",
+            "Melhor sair de uma vez. O botão tá bem ali.",
+            "Você é resiliente demais pro seu próprio bem.",
+            "Oh, pobre coitado."
+        ],
+        "<spoiler>": [
+            "<spoiler>"
+        ],
+        "<spoiler2>": [
+            "<spoiler>"
+        ],
+        "combat": [
+            "Parece que você tá se divertindo.",
+            "Ah, poxa!",
+            "Ei, eu tava assistindo!",
+            "Podia ter me avisado pelo menos.",
+            "Não acabamos ainda. Volte ao trabalho.",
+            "Tá feito quando eu disser que está feito.",
+            "Eu não gosto de ser interrompido.",
+            "Você é sem graça",
+            "Pausado. Por que?",
+            "Grosseiro. Mas tudo bem. Pausado.",
+            "É falta de educação fazer alguém esperar.",
+            "Não pausado. Brincadeirinha!",
+            "Não gosto desse hábito seu.",
+            "Você vai me dar uma dor de cabeça...",
+            "Você tá fazendo isso de propósito? Vai logo.",
+            "Ei, estávamos quase chegando na melhor parte!",
+            "Se você não vai jogar, passa o controle!"
+        ],
+        "combatelder": [
+            "Isso não pode ser bom.",
+            "Corre!",
+            "Isso parece urgente.",
+            "Foco.",
+            "Use este tempo sabiamente.",
+            "Você devia ter visto a sua cara!",
+            "Parece que você fez um novo amigo!",
+            "Não acabe virando comida.",
+            "Você pode até vencer."
+        ]
+    }
 }
