@@ -1816,7 +1816,7 @@
         "decayonlymoving": "у руху",
         "decayonlyhasitems": "змяшчае прадметы",
         "decaysin": "Сапсуецца праз <>",
-        "longtime": "вельмі долгі час",
+        "longtime": "вельмі доўгі час",
         "hours": " гадз.",
         "minutes": " хв.",
         "seconds": " сек.",
@@ -7006,5 +7006,3 @@
         ]
     }
 }
-
-
