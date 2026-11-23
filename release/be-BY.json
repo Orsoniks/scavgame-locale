@@ -1823,7 +1823,7 @@
         "containerencumberance": "Зніжэнне абцяжарання",
         "weight": "Вага",
         "carrying": "Нясе",
-        "itemusable": "Можна выкарыстоўвацца ў ",
+        "itemusable": "Можа выкарыстоўвацца ў ",
         "itemusablewound": "панэлі здароўя",
         "itemusablehand": "руцэ",
         "itemusableinventory": "інвентары",
@@ -7006,4 +7006,5 @@
         ]
     }
 }
+
 
